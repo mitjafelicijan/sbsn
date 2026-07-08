@@ -1,11 +1,32 @@
 [
   {
+    "title": "Linux Mint’s Cinnamon 6.8 Desktop Environment Will Fully Support Wayland",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366097",
+    "description": "Linux Mint project Clement Lefebvre revealed today in the monthly newsletter some of the new features and improvements coming to the next major version of the Cinnamon desktop environment, such as full Wayland support.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366097",
+    "date": "Jul 08, 2026 20:07",
+    "published_at": "2026-07-08T20:07:22Z",
+    "source": "LXer Linux News",
+    "source_url": "https://lxer.com/"
+  },
+  {
     "title": "Apple Says It Will Spend $30 Billion To Design US-Made Broadcom Chips",
     "link": "https://hardware.slashdot.org/story/26/07/08/1744225/apple-says-it-will-spend-30-billion-to-design-us-made-broadcom-chips?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
     "description": "Apple says it will spend $30 billion to design US-made Broadcom wireless connectivity chips, part of its broader push to diversify its supply chain and support domestic chip production. CNN reports: The agreement with Broadcom will lead to the production of 15 million chips in United States and allow Broadcom to invest $1.5 billion to expand and modernize its manufacturing facilities in Fort Collins, Colorado. It is part of Apple's commitment in August to invest $600 billion as part of its \"American Manufacturing Program\" which it said is dedicated to bringing even more of the company's supply chain and advanced manufacturing back to the US.\n\n\n\n\n\nRead more of this story at Slashdot.",
     "guid": "",
     "date": "Jul 08, 2026 20:00",
     "published_at": "2026-07-08T20:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "Slashdot",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Windows Drops Under 60% in Global Desktop OS Share",
+    "link": "https://tech.slashdot.org/story/26/07/08/1728229/windows-drops-under-60-in-global-desktop-os-share?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "StatCounter's June 2026 data shows Windows made up 56.55% of global desktop OS usage, dropping Microsoft's share below 60% for the first time in years. Linux, meanwhile, reached 4.39%, \"one of its strongest recent showings in the company's desktop OS statistics,\" reports Linuxiac. From the report: Apple's desktop platforms also remain a major part of the picture. StatCounter lists OS X at 11.89% and macOS at 4.48% for June 2026, meaning Apple's combined desktop presence remains comfortably ahead of Linux in the global chart. Chrome OS follows with 1.21%.\n \nOf course, StatCounter's numbers should be read for what they are: web usage statistics, not a direct count of installed operating systems. The company calculates its Global Stats from page views across websites using its tracking code, analyzing details such as browser, operating system, and screen resolution. In other words, the figures reflect measured web activity rather than the number of machines actually installed worldwide.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Jul 08, 2026 19:00",
+    "published_at": "2026-07-08T19:00:00Z",
     "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
     "source": "Slashdot",
     "source_url": "https://slashdot.org/"
@@ -411,16 +432,6 @@
     "source_url": "https://slashdot.org/"
   },
   {
-    "title": "Windows Drops Under 60% in Global Desktop OS Share for the First Time in Years",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366087",
-    "description": "StatCounter’s June 2026 report shows Linux at one of its strongest recent positions, while Windows falls to 56.55%.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366087",
-    "date": "Jul 07, 2026 18:34",
-    "published_at": "2026-07-07T18:34:10Z",
-    "source": "LXer Linux News",
-    "source_url": "https://lxer.com/"
-  },
-  {
     "title": "Major Banks In Talks To Exploit Debit Card Loophole",
     "link": "https://news.slashdot.org/story/26/07/07/1726247/major-banks-in-talks-to-exploit-debit-card-loophole?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
     "description": "JPMorgan, Bank of America, Wells Fargo, PNC, and other major banks have reportedly explored acquiring Fiserv's debit-card networks, STAR and Accel, in a move that could help them bypass federal caps on debit-card transaction fees. A law limits the fees big banks can charge merchants, but only if the transactions are routed through an outside network. There are no caps on these interchange fees over a bank-owned network, however. The Wall Street Journal reports: When Capital One Financial bought Discover Financial in a $50.6 billion deal, it got a network that cut out the need for a middleman in card transactions and allowed it to deal more directly with merchants. Now, big banks are looking on with envy because owning a network can mean exemption from a federal law that caps debit-card fees. Those fees collectively amount to billions of dollars each year across the industry, but banks have long complained the government-defined cap limits their ability to offer customers debit-card rewards and other services. Some have been exploring a small deal that could upend the rules, though they are worried about political backlash if they try.\n \nBig banks including JPMorgan Chase, Bank of America, Wells Fargo and PNC Financial Services Group have in recent months held preliminary and tentative discussions about a deal to acquire a network owned by the financial-technology company Fiserv, according to people familiar with the matter. There is no certainty a deal will happen. Several of the banks that looked at the Fiserv network have already decided it would be unlikely for them to move forward, some of the people said. Some have privately expressed concern that such a deal could prompt backlash from lawmakers, regulators and merchants, the people added.\n\n\n\n\n\nRead more of this story at Slashdot.",
@@ -709,16 +720,6 @@
     "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366069",
     "date": "Jul 06, 2026 23:29",
     "published_at": "2026-07-06T23:29:54Z",
-    "source": "LXer Linux News",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "postmarketOS Brings Plasma 6.7 and Rust-Based USB Tooling to Linux Phones",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366071",
-    "description": "postmarketOS users get Plasma 6.7, a new Rust-based usb-signaller tool, Duranium enhancements, and several packaging cleanups.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366071",
-    "date": "Jul 06, 2026 21:58",
-    "published_at": "2026-07-06T21:58:25Z",
     "source": "LXer Linux News",
     "source_url": "https://lxer.com/"
   },
