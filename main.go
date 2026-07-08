@@ -40,7 +40,6 @@ func main() {
 	dateString := time.Now().Format("2006-01-02")
 	jsonData, _ := json.MarshalIndent(items, "", "  ")
 
-	os.WriteFile("latest.json", jsonData, 0644)
 	os.WriteFile("public/latest.json", jsonData, 0644)
 	os.WriteFile("public/"+dateString+".json", jsonData, 0644)
 
