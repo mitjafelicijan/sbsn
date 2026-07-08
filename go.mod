@@ -1,4 +1,4 @@
-module tally
+module binnews
 
 go 1.26.4
 
