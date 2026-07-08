@@ -41,9 +41,10 @@ type ArchiveYear struct {
 }
 
 type PageData struct {
-	ViewTitle string
-	Items     []FeedItem
-	Calendar  CalendarData
-	Sources   []SourceInfo
-	Archives  []ArchiveYear
+	WindowTitle string
+	ViewTitle   string
+	Items       []FeedItem
+	Calendar    CalendarData
+	Sources     []SourceInfo
+	Archives    []ArchiveYear
 }

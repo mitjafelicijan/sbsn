@@ -14,7 +14,7 @@ func fetchFeeds(feedURLs []string) ([]FeedItem, map[string]SourceInfo) {
 	var allItems []FeedItem
 	sourceMap := make(map[string]SourceInfo)
 	var acceptedKeywords []map[string]bool
-	
+
 	var mutex sync.Mutex
 	var waitGroup sync.WaitGroup
 	feedParser := gofeed.NewParser()
@@ -28,7 +28,7 @@ func fetchFeeds(feedURLs []string) ([]FeedItem, map[string]SourceInfo) {
 		waitGroup.Add(1)
 		go func(url string) {
 			defer waitGroup.Done()
-			
+
 			feed, err := feedParser.ParseURL(url)
 			if err != nil {
 				log.Printf("Warning: error parsing %s: %v", url, err)

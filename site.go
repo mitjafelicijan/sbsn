@@ -16,7 +16,7 @@ func generateCalendarData(viewDate time.Time, highlightDay int, jsonFiles map[st
 
 	var weeks [][]CalendarDay
 	var currentWeek []CalendarDay
-	
+
 	startPadding := int(firstOfMonth.Weekday())
 	for i := 0; i < startPadding; i++ {
 		currentWeek = append(currentWeek, CalendarDay{})
@@ -25,24 +25,24 @@ func generateCalendarData(viewDate time.Time, highlightDay int, jsonFiles map[st
 	for dayNumber := 1; dayNumber <= lastOfMonth.Day(); dayNumber++ {
 		dayDate := time.Date(viewDate.Year(), viewDate.Month(), dayNumber, 0, 0, 0, 0, viewDate.Location())
 		dateKey := dayDate.Format("2006-01-02")
-		
+
 		link := ""
 		if jsonFiles[dateKey+".json"] {
 			link = dateKey + ".html"
 		}
-		
+
 		currentWeek = append(currentWeek, CalendarDay{
 			Day:     dayNumber,
 			Link:    link,
 			Current: dayNumber == highlightDay,
 		})
-		
+
 		if len(currentWeek) == 7 {
 			weeks = append(weeks, currentWeek)
 			currentWeek = []CalendarDay{}
 		}
 	}
-	
+
 	if len(currentWeek) > 0 {
 		for len(currentWeek) < 7 {
 			currentWeek = append(currentWeek, CalendarDay{})
@@ -58,7 +58,7 @@ func generateCalendarData(viewDate time.Time, highlightDay int, jsonFiles map[st
 
 func synchronizeSite(items []FeedItem, sourceMap map[string]SourceInfo) {
 	os.MkdirAll("public", 0755)
-	
+
 	// Collect global list of JSON archives
 	jsonFiles := make(map[string]bool)
 	entries, _ := os.ReadDir("public")
@@ -130,12 +130,14 @@ func synchronizeSite(items []FeedItem, sourceMap map[string]SourceInfo) {
 
 		htmlFile := strings.TrimSuffix(jsonFile, ".json") + ".html"
 		outputFile, _ := os.Create("public/" + htmlFile)
+		formattedDate := archiveDate.Format("January 02, 2006")
 		parsedTemplate.Execute(outputFile, PageData{
-			ViewTitle: archiveDate.Format("January 02, 2006"),
-			Items:     dayItems,
-			Calendar:  generateCalendarData(archiveDate, archiveDate.Day(), jsonFiles),
-			Sources:   sources,
-			Archives:  archiveYears,
+			WindowTitle: "/bin/news - " + formattedDate,
+			ViewTitle:   formattedDate,
+			Items:       dayItems,
+			Calendar:    generateCalendarData(archiveDate, archiveDate.Day(), jsonFiles),
+			Sources:     sources,
+			Archives:    archiveYears,
 		})
 		outputFile.Close()
 	}
@@ -144,11 +146,12 @@ func synchronizeSite(items []FeedItem, sourceMap map[string]SourceInfo) {
 	indexFile, _ := os.Create("public/index.html")
 	now := time.Now()
 	parsedTemplate.Execute(indexFile, PageData{
-		ViewTitle: "Latest Stories",
-		Items:     items,
-		Calendar:  generateCalendarData(now, now.Day(), jsonFiles),
-		Sources:   sources,
-		Archives:  archiveYears,
+		WindowTitle: "/bin/news",
+		ViewTitle:   "Latest Stories",
+		Items:       items,
+		Calendar:    generateCalendarData(now, now.Day(), jsonFiles),
+		Sources:     sources,
+		Archives:    archiveYears,
 	})
 	indexFile.Close()
 

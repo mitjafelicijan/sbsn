@@ -51,7 +51,7 @@ func main() {
 		for lemmaKey, entry := range entries {
 			lemma := strings.ToLower(strings.ReplaceAll(lemmaKey, "_", " "))
 			lemmas[lemma] = lemma
-			
+
 			// Collect forms
 			processForms := func(sense *Sense) {
 				if sense != nil {
@@ -102,7 +102,7 @@ func main() {
 
 	// Final mapping: word -> lemma -> canonical
 	finalMap := make(map[string]string)
-	
+
 	// Start with all lemmas we found
 	for word, lemma := range lemmas {
 		target := lemma
@@ -111,7 +111,7 @@ func main() {
 		}
 		finalMap[word] = target
 	}
-	
+
 	// Add synonyms that might not have been in entries (unlikely but safe)
 	for word, canonical := range synonyms {
 		if _, exists := finalMap[word]; !exists {
