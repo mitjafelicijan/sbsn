@@ -1,12 +1,23 @@
 [
   {
+    "title": "John Deere Agrees To 10-Year Right-To-Repair Deal In FTC Antitrust Lawsuit",
+    "link": "https://yro.slashdot.org/story/26/07/08/2049231/john-deere-agrees-to-10-year-right-to-repair-deal-in-ftc-antitrust-lawsuit?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "John Deere has agreed to a 10-year FTC-supervised right-to-repair settlement requiring it to provide farmers and independent repair shops with the same repair resources available to authorized dealers. The deal resolves antitrust claims from the FTC and five states alleging Deere monopolized equipment repair services, contributing to higher costs and delays for farmers. Wired reports: The full statement (PDF) lays out obligations for John Deere's repair services, requiring the company to give farmers and third-party repair shops access to the same equipment and repair resources it provides to official John Deere dealers. This includes software capabilities, such as reading and resetting codes and pairing with other software, which customers have long had limited access to, creating delays when diagnosing equipment problems. Delayed fixes can mean delayed harvests, which many farmers saw as a fundamental threat to their livelihoods.\n \nUnder the agreement, John Deere will be required to provide this level of access, equipment, and services for the next 10 years, monitored by the FTC. [...] John Deere has maintained that it already has robust repair resources for its customers, including service manuals and diagnostic equipment. In John Deere's press release, the company says the settlement is in line with what it has been doing all along, saying that \"the agreement reinforces Deere's continued innovation toward more flexible repair options, emphasizing increased access and transparency for customers. It formalizes Deere's ongoing commitment to expanding access to diagnostic and repair tools.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Jul 08, 2026 22:00",
+    "published_at": "2026-07-08T22:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
     "title": "LILYGO showcases new IoT devices with ESP32-C5 and Nordic nRF52840 MCUs",
     "link": "https://lxer.com/module/newswire/ext_link.php?rid=366103",
     "description": "LILYGO has listed two compact development boards for wireless IoT applications: the T-Display C5, a small ESP32-C5-based board with a color LCD and dual-band Wi-Fi 6, and the T-Echo Card, a rugged LoRa-enabled device with GNSS, Bluetooth, NFC, solar charging, and an IP66-rated enclosure. The LILYGO T-Display C5 is built around the ESP32-C5, providing 2.4GHz […]",
     "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366103",
     "date": "Jul 08, 2026 21:38",
     "published_at": "2026-07-08T21:38:51Z",
-    "source": "LXer Linux News",
+    "source": "lxer.com",
     "source_url": "https://lxer.com/"
   },
   {
@@ -17,7 +28,7 @@
     "date": "Jul 08, 2026 21:00",
     "published_at": "2026-07-08T21:00:00Z",
     "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "Slashdot",
+    "source": "slashdot.org",
     "source_url": "https://slashdot.org/"
   },
   {
@@ -27,7 +38,7 @@
     "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366097",
     "date": "Jul 08, 2026 20:07",
     "published_at": "2026-07-08T20:07:22Z",
-    "source": "LXer Linux News",
+    "source": "lxer.com",
     "source_url": "https://lxer.com/"
   },
   {
@@ -38,7 +49,18 @@
     "date": "Jul 08, 2026 20:00",
     "published_at": "2026-07-08T20:00:00Z",
     "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "Slashdot",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Windows Drops Under 60% in Global Desktop OS Share",
+    "link": "https://tech.slashdot.org/story/26/07/08/1728229/windows-drops-under-60-in-global-desktop-os-share?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "StatCounter's June 2026 data shows Windows made up 56.55% of global desktop OS usage, dropping Microsoft's share below 60% for the first time in years. Linux, meanwhile, reached 4.39%, \"one of its strongest recent showings in the company's desktop OS statistics,\" reports Linuxiac. From the report: Apple's desktop platforms also remain a major part of the picture. StatCounter lists OS X at 11.89% and macOS at 4.48% for June 2026, meaning Apple's combined desktop presence remains comfortably ahead of Linux in the global chart. Chrome OS follows with 1.21%.\n \nOf course, StatCounter's numbers should be read for what they are: web usage statistics, not a direct count of installed operating systems. The company calculates its Global Stats from page views across websites using its tracking code, analyzing details such as browser, operating system, and screen resolution. In other words, the figures reflect measured web activity rather than the number of machines actually installed worldwide.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Jul 08, 2026 19:00",
+    "published_at": "2026-07-08T19:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
     "source_url": "https://slashdot.org/"
   },
   {
@@ -48,7 +70,7 @@
     "guid": "https://www.phoronix.com/news/Redox-OS-June-2026",
     "date": "Jul 08, 2026 18:30",
     "published_at": "2026-07-08T18:30:02Z",
-    "source": "Phoronix",
+    "source": "phoronix.com",
     "source_url": "https://www.phoronix.com/"
   },
   {
@@ -59,7 +81,7 @@
     "date": "Jul 08, 2026 18:00",
     "published_at": "2026-07-08T18:00:00Z",
     "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "Slashdot",
+    "source": "slashdot.org",
     "source_url": "https://slashdot.org/"
   },
   {
@@ -69,7 +91,7 @@
     "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366105",
     "date": "Jul 08, 2026 17:04",
     "published_at": "2026-07-08T17:04:23Z",
-    "source": "LXer Linux News",
+    "source": "lxer.com",
     "source_url": "https://lxer.com/"
   },
   {
@@ -80,7 +102,7 @@
     "date": "Jul 08, 2026 17:00",
     "published_at": "2026-07-08T17:00:00Z",
     "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "Slashdot",
+    "source": "slashdot.org",
     "source_url": "https://slashdot.org/"
   },
   {
@@ -90,7 +112,7 @@
     "guid": "https://www.phoronix.com/news/LibreOffice-26.8-Beta-1",
     "date": "Jul 08, 2026 16:27",
     "published_at": "2026-07-08T16:27:11Z",
-    "source": "Phoronix",
+    "source": "phoronix.com",
     "source_url": "https://www.phoronix.com/"
   },
   {
@@ -100,7 +122,7 @@
     "guid": "https://www.phoronix.com/news/OpenMandriva-Disrupted",
     "date": "Jul 08, 2026 16:05",
     "published_at": "2026-07-08T16:05:22Z",
-    "source": "Phoronix",
+    "source": "phoronix.com",
     "source_url": "https://www.phoronix.com/"
   },
   {
@@ -111,7 +133,7 @@
     "date": "Jul 08, 2026 16:00",
     "published_at": "2026-07-08T16:00:00Z",
     "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "Slashdot",
+    "source": "slashdot.org",
     "source_url": "https://slashdot.org/"
   },
   {
@@ -122,7 +144,7 @@
     "date": "Jul 08, 2026 15:00",
     "published_at": "2026-07-08T15:00:00Z",
     "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "Slashdot",
+    "source": "slashdot.org",
     "source_url": "https://slashdot.org/"
   },
   {
@@ -132,7 +154,7 @@
     "guid": "https://www.phoronix.com/review/single-dual-memory-linux",
     "date": "Jul 08, 2026 14:48",
     "published_at": "2026-07-08T14:48:06Z",
-    "source": "Phoronix",
+    "source": "phoronix.com",
     "source_url": "https://www.phoronix.com/"
   },
   {
@@ -143,7 +165,7 @@
     "date": "Jul 08, 2026 13:58",
     "published_at": "2026-07-08T13:58:14Z",
     "image": "https://itsfoss.com/content/images/2026/07/orico-das-side-3-1.webp",
-    "source": "It's FOSS",
+    "source": "itsfoss.com",
     "source_url": "https://itsfoss.com/"
   },
   {
@@ -154,7 +176,7 @@
     "date": "Jul 08, 2026 13:52",
     "published_at": "2026-07-08T13:52:20Z",
     "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/951799530id29353gol.webp",
-    "source": "GamingOnLinux Latest Articles",
+    "source": "gamingonlinux.com",
     "source_url": "https://www.gamingonlinux.com/"
   },
   {
@@ -164,7 +186,7 @@
     "guid": "https://www.phoronix.com/news/Intel-Ends-Quantum-Intrinsics",
     "date": "Jul 08, 2026 13:37",
     "published_at": "2026-07-08T13:37:39Z",
-    "source": "Phoronix",
+    "source": "phoronix.com",
     "source_url": "https://www.phoronix.com/"
   },
   {
@@ -175,7 +197,7 @@
     "date": "Jul 08, 2026 13:33",
     "published_at": "2026-07-08T13:33:26Z",
     "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1518942523id29352gol.webp",
-    "source": "GamingOnLinux Latest Articles",
+    "source": "gamingonlinux.com",
     "source_url": "https://www.gamingonlinux.com/"
   },
   {
@@ -185,7 +207,7 @@
     "guid": "https://lwn.net/Articles/1077427/",
     "date": "Jul 08, 2026 13:14",
     "published_at": "2026-07-08T13:14:23Z",
-    "source": "LWN.net",
+    "source": "lwn.net",
     "source_url": "https://lwn.net"
   },
   {
@@ -195,7 +217,7 @@
     "guid": "https://www.phoronix.com/news/AMD-ZenDNN-6.0",
     "date": "Jul 08, 2026 13:07",
     "published_at": "2026-07-08T13:07:42Z",
-    "source": "Phoronix",
+    "source": "phoronix.com",
     "source_url": "https://www.phoronix.com/"
   },
   {
@@ -205,7 +227,7 @@
     "guid": "https://lwn.net/Articles/1081798/",
     "date": "Jul 08, 2026 12:50",
     "published_at": "2026-07-08T12:50:59Z",
-    "source": "LWN.net",
+    "source": "lwn.net",
     "source_url": "https://lwn.net"
   },
   {
@@ -215,7 +237,7 @@
     "guid": "https://www.phoronix.com/news/LinuxMint-Cinnamon-Wayland-Good",
     "date": "Jul 08, 2026 12:23",
     "published_at": "2026-07-08T12:23:39Z",
-    "source": "Phoronix",
+    "source": "phoronix.com",
     "source_url": "https://www.phoronix.com/"
   },
   {
@@ -226,7 +248,7 @@
     "date": "Jul 08, 2026 12:02",
     "published_at": "2026-07-08T12:02:28Z",
     "image": "https://itsfoss.com/content/images/2026/07/tuxedo-os-debian-testing-rebase-banner.png",
-    "source": "It's FOSS",
+    "source": "itsfoss.com",
     "source_url": "https://itsfoss.com/"
   },
   {
@@ -236,7 +258,7 @@
     "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366091",
     "date": "Jul 08, 2026 11:20",
     "published_at": "2026-07-08T11:20:35Z",
-    "source": "LXer Linux News",
+    "source": "lxer.com",
     "source_url": "https://lxer.com/"
   },
   {
@@ -247,7 +269,7 @@
     "date": "Jul 08, 2026 11:00",
     "published_at": "2026-07-08T11:00:00Z",
     "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "Slashdot",
+    "source": "slashdot.org",
     "source_url": "https://slashdot.org/"
   },
   {
@@ -257,7 +279,7 @@
     "guid": "https://www.phoronix.com/news/Toggle-Syscall-User-Dispatch",
     "date": "Jul 08, 2026 10:40",
     "published_at": "2026-07-08T10:40:58Z",
-    "source": "Phoronix",
+    "source": "phoronix.com",
     "source_url": "https://www.phoronix.com/"
   },
   {
@@ -268,7 +290,7 @@
     "date": "Jul 08, 2026 09:03",
     "published_at": "2026-07-08T09:03:54Z",
     "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1514367643id29350gol.webp",
-    "source": "GamingOnLinux Latest Articles",
+    "source": "gamingonlinux.com",
     "source_url": "https://www.gamingonlinux.com/"
   },
   {
@@ -279,7 +301,7 @@
     "date": "Jul 08, 2026 08:06",
     "published_at": "2026-07-08T08:06:51Z",
     "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/997933168id29349gol.webp",
-    "source": "GamingOnLinux Latest Articles",
+    "source": "gamingonlinux.com",
     "source_url": "https://www.gamingonlinux.com/"
   },
   {
@@ -290,7 +312,7 @@
     "date": "Jul 08, 2026 07:58",
     "published_at": "2026-07-08T07:58:09Z",
     "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/xorg.jpg",
-    "source": "GamingOnLinux Latest Articles",
+    "source": "gamingonlinux.com",
     "source_url": "https://www.gamingonlinux.com/"
   },
   {
@@ -301,7 +323,7 @@
     "date": "Jul 08, 2026 07:48",
     "published_at": "2026-07-08T07:48:27Z",
     "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/proton%20logo%20official.jpg",
-    "source": "GamingOnLinux Latest Articles",
+    "source": "gamingonlinux.com",
     "source_url": "https://www.gamingonlinux.com/"
   },
   {
@@ -312,7 +334,7 @@
     "date": "Jul 08, 2026 07:00",
     "published_at": "2026-07-08T07:00:00Z",
     "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "Slashdot",
+    "source": "slashdot.org",
     "source_url": "https://slashdot.org/"
   },
   {
@@ -322,7 +344,7 @@
     "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366080",
     "date": "Jul 08, 2026 06:46",
     "published_at": "2026-07-08T06:46:06Z",
-    "source": "LXer Linux News",
+    "source": "lxer.com",
     "source_url": "https://lxer.com/"
   },
   {
@@ -332,7 +354,7 @@
     "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366088",
     "date": "Jul 08, 2026 03:43",
     "published_at": "2026-07-08T03:43:07Z",
-    "source": "LXer Linux News",
+    "source": "lxer.com",
     "source_url": "https://lxer.com/"
   },
   {
@@ -343,7 +365,7 @@
     "date": "Jul 08, 2026 03:30",
     "published_at": "2026-07-08T03:30:00Z",
     "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "Slashdot",
+    "source": "slashdot.org",
     "source_url": "https://slashdot.org/"
   },
   {
@@ -353,7 +375,7 @@
     "guid": "https://www.phoronix.com/news/XWayland-24.1.13-Released",
     "date": "Jul 08, 2026 01:44",
     "published_at": "2026-07-08T01:44:06Z",
-    "source": "Phoronix",
+    "source": "phoronix.com",
     "source_url": "https://www.phoronix.com/"
   },
   {
@@ -363,7 +385,7 @@
     "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366082",
     "date": "Jul 08, 2026 00:40",
     "published_at": "2026-07-08T00:40:08Z",
-    "source": "LXer Linux News",
+    "source": "lxer.com",
     "source_url": "https://lxer.com/"
   },
   {
@@ -374,7 +396,7 @@
     "date": "Jul 07, 2026 23:00",
     "published_at": "2026-07-07T23:00:00Z",
     "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "Slashdot",
+    "source": "slashdot.org",
     "source_url": "https://slashdot.org/"
   },
   {
@@ -385,7 +407,7 @@
     "date": "Jul 07, 2026 22:00",
     "published_at": "2026-07-07T22:00:00Z",
     "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "Slashdot",
+    "source": "slashdot.org",
     "source_url": "https://slashdot.org/"
   },
   {
@@ -395,7 +417,7 @@
     "guid": "https://www.phoronix.com/news/Proton-11.0-1",
     "date": "Jul 07, 2026 21:10",
     "published_at": "2026-07-07T21:10:27Z",
-    "source": "Phoronix",
+    "source": "phoronix.com",
     "source_url": "https://www.phoronix.com/"
   },
   {
@@ -406,7 +428,7 @@
     "date": "Jul 07, 2026 21:00",
     "published_at": "2026-07-07T21:00:00Z",
     "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "Slashdot",
+    "source": "slashdot.org",
     "source_url": "https://slashdot.org/"
   },
   {
@@ -416,7 +438,7 @@
     "guid": "https://www.phoronix.com/news/AMDGPU-Clearing-Out-BUGs",
     "date": "Jul 07, 2026 20:53",
     "published_at": "2026-07-07T20:53:44Z",
-    "source": "Phoronix",
+    "source": "phoronix.com",
     "source_url": "https://www.phoronix.com/"
   },
   {
@@ -427,29 +449,8 @@
     "date": "Jul 07, 2026 20:00",
     "published_at": "2026-07-07T20:00:00Z",
     "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "Slashdot",
+    "source": "slashdot.org",
     "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "China's DeepSeek Developing Its Own AI Chip",
-    "link": "https://hardware.slashdot.org/story/26/07/07/1740259/chinas-deepseek-developing-its-own-ai-chip?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "An anonymous reader quotes a report from Reuters: Chinese startup DeepSeek is developing its own AI chip, according to three people familiar with the matter, a push that could reduce its reliance on Nvidia and Huawei chips, which it has depended on to train and run its globally popular models. The chip is designed for inference -- the stage of AI computing in which a trained model generates responses for users -- rather than for training new models, the sources said. If successful, DeepSeek's expansion into semiconductor development would mark a major strategic shift for a company widely hailed in China as the country's AI champion, potentially adding to challenges faced by Chinese tech giant Huawei.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Jul 07, 2026 19:00",
-    "published_at": "2026-07-07T19:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "Slashdot",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Windows Drops Under 60% in Global Desktop OS Share for the First Time in Years",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366087",
-    "description": "StatCounter’s June 2026 report shows Linux at one of its strongest recent positions, while Windows falls to 56.55%.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366087",
-    "date": "Jul 07, 2026 18:34",
-    "published_at": "2026-07-07T18:34:10Z",
-    "source": "LXer Linux News",
-    "source_url": "https://lxer.com/"
   },
   {
     "title": "NVIDIA Upstreams Initial Rigel CPU Core Support Into GCC Compiler",
@@ -458,7 +459,7 @@
     "guid": "https://www.phoronix.com/news/NVIDIA-Rigel-Upstream-GCC",
     "date": "Jul 07, 2026 15:45",
     "published_at": "2026-07-07T15:45:00Z",
-    "source": "Phoronix",
+    "source": "phoronix.com",
     "source_url": "https://www.phoronix.com/"
   },
   {
@@ -469,7 +470,7 @@
     "date": "Jul 07, 2026 15:41",
     "published_at": "2026-07-07T15:41:37Z",
     "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1393575172id29346gol.webp",
-    "source": "GamingOnLinux Latest Articles",
+    "source": "gamingonlinux.com",
     "source_url": "https://www.gamingonlinux.com/"
   },
   {
@@ -479,7 +480,7 @@
     "guid": "https://www.phoronix.com/review/razer-blade-18-linux",
     "date": "Jul 07, 2026 15:38",
     "published_at": "2026-07-07T15:38:00Z",
-    "source": "Phoronix",
+    "source": "phoronix.com",
     "source_url": "https://www.phoronix.com/"
   },
   {
@@ -489,7 +490,7 @@
     "guid": "https://www.phoronix.com/news/NVIDIA-Rosa-CPU-Rigel-Core",
     "date": "Jul 07, 2026 15:27",
     "published_at": "2026-07-07T15:27:58Z",
-    "source": "Phoronix",
+    "source": "phoronix.com",
     "source_url": "https://www.phoronix.com/"
   },
   {
@@ -500,7 +501,7 @@
     "date": "Jul 07, 2026 15:01",
     "published_at": "2026-07-07T15:01:46Z",
     "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1278842052id29345gol.webp",
-    "source": "GamingOnLinux Latest Articles",
+    "source": "gamingonlinux.com",
     "source_url": "https://www.gamingonlinux.com/"
   },
   {
@@ -510,7 +511,7 @@
     "guid": "https://www.phoronix.com/news/NVIDIA-610.43.03-Linux-Driver",
     "date": "Jul 07, 2026 14:58",
     "published_at": "2026-07-07T14:58:12Z",
-    "source": "Phoronix",
+    "source": "phoronix.com",
     "source_url": "https://www.phoronix.com/"
   },
   {
@@ -521,7 +522,7 @@
     "date": "Jul 07, 2026 14:28",
     "published_at": "2026-07-07T14:28:22Z",
     "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/2050107844id29344gol.webp",
-    "source": "GamingOnLinux Latest Articles",
+    "source": "gamingonlinux.com",
     "source_url": "https://www.gamingonlinux.com/"
   },
   {
@@ -531,7 +532,7 @@
     "guid": "https://lwn.net/Articles/1081690/",
     "date": "Jul 07, 2026 14:27",
     "published_at": "2026-07-07T14:27:57Z",
-    "source": "LWN.net",
+    "source": "lwn.net",
     "source_url": "https://lwn.net"
   },
   {
@@ -542,7 +543,7 @@
     "date": "Jul 07, 2026 14:12",
     "published_at": "2026-07-07T14:12:32Z",
     "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1657807520id29343gol.webp",
-    "source": "GamingOnLinux Latest Articles",
+    "source": "gamingonlinux.com",
     "source_url": "https://www.gamingonlinux.com/"
   },
   {
@@ -552,7 +553,7 @@
     "guid": "https://lwn.net/Articles/1081009/",
     "date": "Jul 07, 2026 13:39",
     "published_at": "2026-07-07T13:39:34Z",
-    "source": "LWN.net",
+    "source": "lwn.net",
     "source_url": "https://lwn.net"
   },
   {
@@ -562,7 +563,7 @@
     "guid": "https://lwn.net/Articles/1081644/",
     "date": "Jul 07, 2026 13:07",
     "published_at": "2026-07-07T13:07:58Z",
-    "source": "LWN.net",
+    "source": "lwn.net",
     "source_url": "https://lwn.net"
   },
   {
@@ -573,7 +574,7 @@
     "date": "Jul 07, 2026 12:54",
     "published_at": "2026-07-07T12:54:07Z",
     "image": "https://itsfoss.com/content/images/2026/07/windows-11-storage-bug-banner.png",
-    "source": "It's FOSS",
+    "source": "itsfoss.com",
     "source_url": "https://itsfoss.com/"
   },
   {
@@ -583,7 +584,7 @@
     "guid": "https://www.phoronix.com/news/TUXEDO-Computers-Goes-Debian",
     "date": "Jul 07, 2026 12:06",
     "published_at": "2026-07-07T12:06:31Z",
-    "source": "Phoronix",
+    "source": "phoronix.com",
     "source_url": "https://www.phoronix.com/"
   },
   {
@@ -594,7 +595,7 @@
     "date": "Jul 07, 2026 11:53",
     "published_at": "2026-07-07T11:53:39Z",
     "image": "https://cdn.mos.cms.futurecdn.net/zeu6pJbvfG7KKf3TpxXUQ8-1280-80.jpg",
-    "source": " Latest from Tom's Hardware in Linux ",
+    "source": "tomshardware.com",
     "source_url": "https://www.tomshardware.com/software/operating-systems/linux"
   },
   {
@@ -605,7 +606,7 @@
     "date": "Jul 07, 2026 10:45",
     "published_at": "2026-07-07T10:45:00Z",
     "image": "https://cdn.mos.cms.futurecdn.net/U8WKeeZdxNUNhWEnavBWiK-1280-80.jpg",
-    "source": " Latest from Tom's Hardware in Linux ",
+    "source": "tomshardware.com",
     "source_url": "https://www.tomshardware.com/software/operating-systems/linux"
   },
   {
@@ -615,7 +616,7 @@
     "guid": "https://www.phoronix.com/news/AF-ALG-Restrict-Sysctl-Linux",
     "date": "Jul 07, 2026 10:24",
     "published_at": "2026-07-07T10:24:22Z",
-    "source": "Phoronix",
+    "source": "phoronix.com",
     "source_url": "https://www.phoronix.com/"
   },
   {
@@ -625,7 +626,7 @@
     "guid": "https://www.phoronix.com/news/Nick-Desaulniers-LLVM-Linux",
     "date": "Jul 07, 2026 10:15",
     "published_at": "2026-07-07T10:15:23Z",
-    "source": "Phoronix",
+    "source": "phoronix.com",
     "source_url": "https://www.phoronix.com/"
   },
   {
@@ -635,7 +636,7 @@
     "guid": "https://www.phoronix.com/news/IBM-EHEA-Being-Retired",
     "date": "Jul 07, 2026 09:55",
     "published_at": "2026-07-07T09:55:50Z",
-    "source": "Phoronix",
+    "source": "phoronix.com",
     "source_url": "https://www.phoronix.com/"
   },
   {
@@ -646,7 +647,7 @@
     "date": "Jul 07, 2026 08:32",
     "published_at": "2026-07-07T08:32:11Z",
     "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/708318430id29342gol.webp",
-    "source": "GamingOnLinux Latest Articles",
+    "source": "gamingonlinux.com",
     "source_url": "https://www.gamingonlinux.com/"
   },
   {
@@ -657,7 +658,7 @@
     "date": "Jul 07, 2026 08:15",
     "published_at": "2026-07-07T08:15:52Z",
     "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/armsx2_gol2_4336170f.webp",
-    "source": "GamingOnLinux Latest Articles",
+    "source": "gamingonlinux.com",
     "source_url": "https://www.gamingonlinux.com/"
   },
   {
@@ -668,7 +669,7 @@
     "date": "Jul 07, 2026 08:03",
     "published_at": "2026-07-07T08:03:50Z",
     "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/624607594id29340gol.webp",
-    "source": "GamingOnLinux Latest Articles",
+    "source": "gamingonlinux.com",
     "source_url": "https://www.gamingonlinux.com/"
   },
   {
@@ -679,7 +680,7 @@
     "date": "Jul 07, 2026 06:51",
     "published_at": "2026-07-07T06:51:28Z",
     "image": "https://itsfoss.com/content/images/2026/07/pocketmage.webp",
-    "source": "It's FOSS",
+    "source": "itsfoss.com",
     "source_url": "https://itsfoss.com/"
   },
   {
@@ -690,7 +691,7 @@
     "date": "Jul 07, 2026 05:52",
     "published_at": "2026-07-07T05:52:55Z",
     "image": "https://itsfoss.com/content/images/2026/07/inkterface-banner.png",
-    "source": "It's FOSS",
+    "source": "itsfoss.com",
     "source_url": "https://itsfoss.com/"
   },
   {
@@ -701,7 +702,7 @@
     "date": "Jul 07, 2026 05:04",
     "published_at": "2026-07-07T05:04:58Z",
     "image": "https://itsfoss.com/content/images/2026/07/canonical-trifecta-tech-foundation-banner.png",
-    "source": "It's FOSS",
+    "source": "itsfoss.com",
     "source_url": "https://itsfoss.com/"
   },
   {
@@ -711,7 +712,7 @@
     "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366060",
     "date": "Jul 07, 2026 04:04",
     "published_at": "2026-07-07T04:04:23Z",
-    "source": "LXer Linux News",
+    "source": "lxer.com",
     "source_url": "https://lxer.com/"
   },
   {
@@ -721,7 +722,7 @@
     "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366065",
     "date": "Jul 07, 2026 02:32",
     "published_at": "2026-07-07T02:32:53Z",
-    "source": "LXer Linux News",
+    "source": "lxer.com",
     "source_url": "https://lxer.com/"
   },
   {
@@ -731,7 +732,7 @@
     "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366064",
     "date": "Jul 07, 2026 01:01",
     "published_at": "2026-07-07T01:01:24Z",
-    "source": "LXer Linux News",
+    "source": "lxer.com",
     "source_url": "https://lxer.com/"
   },
   {
@@ -741,7 +742,7 @@
     "guid": "https://www.phoronix.com/news/Microsoft-AV1-Encode-DX12-HMFT",
     "date": "Jul 07, 2026 00:34",
     "published_at": "2026-07-07T00:34:05Z",
-    "source": "Phoronix",
+    "source": "phoronix.com",
     "source_url": "https://www.phoronix.com/"
   }
 ]
