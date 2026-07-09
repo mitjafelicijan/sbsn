@@ -734,15 +734,5 @@
     "image": "https://itsfoss.com/content/images/2026/07/canonical-trifecta-tech-foundation-banner.png",
     "source": "itsfoss.com",
     "source_url": "https://itsfoss.com/"
-  },
-  {
-    "title": "OpenSSH 10.4 Patches Multiple Security Issues in SSH, SCP, and SFTP",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366060",
-    "description": "OpenSSH 10.4 is now available with fixes for sftp, scp, and sshd, plus experimental support for ML-DSA 44 and Ed25519 composite signatures.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366060",
-    "date": "Jul 07, 2026 04:04",
-    "published_at": "2026-07-07T04:04:23Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
   }
 ]
