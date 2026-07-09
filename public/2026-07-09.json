@@ -1,5 +1,15 @@
 [
   {
+    "title": "[$] LWN.net Weekly Edition for July 9, 2026",
+    "link": "https://lwn.net/Articles/1080835/",
+    "description": "Inside this week's LWN.net Weekly Edition:\n        \n        \n Front: Cryptography API; Iomap explanation; Negative dentries; Faster RCUs and lockless allocation for BPF; Negative dentries; LLMs in memory-management code\n             Briefs: Guix vulnerabilities; OpenSSH 10.4; trusted publishing; kernel archive; CalyxOS; Quotes; ...\n             Announcements: Newsletters, conferences, security updates, patches, and more.\n            ",
+    "guid": "https://lwn.net/Articles/1080835/",
+    "date": "Jul 09, 2026 01:12",
+    "published_at": "2026-07-09T01:12:33Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
     "title": "Deepin 25.2 Released with Smarter File Search and Desktop Improvements",
     "link": "https://lxer.com/module/newswire/ext_link.php?rid=366095",
     "description": "Deepin 25.2 brings over 20 Treeland fixes, better multi-monitor handling, improved file indexing, and updated security components.",
