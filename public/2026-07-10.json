@@ -1,5 +1,27 @@
 [
   {
+    "title": "Disable Autoplay and Infinite Scroll Or Risk Massive Fines, EU Tells Meta",
+    "link": "https://meta.slashdot.org/story/26/07/10/1737224/disable-autoplay-and-infinite-scroll-or-risk-massive-fines-eu-tells-meta?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from Ars Technica: The European Union is ramping up pressure on Meta to make big changes to Facebook and Instagram after the European Commission preliminarily found that features like autoplay, infinite scroll, and highly personalized content recommendations were addictive. On Thursday, the EC said its investigation indicated that \"Meta did not adequately assess the risks of its addictive design on the physical and mental wellbeing of users, including minors and vulnerable adults.\" \"These features fuel the user's urge to keep scrolling and shift the brain into 'autopilot mode,' contributing to unhealthy habits and compulsive use,\" the commission said. Over the next few months, Meta will have an opportunity to dispute the claims, and it has already taken a defensive stance. Meta's spokesperson, Ben Walters, told Reuters that Meta disagrees with the commission's preliminary findings, which supposedly \"don't accurately take into account the significant steps we've taken to protect teens.\"\n \n\"Since this investigation began, we rolled out Teen Accounts that automatically protect teens and put parents in control -- allowing them to block access to Instagram at night and cap daily screen time at just 15 minutes,\" Walters said. However, the EC emphasized that Meta's current mitigation efforts, including time management tools activated by default for teens, \"failed to effectively tackle the risks stemming from its addictive design.\" Additionally, parental controls were deemed \"only effective if parents and guardians possess adequate technical expertise\" and dedicated \"effort and time to understand them effectively.\" \"This undermines the efficiency of such measures in addressing the inherent risks posed by Instagram and Facebook's addictive design,\" the EC said, particularly for minors.\n \nAt this stage, the EC recommended that Meta consider \"disabling key addictive features such as 'autoplay' and 'infinite scroll' by default, implementing effective 'screen time breaks,' and adapting its recommender system to make it less engagement-oriented.\" If Meta fails to make changes to comply with the EU's Digital Services Act, the company risks fines up to 6 percent of its global annual turnover when the EC makes its final decision in the coming months. \"Our starting point is that, based on our findings, this design is too addictive and changes need to be made,\" Henna Virkkunen, the EU's tech chief, told Reuters. \"The next step is either that Meta changes its design or a non-compliance decision will follow,\" she said, noting in the press release that the EU's priority is \"protecting the physical and mental health of Europeans.\" \"The Digital Services Act provides a clear framework to hold platforms accountable for the addictive design and effects of their services,\" Virkkunen said. \"We are fully committed to enforcing our legislation in Europe.\"\n \nThe report also notes that the EC will share findings from experts on Monday that \"could help pave the way for a Europe-wide social media ban for teenagers.\" It's not looking much better for Meta in the U.S., either. The company faces a lawsuit from 29 states that claim Meta's platforms addict kids. \"That trial begins in August, and states may seek up to $1.4 trillion in penalties if Meta is found guilty,\" reports Ars.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Jul 10, 2026 19:00",
+    "published_at": "2026-07-10T19:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Disney+ Explores a Free Tier As YouTube Draws TV Viewers",
+    "link": "https://entertainment.slashdot.org/story/26/07/10/1727227/disney-explores-a-free-tier-as-youtube-draws-tv-viewers?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Disney is exploring a free tier for Disney+ that would make some content available without a subscription. According to Nielsen data, the three largest free streamers accounted for 18.7% of watch time on U.S. TVs in April, up from 16.8% a year earlier and 12.7% in April 2024. Business Insider reports: Product and tech chief Adam Smith spoke about enabling free-tier content during a streaming town hall on Thursday afternoon, one staffer said. Smith didn't share a timeline for this initiative or a sense of the scope, this person added. A person familiar with Disney's streaming strategy said these talks are part of an ongoing discussion about concepts to better serve fans. Currently, the Disney+ and Hulu bundle costs $12.99 a month with ads or $19.99 without ads at full price.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Jul 10, 2026 18:00",
+    "published_at": "2026-07-10T18:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
     "title": "OpenAI to Retire ChatGPT Atlas Browser Less Than a Year After Launch",
     "link": "https://slashdot.org/story/26/07/10/0852224/openai-to-retire-chatgpt-atlas-browser-less-than-a-year-after-launch?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
     "description": "OpenAI is retiring its ChatGPT Atlas browser less than a year after launch. Going forward, its browsing features will be shifted into a redesigned ChatGPT desktop app that also combines Codex, a built-in browser, and \"ChatGPT Work\" for acting across apps and files. PCMag reports: OpenAI disclosed Atlas's retirement in a Thursday post introducing a more powerful ChatGPT desktop app, following reports that the company planned on turning it into a \"superapp.\" [...] In a tweet, OpenAI product staff member James Sun added, \"The current targeted date for deprecation is 8/9, and we'll share more information in the upcoming days both in-app and via email.\"\n \nThe sunsetting means the Windows version of ChatGPT Atlas has been canceled, though the ChatGPT desktop app is still available on both Mac and Windows. The company is already touting the built-in browser, noting: \"You can ask ChatGPT to research a market, compare sources, pull information from websites, or open and refine files from Google Workspace and Microsoft 365 inside the app. It can use the browser to bring in fresh context, take steps across web pages, and keep the work moving while you review and guide the result.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
@@ -399,17 +421,6 @@
     "source_url": "https://slashdot.org/"
   },
   {
-    "title": "OpenAI Releases New Voice Models For More Natural Live Conversations",
-    "link": "https://slashdot.org/story/26/07/09/0452203/openai-releases-new-voice-models-for-more-natural-live-conversations?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "OpenAI has released GPT-Live-1 and GPT-Live-1 mini, \"claiming that they sound more natural and can handle turn-taking better,\" reports TechCrunch. \"These are full-duplex models, meaning they can speak and listen at the same time, allowing users to interrupt naturally and enabling features like live translation.\" TechCrunch reports: The company is also replacing its current Advanced Voice Mode in ChatGPT with GPT-Live-1 mini by default. Users of paid tiers will be able to access the larger GPT-Live-1 model. The previous model combined a speech-to-text model to transcribe speech, a large language model to generate responses, and a text-to-speech model to deliver the final answer.\n \nThe company said in a press briefing that the new models solve issues like interrupting users while they're talking and not having enough intelligence to answer questions. OpenAI's new models will send the query to its latest text models like GPT-5.5 for search, reasoning, or agentic capabilities while continuing the conversation.\n \nOpenAI also showed that the model can stay silent for a long time and absorb the context of the conversation until it's called upon. Plus, as the new voice mode has access to newer GPT models, it can also present some information in a visual format. Other startups like Monogram, which raised $40 million in seed funding from DST and Lux Capital, are also leaning into visual responses to make assistants more interactive.\n \nThe company said the new voice mode in ChatGPT is designed to have longer conversations. During the briefing, ChatGPT Voice's product lead, Atty Eleti, said he has had 30- to 40-minute-long conversations with the voice feature during walks.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Jul 09, 2026 16:00",
-    "published_at": "2026-07-09T16:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
     "title": "Vivaldi 8.1 Browser Released with Tab Behavior Improvements",
     "link": "https://lxer.com/module/newswire/ext_link.php?rid=366115",
     "description": "Vivaldi 8.1 is now available for desktop users, focusing on bug fixes, tab refinements, and improvements to its distraction-free UI auto-hide feature.",
@@ -428,17 +439,6 @@
     "published_at": "2026-07-09T15:47:43Z",
     "source": "phoronix.com",
     "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Parents' Phone Addiction Affects Bond With Kids, New Study Finds",
-    "link": "https://mobile.slashdot.org/story/26/07/09/0445259/parents-phone-addiction-affects-bond-with-kids-new-study-finds?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "An anonymous reader quotes a report from Bloomberg: Parents' attachment to screens and smartphones can have negative, long-lasting developmental and psychological effects on their children, according to new research. Caregivers who mismanage their devices can both exacerbate \"insecure attachment\" and make healthy relationships more anxious and avoidant for children, according to the findings, which were published last month in Frontiers in Psychology, a peer-reviewed journal. The study, which surveyed 600 minors in the US from 12 to 17 years old, found that kids reported feeling marginalized or neglected by parents glued to their screens. \"A child with insecure attachment may lack confidence or display a lower sense of self; demonstrate difficulty with interpersonal relationships and intimacy; and possess an unwillingness to take risks necessary to achieve success,\" reports Bloomberg, citing one of the study's researchers.\n \nThis type of behavior has become normalized: 2024 Pew data found that nearly half of U.S. teens say their parents are at least sometimes distracted by phones during interactions. \"When parents were asked about their own behavior, far fewer said this was an issue,\" the report adds. \"Still, earlier Pew data from 2020 found most parents feel their phones can interfere with quality family time, with 68% reporting being 'at least sometimes' distracted by them.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Jul 09, 2026 15:00",
-    "published_at": "2026-07-09T15:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
   },
   {
     "title": "[$] Kitty chases the mouse",
@@ -531,78 +531,5 @@
     "published_at": "2026-07-09T11:22:16Z",
     "source": "lxer.com",
     "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Avoiding Vendor Lock-in By Using KDE Plasma As Personal Knowledge Base",
-    "link": "https://feed.itsfoss.com/link/24361/17375459/kde-plasma-as-personal-knowledge-base",
-    "description": "Exploring a rudimentary style of notes management with Markdown and KDE Dolphin. Sometimes, simplicity is the best solution.",
-    "guid": "6a4f2a108181fe0001a59bbb",
-    "date": "Jul 09, 2026 10:49",
-    "published_at": "2026-07-09T10:49:36Z",
-    "image": "https://itsfoss.com/content/images/2026/07/avoiding-vendor-lock-using-kde-plasma.webp",
-    "source": "itsfoss.com",
-    "source_url": "https://itsfoss.com/"
-  },
-  {
-    "title": "Initial Patches Posted For Booting The Apple M4 On Linux",
-    "link": "https://www.phoronix.com/news/Apple-M4-DT-Linux",
-    "description": "With the Linux 7.2 kernel there is initial support for booting the Apple M3 SoC on Linux but it's not yet functional for end users with just booting to a simple console. There are now Device Tree files posted for booting the Apple M4 on Linux but also not yet useful for any typical Apple Mac/MacBook usage on Linux...",
-    "guid": "https://www.phoronix.com/news/Apple-M4-DT-Linux",
-    "date": "Jul 09, 2026 10:22",
-    "published_at": "2026-07-09T10:22:02Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "AMD Ryzen AI Halo Box RGB LED Driver Inches Closer To The Mainline Kernel",
-    "link": "https://www.phoronix.com/news/AMD-Ryzen-AI-Halo-RGB-LED-v8",
-    "description": "The AMD Ryzen AI Halo mini PC powered by Ryzen AI Max+ \"Strix Halo\" began shipping this week. It features very nice Linux support out-of-the-box with the Debian-based Ryzen AI Developer Platform operating system. For those wishing to run their own x86_64 Linux distribution, one of the only caveats in the Linux support is quite small... No mainline kernel support yet for controlled the RGB LED light strip on the driver. But that driver is coming and will hopefully be mainlined soon...",
-    "guid": "https://www.phoronix.com/news/AMD-Ryzen-AI-Halo-RGB-LED-v8",
-    "date": "Jul 09, 2026 10:13",
-    "published_at": "2026-07-09T10:13:06Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Stone Age 4x game Folk Emerging arrives August 26",
-    "link": "https://www.gamingonlinux.com/2026/07/stone-age-4x-game-folk-emerging-arrives-august-26/",
-    "description": "If you want a new 4x strategy game perhaps you'll want to keep an eye on Folk Emerging - like a smaller version of Civilization in the Stone Age.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/07/stone-age-4x-game-folk-emerging-arrives-august-26/",
-    "date": "Jul 09, 2026 10:09",
-    "published_at": "2026-07-09T10:09:13Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1993930812id29359gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Zlib-rs 0.6.6 Released With Updated Zlib API Support",
-    "link": "https://www.phoronix.com/news/Zlib-rs-0.6.6",
-    "description": "Zlib-rs 0.6.6 was just released by the Trifecta Tech Foundation. Just weeks after the prior release with a fix for Intel Raptor Lake and bringing new SIMD optimizations, zlib-rs 0.6.6 is about delivering updated Zlib API compatibility...",
-    "guid": "https://www.phoronix.com/news/Zlib-rs-0.6.6",
-    "date": "Jul 09, 2026 10:00",
-    "published_at": "2026-07-09T10:00:18Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "GStreamer 1.28.5 Released with Security and Playback Fixes",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366112",
-    "description": "GStreamer 1.28.5 is now available as a recommended stable-series update, delivering security fixes, build corrections, memory leak fixes, and playback improvements.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366112",
-    "date": "Jul 09, 2026 09:50",
-    "published_at": "2026-07-09T09:50:47Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Another German State Just Kicked Out Microsoft... Kind Of",
-    "link": "https://feed.itsfoss.com/link/24361/17375382/german-state-ditches-sharepoint",
-    "description": "Mecklenburg-Vorpommern has replaced Microsoft SharePoint with Nextcloud for over 5,000 government employees.",
-    "guid": "6a4f390d8181fe0001a59c0c",
-    "date": "Jul 09, 2026 09:50",
-    "published_at": "2026-07-09T09:50:24Z",
-    "image": "https://itsfoss.com/content/images/2026/07/german-state-kicking-out-sharepoint-banner.png",
-    "source": "itsfoss.com",
-    "source_url": "https://itsfoss.com/"
   }
 ]
