@@ -1,5 +1,194 @@
 [
   {
+    "title": "Microsoft to Retire OWA Light Client In Exchange Server",
+    "link": "https://tech.slashdot.org/story/26/07/10/0838224/microsoft-to-retire-owa-light-client-in-exchange-server?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Microsoft plans to disable and remove OWA Light, the lightweight Outlook Web Access client for Exchange Server, in an upcoming update expected in August 2026. The company says retiring the two-decade-old legacy interface will reduce attack surface and engineering complexity, pushing users to the modern Outlook on the web experience instead. BleepingComputer reports: \"OWA Light was an important compatibility experience when the web needed it. Today, the full Outlook on the web experience is the right place for us to focus,\" the Exchange Team said on Wednesday. \"Retiring OWA Light will help reduce legacy surface area, simplify ongoing engineering work, and allow us to continue improving the experience customers use every day.\"\n \nMicrosoft introduced OWA Light roughly two decades ago as an alternative to OWA Premium, offering a simplified web interface for systems that didn't have Internet Explorer 6 or later installed or ran older web browsers. At the time, the company said that OWA Light offered a cleaner look, faster logon times on low-bandwidth Internet connections, and worked in locked-down browser modes (such as kiosks).\n \nMicrosoft deprecated OWA Light as of August 19, 2024, and announced this week that the OWA Light experience will likely be removed from Exchange Server (on-premises) next month. \"In an upcoming Exchange Server update (estimated in August 2026), we plan to disable and remove the OWA Light experience. After that change is introduced, users will no longer be able to choose or be redirected to OWA Light and should use the modern Outlook on the web experience instead.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Jul 10, 2026 12:00",
+    "published_at": "2026-07-10T12:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "The great RTS game Tempest Rising has a big The Veti's Wrath DLC announced",
+    "link": "https://www.gamingonlinux.com/2026/07/the-great-rts-game-tempest-rising-has-a-big-the-vetis-wrath-dlc-announced/",
+    "description": "A full single-player expansion is command to the great RTS game Tempest Rising. Titled The Veti's Wrath, you'll get some explosive new missions to play.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/07/the-great-rts-game-tempest-rising-has-a-big-the-vetis-wrath-dlc-announced/",
+    "date": "Jul 10, 2026 10:32",
+    "published_at": "2026-07-10T10:32:09Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1604655812id29365gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Linux DT Patches Provide Very Basic Support For Apple M3 Pro / Max / Ultra",
+    "link": "https://www.phoronix.com/news/Linux-DT-Apple-M3-Pro-Max-Ultra",
+    "description": "Upstreamed for the Linux 7.2 kernel was initial support for booting Linux on the Apple M3 SoC devices. But just the barebones suppport for booting with not yet any accelerated graphics or other typical function needed for daily use of M3 Apple devices on Linux, just booting to a console. Now this work is complemented by additional Device Tree patches for also booting M3 Pro / Max / Ultra devices on Linux...",
+    "guid": "https://www.phoronix.com/news/Linux-DT-Apple-M3-Pro-Max-Ultra",
+    "date": "Jul 10, 2026 10:26",
+    "published_at": "2026-07-10T10:26:14Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Transport Fever 3 devs showcase new Features and Vehicles",
+    "link": "https://www.gamingonlinux.com/2026/07/transport-fever-3-devs-showcase-new-features-and-vehicles/",
+    "description": "Transport Fever 3 developers Urban Games along with their new publisher Paradox Interactive released a new First Look showcase of new Features and Vehicles.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/07/transport-fever-3-devs-showcase-new-features-and-vehicles/",
+    "date": "Jul 10, 2026 10:19",
+    "published_at": "2026-07-10T10:19:59Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1793241342id29364gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "HiZ Plane Optimization Merged For Intel Vulkan Linux Driver For Some Performance Benefit",
+    "link": "https://www.phoronix.com/news/Intel-HiZ-Plane-Optimization",
+    "description": "After two years being on the TODO list for a possible performance optimization, the Intel open-source \"ANV\" Vulkan driver has now merged an HiZ plane optimization that can yield up to a few percent frame-rate improvement for Linux gaming/graphics on newer Intel integrated and discrete graphics hardware...",
+    "guid": "https://www.phoronix.com/news/Intel-HiZ-Plane-Optimization",
+    "date": "Jul 10, 2026 10:13",
+    "published_at": "2026-07-10T10:13:27Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "LLVM Clang Merges Initial Support For NVIDIA Rigel Core With Next-Gen Rosa CPU",
+    "link": "https://www.phoronix.com/news/LLVM-Clang-NVIDIA-Rosa-Rigel",
+    "description": "Earlier this week NVIDIA confirmed some basic details around their next-gen Rosa  CPU that succeeds Vera. Among the public confirmation was that it will feature a \"Rigel\" Armv9.2-A core iterating on their Olympus core design. With the basic details published, NVIDIA immediately introduced Rigel core support into the GCC compiler. Now they have also upstreamed their initial Rigel core enablement into the LLVM Clang compiler...",
+    "guid": "https://www.phoronix.com/news/LLVM-Clang-NVIDIA-Rosa-Rigel",
+    "date": "Jul 10, 2026 09:52",
+    "published_at": "2026-07-10T09:52:43Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Intel-Scaler-vLLM 0.21.0-b1 Delivers Latest Features For vLLM On Intel GPUs",
+    "link": "https://www.phoronix.com/news/Intel-Scaler-vLLM-0.21-b1",
+    "description": "Released this morning was Intel's newest version of Intel-Scaler-vLLM as their Docker-based solution providing an optimized vLLM stack for execution on Intel Arc (Pro) graphics hardware...",
+    "guid": "https://www.phoronix.com/news/Intel-Scaler-vLLM-0.21-b1",
+    "date": "Jul 10, 2026 09:41",
+    "published_at": "2026-07-10T09:41:43Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Build and manage a floating ship city on a sentient alien planet in Rogue Carrier",
+    "link": "https://www.gamingonlinux.com/2026/07/build-and-manage-a-floating-ship-city-on-a-sentient-alien-planet-in-rogue-carrier/",
+    "description": "Rogue Carrier looks and sounds awesome - publisher Hooded Horse sure know how to pick 'em. I couldn't wishlist this one fast enough.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/07/build-and-manage-a-floating-ship-city-on-a-sentient-alien-planet-in-rogue-carrier/",
+    "date": "Jul 10, 2026 09:05",
+    "published_at": "2026-07-10T09:05:10Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/2061049814id29363gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Nobel-Winning US Chemist Will Move to China to Lead AI Institute",
+    "link": "https://science.slashdot.org/story/26/07/10/0830229/nobel-winning-us-chemist-will-move-to-china-to-lead-ai-institute?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Nobel-winning chemist Omar Yaghi is leaving UC Berkeley for China's Tsinghua University, where he will lead a new AI institute focused on accelerating the discovery of advanced materials. \"Last week, Tsinghua University in Beijing welcomed Dr. Yaghi in an appointment ceremony, calling him one of the world's foremost chemists,\" reports The New York Times. \"The university said he saw his new post as an opportunity 'not to slow down, not to repeat what has already been done, but to do science with more energy, more intensity, and more ambition than ever before.'\" From the report: Dr. Yaghi was born in Amman, Jordan, to Palestinian refugees whose one-room home lacked electricity and running water. Early on, he became fascinated with a schoolbook's depiction of atomic building blocks. When he was 15, his father, a butcher, sent him to the United States. Last year, before flying to Stockholm to receive his Nobel Prize, Dr. Yaghi in an interview with The New York Times voiced concern about Mr. Trump's immigration policies, saying that they endanger the nation's system of universities, companies and governments that promote scientific excellence. \"I think it's regrettable,\" he said of Mr. Trump's nationalism. \"We have to know that people coming from different backgrounds improve the level for everybody involved,\" he added. \"That's an amazing story. Great thinkers can improve not only the U.S. but the world.\"\n \nDr. Yaghi joined the University of California, Berkeley, in 2012, and while there earned many awards for his scientific advances. He received his Nobel Prize for helping discover a world of chemistry in which molecular building blocks are assembled into structures that possess vast internal surface areas -- the largest of any known substance. His porous structures can act like sponges that readily absorb, store and release gases and vapors. He named them metal-organic frameworks. The metal atoms form an adjustable framework that can hold chemicals associated with life -- carbon atoms in particular. While deeply theoretical, the frameworks are so radical, innovative and flexible in nature that materials experts and companies foresee many commercial uses for them. The frameworks can, for instance, harvest water from desert air. In 2018, Dr. Yaghi's students at Berkeley tested the idea in the Mojave Desert in California, finding that a small passive harvester could each day produce nearly three cups of pure, drinkable water. The device is now nearing commercialization.\n \nIn the interview with The Times, Dr. Yaghi credited the invention to his boyhood efforts to secure water for his family. The municipal pipes worked for only a few hours every week or two. That hardship, he added, shows how the diverse experiences of emigres can lead to unexpected breakthroughs. Dr. Yaghi has longstanding ties with Tsinghua University. In 2022, the Beijing school appointed him as an honorary professor and in that role he closely followed its work in chemistry, materials science and related disciplines. Now, on joining Tsinghua full time, Dr. Yaghi is being named as the head of a new A.I. institute for science research that will focus on the design and synthesis of new materials. Its underlying aim, the university said, is to \"overcome the efficiency bottlenecks of traditional trial-and-error approaches\" and shorten the usual cycles of discovery.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Jul 10, 2026 09:00",
+    "published_at": "2026-07-10T09:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Orbitiny Desktop Pilot X Lands as Its Biggest Update Yet",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366131",
+    "description": "Orbitiny Desktop Pilot X brings a brand-new dynamic theming system, panel docking improvements, a redesigned Control Panel, and many X11-focused fixes.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366131",
+    "date": "Jul 10, 2026 08:53",
+    "published_at": "2026-07-10T08:53:04Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Palworld 1.0 is here with lots of new content",
+    "link": "https://www.gamingonlinux.com/2026/07/palworld-1-0-is-here-with-lots-of-new-content/",
+    "description": "While developer Pocketpair are still fighting off Nintendo, they've pushed out a huge upgrade for Palworld to bring it out of Early Access for the 1.0.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/07/palworld-1-0-is-here-with-lots-of-new-content/",
+    "date": "Jul 10, 2026 08:45",
+    "published_at": "2026-07-10T08:45:06Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/957875941id29362gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Steam Machine and SteamOS compatibility ratings appear on Steam",
+    "link": "https://www.gamingonlinux.com/2026/07/steam-machine-and-steamos-compatibility-ratings-appear-on-steam/",
+    "description": "After a bit of a wait, Valve have now rolled out Steam Machine and SteamOS compatibility ratings to the Steam store and mobile app.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/07/steam-machine-and-steamos-compatibility-ratings-appear-on-steam/",
+    "date": "Jul 10, 2026 07:02",
+    "published_at": "2026-07-10T07:02:43Z",
+    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/steamos-steam-machine_gol2.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Rust 1.97 Released with New Default Symbol Mangling Scheme",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366124",
+    "description": "Rust 1.97 is out, enabling the v0 symbol mangling scheme by default on stable, adding Cargo warning controls, and surfacing linker messages.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366124",
+    "date": "Jul 10, 2026 05:50",
+    "published_at": "2026-07-10T05:50:05Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Linux Mint Now Considers Wayland Stable",
+    "link": "https://feed.itsfoss.com/link/24361/17375901/linux-mint-wayland-stable",
+    "description": "Cinnamon will fully support both X11 and Wayland sessions starting with Mint's next release, due Christmas.",
+    "guid": "6a4f6ae88181fe0001a59d22",
+    "date": "Jul 10, 2026 05:04",
+    "published_at": "2026-07-10T05:04:04Z",
+    "image": "https://itsfoss.com/content/images/2026/07/linux-mint-cinnamon-wayland-banner.png",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "In an Angry Fit, Dev ‘Sabotages’ OpenMandriva Repository",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366129",
+    "description": "A dust-up in OpenMandriva’s dev ranks escalates from abusive chats to vanished repositories and a ‘saboteur’ package that threatens Gnome and Cosmic users.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366129",
+    "date": "Jul 10, 2026 04:18",
+    "published_at": "2026-07-10T04:18:35Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Phoronix Premium 2026 Summer Support Special Ends Tonight",
+    "link": "https://www.phoronix.com/news/Premium-Summer-26-Ending",
+    "description": "For those that enjoy the daily flow of original open-source/Linux news on Phoronix along with all of the original Linux hardware reviews and performance benchmarking, but haven't yet subscribed to Phoronix Premium to help keep the site going after 22 years, the summer sale ends tonight...",
+    "guid": "https://www.phoronix.com/news/Premium-Summer-26-Ending",
+    "date": "Jul 10, 2026 04:00",
+    "published_at": "2026-07-10T04:00:00Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Humanoid Robots Controlled By Surgeons Did World-First Operation On Live Pigs",
+    "link": "https://hardware.slashdot.org/story/26/07/10/0128252/humanoid-robots-controlled-by-surgeons-did-world-first-operation-on-live-pigs?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from Ars Technica: Humanoid robots have surgically removed the gallbladders from living animals in an unprecedented medical experiment -- but not as autonomous machines capable of replacing human doctors. Instead, skilled human surgeons remotely controlled the robots' movements in a new example of human-robot teamups. The teleoperated humanoid robots completed two minimally invasive surgeries by removing gallbladders from live pigs during a preclinical trial that was published in the journal Nature. If this approach eventually proves clinically ready for human patients, surgeons could use such humanoid robots to remotely perform robotic-assisted surgical care in smaller hospitals and clinics that lack the resources to install specialized but expensive surgical robots.\n \nThe experiment used a Unitree G1 humanoid robot made by leading Chinese robotics company Unitree. The cheapest baseline G1 model with effectively non-functional hands has a starting price of $13,500 and shipping costs ranging between $300 and $1,200, whereas adding crucial upgrades such as dexterous robotic hands can easily push the cost beyond $67,000. But such humanoid robots made in China are still significantly cheaper than specialized surgical robots like Intuitive Surgical's da Vinci Surgical System, which can cost anywhere between half a million dollars and several million dollars. The specialized surgical robots can also weigh about 1,800 pounds and take up considerably more space in operating rooms. By comparison, the Unitree humanoid robots, standing at 5 feet tall and weighing just 60 pounds, may be more suitable for smaller clinical settings in remote areas.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Jul 10, 2026 03:30",
+    "published_at": "2026-07-10T03:30:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "AMD Enabling CACP Feature On Linux For Greater OLED Power Savings",
+    "link": "https://www.phoronix.com/news/AMDGPU-DC-Enabling-CACP",
+    "description": "Today's batch of AMDGPU Display Code \"DC\" updates bring a few noteworthy items for benefiting modern hardware under Linux...",
+    "guid": "https://www.phoronix.com/news/AMDGPU-DC-Enabling-CACP",
+    "date": "Jul 10, 2026 00:51",
+    "published_at": "2026-07-10T00:51:44Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
     "title": "Lawmakers Probe Growing Use of Chinese AI Models In US Companies",
     "link": "https://news.slashdot.org/story/26/07/09/1947218/lawmakers-probe-growing-use-of-chinese-ai-models-in-us-companies?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
     "description": "U.S. lawmakers are probing the growing use of Chinese AI models by American companies, citing concerns over censorship, security risks, and whether U.S. firms are turning to cheaper foreign models because domestic alternatives are too costly or restricted. The investigation is specifically looking at companies such as Cursor and Airbnb. \"The growing use of Chinese AI models by U.S. companies raises serious concerns,\" a State Department spokesperson told CNBC. Those \"AI models are designed to advance Beijing's narratives, censor dissent, and reflect CCP ideology and values.\" CNBC reports: The House Committee on Homeland Security and the House Select Committee on China said in April they will jointly investigate the growing adoption of Chinese-developed AI models. An initial step in the probe was for the chairmen of those committees to send letters to Cursor and Airbnb, over their \"use of or exposure to these risks\" through AI developed in China. \"The Chinese Communist Party is no longer just nipping at our heels in artificial intelligence; it is racing to close the gap in some of the exact capabilities that will shape the future of cybersecurity,\" Andrew Garbarino, chairman of the U.S. House Committee on Homeland Security, told CNBC. \"Recent reporting that a Chinese open-weight model can match leading U.S. models in certain vulnerability discovery and cybersecurity tasks is highly alarming,\" said Garbarino.\n \nWhile some government departments have banned the usage of Chinese AI models including DeepSeek, adoption of them by U.S. companies is not prohibited. Tech chiefs, including crypto company Coinbase's Brian Armstrong and AI startup Lindy's Flo Crivello, have been publicly touting the use of models from China to reduce costs. Cursor, which will be acquired by Elon Musk's SpaceX for $60 billion, built its Composer 2 model using Chinese AI model Kimi, which was developed by Moonshot AI. Alongside focusing on the rise of Chinese AI models, the ongoing joint House Committees' investigation is also looking into whether the U.S. is doing enough to tackle their rise. \"The Committees are also examining whether the United States has a sufficient open-weight AI strategy to ensure American companies and cyber defenders are not forced to choose between expensive or restricted U.S. models and cheap, capable PRC-developed alternatives,\" a Committee aide, who asked not to be named as they were not authorized to discuss the ongoing probe, told CNBC.\n \n[...] The administration could consider the use of federal procurement bans, which would include restricting government agencies and private companies that serve the U.S. government from using Chinese AI models, Kyle Chan, fellow in the John L. Thornton China Center at think tank Brookings, told CNBC. \"However, it's ultimately impossible to ban China's open-source AI models because their model weights are available freely on the internet,\" Chan added. \"This could enter into first amendment speech issues.\" [...] Another [approach] could be disseminating findings about risks and vulnerabilities associated with Chinese AI models to U.S. companies. \"Regardless, I do expect both the Executive Branch and Congress to communicate their interest not to see U.S. companies adopting these models,\" [said Daniel Remler, senior fellow, technology and national security program at think tank the Center for a New American Security (CNAS), told CNBC].\n\n\n\n\n\nRead more of this story at Slashdot.",
@@ -231,6 +420,16 @@
     "source_url": "https://lwn.net"
   },
   {
+    "title": "Linux Mint’s Next Release Will Fully Support Wayland in Cinnamon",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366098",
+    "description": "The next Linux Mint 23.0 release is planned for Christmas 2026, with Cinnamon gaining fully supported Wayland sessions.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366098",
+    "date": "Jul 09, 2026 12:53",
+    "published_at": "2026-07-09T12:53:46Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
     "title": "KDE Plasma 6.7.1 Released with Stability Fixes, UI Improvements, and Better Wayland Reliability",
     "link": "https://lxer.com/module/newswire/ext_link.php?rid=366111",
     "description": "The KDE Project has officially released KDE Plasma 6.7.1, the first maintenance update for the Plasma 6.7 desktop environment. Rather than introducing major new features, this point release focuses on polishing the desktop with a broad collection of bug fixes, translation updates, and performance improvements aimed at making Plasma 6.7 more reliable for everyday use.",
@@ -314,7 +513,7 @@
     "source_url": "https://lxer.com/"
   },
   {
-    "title": "Another German State Just Kicked Out Microsoft ...Kind Of",
+    "title": "Another German State Just Kicked Out Microsoft... Kind Of",
     "link": "https://feed.itsfoss.com/link/24361/17375382/german-state-ditches-sharepoint",
     "description": "Mecklenburg-Vorpommern has replaced Microsoft SharePoint with Nextcloud for over 5,000 government employees.",
     "guid": "6a4f390d8181fe0001a59c0c",
@@ -401,6 +600,16 @@
     "source_url": "https://slashdot.org/"
   },
   {
+    "title": "Wayland No Longer Considered Experimental For Linux Mint's Next Cinnamon Release",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366099",
+    "description": "The Linux Mint distribution has published their June development summary that most notably includes work on Cinnamon's Wayland support where it's now ready to graduate...",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366099",
+    "date": "Jul 09, 2026 06:47",
+    "published_at": "2026-07-09T06:47:48Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
     "title": "Linux Now Runs on the Atari Jaguar, a 1993 Console With Just 2 MB of RAM",
     "link": "https://lxer.com/module/newswire/ext_link.php?rid=366101",
     "description": "The Atari Jaguar joins the list of unlikely Linux machines, booting a NOMMU Linux kernel and BusyBox shell from cartridge ROM.",
@@ -452,17 +661,6 @@
     "source_url": "https://lxer.com/"
   },
   {
-    "title": "A Silent Workspace In Claude Mirrors Key Features of Human Consciousness",
-    "link": "https://slashdot.org/story/26/07/08/2059254/a-silent-workspace-in-claude-mirrors-key-features-of-human-consciousness?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "oumuamua writes: Anthropic researchers have identified an internal activation subspace, J-space, that acts as a functional digital equivalent to the human brain's global workspace. The significance of this discovery lies in demonstrating that Claude's internal architecture satisfies five key cognitive properties of human conscious access -- verbal report, directed modulation, internal reasoning, flexible generalization, and selectivity -- meaning it processes complex, deliberate reasoning within this workspace while routing automatic tasks outside of it. Suppressing this J-space severely degrades Claude's capacity for inference, creative composition, and multi-step logic, while also altering its stream-of-consciousness self-narration.\n \nThe tool to inspect J-space, Jacobian lens or J-lens, has profound implications for AI safety and alignment auditing, as it allows researchers to read the model's silent, strategic reasoning, detect situational awareness in \"blackmail\" scenarios, identify hidden malicious dispositions in reward-hacking models, and observe how post-training installs a self-monitoring \"point of view.\"\n Another way to think of it is as an ocean, reports VentureBeat. \"If the mind is an ocean, as the paper's authors write in their opening line, they have spent the last year charting its currents in a system that has no biology, no evolution, and no body -- and found, beneath the surface, a structure that looks unsettlingly like the one we use to think.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Jul 08, 2026 23:00",
-    "published_at": "2026-07-08T23:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
     "title": "OpenMandriva: Statement regarding attempted distribution sabotage",
     "link": "https://lwn.net/Articles/1081884/",
     "description": "Over on the OpenMandriva\nforum, the Linux distribution has reported\nsabotage of its repositories by a disgruntled contributor with\nadministrative credentials.  According to \"AngryPenguin\", an abusive\nincident in a distribution Matrix chat led to a user being kicked out of\nthe chat; that \"triggered a cascade of events\", which led to people\nresigning from the distribution.  Eventually, one of those people used\ntheir administrative privileges to delete part of the distribution's GitHub\nrepository and to \"publish an empty package in the cooker\nrepository, which obsoleted all gnome and cosmic packages, which could have\ndamaged the systems of people using gnome or cosmic\".\n\n\nWe are currently working to restore the deleted repositories and restore\nthe functionality of the obsolete packages.\n\n[...] We performed a full system audit and, aside from the removed\npackages, we found no other violations. \n",
@@ -473,48 +671,6 @@
     "source_url": "https://lwn.net"
   },
   {
-    "title": "John Deere Agrees To 10-Year Right-To-Repair Deal In FTC Antitrust Lawsuit",
-    "link": "https://yro.slashdot.org/story/26/07/08/2049231/john-deere-agrees-to-10-year-right-to-repair-deal-in-ftc-antitrust-lawsuit?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "John Deere has agreed to a 10-year FTC-supervised right-to-repair settlement requiring it to provide farmers and independent repair shops with the same repair resources available to authorized dealers. The deal resolves antitrust claims from the FTC and five states alleging Deere monopolized equipment repair services, contributing to higher costs and delays for farmers. Wired reports: The full statement (PDF) lays out obligations for John Deere's repair services, requiring the company to give farmers and third-party repair shops access to the same equipment and repair resources it provides to official John Deere dealers. This includes software capabilities, such as reading and resetting codes and pairing with other software, which customers have long had limited access to, creating delays when diagnosing equipment problems. Delayed fixes can mean delayed harvests, which many farmers saw as a fundamental threat to their livelihoods.\n \nUnder the agreement, John Deere will be required to provide this level of access, equipment, and services for the next 10 years, monitored by the FTC. [...] John Deere has maintained that it already has robust repair resources for its customers, including service manuals and diagnostic equipment. In John Deere's press release, the company says the settlement is in line with what it has been doing all along, saying that \"the agreement reinforces Deere's continued innovation toward more flexible repair options, emphasizing increased access and transparency for customers. It formalizes Deere's ongoing commitment to expanding access to diagnostic and repair tools.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Jul 08, 2026 22:00",
-    "published_at": "2026-07-08T22:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "LILYGO showcases new IoT devices with ESP32-C5 and Nordic nRF52840 MCUs",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366103",
-    "description": "LILYGO has listed two compact development boards for wireless IoT applications: the T-Display C5, a small ESP32-C5-based board with a color LCD and dual-band Wi-Fi 6, and the T-Echo Card, a rugged LoRa-enabled device with GNSS, Bluetooth, NFC, solar charging, and an IP66-rated enclosure. The LILYGO T-Display C5 is built around the ESP32-C5, providing 2.4GHz […]",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366103",
-    "date": "Jul 08, 2026 21:38",
-    "published_at": "2026-07-08T21:38:51Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Meta's Glasses Will Turn Off the Camera If You Tamper With the Privacy Light",
-    "link": "https://yro.slashdot.org/story/26/07/08/1750234/metas-glasses-will-turn-off-the-camera-if-you-tamper-with-the-privacy-light?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Meta is rolling out an update that will disable the camera on its smart glasses if the device detects that someone has tampered with or destroyed the privacy LED. \"The update is meant to address modders who have taken actions such as physically drilling into the LED light,\" reports The Verge.\n \n\"Meta has previously tried to discourage tampering with the LED light. For example, starting with its second generation glasses, blocking the light with tape or other objects will trigger a prompt asking users to uncover the recording light. However, many modders have found various workarounds for that particular measure.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Jul 08, 2026 21:00",
-    "published_at": "2026-07-08T21:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Linux Mint’s Cinnamon 6.8 Desktop Environment Will Fully Support Wayland",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366097",
-    "description": "Linux Mint project Clement Lefebvre revealed today in the monthly newsletter some of the new features and improvements coming to the next major version of the Cinnamon desktop environment, such as full Wayland support.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366097",
-    "date": "Jul 08, 2026 20:07",
-    "published_at": "2026-07-08T20:07:22Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
     "title": "Redox OS Gets GTK3 Backend For Orbital Desktop, Fractional Scaling \u0026 USB Gamepads",
     "link": "https://www.phoronix.com/news/Redox-OS-June-2026",
     "description": "The open-source, Rust-based Redox OS platform had a very eventful June with many new features implemented and more software ported over to run on this from-scratch operating system...",
@@ -523,16 +679,6 @@
     "published_at": "2026-07-08T18:30:02Z",
     "source": "phoronix.com",
     "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Collabora Office 26.04 Takes On Open Source’s Office Disrupter Wannabes",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366105",
-    "description": "We get down and dirty with Collabora Office 26.04, the new desktop twin to Collabora Online, to see how it stacks up against LibreOffice, OnlyOffice, Euro?Office and, yes, Microsoft Office.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366105",
-    "date": "Jul 08, 2026 17:04",
-    "published_at": "2026-07-08T17:04:23Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
   },
   {
     "title": "LibreOffice 26.8 Beta Released For Improving This Free Software Office Suite",
@@ -636,101 +782,5 @@
     "published_at": "2026-07-08T12:50:59Z",
     "source": "lwn.net",
     "source_url": "https://lwn.net"
-  },
-  {
-    "title": "Wayland No Longer Considered Experimental For Linux Mint's Next Cinnamon Release",
-    "link": "https://www.phoronix.com/news/LinuxMint-Cinnamon-Wayland-Good",
-    "description": "The Linux Mint distribution has published their June development summary that most notably includes work on Cinnamon's Wayland support where it's now ready to graduate...",
-    "guid": "https://www.phoronix.com/news/LinuxMint-Cinnamon-Wayland-Good",
-    "date": "Jul 08, 2026 12:23",
-    "published_at": "2026-07-08T12:23:39Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "TUXEDO OS is Ditching Ubuntu for a Debian Base That Never Goes Stable",
-    "link": "https://feed.itsfoss.com/link/24361/17374891/tuxedo-os-is-ditching-ubuntu",
-    "description": "Their dependency on Ubuntu 'snapped' so they are \"testing\" Debian now.",
-    "guid": "6a4ddc618181fe0001a595b7",
-    "date": "Jul 08, 2026 12:02",
-    "published_at": "2026-07-08T12:02:28Z",
-    "image": "https://itsfoss.com/content/images/2026/07/tuxedo-os-debian-testing-rebase-banner.png",
-    "source": "itsfoss.com",
-    "source_url": "https://itsfoss.com/"
-  },
-  {
-    "title": "Linux 7.3 To Make It Easier To Disable Syscall User Dispatch",
-    "link": "https://www.phoronix.com/news/Toggle-Syscall-User-Dispatch",
-    "description": "Introduced to the Linux kernel nearly six years ago was the Syscall User Dispatch feature to help with Linux gaming. Specifically, Syscall User Dispatch was developed to help Windows games run on Linux more efficiently. While it was upstreamed in Linux 5.11 for more efficiently intercepting system calls from Windows software under Wine, now in the name of security there are patches working their way to the mainline kernel to more easily disable it...",
-    "guid": "https://www.phoronix.com/news/Toggle-Syscall-User-Dispatch",
-    "date": "Jul 08, 2026 10:40",
-    "published_at": "2026-07-08T10:40:58Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "NVIDIA 610.43.03 driver released for Linux with a vague changelog",
-    "link": "https://www.gamingonlinux.com/2026/07/nvidia-610-43-03-driver-released-for-linux-with-a-vague-changelog/",
-    "description": "NVIDIA just released Linux driver version 610.43.03, once again being rather vague about what has actually changed in it.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/07/nvidia-610-43-03-driver-released-for-linux-with-a-vague-changelog/",
-    "date": "Jul 08, 2026 09:26",
-    "published_at": "2026-07-08T09:26:26Z",
-    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/nvidia-logo.jpg",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "NTE: Neverness to Everness released on Steam - works on SteamOS / Linux with a workaround",
-    "link": "https://www.gamingonlinux.com/2026/07/nte-neverness-to-everness-released-on-steam-works-on-steamos-linux-with-a-workaround/",
-    "description": "NTE: Neverness to Everness is the latest bigger Anime gacha game to arrive on Steam from Perfect World Games / Hotta Studio and it can work on SteamOS / Linux.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/07/nte-neverness-to-everness-released-on-steam-works-on-steamos-linux-with-a-workaround/",
-    "date": "Jul 08, 2026 09:03",
-    "published_at": "2026-07-08T09:03:54Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1514367643id29350gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Humble Choice has some essentials for July 2026 like Sea of Stars and Drop Duchy",
-    "link": "https://www.gamingonlinux.com/2026/07/humble-choice-has-some-essentials-for-july-2026-like-sea-of-stars-and-drop-duchy/",
-    "description": "Humble Choice for July 2026 is out now and there's some really wonderful games included - this is one not to be missed.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/07/humble-choice-has-some-essentials-for-july-2026-like-sea-of-stars-and-drop-duchy/",
-    "date": "Jul 08, 2026 08:06",
-    "published_at": "2026-07-08T08:06:51Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/997933168id29349gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "xorg-server 21.1.24 and xwayland 24.1.13 released to fix more security issues",
-    "link": "https://www.gamingonlinux.com/2026/07/xorg-server-21-1-24-and-xwayland-24-1-13-released-to-fix-more-security-issues/",
-    "description": "More security issues were recently discovered with xorg-server 21.1.24 and xwayland 24.1.13 released to fix up the problems.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/07/xorg-server-21-1-24-and-xwayland-24-1-13-released-to-fix-more-security-issues/",
-    "date": "Jul 08, 2026 07:58",
-    "published_at": "2026-07-08T07:58:09Z",
-    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/xorg.jpg",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Proton 11.0-1 officially released to expand Windows games on SteamOS / Linux",
-    "link": "https://www.gamingonlinux.com/2026/07/proton-11-0-1-officially-released-to-expand-windows-games-on-steamos-linux/",
-    "description": "Valve just released Proton 11.0-1, a huge upgrade to their compatibility layer to run Windows games on SteamOS / Linux systems.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/07/proton-11-0-1-officially-released-to-expand-windows-games-on-steamos-linux/",
-    "date": "Jul 08, 2026 07:48",
-    "published_at": "2026-07-08T07:48:27Z",
-    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/proton%20logo%20official.jpg",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "XWayland 24.1.13 Released To Fix Two More Security Issues In The X.Org Codebase",
-    "link": "https://www.phoronix.com/news/XWayland-24.1.13-Released",
-    "description": "Two more security issues were made public today concerning the X.Org Server codebase and in turn XWayland also being affected...",
-    "guid": "https://www.phoronix.com/news/XWayland-24.1.13-Released",
-    "date": "Jul 08, 2026 01:44",
-    "published_at": "2026-07-08T01:44:06Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
   }
 ]
