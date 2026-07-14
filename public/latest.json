@@ -1,5 +1,206 @@
 [
   {
+    "title": "Intel Vulkan Driver Now Supports H.265 10-bit Video Encoding",
+    "link": "https://www.phoronix.com/news/Intel-Vulkan-Video-10-bit-H265",
+    "description": "Hyunjun Ko with Igalia continues advancing the Vulkan Video capabilities of the Intel open-source \"ANV\" Vulkan driver for Linux systems...",
+    "guid": "https://www.phoronix.com/news/Intel-Vulkan-Video-10-bit-H265",
+    "date": "Jul 14, 2026 11:58",
+    "published_at": "2026-07-14T11:58:20Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "7 Open Source Trello Alternatives For Your Kanban Boards",
+    "link": "https://feed.itsfoss.com/link/24361/17380029/open-source-trello-alternatives",
+    "description": "Trello has changed a lot since I started using it in 2013. If you want that old-school Kanban simplicity back, here are the open source alternatives worth a look.",
+    "guid": "6a5323cdeebe540001b4b5c8",
+    "date": "Jul 14, 2026 11:14",
+    "published_at": "2026-07-14T11:14:47Z",
+    "image": "https://itsfoss.com/content/images/2026/07/opensource-trello-alternatives.webp",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "Fanatical launch the Best of Killer Bundle with some good stuff for cheaps",
+    "link": "https://www.gamingonlinux.com/2026/07/fanatical-launch-the-best-of-killer-bundle-with-some-good-stuff-for-cheaps/",
+    "description": "Fanatical are doing an \"All Star Bundle Week\" where multiple bundles will launch with some popular stuff - the first is the Best of Killer Bundle.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/07/fanatical-launch-the-best-of-killer-bundle-with-some-good-stuff-for-cheaps/",
+    "date": "Jul 14, 2026 11:11",
+    "published_at": "2026-07-14T11:11:18Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/2037295001id29385gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Indian Scientists Produce Most Detailed 3D Atlas of the Human Brainstem",
+    "link": "https://science.slashdot.org/story/26/07/14/0723207/indian-scientists-produce-most-detailed-3d-atlas-of-the-human-brainstem?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Scientists at the Indian Institute of Technology, Madras (IIT-M) have created what they describe as the world's most detailed 3D cellular atlas of the human brainstem, linking whole-brain MRI views to individual neurons across more than 500 tissue sections. The free online atlas, called Anchor, could help researchers better understand diseases such as Alzheimer's, Parkinson's, stroke, and SIDS by showing how healthy and diseased brain tissue differs cell by cell. The BBC reports: Built from high-resolution microscope images rather than costlier molecular techniques, it creates a detailed three-dimensional map of the brainstem, identifying more than 200 clusters of brain cells and nerve pathways. Eight chemical markers help distinguish different cell types, producing one of the clearest pictures yet of this vital, but poorly, understood part of the brain. The brainstem occupies only a sliver of the brain, yet it keeps people alive. It links the brain to the spinal cord and controls breathing, heartbeat, sleep, wakefulness and movement.\n \n[...] Users can zoom from the whole brainstem seen on MRI down to individual neurons while maintaining their precise spatial relationships. The researchers have made the atlas freely available online, hoping it becomes a reference tool for neuroscientists, neurologists and neurosurgeons worldwide. Its applications could also extend well beyond anatomy. By comparing healthy brainstem maps with diseased tissue, scientists may better understand disorders ranging from Parkinson's disease and stroke to Alzheimer's disease and sudden infant death syndrome (SIDS). More precise maps could also help neurosurgeons navigate one of the brain's most delicate regions with greater confidence.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Jul 14, 2026 11:00",
+    "published_at": "2026-07-14T11:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "HYPERWIRED is a great twist on arcade shoot 'em ups where you have to keep plugging in",
+    "link": "https://www.gamingonlinux.com/2026/07/hyperwired-is-a-great-twist-on-arcade-shoot-em-ups-where-you-have-to-keep-plugging-in/",
+    "description": "HYPERWIRED brings together the worlds of arcade shooters with some roguelike mechanics of repeatable runs and upgrades - but with a finite resources twist.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/07/hyperwired-is-a-great-twist-on-arcade-shoot-em-ups-where-you-have-to-keep-plugging-in/",
+    "date": "Jul 14, 2026 10:33",
+    "published_at": "2026-07-14T10:33:58Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1908007324id29384gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Linux Dealing With Apple's Wild Mess Of Sensors On Apple Silicon SoCs",
+    "link": "https://www.phoronix.com/news/Apple-Wild-Mess-Sensors-Linux",
+    "description": "While there has been the Apple System Management Controller \"SMC\" hardware monitoring driver with the intent on exposing battery/power stats as well as thermal and more for Apple Silicon SoCs on Linux, it hasn't yet been working out properly on the mainline kernel. Between missing Device Tree nodes to the hodgepodge mess of sensors between the different Apple M-Series SoCs, it's a mess...",
+    "guid": "https://www.phoronix.com/news/Apple-Wild-Mess-Sensors-Linux",
+    "date": "Jul 14, 2026 10:31",
+    "published_at": "2026-07-14T10:31:10Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Haiku Merges NVMM For Initial Virtualization Support, But It Doesn't Yet Fully Work",
+    "link": "https://www.phoronix.com/news/Haiku-June-2026",
+    "description": "The BeOS-inspired Haiku open-source operating system project has published their June 2026 status report. In the past month the developers merged their NVMM VM monitor support, hardware driver improvements, and progressed toward the upcoming Haiku sixth beta release...",
+    "guid": "https://www.phoronix.com/news/Haiku-June-2026",
+    "date": "Jul 14, 2026 10:11",
+    "published_at": "2026-07-14T10:11:00Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "\"Light\" GRUB Alternative Package For Confidential Computing Approved For Fedora 45",
+    "link": "https://www.phoronix.com/news/GRUB-Light-Approved-Fedora-45",
+    "description": "A month ago there was a change proposal raised for offering a \"light\" version of the GRUB2 bootloader for use in confidential computing environments. While there were some differing views on the matter for this alternative, stripped-down GRUB package as opposed to just using other bootloaders like systemd-boot, ultimately, the proposal is now approved...",
+    "guid": "https://www.phoronix.com/news/GRUB-Light-Approved-Fedora-45",
+    "date": "Jul 14, 2026 09:51",
+    "published_at": "2026-07-14T09:51:00Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Weston 16.0 Compositor Released With HDR Improvements, Vulkan Fixes",
+    "link": "https://www.phoronix.com/news/Wayland-Weston-16.0",
+    "description": "Overnight the Weston 16.0 release occurred as the latest milestone for this reference Wayland compositor...",
+    "guid": "https://www.phoronix.com/news/Wayland-Weston-16.0",
+    "date": "Jul 14, 2026 09:40",
+    "published_at": "2026-07-14T09:40:12Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Get a bundle of 12 narrative games for $10 from Humble Bundle",
+    "link": "https://www.gamingonlinux.com/2026/07/get-a-bundle-of-12-narrative-games-for-10-from-humble-bundle/",
+    "description": "You can build up your gaming library nicely with the Narrative 12 for $10 Humble Bundle - with some real gems included in it.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/07/get-a-bundle-of-12-narrative-games-for-10-from-humble-bundle/",
+    "date": "Jul 14, 2026 08:12",
+    "published_at": "2026-07-14T08:12:21Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1106134719id29383gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "GoldenEye and Perfect Dark inspired shooter Agent 64: Spies Never Die launches August 11",
+    "link": "https://www.gamingonlinux.com/2026/07/goldeneye-and-perfect-dark-inspired-shooter-agent-64-spies-never-die-launches-august-11/",
+    "description": "This looks like a serious amount of fun! Inspired by some classics like GoldenEye and Perfect Dark, the shooter Agent 64: Spies Never Die launches August 11th.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/07/goldeneye-and-perfect-dark-inspired-shooter-agent-64-spies-never-die-launches-august-11/",
+    "date": "Jul 14, 2026 07:45",
+    "published_at": "2026-07-14T07:45:13Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1815474188id29382gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "If you love the classic Resident Evil then keep an eye on Pulsebreaker",
+    "link": "https://www.gamingonlinux.com/2026/07/if-you-love-the-classic-resident-evil-then-keep-an-eye-on-pulsebreaker/",
+    "description": "Inspired by classics from the PlayStation 1 era, Pulsebreaker is a back to basics survival horror game that looks like you'll need spare pants to play.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/07/if-you-love-the-classic-resident-evil-then-keep-an-eye-on-pulsebreaker/",
+    "date": "Jul 14, 2026 07:34",
+    "published_at": "2026-07-14T07:34:53Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1546933489id29381gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Face the cold and various horrors in the spooky looking After Hell Freezes Over",
+    "link": "https://www.gamingonlinux.com/2026/07/face-the-cold-and-various-horrors-in-the-spooky-looking-after-hell-freezes-over/",
+    "description": "This upcoming indie survival game looks quite unusual with its mixture of atmospheric storytelling and immersive survival mechanics.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/07/face-the-cold-and-various-horrors-in-the-spooky-looking-after-hell-freezes-over/",
+    "date": "Jul 14, 2026 07:26",
+    "published_at": "2026-07-14T07:26:53Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1149220021id29380gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Abyssal Merge is a multi-tasking fishing bullet hell",
+    "link": "https://www.gamingonlinux.com/2026/07/abyssal-merge-is-a-multi-tasking-fishing-bullet-hell/",
+    "description": "Abyssal Merge looks just as crazy as it sounds with you needing multi-tasking skills to beat this unique upcoming bullet hell.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/07/abyssal-merge-is-a-multi-tasking-fishing-bullet-hell/",
+    "date": "Jul 14, 2026 07:21",
+    "published_at": "2026-07-14T07:21:09Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/725153562id29379gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Scientists Find Sugar Deep In Our Galaxy",
+    "link": "https://science.slashdot.org/story/26/07/14/073233/scientists-find-sugar-deep-in-our-galaxy?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Astronomers have detected erythrulose, a sugar found in raspberries and self-tanners, in a gas cloud near the center of the Milky Way. While not essential for life itself, the molecule can convert into a form thought to be important for life's origins, adding evidence that key prebiotic ingredients may be widespread across the galaxy. The Associated Press reports: Using two dish-shaped radio telescopes in Spain, researchers collected data from a large gas cloud near the center of the Milky Way. They identified the sugar in gas form by comparing telescope signals to samples in the lab. It's the latest kind of sugar detected in space -- in a region crossed by NASA's twin Voyager, the farthest spacecraft to ever travel from Earth.\n \nScientists have found interesting chemistry in our galaxy, including building blocks for genetic material and parts of the cell. They spotted a cousin to table sugar near the center of the Milky Way about 25 years ago, and black grains from asteroid Bennu retrieved by NASA's Osiris-Rex spacecraft yielded other sugars, including a key DNA ingredient. The latest sugar isn't essential for life, but can easily convert to a form that's thought to be crucial to kick-starting life on Earth. And it's one of the most complex sugars spotted so far, said astrophysicist Erika Hamden with the University of Arizona. The results were published in the journal Nature Astronomy.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Jul 14, 2026 07:05",
+    "published_at": "2026-07-14T07:05:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "New IncidentRelay Platform Brings Open-Source On-Call Management",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366185",
+    "description": "IncidentRelay is a new self-hosted platform for on-call scheduling, alert routing, escalations, and incident response.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366185",
+    "date": "Jul 14, 2026 05:17",
+    "published_at": "2026-07-14T05:17:45Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Over 200 Economists Say 'We Must Act Now' On AI's Economic Impact",
+    "link": "https://slashdot.org/story/26/07/13/2210232/over-200-economists-say-we-must-act-now-on-ais-economic-impact?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from the Associated Press: Hundreds of economists say in an open letter that institutions \"must act now\" to address how artificial intelligence could transform the economy and could put many people out of work. The statement released Monday was signed by top economists, along with computer scientists and some executives at tech companies including Anthropic, Google and OpenAI.\n \n\"AI may become radically more powerful over the next 10 years,\" says the letter organized by Stanford University's digital economy lab. \"This could drive an unprecedented transformation of our economy, larger than the Industrial Revolution, but unfolding over a vastly shorter time frame. It could bring risks, including large-scale job displacement, as well as opportunities such as major gains in living standards.\"\n \nThe letter, which has only four sentences, says leaders must \"build the incentives, guardrails, and institutions needed to steer AI in a direction that complements humans and benefits society.\" The Stanford lab says the letter has so far been signed by more than 200 economists and AI researchers, including 16 winners of a Nobel Prize. \"We must be intentional and make collective, democratic choices, rather than letting market forces play out and risking leaving most citizens behind,\" wrote computer scientist and AI pioneer Yoshua Bengio, who was also among the signatories. He said it \"it is highly plausible that AI will drastically transform our economies.\"\n \nOther signatories include Google CEO Eric Schmidt, LinkedIn cofounder Reid Hoffman, and Nobel laureates Joseph Stiglitz, Daron Acemonglu, and Simon Johnson.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Jul 14, 2026 03:30",
+    "published_at": "2026-07-14T03:30:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "GNOME OS Plans a TestFlight-Like App for Experimental Software",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366189",
+    "description": "GNOME OS could gain a TestFlight-like Test Center for installing temporary experimental builds through simple sharing links.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366189",
+    "date": "Jul 14, 2026 02:14",
+    "published_at": "2026-07-14T02:14:46Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "New Linux Patches Aim To Better Handle Multiple Swap Devices",
+    "link": "https://www.phoronix.com/news/Linux-Improve-Multi-Swap-Device",
+    "description": "For those having Linux systems with multiple swap devices, such as for swap tiering or layered swap handling, a set of patches posted today for the Linux kernel are looking to improve the situation...",
+    "guid": "https://www.phoronix.com/news/Linux-Improve-Multi-Swap-Device",
+    "date": "Jul 14, 2026 00:38",
+    "published_at": "2026-07-14T00:38:08Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
     "title": "Microsoft Promises To Fix Search With Major Windows 11 Overhaul",
     "link": "https://tech.slashdot.org/story/26/07/13/2149251/microsoft-promises-to-fix-search-with-major-windows-11-overhaul?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
     "description": "Microsoft is overhauling Windows 11 search to prioritize local apps, files, and settings over web results while removing ads, promotions, MSN/Bing clutter, and other distractions. \"You've have been asking for search that is faster, more relevant, and easier to use -- whether you're opening an app, finding a file, or changing a setting,\" Microsoft says in a new blog post. \"Because the Windows Search Box is where many people start, we focused first on making results more dependable, easier to scan, and clearer before you click.\" Windows Central reports: The company is highlighting several key improvements, including clearer results that does a better job at showing why a search result is appearing when a query has been typed, alongside prioritizing local results before reaching out to the web.\n \nSearch is also getting better at handling things like typos, which should help surface the right results even when the user misspells an app or file. The search home pane will no longer show MSN or Bing content, and promotional content and ads will no longer appear in search results.\n \nThese upgrades are now rolling out to Windows Insiders in the Experimental Channel, and are expected to roll out to all Windows 11 users later this year. Insiders may not see the changes right away as they are rolling out in waves. The full list of changes can be found here.\n\n\n\n\n\nRead more of this story at Slashdot.",
@@ -349,6 +550,16 @@
     "source_url": "https://www.gamingonlinux.com/"
   },
   {
+    "title": "Linux 7.2 Enabling UltraRISC RISC-V Support In The Default Kernel Build",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366176",
+    "description": "Similar to Linux 7.2 enabling Eswin SoC support by default in the RISC-V \"defconfig\" kernel build, UltraRISC RISC-V coverage is also now being enabled by default for RISC-V kernel builds in Linux 7.2...",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366176",
+    "date": "Jul 13, 2026 07:36",
+    "published_at": "2026-07-13T07:36:23Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
     "title": "Proton-CachyOS version 11.0-20260702 brings AMD FSR4 upgrades, Pipewire changes",
     "link": "https://www.gamingonlinux.com/2026/07/proton-cachyos-version-11-0-20260702-brings-amd-fsr4-upgrades-pipewire-changes/",
     "description": "Proton-CachyOS version 11.0-20260702 has been released to bring a bunch more enhancements to running Windows games on SteamOS / Linux.Read the full article on GamingOnLinux.",
@@ -392,116 +603,13 @@
     "source_url": "https://slashdot.org/"
   },
   {
-    "title": "Linuxiac Weekly Wrap-Up: Week 28, 2026 (July 6 – 12)",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366178",
-    "description": "Catch up on the latest Linux news: Debian 13.6, Proton 11.0, Wine 11.13, Plasma 6.6.6, COSMIC Desktop Frosted Glass effect, Linux Mint 23 will support Wayland, and more.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366178",
-    "date": "Jul 13, 2026 03:01",
-    "published_at": "2026-07-13T03:01:55Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Semi-Trailer Trucks Test Converting Into Plug-In Hybrids",
-    "link": "https://tech.slashdot.org/story/26/07/13/0121226/semi-trailer-trucks-test-converting-into-plug-in-hybrids?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Long-time Slashdot reader necro81 writes: There are several companies, such as Tesla, trying to make semi trucks fully electric. The capital cost for such a truck, and the MW-scale infrastructure to recharge it, may be a hard sell for some operators. [IEEE Spectrum notes that's a charging infrastructure \"that most freight corridors do not yet reliably provide.\"] But some companies are instead adding batteries and an electric motor to the semi-trailers that trucks haul behind them. \n\n\"The Nivalis Powered Trailer Kit centers on an electric axle [rated at 50 kilowatts-peak]... capable of both propulsion assistance and regenerative braking. It draws on a 60-kilowatt-hour, 400-volt lithium-ion battery pack charged from three sources: the axle itself during braking and deceleration, a full-rooftop array of photovoltaic panels generating up to 3.7 kilowatts-peak, and a 32-amp, three-phase AC grid connection available during parking stops.\"\n \n\nThis approach is more akin to a plug-in hybrid: the truck may still be diesel-powered, but the electric assist from the trailer allows the truck to run more efficiently. Replacing diesel with kWh can save operators money while also reducing emissions. This incremental approach may be more accessible and less capital-intensive than replacing the truck itself. \nFrom the article:\n\nThe driver's only window into the system is a small display readable from the cab's side mirror that shows the system status and battery charge level. Nothing about the trailer's handling or licensing requirements changes. The partners project savings of up to 7,000 liters of diesel per trailer per year, which is enough to keep about 19 tonnes of carbon dioxide out of the air... \n\n Trailer Dynamics, an Aachen-based company, has conducted field tests with BMW Logistics, DB Schenker, Duvenbeck, and Volkswagen Konzernlogistik, reporting average fuel savings of around 40% for diesel tractor combinations, substantially higher than the up to 18% reduction implied by the Nivalis projection... Trailer Dynamics prices its system between €145,000 and €195,000 and targets a payback period of no more than five years. Nivalis targets five to six years at current costs.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Jul 13, 2026 01:54",
-    "published_at": "2026-07-13T01:54:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "PeaZip 11.2 Open-Source Archive Manager Is Out with Support for ZIM Archives",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366173",
-    "description": "PeaZip 11.2 has been released today as a new point release in the latest PeaZip 11 series of this open-source, free, and cross-platform archive manager for GNU/Linux, macOS, and Windows platforms.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366173",
-    "date": "Jul 13, 2026 01:30",
-    "published_at": "2026-07-13T01:30:26Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Realtek RTL8723BS WiFi Linux Driver Hardened Against Malicious WiFi Access Points",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366168",
-    "description": "The staging driver fixes that were sent out this week ahead of the Linux 7.2-rc3 release is predominantly made up of hardening the Realtek RTL8723BS WiFi driver. In particular, a number of fixes for addressing out-of-bounds behavior when connecting to \"bad\" WiFi hosts...",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366168",
-    "date": "Jul 12, 2026 23:58",
-    "published_at": "2026-07-12T23:58:57Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "'Billionaire Exodus? California Drew 10x More Venture Capital Than Any Other State This Year'",
-    "link": "https://news.slashdot.org/story/26/07/12/2326225/billionaire-exodus-california-drew-10x-more-venture-capital-than-any-other-state-this-year?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "California drew more than $335 billion in venture capital funding this year, reports the Los Angeles Times, citing data released Thursday by PitchBook on private market funding:\n\nIts next biggest competitor, New York, raised less than a tenth of California's total. Texas raised 1/40th of the amount... Although a campaign for a new tax on billionaires has convinced some ultra-rich residents to shift to other states and businesses often complain that high property and energy costs and an anti-business regulatory regime make it too tough to make money in the state, the inability of the top talent, companies and investors in AI to set up elsewhere shows California's enduring attraction. \n\nThe state's economy grew 5% last year to a record $4.25 trillion, making it larger than every country other than the U.S., China and Germany. It is home to nearly 400 billion-dollar startups — more than any other state, according to CB Insights... Among metropolitan regions, Los Angeles ranked behind only Silicon Valley and New York, which attracted $98 billion and $11.5 billion in venture investment, respectively... Investors poured in nearly $8 billion across 207 deals in the Los Angeles, Long Beach, and Santa Ana metro areas, up 28% from a year earlier, according to PitchBook... \n\nNearly 90% of invested dollars [in California] went to AI firms, up from last year, when around 65% of new funds were allocated to AI. \"If you're a tech company and you're not an AI company, you have a very, very difficult opportunity ahead of you to raise capital,\" Stanford said.\n\n\n\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Jul 12, 2026 23:34",
-    "published_at": "2026-07-12T23:34:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Kernel prepatch 7.2-rc3",
-    "link": "https://lwn.net/Articles/1082487/",
-    "description": "The 7.2-rc3 kernel prepatch is out for\ntesting.  Linus said: \"Things continue to look normal (the 'new normal'\nwith slightly higher rates of commits, although I do get the feeling that\nwe're seeing that slightly balanced out by people starting to go on summer\nvacation)\".",
-    "guid": "https://lwn.net/Articles/1082487/",
-    "date": "Jul 12, 2026 23:29",
-    "published_at": "2026-07-12T23:29:47Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "'Forget Coders. The Real AI Threat Is In the Back Office'",
-    "link": "https://it.slashdot.org/story/26/07/12/2224249/forget-coders-the-real-ai-threat-is-in-the-back-office?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Which jobs are most threatened by AI? \"Programmers, software engineers and other tech industry employees,\" goes one common answer. \n\n\"But many economists are more concerned about a different, larger group of white-collar workers,\" reports the New York Times: customer service reps, bookkeepers, payroll clerks and HR specialists, \"who fly under the radar but collectively account for tens of millions of jobs...\"\n\nThey are spread across the country and throughout the economy, working in every industry, in big cities and small towns, at major corporations and mom-and-pop businesses... These jobs typically offer a middle-class salary or a pathway to achieving one — much as manufacturing jobs did for men before decades of globalisation and automation wiped many of them away... For now, such an outcome is a fear, not a forecast. Despite high-profile layoffs in tech and finance, there is little firm evidence that AI has hurt the labour market as a whole. \n\n\nEconomists have become increasingly convinced that disruptions are likely, but they say it is too early to know where or how widespread they will be. They remain broadly sceptical of claims that the technology will lead to mass unemployment in the near future. Some AI industry leaders have walked back such predictions in recent weeks. But given the extraordinary pace at which companies are adopting AI — and at which the technology is improving — economists say policymakers need to consider the potential effects on the labour market. And they say they are concerned that the public debate has focused too much on software engineers and a relative handful of other high-status careers — lawyers, consultants, economists — rather than the workers who could be most vulnerable... \n\nEconomists at Northwestern University recently recalculated measures of AI exposure based on the makeup of the total workforce, not just the people using the technology. Administrative and front-line roles, such as customer service representatives, rose to the top of the list. \"The most affected jobs are secretaries, are routine clerks,\" said Michelle Yin, one of the working paper's authors. \"They're not computer scientists or data scientists at all.\"\n \n\nThe article also includes this counterpoint from an economist at the University of Illinois who has studied earlier waves of white-collar automation: that like other disruptive technologies, AI likely will also create new jobs. So the possibility exists AI will make workers more productive and allow them to earn more. \"I would be cautious about just focusing on what are we losing as opposed to what are we going to gain on the other side.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Jul 12, 2026 22:29",
-    "published_at": "2026-07-12T22:29:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "HackerBox 0128 Mesh Deck explores LoRa communication with Meshtastic",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366174",
-    "description": "HackerBox has released Issue 0128, titled “Mesh Deck,” a DIY communications platform built around a ProMicro nRF52840 development board, an SX1262-based LoRa module, a GPS receiver, an OLED display, and a miniature QWERTY keyboard. The kit focuses on assembling and configuring a portable Meshtastic node for decentralized messaging without cellular or internet service. The main […]",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366174",
-    "date": "Jul 12, 2026 22:27",
-    "published_at": "2026-07-12T22:27:27Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
     "title": "Linux 7.2-rc3 Released: Close To The \"New Normal\"",
-    "link": "https://www.phoronix.com/news/Linux-7.2-rc3-Released",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366177",
     "description": "Linux 7.2-rc3 is now available for testing in working toward the stable Linux 7.2 kernel version coming up in August...",
-    "guid": "https://www.phoronix.com/news/Linux-7.2-rc3-Released",
-    "date": "Jul 12, 2026 21:59",
-    "published_at": "2026-07-12T21:59:23Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Deb Dev Builds Graphical Debian Vulnerability Exporter for Prometheus",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366175",
-    "description": "Built on debsecan, debvulns?exporter surfaces Debian security metadata for Prometheus and Grafana.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366175",
-    "date": "Jul 12, 2026 20:55",
-    "published_at": "2026-07-12T20:55:58Z",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366177",
+    "date": "Jul 13, 2026 04:33",
+    "published_at": "2026-07-13T04:33:24Z",
     "source": "lxer.com",
     "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Linux 7.2 Enabling UltraRISC RISC-V Support In The Default Kernel Build",
-    "link": "https://www.phoronix.com/news/Linux-7.2-UltraRISC-RISC-V",
-    "description": "Similar to Linux 7.2 enabling Eswin SoC support by default in the RISC-V \"defconfig\" kernel build, UltraRISC RISC-V coverage is also now being enabled by default for RISC-V kernel builds in Linux 7.2...",
-    "guid": "https://www.phoronix.com/news/Linux-7.2-UltraRISC-RISC-V",
-    "date": "Jul 12, 2026 20:25",
-    "published_at": "2026-07-12T20:25:10Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
   }
 ]
