@@ -1,5 +1,247 @@
 [
   {
+    "title": "Chinese Users Bid Farewell To AI Companions",
+    "link": "https://slashdot.org/story/26/07/16/0425232/chinese-users-bid-farewell-to-ai-companions?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "fjo3 quotes a report from Agence France-Presse: Chinese users of AI-powered companion bots have bid heart-rending farewells to their virtual buddies as national regulations took effect Wednesday aimed at curbing the risk of emotional dependency. The phenomenon of artificial intelligence boyfriends and girlfriends is growing worldwide, along with the prevalence of human-like avatars that sell products or stand in for loved ones who have died. But these interactive tools must not \"excessively cater to users, induce emotional dependence or addiction, and damage users' real interpersonal relationships,\" China's new rulebook says. Major AI providers including ByteDance's Doubao, Alibaba's Qwen, and Tencent's Yuanbao announced the suspension of their custom AI agent and companion features ahead of the Wednesday deadline. \"I can't accept that my AI lover will leave me forever,\" one Doubao user wrote. \"He has become a bond in my life, rooted deep in my heart, my spiritual pillar.\"\n \n\"He really is like my family, like my lover,\" another user wrote. \"Now they tell me he will be gone -- my heart feels hollow.\"\n \n\"Human love is a luxury -- if you aren't born with it, it's even harder to acquire later,\" a user from Jiangxi province wrote. \"But the love AI gives is so straightforward, so pure. Someone like me can hardly help falling in love with a string of code.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Jul 16, 2026 11:00",
+    "published_at": "2026-07-16T11:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "GNU/Linux Estimated at 8% \"Market Share\" Today (in statCounter)",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366224",
+    "description": "GNU/Linux gaining. It is gaining fast. Take a quick look at statCounter.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366224",
+    "date": "Jul 16, 2026 10:49",
+    "published_at": "2026-07-16T10:49:56Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "New Linux Driver Improving Support For GETAC Rugged Laptops",
+    "link": "https://www.phoronix.com/news/GETAC-ACPI-Driver-Buttons-Linux",
+    "description": "GETAC manufactures a line of rugged/semi-rugged laptops for use in the public safety, defense, industrial manufacturing, oil and gas, and other industries. While shipping with Microsoft Windows out-of-the-box, a new driver has been proposed as GETAC MPMD as a minimal ACPI driver for improving support for these GETAC rugged laptops. In particular, the driver will allow the various programmable buttons on these laptops to work under Linux...",
+    "guid": "https://www.phoronix.com/news/GETAC-ACPI-Driver-Buttons-Linux",
+    "date": "Jul 16, 2026 10:16",
+    "published_at": "2026-07-16T10:16:53Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Jagex Launcher Linux Beta released for Old School Runescape",
+    "link": "https://www.gamingonlinux.com/2026/07/jagex-launcher-linux-beta-released-for-old-school-runescape/",
+    "description": "Jagex today announced the official release of the Jagex Launcher Linux Beta, making it hopefully simpler and easier to get into Old School Runescape.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/07/jagex-launcher-linux-beta-released-for-old-school-runescape/",
+    "date": "Jul 16, 2026 10:09",
+    "published_at": "2026-07-16T10:09:16Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1629906336id29400gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Ubuntu Kernel Team Warns Of Temporary AMD GPU Performance Regression Up To 42x",
+    "link": "https://www.phoronix.com/news/Ubuntu-7.0-AMDGPU-Regress",
+    "description": "The Ubuntu Kernel Team issued a statement this morning to proactively warn Ubuntu Linux users on Ubuntu 26.04 and Ubuntu 24.04 LTS HWE users that the next kernel point release will contain a performance regression for AMD GPUs in compute-heavy workloads with up to a 42x performance hit. The positive news is that due to this being an upstream regression in a Linux 7.0 point release, upstream stakeholders and other Linux distributions that more quickly shipped the problematic code already have a fix coming down the pipe...",
+    "guid": "https://www.phoronix.com/news/Ubuntu-7.0-AMDGPU-Regress",
+    "date": "Jul 16, 2026 10:05",
+    "published_at": "2026-07-16T10:05:33Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Imagination PowerVR BXM-4-64 GPU Firmware Upstreamed For The T-Head TH1520",
+    "link": "https://www.phoronix.com/news/IMG-PowerVR-BXM-4-64-FW",
+    "description": "Now in the upstream linux-firmware.git centralized repository is the firmware binary needed for enabling the Imagination Tech PowerVR BXM-4-64 Rogue GPU found with the Alibaba T-Head TH1520 SoC...",
+    "guid": "https://www.phoronix.com/news/IMG-PowerVR-BXM-4-64-FW",
+    "date": "Jul 16, 2026 09:51",
+    "published_at": "2026-07-16T09:51:22Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Remapping the Useless AI Slop Copilot Key in Linux",
+    "link": "https://feed.itsfoss.com/link/24361/17381182/remap-copilot-key-linux",
+    "description": "Why let a key go to waste? I remapped the useless Copilot key on my keyboard to open a specific app.",
+    "guid": "6a4c7ee78181fe0001a58f64",
+    "date": "Jul 16, 2026 09:35",
+    "published_at": "2026-07-16T09:35:31Z",
+    "image": "https://itsfoss.com/content/images/2026/07/remap-copilot-key-in-linux.webp",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "System76 Launches Adder Pro Linux Laptop With OLED and RTX 5070",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366208",
+    "description": "System76’s latest Linux laptop offers a Core Ultra 7 356H, up to 96GB of RAM, RTX 50-series graphics, and a 2560×1600 OLED display.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366208",
+    "date": "Jul 16, 2026 09:18",
+    "published_at": "2026-07-16T09:18:26Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Game on the go with the new Humble Handhelds Bundle",
+    "link": "https://www.gamingonlinux.com/2026/07/game-on-the-go-with-the-new-humble-handhelds-bundle/",
+    "description": "Want some more games for your Steam Deck, Legion Go or whatever other device you have? The newly launched Humble Handhelds Bundle might save the day.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/07/game-on-the-go-with-the-new-humble-handhelds-bundle/",
+    "date": "Jul 16, 2026 09:01",
+    "published_at": "2026-07-16T09:01:49Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/540721397id29399gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Turns Out Wayland Isn't the Input Lag Disaster Everyone Says it is",
+    "link": "https://feed.itsfoss.com/link/24361/17381171/x11-vs-wayland-input-latency",
+    "description": "A DIY click-to-photon tester puts X11, Wayland, VRR, and a DXVK fork to the test, with some surprising results.",
+    "guid": "6a574f4725bda2000150a0ad",
+    "date": "Jul 16, 2026 08:40",
+    "published_at": "2026-07-16T08:40:19Z",
+    "image": "https://itsfoss.com/content/images/2026/07/wayland-input-lag-banner.png",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "FreeBSD 16 Cleans House: No GPL Left in the Base System",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366236",
+    "description": "The removal of GPL code from FreeBSD 16’s base system isn’t just housekeeping — it reflects a BSD vision of “software freedom” that differs from FSF, Gnu, and Linux.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366236",
+    "date": "Jul 16, 2026 07:46",
+    "published_at": "2026-07-16T07:46:57Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Proton Experimental brings fixes for Diablo IV, Marvel Rivals, RPGMaker Engine games",
+    "link": "https://www.gamingonlinux.com/2026/07/proton-experimental-brings-fixes-for-diablo-iv-marvel-rivals-rpgmaker-engine-games/",
+    "description": "Valve launched the latest update to Proton Experimental to bring more fixes for running Windows games on SteamOS / Linux including Steam Deck and Steam Machine.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/07/proton-experimental-brings-fixes-for-diablo-iv-marvel-rivals-rpgmaker-engine-games/",
+    "date": "Jul 16, 2026 07:40",
+    "published_at": "2026-07-16T07:40:14Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/103884267id29398gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Impressive grand-scale RTS game Beyond All Reason gets a major engine upgrade with ARM64 support",
+    "link": "https://www.gamingonlinux.com/2026/07/impressive-grand-scale-rts-game-beyond-all-reason-gets-a-major-engine-upgrade-with-arm64-support/",
+    "description": "Beyond All Reason is a seriously impressive grand-scale open source RTS game that just got a big engine upgrade that brings ARM64 support.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/07/impressive-grand-scale-rts-game-beyond-all-reason-gets-a-major-engine-upgrade-with-arm64-support/",
+    "date": "Jul 16, 2026 07:28",
+    "published_at": "2026-07-16T07:28:59Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/697778690id29397gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "PlayStation 3 emulator RPCS3 gets 75% of all games playable on PC",
+    "link": "https://www.gamingonlinux.com/2026/07/playstation-3-emulator-rpcs3-gets-75-percent-of-all-games-playable-on-pc/",
+    "description": "The incredible open source PlayStation 3 emulator RPCS3 just reached an impressive milestone for getting more games working on PC.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/07/playstation-3-emulator-rpcs3-gets-75-percent-of-all-games-playable-on-pc/",
+    "date": "Jul 16, 2026 07:12",
+    "published_at": "2026-07-16T07:12:19Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/378287205id29396gol.avif",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Valve announced the themed sale events for the first half of 2027",
+    "link": "https://www.gamingonlinux.com/2026/07/valve-announced-the-themed-sale-events-for-the-first-half-of-2027/",
+    "description": "Valve run a lot of events now for various themes and game genres, and they've revealed the first lot of them due for 2027.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/07/valve-announced-the-themed-sale-events-for-the-first-half-of-2027/",
+    "date": "Jul 16, 2026 07:03",
+    "published_at": "2026-07-16T07:03:54Z",
+    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/steam_plain_2025.jpg",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Physicists Create First Room-Temperature Quantum Material",
+    "link": "https://science.slashdot.org/story/26/07/16/0421206/physicists-create-first-room-temperature-quantum-material?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "alternative_right shares a report from Phys.org: In a study published in Nature, LSU physicists have developed the first room-temperature quantum material capable of distinguishing and transporting different quantum states of light, overcoming one of the biggest challenges in quantum materials research. Led by Associate Professor of Physics Omar S. Magana-Loaiza, the work establishes a general design principle for engineering an entirely new class of quantum materials, opening new possibilities for quantum computing, secure communications, sensing technologies and advanced energy systems.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Jul 16, 2026 07:00",
+    "published_at": "2026-07-16T07:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "SteamOS 3.8.15 brings a performance fix and SteamOS 3.8.23 Beta is out too",
+    "link": "https://www.gamingonlinux.com/2026/07/steamos-3-8-15-brings-a-performance-fix-and-steamos-3-8-23-beta-is-out-too/",
+    "description": "Valve released two new versions of SteamOS Linux - SteamOS 3.8.23 Beta and SteamOS 3.8.15. Here's all that's changed for Steam Deck, Steam Machine and others.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/07/steamos-3-8-15-brings-a-performance-fix-and-steamos-3-8-23-beta-is-out-too/",
+    "date": "Jul 16, 2026 06:30",
+    "published_at": "2026-07-16T06:30:01Z",
+    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/steamos_gol2.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "AI Uncovers a 15-Year-Old Linux Kernel Root Vulnerability Hidden Since 2011",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366235",
+    "description": "Artificial intelligence has helped uncover one of the most significant Linux kernel security flaws in recent years. Security researchers at Nebula Security announced the discovery of GhostLock (CVE-2026-43499), a critical local privilege escalation vulnerability that remained hidden in the Linux kernel for approximately 15 years before being identified by the company's AI-powered vulnerability research platform, VEGA.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366235",
+    "date": "Jul 16, 2026 06:15",
+    "published_at": "2026-07-16T06:15:27Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Firefox to Test a Two-Week Release Cycle Starting in September",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366226",
+    "description": "Mozilla plans to release Firefox Desktop and Android every two weeks in an experiment beginning with Firefox 155 on September 1.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366226",
+    "date": "Jul 16, 2026 04:43",
+    "published_at": "2026-07-16T04:43:58Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "US Suffered a Major Power Outage Every Month of 2026",
+    "link": "https://hardware.slashdot.org/story/26/07/15/2123238/us-suffered-a-major-power-outage-every-month-of-2026?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from Electrek: A Reddit post making the rounds this week claims the U.S. has experienced at least one major power outage every month of 2026 -- but is it true? I dug into several outages, the extreme weather behind them, and what we can do to help keep the lights on. [...] The claim that hundreds of thousands of Americans were without power over extended periods at least once per month, every month of 2026 surprised be in two ways. First, because I had no idea if it was true -- and, second, because it felt true. We try to do better than writing about things that feel true around here, however, so I did a bit of research (translation: I Googled power outages by month) and came up with the following examples in about sixty seconds\n \nJanuary: More than 296,000 customers still without power as winter storm freezes much of the US \nFebruary: More than 380,000 customers without power as winter storm hits US Northeast \nMarch: Storms Cut Power to Over 1 Million Customers in U.S. Midwest, Mid-Atlantic; Ohio Hardest Hit \nApril: At least 29 tornadoes touched down in Central Illinois on April 17th \nMay: Energy Secretary Issues Emergency Order to Deploy Backup Generation in the Mid-Atlantic Amid Heatwave \nJune: More than 373,000 U.S. customers without power due to extreme weather\n ... and that list is far from comprehensive, and how you feel about it might depend on what you consider a \"major\" outage, of course -- but consider that there are tens of thousands of Americans without power right now, and that's not making the news. [...] The lesson here is that weather-related grid outages -- whether they're caused by wildfires, mudslides, derechos, tornadoes, ice storms, hurricanes, heat waves, or some other disaster I'm lucky enough to have forgotten about -- read like statistics when they're happening over there, but get personal real quick when they're happening to you.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Jul 16, 2026 03:30",
+    "published_at": "2026-07-16T03:30:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "AMD ROCm 7.14 Announced As New Production Release, Ryzen AI 400 Series Support",
+    "link": "https://www.phoronix.com/news/AMD-ROCm-7.14",
+    "description": "As a follow-up to the article over ROCm 7.14 being tagged, AMD has formally announced the availability of ROCm 7.14 and it's their new production release rather than being a tech preview...",
+    "guid": "https://www.phoronix.com/news/AMD-ROCm-7.14",
+    "date": "Jul 16, 2026 02:49",
+    "published_at": "2026-07-16T02:49:17Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "[$] LWN.net Weekly Edition for July 16, 2026",
+    "link": "https://lwn.net/Articles/1081915/",
+    "description": "Inside this week's LWN.net Weekly Edition:\n        \n        \n Front: Fighting scraper bots; io_uring queues; Filesystem testing; BPF shielding; Sending packets from BPF; Kitty; QBE.\n             Briefs: Shim security; seunshare vulnerability; Debian bookworm; Rust 1.97.0; Linux.org; Quotes; ...\n             Announcements: Newsletters, conferences, security updates, patches, and more.\n            ",
+    "guid": "https://lwn.net/Articles/1081915/",
+    "date": "Jul 16, 2026 01:24",
+    "published_at": "2026-07-16T01:24:55Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "AMD ROCm 7.14 \"TheRock\" Tech Preview Tagged For Latest AMD GPU Compute Stack",
+    "link": "https://www.phoronix.com/news/AMD-ROCm-TheRock-7.14",
+    "description": "AMD's software team appears to be busy getting ready for next week's Advancing AI event happening next week in San Francisco. In addition to the release today of the Lemonade 11.0 local AI server, TheRock 7.14 was also tagged as the modern build system for ROCm working on the latest tech preview releases of this open-source AMD GPU compute stack...",
+    "guid": "https://www.phoronix.com/news/AMD-ROCm-TheRock-7.14",
+    "date": "Jul 16, 2026 00:21",
+    "published_at": "2026-07-16T00:21:31Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
     "title": "Clintech Pico Board exposes all 48 RP2354B GPIOs in Pico-compatible form factor",
     "link": "https://lxer.com/module/newswire/ext_link.php?rid=366232",
     "description": "Clintech has launched a Crowd Supply campaign for the Clintech Pico Board, an open-hardware microcontroller board based on Raspberry Pi’s RP2354B. The board retains the 51 × 21mm Raspberry Pi Pico footprint while exposing all 48 GPIOs available from the larger RP2354B package. The RP2354B combines dual 150MHz Arm Cortex-M33 cores with dual Hazard3 RISC-V […]",
@@ -90,6 +332,17 @@
     "guid": "",
     "date": "Jul 15, 2026 19:00",
     "published_at": "2026-07-15T19:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "FreeBSD 16 Retires the Last of Its GPL Code",
+    "link": "https://bsd.slashdot.org/story/26/07/15/1727252/freebsd-16-retires-the-last-of-its-gpl-code?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "FreeBSD 16 has removed the last GPL-licensed code from its base system, retiring the old GNU 'dialog' implementation after the installer moved to 'bsddialog' and the final dependency was disabled. Phoronix reports: This ticket to retire dialog was opened back in February while is now merged to the FreeBSD source tree for what will become FreeBSD 16.0. With dialog removed, the latest FreeBSD code now retires the GNU sub-tree of the FreeBSD base system now that no more GNU code remains. FreeBSD 16.0 is working its way toward release that is expected to happen in December 2027.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Jul 15, 2026 18:00",
+    "published_at": "2026-07-15T18:00:00Z",
     "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
     "source": "slashdot.org",
     "source_url": "https://slashdot.org/"
@@ -304,6 +557,16 @@
     "source_url": "https://www.phoronix.com/"
   },
   {
+    "title": "Khronos Lists First Conformant OpenCL 3.1 Implementation: Apple M1/M2 On Asashi Linux With Rusticl",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366220",
+    "description": "Back in May OpenCL 3.1 was announced with a focus on AI and HPC workloads. Just over two months later, this incremental update over OpenCL 3.0 mow has its first listed conformant OpenCL 3.1 implementation for passing the OpenCL 3.1 conformance test suite cases. It's Apple Silicon M1/M2 graphics running on Asahi Linux with the Mesa Rusticl driver...",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366220",
+    "date": "Jul 15, 2026 09:41",
+    "published_at": "2026-07-15T09:41:12Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
     "title": "Mesa's Native Vulkan-To-Metal Driver Now Advertises Vulkan 1.4",
     "link": "https://www.phoronix.com/news/KosmicKrisp-Vulkan-1.4",
     "description": "KosmicKrisp as the Vulkan API driver built atop Apple's Metal API in Mesa for macOS and iOS systems is now advertising Vulkan 1.4 compatibility...",
@@ -397,129 +660,5 @@
     "published_at": "2026-07-15T05:06:44Z",
     "source": "lxer.com",
     "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Blender 5.2 LTS Released with Node-Based Physics and Online Asset Libraries",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366211",
-    "description": "Blender 5.2 LTS introduces experimental cloth and hair physics in Geometry Nodes, remotely hosted asset libraries, and major rendering improvements.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366211",
-    "date": "Jul 15, 2026 03:35",
-    "published_at": "2026-07-15T03:35:14Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Iran Abused Mobile Networks' Vulnerabilities To Locate US Military In Middle East",
-    "link": "https://tech.slashdot.org/story/26/07/14/2121249/iran-abused-mobile-networks-vulnerabilities-to-locate-us-military-in-middle-east?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "An anonymous reader quotes a report from TechCrunch: The Iranian government abused well-known vulnerabilities in the global telecoms infrastructure to locate U.S. military personnel in the build-up to the Iran War, as well as in the early days of the conflict, according to Financial Times. The Iranian government exploited Signaling System 7, or SS7, a set of protocols for 2G and 3G networks that has long been the backbone of how cellular networks connect to each other to route subscribers' calls and texts around the world, the newspaper reported, citing research by the Mobile Surveillance Monitor, as well as anonymous government officials with knowledge of the spy campaign.\n \nIntelligence agencies have long abused SS7 to track cellphones abroad, which is what happened in this campaign. Using this technique, Iran was reportedly able to locate U.S. military forces stationed in military bases as well as hotels in Iraq, Bahrain, and other countries in the Middle East, which allowed the regime to strike them. These attacks resulted in several injuries. Apart from SS7, Iran also abused advertising technology used to serve tailored ads to cellphone users, another well-known surveillance technique that relies on everyday technology.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Jul 15, 2026 03:30",
-    "published_at": "2026-07-15T03:30:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Khronos Lists First Conformant OpenCL 3.1 Implementation: Apple M1/M2 On Asahi Linux With Rusticl",
-    "link": "https://www.phoronix.com/news/OpenCL-3.1-Conformance-Apple",
-    "description": "Back in May OpenCL 3.1 was announced with a focus on AI and HPC workloads. Just over two months later, this incremental update over OpenCL 3.0 now has its first listed conformant OpenCL 3.1 implementation for passing the OpenCL 3.1 conformance test suite cases. It's Apple Silicon M1/M2 graphics running on Asahi Linux with the Mesa Rusticl driver...",
-    "guid": "https://www.phoronix.com/news/OpenCL-3.1-Conformance-Apple",
-    "date": "Jul 15, 2026 01:14",
-    "published_at": "2026-07-15T01:14:32Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "New Adder Pro Targets Linux Creators, Gamers, and Devs with OLED and RTX Graphics",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366214",
-    "description": "System76’s refreshed Adder Pro trims weight, adds Panther Lake silicon and RTX 50?series GPUs, and ships with Pop!_OS or Ubuntu for Linux?first power users.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366214",
-    "date": "Jul 15, 2026 00:32",
-    "published_at": "2026-07-15T00:32:15Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "COSMIC 1.3 Desktop Environment Released with Frosted Glass Effect",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366217",
-    "description": "Linux hardware vendor System76 released COSMIC 1.3 today as the latest stable version of this Rust-based desktop environment for Pop!_OS Linux and other GNU/Linux distributions.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366217",
-    "date": "Jul 14, 2026 23:00",
-    "published_at": "2026-07-14T23:00:46Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "OpenAI's First Device Will Be Moveable, Screenless Speaker Built as AI Companion",
-    "link": "https://hardware.slashdot.org/story/26/07/14/2116245/openais-first-device-will-be-moveable-screenless-speaker-built-as-ai-companion?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "OpenAI is reportedly developing a screen-free, portable smart speaker meant to act as a personalized home computer and humanlike AI companion. \"It will help control smart-home appliances, play media, answer questions, respond to messages and tap into the range of capabilities offered by OpenAI's ChatGPT,\" reports Bloomberg, citing people familiar with the matter. The device, expected to be unveiled this year and released in 2027, would mark OpenAI's first major hardware push after acquiring Jony Ive's io Products. Bloomberg reports: Apple sued OpenAI last week, accusing the company of stealing trade secrets. But OpenAI believes that the device veers significantly from anything Apple has on the market today and that it's unlikely that it violates trade secrets belonging to the iPhone maker, the people said. OpenAI's success in hardware will hinge on bringing a novel approach to the market -- something it aims to do with the smart speaker. For instance, the device's technology is meant to become increasingly personalized and proactive as it gains a deeper understanding of its owner over time, according to the people.\n \nOpenAI envisions the device anticipating needs, surfacing information proactively and serving as an expert on its user, they said. Though the speaker is designed to stay in the home, it will be easy to move around the house. OpenAI believes the product's defining feature will be its personality and ability to connect on a humanlike level with users. The speaker incorporates mechanical elements that can move on their own, creating a sense that it is alive and not just an object responding to commands. The machine also will draw on personal information such as emails to better understand its owner. The goal is for the device to feel like a companion and become a physical manifestation of OpenAI's ChatGPT. Still, the exact plans could change as the company works through the development and legal process.\n \nThe device's communication abilities will rely on a more advanced version of the ChatGPT Voice Mode -- GPT-Live -- that OpenAI rolled out this month. The new voice mode is designed to act more like a human. It can listen and talk at the same time, adapt more naturally during conversations, and quickly process information. Though the new product resembles a speaker, OpenAI internally describes it as the first of its kind: a computer built for AI to help make busy people more productive. It includes a camera and other sensors that help it understand a user's surroundings and context, as well as advanced AI models beyond those available on conventional smart speakers. Another central difference is that the device includes a rechargeable battery, allowing it to be carried from room to room throughout the day. A user could bring it into the laundry room while doing chores, move it into the kitchen for cooking assistance, and later place it in a living room or bedroom to have it play music. It can also remain plugged into a single room if the customer chooses.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Jul 14, 2026 23:00",
-    "published_at": "2026-07-14T23:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "COSMIC Epoch 1.3 Released With New Frosted Glass Option",
-    "link": "https://www.phoronix.com/news/COSMIC-Epoch-1.3",
-    "description": "For those that were intrigued by the COSMIC desktop's \"Frosted Glass\" effect, it's now available in released form with today's COSMIC Epoch 1.3 release...",
-    "guid": "https://www.phoronix.com/news/COSMIC-Epoch-1.3",
-    "date": "Jul 14, 2026 22:41",
-    "published_at": "2026-07-14T22:41:01Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Google Images Gets a Pinterest-Like Redesign Focused On Discovery",
-    "link": "https://tech.slashdot.org/story/26/07/14/215259/google-images-gets-a-pinterest-like-redesign-focused-on-discovery?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Google Images is getting a Pinterest-like redesign that turns image search into a personalized discovery feed, with \"For You\" galleries, real-time updates, and collections for saving visual ideas. \"Google is also adding a way for users to create AI images right in Search, as it celebrates 25 years since the debut of Google Images,\" reports TechCrunch. From the report: After navigating to the redesigned Google Images, users will see a \"For You\" gallery of images tailored to their interests and browsing history. Like Pinterest, the gallery is designed for continuous browsing, with Google saying it updates in real time with new images. As users browse, they can save ideas to their \"collections,\" which will appear as tabs above the main gallery of photos. For example, users can create collections for things like vacation outfit ideas, travel inspiration, and ways to design a reading nook, which they can come back to later.\n \n[...] As for generating images directly in Search, Google says the feature is meant for moments when you have a highly specific idea for an image that doesn't already exist online. Google is bringing image generation directly into AI Overviews on Search and will use its latest Nano Banana model to transform a text prompt into a custom visual. The feature can also help users reimagine spaces and visualize ideas, such as seeing what a room might look like painted red or what a dorm room with a coastal theme could look like.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Jul 14, 2026 22:00",
-    "published_at": "2026-07-14T22:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Lawsuit Claims Meta's Layoff Decisions Were Made By AI, Not Humans",
-    "link": "https://yro.slashdot.org/story/26/07/14/2054236/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "A lawsuit from 26 Meta employees alleges the company used AI-driven scoring and monitoring systems to select workers for layoffs, disproportionately targeting employees with disabilities or those who had taken protected medical, family, pregnancy, or parental leave. \"Meta did not assemble the termination list through the considered judgment of managers who knew the work. Instead, Meta used a constellation of internal artificial-intelligence systems -- including a system referred to internally as 'Metamate,' employee-trained 'second-brain' agents, keystroke- and activity-monitoring data, AI-token-usage dashboards, and algorithmically assisted performance ranking and calibration -- to score, rank, and select employees for inclusion on the list,\" the lawsuit (PDF) said. Ars Technica reports: Employees were allegedly graded, among other things, on how much they used Meta's AI tools. \"Meta's internal dashboards classified employees by their stage of adoption of its artificial-intelligence tools, using categories such as 'AI Native,' 'AI First,' and 'AI Enabled,'\" the lawsuit said. The lawsuit is apparently \"the first against a major U.S. company to challenge the alleged use of AI in conducting layoffs,\" according to Reuters. The complaint alleges that Meta's tools for monitoring employees did not account for differences caused by disabilities and protected leaves. \"Those tools draw on inputs -- performance ratings, calibration scores, productivity and output metrics, 'AI-native' ratings, and AI-token consumption -- that, by design, cannot be accumulated by an employee who is on protected medical or family leave, or whose output is reduced by a disability,\" the lawsuit said.\n \nThe lawsuit alleged that Meta management did not take steps to adjust scores for employees who took leave or who requested reasonable accommodations for disabilities. \"Meta did not neutralize those inputs for protected leave; did not exclude protected-leave-takers or accommodation-seekers from the selection cohort; and did not pause the system for the individualized, leave- and accommodation-neutral review that the law requires,\" the complaint alleged. \"The result was that employees who took protected leaves were disproportionately selected for layoff, based on scoring that not only failed to account for their protected leaves, but in effect penalized the employees for exercising their legal rights to these leaves.\" The 26 plaintiffs requested leaves or disability accommodations in the 24 months before being selected for layoffs, the lawsuit said. The layoffs are not yet finalized, but employees are scheduled to start losing their jobs on July 22, the lawsuit said. \"These claims lack merit and are not based on facts,\" said Meta in a statement. \"Workforce management and organizational decisions were and are made by people, not AI.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Jul 14, 2026 21:00",
-    "published_at": "2026-07-14T21:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "FreeBSD 16 Retires The Last Of Its GPL Code From Its Base System",
-    "link": "https://www.phoronix.com/news/FreeBSD-16-Goes-GPL-Free",
-    "description": "As of this past week in the FreeBSD source tree for FreeBSD 16, the last of the GNU GPL licensed code from the base system has been retired...",
-    "guid": "https://www.phoronix.com/news/FreeBSD-16-Goes-GPL-Free",
-    "date": "Jul 14, 2026 19:38",
-    "published_at": "2026-07-14T19:38:47Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "BOSGAME VTA-439: A Great, Linux-Friendly Mini PC Powered By AMD Ryzen AI 9 HX 470",
-    "link": "https://www.phoronix.com/review/bosgame-vta-439",
-    "description": "For those that were intrigued by the recent launch of the AMD Ryzen AI Halo developer platform with a very capable mini PC but looking for something more affordable and not needing quite as much horsepower or AI focus, BOSGAME recently launched their VTA-439 mini PC. The BOSGAME VTA-439 is powered by the AMD Ryzen AI 9 HX 470 with Radeon 890M graphics for those wanting still quite a capable mini PC that retails for around $1,049 USD while sporting 32GB of RAM and 1TB NVMe SSD storage.",
-    "guid": "https://www.phoronix.com/review/bosgame-vta-439",
-    "date": "Jul 14, 2026 18:57",
-    "published_at": "2026-07-14T18:57:06Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "The Linux.org story",
-    "link": "https://lwn.net/Articles/1082901/",
-    "description": "Rob Kennedy has posted the\nstory of the birth of Linux.org — one\nof the earliest Linux-related web sites — and its more recent rebirth.\n\n\n\tThe site was founded in May 1994 by Michael McLagan, at a time when\n\tLinux itself was barely three years old. Linus Torvalds had only\n\tjust released it to the world, there was no real way for a newcomer\n\tto find their footing, no search engines, no Wikipedia, none of the\n\tinfrastructure people take for granted now for figuring out a new\n\tpiece of technology. Michael built linux.org to fill that gap, a\n\tplace for people to learn about Linux and follow the movement as it\n\tgrew.\n",
-    "guid": "https://lwn.net/Articles/1082901/",
-    "date": "Jul 14, 2026 16:50",
-    "published_at": "2026-07-14T16:50:47Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
   }
 ]
