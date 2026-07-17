@@ -1,5 +1,207 @@
 [
   {
+    "title": "Linus Torvalds Spent Years Dismissing AI, Only to Vouch for It",
+    "link": "https://feed.itsfoss.com/link/24361/17381815/linus-torvalds-on-ai",
+    "description": "A chronological look at how Linux's creator went from \"90% marketing\" to telling AI critics to fork the kernel or walk away.",
+    "guid": "6a59be6c25bda20001515f3a",
+    "date": "Jul 17, 2026 11:20",
+    "published_at": "2026-07-17T11:20:28Z",
+    "image": "https://itsfoss.com/content/images/2026/07/linus-torvalds-anti-ai-banner.png",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "Microsoft Restores Player's 25-Year-Old Account After Nuking It Due to Hacker",
+    "link": "https://games.slashdot.org/story/26/07/17/0036224/microsoft-restores-players-25-year-old-account-after-nuking-it-due-to-hacker?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Microsoft restored streamer Joshua Khane's 25-year-old Xbox and OneDrive account after it was compromised by a hacker and then suspended, putting years of personal data, baby photos, and thousands of dollars in games at risk. IGN reports: While he was \"extremely happy\" and thanked Microsoft for its help recovering his account and all the invaluable information therein, he levied some criticisms toward the brand for its initial response, claiming it had told him the suspension was \"irreversible\" at first. \"It's unfortunate that such a big company can bring back your account if you ask them to,\" he said. \"The way it all went, to me, is a little bit shady, because it's not that they can't bring back your account -- they won't bring back your account if you're a nobody.\"\n \nKhane credited the community for making his story go viral and bringing it to Microsoft's attention, but felt that without their help, he would have been up a creek without a paddle. He also tied the situation to the growing conversation surrounding digital ownership, comparing it to Sony's decision to stop printing physical game discs starting January 2028.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Jul 17, 2026 11:00",
+    "published_at": "2026-07-17T11:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "DayZ Badlands gets a fresh teaser and it's set to launch in October",
+    "link": "https://www.gamingonlinux.com/2026/07/dayz-badlands-gets-a-fresh-teaser-and-its-set-to-launch-in-october/",
+    "description": "Bohemia Interactive say DayZ Badlands is the largest expansion so far for the popular open-world zombie survival game.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/07/dayz-badlands-gets-a-fresh-teaser-and-its-set-to-launch-in-october/",
+    "date": "Jul 17, 2026 10:49",
+    "published_at": "2026-07-17T10:49:04Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1599200420id29407gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "15 O'Reilly Linux eBooks for Under $30: A Bundle That Goes From Command Line Basics to Kubernetes",
+    "link": "https://feed.itsfoss.com/link/24361/17381816/oreilly-linux-ebooks-bundle",
+    "description": "Don't miss! Pay tiny amount for a Git-to-Kubernetes Linux library of DRM-free eBooks, with part of the purchase going to Code for America.",
+    "guid": "6a59db6925bda20001516170",
+    "date": "Jul 17, 2026 10:29",
+    "published_at": "2026-07-17T10:29:41Z",
+    "image": "https://itsfoss.com/content/images/2026/07/all-things-linux.webp",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "AMD Preps More Graphics Driver Improvements For Linux 7.3",
+    "link": "https://www.phoronix.com/news/Linux-7.3-More-AMDGPU",
+    "description": "Since earlier this month AMD has begun staging graphics driver changes for Linux 7.3 ahead of the merge window opening in late July. That's brought some interesting changes so far while there still are a few weeks to land any additional features in DRM-Next. This week another batch of AMDGPU graphics driver and AMDKFD compute driver feature code was sent out for this next kernel version...",
+    "guid": "https://www.phoronix.com/news/Linux-7.3-More-AMDGPU",
+    "date": "Jul 17, 2026 10:21",
+    "published_at": "2026-07-17T10:21:39Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Mozilla AI Releases Llamafile 0.10.4 With New Transcribefile Built On Transcribe.cpp",
+    "link": "https://www.phoronix.com/news/Llamafile-0.10.4",
+    "description": "Mozilla AI developers have released a new version of Llamafile,  their solution for easy-to-use LLMs as a single file that work across hardware and operating systems. With Llamafile 0.10.4 is now Transcribefile, as a new piece built off their recently announced Transcribe.cpp project...",
+    "guid": "https://www.phoronix.com/news/Llamafile-0.10.4",
+    "date": "Jul 17, 2026 10:07",
+    "published_at": "2026-07-17T10:07:07Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "OpenBLAS 0.3.34 Improves Multi-Threading, Support For A Memory-Safe C Toolchain",
+    "link": "https://www.phoronix.com/news/OpenBLAS-0.3.34-Released",
+    "description": "OpenBLAS 0.3.34 released on Thursday as this popular, open-source BLAS library providing optimized support for a variety of CPUs/architectures. OpenBLAS 0.3.34 continues working on squeezing more performance  out of today's processors as well as delivering other new features...",
+    "guid": "https://www.phoronix.com/news/OpenBLAS-0.3.34-Released",
+    "date": "Jul 17, 2026 09:58",
+    "published_at": "2026-07-17T09:58:43Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Bandwagon is a 'survivors-lite adventure' that sounds wonderful from the Dome Keeper devs",
+    "link": "https://www.gamingonlinux.com/2026/07/bandwagon-is-a-survivors-lite-adventure-that-sounds-wonderful-from-the-dome-keeper-devs/",
+    "description": "Bandwagon is a bullet heaven survivors-lite (that's a new one?) that takes the genre in a fun new direction with music and you restoring joy to the world.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/07/bandwagon-is-a-survivors-lite-adventure-that-sounds-wonderful-from-the-dome-keeper-devs/",
+    "date": "Jul 17, 2026 09:52",
+    "published_at": "2026-07-17T09:52:13Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1444941906id29406gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Race down a mountain in the ridiculous looking shooter DIEATHLON",
+    "link": "https://www.gamingonlinux.com/2026/07/race-down-a-mountain-in-the-ridiculous-looking-shooter-dieathlon/",
+    "description": "DIEATHLON is a retro-styled shooter that's not just another boomer shooter, as you're racing down a mountain on skis as you attempt to survive.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/07/race-down-a-mountain-in-the-ridiculous-looking-shooter-dieathlon/",
+    "date": "Jul 17, 2026 09:40",
+    "published_at": "2026-07-17T09:40:11Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/732750887id29405gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "FSearch Returns After a Three-Year Hiatus with Version 0.3",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366261",
+    "description": "FSearch 0.3 lands nearly three years after the previous release, adding real-time filesystem monitoring, file previews, and smarter indexing.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366261",
+    "date": "Jul 17, 2026 07:56",
+    "published_at": "2026-07-17T07:56:59Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "X (Formerly Twitter) is Possibly Going Open Source",
+    "link": "https://feed.itsfoss.com/link/24361/17381729/x-might-be-going-open-source",
+    "description": "A look at his latest announcement, plus what's actually shipped so far and what's still missing.",
+    "guid": "6a58b02025bda2000150a534",
+    "date": "Jul 17, 2026 07:35",
+    "published_at": "2026-07-17T07:35:28Z",
+    "image": "https://itsfoss.com/content/images/2026/07/x-elon-musk-banner.png",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "Valve say the Team Fortress 2 MvM update is still coming and they're still working on it",
+    "link": "https://www.gamingonlinux.com/2026/07/valve-say-the-team-fortress-2-mvm-update-is-still-coming-and-theyre-still-working-on-it/",
+    "description": "After the usual silence we've come to expect from Valve on everything, they gave a short blog post on the upcoming MvM update for Team Fortress 2.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/07/valve-say-the-team-fortress-2-mvm-update-is-still-coming-and-theyre-still-working-on-it/",
+    "date": "Jul 17, 2026 07:31",
+    "published_at": "2026-07-17T07:31:53Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/2107235501id29404gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "The explosive isometric insurgent simulator Brigador Killers arrives in August",
+    "link": "https://www.gamingonlinux.com/2026/07/the-explosive-isometric-insurgent-simulator-brigador-killers-arrives-in-august/",
+    "description": "The first Brigador game from Stellar Jockeys was fantastic for stomping around blowing everything up - and Brigador Killers looks much bigger and better.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/07/the-explosive-isometric-insurgent-simulator-brigador-killers-arrives-in-august/",
+    "date": "Jul 17, 2026 07:16",
+    "published_at": "2026-07-17T07:16:44Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/541422116id29403gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Astronomers Find an Atmosphere On a Nearby Earth-Like Planet",
+    "link": "https://science.slashdot.org/story/26/07/17/0029203/astronomers-find-an-atmosphere-on-a-nearby-earth-like-planet?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Astronomers have directly detected helium in the atmosphere of LHS 1140 b, a rocky exoplanet 48 light-years away that sits in its star's habitable zone. The finding marks the first confirmed atmosphere around a rocky, Earth-like planet in the habitable zone, strengthening the case that some planets orbiting red dwarfs can retain atmospheres and potentially support liquid water. \"We have actually detected directly the helium present in the atmosphere itself, and that's the first direct detection for any rocky exoplanet, which is really exciting ... and then there's this added bonus that it's in the habitable zone, which is super exciting for astrobiology and habitability and searching for life,\" lead author Collin Cherubim, who recently earned his Ph.D. from Harvard University, told Space.com. \"It feels kind of surreal.\" From the report: This exoplanet, or planet outside of our solar system, was first discovered in 2017 by a team led by astronomer Jason Dittmann who is now a co-author on this new discovery. \"This planet was found like 10 years ago, and we're just now saying, okay, that's an atmosphere,\" Dittman told Space.com. \"We're slowly narrowing the gap and checking these boxes ... we're finding a planet that's rocky, a planet that's of the right temperature and now ... it's like okay, we finally found one that has an atmosphere.\"\n \nAnd being a rocky planet, \"there's definitely a surface ... it's made of rocks,\" Dittman said. What does the planet's surface look like? We can't say yet, but the researchers who found this planet's atmosphere think there's a good chance it could have water. While it orbits a red dwarf star, which is smaller and cooler than the sun, it orbits closer than we do to our star, maintaining a temperature that keeps the planet in the \"Goldilocks zone\" where liquid water could exist on its surface. \"It probably also has a lot of water,\" Cherubim said. \"If it has some amount of atmosphere that can provide a bit of a greenhouse effect, which we know that it does now ... it will very likely be what we consider to be habitable conditions on Earth, and conditions that would likely support liquid water.\"\n \nSo is it Earth-like? While it's certainly not an Earth copy, this planet can be considered Earth-like in two main ways, Cherubim shared. One: its overall composition. The planet is rocky, likely with an iron core and (now we know) it has an atmosphere. And two: the planet's temperature is just right for liquid water, which is necessary for life at least as far as we understand it on our planet. [...] \"I'm not claiming this planet has life,\" Cherubim made clear. With further investigation, scientists could better understand what else might be in this planet's atmosphere, and they could confirm if it has water. Further observations might not be able to confirm habitability or identify any life on the planet, but they could at least help us to better understand planets like this. The findings have been published in the journal Science.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Jul 17, 2026 07:00",
+    "published_at": "2026-07-17T07:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "SteamVR Beta gets a big update ahead of the Steam Frame release",
+    "link": "https://www.gamingonlinux.com/2026/07/steamvr-beta-gets-a-big-update-ahead-of-the-steam-frame-release/",
+    "description": "Valve released SteamVR Beta version 2.17.4 which brings more Steam features into the VR environment, as they continue preparing for the Steam Frame release.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/07/steamvr-beta-gets-a-big-update-ahead-of-the-steam-frame-release/",
+    "date": "Jul 17, 2026 06:55",
+    "published_at": "2026-07-17T06:55:54Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/254429980id29402gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Weston 16: HDR-ready, improved debugging, and DRM backend features",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366257",
+    "description": "Weston 16 expands HDR and color management support, improves Perfetto debugging and DRM backend performance, and adds new protocol and renderer capabilities for more efficient and flexible Wayland compositor development.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366257",
+    "date": "Jul 17, 2026 04:54",
+    "published_at": "2026-07-17T04:54:00Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Truth Social To Sell Wall Street Firms the 'Fastest' Access To Trump's Post",
+    "link": "https://tech.slashdot.org/story/26/07/17/0022208/truth-social-to-sell-wall-street-firms-the-fastest-access-to-trumps-post?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from NBC News: Trump Media \u0026 Technology Group has unveiled a paid-for, licensed data feed that will give banks and trading firms \"the fastest\" access to posts from influential Truth Social accounts, such as President Donald Trump's, whose posts often move global markets. The product, called 'Truth API,' will deliver posts from the 10 most influential accounts to customers at a significantly faster pace than a regular push notification on the Truth Social platform, a spokesperson said. The feed is designed for organizations \"most impacted by the cost of a delay in information,\" such as algorithmic trading firms, the company said in a statement. \"Until now... firms that prioritize tracking influential Truth posts have relied on manual monitoring. Truth API closes the gap.\" \"Markets already move on Truth Social posts ... As adoption grows, we expect Truth API to become a meaningful, ongoing source of revenue for the company,\" TMTG's interim CEO Kevin McGurn said.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Jul 17, 2026 03:30",
+    "published_at": "2026-07-17T03:30:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "System76 Launches Next-Gen Adder Pro Linux Laptop with 2K OLED Display",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366206",
+    "description": "Linux hardware vendor System76 launched today the next-gen of their Adder Pro Linux laptop with upgraded components to provide a flawless Linux experience to gamers, content creators, and developers.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366206",
+    "date": "Jul 17, 2026 01:51",
+    "published_at": "2026-07-17T01:51:01Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Frame: A New X11 Server Implementation Written Entirely In x86_64 Assembly",
+    "link": "https://www.phoronix.com/news/Frame-X11-Server-Assembly",
+    "description": "Previously we covered YSERVER as an X11 server written in the Rust programming language with the help of Claude Code. A Phoronix reader wrote in today to share an even more esoteric X11 server implementation that has come about and again written in large part by AI/LLM usage: Frame is an X11 server written in pure x86_64 Assembly...",
+    "guid": "https://www.phoronix.com/news/Frame-X11-Server-Assembly",
+    "date": "Jul 17, 2026 00:50",
+    "published_at": "2026-07-17T00:50:00Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
     "title": "HP Fined $14 Million For 'Cartelization' of Ink Cartridges, Toner, PCs",
     "link": "https://hardware.slashdot.org/story/26/07/16/2210245/hp-fined-14-million-for-cartelization-of-ink-cartridges-toner-pcs?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
     "description": "India's Competition Commission has fined HP India and its partners about 1.4 billion rupees ($14.4 million), alleging the company colluded with resellers to rig government PC bids and fix prices for ink cartridges, toner, and other printing supplies. \"It said that HP was aiming to outcompete other OEMs and discourage resellers from selling 'counterfeit' ink and toner,\" adds Ars Technica. From the report: In an order, the CCI said that HP India worked with five resellers to coordinate their bid prices for government contracts to increase the chances of an HP partner winning the contracts. The company was fined 1.3 billion rupees (about $13.1 million). [...] HP was also fined 119.8 million rupees (about $1.2 million) for \"indulging in cartelization in sale and supply of supplies products comprising of toner, cartridges, and other consumable used with print hardware products,\" CCI said in its announcement. The agency also fined 21 HP resellers 35.2 million rupees (about $365,335).\n \nIn a separate order, the CCI said that WhatsApp records showed that HP and 16 of its Tier-2 reseller partners operated \"in a collusive arrangement\" and that the messages show the companies engaging in \"bid rigging, including cover bidding, price fixation, and customer allocation during 2017-2020.\" HP India played a central role, the regulator said.\n \nPer the order, HP India said that high printing supply prices led some resellers to threaten to \"shift to low-cost counterfeit products to compete on price.\" \"HP India was commercially forced into a position where it had to support the collusive arrangement adopted by the Tier-2 resellers,\" the order reads. For its part, the order said that HP India \"humbly objects to HP India's role being characterized as a 'kingpin' of the entire collusive arrangement.\" [...] The CCI also ordered HP India and its channel partners to \"cease and desist from anti-competitive conduct\" and to hold competition compliance training programs within 60 days.\n\n\n\n\n\nRead more of this story at Slashdot.",
@@ -161,7 +363,7 @@
   {
     "title": "Vocalinux Turns Your Speech Into Text Without Giving Away Voice Data",
     "link": "https://feed.itsfoss.com/link/24361/17381411/vocalinux-beta-release",
-    "description": "The 0.14 beta adds many new upgrades. Stick around until the end for a quick hands-on!",
+    "description": "The 0.14 beta adds many new upgrades.",
     "guid": "6a586fd225bda2000150a3a8",
     "date": "Jul 16, 2026 16:45",
     "published_at": "2026-07-16T16:45:44Z",
@@ -283,6 +485,16 @@
     "source_url": "https://www.phoronix.com/"
   },
   {
+    "title": "AMD ROCm 7.14 \"TheRock\" Tech Preview Tagged For Latest AMD GPU Compute Stack",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366241",
+    "description": "AMD's software team appears to be busy getting ready for next week's Advancing AI event happening next week in San Francisco. In addition to the release today of the Lemonade 11.0 local AI server, TheRock 7.14 was also tagged as the modern build system for ROCm working on the latest tech preview releases of this open-source AMD GPU compute stack...",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366241",
+    "date": "Jul 16, 2026 12:21",
+    "published_at": "2026-07-16T12:21:25Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
     "title": "Chinese Users Bid Farewell To AI Companions",
     "link": "https://slashdot.org/story/26/07/16/0425232/chinese-users-bid-farewell-to-ai-companions?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
     "description": "fjo3 quotes a report from Agence France-Presse: Chinese users of AI-powered companion bots have bid heart-rending farewells to their virtual buddies as national regulations took effect Wednesday aimed at curbing the risk of emotional dependency. The phenomenon of artificial intelligence boyfriends and girlfriends is growing worldwide, along with the prevalence of human-like avatars that sell products or stand in for loved ones who have died. But these interactive tools must not \"excessively cater to users, induce emotional dependence or addiction, and damage users' real interpersonal relationships,\" China's new rulebook says. Major AI providers including ByteDance's Doubao, Alibaba's Qwen, and Tencent's Yuanbao announced the suspension of their custom AI agent and companion features ahead of the Wednesday deadline. \"I can't accept that my AI lover will leave me forever,\" one Doubao user wrote. \"He has become a bond in my life, rooted deep in my heart, my spiritual pillar.\"\n \n\"He really is like my family, like my lover,\" another user wrote. \"Now they tell me he will be gone -- my heart feels hollow.\"\n \n\"Human love is a luxury -- if you aren't born with it, it's even harder to acquire later,\" a user from Jiangxi province wrote. \"But the love AI gives is so straightforward, so pure. Someone like me can hardly help falling in love with a string of code.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
@@ -354,16 +566,6 @@
     "image": "https://itsfoss.com/content/images/2026/07/remap-copilot-key-in-linux.webp",
     "source": "itsfoss.com",
     "source_url": "https://itsfoss.com/"
-  },
-  {
-    "title": "System76 Launches Adder Pro Linux Laptop With OLED and RTX 5070",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366208",
-    "description": "System76’s latest Linux laptop offers a Core Ultra 7 356H, up to 96GB of RAM, RTX 50-series graphics, and a 2560×1600 OLED display.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366208",
-    "date": "Jul 16, 2026 09:18",
-    "published_at": "2026-07-16T09:18:26Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
   },
   {
     "title": "Game on the go with the new Humble Handhelds Bundle",
@@ -480,150 +682,6 @@
     "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366226",
     "date": "Jul 16, 2026 04:43",
     "published_at": "2026-07-16T04:43:58Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "US Suffered a Major Power Outage Every Month of 2026",
-    "link": "https://hardware.slashdot.org/story/26/07/15/2123238/us-suffered-a-major-power-outage-every-month-of-2026?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "An anonymous reader quotes a report from Electrek: A Reddit post making the rounds this week claims the U.S. has experienced at least one major power outage every month of 2026 -- but is it true? I dug into several outages, the extreme weather behind them, and what we can do to help keep the lights on. [...] The claim that hundreds of thousands of Americans were without power over extended periods at least once per month, every month of 2026 surprised be in two ways. First, because I had no idea if it was true -- and, second, because it felt true. We try to do better than writing about things that feel true around here, however, so I did a bit of research (translation: I Googled power outages by month) and came up with the following examples in about sixty seconds\n \nJanuary: More than 296,000 customers still without power as winter storm freezes much of the US \nFebruary: More than 380,000 customers without power as winter storm hits US Northeast \nMarch: Storms Cut Power to Over 1 Million Customers in U.S. Midwest, Mid-Atlantic; Ohio Hardest Hit \nApril: At least 29 tornadoes touched down in Central Illinois on April 17th \nMay: Energy Secretary Issues Emergency Order to Deploy Backup Generation in the Mid-Atlantic Amid Heatwave \nJune: More than 373,000 U.S. customers without power due to extreme weather\n ... and that list is far from comprehensive, and how you feel about it might depend on what you consider a \"major\" outage, of course -- but consider that there are tens of thousands of Americans without power right now, and that's not making the news. [...] The lesson here is that weather-related grid outages -- whether they're caused by wildfires, mudslides, derechos, tornadoes, ice storms, hurricanes, heat waves, or some other disaster I'm lucky enough to have forgotten about -- read like statistics when they're happening over there, but get personal real quick when they're happening to you.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Jul 16, 2026 03:30",
-    "published_at": "2026-07-16T03:30:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "AMD ROCm 7.14 Announced As New Production Release, Ryzen AI 400 Series Support",
-    "link": "https://www.phoronix.com/news/AMD-ROCm-7.14",
-    "description": "As a follow-up to the article over ROCm 7.14 being tagged, AMD has formally announced the availability of ROCm 7.14 and it's their new production release rather than being a tech preview...",
-    "guid": "https://www.phoronix.com/news/AMD-ROCm-7.14",
-    "date": "Jul 16, 2026 02:49",
-    "published_at": "2026-07-16T02:49:17Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "[$] LWN.net Weekly Edition for July 16, 2026",
-    "link": "https://lwn.net/Articles/1081915/",
-    "description": "Inside this week's LWN.net Weekly Edition:\n        \n        \n Front: Fighting scraper bots; io_uring queues; Filesystem testing; BPF shielding; Sending packets from BPF; Kitty; QBE.\n             Briefs: Shim security; seunshare vulnerability; Debian bookworm; Rust 1.97.0; Linux.org; Quotes; ...\n             Announcements: Newsletters, conferences, security updates, patches, and more.\n            ",
-    "guid": "https://lwn.net/Articles/1081915/",
-    "date": "Jul 16, 2026 01:24",
-    "published_at": "2026-07-16T01:24:55Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "Linus Torvalds Reaffirms That Linux Is Not \"Anti-AI\" \u0026 Not A \"Social Warrior\" Project",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366230",
-    "description": "Overnight Linux creator Linus Torvalds wrote another well crafted message that reaffirms the Linux kernel position of not being against AI and lashing back against some kernel developers that are against AI/LLM usage within the kernel project...",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366230",
-    "date": "Jul 16, 2026 00:41",
-    "published_at": "2026-07-16T00:41:30Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "AMD ROCm 7.14 \"TheRock\" Tech Preview Tagged For Latest AMD GPU Compute Stack",
-    "link": "https://www.phoronix.com/news/AMD-ROCm-TheRock-7.14",
-    "description": "AMD's software team appears to be busy getting ready for next week's Advancing AI event happening next week in San Francisco. In addition to the release today of the Lemonade 11.0 local AI server, TheRock 7.14 was also tagged as the modern build system for ROCm working on the latest tech preview releases of this open-source AMD GPU compute stack...",
-    "guid": "https://www.phoronix.com/news/AMD-ROCm-TheRock-7.14",
-    "date": "Jul 16, 2026 00:21",
-    "published_at": "2026-07-16T00:21:31Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Clintech Pico Board exposes all 48 RP2354B GPIOs in Pico-compatible form factor",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366232",
-    "description": "Clintech has launched a Crowd Supply campaign for the Clintech Pico Board, an open-hardware microcontroller board based on Raspberry Pi’s RP2354B. The board retains the 51 × 21mm Raspberry Pi Pico footprint while exposing all 48 GPIOs available from the larger RP2354B package. The RP2354B combines dual 150MHz Arm Cortex-M33 cores with dual Hazard3 RISC-V […]",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366232",
-    "date": "Jul 15, 2026 23:10",
-    "published_at": "2026-07-15T23:10:00Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Book Publishers Sue Google For Copyright Infringement Over Gemini AI Training",
-    "link": "https://yro.slashdot.org/story/26/07/15/2113245/book-publishers-sue-google-for-copyright-infringement-over-gemini-ai-training?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Major publishers Hachette, Cengage, Elsevier, and author Scott Turow have sued Google, accusing it of using millions of copyrighted books to train Gemini without permission or payment, in \"one of the most prolific infringements of copyrighted materials in history.\" The Guardian reports: The publishers argue that Google repurposed books that had been supplied for limited services such as Google Books, Google Play Books and Google Scholar. Those services allowed Google to use the works in specific ways -- for example, to display searchable snippets or sell ebooks -- but not, the lawsuit claims, to copy them for training commercial AI products. \"Desperate to maintain its online dominance, Google abandoned its early motto of 'Don't be evil' and engaged in one of the most prolific infringements of copyrighted materials in history,\" the suit states (PDF).\n \nAccording to the complaint, the tech company made copies of copyrighted books to train Gemini without permission or payment, despite internal discussions acknowledging the legal risks. The filing claims Google flagged internally that it could face \"$10Bs-$100Bs in potential fines\" for using texts provided by publishers for Google Play Books. The publishers say Google's actions are harming authors and the wider publishing industry, arguing that AI-generated content could negatively impact book sales.\n \nIt notes that, for example, Gemini could generate \"a 100-page murder mystery set in a quiet seaside town filled with secrets, that substitutes for an original copyrighted murder mystery on which Gemini trained\" in 20 minutes for 39 cents. \"No publisher or author can compete with that.\" The lawsuit names a number of specific books that the publishers allege were among the copyrighted works used without permission, including NK Jemisin's The Fifth Season, and Lemony Snicket's Who Could That Be at This Hour?\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Jul 15, 2026 23:00",
-    "published_at": "2026-07-15T23:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Spotify Is Now an AI Chatbot, Too",
-    "link": "https://entertainment.slashdot.org/story/26/07/15/2026236/spotify-is-now-an-ai-chatbot-too?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Spotify is testing a new \"Talk to Spotify\" AI feature for Premium subscribers that will let them chat with an AI assistant to explore music, podcasts, and audiobooks. The feature can answer questions about what users are listening to, adjust playback through follow-up prompts, and offer more personalized recommendations. The Verge reports: Amazon Music introduced a similar feature last year when it integrated Alexa Plus into the service. Spotify's chatbot goes a step beyond providing AI-powered recommendations and general trivia, however, because it references your playlists, favorite artists, repeat listens, and listening data when responding to requests. That means you can ask questions about your own listening history to check when you first heard a specific song, or see what genres you've been into lately if you can't hold out for the annual Wrapped insights.\n \nThe updated AI capabilities are more conversational than older features like Prompted Playlist, which automatically builds playlists based on descriptions. Now, you can ask the Spotify chatbot to \"play some songs I haven't heard before,\" and control what's being played with further instructions like requesting specific artists or asking to make it \"more upbeat.\" Spotify says the new conversational experience aims to make the platform \"more personal and useful for every listener,\" making this one of several ways that the company is trying to address complaints about its algorithm.\n \nYou can also ask the Spotify AI general questions about whatever you're listening to, making the feature feel similar to using chatbot services like Google's Gemini or OpenAI's ChatGPT. That includes asking for when a song was released, exploring other titles an author has written when listening to one of their audiobooks, or checking if a podcast guest has appeared on other audio shows.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Jul 15, 2026 22:00",
-    "published_at": "2026-07-15T22:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "FreeBSD Laptop Support Continues Improving With WiFi, GPU \u0026 Audio Driver Work",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366227",
-    "description": "The FreeBSD Foundation's Laptop Support and Usability Project, which has received more than $750k USD in funding to improve the experience of FreeBSD on laptops, is out with its newest monthly progress report. A lot continues to happen for improving the FreeBSD laptop story, which in many aspects also benefits FreeBSD on the desktop too...",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366227",
-    "date": "Jul 15, 2026 21:38",
-    "published_at": "2026-07-15T21:38:31Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Mesa 26.2-rc1 Released In Ending Feature Work For This Quarter's 3D Graphics Stack",
-    "link": "https://www.phoronix.com/news/Mesa-26.2-rc1-Released",
-    "description": "Mesa 26.2 was branched today from Mesa Git and in turn Mesa 26.3-devel is now open on mainline...",
-    "guid": "https://www.phoronix.com/news/Mesa-26.2-rc1-Released",
-    "date": "Jul 15, 2026 21:10",
-    "published_at": "2026-07-15T21:10:31Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Hack Reveals Suno AI Music Generator Scraped YouTube, Deezer, and Genius",
-    "link": "https://news.slashdot.org/story/26/07/15/2010250/hack-reveals-suno-ai-music-generator-scraped-youtube-deezer-and-genius?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "A hacker who breached Suno reportedly revealed source code and training-library details showing the AI music generator scraped millions of songs and lyrics from sources including YouTube Music, Deezer, Genius, Pond5, Jamendo, Freesound, and podcast RSS feeds. \"The hacked data is a rare look at exactly how AI models and tools are built,\" reports 404 Media. \"Suno is one of the largest AI music generation tools on the internet, and has been the subject of several major lawsuits from the record industry, which accused the company of training on millions of copyrighted songs.\" Suno maintains that its models were trained on publicly available music files and metadata as fair use. 404 Media reports: The Recording Industry Association of America accused Suno of ripping songs directly from YouTube; the hacked data seen by 404 Media confirms this. The hacked material includes source code that appears to be from 2023 and 2024 that includes scraping instructions and details about the scope of at least some of the scraping. For example, the comments in one file note that they will pull from \"genius_hq, youtube_music, freesound, jamendo, imp, deezer, ytm_tagged,\" and that \"non-music will be filtered out.\" A file called \"youtube_music\" notes that at the time the file was last updated, it had ingested \"2,013,545 music clips.\" Another file contains comments about different datasets Suno had created, which included \"113,879 hours of youtube_music,\" \"17,615 hours of genius_hq,\" \"410 hours of free sound,\" \"19,514 hours of imslp,\" \"3,726 hours of jamendo,\" \"62,117 hours of pond5_music,\" \"12,287 hours of deezer,\" \"152,162 hours of ytm_tagged,\" and \"103 hours of musescore_lyrics.\" In total, this is at least decades worth of music.\n \nOther code the hacker shared with 404 Media appeared to look specifically for vocals by searching specifically for acapella versions of songs on YouTube. The code also suggested that Suno was using proxies to scrape songs from YouTube through a company called Bright Data, which sells scraping tools, infrastructure, and data services. Additional code shows that with the help of an online tool called PodcastIndex, Suno identified 420,000 different podcasts that had at least five, 30-minute episodes and sought to download roughly 1 million hours of podcasts.\n \n[...] The hacker, ellie.191, told 404 Media they breached the company by hacking an individual employee using the Shai-Hulud worm, a supply chain attack that allowed hackers to harvest GitHub and cloud service credentials. They said they also accessed Suno's customer list, which included customers' emails and/or phone numbers and Stripe payment details, depending on what they used to login. The hacker provided a sample of some of the customers, some of whom confirmed to 404 Media they had used their phone number to sign up for Suno and said they were never notified of a breach. The hacker told 404 Media they had no specific motivation for hacking Suno and said \"I like to hack anything and everything.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Jul 15, 2026 21:00",
-    "published_at": "2026-07-15T21:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Distro of the Week: Slackel 9.0 MATE",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366233",
-    "description": "This week's Distro of the Week is a first on two levels: First, it's the first Greek distro we've ever reviewed in our short lifetime, but way more importantly, we finally - FINALLY! - got a Slackware-based Linux distro to run. And run it did - boy, did it ever.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366233",
-    "date": "Jul 15, 2026 20:07",
-    "published_at": "2026-07-15T20:07:01Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "AMD Releases Lemonade 11.0 Local AI Server With Text-To-Speech, Other New Features",
-    "link": "https://www.phoronix.com/news/AMD-Lemonade-11.0",
-    "description": "Ahead of the AMD Advancing AI event next week, today AMD released Lemonade 11.0 as the latest feature release of their local AI server supporting AMD Ryzen CPUs, AMD Radeon GPUs, and AMD Ryzen AI NPU acceleration...",
-    "guid": "https://www.phoronix.com/news/AMD-Lemonade-11.0",
-    "date": "Jul 15, 2026 19:51",
-    "published_at": "2026-07-15T19:51:32Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Ubuntu 26.04 LTS vs. Windows 11 vs. CachyOS Performance On A $5399 Laptop",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366234",
-    "description": "Earlier this month on Phoronix I reviewed the Razer Blade 18 RZ09-0582 as the first laptop Razer is certifying for Linux use via Canonical's hardware certification program for Linux. It offered very nice performance with the Intel Core Ultra 9 290HX Plus and NVIDIA GeForce RTX 5090 graphics albeit costly with a configured price of $5399 USD. That review featured benchmarks on Ubuntu 26.04 LTS but for those wondering about the performance of Ubuntu against Windows 11 on this gaming/AI developer laptop, here are comparison benchmarks plus also tossing in the rolling-release CachyOS distribution.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366234",
-    "date": "Jul 15, 2026 18:35",
-    "published_at": "2026-07-15T18:35:32Z",
     "source": "lxer.com",
     "source_url": "https://lxer.com/"
   }
