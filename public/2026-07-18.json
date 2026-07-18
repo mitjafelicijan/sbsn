@@ -1,5 +1,149 @@
 [
   {
+    "title": "AMD Linux Graphics Driver Preps Fix For Apple Studio Display",
+    "link": "https://www.phoronix.com/news/AMDGPU-DC-Apple-Studio-Display",
+    "description": "This week's batch of AMDGPU Display Core \"DC\" updates arrived heavy with 70 new patches for improving that open-source display support for Radeon graphics on the Linux desktop...",
+    "guid": "https://www.phoronix.com/news/AMDGPU-DC-Apple-Studio-Display",
+    "date": "Jul 18, 2026 12:05",
+    "published_at": "2026-07-18T12:05:57Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Elon to Open Source X’s Codebase. Believe It When Git Happens",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366276",
+    "description": "Elon Musk promises to open source all of X, ‘no exceptions,’ once the security team is done poking at it. The missing detail: what ‘open’ actually means in Musk?speak.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366276",
+    "date": "Jul 18, 2026 11:45",
+    "published_at": "2026-07-18T11:45:02Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "GNOME OS Safe Mode Improving The System Reliability",
+    "link": "https://www.phoronix.com/news/GNOME-OS-Safe-Mode",
+    "description": "At GNOME's annual GUADEC conference happening this week in Spain, an update was shared on the current state of GNOME OS...",
+    "guid": "https://www.phoronix.com/news/GNOME-OS-Safe-Mode",
+    "date": "Jul 18, 2026 11:24",
+    "published_at": "2026-07-18T11:24:00Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Google-Backed Satellites For Wildfire Detection Launch As Smoke Chokes US, Canada",
+    "link": "https://news.slashdot.org/story/26/07/18/0436243/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from Ars Technica: As smoke from hundreds of burning wildfires spread across Canada and the United States, the first three operational satellites in the Google-backed FireSat program successfully launched into orbit. The satellites will begin providing wildfire detection capable of spotting even small fires in the United States, Australia, and Europe before the end of the year. The launch of the microsatellites aboard a SpaceX Falcon 9 rocket from Vandenberg Space Force Base in California on July 7, 2026 marks a transition to \"initial operational capability\" for the FireSat constellation managed by the nonprofit Earth Fire Alliance. After a three-month testing period, the three satellites will begin actively providing data to fire agencies while covering every fire-prone region on Earth at least twice per day.\n \nFireSat represents the first satellite constellation purpose-built for detecting wildfires, including spotting smaller fires that other satellites may miss. The satellites were designed by California-based satellite manufacturer Muon Space and have received over $15 million from Google to support initial deployment. Other notable financial supporters include the Bezos Earth Fund that committed $26 million. Each satellite is equipped with multispectral imaging that can peer through smoke and clouds and detect fires as small as five by five meters -- about 16 by 16 feet. That capability was proven by a FireSat Protoflight satellite that launched in March 2025 and collected more than one million images, while showing it could detect low-intensity blazes invisible to existing satellites.\n \nThe \"early adopter\" organizations that will start using FireSat data this year include fire agencies in California, Colorado, Australia, and Portugal. As more satellites launch, the FireSat program aims to provide the latest imagery anywhere in the world on an hourly basis by 2029. Such imagery would eventually become available every 20 minutes once the full constellation of more than 50 satellites is launched by the early 2030s. Detection of small wildfires before they burn out of control could prove extremely helpful. The Earth Fire Alliance has projected that even an hourly revisit rate by the FireSat constellation could help save more than $1 billion in fire damage costs and prevent nearly 22 million tons of carbon emissions, along with protecting 3,500 homes and 1.3 million acres of land.\n \nTo assist with that capability, Google Research plans to use the company's AI models to compare operational FireSat data with historical images in order to accurately identify very small fires and to inform predictive modeling of wildfires. Google celebrated the launch of the first operational FireSat satellites by describing the event as \"another tangible step forward in putting practical AI to work for climate resilience.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Jul 18, 2026 11:00",
+    "published_at": "2026-07-18T11:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "KDE Plasma 6.8 System Monitor Making It Easier Assigning Processes To CPU Cores",
+    "link": "https://www.phoronix.com/news/KDE-Plasma-6.8-CPU-Affinity",
+    "description": "Nate Graham and John Veness are out with the latest issue of This Week in Plasma to highlight all of the interesting developments taking place in the KDE Plasma desktop space...",
+    "guid": "https://www.phoronix.com/news/KDE-Plasma-6.8-CPU-Affinity",
+    "date": "Jul 18, 2026 10:57",
+    "published_at": "2026-07-18T10:57:23Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "UXL's oneDNN 3.13 Preps For Intel Nova Lake With AVX10.2, More Intel Optimizations",
+    "link": "https://www.phoronix.com/news/oneDNN-3.13",
+    "description": "Following the release of AMD's ZenDNN 6.0 earlier this month, there is a new feature release of the oneDNN neural network library that used to be developed by Intel as part of oneAPI and is now under the UXL Foundation umbrella. Even so, oneDNN feature releases continue to be heavy on new Intel optimizations and future hardware support...",
+    "guid": "https://www.phoronix.com/news/oneDNN-3.13",
+    "date": "Jul 18, 2026 10:38",
+    "published_at": "2026-07-18T10:38:33Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "D7VK 2.0 Released With Some Nice Performance Improvements: Up To 2x Or More",
+    "link": "https://www.phoronix.com/news/D7VK-2.0-Released",
+    "description": "In addition to Friday night's release of DXVK 3.0.2,  debuting separately a short time later was D7VK 2.0 as the latest major feature release for this implementation of Direct3D 7 and earlier built off the Vulkan API...",
+    "guid": "https://www.phoronix.com/news/D7VK-2.0-Released",
+    "date": "Jul 18, 2026 10:32",
+    "published_at": "2026-07-18T10:32:03Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Frame Is a New Linux X11 Server Written Entirely in Assembly",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366277",
+    "description": "While most Linux desktop development is shifting to Wayland, developer Geir Isene has announced Frame, a new X11 server for Linux written entirely in x86-64 Assembly.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366277",
+    "date": "Jul 18, 2026 08:42",
+    "published_at": "2026-07-18T08:42:03Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Alien World Chemistry Found Inside Meteorite That Struck New Jersey Home",
+    "link": "https://science.slashdot.org/story/26/07/18/0427249/alien-world-chemistry-found-inside-meteorite-that-struck-new-jersey-home?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Researchers say a meteorite that crashed through the roof of a Hillsborough, New Jersey, home in 2024 contains unusually pristine evidence of salty fluids and organic chemistry from near the surface of a primitive asteroid. \"A forensic study of the fragments revealed that they contained preserved bits from near the surface of a primitive asteroid, where it experienced concentrated salty fluids -- a process not previously known from this type of protoplanet world,\" said lead author and meteor astronomer Peter Jenniskens of the SETI Institute and NASA's Ames Research Center in California's Silicon Valley. Phys.org reports: According to paper co-author Mike Zolensky, a meteoriticist at NASA's Johnson Space Center in Houston, analysis of the Hillsborough meteorite found fragments that were more extensively altered by water on the meteorite's parent asteroid than is typically seen in CM2 carbonaceous chondrites. The analysis classified the specimen as a CM1/2 carbonaceous chondrite, an intermediate classification between petrographic types CM1 and CM2. [...] Zolensky and colleague JangMi Han found small salt-rich CM1 fragments within the Hillsborough meteorite, suggesting they originated from a near-surface region of the parent asteroid where liquid water evaporated and concentrated salts. They are now working to identify the salt minerals for comparison with similar phases found among samples returned to Earth from asteroids Ryugu and Bennu.\n \nThe high concentration of salt in briny fluids can potentially create molecules crucial to life on Earth. Brines allow phosphate to remain in solution and can catalyze chemical reactions between organics and precipitate minerals. \"Isotope studies of carbon and nitrogen suggest that primitive carbonaceous chondrites, including CM types, delivered organic matter to the early Earth,\" said cosmochemist Queenie Chan of Royal Holloway University of London, England, and biogeochemist Nana Ogawa of the Biogeochemistry Research Center at the Japan Agency for Marine-Earth Science and Technology. \"The Hillsborough meteorite contained 1.8% by weight of carbon and 0.07% of nitrogen, and had carbon and nitrogen isotopes typical for CM-type meteorites.\"\n \nThe meteorite contained a wide variety of soluble organic compounds, and its compositional range confirms that the Hillsborough meteorite was more altered by water than most other CM-type meteorites. \"A high fraction of compounds were the product of organic chemistry with minerals,\" said organic mass spectrometry specialist Phil Schmitt-Kopplin of Technical University Munich. \"We do not know if these magnesium organic compounds were contributed by brine chemistry or were simply left over from earlier impact shock processes.\" In living organisms, organometallic compounds are found in blood and used in photosynthesis. Among the soluble organic compounds were many amino acids, similar to those found in more moderately altered CM2 chondrites.\n \nAstrobiologist Danny Glavin of NASA's Goddard Space Flight Center in Greenbelt, Maryland, and his team in Goddard's Astrobiology Analytical Lab concluded that the delivery of amino acids, carboxylic acids and other soluble organic molecules by CM-type bodies may have contributed to the prebiotic organic inventory that preceded the emergence of life on Earth. Their analysis suggests the complex distribution of amino acids observed in the Hillsborough meteorite formed within the parent body, likely assisted by brine fluid chemistry. \nThe findings have been published in the journal Science Advances.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Jul 18, 2026 07:00",
+    "published_at": "2026-07-18T07:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "DXVK 3.0.2 Brings Fixes for Dying Light: The Beast, Halo CE, Overwatch, and More",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366278",
+    "description": "DXVK 3.0.2 has been released today as the second minor update in the latest DXVK 3.0 series of this open-source Vulkan-based implementation of D3D8, D3D9, D3D10, and D3D11 for Linux / Wine that brings improvements for various games and other changes.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366278",
+    "date": "Jul 18, 2026 05:39",
+    "published_at": "2026-07-18T05:39:04Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Become More Productive With These GNOME Extensions",
+    "link": "https://feed.itsfoss.com/link/24361/17382257/gnome-extensions-for-productivity",
+    "description": "Here's my recommended list of GNOME extensions that might help you focus more on work and be (more) productive.",
+    "guid": "6a54b30aeebe540001b4bc1b",
+    "date": "Jul 18, 2026 03:37",
+    "published_at": "2026-07-18T03:37:28Z",
+    "image": "https://itsfoss.com/content/images/2026/07/gnome-extensions-for-productivity-banner.png",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "Australia To Put Environmental Brakes On AI Data Centers",
+    "link": "https://slashdot.org/story/26/07/17/2142206/australia-to-put-environmental-brakes-on-ai-data-centers?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from the New York Times: Australia will require large data centers powering artificial intelligence to generate as much power as they consume, and ensure that creative professionals retain control over work that may be used to train A.I. systems, as the government sets up guardrails over the rapidly growing industry. The announcements on Wednesday in a speech by Prime Minister Anthony Albanese came as Australia draws significant interest from A.I. companies because of its size and the availability of renewable energy, and as resistance to data centers builds in many parts of the United States and Europe.\n \nMajor A.I. companies have opened offices or announced investments in Australia in recent months. The Australian government is trying to balance capitalizing on the A.I. boom with setting parameters on a fast-changing industry that has sparked backlash over environmental impacts, energy use and lack of contribution to local economies. \"Every country on earth is grappling with these challenges right now. Australia will be the first country in the world to bring these issues into a single, national framework,\" Mr. Albanese said Wednesday, laying out the standards his government will pursue.\n \nThe details of what exactly the requirements will look like and how they will be enforced remain to be seen, and the government will need to secure the backing of individual states for its plan. The government said it would introduce legislation on the standards early next year, and establish an \"Office of A.I.\" directly reporting to the prime minister to coordinate implementation. The \"Australian Standards for A.I.\" will include a \"legal obligation\" for companies to ensure they do not drain the power grid and be as water efficient as possible, the government said. Mr. Albanese also said creators of books, music, art or news in Australia should retain control of the price and value of their work when used to train artificial intelligence systems. \"Anything less is theft,\" he said. \"No country has got this right yet.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Jul 18, 2026 03:30",
+    "published_at": "2026-07-18T03:30:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Valve and Collabora Announce Official Arch Linux ARM64 Port for Steam Frame",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366280",
+    "description": "Collabora announced today the first preview of Holo Core, their official Arch Linux ARM64 (AArch64) port for Valve’s Steam Frame gaming VR headset, which will be launched later this year to join the Steam Deck, Steam Machine, and the new Steam Controller.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366280",
+    "date": "Jul 18, 2026 02:36",
+    "published_at": "2026-07-18T02:36:05Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "DXVK 3.0.2 Released With Improved Hang Debugging, Handful Of Game Fixes",
+    "link": "https://www.phoronix.com/news/DXVK-3.0.2-Released",
+    "description": "In addition to the initial build of Holo Core as AArch64 Arch Linux for the Steam Frame, another software milestone today in Valve's Linux gaming space is the release of DXVK 3.0.2 for Direct3D 8 / 9 / 10 / 11 APIs implemented over the Vulkan API for running Windows games...",
+    "guid": "https://www.phoronix.com/news/DXVK-3.0.2-Released",
+    "date": "Jul 18, 2026 00:46",
+    "published_at": "2026-07-18T00:46:33Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
     "title": "Steve Wozniak's Foundation Partners With Realbotix To Build AI Teacherbot",
     "link": "https://hardware.slashdot.org/story/26/07/17/1944211/steve-wozniaks-foundation-partners-with-realbotix-to-build-ai-teacherbot?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
     "description": "\"Apple co-founder Steve Wozniak's Woz Ed foundation is partnering with Realbotix, best known for their RealDoll-branded artificial companions, to deploy AI-powered robotic tutors in classrooms,\" writes Slashdot reader Hentes. \"The doll will serve as a sort of artificial teaching assistant, helping students who get stuck or generating lessons. Students will be assigned an ID code, allowing the robot to provide personalized mentoring.\" NYS Focus reports: \"This deployment in a working school district represents a landmark moment for both AI and humanoid robotics,\" said Andrew Kiguel, CEO of Realbotix, which is currently building the robot. \"[Salamanca City Central School District in Western New York] marks the beginning of a new era where humanoid robots and intelligent AI assistants become standard tools in STEM education.\"\n \nThe female robot, named Sally, will have a \"lifelike appearance\" with silicone skin and long brown hair, Kiguel said in an interview with New York Focus. It will be stationary in a seated position but have a wide range of upper-body movements and facial expressions. [...]\n \nSalamanca plans to introduce the robot and avatar in its high school AI and robotics courses, which use curriculum developed by Apple co-founder Steve Wozniak to prepare students for high-demand tech jobs. The district plans to expand it to high school students in other classes if the pilot is successful. Realbotix's classroom robot has drawn scrutiny because the company is connected to RealDoll, the longtime maker of hyperrealistic sex dolls and sex robots. Realbotix acquired RealDoll's parent company in 2024 but says the education-focused operation has separate employees, payroll, facilities, and technology, with plans to formally separate the businesses at the ownership level.\n \nThe \"companion robots\" are different from sex robots and intended to address what it's described as a \"loneliness epidemic.\" Kiguel has previously said the company's goal is to produce robots and AI that are \"indistinguishable from humans.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
@@ -336,6 +480,16 @@
     "source_url": "https://www.gamingonlinux.com/"
   },
   {
+    "title": "FreeBSD Intern Working On Porting AMD ROCm To The BSD World",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366256",
+    "description": "An intern with the FreeBSD Foundation is working on porting AMD's ROCm compute stack to run on this popular BSD environment...",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366256",
+    "date": "Jul 17, 2026 09:28",
+    "published_at": "2026-07-17T09:28:28Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
     "title": "FSearch Returns After a Three-Year Hiatus with Version 0.3",
     "link": "https://lxer.com/module/newswire/ext_link.php?rid=366261",
     "description": "FSearch 0.3 lands nearly three years after the previous release, adding real-time filesystem monitoring, file previews, and smarter indexing.",
@@ -401,6 +555,16 @@
     "source_url": "https://www.gamingonlinux.com/"
   },
   {
+    "title": "KDE KWin Introduces Support For Server-Side Drop Shadows",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366259",
+    "description": "The KDE Plasma 6.8 will be introducing support for server-side drop shadows with the feature recently having been merged to KWin...",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366259",
+    "date": "Jul 17, 2026 06:25",
+    "published_at": "2026-07-17T06:25:29Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
     "title": "Weston 16: HDR-ready, improved debugging, and DRM backend features",
     "link": "https://lxer.com/module/newswire/ext_link.php?rid=366257",
     "description": "Weston 16 expands HDR and color management support, improves Perfetto debugging and DRM backend performance, and adds new protocol and renderer capabilities for more efficient and flexible Wayland compositor development.",
@@ -409,182 +573,5 @@
     "published_at": "2026-07-17T04:54:00Z",
     "source": "lxer.com",
     "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Truth Social To Sell Wall Street Firms the 'Fastest' Access To Trump's Post",
-    "link": "https://tech.slashdot.org/story/26/07/17/0022208/truth-social-to-sell-wall-street-firms-the-fastest-access-to-trumps-post?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "An anonymous reader quotes a report from NBC News: Trump Media \u0026 Technology Group has unveiled a paid-for, licensed data feed that will give banks and trading firms \"the fastest\" access to posts from influential Truth Social accounts, such as President Donald Trump's, whose posts often move global markets. The product, called 'Truth API,' will deliver posts from the 10 most influential accounts to customers at a significantly faster pace than a regular push notification on the Truth Social platform, a spokesperson said. The feed is designed for organizations \"most impacted by the cost of a delay in information,\" such as algorithmic trading firms, the company said in a statement. \"Until now... firms that prioritize tracking influential Truth posts have relied on manual monitoring. Truth API closes the gap.\" \"Markets already move on Truth Social posts ... As adoption grows, we expect Truth API to become a meaningful, ongoing source of revenue for the company,\" TMTG's interim CEO Kevin McGurn said.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Jul 17, 2026 03:30",
-    "published_at": "2026-07-17T03:30:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "System76 Launches Next-Gen Adder Pro Linux Laptop with 2K OLED Display",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366206",
-    "description": "Linux hardware vendor System76 launched today the next-gen of their Adder Pro Linux laptop with upgraded components to provide a flawless Linux experience to gamers, content creators, and developers.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366206",
-    "date": "Jul 17, 2026 01:51",
-    "published_at": "2026-07-17T01:51:01Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Frame: A New X11 Server Implementation Written Entirely In x86_64 Assembly",
-    "link": "https://www.phoronix.com/news/Frame-X11-Server-Assembly",
-    "description": "Previously we covered YSERVER as an X11 server written in the Rust programming language with the help of Claude Code. A Phoronix reader wrote in today to share an even more esoteric X11 server implementation that has come about and again written in large part by AI/LLM usage: Frame is an X11 server written in pure x86_64 Assembly...",
-    "guid": "https://www.phoronix.com/news/Frame-X11-Server-Assembly",
-    "date": "Jul 17, 2026 00:50",
-    "published_at": "2026-07-17T00:50:00Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "AMD Ryzen 7 7700X3D Linux Performance",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366251",
-    "description": "Today the AMD Ryzen 7 7700X3D goes on sale as the lowest-price AMD 3D V-Cache processor being marketed for gamers. This 8-core / 16-thread processor features a 4.5GHz boost clock and a total of 104MB of cache while being based on the older Zen 4 architecture and coming in at about $329 USD. Here is a look at how the AMD Ryzen 7 7700X3D is performing on Linux.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366251",
-    "date": "Jul 17, 2026 00:19",
-    "published_at": "2026-07-17T00:19:32Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "HP Fined $14 Million For 'Cartelization' of Ink Cartridges, Toner, PCs",
-    "link": "https://hardware.slashdot.org/story/26/07/16/2210245/hp-fined-14-million-for-cartelization-of-ink-cartridges-toner-pcs?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "India's Competition Commission has fined HP India and its partners about 1.4 billion rupees ($14.4 million), alleging the company colluded with resellers to rig government PC bids and fix prices for ink cartridges, toner, and other printing supplies. \"It said that HP was aiming to outcompete other OEMs and discourage resellers from selling 'counterfeit' ink and toner,\" adds Ars Technica. From the report: In an order, the CCI said that HP India worked with five resellers to coordinate their bid prices for government contracts to increase the chances of an HP partner winning the contracts. The company was fined 1.3 billion rupees (about $13.1 million). [...] HP was also fined 119.8 million rupees (about $1.2 million) for \"indulging in cartelization in sale and supply of supplies products comprising of toner, cartridges, and other consumable used with print hardware products,\" CCI said in its announcement. The agency also fined 21 HP resellers 35.2 million rupees (about $365,335).\n \nIn a separate order, the CCI said that WhatsApp records showed that HP and 16 of its Tier-2 reseller partners operated \"in a collusive arrangement\" and that the messages show the companies engaging in \"bid rigging, including cover bidding, price fixation, and customer allocation during 2017-2020.\" HP India played a central role, the regulator said.\n \nPer the order, HP India said that high printing supply prices led some resellers to threaten to \"shift to low-cost counterfeit products to compete on price.\" \"HP India was commercially forced into a position where it had to support the collusive arrangement adopted by the Tier-2 resellers,\" the order reads. For its part, the order said that HP India \"humbly objects to HP India's role being characterized as a 'kingpin' of the entire collusive arrangement.\" [...] The CCI also ordered HP India and its channel partners to \"cease and desist from anti-competitive conduct\" and to hold competition compliance training programs within 60 days.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Jul 16, 2026 23:00",
-    "published_at": "2026-07-16T23:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "OPNsense 26.7 Open-Source Firewall Released, Powered by FreeBSD 15.1",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366253",
-    "description": "OPNsense 26.7 open-source firewall and routing platform brings FreeBSD 15.1, a reworked interface framework, Source NAT migration, and more.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366253",
-    "date": "Jul 16, 2026 22:48",
-    "published_at": "2026-07-16T22:48:02Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "TSMC To Invest Additional $100 Billion In Arizona",
-    "link": "https://news.slashdot.org/story/26/07/16/2158219/tsmc-to-invest-additional-100-billion-in-arizona?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "TSMC said it will invest another $100 billion in Arizona after reporting a record 77.4% year-over-year jump in second-quarter profit. The expansion would bring its total U.S. investment to $265 billion and include new fabs for 2-nanometer production and advanced packaging to serve major U.S. customers. The Associated Press reports: As AI-related demand continues to jump and needs for computing power from data centers surge, TSMC has been expanding chip fabrication plants in the U.S., Japan and Taiwan. It said it is increasing its annual capital expenditure budget for this year to $60 billion-$64 billion, up from an earlier estimate of $52 billion-$56 billion.\n \nTSMC, or Taiwan Semiconductor Manufacturing Co., is a key supplier to Nvidia and Apple. It had previously already committed $165 billion in the U.S. for building plants in Arizona, with six fabrication facilities planned. The extra $100 billion in investments are to \"support the strong multiyear demand from our leading U.S. customers,\" C.C. Wei, chairman and CEO of TSMC, said during the company's quarterly earnings conference Thursday. An additional four fabrication plants in Arizona will likely be built with the new investments, TSMC said. They will focus on making some of the most advanced chips that are 2-nanometer and below.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Jul 16, 2026 22:00",
-    "published_at": "2026-07-16T22:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Tronlong TLT153-MiniEVM pairs quad-core Cortex-A7 processing with a Xuantie E907 RISC-V core",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366205",
-    "description": "Tronlong’s TLT153-MiniEVM is an 80 × 130mm industrial evaluation board built around a 45 × 45mm SoM based on the Allwinner T153 processor. Key features include three Gigabit Ethernet ports, USB 2.0, HDMI, MIPI-DSI, microSD, dual expansion headers, and support for CAN-FD and additional serial interfaces. The Allwinner T153 is manufactured on a 22nm process […]",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366205",
-    "date": "Jul 16, 2026 21:16",
-    "published_at": "2026-07-16T21:16:33Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "KDE KWin Introduces Support For Server-Side Drop Shadows",
-    "link": "https://www.phoronix.com/news/KDE-Server-SIde-Drop-Shadows",
-    "description": "The KDE Plasma 6.8 will be introducing support for server-side drop shadows with the feature recently having been merged to KWin...",
-    "guid": "https://www.phoronix.com/news/KDE-Server-SIde-Drop-Shadows",
-    "date": "Jul 16, 2026 21:10",
-    "published_at": "2026-07-16T21:10:33Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "EU Forces Google To Share Search Data, Open Android To Rivals",
-    "link": "https://tech.slashdot.org/story/26/07/16/1926200/eu-forces-google-to-share-search-data-open-android-to-rivals?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "The EU is imposing new rules requiring Google to share anonymized search data and open up Android to rival AI companies. \"Thanks to these measures, we hope to see emerging alternatives to Google Search and Google's AI services, such as Gemini, and that users in the EU can enjoy greater choice of services,\" Henna Virkkunen, an executive vice president at the European Commission overseeing tech, said. The Associated Press reports: In issuing the two new rules, the commission said it found that AI agents not made by Google were unable to function on Android phones at the same level as Google's Gemini. Google must now allow voice-activation of these alternative AI agents and enable them to run background tasks like booking restaurants via third-party apps. By January 2027, Google must also begin sharing anonymized search data with some rivals. The commission said the move is meant to level the playing field since Google controls a vast trove of user data that no competitor can match. Google argues the measures could weaken privacy and security by exposing user searches and reducing safeguards around third-party AI assistants. \"Europeans' private searches would be exposed to unfamiliar companies, without adequate anonymization of the data and without user knowledge or consent,\" said Kent Walker, president of global affairs for Google and Alphabet. \"This would weaken citizens' privacy, risk business trade secrets, and endanger national security.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Jul 16, 2026 21:00",
-    "published_at": "2026-07-16T21:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "AMD's GAIA Continues Striving To Be Your Ultimate AI Companion For Emails",
-    "link": "https://www.phoronix.com/news/AMD-GAIA-0.22",
-    "description": "Yesterday saw the release of AMD's Lemonade 11.0 local AI server as well as ROCm 7.14 as the first production release built using TheRock. Out today is AMD's GAIA 0.22 software as their latest AI software release in working toward the AMD Advancing AI event next week in California...",
-    "guid": "https://www.phoronix.com/news/AMD-GAIA-0.22",
-    "date": "Jul 16, 2026 20:46",
-    "published_at": "2026-07-16T20:46:00Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Perl 5.44 Released with Named Parameters and Unicode 17",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366255",
-    "description": "The latest stable Perl release introduces named parameters for signatures, faster execution, and updated Unicode support.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366255",
-    "date": "Jul 16, 2026 19:45",
-    "published_at": "2026-07-16T19:45:03Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Wayland 1.26 Released With New Pointer Warp Event",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366254",
-    "description": "Simon Ser just announced the stable release of the Wayland 1.26 release...",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366254",
-    "date": "Jul 16, 2026 18:13",
-    "published_at": "2026-07-16T18:13:34Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "FreeBSD Intern Working On Porting AMD ROCm To The BSD World",
-    "link": "https://www.phoronix.com/news/FreeBSD-Intern-AMD-ROCm",
-    "description": "An intern with the FreeBSD Foundation is working on porting AMD's ROCm compute stack to run on this popular BSD environment...",
-    "guid": "https://www.phoronix.com/news/FreeBSD-Intern-AMD-ROCm",
-    "date": "Jul 16, 2026 18:00",
-    "published_at": "2026-07-16T18:00:00Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Minecraft 26.3 Snapshot 4 brings SDL3, and prefers Wayland on Linux",
-    "link": "https://www.gamingonlinux.com/2026/07/minecraft-26-3-snapshot-4-brings-sdl3-and-prefers-wayland-on-linux/",
-    "description": "Minecraft is set for another big update with a fresh Minecraft 26.3 Snapshot 4 ready for testing, and overall it's quite a big technical upgrade.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/07/minecraft-26-3-snapshot-4-brings-sdl3-and-prefers-wayland-on-linux/",
-    "date": "Jul 16, 2026 17:30",
-    "published_at": "2026-07-16T17:30:45Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/539600881id29401gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": " Linus Torvalds rebukes anti-AI stances in the Linux kernel code review process, says 'Linux is not one of those anti-AI projects' — creator embraces AI as just a tool and 'clearly a useful one' ",
-    "link": "https://www.tomshardware.com/software/linux/linus-torvalds-rebukes-anti-ai-stances-in-the-linux-kernel-code-review-process-says-linux-is-not-one-of-those-anti-ai-projects-creator-embraces-ai-as-just-a-tool-and-clearly-a-useful-one",
-    "description": " Linus Torvalds, Linux's creator and kernel manager, has seemingly taken an accepting stance of AI-assisted tooling. ",
-    "guid": "BjBRDMftMwEChnyojrsRLM",
-    "date": "Jul 16, 2026 16:59",
-    "published_at": "2026-07-16T16:59:13Z",
-    "image": "https://cdn.mos.cms.futurecdn.net/2X4Y7yST9zumKE45j4EDM8-1280-80.jpg",
-    "source": "tomshardware.com",
-    "source_url": "https://www.tomshardware.com/software/operating-systems/linux"
-  },
-  {
-    "title": "Vocalinux Turns Your Speech Into Text Without Giving Away Voice Data",
-    "link": "https://feed.itsfoss.com/link/24361/17381411/vocalinux-beta-release",
-    "description": "The 0.14 beta adds many new upgrades.",
-    "guid": "6a586fd225bda2000150a3a8",
-    "date": "Jul 16, 2026 16:45",
-    "published_at": "2026-07-16T16:45:44Z",
-    "image": "https://itsfoss.com/content/images/2026/07/vocalinux-beta-release-banner.png",
-    "source": "itsfoss.com",
-    "source_url": "https://itsfoss.com/"
   }
 ]
