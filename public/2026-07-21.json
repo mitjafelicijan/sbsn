@@ -1,5 +1,224 @@
 [
   {
+    "title": "AMD Ryzen AI Halo LED Driver Queued For Introduction In Linux 7.3",
+    "link": "https://www.phoronix.com/news/Ryzen-AI-Halo-LED-Linux-7.3",
+    "description": "For those that have picked up one of the neat AMD Ryzen AI Halo mini PCs, the LED driver allowing for customization of the LED lighting bar is set to be mainlined for the Linux 7.3 kernel cycle...",
+    "guid": "https://www.phoronix.com/news/Ryzen-AI-Halo-LED-Linux-7.3",
+    "date": "Jul 21, 2026 12:00",
+    "published_at": "2026-07-21T12:00:00Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Acer Predator Atlas 8 Handheld with Intel Arc G3 gets UK pricing and launch month",
+    "link": "https://www.gamingonlinux.com/2026/07/acer-predator-atlas-8-handheld-with-intel-arc-g3-gets-uk-pricing-and-launch-month/",
+    "description": "The Acer Predator Atlas 8 Handheld now has a price and expected launch month, for the UK at least.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/07/acer-predator-atlas-8-handheld-with-intel-arc-g3-gets-uk-pricing-and-launch-month/",
+    "date": "Jul 21, 2026 11:54",
+    "published_at": "2026-07-21T11:54:17Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1135785169id29423gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "The new Dinolords trailer gives medieval strategy a jurassic twist",
+    "link": "https://www.gamingonlinux.com/2026/07/the-new-dinolords-trailer-gives-medieval-strategy-a-jurassic-twist/",
+    "description": "I'm super pumped for Dinolords, because it brings together some really interesting gameplay mechanics - the latest trailer shows some of it off.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/07/the-new-dinolords-trailer-gives-medieval-strategy-a-jurassic-twist/",
+    "date": "Jul 21, 2026 11:31",
+    "published_at": "2026-07-21T11:31:13Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/582835832id29422gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "US Police Now Armed With Israeli Spy Vans Simulating Mobile Phone Towers",
+    "link": "https://mobile.slashdot.org/story/26/07/21/0541215/us-police-now-armed-with-israeli-spy-vans-simulating-mobile-phone-towers?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Longtime Slashdot reader schwit1 quotes an X post by Josh Walkos, author of the Substack We the Free: If you thought Flock was bad check out Falconet. Falconet from Israeli company Cognyte serves as a cell tower simulator that intercepts cell phone data from all devices within range. Police mount these systems in Tahoes so the vehicles can collect information while driving through areas without any direct interaction with targets. This mobile approach generates ongoing records of phone locations and communications for everyone nearby rather than only suspects, which creates comprehensive movement profiles and bypasses traditional warrant requirements under the Fourth Amendment.\n \nCognyte sells the technology directly to U.S. agencies, as shown by the Texas Department of Public Safety purchase of four Tahoes where over three point eight million dollars went to the interception equipment. Adoption spreads through routine vehicle procurement with little external review of how the collected data is stored or shared. Once active the systems permit warrantless collection of private cell phone data across entire communities during normal patrols, which enables potential misuse and leaves individuals with no effective way to discover or contest the surveillance.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Jul 21, 2026 11:00",
+    "published_at": "2026-07-21T11:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Firefox 153 Available With Support For Vulkan Video Decoding, Experimental JPEG-XL",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366318",
+    "description": "Mozilla has uploaded the Firefox 153.0 release binaries today for the newest monthly update to this cross-platform web browser. Making Firefox 153 exciting is that it's the newest Extended Support Release \"ESR\" as well as introducing Vulkan Video decode support...",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366318",
+    "date": "Jul 21, 2026 10:44",
+    "published_at": "2026-07-21T10:44:08Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Intel Compute Runtime Continues Building Out Exciting \"LEO\"",
+    "link": "https://www.phoronix.com/news/Intel-CR-26.27.39122.11",
+    "description": "Going in-step with last week's release of the Intel Graphics Compiler 2.38.2, out today is the Intel Compute Runtime 26.27.39122.11. Most intriguing with the new release is Intel continuing to build out the still-experimental LEO feature...",
+    "guid": "https://www.phoronix.com/news/Intel-CR-26.27.39122.11",
+    "date": "Jul 21, 2026 10:23",
+    "published_at": "2026-07-21T10:23:03Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "GNOME's Security Might Be in Peril as Lone Tracker Goes Off",
+    "link": "https://feed.itsfoss.com/link/24361/17383916/gnome-security-tracking-limbo",
+    "description": "Michael Catanzaro has single-handedly run GNOME security tracking since 2020, but he is leaving in December.",
+    "guid": "6a5f12610dfcce0001cd2b76",
+    "date": "Jul 21, 2026 10:17",
+    "published_at": "2026-07-21T10:17:57Z",
+    "image": "https://itsfoss.com/content/images/2026/07/gnome-security-reports-banner.png",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "AMD Getting The Linux Kernel Ready For Zen 6 Profiling/Perf With More EILVT Registers",
+    "link": "https://www.phoronix.com/news/AMD-Zen-6-More-EILVT-Registers",
+    "description": "Among the recent patch series in preparing Linux for upcoming AMD Zen 6 processors is making the kernel aware of additional EILVT registers to be found with at least EPYC Venice platforms...",
+    "guid": "https://www.phoronix.com/news/AMD-Zen-6-More-EILVT-Registers",
+    "date": "Jul 21, 2026 10:06",
+    "published_at": "2026-07-21T10:06:01Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Beetleball looks hilarious, like Rocket League with bugs that have crazy abilities",
+    "link": "https://www.gamingonlinux.com/2026/07/beetleball-looks-hilarious-like-rocket-league-with-bugs-that-have-crazy-abilities/",
+    "description": "Beetleball looks like it could be another good one to have a blast online with friends, or just to have a general laugh with.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/07/beetleball-looks-hilarious-like-rocket-league-with-bugs-that-have-crazy-abilities/",
+    "date": "Jul 21, 2026 10:05",
+    "published_at": "2026-07-21T10:05:03Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1815446571id29421gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Set in a dark steampunk universe, Veil of Ashes is an RTS with some monstrous tanks",
+    "link": "https://www.gamingonlinux.com/2026/07/set-in-a-dark-steampunk-universe-veil-of-ashes-is-an-rts-with-some-monstrous-tanks/",
+    "description": "Veil of Ashes looks a little bit like Iron Harvest blended with Company of Heroes and Broken Arrow all in one set in a dark steampunk universe.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/07/set-in-a-dark-steampunk-universe-veil-of-ashes-is-an-rts-with-some-monstrous-tanks/",
+    "date": "Jul 21, 2026 09:53",
+    "published_at": "2026-07-21T09:53:25Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1286853425id29420gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "InputPlumber 0.78 Released With Expanded Hardware Support",
+    "link": "https://www.phoronix.com/news/InputPlumber-0.78-Released",
+    "description": "InputPlumber is out with its newest feature release. As a reminder, InputPlumber is the open-source input router and remapper daemon for combining various input devices from gamepads to mice and keyboards as well as the ability to emulate them...",
+    "guid": "https://www.phoronix.com/news/InputPlumber-0.78-Released",
+    "date": "Jul 21, 2026 09:48",
+    "published_at": "2026-07-21T09:48:07Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "NetworkManager 1.58 Adds CLAT, GENEVE, and Wi-Fi 6 GHz Support",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366324",
+    "description": "NetworkManager 1.58 introduces CLAT through BPF, GENEVE interfaces, Wi-Fi 6 GHz selection, and several networking improvements.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366324",
+    "date": "Jul 21, 2026 09:12",
+    "published_at": "2026-07-21T09:12:39Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "NetworkManager 1.58 Released With 464XLAT CLAT Support \u0026 GENEVE Interface",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366330",
+    "description": "NetworkManager 1.58 is out today with the latest feature enhancements for bettering wired and wireless network management on Linux...",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366330",
+    "date": "Jul 21, 2026 07:41",
+    "published_at": "2026-07-21T07:41:09Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Drinking 5 Cups of Coffee a Day Could Reduce Heart Risk",
+    "link": "https://developers.slashdot.org/story/26/07/21/0053206/drinking-5-cups-of-coffee-a-day-could-reduce-heart-risk?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "A new American Heart Association scientific statement concludes that up to about 400 milligrams a day, or roughly three to five cups of plain coffee, is safe for most adults and may be linked to lower risks of cardiovascular disease. The benefits appear to depend heavily on the source and preparation, with coffee and tea looking more favorable than energy drinks, and added sugar, cream, syrups, or sweeteners potentially canceling out the upside. ScienceAlert reports: \"Caffeine consumed in coffee is a key part of daily life for millions of people,\" says Gregory Marcus, cardiologist at the University of California, San Francisco, and Chair of the AHA volunteer writing group behind the statement. \"In our review of the most recent research, for most adults, intake of up to 400 milligrams of caffeine per day, the equivalent of up to five cups of caffeinated coffee per day without added sugars or fillers, is safe and does not increase cardiovascular risk.\"\n \nThe statement focused on caffeine's relationship with cardiovascular risk factors, such as blood pressure and diabetes, as well as types of cardiovascular disease, including arrhythmias, coronary artery disease, stroke, and heart failure. The picture that emerges is complicated, but generally positive. [...] All up, the new AHA statement concludes that there's a growing body of evidence that caffeine isn't harmful when taken in moderation, and that coffee specifically may be beneficial. The statement was published in the journal Circulation.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Jul 21, 2026 07:00",
+    "published_at": "2026-07-21T07:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "I Finally Tried the Alacritty Terminal And It May Replace Kitty for Me",
+    "link": "https://feed.itsfoss.com/link/24361/17383861/alacritty-terminal",
+    "description": "I’ve always been more of a Kitty user, but after using Alacritty for the past two months, my loyalty to Kitty is starting to waver.",
+    "guid": "6a26438371bb9a0001f2f353",
+    "date": "Jul 21, 2026 06:23",
+    "published_at": "2026-07-21T06:23:48Z",
+    "image": "https://itsfoss.com/content/images/2026/07/alacritty-terminal.webp",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "Mozilla Firefox 153 ESR Is Now Available for Download, Here’s What’s New",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366314",
+    "description": "Mozilla has published today the final builds of the Firefox 153 ESR open-source web browser ahead of its official unveiling on July 21st, 2026, so it’s time to take a look at the new features and improvements.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366314",
+    "date": "Jul 21, 2026 06:09",
+    "published_at": "2026-07-21T06:09:40Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Cold Reset Recovery Coming Together To Better Help Intel GPUs On Linux",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366331",
+    "description": "One of the patch series going through nearly a dozen revisions now is for introducing a cold reset recovery method for the Direct Rendering Manager (DRM) drivers with an initial focus on the Intel Xe kernel graphics driver...",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366331",
+    "date": "Jul 21, 2026 04:38",
+    "published_at": "2026-07-21T04:38:10Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Hackers Are Exploiting Recently Patched WordPress Bugs, Putting Millions of Websites at Risk",
+    "link": "https://tech.slashdot.org/story/26/07/20/234246/hackers-are-exploiting-recently-patched-wordpress-bugs-putting-millions-of-websites-at-risk?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from TechCrunch: Hackers are breaking into websites that run vulnerable versions of the popular blogging software WordPress, according to several cybersecurity firms. One estimate puts the number of vulnerable WordPress websites at tens of millions as of Monday. Last week, WordPress patched two critical security flaws, urging people who run its software on their websites to update it \"immediately.\" The vulnerabilities are so severe that WordPress enabled forced updates where possible. Since then, cybersecurity companies Patchstack, Hexastrike, and WatchTowr have all warned that hackers are exploiting the vulnerabilities in the wild, meaning they are taking over websites that are still running susceptible versions of WordPress.\n \nIt's unclear how many WordPress-powered websites on the internet are at risk, but it's possible to make some educated guesses. The vulnerable versions of WordPress are 6.9.0 through 6.9.4, and 7.0.0 to 7.0.1. According to WordPress' official stats, there are more than 400 million websites that run those flawed versions, although these statistics likely don't reflect websites that have recently been patched. Cybersecurity consultant Daniel Card, who told TechCrunch that he looked at a sample of around 3,500 WordPress websites, estimates that less than 15% are vulnerable. Applying Card's projection across the total population of WordPress websites on the internet, the total figure would still be around 90 million. [...] One of the critical WordPress bugs was found and reported by Adam Kues of cybersecurity firm Searchlight Cyber, which dubbed it WP2Shell. Paired with the other bug, hackers can take full remote control of vulnerable websites.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Jul 21, 2026 03:30",
+    "published_at": "2026-07-21T03:30:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "The XZ Backdoor Long Con Chronicled in ‘Half a Second’",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366329",
+    "description": "‘Half a Second’ chronicles the XZ Utils backdoor attempt—from a patient impostor maintainer to the half-second latency that exposed the plot.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366329",
+    "date": "Jul 21, 2026 03:06",
+    "published_at": "2026-07-21T03:06:41Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "NetworkManager 1.58 Officially Released with New Features and Improvements",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366321",
+    "description": "NetworkManager 1.58 has been released today as a major update of this open-source network connection manager for Linux-based operating systems that introduces many new features and improvements.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366321",
+    "date": "Jul 21, 2026 00:51",
+    "published_at": "2026-07-21T00:51:17Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "AMD Talks Up The Great Opportunities Of SPIR-V IR With ROCm",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366325",
+    "description": "While AMD ROCm 7.14 released last week as the first production release built off TheRock, there is already more to look forward to moving into the future with the AMD ROCm stack... In particular, SPIR-V with ROCm becoming a reality for unified binaries that can work across graphics architectures/targets, better portability across GPU hardware, and other improvements to the experience in targeting a unified IR...",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366325",
+    "date": "Jul 20, 2026 23:19",
+    "published_at": "2026-07-20T23:19:47Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
     "title": "New Orleans Cops Published Policy Document Allowing Weaponized Drones",
     "link": "https://news.slashdot.org/story/26/07/20/2259204/new-orleans-cops-published-policy-document-allowing-weaponized-drones?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
     "description": "A draft New Orleans Police Department drone manual briefly published online would have allowed police drones to carry weapons with written approval from the superintendent, according to 404 Media. NOPD says the document was only an early draft and that its current policy (PDF) bans drones from carrying weapons or hazardous materials. 404 Media reports: The current version, live as of July 1, has different language: \"The sUAS shall not be equipped with weapons or hazardous materials of any kind,\" referring to small Unmanned Aerial Systems, or drones. According to the NOPD, the operations manual it published to the internet with the rules for weaponized drones was an early draft. \"The manual published on July 1 is the current published version of the policy. Earlier versions were draft versions that were presented for review before adoption of the current policy,\" NOPD told 404 media. \"NOPD has made it clear we are not and will not be equipping drones with weapons or other hazardous materials.\"\n \nNOPD didn't answer follow-up questions about how or why the draft version of the manual was published. But the publication of a police drone manual that opens the door for weaponized quadcopters is important, and comes as drone companies and police flirt with the idea of putting weapons on their drones. New Orleans has long been a pioneer of camera and drone driven policing and the cops have used controversial tactics to get around public scrutiny and regulations. It shows that what the police are circulating amongst themselves and thinking about privately, what they perhaps want to happen, does not match public policy.\n\n\n\n\n\nRead more of this story at Slashdot.",
@@ -51,16 +270,6 @@
     "published_at": "2026-07-20T20:16:48Z",
     "source": "lxer.com",
     "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "NetworkManager 1.58 Released With 464XLAT CLAT Support \u0026 GENEVE Interface",
-    "link": "https://www.phoronix.com/news/NetworkManager-1.58",
-    "description": "NetworkManager 1.58 is out today with the latest feature enhancements for bettering wired and wireless network management on Linux...",
-    "guid": "https://www.phoronix.com/news/NetworkManager-1.58",
-    "date": "Jul 20, 2026 20:12",
-    "published_at": "2026-07-20T20:12:39Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
   },
   {
     "title": "Head of US Safety Agency Resigns",
@@ -135,16 +344,6 @@
     "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
     "source": "slashdot.org",
     "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "AMD Talks Up The Great Opportunities Of SPIR-V IR With ROCm",
-    "link": "https://www.phoronix.com/news/AMD-ROCm-SPIR-V-Reality-2026",
-    "description": "While AMD ROCm 7.14 released last week as the first production release built off TheRock, there is already more to look forward to moving into the future with the AMD ROCm stack... In particular, SPIR-V with ROCm becoming a reality for unified binaries that can work across graphics architectures/targets, better portability across GPU hardware, and other improvements to the experience in targeting a unified IR...",
-    "guid": "https://www.phoronix.com/news/AMD-ROCm-SPIR-V-Reality-2026",
-    "date": "Jul 20, 2026 16:18",
-    "published_at": "2026-07-20T16:18:18Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
   },
   {
     "title": "LSU Physicists Create First Room-Temperature Quantum Material",
@@ -249,16 +448,6 @@
     "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
     "source": "slashdot.org",
     "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Firefox 153 Available With Support For Vulkan Video Decoding, Experimental JPEG-XL",
-    "link": "https://www.phoronix.com/news/Firefox-153-Downloads",
-    "description": "Mozilla has uploaded the Firefox 153.0 release binaries today for the newest monthly update to this cross-platform web browser. Making Firefox 153 exciting is that it's the newest Extended Support Release \"ESR\" as well as introducing Vulkan Video decode support...",
-    "guid": "https://www.phoronix.com/news/Firefox-153-Downloads",
-    "date": "Jul 20, 2026 11:32",
-    "published_at": "2026-07-20T11:32:33Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
   },
   {
     "title": "openSUSE Seeking Additional Corporate Sponsors",
@@ -437,89 +626,5 @@
     "published_at": "2026-07-20T04:49:54Z",
     "source": "lxer.com",
     "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Rust Will Help Linux Succeed and Makes Coding Fun, Says Greg Kroah-Hartman",
-    "link": "https://developers.slashdot.org/story/26/07/20/0417244/rust-will-help-linux-succeed-and-makes-coding-fun-says-greg-kroah-hartman?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "ZDNet reports on June's Open Source Summit India 2026 in Mumbai, where Linux stable kernel maintainer Greg Kroah-Hartman gave a talk titled \"Rust and Linux: How the Rust Language is Going to Help Linux Succeed.\"\n\n\n\n\n Kroah-Hartman said in his keynote that \"the [Linux] kernel is moving toward Rust. Git is moving toward Rust. Lots of projects are starting to move toward Rust.\"\n \n\nHe didn't always feel that way. Kroah-Hartman added, \"A number of years ago, when a friend of mine said, 'Ah, you got to try this new language. It's called Rust.' I was like, 'What? No, C is great.' His friend continued, \"'No, no, no! It makes programming fun again.' I'm like, 'Nah, programming is fun in C.' He was right. I should have done it then. Rust is actually fun. It makes programming fun. It takes a lot of stuff away from having to worry about the compiler, which can fix a lot of your problems for you, and it makes code a little bit better.\" \n\nSo, Kroah-Hartman has moved from being a Rust skeptic to one of its strongest champions inside the kernel. He now regards Rust as a permanent part of Linux, not an experiment. His case is straightforward: Rust's ownership and type system can eliminate most of the \"stupid little tiny things\" that dominate kernel Common Vulnerabilities and Exposures (CVEs), while making life easier for overworked maintainers. \"Rust,\" in short, \"makes my life so much easier....\" In India, he said Linux sees \"about 13 CVEs a day\" and has been running at \"almost nine changes an hour\" for a decade or more. Most of those vulnerabilities, he argued, are not exotic attacks but simple C mistakes — unchecked pointers, forgotten unlocks, and sloppy cleanup paths: \"This is what we're fixing 13 times a day. Small, trivial, little bugs like this all the time.... I've seen every CVE the kernel has done in the past 25 years. I think 80% would be gone, just because they would be caught by Rust.\" The remaining 20% are the logic bugs he'd prefer to focus on....\" \n\n Moreover, Rust is becoming the default for new work in key subsystems. \"New drivers for some subsystems are only going to be accepted in Rust....\" he said. Binder, the Android IPC mechanism at the heart of billions of devices, now has parallel C and Rust implementations in the kernel. The C version \"will go away soon,\" leaving the Rust version \"as the bedrock of all Android devices going forward.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Jul 20, 2026 04:20",
-    "published_at": "2026-07-20T04:20:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "KDE Plasma 6.8 Desktop Environment Lands on October 14th, Here’s What to Expect",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366300",
-    "description": "KDE Plasma 6.8 is coming later this year as the next major update to the beloved desktop environment for GNU/Linux distributions, and it’s a special release as it will coincide with KDE’s 30th anniversary on October 14th, 2026.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366300",
-    "date": "Jul 20, 2026 03:18",
-    "published_at": "2026-07-20T03:18:24Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "As AI Transforms Silicon Valley, Some Tech Workers Face Evaporating Financial Security",
-    "link": "https://it.slashdot.org/story/26/07/20/0212244/as-ai-transforms-silicon-valley-some-tech-workers-face-evaporating-financial-security?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "The Washington Post describes a mid-tier executive at Meta as one of Silicon Valley's \"winners\" whose financial security suddenly \"evaporated\" as their workforce \"pushed headlong into AI and heavy job cuts,\" creating a transformed job market. \"Her ex-husband, a designer at Meta who was laid off in 2020, eventually gave up looking for jobs in his profession. He now lifts boxes at a warehouse.\"\n\n\nLayoffs.fyi, which tracks announced job cuts, counts more than 800,000 tech workers laid off since 2022, including large staff reductions in recent months at Meta, Microsoft, Oracle and Amazon... \"There's this whole tranche of people who've been quite used to being among the most upwardly mobile in society who are all of a sudden saying, 'Now I'm the guy on the streetâs'\" said Oliver Raskin, who founded Silicon Valley market research consultancy Signalcraft Insights and has surveyed attitudes in the tech labor force... \"The rise of AI, especially, is bound to change the workplace radically,\" [said Georgetown University historian Joseph McCartin]. \"But the way it's going to happen is similar to how technology transformed the auto industry.\" Ruth Milkman, a labor sociologist at the City University of New York, said that technology workers are getting a dose of what workers in other industries have long complained about: jobs that feel unsteady or rob them of autonomy. \"Low-wage workers are used to it,\" she said... \n\nMany layoffs at technology companies are probably a hangover effect from over-hiring in prior years, experts say. And they don't account for a spotty recent increase in hiring in the information industry, which includes employment of software developers and jobs in media and entertainment. Digging deeper, though, some economists say there are signs that Silicon Valley and other technology-reliant parts of the American economy have reached a turning point where they are growing without needing as many people. The notion was encapsulated in a recent talk that ricocheted through group chats across the tech industry: In it, a partner at the start-up incubator Y Combinator heralded a new generation of AI-first companies that will only need human labor for \"novel situations,\" \"ethical considerations\" and \"high-stakes moments.\" \n\nGad Levanon, chief economist at the labor research nonprofit Burning Glass Institute, said that the number of hours worked in the information sector has dipped since 2022, while the sector's economic output has increased by about 8 percent a year — more than three times the overall growth rate of the U.S. economy. He says the data reveals a sea change in industries, including technology and finance, toward doing more work with the same or fewer people — one that is spreading to other professional classes. \"That's the new reality for white-collar and tech-exposed work: output up, headcount flat or down,\" Levanon said... \n\nRaskin, who has worked in the tech world since the late '90s, said that even though the current moment feels unsettling to many, he's hopeful that it's an early chapter in an evolving story. \"It's happened many times before,\" he said, \"that something implodes and all these people lose jobs, but then that talent gets cycled into whatever the next thing is — into a new wave of prosperity.\" \n\nIn the article tech entrepreneur Anil Dash quips that Silicon Valley techies are \"are guinea pigs for what tech dudes want to do to everyone.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Jul 20, 2026 02:15",
-    "published_at": "2026-07-20T02:15:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Zilog Z80 8-Bit CPU Turns 50, Open-source Replacement Heads To Drop-in DIP40 Silicon",
-    "link": "https://hardware.slashdot.org/story/26/07/20/0046231/zilog-z80-8-bit-cpu-turns-50-open-source-replacement-heads-to-drop-in-dip40-silicon?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "An anonymous reader shared this report from Tom's Hardware:\n\n\nThe Zilog Z80 has just turned 50 years old. This iconic 8-bit processor first went on sale in July 1976 and stayed in production for 48 years until Zilog, now a Littelfuse subsidiary, stopped accepting orders in June 2024. However, there's an open-source replacement closer than ever to shipping in the chip's original 40-pin DIP package thanks to community-funded fabrication... \n\nThe chip powered the ZX Spectrum, TRS-80, MSX machines, Nintendo's Game Boy, Sega's Master System, the Pac-Man arcade cabinet, and Texas Instruments' graphing calculators, then shipped in industrial controllers for decades after home computing moved on to more powerful successors. Zilog's end-of-life notice, dated April 15, 2024, told customers its wafer foundry was discontinuing support for the Z84C00 family, and last-time-buy orders closed that June. \nHowever, Renaldas Zioma's FOSS Z80 project, launched shortly after the end-of-life notice, now has working silicon. The first version, fabbed on SkyWater's 130nm node through Tiny Tapeout 7 on a die of just 0.064mm(2), has been confirmed as functional via the project's GitHub repository. A QFN64 version with all 40 pins exposed followed on the Efabless CI2406 shuttle, two further runs then went through IHP's 130nm process, and the current run targets the classic DIP40 form factor using chip-on-board assembly on GlobalFoundries' 180nm GF180MCU node via Wafer.Space. The end goal here is to fab a drop-in replacement for machines like the ZX Spectrum and RC2014 kits... \n\nZilog is trimming the Z80's official successor line as well. A product change notification from last October put the eZ80L92, along with several Z8F-series microcontrollers, on end-of-life, citing \"little to no demand...\" [T]he pipelined eZ80 architecture, introduced in 2001 and still inside TI's current TI-84 Plus CE calculators, otherwise remains in Zilog's catalog. \n\n\n\n\n\nIn 1999 Slashdot was calling Zilog's updated eZ80 \"one of the fastest 8-bit CPUs available today, executing code 4 times faster than a standard Z80 operating at the same clock speed.\" \n\nSlashdot headline from 2001: Zilog To File For Chapter 11.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Jul 20, 2026 00:50",
-    "published_at": "2026-07-20T00:50:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Linuxiac Weekly Wrap-Up: Week 29, 2026 (July 13 – 19)",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366303",
-    "description": "Catch up on the latest Linux news: Clonezilla Live 3.3.3, COSMIC 1.3, Plasma 6.7.3, Blender 5.2 LTS, Kitty 0.48, Microsoft gives Visual Studio Code a modern UI preview, and more.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366303",
-    "date": "Jul 20, 2026 00:15",
-    "published_at": "2026-07-20T00:15:26Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Dozens of Robotaxi Riders Are Falling Asleep, Sparking Frantic Calls For Emergency Services",
-    "link": "https://tech.slashdot.org/story/26/07/19/236218/dozens-of-robotaxi-riders-are-falling-asleep-sparking-frantic-calls-for-emergency-services?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "\"If tired or wasted passengers fall asleep in a traditional taxi or rideshare, the driver can shout or shake them awake,\" reports Bloomberg. \"Not so in a robotaxi...\"\n\nDitto Kasendar remembers soft music drifting from the robotaxi's speakers as he rode home late at night from a friend's birthday party in 2025. The next moment, Los Angeles firefighters were opening the door and asking if he was OK. His six-minute trip had ended nearly an hour before. A remote Waymo assistant, dialling in through the car's speakers, repeatedly tried to rouse him and finally called 911 when he wouldn't stir... \n\nKasendar's robocab nap was, unfortunately, not an isolated incident. As companies like Alphabet and Tesla bring self-driving taxis to more cities, the messier aspects of serving unpredictable humans are becoming harder to ignore. Passengers are falling asleep, spilling drinks, dropping food, vomiting, experiencing medical emergencies and, in at least two instances, giving birth in the cars. They stumble out of the vehicles and forget to close the doors, forcing the operators to pay nearby gig workers to do it. \nThese seemingly minor nuisances are becoming a drain on municipal resources and complicating the roll-out of robotaxi service. So many robotaxi customers have nodded off in the midst of a ride that Austin police and firefighters even have a name for the incidents: \"sleepers\". The Texas capital recorded 99 such calls in Waymo's first nine months of service there, said Roger Patterson, a commander with Austin-Travis County Emergency Medical Services... Remote assistants monitoring the cars try talking through the speakers and checking on passengers with interior cameras. But if they get no response, company protocols often require them to call 911. And first responders have to assume the worst. Austin dispatchers treat an incident as a potential heart attack if the remote assistant can't tell whether the passenger is breathing, Patterson said. In the end, only about 3% of such calls require transporting the passenger to a hospital, he said. But the incidents tie up personnel who might be needed elsewhere.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Jul 19, 2026 23:09",
-    "published_at": "2026-07-19T23:09:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Kernel prepatch 7.2-rc4",
-    "link": "https://lwn.net/Articles/1083543/",
-    "description": "The 7.2-rc4 kernel prepatch is out for\ntesting.  Linus said: \"This whole week I had the feeling that people\nwere starting to go on summer vacation, but running the numbers shows that\nI must have been wrong - it all looks pretty normal.\"",
-    "guid": "https://lwn.net/Articles/1083543/",
-    "date": "Jul 19, 2026 22:11",
-    "published_at": "2026-07-19T22:11:57Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "Linux 7.2-rc4 Released: Looking Like The \"New Normal\"",
-    "link": "https://www.phoronix.com/news/Linux-7.2-rc4-Released",
-    "description": "The fourth weekly release candidate of the Linux 7.2 kernel is now available for testing...",
-    "guid": "https://www.phoronix.com/news/Linux-7.2-rc4-Released",
-    "date": "Jul 19, 2026 21:16",
-    "published_at": "2026-07-19T21:16:16Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
   }
 ]
