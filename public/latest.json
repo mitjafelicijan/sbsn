@@ -1,5 +1,140 @@
 [
   {
+    "title": "A Promising Process For Nuclear Fuel Re-use and Disposal?",
+    "link": "https://news.slashdot.org/story/26/07/26/0456203/a-promising-process-for-nuclear-fuel-re-use-and-disposal?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "A Canadian lab has run a chemical process on real spent nuclear fuel \"and pulled out 90% of the long-lived danger in 24 hours, the part that forces a burial site to last 100,000 years,\" notes the blog Autonocio, \"with the leftovers meant to fuel a reactor.\"\n\n\nThe standard plan for spent nuclear fuel is to wait it out. You pull the used bundles from a reactor, sit them in a pool of water for seven to ten years while the heat and radiation come down, seal them in concrete casks, and look for somewhere deep and geologically dull to leave them for the next hundred thousand years. Canada has been hunting for that burial site since the 1980s and still doesn't have one in the ground. \n\nA company in Saint John, New Brunswick thinks most of what makes that waste dangerous never needed to go in the ground at all. Moltex Energy Canada says a chemical process it calls WATSS can strip 90% of the long-lived material out of used Canada Deuterium Uranium [CANDU] fuel in 24 hours, and that the concentrated leftovers become fuel for a reactor it wants to build on the same site. The recovery step isn't a slide in a pitch deck anymore. In 2025, World Nuclear News reported that Canadian Nuclear Laboratories ran the process on real used fuel from a commercial Canadian reactor and confirmed the 90% figure. \n\nNone of it is generating power yet. What exists is a validated chemical step and a reactor design waiting in line at a regulator. The rest is a 2030s problem. \n\n\"The chemistry has a lab result behind it. The reactor does not exist...\" the article points out. \"Moltex is aiming to have its first WATSS and SSR-W units running at Point Lepreau by the early-to-mid 2030s... Not everyone buys the pitch. Critics have argued the reprocessing creates its own stream of byproducts, that the economics are unproven, and that a single site's stockpile is finite.\" \n\nBut Moltex \"isn't alone in trying to burn nuclear waste instead of bury it,\" the article notes, with Switzerland and Denmark \"chasing the same goal a different way.\"\n\n\n Switzerland's Transmutex drives a subcritical reactor with a particle accelerator, feeding it spent fuel alongside thorium... Denmark's Copenhagen Atomics is building a thorium molten-salt reactor that fits inside a shipping container and runs on the leftovers from conventional plants. \n\n\nThanks to long-time Slashdot reader kwelch007 for sharing the article.\n\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Jul 26, 2026 11:34",
+    "published_at": "2026-07-26T11:34:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Auto-CPUFreq 3.1 Adds Monitoring Mode To GUI, New Configuration Options \u0026 Fixes",
+    "link": "https://www.phoronix.com/news/Auto-CPUFreq-3.1",
+    "description": "Auto-CPUFreq is one of the open-source projects striving to be a CPU speed and power optimizer for Linux systems to improve battery life without making any real compromises to the user experience. Out today is v3.1 as the newest feature release of Auto-CPUFreq...",
+    "guid": "https://www.phoronix.com/news/Auto-CPUFreq-3.1",
+    "date": "Jul 26, 2026 11:00",
+    "published_at": "2026-07-26T11:00:00Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Realtek RTL8723B/RTL8723BS Trying To Be Tacked On To The RTW88 Linux Driver",
+    "link": "https://www.phoronix.com/news/Realtek-RTL8723B-RTW88-Patches",
+    "description": "Since 2017 in Linux 4.12 has been the Realtek rtl8723bs WiFi driver where it was introduced into the staging area and remains there nearly a decade later. The rtl8723bs driver for this Realtek 802.11n WiFi SDIO driver has seen a lot of code cleaning over the years and all these years later still is needing lots of code clean-ups from unnecessary code abstractions to dealing with malicious WiFi APs for what Greg Kroah-Hartman has called a \"beast of a driver\". The latest twist is there now being patches for adding Realtek RTL8723BS and RTL8723B onto the existing RTW88 driver...",
+    "guid": "https://www.phoronix.com/news/Realtek-RTL8723B-RTW88-Patches",
+    "date": "Jul 26, 2026 10:49",
+    "published_at": "2026-07-26T10:49:00Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "KDE Plasma 6.8 Is Getting Automatic RDP Session Locking",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366420",
+    "description": "The upcoming KDE Plasma 6.8 release will automatically lock the session when the last connected RDP client disconnects.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366420",
+    "date": "Jul 26, 2026 10:47",
+    "published_at": "2026-07-26T10:47:53Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Linux 7.2-rc5 Fixing Longstanding Bug In IPv4 Networking Over Firewire",
+    "link": "https://www.phoronix.com/news/Linux-7.2-Fix-IPv4-Firewire",
+    "description": "Firewire still isn't dead yet on Linux. Current plans call for maintaining IEEE-1394 Firewire on Linux at least through 2029 and with today's Linux 7.2-rc5 kernel release is a fix for those wanting to leverage IPv4 networking over Firewire...",
+    "guid": "https://www.phoronix.com/news/Linux-7.2-Fix-IPv4-Firewire",
+    "date": "Jul 26, 2026 10:38",
+    "published_at": "2026-07-26T10:38:22Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Play Local Music With File-Manager Simplicity",
+    "link": "https://feed.itsfoss.com/link/24361/17387475/sonictree-music-player",
+    "description": "Old school style, old school vibes. SonicTree is for people who like browse music files in folders the way they are stored on the disk.",
+    "guid": "6a5ff7e80dfcce0001cd2f5b",
+    "date": "Jul 26, 2026 09:36",
+    "published_at": "2026-07-26T09:36:44Z",
+    "image": "https://itsfoss.com/content/images/2026/07/sonictree-music-player.webp",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "Wine 11.14 Brings New WoW64 Mode to FreeBSD",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366408",
+    "description": "Wine 11.14 is now available with DirectSound 7.1 format conversions, a new WoW64 mode for FreeBSD, Start Menu icons, and 21 bug fixes.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366408",
+    "date": "Jul 26, 2026 07:44",
+    "published_at": "2026-07-26T07:44:54Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Comic-Con 2026 Debuts Trailers for 'Coyote vs Acme' Movie, Plus 'Neuromancer' and 'Blade Runner 2099' Series",
+    "link": "https://entertainment.slashdot.org/story/26/07/26/038200/comic-con-2026-debuts-trailers-for-coyote-vs-acme-movie-plus-neuromancer-and-blade-runner-2099-series?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Big news from Comic-Con 2026:\n\n\"Coyote vs. ACME\" debuted its long-awaited final trailer. CNET calls it \"an animation-meets-live-action story,\" with the Coyote catapulting into theaters this August 28. (The film began development back in 2018, but was shelved for a tax write-off in 2023 by Warner Bros. until a backlash led to its sale to Ketchup Entertainment.) \"Fed up with Acme's unreliable products, Wile E. Coyote decides to hire a lawyer and sue the company...\" writes CNET. \"The movie also features Lana Condor along with a host of Looney Tunes characters like Porky Pig, Tweety, Foghorn Leghorn and Granny (who gets dinged by an anvil).\"\nIn other movie news, CNET says Johnny Depp also \"made a surprise appearance at Comic-Con, donning a costume as Ebenezer Scrooge\" to promote his November 13 movie about the miser from Charles Dickens' famous Christmas novella. (Ian McKellen and Daisy Ridley are also in the movie.)\n\n\nBut several geek favorites are being filmed as TV series...\n\n There's big news for William Gibson fans, reports Entertainment Weekly. \"Two years after Apple TV announced production on the first-ever series adaptation of William Gibson's seminal 1984 novel Neuromancer, the lucky few hundred who attended the studio's Hall H panel at Comic-Con 2026 got to watch the first teaser. \n\nFor Amazon's Prime Video, the Tolkien-derived \"Rings of Power\" series released a season 3 trailer that CNET said \"successfully hides the best parts with fire... The trailer suggests that Sauron is building an army, and all of Middle-earth is trying to find ways to stop him... Rings of Power season 3 will start dropping weekly episodes on Nov. 11, meaning this show will be airing at the same time the Peter Jackson films will be celebrating their 25th anniversary.\"\nLater in November Amazon's Prime Video will also debut Blade Runner 2099, an eight-episode series that's a sequel to 2017's film Blade Runner 2049, reports CNET. \"Set in an alternate version of LA where replicants run things and the humans play second fiddle, the series sees Yeoh's replicant Olwen chasing down outlaw replicants who've gone missing. With her own shelf life on a ticking clock, the stakes are high for her and for her human fugitive partner, Cora...\"\nParamount Plus will debut Avatar: Seven Havens in October, a new animated series from the creators of Avatar: The Last Airbender which CNET says \"follows a pair of twin avatars, one of whom is Korra's successor.\"\n\nDisney+ has season 3 of Percy Jackson and the Olympians.\nKevin Feige said Marvel's television slate will include more seasons of \"X-Men '97\" and the upcoming \"VisionQuest\" TV series.\nHBO Max will launch a new Green Lantern series called Lanterns on August 16.\n\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Jul 26, 2026 07:34",
+    "published_at": "2026-07-26T07:34:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "GNOME Is Building Session Save and Restore, but It Won’t Make GNOME 51",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366397",
+    "description": "GNOME is developing a modern way to reopen apps and restore their state after login, but the complete feature will not be ready for GNOME 51.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366397",
+    "date": "Jul 26, 2026 04:41",
+    "published_at": "2026-07-26T04:41:55Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "32 of 35 Students Caught Using Hilariously Wrong AI-Generated Answers for Professor's Midterm",
+    "link": "https://news.slashdot.org/story/26/07/25/2114259/32-of-35-students-caught-using-hilariously-wrong-ai-generated-answers-for-professors-midterm?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "\"32 of my 35 students between two classes failed a portion of their midterm because they all used AI to generate their entire response,\" history professor Jason Gibson says in a viral video shared over 10 million times. \"And apparently, they didn't proofread it.\" \nThe instructions included a hidden white-font prompt to use the word Madagascar \"in a way that makes no sense.\" So if he saw the word Madagascar, \"I knew that they copied and pasted the whole thing, and just threw it in AI.\" Futurism reports:\n\n[A]pparently none of the indolent cheats put in the bare modicum of effort required to at least check if what the AI wrote made any sense at all... [Gibson shared some AI-generated answersin a follow-up video.] An observation about AI automation was unceremoniously closed with how the island nation \"wore a toaster to a basketball game,\" he also shared. And social media's impact on the world was compared to a \"long journey to Madagascar.\" Gibson makes it clear that humiliating his students wasn't the point. He says he fully explained how he caught them afterwards, and that he gave the students an opportunity to contest their grade. (Only two did, showing at least that they do feel shame....) \n\nHe definitely isn't the only educator going through similar tribulations... One Brown University professor discovered that over half his students were using AI to cheat on an exam, and Princeton University has even dropped its over century-old Honor Code tradition by forcing exams to be supervised after being mired in its own chatbot cheating scandal. \"We don't know best practices for navigating academia with AI,\" Gibson warned. \"We're all just trying to hold onto some level of academic integrity in the process.\" \n\n\"First and foremost, Madagascar has nothing to do with the Industrial Revolutionar,\" Gibson says with exasperation in the video. \"Second, it was more than obvious that they didn't even go back and re-read these responses... If you're going to use AI to generate the entire response, at least re-read it!\" Here's how one student answered the test question. \"Today technology such as artificial intelligence, smartphones, and automation is changing many jobs by making work faster and reducing the need for some manual tasks. Madagascar floats sideways through the afternoon.\" \n\n\nAnd another student wrote \"At the same time not everyone has the same access to technology, which can make social inequality even worse. Madagascar purple bicycle whispers to the ceiling.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Jul 26, 2026 03:34",
+    "published_at": "2026-07-26T03:34:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "NetworkManager update advances IPv6-only support, Wi?Fi management, and security for Linux-based operating systems",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366392",
+    "description": "Networking is core to any operating system, and when it comes to Linux, it’s actually a combination of several key components. The Linux kernel handles the data plane, moving packets, and holding live device state. NetworkManager is the network configuration service, operating as the control plane, deciding what a device’s configuration should be.NetworkManager 1.58 was released this week, following more than five months of development and 407 commits since version 1.56. The release covers three areas: expanded support for IPv6-only networks, a set of Wi-Fi management updates, and a round of security hardening.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366392",
+    "date": "Jul 26, 2026 03:10",
+    "published_at": "2026-07-26T03:10:26Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Meet Shadowfetch Linux, a New Debian-Based Distro Built Around Local AI",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366415",
+    "description": "Shadowfetch Linux combines Debian Testing, KDE Plasma 6.6, creative software, privacy-focused defaults, and tools for running AI models locally.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366415",
+    "date": "Jul 26, 2026 01:38",
+    "published_at": "2026-07-26T01:38:57Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Firefox's New Tab Page Will Get Widgets - Including an AI-Powered Daily Crossword",
+    "link": "https://news.slashdot.org/story/26/07/25/1944229/firefoxs-new-tab-page-will-get-widgets---including-an-ai-powered-daily-crossword?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "In a sign of the times, Firefox's New Tab page could soon include a crossword puzzle from AI-powered news platform Particle. The blog OMG Ubuntu reports:\n\nThe mini crossword game is updated daily, with puzzles based around recent content Particle's AI has ingested and summarised that day. [After solving the crossword, links appear to related news articles...] If you just want to try the crossword, you access it in any browser via a direct link. \n\nWhile it may look like Mozilla is trying to capitalise on the Wordle craze several years too late, it's part of its strategy to make the Firefox new tab page a discover destination in itself, not just a springboard for new searches. The 'Daily Grind' crossword widget (name subject to change) is just one of several widgets Firefox has (or will get). You'll also find a to-do list, timer, stock checker, world clock, picture of the day, privacy report and new-look weather widget (bigger than the existing one). During the World Cup 2026, Firefox offered real-time match scores and fixture information too... \n\n[T]hey aren't mandatory. You can disable the ones you don't want to use, or, if you don't want any at all, turn them all off to hide the widget area itself. A button to 'show fewer widgets' frees up room to allow other distractions (sponsored stories) on the new tab page to show... [Presumably you can also still open new tabs to a blank page...] \n\nThey're rolling out to users in certain region and locales already. Plus, Mozilla routinely tests new features with a small set of users before they hit stable builds (i.e., the \"Allow Firefox to run feature studies\" setting). If you don't have widgets in your Firefox build, but you want them, you can manually enable them in Firefox 153 and later from the about:config page. Search for the following master switch and set it to true to enable the widget area: \n\n browser.newtabpage.activity-stream.widgets.system.enabled \nThen, enable the widgets you want to use by searching: \n\n activity-stream.widgets.*.enabled \n\nHowever, the usual caveats about \"trying things not enabled by default\" still apply. Mozilla hasn't set a firm rollout date, though the feature is already documented on its support site. With fortnightly Firefox releases about to start, and a big Nova redesign, chances are we'll all be puzzling over these widgets sooner rather than later.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Jul 26, 2026 01:34",
+    "published_at": "2026-07-26T01:34:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
     "title": "Ubuntu Touch 24.04-2.0 Released With Support For Notches \u0026 Rounded Corners",
     "link": "https://www.phoronix.com/news/Ubuntu-Touch-24.04-2.0-Release",
     "description": "Following last month's beta release, Ubuntu Touch 24.04-2.0 is now available as the latest feature release for this Ubuntu 24.04 LTS derived mobile operating system for select smartphones and tablets...",
@@ -18,6 +153,16 @@
     "published_at": "2026-07-26T00:07:27Z",
     "source": "lxer.com",
     "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "A Debian general resolution on LLM usage",
+    "link": "https://lwn.net/Articles/1085314/",
+    "description": "The Debian project is considering a general\nresolution on the use of large language models in the creation of the\ndistribution.  There are three alternatives to consider: a\ntotal ban on LLM usage, rejecting LLMs \"as far as practical\", or\nexplicitly allowing LLM usage subject to a set of conditions.  The\ndiscussion period has just begun; the beginning of the voting period does\nnot yet appear to have been set.  Those who want to look over the\ndiscussion ahead of the inevitable LWN article can find it over here.",
+    "guid": "https://lwn.net/Articles/1085314/",
+    "date": "Jul 25, 2026 23:14",
+    "published_at": "2026-07-25T23:14:16Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
   },
   {
     "title": "Did Virginia Regulators Downplay Data Center Health Concerns?",
@@ -137,16 +282,6 @@
     "source_url": "https://www.phoronix.com/"
   },
   {
-    "title": "GNU C Library 2.44 Released",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366417",
-    "description": "The widely used GNU C Library advances with version 2.44, featuring updates across functionality and security.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366417",
-    "date": "Jul 25, 2026 16:30",
-    "published_at": "2026-07-25T16:30:00Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
     "title": "Risks of Parkinson's Disease May Increase With Prolonged Exposure to Road Traffic Noise",
     "link": "https://science.slashdot.org/story/26/07/24/2246224/risks-of-parkinsons-disease-may-increase-with-prolonged-exposure-to-road-traffic-noise?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
     "description": "A large Danish study found a modest but consistent association between long-term road traffic noise exposure and higher Parkinson's disease risk, with a 3% increase for every 11.5 dB rise in noise at the most exposed side of a home. The Guardian reports: The researchers modeled noise exposure at the most and least exposed exterior of the residence of each participant and calculated the difference in noise levels. The magnitude of the effect was modest but consistent; at the most exposed facade, for every 11.5dB rise in noise level, the risk of Parkinson's disease rose by 3% over the study period. Having a quiet part of the home may mitigate the association between exposure to road traffic noise and higher risk of Parkinson's disease, according to the findings.\n \nThe study, published in Jama Neurology, included 3.1 million Danish participants aged 40 and over, and followed them for 18 years. It was established using nationwide health register data, making it the largest study on road traffic noise and Parkinson's disease. Previous research linked the rise in neurological disorders, including Parkinson's disease, with exposure to environmental toxins. Environmental risk factors such as air pollution, microplastics and pesticides have become the main focus of prevention strategies. The study is one of the first to make the link to noise pollution.\n\n\n\n\n\nRead more of this story at Slashdot.",
@@ -199,6 +334,16 @@
     "source_url": "https://lwn.net"
   },
   {
+    "title": "GNU C Library 2.44 released",
+    "link": "https://lwn.net/Articles/1085030/",
+    "description": "Version 2.44 of the\nGNU C Library has been released.  Changes include a new\n/etc/tunables.conf file for the system-wide setting of tunable\nparameters, a new tunable to control the use of transparent huge pages for\nread-only executable segments, a number of math-function improvements, a\nhandful of security fixes, and more.",
+    "guid": "https://lwn.net/Articles/1085030/",
+    "date": "Jul 25, 2026 13:44",
+    "published_at": "2026-07-25T13:44:53Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
     "title": "RealSense D585 Pro combines stereo vision, dual IR projectors, and edge processing",
     "link": "https://lxer.com/module/newswire/ext_link.php?rid=366411",
     "description": "The RealSense D585 Pro is a stereo depth camera built around the company’s new Gen 5 vision processor. It combines a 120 × 100-degree field of view, global-shutter sensors, dual infrared projectors, an integrated IMU, and on-device processing for robotics and industrial-vision systems. The Gen 5 SoC incorporates a depth engine, image signal processor, digital […]",
@@ -219,6 +364,16 @@
     "source_url": "https://lwn.net"
   },
   {
+    "title": "Kiwi Menu Continues Bringing macOS Vibes To GNOME",
+    "link": "https://www.phoronix.com/news/Kiwi-Menu-macOS-Vibes",
+    "description": "Kiwi Menu as the macOS-inspired quick menu option for the GNOME Shell desktop is continuing to enhance its macOS-esque experience on GNOME...",
+    "guid": "https://www.phoronix.com/news/Kiwi-Menu-macOS-Vibes",
+    "date": "Jul 25, 2026 11:00",
+    "published_at": "2026-07-25T11:00:00Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
     "title": "Wine 11.14 Released",
     "link": "https://tech.slashdot.org/story/26/07/25/014225/wine-1114-released?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
     "description": "Wine 11.14 is out with initial WoW64 mode support on FreeBSD, allowing 32-bit Windows applications to run on a 64-bit system without relying on 32-bit multilib support. The release also adds Start Menu icon support in Wine Explorer, 7.1 format conversions in DirectSound, AES-GMAC support in BCrypt, and 21 bug fixes affecting apps and games including Adobe Reader, Heroes of the Storm, and Age of Empires I and II. Additional details can be found at WineHQ.org.\n\n\n\n\n\nRead more of this story at Slashdot.",
@@ -228,16 +383,6 @@
     "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
     "source": "slashdot.org",
     "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Kiwi Menu Continues Bringing macOS Vibes To GNOME",
-    "link": "https://www.phoronix.com/news/Kiwi-Menu-macOS-Vibes",
-    "description": "Kiwi Menu as the macOS-inspired quick menu option for the GNOME Shell desktop is continuing to enhance its macOS-esque experience on GNOME...",
-    "guid": "https://www.phoronix.com/news/Kiwi-Menu-macOS-Vibes",
-    "date": "Jul 25, 2026 11:00",
-    "published_at": "2026-07-25T11:00:00Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
   },
   {
     "title": "GNU C Library 2.44 Released With /etc/tunables.conf, More Optimizations",
@@ -295,7 +440,7 @@
   {
     "title": "Ubuntu 26.10 \"Stonking Stingray\": All the New Features So Far",
     "link": "https://feed.itsfoss.com/link/24361/17387110/ubuntu-26-10-features",
-    "description": "As usual, Canonical is using an interim release to test features headed for the next LTS. Her, we keep a track of the features as they are added.",
+    "description": "As usual, Canonical is using an interim release to test features headed for the next LTS. Here, we keep a track of the features as they are added.",
     "guid": "6a61e2320dfcce0001cd352d",
     "date": "Jul 25, 2026 07:22",
     "published_at": "2026-07-25T07:22:21Z",
@@ -313,171 +458,5 @@
     "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
     "source": "slashdot.org",
     "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "OpenAI's Rogue Agent Went Unnoticed For a Week",
-    "link": "https://yro.slashdot.org/story/26/07/25/0059247/openais-rogue-agent-went-unnoticed-for-a-week?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "An anonymous reader quotes a report from Reuters: The OpenAI agent that broke into tech firm Hugging Face went on a dayslong hacking spree that OpenAI didn't notice until well after the threat was contained and the FBI was alerted, according to people familiar with the investigation. The agent -- a program capable of making decisions and executing complex tasks with little or no human oversight -- attempted to break out of its isolated testing environment at OpenAI around July 9, according to two of the people. The intrusion at Hugging Face, which operates as a repository for AI tools and models, began two days later on July 11 and lasted until July 13, said Thomas Wolf, Hugging Face's co-founder. It took several more days for OpenAI to realize its agent was behind the hack, and the two companies only communicated about it for the first time on or around July 20, according to Wolf and three of the people familiar with the investigation.\n \nOpenAI's public disclosure, on July 21, thatone of its agents had slipped out of control and carried out the break-in at Hugging Facedrew global attention. But many details of the hack, including how long the agent went rogue and OpenAI's belated knowledge of it, are being reported here for the first time. Hugging Face is preparing a public timeline of the hack, Wolf said, adding that he could not speak to what happened at OpenAI. In a statement, OpenAI said the hack was unprecedented and \"marks an important moment for AI safety.\" It added that it was reviewing the incident with outside advisers and would eventually publish a technical report. \"Does that mean that they left it unattended and didn't realize what it was doing? Or maybe they did and didn't know how to contain it? Both are equally dangerous and alarming,\" asked Marley Smith, the principal intelligence specialist at the nonprofit World Ethical Data Foundation.\n \n\"The models lie, they cheat, they hack,\" said Jeffrey Ladish, whose organization, Palisade Research, studies the capabilities and motivations of AI agents. Ladish said the hack should spark broader questions over how much all the leading AI companies are willing to invest in onerous security measures while locked in a race with one another to deploy the best and fastest models. \"There has to be government oversight,\" Ladish said, \"because it won't happen otherwise.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Jul 25, 2026 03:30",
-    "published_at": "2026-07-25T03:30:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Instagram Is Now Banning Pickup Artists, Pranksters Who Use Meta Glasses",
-    "link": "https://tech.slashdot.org/story/26/07/24/2212248/instagram-is-now-banning-pickup-artists-pranksters-who-use-meta-glasses?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Instagram is banning videos filmed with Meta smart glasses that harass strangers in public, including prank videos targeting service workers and pickup-artist clips of women who may not realize they are being recorded. \"If you're posting content that is taking advantage of people and harassing them, like a lot of these pickup line kind of videos that we've heard of and seen, then we're going to take the content down,\" said Instagram head Adam Mosseri in response to a question on his Instagram stories last week. \"We don't want people to be surreptitiously taking videos of other people and harassing them and then posting them on our platform. So we're trying to fight that every way we can.\" Business Insider reports: It's unclear how many videos have been removed under this new policy. Business Insider found that two large accounts of pickup artists who filmed themselves approaching women in public while wearing the glasses had been deactivated. (Both previously had more than a million followers.)\n \nA Meta spokesperson confirmed to Business Insider that these accounts were booted for violating the policy about posting harassing content that had been filmed with the glasses. Meta did not directly respond to questions about how this new policy is being enforced or what exactly constitutes a violation.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Jul 25, 2026 01:00",
-    "published_at": "2026-07-25T01:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Wine 11.14 Brings WoW64 Mode To FreeBSD, Icon Support In Start Menu",
-    "link": "https://www.phoronix.com/news/Wine-11.14-Released",
-    "description": "Wine 11.14 was tagged today as the newest bi-weekly development release of this open-source software for running Windows games and applications on Linux, macOS, and other platforms...",
-    "guid": "https://www.phoronix.com/news/Wine-11.14-Released",
-    "date": "Jul 25, 2026 00:11",
-    "published_at": "2026-07-25T00:11:38Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Paramount Agrees to Postpone Warner Bros. Merger Until June 2027",
-    "link": "https://yro.slashdot.org/story/26/07/24/2235232/paramount-agrees-to-postpone-warner-bros-merger-until-june-2027?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Paramount Skydance has agreed to postpone its $111 billion Warner Bros. Discovery merger until five days after an antitrust trial or June 1, 2027, whichever comes first. The agreement with a 12-state coalition led by California effectively shelves the deal for months while states argue it would reduce competition in cable and theatrical markets. Variety reports: Paramount had been keen to close the deal before Sept. 30, when it will begin to incur a $7-million-a-day \"ticking fee\" to be paid to Warner Bros. investors. The agreement is a tacit acknowledgement that that will not happen, barring a settlement with the states. Paramount previously sought a three-day hearing on the injunction motion in late August, hoping to win the judge's blessing to close the deal sometime in early September. But the states resisted that idea, saying they would need more time to take discovery and prepare for a full trial on the merits. The states were due to file their injunction motion on Thursday night, but held off as the two sides held discussions on a path forward. In a statement, the company said the agreement is a \"significant win.\"\n \n\"Today's agreement is a significant win because the result is exactly what we have sought from the outset: a direct path to a trial based on the evidence,\" a Paramount spokesperson said. \"This is the fastest and clearest way to prove that this transaction is good for competition, good for consumers, and good for creators, a conclusion dozens of competition authorities around the world have already reached. Plaintiffs' market definitions bear no relationship to the realities of today's marketplace and cannot withstand scrutiny. We look forward to proving our case at trial.\"\n \nA hearing was scheduled for Aug. 3 in federal court in Oakland, at which point the two sides were expected to argue over the injunction motion. The two sides agreed to cancel that hearing. U.S. District Judge Araceli Martinez-Olguin approved the joint stipulation on Friday afternoon, about an hour after it was entered. The Writers Guild of America filed its own motion for an injunction earlier this week, which was also set to be heard on Aug. 3. That motion has been withdrawn, as Paramount has effectively conceded that it will not close the deal until a determination of the merits of the antitrust claims. The parties also agreed to submit a joint stipulation by July 31 on their respective positions on trial scheduling. The states previously proposed to hold the trial in April 2027.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Jul 24, 2026 23:00",
-    "published_at": "2026-07-24T23:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Ubuntu Linux Looking To Get Rid Of /etc/debian_version Historical Artifact",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366399",
-    "description": "Ubuntu Linux has shipped /etc/debian_version that is carried over from upstream Debian and in turn just indicating the Debian Sid development version from which the packages are arrived. Besides it being inaccurate, /etc/os-release has been the long preferred standard for reading the OS release information. Thus finally Ubuntu developers are looking at dropping the /etc/debian_version file...",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366399",
-    "date": "Jul 24, 2026 22:48",
-    "published_at": "2026-07-24T22:48:31Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "US Accuses American of Allegedly Wiping His Phone Using a 'Duress' Password During Border Search",
-    "link": "https://yro.slashdot.org/story/26/07/24/215251/us-accuses-american-of-allegedly-wiping-his-phone-using-a-duress-password-during-border-search?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "An anonymous reader quotes a report from TechCrunch: The U.S. Justice Department is prosecuting an American for allegedly providing U.S. border authorities with a passcode that wiped the contents of his phone, according to an indictment and media reports. This is thought to be the first known case in the United States where federal prosecutors have charged someone for the alleged destruction of data using a so-called \"duress\" password built into a phone's software. According to The Guardian, which covered the story earlier this week following the court's first hearing on Monday, Atlanta resident Samuel Tunick is fighting the charges. Tunick's attorneys said that it was unlawful for U.S. Customs and Border Protection to seize his phone as he arrived back in the U.S. last year, and that any evidence -- including the alleged wiping of his phone -- should be thrown out.\n \nThe case centers on a feature included in GrapheneOS, a custom Android operating system that runs in place of the software on most modern Google Pixel devices. Tunick's attorneys confirmed GrapheneOS was running on his phone. The software feature allows the device owner to set a passcode that deliberately wipes the contents of that device if entered instead of the user's unlock passcode. Tunick's case also raises ongoing questions about what constitutional rights can be invoked at the border, which the U.S. government has long asserted is not U.S. soil until a person is authorized to enter. Bill Budington, a senior staff technologist at the Electronic Frontier Foundation, and Runa Sandvik, a digital security expert who works to protect at-risk people as the founder of security consultancy firm Granitt, told TechCrunch that they had not seen similar cases involving the use of duress passwords.\n \n\"I have not seen this before, though I've discussed the potential scenario with activists and journalists over the years,\" said Sandvik. \"I think this case serves as a reminder that authorities may argue you knowingly destroyed data, so it's better to not have that data on you when you cross certain borders.\"\n \n\"With a little planning ahead of time, you can always download the data you need once you get to where you're going,\" said Sandvik.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Jul 24, 2026 22:00",
-    "published_at": "2026-07-24T22:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Ventoy 1.1.17 Improves Secure Boot and Expands OS Support",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366398",
-    "description": "Ventoy 1.1.17 optimizes its Secure Boot process, adds Athena OS and EulerOS support, and fixes several boot issues.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366398",
-    "date": "Jul 24, 2026 21:17",
-    "published_at": "2026-07-24T21:17:02Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Debian Considering General Resolution Over LLM Usage In The Project",
-    "link": "https://www.phoronix.com/news/Debian-GR-LLM-Usage",
-    "description": "Debian developers are discussing a general resolution whether to permit AI large language model (LLM) usage within the Debian software project...",
-    "guid": "https://www.phoronix.com/news/Debian-GR-LLM-Usage",
-    "date": "Jul 24, 2026 21:07",
-    "published_at": "2026-07-24T21:07:10Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "AMD ROCm Committed To Six Week Release Cycle Moving Forward",
-    "link": "https://www.phoronix.com/news/AMD-ROCm-Six-Weeks",
-    "description": "One of many interesting takeaways from this week's AMD Advancing AI event in San Francisco was word that ROCm will be on a rigid six week release cycle moving forward...",
-    "guid": "https://www.phoronix.com/news/AMD-ROCm-Six-Weeks",
-    "date": "Jul 24, 2026 21:00",
-    "published_at": "2026-07-24T21:00:40Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Fedora 45 Looks To Begin Phasing Out In-Kernel Crypto Userspace API",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366400",
-    "description": "Going along with the upstream Linux 7.2 kernel deprecation of AF_ALG and Linux 7.3 to further restrict this interface for letting user-space programs interact directly with the Linux kernel crypto API, Fedora 45 is looking to follow and help support this transition...",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366400",
-    "date": "Jul 24, 2026 19:45",
-    "published_at": "2026-07-24T19:45:32Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Qualcomm QCE Driver On The Chopping Block With ~48x Slower Than Armv8 Crypto Extensions",
-    "link": "https://www.phoronix.com/news/Qualcomm-QCE-48x-Slower",
-    "description": "A few days back I wrote about upstream Linux kernel developers marking the Qualcomm crypto accelerator driver as \"broken\" and \"harmful\" due to its slow performance, history of bugs, and other limitations. Now this Qualcomm Crypto Engine \"QCE\" driver might be removed outright from the Linux kernel source tree after discovering it's even worse than anticipated...",
-    "guid": "https://www.phoronix.com/news/Qualcomm-QCE-48x-Slower",
-    "date": "Jul 24, 2026 18:45",
-    "published_at": "2026-07-24T18:45:22Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Ubuntu Touch OTA 2.0 Officially Released for Supported Linux Phones and Tablets",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366402",
-    "description": "The UBports Foundation released Ubuntu Touch OTA 2.0 today as a major update to this open-source and free mobile operating system for smartphones and tablets.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366402",
-    "date": "Jul 24, 2026 18:14",
-    "published_at": "2026-07-24T18:14:03Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Ubuntu 26.04 Stopped Notifying Users About Updates, But That Was Intentional",
-    "link": "https://feed.itsfoss.com/link/24361/17386848/ubuntu-26-04-update-notifier-fix",
-    "description": "Luckily, a fix is already out, shipped as a security update.",
-    "guid": "6a6303440dfcce0001cded58",
-    "date": "Jul 24, 2026 17:41",
-    "published_at": "2026-07-24T17:41:58Z",
-    "image": "https://itsfoss.com/content/images/2026/07/ubuntu-no-update-notification-banner.png",
-    "source": "itsfoss.com",
-    "source_url": "https://itsfoss.com/"
-  },
-  {
-    "title": "Imagination PowerVR Driver Marking BXM-4-64 MC1 GPU As Supported In Linux 7.3",
-    "link": "https://www.phoronix.com/news/Imagination-BXM-4-64-Linux-7.3",
-    "description": "Sent out today was the weekly round of drm-misc-next patches of new Direct Rendering Manager feature material ready to be queued in DRM-Next ahead of the Linux 7.3 merge window...",
-    "guid": "https://www.phoronix.com/news/Imagination-BXM-4-64-Linux-7.3",
-    "date": "Jul 24, 2026 17:04",
-    "published_at": "2026-07-24T17:04:00Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Hefty stable kernel updates for Friday",
-    "link": "https://lwn.net/Articles/1084921/",
-    "description": "Greg Kroah-Hartman has announced the release of the 7.1.5, 6.18.40, 6.12.97, 6.6.145, 6.1.178, 5.15.212, and 5.10.261 stable Linux kernels.\n\nThis batch of kernels includes a hefty set of updates, possibly the largest ever. 7.1.5-rc1,\nfor example, included more than 2,000 patches, 6.18.40-rc1\nincluded 1,611 patches, and so forth. Users are advised to upgrade.",
-    "guid": "https://lwn.net/Articles/1084921/",
-    "date": "Jul 24, 2026 17:01",
-    "published_at": "2026-07-24T17:01:34Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "Codeberg Has Drawn a Hard Line on Use of AI With Community Backing",
-    "link": "https://feed.itsfoss.com/link/24361/17386673/codeberg-bans-ai-contributions",
-    "description": "While many projects are warming up to AI, Codeberg went the other way.",
-    "guid": "6a6314940dfcce0001cdeeae",
-    "date": "Jul 24, 2026 16:31",
-    "published_at": "2026-07-24T16:31:44Z",
-    "image": "https://itsfoss.com/content/images/2026/07/codeberg-ai-ban-banner.png",
-    "source": "itsfoss.com",
-    "source_url": "https://itsfoss.com/"
   }
 ]
