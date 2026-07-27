@@ -1,5 +1,225 @@
 [
   {
+    "title": "Linuxiac Weekly Wrap-Up: Week 30, 2026 (July 20 – 26)",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366436",
+    "description": "Catch up on the latest Linux news: COSMIC 1.4, VirtualBox 7.2.14, Firefox 153, Wine 11.14, Hyprland 0.56, OBS Studio 32.2, Debian developers debate ban on AI-assisted contributions, and more.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366436",
+    "date": "Jul 27, 2026 12:55",
+    "published_at": "2026-07-27T12:55:12Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Pironman 5 Pro Max Review: SunFounder's Most Capable Pi 5 Case Doubles as an AI Desktop",
+    "link": "https://feed.itsfoss.com/link/24361/17388096/pironman-5-pro-max-review",
+    "description": "SunFounder's flagship Pironman case now ships with a 4.3\" touchscreen, a camera mount, and room for an AI accelerator, built for Raspberry Pi 5 owners who want to experiment with local AI, not just add cooling and storage.",
+    "guid": "6a65bcbc12b91700010033a6",
+    "date": "Jul 27, 2026 12:35",
+    "published_at": "2026-07-27T12:35:25Z",
+    "image": "https://itsfoss.com/content/images/2026/07/pironman-max-pro-feature-reviews-1.webp",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "Skate 3 Recomp 2.0 brings native rendering to the PC port of the Xbox classic Skate 3",
+    "link": "https://www.gamingonlinux.com/2026/07/skate-3-recomp-2-0-brings-native-rendering-to-the-pc-port-of-the-xbox-classic-skate-3/",
+    "description": "Skate 3 Recomp 2.0 brings the classic Xbox 360 version of Skate 3 to modern platforms, and now with a modern renderer using Vulkan (or Direct3D on Windows).Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/07/skate-3-recomp-2-0-brings-native-rendering-to-the-pc-port-of-the-xbox-classic-skate-3/",
+    "date": "Jul 27, 2026 12:01",
+    "published_at": "2026-07-27T12:01:30Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/354309870id29455gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Crack open planets in the idle incremental game Swarmslam",
+    "link": "https://www.gamingonlinux.com/2026/07/crack-open-planets-in-the-idle-incremental-game-swarmslam/",
+    "description": "I've grown to love a few idle incremental games recently and started discovering more - like Swarmslam, which has a fun idea about smashing through planets.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/07/crack-open-planets-in-the-idle-incremental-game-swarmslam/",
+    "date": "Jul 27, 2026 11:53",
+    "published_at": "2026-07-27T11:53:13Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/858881266id29454gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Ubuntu To Provide Virtualization HWE Stack For Ubuntu 26.04 LTS",
+    "link": "https://www.phoronix.com/news/Ubuntu-Virtualization-HWE-Stack",
+    "description": "Ubuntu has long provided hardware enablement \"HWE\" stacks for Ubuntu LTS releases to provide a newer kernel and Mesa drivers and more for better supporting new/modern hardware on the long-term support Ubuntu Linux releases. With Ubuntu 26.04 LTS, Canonical will also now be providing a virtualization HWE stack for shipping newer virtualization / confidential computing features...",
+    "guid": "https://www.phoronix.com/news/Ubuntu-Virtualization-HWE-Stack",
+    "date": "Jul 27, 2026 11:32",
+    "published_at": "2026-07-27T11:32:53Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Minecraft: Java Edition system requirements get bumped up ahead of Vulkan support",
+    "link": "https://www.gamingonlinux.com/2026/07/minecraft-java-edition-system-requirements-get-bumped-up-ahead-of-vulkan-support/",
+    "description": "With Minecraft: Java Edition getting a big rendering upgrade with Vulkan, it was time for the system requirements to get adjusted.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/07/minecraft-java-edition-system-requirements-get-bumped-up-ahead-of-vulkan-support/",
+    "date": "Jul 27, 2026 11:00",
+    "published_at": "2026-07-27T11:00:45Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/420219173id29453gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "EmuDeck announce they are now ready for the Steam Machine",
+    "link": "https://www.gamingonlinux.com/2026/07/emudeck-announce-they-are-now-ready-for-the-steam-machine/",
+    "description": "For those of you who want to do some emulation on the Steam Machine, EmuDeck is likely a good option and it should work better now.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/07/emudeck-announce-they-are-now-ready-for-the-steam-machine/",
+    "date": "Jul 27, 2026 10:50",
+    "published_at": "2026-07-27T10:50:02Z",
+    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/steammachine2025.jpg",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Qualcomm announce a big price rise - bad news for Valve's Steam Frame",
+    "link": "https://www.gamingonlinux.com/2026/07/qualcomm-announce-a-big-price-rise-bad-news-for-valves-steam-frame/",
+    "description": "Valve don't seem to be able to catch a break with their hardware releases - as Qualcomm reportedly plan to raise prices a lot.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/07/qualcomm-announce-a-big-price-rise-bad-news-for-valves-steam-frame/",
+    "date": "Jul 27, 2026 10:37",
+    "published_at": "2026-07-27T10:37:47Z",
+    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/steamframe.jpg",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "AMD \"Low Power\" CPU Core Type Patches Queued Ahead Of Linux 7.3",
+    "link": "https://www.phoronix.com/news/AMD-Low-Power-Core-Linux-7.3",
+    "description": "Last month I wrote bout new AMD Linux patches introducing a new \"low power\" CPU core type as an alternative to their standard performance cores and dense efficiency cores. That work now is poised to land with the upcoming Linux 7.3 kernel...",
+    "guid": "https://www.phoronix.com/news/AMD-Low-Power-Core-Linux-7.3",
+    "date": "Jul 27, 2026 10:35",
+    "published_at": "2026-07-27T10:35:31Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "The awesome crime noir FPS 'Fallen Aces' has episode 2 out now",
+    "link": "https://www.gamingonlinux.com/2026/07/the-awesome-crime-noir-fps-fallen-aces-has-episode-2-out-now/",
+    "description": "From publisher New Blood Interactive, the wonderful retro crime noir FPS 'Fallen Aces' has episode 2 out now.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/07/the-awesome-crime-noir-fps-fallen-aces-has-episode-2-out-now/",
+    "date": "Jul 27, 2026 10:24",
+    "published_at": "2026-07-27T10:24:08Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1223007770id29450gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Wayfire Wayland Compositor Closing In On v1.0 Release",
+    "link": "https://www.phoronix.com/news/Wayfire-0.11-Released",
+    "description": "The Wayfire modular and extensible Wayland compositor formerly used by default on Raspberry Pi SBCs is nearing its v1.0 release. Wayfire 0.11 was released on Sunday for this Compiz-inspired, wlroots-powered compositor with that being their hopeful last planned version before Wayfire 1.0 releases...",
+    "guid": "https://www.phoronix.com/news/Wayfire-0.11-Released",
+    "date": "Jul 27, 2026 10:10",
+    "published_at": "2026-07-27T10:10:50Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "FreeBSD Developing New NTSYNC Driver For Accelerating Windows NT Sync Primitives",
+    "link": "https://www.phoronix.com/news/FreeBSD-Q2-2026",
+    "description": "The FreeBSD project published today their Q2-2026 status report that highlights all of their interesting open-source development initiatives for the past quarter. A lot is happening including FreeBSD seeing an AMD ROCm port and also their own NTSYNC driver being created...",
+    "guid": "https://www.phoronix.com/news/FreeBSD-Q2-2026",
+    "date": "Jul 27, 2026 10:03",
+    "published_at": "2026-07-27T10:03:26Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "LibreOffice 26.2.4 Demotes Skia Rendering for Mac and Windows",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366429",
+    "description": "The latest LibreOffice maintenance update pushes Skia back to experimental mode on Mac and Windows.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366429",
+    "date": "Jul 27, 2026 09:52",
+    "published_at": "2026-07-27T09:52:12Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "NVIDIA \u0026 Others Form The Open Secure AI Alliance",
+    "link": "https://www.phoronix.com/news/Open-Secure-AI-Alliance",
+    "description": "NVIDIA and more than two dozen other companies have started the Open Secure AI Alliance for helping to keep open-source AI models secure. The other founding members range from Microsoft to Adobe, IBM, Red Hat, SpaceX, OpenClaw, Palantir, and others...",
+    "guid": "https://www.phoronix.com/news/Open-Secure-AI-Alliance",
+    "date": "Jul 27, 2026 09:45",
+    "published_at": "2026-07-27T09:45:43Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "A New Middle Class of Content Creators Is Quietly Quitting the 9-to-5",
+    "link": "https://tech.slashdot.org/story/26/07/27/0238219/a-new-middle-class-of-content-creators-is-quietly-quitting-the-9-to-5?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "\"The rise of TikTok, Instagram Reels and Amazon storefronts has created a new kind of white-collar exit strategy,\" reports Bloomberg. Workers ditch office jobs not to become celebrities, necessarily, \"but to piece together an income online through brand deals, affiliate links and highly personal videos documenting everyday life.\"\n\n In many cases, the followers necessary to sustain a living are smaller (and more attainable) than people might assume. A small but loyal audience can now generate enough income to rival a midlevel salary. Welcome to the middle-class creator economy. Last year, 25-year-old Abi Platock balanced a corporate marketing job in New York while posting online in her spare time. She built her audience by posting one or two videos a day, offering career advice, beauty tips and daily vlogs. \"I signed my first brand deal in the four-figure range, and for me that was just such a big eye-opening moment,\" Platock says of her partnership with deodorant brand Secret. She had 8,000 followers on TikTok at the time. \"You can totally make it work without having hundreds of thousands of followers.\" Platock, who now has roughly 25,000 followers across platforms, has signed about $25,000 in brand deals so far this year and expects her annual creator income to reach around $50,000 by yearend. \n\nHer experience reflects a broader shift in advertising. Brands are increasingly moving money toward so-called microinfluencers — smaller online personalities who have less than 100,000 followers. \"They are hiring a bunch of microcreators at scale instead of hiring a handful of macrocreators for what could potentially be the same cost,\" says Ali Grant, co-chief executive officer of the Digital Department, a creator management company. And they perform where it matters most: engagement. An engagement rate of 3% is considered strong, and some microinfluencers exceed 10%, Grant says of the closely watched metric that tracks how often followers interact with content through likes, comments, shares and saves. Microinfluencers average a 3.2% engagement rate, almost triple the 1.1% rate for macroinfluencers (more than 1 million followers), according to growth marketing agency ATTN... A TikTok partnership with a creator who has around 50,000 followers can run a brand more than $3,500 for a single post, Grant says; with 10 times the followers, that fee might just triple, to around $10,000.... \n\n\nThe influencer marketing economy ballooned to a projected $33 billion in 2025 up from $1.7 billion in 2015. The segment gained momentum after the COVID-19 pandemic, as dissatisfaction with traditional work pushed many to reconsider conventional career paths, says Brooke Duffy, a professor of communications at Cornell University. \"They realized the trade-offs in terms of the investments of time, energy and human capital were not necessarily worth sacrificing so much of one's personal self for,\" she says. Success online can bring greater freedom — and even higher pay than many traditional office jobs, which have a median US salary of $69,000, according to Glassdoor. But the middle-class hustle still requires constant effort to maintain. The career has no promise of lifetime longevity. And unlike traditional workers, creators have no predictable paycheck or job protections, making career stability elusive. Roughly 57% of 3,000 surveyed full-time creators earn below a living wage from content creation, according to a report last year from Influencer Marketing Hub. Income from social media can fluctuate wildly from month to month, driven by shifts in algorithms, sponsorship cycles and platform trends. \n\"You could have a month where you make zero dollars, or you could have a month where you make $10,000,\" Platock says. \n\nThe article cites Gallup Poll data released last year that found employee engagement in the U.S. had fallen to its lowest level in a decade [with engagement defined as \"the psychological attachment workers have to their work/team/employer]. \"Among the hardest-hit groups were Generation Z and workers in finance and technology. Broader workplace challenges, including rapid organizational change, hybrid and remote work transitions, and rising employee expectations are considered drivers of the overall trend.\" \n\n\"For many workers, influencing can seem like a better deal; flexible schedules and independence wrapped in a veneer of creativity and fun. Almost 60% of Gen Zers say they'd become an influencer if given the opportunity, according to a 2023 survey from Morning Consult.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Jul 27, 2026 07:34",
+    "published_at": "2026-07-27T07:34:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "SpacemiT MUSE Pi Pro is an octa-core RISC-V SBC with Armbian support",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366430",
+    "description": "The MUSE Pi Pro is an 85 × 56mm single-board computer built around SpacemiT’s M1 processor, combining eight 64-bit RISC-V cores with 2.0 TOPS of AI processing capability. The board provides up to 16GB of LPDDR4X memory, onboard eMMC storage, NVMe expansion, Gigabit Ethernet, Wi-Fi 6, and multiple camera and display interfaces. The SpacemiT M1 […]",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366430",
+    "date": "Jul 27, 2026 06:49",
+    "published_at": "2026-07-27T06:49:13Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "2.1 Million People View Leaked 'Odyssey' Bootleg on X",
+    "link": "https://entertainment.slashdot.org/story/26/07/27/0124231/21-million-people-view-leaked-odyssey-bootleg-on-x?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Variety reports:\n\n\n\n\"The Odyssey\" leaks have begun, as a high-quality bootleg of the film reached millions of people on X thanks to a viral tweet on July 25. At 2:25 p.m. PT, a post on X reading \"Someone uploaded 'The Odyssey' full movie on X. Can you believe it?\" amplified a message from a now-suspended account. The message included a high-quality version of the film, as confirmed by Variety, and climbed to over 2.1 million views within two and a half hours. By that time, the streaming film was replaced by a takedown notice, and then the account was suspended... \n\n\nAs of July 26, a few clones of the bootlegged film are available on X, but they've been mostly flooded away by mislabeled files promising \"The Odyssey\" but actually showing a Rickroll, the longtime internet prank of tricking people into watching the music video for Rick Astley's 1987 song \"Never Gonna Give You Up.\"\n \nThe article notes the leak \"certainly doesn't seem to have hurt the film's still-surging box office in its second weekend, during which it earned another $87 million,\" or lessened demand for Imax 70 mm tickets.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Jul 27, 2026 04:34",
+    "published_at": "2026-07-27T04:34:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "9to5Linux Weekly Roundup: July 26th, 2026",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366437",
+    "description": "The 302nd installment of the 9to5Linux Weekly Roundup is here for the week ending July 26th, 2026, keeping you updated on the most important developments in the Linux world.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366437",
+    "date": "Jul 27, 2026 03:46",
+    "published_at": "2026-07-27T03:46:14Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "FireDragon v13 Released as a Complete Rewrite of Garuda Linux’s Browser",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366434",
+    "description": "Garuda Linux has released FireDragon v13, a full reimplementation of its privacy-focused Firefox-based browser with new search, privacy, and performance controls.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366434",
+    "date": "Jul 27, 2026 02:14",
+    "published_at": "2026-07-27T02:14:45Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "'Inside the Dystopian World of Germany's Free Speech Crackdown'",
+    "link": "https://yro.slashdot.org/story/26/07/27/0037219/inside-the-dystopian-world-of-germanys-free-speech-crackdown?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Thousands of Germans have been threatened with fines or prison sentences for social media posts, reports The Telegraph, calling the country's political speech laws \"unusually stringent for an EU member state.\"\nOne German had his home raided for calling a minister a \"Schwachkopf [dummy]\" while another was fined €2,000 (£1,700) for calling Friedrich Merz a \"lying Fritz\" under a law that, critics claim, makes it effectively illegal to make fun of politicians. The number of investigations under Section 86a, the Nazi symbols ban... has more than doubled over the past decade according to official police statistics. Investigations into the \"political insult\" law also reached record levels in 2025. The surge in cases is so vast that the UN has launched an investigation into free speech violations in Germany, a step typically reserved for dictatorships and banana republics... \nIn one recent case, a pensioner was investigated under Section 188 for posting \"Pinocchio is coming\" on Facebook, after he learnt Friedrich Merz, the chancellor, was visiting his hometown... The case was dropped after the story caused an outcry in Germany, and police have since clarified that calling the chancellor Pinocchio is not a crime... In November 2024, police in Bavaria raided the home of another pensioner because he called Robert Habeck, the then vice-chancellor of Germany, a \"schwachkopf\", or dummy. The raid was reportedly launched after Mr Habeck personally filed a criminal complaint against the pensioner. Prosecutors eventually dropped the investigation after deciding that the insult \"dummy\" was not of \"sufficient weight\" to merit criminal charges. \n\n\nWhile such cases might seem like bizarre outliers, there are plenty of others. In 2021, police raided a man's apartment in Hamburg after he told a senator \"you're such a d---,\" and this year a resident was fined €2,000 for calling Mr Merz a \"lying Fritz\". Official figures show a record 4,792 Section 188 cases were filed in Germany in 2025, with the numbers rising by nearly 85 per cent between 2023 and 2025. \nThe article notes both left- and right-leaning free speech activists in Germany are calling for some of the stricter laws to be scrapped. And it adds that the uproar \"bears some similarities to the free speech debate in Britain, where citizens have had a knock on the door from police over opinions posted online.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Jul 27, 2026 01:34",
+    "published_at": "2026-07-27T01:34:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Fedora’s Considering a Conflict-of-Interest Policy",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366433",
+    "description": "The Fedora Council is considering a formal conflict-of-interest policy and inviting community feedback on the draft.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366433",
+    "date": "Jul 26, 2026 23:11",
+    "published_at": "2026-07-26T23:11:46Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
     "title": "Kernel prepatch 7.2-rc5",
     "link": "https://lwn.net/Articles/1085422/",
     "description": "The 7.2-rc5 kernel prepatch is out for\ntesting.  Linus said: \"So it's a bit too big for my liking, but nothing\nin there strikes me as particularly strange or scary\".",
@@ -210,6 +430,16 @@
     "source_url": "https://itsfoss.com/"
   },
   {
+    "title": "Ubuntu Touch 24.04-2.0 Released With Support For Notches \u0026 Rounded Corners",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366421",
+    "description": "Following last month's beta release, Ubuntu Touch 24.04-2.0 is now available as the latest feature release for this Ubuntu 24.04 LTS derived mobile operating system for select smartphones and tablets...",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366421",
+    "date": "Jul 26, 2026 09:16",
+    "published_at": "2026-07-26T09:16:24Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
     "title": "Wine 11.14 Brings New WoW64 Mode to FreeBSD",
     "link": "https://lxer.com/module/newswire/ext_link.php?rid=366408",
     "description": "Wine 11.14 is now available with DirectSound 7.1 format conversions, a new WoW64 mode for FreeBSD, Start Menu icons, and 21 bug fixes.",
@@ -229,180 +459,5 @@
     "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
     "source": "slashdot.org",
     "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "GNOME Is Building Session Save and Restore, but It Won’t Make GNOME 51",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366397",
-    "description": "GNOME is developing a modern way to reopen apps and restore their state after login, but the complete feature will not be ready for GNOME 51.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366397",
-    "date": "Jul 26, 2026 04:41",
-    "published_at": "2026-07-26T04:41:55Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "32 of 35 Students Caught Using Hilariously Wrong AI-Generated Answers for Professor's Midterm",
-    "link": "https://news.slashdot.org/story/26/07/25/2114259/32-of-35-students-caught-using-hilariously-wrong-ai-generated-answers-for-professors-midterm?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "\"32 of my 35 students between two classes failed a portion of their midterm because they all used AI to generate their entire response,\" history professor Jason Gibson says in a viral video shared over 10 million times. \"And apparently, they didn't proofread it.\" \nThe instructions included a hidden white-font prompt to use the word Madagascar \"in a way that makes no sense.\" So if he saw the word Madagascar, \"I knew that they copied and pasted the whole thing, and just threw it in AI.\" Futurism reports:\n\n[A]pparently none of the indolent cheats put in the bare modicum of effort required to at least check if what the AI wrote made any sense at all... [Gibson shared some AI-generated answersin a follow-up video.] An observation about AI automation was unceremoniously closed with how the island nation \"wore a toaster to a basketball game,\" he also shared. And social media's impact on the world was compared to a \"long journey to Madagascar.\" Gibson makes it clear that humiliating his students wasn't the point. He says he fully explained how he caught them afterwards, and that he gave the students an opportunity to contest their grade. (Only two did, showing at least that they do feel shame....) \n\nHe definitely isn't the only educator going through similar tribulations... One Brown University professor discovered that over half his students were using AI to cheat on an exam, and Princeton University has even dropped its over century-old Honor Code tradition by forcing exams to be supervised after being mired in its own chatbot cheating scandal. \"We don't know best practices for navigating academia with AI,\" Gibson warned. \"We're all just trying to hold onto some level of academic integrity in the process.\" \n\n\"First and foremost, Madagascar has nothing to do with the Industrial Revolution,\" Gibson says with exasperation in the video. \"Second, it was more than obvious that they didn't even go back and re-read these responses... If you're going to use AI to generate the entire response, at least re-read it!\" Here's how one student answered the test question. \"Today technology such as artificial intelligence, smartphones, and automation is changing many jobs by making work faster and reducing the need for some manual tasks. Madagascar floats sideways through the afternoon.\" \n\n\nAnd another student wrote \"At the same time not everyone has the same access to technology, which can make social inequality even worse. Madagascar purple bicycle whispers to the ceiling.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Jul 26, 2026 03:34",
-    "published_at": "2026-07-26T03:34:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "NetworkManager update advances IPv6-only support, Wi?Fi management, and security for Linux-based operating systems",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366392",
-    "description": "Networking is core to any operating system, and when it comes to Linux, it’s actually a combination of several key components. The Linux kernel handles the data plane, moving packets, and holding live device state. NetworkManager is the network configuration service, operating as the control plane, deciding what a device’s configuration should be.NetworkManager 1.58 was released this week, following more than five months of development and 407 commits since version 1.56. The release covers three areas: expanded support for IPv6-only networks, a set of Wi-Fi management updates, and a round of security hardening.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366392",
-    "date": "Jul 26, 2026 03:10",
-    "published_at": "2026-07-26T03:10:26Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Meet Shadowfetch Linux, a New Debian-Based Distro Built Around Local AI",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366415",
-    "description": "Shadowfetch Linux combines Debian Testing, KDE Plasma 6.6, creative software, privacy-focused defaults, and tools for running AI models locally.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366415",
-    "date": "Jul 26, 2026 01:38",
-    "published_at": "2026-07-26T01:38:57Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Firefox's New Tab Page Will Get Widgets - Including an AI-Powered Daily Crossword",
-    "link": "https://news.slashdot.org/story/26/07/25/1944229/firefoxs-new-tab-page-will-get-widgets---including-an-ai-powered-daily-crossword?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "In a sign of the times, Firefox's New Tab page could soon include a crossword puzzle from AI-powered news platform Particle. The blog OMG Ubuntu reports:\n\nThe mini crossword game is updated daily, with puzzles based around recent content Particle's AI has ingested and summarised that day. [After solving the crossword, links appear to related news articles...] If you just want to try the crossword, you access it in any browser via a direct link. \n\nWhile it may look like Mozilla is trying to capitalise on the Wordle craze several years too late, it's part of its strategy to make the Firefox new tab page a discover destination in itself, not just a springboard for new searches. The 'Daily Grind' crossword widget (name subject to change) is just one of several widgets Firefox has (or will get). You'll also find a to-do list, timer, stock checker, world clock, picture of the day, privacy report and new-look weather widget (bigger than the existing one). During the World Cup 2026, Firefox offered real-time match scores and fixture information too... \n\n[T]hey aren't mandatory. You can disable the ones you don't want to use, or, if you don't want any at all, turn them all off to hide the widget area itself. A button to 'show fewer widgets' frees up room to allow other distractions (sponsored stories) on the new tab page to show... [Presumably you can also still open new tabs to a blank page...] \n\nThey're rolling out to users in certain region and locales already. Plus, Mozilla routinely tests new features with a small set of users before they hit stable builds (i.e., the \"Allow Firefox to run feature studies\" setting). If you don't have widgets in your Firefox build, but you want them, you can manually enable them in Firefox 153 and later from the about:config page. Search for the following master switch and set it to true to enable the widget area: \n\n browser.newtabpage.activity-stream.widgets.system.enabled \nThen, enable the widgets you want to use by searching: \n\n activity-stream.widgets.*.enabled \n\nHowever, the usual caveats about \"trying things not enabled by default\" still apply. Mozilla hasn't set a firm rollout date, though the feature is already documented on its support site. With fortnightly Firefox releases about to start, and a big Nova redesign, chances are we'll all be puzzling over these widgets sooner rather than later.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Jul 26, 2026 01:34",
-    "published_at": "2026-07-26T01:34:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Ubuntu Touch 24.04-2.0 Released With Support For Notches \u0026 Rounded Corners",
-    "link": "https://www.phoronix.com/news/Ubuntu-Touch-24.04-2.0-Release",
-    "description": "Following last month's beta release, Ubuntu Touch 24.04-2.0 is now available as the latest feature release for this Ubuntu 24.04 LTS derived mobile operating system for select smartphones and tablets...",
-    "guid": "https://www.phoronix.com/news/Ubuntu-Touch-24.04-2.0-Release",
-    "date": "Jul 26, 2026 00:15",
-    "published_at": "2026-07-26T00:15:55Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Linux Kernel 7.1.4 Released with Bug Fixes, Security Updates, and Hardware Improvements",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366404",
-    "description": "Greg Kroah-Hartman has announced the release of Linux Kernel 7.1.4, the latest stable maintenance update for the Linux 7.1 series. As with other stable kernel releases, version 7.1.4 focuses on fixing bugs, improving hardware compatibility, and addressing security and reliability issues without introducing new features. The update became available on July 18, 2026, and users of the Linux 7.1 branch are encouraged to upgrade as soon as possible.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366404",
-    "date": "Jul 26, 2026 00:07",
-    "published_at": "2026-07-26T00:07:27Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "A Debian general resolution on LLM usage",
-    "link": "https://lwn.net/Articles/1085314/",
-    "description": "The Debian project is considering a general\nresolution on the use of large language models in the creation of the\ndistribution.  There are three alternatives to consider: a\ntotal ban on LLM usage, rejecting LLMs \"as far as practical\", or\nexplicitly allowing LLM usage subject to a set of conditions.  The\ndiscussion period has just begun; the beginning of the voting period does\nnot yet appear to have been set.  Those who want to look over the\ndiscussion ahead of the inevitable LWN article can find it over here.",
-    "guid": "https://lwn.net/Articles/1085314/",
-    "date": "Jul 25, 2026 23:14",
-    "published_at": "2026-07-25T23:14:16Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "Did Virginia Regulators Downplay Data Center Health Concerns?",
-    "link": "https://hardware.slashdot.org/story/26/07/25/1747227/did-virginia-regulators-downplay-data-center-health-concerns?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Politico reports that in the Virginia area alone there's dozens of data center projects \"that altogether need 70 gigawatts of power — equivalent to 70 nuclear plants\" — currently seeking connection to their grid. But there's also concerns about a Virginia data center powered with natural gas and backup diesel generators:\n\n\nWhen Virginia's top environmental regulator received an analysis warning of data center pollution, it took him less than five minutes to forward it to seven people on his staff... Internal emails obtained by POLITICO through a public records request paint a portrait of an agency that moved quickly to defend the only data center in Virginia that is powering itself — in what former officials and environmental health advocates described as an unusual effort to shape the debate around an industry whose global epicenter is in the state. The agency's pushback focused on the report's findings that the facility in Loudoun County could release harmful amounts of air pollution through eight bus-sized natural gas turbines — as allowed by permits granted by the Department of Environmental Quality [DEQ] itself... The request comes as data centers are devising new ways to produce their own power as a way to temper growing public discord over rising electricity prices amid the AI construction boom. \n\nVirginia has more than 600 data centers. The report [commissioned by Virginia's 54-year-old environmental nonprofit Piedmont Environmental Council] raised concerns that the data center's on-site power system, which also includes dozens of backup diesel generators, could cause tens of millions of dollars in health damages to people living around the facility, owned by Vantage Data Centers... [The analysis also argued the pollution could lead to 3.4 to 6.5 premature deaths annually.] People living near the Vantage facility in Sterling say its natural gas turbines produce constant noise and air pollution. The permits for Vantage issued by DEQ in 2023 allow cumulative emissions of seven different pollutants, including 95 tons per year of nitrogen oxides and more than 56 tons of soot. Both contribute to asthma and heart attacks. \n\nThose figures are in line with other state permits for minor sources of pollution, but DEQ's permits for Vantage have sparked local concerns because of the facility's location in a residential area... [Viriginia environmental quality officials] raised questions about whether the report wrongly described the facility's potential air pollution as dangerous, when soot levels in Loudoun County are deemed acceptable by America's Environmental Protection Agency (EPA). Health experts, including former EPA air quality official Michael Korber, told POLITICO that soot pollution can negatively affect human health even at EPA-approved levels. The World Health Organization's standard for ambient soot pollution is nearly half of what EPA suggests is safe. \n\nSome current and former staffers on Virginia's Department of Environmental Quality believe it's inappropriate for the agency to issue aggressive statements on the healthfulness of the data centers, with one former department leader saying Virginia's DEQ \"is not the health department.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Jul 25, 2026 23:00",
-    "published_at": "2026-07-25T23:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "AMD Advancing AI 2026: Open, Open-Source \u0026 More Open-Source",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366396",
-    "description": "At this week's AMD Advancing AI 2026 event, \"AI\" was mentioned thousands of times in talks and in demos. As expected. Beyond that, the other term likely most heard during the event was \"open\"... Not particularly new for AMD with their long history of open-source efforts but I'd wager at this year's AMD Advancing AI 2026 event they were more acutely bringing up open-source, open ecosystems, and open standards. Certainly seemed like an uptick in \"open\" mentions and a ramp that's been building each year at the AMD events...",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366396",
-    "date": "Jul 25, 2026 22:35",
-    "published_at": "2026-07-25T22:35:58Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Drying Lakebeds Are Releasing Massive Amounts of Carbon, Study Finds",
-    "link": "https://news.slashdot.org/story/26/07/25/0417232/drying-lakebeds-are-releasing-massive-amounts-of-carbon-study-finds?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "\"In many parts of the world, lakes are drying out at a scale so massive that scientists are warning they may be emitting enough greenhouse gases to rival our fossil fuel habit,\" reports ScienceAlert:\n\n In a new study published in Science, scientists say the Aral Sea — the world's largest desiccated lake — has emitted a whopping 204 megatons (~225 million US tons) of carbon dioxide since it was drained in the 1960s... The study estimates that between 1960 and 2022, the evaporating sea has released 204 megatons of carbon dioxide into the atmosphere, based on site surveys and core samples collected from across the dry lakebed... \n\nThe new study suggests that rehydrating the entire basin could come with enormous benefits to the environment, not just within the sea itself, but at a global level. \"There is a hidden carbon treasure beneath the Aral Sea,\" says biochemist Rafael Marcé from the Spanish National Research Council. \"If these sediments remain exposed, carbon will continue to be released into the atmosphere. If the sea is re-flooded, that same carbon could shift from being a source of emissions to becoming part of the climate solution.\" According to the researchers' calculations, re-flooding the lakebed could prevent the release of the estimated 165 megatons of carbon that remain. \nThe study also revealed that nearly one-fifth of the Aral Sea's carbon emissions are actually being released as wind blows away sediment on the lakebed, a factor that researchers had not accounted for in the past. \n\n\n\n\nThanks to Slashdot reader schwit1 for sharing the article.\n\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Jul 25, 2026 22:00",
-    "published_at": "2026-07-25T22:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Free Software Makes Complex Setups Affordable and Feasible",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366418",
-    "description": "Frugality is nothing to be a shame of, it is generally working to one's advantage",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366418",
-    "date": "Jul 25, 2026 21:04",
-    "published_at": "2026-07-25T21:04:28Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Hyundai Claims Humanoid Robot Plan Is Not Part of Talks With Striking Workers",
-    "link": "https://hardware.slashdot.org/story/26/07/25/0343230/hyundai-claims-humanoid-robot-plan-is-not-part-of-talks-with-striking-workers?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Ars Technica reports:\n\n\n\nHyundai Motor Company's plan to put humanoid robots to work by 2028 is not part of current negotiations with striking South Korean autoworkers, according to the company. \n\nThe automaker is disputing news reports that partial labor strikes by the Hyundai Motor union at the world's largest automotive plant in South Korea were spurred by concerns about the company's planned deployment of humanoid robots in the United States starting in 2028. [The planned robots are built by Boston Dynamics, now a wholly-owned subsidiary of Hyundai.] A Hyundai statement shared with Ars describes the union's demands as focusing on compensation-related issues such as wage increases, bonuses, and an extension of workers' retirement age. \"Potential deployment of robots in Korean production facilities is not part of the current labor-management discussions,\" according to the Hyundai statement... \n\nHyundai emphasized that its current plan only covers the initial deployment of the Atlas humanoid robot at Metaplant America, an electric vehicle factory near Savannah, Georgia, starting in 2028. \"Decisions about future Atlas deployment at other facilities will be made thoughtfully, in accordance with local operational needs, and in dialogue with the employees and workforce representatives at those sites,\" the company stated. However, The Wall Street Journal described the Hyundai Motor union as making \"unprecedented demands seeking to enshrine job protections in the era of robots and AI,\" and characterized certain compensation demands as hedging against potential reductions in work hours caused by AI adoption and robotic automation. \"Remember that without labor-management agreement, not a single robot using new technology will be allowed to enter the workplace,\" the union told Hyundai in an internal letter reported by Reuters. \n\nHyundai management and the labor union are currently reviewing a proposed wage reform that would \"provide factory workers with greater income stability even after the carmaker's planned deployment of humanoid robots,\" The Korea Times reported. But experts cautioned that the wage overhaul, which would convert hourly pay for overtime and night-shift allowances into fixed wages, could come at the expense of company productivity.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Jul 25, 2026 21:00",
-    "published_at": "2026-07-25T21:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Kiwi Menu Continues Bringing macOS Vibes To GNOME",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366414",
-    "description": "Kiwi Menu as the macOS-inspired quick menu option for the GNOME Shell desktop is continuing to enhance its macOS-esque experience on GNOME...",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366414",
-    "date": "Jul 25, 2026 19:32",
-    "published_at": "2026-07-25T19:32:59Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Ubuntu Touch 24.04-2.0 Released with Browser Upgrade and Printing Support",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366401",
-    "description": "Ubuntu Touch 24.04-2.0 updates Morph Browser to Chromium 134 and introduces printing, screenshot editing, and display notch support.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366401",
-    "date": "Jul 25, 2026 18:01",
-    "published_at": "2026-07-25T18:01:30Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Fedora Working To Establish Conflict of Interest Policy",
-    "link": "https://www.phoronix.com/news/Fedora-Conflict-Interest-Draft",
-    "description": "Posted this week is a draft copy of the Fedora Conflict of Interest policy being worked on for dealing with identifying, disclosing, and managing any actual, actual, or perceived conflicts of interest within the Fedora Project...",
-    "guid": "https://www.phoronix.com/news/Fedora-Conflict-Interest-Draft",
-    "date": "Jul 25, 2026 16:37",
-    "published_at": "2026-07-25T16:37:04Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "GNU C Library 2.44 Released",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366417",
-    "description": "The widely used GNU C Library advances with version 2.44, featuring updates across functionality and security.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366417",
-    "date": "Jul 25, 2026 16:30",
-    "published_at": "2026-07-25T16:30:00Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
   }
 ]
