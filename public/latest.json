@@ -1,5 +1,196 @@
 [
   {
+    "title": "GOG confirm they are working towards GOG Galaxy on Linux",
+    "link": "https://www.gamingonlinux.com/2026/07/gog-confirm-they-are-working-towards-gog-galaxy-on-linux/",
+    "description": "GOG previously said they planned to Linux closer at Linux, and that it was the next major frontier - and they're now working towards GOG Galaxy on Linux.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/07/gog-confirm-they-are-working-towards-gog-galaxy-on-linux/",
+    "date": "Jul 28, 2026 11:32",
+    "published_at": "2026-07-28T11:32:16Z",
+    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/gog_logo.jpg",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Arizona State Launches Influencer Degree Where Students Must Gain Real Followers",
+    "link": "https://news.slashdot.org/story/26/07/28/012244/arizona-state-launches-influencer-degree-where-students-must-gain-real-followers?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Arizona State University has launched a 120-credit bachelor's degree in content creation that teaches video, podcasting, branding, analytics, media law, and social strategy. For their capstone, students are \"expected to build a real social media account and demonstrate audience growth during the program,\" reports Dexerto. From the report: The Content Creation BA is housed within ASU's Walter Cronkite School of Journalism and Mass Communication and appears in the university's 2026-2027 course catalog. The 120-credit-hour degree prepares students to become \"an influencer and strategic storyteller\" by teaching video production, podcasting, personal branding, audience analytics and social media strategy. The program was approved by the ASU University Senate in March 2026. Its proposal said graduates would be prepared to work independently as influencers and content creators across livestreaming, videography, writing, podcasting, graphics and emerging media.\n \n[...] For the program's final project, students will choose a social media platform, such as TikTok, create a content and growth strategy, and attempt to gain real followers throughout the semester. \"They will have demonstrable audience growth,\" [explained Jessica Pucci, senior associate dean at the Cronkite School]. \"They will have a platform of their choice with real content and real followers and a real audience behind them.\" The curriculum includes courses titled How to Become an Influencer, On-Camera Presence, Introduction to Editing, Videography, Podcasting and Audio Storytelling, Social Media Foundations and The Digital Audience.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Jul 28, 2026 11:00",
+    "published_at": "2026-07-28T11:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "There's now over 40 games ready for the Steam Frame",
+    "link": "https://www.gamingonlinux.com/2026/07/theres-now-over-40-games-ready-for-the-steam-frame/",
+    "description": "We still don't know when the Steam Frame from Valve will arrive, but we do know the list of games ready for it continues to build up and there's now over 40.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/07/theres-now-over-40-games-ready-for-the-steam-frame/",
+    "date": "Jul 28, 2026 10:46",
+    "published_at": "2026-07-28T10:46:18Z",
+    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/steamframe.jpg",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "I Really Want to Love This Markdown Editor, But One Thing Holds It Back",
+    "link": "https://feed.itsfoss.com/link/24361/17389531/ferrite-editor",
+    "description": "It gives an IDE feel with lots of features that fits the workflow of developers working on technical documentation of their projects.",
+    "guid": "6a683fd312b9170001003d28",
+    "date": "Jul 28, 2026 10:26",
+    "published_at": "2026-07-28T10:26:18Z",
+    "image": "https://itsfoss.com/content/images/2026/07/ferrite-editor.webp",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "AMD P-State Linux Driver Patches Can Boost 1%-Low FPS Gaming Performance By 31%",
+    "link": "https://www.phoronix.com/news/AMD-P-State-Better-1p-Lows",
+    "description": "A set of patches posted today to the Linux kernel mailing list implement per-core Energy Performance Preference (EPP) boosting for recently-busy CPUs. This feature is designed to have a dramatic impact for Linux gaming and helping especially with the 1% low frame-rates improving by 31.8% on the Valve Steam Deck...",
+    "guid": "https://www.phoronix.com/news/AMD-P-State-Better-1p-Lows",
+    "date": "Jul 28, 2026 10:03",
+    "published_at": "2026-07-28T10:03:00Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Proton Experimental brings fixes for Far Cry New Dawn, Binding of Isaac: Rebirth, controller hotplugging and more",
+    "link": "https://www.gamingonlinux.com/2026/07/proton-experimental-brings-fixes-for-far-cry-new-dawn-binding-of-isaac-rebirth-controller-hotplugging-and-more/",
+    "description": "Valve pushed out a brand new update for Proton Experimental on July 28th - making more Windows games run well on SteamOS / Linux systems.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/07/proton-experimental-brings-fixes-for-far-cry-new-dawn-binding-of-isaac-rebirth-controller-hotplugging-and-more/",
+    "date": "Jul 28, 2026 09:50",
+    "published_at": "2026-07-28T09:50:54Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1869658140id29461gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "KDE Developer Fixing Long-Standing Bug Over Very Long Small-File Copy Times",
+    "link": "https://www.phoronix.com/news/KDE-Ridiculous-File-Copy-Times",
+    "description": "Since 2014 there has been a KDE bug report titled Ridiculously slow file copy (multiple small files). With the Dolphin file manager or other KIO-based KDE programs, copying many small files can be much slower than using the cp command directly or other copying programs like rsync, Finally that issue is in the process of being resolved for addressing very slow copy times when dealing with many small files on the KDE Plasma desktop...",
+    "guid": "https://www.phoronix.com/news/KDE-Ridiculous-File-Copy-Times",
+    "date": "Jul 28, 2026 09:50",
+    "published_at": "2026-07-28T09:50:02Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Linux's crypto_rng Abstraction Layer Next On The Chopping Block",
+    "link": "https://www.phoronix.com/news/Linux-crypto-rng-Removal-Patch",
+    "description": "In addition to the deprecation and stripping down of AF_ALG, another piece of the Linux kernel crypto code steaming ahead toward removal is the crypto_rng abstraction layer...",
+    "guid": "https://www.phoronix.com/news/Linux-crypto-rng-Removal-Patch",
+    "date": "Jul 28, 2026 09:41",
+    "published_at": "2026-07-28T09:41:49Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Mission Center is a slick app to monitor CPU, Memory, Disk, Network, GPU and more on Linux",
+    "link": "https://www.gamingonlinux.com/2026/07/mission-center-is-a-slick-app-to-monitor-cpu-memory-disk-network-gpu-and-more-on-linux/",
+    "description": "An app I haven't covered here before is Mission Center - giving you a tidy interface to monitor CPU, Memory, Disk, Network and GPU and more.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/07/mission-center-is-a-slick-app-to-monitor-cpu-memory-disk-network-gpu-and-more-on-linux/",
+    "date": "Jul 28, 2026 09:39",
+    "published_at": "2026-07-28T09:39:38Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/2027274585id29460gol.avif",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Allogloom is a gorgeous looking point and click adventure launching in October",
+    "link": "https://www.gamingonlinux.com/2026/07/allogloom-is-a-gorgeous-looking-point-and-click-adventure-launching-in-october/",
+    "description": "If you're a fan of point and click adventures, Allogloom needs to be not just on your radar but right at the top of your wishlist too.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/07/allogloom-is-a-gorgeous-looking-point-and-click-adventure-launching-in-october/",
+    "date": "Jul 28, 2026 09:28",
+    "published_at": "2026-07-28T09:28:35Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1624224530id29459gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "ASUS Laptop Whisper Mode Support Being Worked On For Linux",
+    "link": "https://www.phoronix.com/news/ASUS-Laptop-Whisper-Mode-Linux",
+    "description": "ASUS laptops support a feature called \"Whisper Mode\" that intentionally slows down the fan speed and lowers the CPU clock speed in order to keep the device running cool and quiet. The open-source ASUS Armoury Linux kernel driver is now seeing patches to properly support this Whisper Mode on Linux...",
+    "guid": "https://www.phoronix.com/news/ASUS-Laptop-Whisper-Mode-Linux",
+    "date": "Jul 28, 2026 09:25",
+    "published_at": "2026-07-28T09:25:26Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "007 First Light is now Steam Deck / Steam Machine Verified",
+    "link": "https://www.gamingonlinux.com/2026/07/007-first-light-is-now-steam-deck-steam-machine-verified/",
+    "description": "007 First Light recently had Denuvo DRM removed, and it's now fully Steam Deck / Steam Machine Verified.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/07/007-first-light-is-now-steam-deck-steam-machine-verified/",
+    "date": "Jul 28, 2026 09:19",
+    "published_at": "2026-07-28T09:19:37Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/233815458id29458gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Earth's Biggest Disasters Strike In a Hidden Pattern Every 27 Million Years",
+    "link": "https://science.slashdot.org/story/26/07/28/0047230/earths-biggest-disasters-strike-in-a-hidden-pattern-every-27-million-years?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "A new analysis of 89 major geological events over the past 260 million years found evidence that mass extinctions, volcanic eruptions, ocean crises, and other upheavals may cluster around a roughly 27.5-million-year cycle. The cause remains unknown, with possibilities ranging from mantle activity and orbital changes to speculative galactic influences. Slashdot reader alternative_right shares a report from ScienceAlert: One possibility lies deep within Earth itself. The planet's mantle is constantly circulating through convection, albeit at an almost unimaginably slow pace. Periodic changes in mantle convection, or the initiation of mantle plumes, could influence volcanism, plate tectonics, mountain building, and other large-scale geological processes. Because these systems are closely interconnected, disturbances originating deep within Earth could eventually ripple through the planet's surface, oceans, climate, and biosphere.\n \nAnother hypothesis focuses on interactions between Earth's surface and interior. Long-term orbital variations influence climate and sea level, periodically redistributing enormous amounts of water, ice, and sediment across the planet. [New York University geologist Michael Rampino] discusses the possibility that these changing surface loads subtly modify stresses within Earth's crust and upper mantle, potentially influencing tectonic and volcanic activity over geological timescales.\n \nRampino also considers possible influences beyond Earth, an idea he has been weighing up since the 1980s. As the Solar System orbits the center of the Milky Way, it oscillates above and below the galaxy's mid-plane, with the timing of these passages aligning with that of Earth's major upheavals. These crossings, other researchers have suggested, could also gravitationally perturb comets in the distant Oort Cloud, increasing the likelihood of large asteroid impacts.\n \nAnother, even more speculative, hypothesis suggests that if dark matter is concentrated near the galactic plane, a fraction of it could occasionally be captured by Earth. Over millions of years, this process could generate small amounts of internal heat, potentially influencing geological activity. At present, however, there is no direct evidence supporting either mechanism, so they remain very controversial.\n \nLarge asteroid impacts are discussed separately in the paper. Although they were not included in the statistical analysis of the 89 geological events, the timing of several of Earth's largest known impact craters appears broadly consistent with the proposed 27.5-million-year rhythm, as Rampino has discussed in earlier papers. Rampino suggests this correspondence may warrant further investigation, but stops short of claiming a causal relationship.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Jul 28, 2026 07:00",
+    "published_at": "2026-07-28T07:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "PineVoice RISC-V smart speaker supports local wake-word detection for Home Assistant",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366438",
+    "description": "The PineVoice is a compact RISC-V smart speaker designed to operate as a local voice-assistant satellite for Home Assistant and other platforms supporting the Wyoming protocol. The device combines a dual-microphone array, built-in speaker, local wake-word detection, Wi-Fi and Bluetooth connectivity, and open-source firmware. Previously known as the PineVox, the PineVoice is built around Bouffalo […]",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366438",
+    "date": "Jul 28, 2026 05:56",
+    "published_at": "2026-07-28T05:56:43Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "OpenUK Wants Britain to Stop Giving Away Open Source Creations",
+    "link": "https://feed.itsfoss.com/link/24361/17389389/british-flavored-linux-foundation-proposal",
+    "description": "They point to MCP, built by two engineers in London, that ended up under US-based governance.",
+    "guid": "6a675f4012b9170001003a0e",
+    "date": "Jul 28, 2026 05:34",
+    "published_at": "2026-07-28T05:34:45Z",
+    "image": "https://itsfoss.com/content/images/2026/07/openuk-banner.png",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "Fwupd 2.1.7 Linux Firmware Updater Brings New Features and Improvements",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366451",
+    "description": "Fwupd developer Richard Hughes released fwupd 2.1.7 today as a new stable update in the fwupd 2.1 series of this open-source project for updating and managing the firmware of various hardware on your Linux distribution.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366451",
+    "date": "Jul 28, 2026 04:25",
+    "published_at": "2026-07-28T04:25:13Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "A Missing Underscore Sent Innocent Man To Prison For 18 Months",
+    "link": "https://yro.slashdot.org/story/26/07/28/0037231/a-missing-underscore-sent-innocent-man-to-prison-for-18-months?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from Ars Technica: One missing underscore in a Skyrim-themed username put an innocent Nova Scotia man in prison for 18 months. A 2018 child-luring investigation, which began in Madison, Wisconsin, and eventually extended to Halifax, Canada, was based on a false premise. Police were looking for a man using the Kik messaging service under the name \"fus__ro_dah\" (two underscores after \"fus\"), but they accidentally requested records for the username \"fus_ro_dah\" (one underscore after \"fus\"). This one-character difference led them not to the perpetrator but to a Canadian man named Brandon Klayme. (Ars readers may recognize \"fus ro dah\" as the Unrelenting Force \"dragon shout\" from The Elder Scrolls V: Skyrim.)\n \nDespite finding no evidence of the crime on his digital devices, Canadian police arrested Klayme in 2020 on child sex abuse charges. He was convicted after a trial in 2023 and sentenced in 2024 to 18 months in prison. He served the full term. Even after release, Klayme continued to fight his conviction. In the process of preparing his appeal, the username mistake that led to all these years of disruption was finally discovered. On Thursday, the Nova Scotia Court of Appeal overturned Klayme's conviction, writing: \"Mr. Klayme is factually innocent of the offences. He should never have been charged, let alone convicted.\" [...] As the court puts it, \"Although the information about the usernames was available at the time of the trial, there is no evidence confirming or explaining how it went unnoticed.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Jul 28, 2026 03:30",
+    "published_at": "2026-07-28T03:30:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "First Look at Firefox’s Brand-New Design in Firefox Nightly",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366453",
+    "description": "Mozilla updated the Firefox Nightly builds today to the new design it teased earlier a couple of months ago, so we’re taking a closer look at Firefox’s brand-new look out of curiosity.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366453",
+    "date": "Jul 28, 2026 01:22",
+    "published_at": "2026-07-28T01:22:14Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
     "title": "Peacock to Be Included With YouTube Premium In Major Streaming Tie-Up",
     "link": "https://news.slashdot.org/story/26/07/27/1942254/peacock-to-be-included-with-youtube-premium-in-major-streaming-tie-up?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
     "description": "YouTube Premium will include Peacock Premium at no extra charge beginning in early 2027. \"The deal brings a slew of premium content to the [$15.99 per month] YouTube Premium subscription, including live sports like the NFL, NBA and MLB and entertainment like Law \u0026 Order, Saturday Night Live and Love Island,\" reports The Hollywood Reporter. \"It also has the potential to dramatically scale Peacock, which remains smaller than many of its streaming competitors.\" From the report: Peacock has 48 million subscribers, while YouTube Premium and YouTube Music have a combined 125 million subscribers, though they don't break out how many each of those offerings have. The agreement, which expands on the deal the company inked with YouTube parent company Google last year, will also extend the entertainment company's programming deal with YouTube TV, while bringing some of YouTube's offerings to Comcast Xfinity and Xumo platforms.\n \nThere's also a notable sports and production element to the deal, with NBC Sports agreeing to stream some live sporting events on its YouTube channels, and with NBC agreeing to serve as the production partner for select live events on YouTube. YouTube will also bundle some of the company's International streaming offerings like Universal+ and Hayu in select markets.\n\n\n\n\n\nRead more of this story at Slashdot.",
@@ -179,6 +370,16 @@
     "source_url": "https://itsfoss.com/"
   },
   {
+    "title": "Framework Laptop 13 Pro: Aiming To Be One Of The Best Upgradeable Linux Laptops",
+    "link": "https://www.phoronix.com/review/framework-laptop-13-pro",
+    "description": "Back in April, Framework Computer announced the Framework Laptop 13 Pro as a ground-up re-design of their modular/upgradeable laptop. This new Framework Laptop 13 Pro features a much larger battery (74Wh), LPCAMM2 memory support, a full CNC aluminum chassis, haptic touchpad, and a new power-optimized touch display. Paired with the very efficient Intel Core Ultra Series 3 \"Panther Lake\" SoCs, the Framework Laptop 13 Pro ends up being an incredible offering from the hardware perspective.",
+    "guid": "https://www.phoronix.com/review/framework-laptop-13-pro",
+    "date": "Jul 27, 2026 15:00",
+    "published_at": "2026-07-27T15:00:00Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
     "title": "Nvidia In Talks With OpenAI To Guarantee $250 Billion Financing For Data Center",
     "link": "https://news.slashdot.org/story/26/07/27/0517233/nvidia-in-talks-with-openai-to-guarantee-250-billion-financing-for-data-center?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
     "description": "An anonymous reader quotes a report from Reuters: Nvidia is in talks to provide roughly $250 billion in financing guarantees for OpenAI as part of a massive data center project, the Wall Street Journal reported on Sunday. The backstop from Nvidia would help the ChatGPT maker lease a 10-gigawatt project that SoftBank's energy subsidiary is developing in southern Ohio, the newspaper said, citing people familiar with the matter. For OpenAI, a deal would be the first step toward controlling its own infrastructure instead of renting it from Microsoft, Amazon, and Oracle, while for Nvidia, it would guarantee demand for its chips for years to come.\n \nThe project is expected to cost more than $500 billion in total, including the chips inside the data center, according to the WSJ. The $250 billion guarantee covers the data center lease and debt financing, but would not cover the Nvidia chips inside the center, the WSJ said, adding that the chipmaker was also discussing financing OpenAI's chip purchases worth up to $350 billion. Nvidia's backing would support financing vehicles aimed at reassuring lenders about the project's funding, the report added. The first phase of the project is expected to be finished in 2028, with around 800 megawatts of power, the Journal said. The report notes that the U.S. government will control access to the power, while Japan will fund it separately under a trade agreement tied to Tokyo's $33 billion investment in a natural gas plant. Commerce Secretary Howard Lutnick will reportedly help determine who receives access.\n\n\n\n\n\nRead more of this story at Slashdot.",
@@ -188,16 +389,6 @@
     "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
     "source": "slashdot.org",
     "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Framework Laptop 13 Pro: Aiming To Be One Of The Best Upgradeable Linux Laptops",
-    "link": "https://www.phoronix.com/review/framework-laptop-13-pro",
-    "description": "Back in April, Framework Computer announced the Framework Laptop 13 Pro as a ground-up re-design of their modular/upgradeable laptop. This new Framework Laptop 13 Pro features a much larger battery (74Wh), LPCAMM2 memory support, a full CNC aluminum chassis, haptic touchpad, and a new power-optimized touch display. Paired with the very efficient Intel Core Ultra Series 3 \"Panther Lake\" SoCs, the Framework Laptop 13 Pro ends up being an incredible offering from the hardware perspective.",
-    "guid": "https://www.phoronix.com/review/framework-laptop-13-pro",
-    "date": "Jul 27, 2026 15:00",
-    "published_at": "2026-07-27T15:00:00Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
   },
   {
     "title": "NVIDIA, Red Hat, Cloudflare, The Linux Foundation and more launch the \"Open Secure AI Alliance\"",
@@ -431,117 +622,13 @@
     "source_url": "https://lxer.com/"
   },
   {
-    "title": "2.1 Million People View Leaked 'Odyssey' Bootleg on X",
-    "link": "https://entertainment.slashdot.org/story/26/07/27/0124231/21-million-people-view-leaked-odyssey-bootleg-on-x?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Variety reports:\n\n\n\n\"The Odyssey\" leaks have begun, as a high-quality bootleg of the film reached millions of people on X thanks to a viral tweet on July 25. At 2:25 p.m. PT, a post on X reading \"Someone uploaded 'The Odyssey' full movie on X. Can you believe it?\" amplified a message from a now-suspended account. The message included a high-quality version of the film, as confirmed by Variety, and climbed to over 2.1 million views within two and a half hours. By that time, the streaming film was replaced by a takedown notice, and then the account was suspended... \n\n\nAs of July 26, a few clones of the bootlegged film are available on X, but they've been mostly flooded away by mislabeled files promising \"The Odyssey\" but actually showing a Rickroll, the longtime internet prank of tricking people into watching the music video for Rick Astley's 1987 song \"Never Gonna Give You Up.\"\n \nThe article notes the leak \"certainly doesn't seem to have hurt the film's still-surging box office in its second weekend, during which it earned another $87 million,\" or lessened demand for Imax 70 mm tickets.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Jul 27, 2026 04:34",
-    "published_at": "2026-07-27T04:34:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "9to5Linux Weekly Roundup: July 26th, 2026",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366437",
-    "description": "The 302nd installment of the 9to5Linux Weekly Roundup is here for the week ending July 26th, 2026, keeping you updated on the most important developments in the Linux world.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366437",
-    "date": "Jul 27, 2026 03:46",
-    "published_at": "2026-07-27T03:46:14Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "FireDragon v13 Released as a Complete Rewrite of Garuda Linux’s Browser",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366434",
-    "description": "Garuda Linux has released FireDragon v13, a full reimplementation of its privacy-focused Firefox-based browser with new search, privacy, and performance controls.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366434",
-    "date": "Jul 27, 2026 02:14",
-    "published_at": "2026-07-27T02:14:45Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "'Inside the Dystopian World of Germany's Free Speech Crackdown'",
-    "link": "https://yro.slashdot.org/story/26/07/27/0037219/inside-the-dystopian-world-of-germanys-free-speech-crackdown?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Thousands of Germans have been threatened with fines or prison sentences for social media posts, reports The Telegraph, calling the country's political speech laws \"unusually stringent for an EU member state.\"\nOne German had his home raided for calling a minister a \"Schwachkopf [dummy]\" while another was fined €2,000 (£1,700) for calling Friedrich Merz a \"lying Fritz\" under a law that, critics claim, makes it effectively illegal to make fun of politicians. The number of investigations under Section 86a, the Nazi symbols ban... has more than doubled over the past decade according to official police statistics. Investigations into the \"political insult\" law also reached record levels in 2025. The surge in cases is so vast that the UN has launched an investigation into free speech violations in Germany, a step typically reserved for dictatorships and banana republics... \nIn one recent case, a pensioner was investigated under Section 188 for posting \"Pinocchio is coming\" on Facebook, after he learnt Friedrich Merz, the chancellor, was visiting his hometown... The case was dropped after the story caused an outcry in Germany, and police have since clarified that calling the chancellor Pinocchio is not a crime... In November 2024, police in Bavaria raided the home of another pensioner because he called Robert Habeck, the then vice-chancellor of Germany, a \"schwachkopf\", or dummy. The raid was reportedly launched after Mr Habeck personally filed a criminal complaint against the pensioner. Prosecutors eventually dropped the investigation after deciding that the insult \"dummy\" was not of \"sufficient weight\" to merit criminal charges. \n\n\nWhile such cases might seem like bizarre outliers, there are plenty of others. In 2021, police raided a man's apartment in Hamburg after he told a senator \"you're such a d---,\" and this year a resident was fined €2,000 for calling Mr Merz a \"lying Fritz\". Official figures show a record 4,792 Section 188 cases were filed in Germany in 2025, with the numbers rising by nearly 85 per cent between 2023 and 2025. \nThe article notes both left- and right-leaning free speech activists in Germany are calling for some of the stricter laws to be scrapped. And it adds that the uproar \"bears some similarities to the free speech debate in Britain, where citizens have had a knock on the door from police over opinions posted online.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Jul 27, 2026 01:34",
-    "published_at": "2026-07-27T01:34:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Fedora’s Considering a Conflict-of-Interest Policy",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366433",
-    "description": "The Fedora Council is considering a formal conflict-of-interest policy and inviting community feedback on the draft.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366433",
-    "date": "Jul 26, 2026 23:11",
-    "published_at": "2026-07-26T23:11:46Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Kernel prepatch 7.2-rc5",
-    "link": "https://lwn.net/Articles/1085422/",
-    "description": "The 7.2-rc5 kernel prepatch is out for\ntesting.  Linus said: \"So it's a bit too big for my liking, but nothing\nin there strikes me as particularly strange or scary\".",
-    "guid": "https://lwn.net/Articles/1085422/",
-    "date": "Jul 26, 2026 22:10",
-    "published_at": "2026-07-26T22:10:54Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
     "title": "Linux 7.2-rc5 Released: \"Once More We Have Quite A Massive -rc5\"",
-    "link": "https://www.phoronix.com/news/Linux-7.2-rc5-Released",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366435",
     "description": "In working toward releasing the stable Linux 7.2 kernel in less than one month's time, out today is Linux 7.2-rc5 to ship this week's latest bug/regression fixes and help facilitate more testing of this in-development kernel version...",
-    "guid": "https://www.phoronix.com/news/Linux-7.2-rc5-Released",
-    "date": "Jul 26, 2026 22:05",
-    "published_at": "2026-07-26T22:05:14Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "NASA Replaces ULA's Vulcan Centaur With SpaceX Falcon Heavy For Solar Storm Research",
-    "link": "https://science.slashdot.org/story/26/07/26/2144224/nasa-replaces-ulas-vulcan-centaur-with-spacex-falcon-heavy-for-solar-storm-research?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "There's been a change to NASA's launch of six satellites for solar storms research. Space.com reports that those satellites \"were originally slated to lift off on a United Launch Alliance Vulcan Centaur rocket but have now been assigned a SpaceX Falcon Heavy, according to a NASA mission update.\"\n\n\n\n\n[NASA's Sun Radio Interferometer Space Experiment mision — or SunRISE] will fly to space as part of a rideshare mission sponsored by the U.S. Space Force's Space Systems Command. Though it's not stated specifically in the NASA release, that may be a hint as to why the mission's rocket was changed. On its most recent launch [U.S. Space Force mission USSF-87], Vulcan experienced an anomaly in one of its solid rocket boosters — the second such incident to occur during the rocket's four launches to date. Vulcan succeeded in delivering the USSF-87 payload to its designated orbit on that launch, but the recurrence of the booster issue during ascent prompted the Space Force to pause national security launches on Vulcan until it could be addressed. Which mission SunRISE will be manifested on has not yet been released, but Space Force's Space Systems Command [SSC] has already shifted other launches between Vulcan and SpaceX's Falcon 9... \n\nFalcon Heavy is SpaceX's heavy-lift launch vehicle... that consists of three modified Falcon 9 first stages, and has launched 12 times since it debuted in 2018. Four of those have delivered national security payloads to orbit, with the most recent of those, USSF-52, launching in December 2023. Falcon Heavy's most recent flight overall occurred this past April, when it sent the Viasat-3 F3 telecom satellite to orbit. Falcon Heavy's next mission will lift off with NASA's Nancy Roman Space Telescope, currently set for no earlier than Aug. 30. SunRISE is scheduled to launch later this year...\n\n \n\nSientists will use data collected by the satellites \"to improve prediction models for impending space weather, which in turn could lead to mitigation plans to better thwart the effects of such solar events on orbital infrastructure.\" \n\nThanks to long-time Slashdot reader schwit1 for sharing the article.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Jul 26, 2026 21:46",
-    "published_at": "2026-07-26T21:46:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "FriendlyELEC updates NanoPi M6 with ES8389 audio codec and revised I/O",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366431",
-    "description": "The NanoPi M6V2 is a compact SBC featuring 8K HDMI output, dual MIPI camera and display interfaces, NVMe SSD support, and 6 TOPS of AI performance. The board targets edge-computing applications such as light NAS systems, smart home gateways, digital signage, and portable media players. The RK3588S integrates four Arm Cortex-A76 cores running at up […]",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366431",
-    "date": "Jul 26, 2026 21:40",
-    "published_at": "2026-07-26T21:40:17Z",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366435",
+    "date": "Jul 27, 2026 05:17",
+    "published_at": "2026-07-27T05:17:44Z",
     "source": "lxer.com",
     "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Apple's Smart Glasses Delayed, As Engineers Consider Privacy Concerns",
-    "link": "https://apple.slashdot.org/story/26/07/26/2022231/apples-smart-glasses-delayed-as-engineers-consider-privacy-concerns?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Digital Trends reports:\n\nApple could unveil its first smart glasses at WWDC in June 2027, followed by a consumer release toward the end of the year, according to Bloomberg... Part of the delay reportedly stems from Apple's engineering and marketing teams spending more time refining the product and deciding how to address the privacy concerns... \n\nApple has reportedly considered glasses without cameras, as well as a version where the cameras can analyse the surroundings but cannot record photos or video. Such an approach could still support object recognition, navigation, Siri, calls, and music playback. The company is also expected to favor on-device processing, avoid facial recognition, keep recordings away from AI training, and use a more visible light around the camera.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Jul 26, 2026 20:41",
-    "published_at": "2026-07-26T20:41:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "GNU Binutils 2.47 Released With More RISC-V Extensions, New Options",
-    "link": "https://www.phoronix.com/news/GNU-Binutils-2.47",
-    "description": "Along with this weekend's release of GNU C Library 2.44, the GNU Binutils 2.47 release is also now available for this important set of binary utilities common to Linux systems and other platforms with the GNU toolchain...",
-    "guid": "https://www.phoronix.com/news/GNU-Binutils-2.47",
-    "date": "Jul 26, 2026 19:36",
-    "published_at": "2026-07-26T19:36:15Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
   }
 ]
