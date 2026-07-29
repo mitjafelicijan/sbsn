@@ -1,5 +1,215 @@
 [
   {
+    "title": "The massive Project Zomboid Build 42 is out now",
+    "link": "https://www.gamingonlinux.com/2026/07/the-massive-project-zomboid-build-42-is-out-now/",
+    "description": "Project Zomboid just had a big free upgrade with Build 42 now out in the stable branch, bringing with it an overhaul to various parts of the game.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/07/the-massive-project-zomboid-build-42-is-out-now/",
+    "date": "Jul 29, 2026 11:39",
+    "published_at": "2026-07-29T11:39:32Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/132291990id29471gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Ubuntu Now Has a Rolling Release Model! But Not For The Distro",
+    "link": "https://feed.itsfoss.com/link/24361/17392669/ubuntu-rolling-release-virtualization-stack",
+    "description": "A new virtualization stack is being introduced that gets updated every six months.",
+    "guid": "6a68740212b9170001003eeb",
+    "date": "Jul 29, 2026 11:33",
+    "published_at": "2026-07-29T11:33:48Z",
+    "image": "https://itsfoss.com/content/images/2026/07/ubuntu-virtualization-server-banner.png",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "I love my Steam Machine but there's lots of work Valve need to do",
+    "link": "https://www.gamingonlinux.com/2026/07/i-love-my-steam-machine-but-theres-lots-of-work-valve-need-to-do/",
+    "description": "The Steam Machine has released and as Valve go through the list more people will get it, but it was pushed out clearly a bit too early.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/07/i-love-my-steam-machine-but-theres-lots-of-work-valve-need-to-do/",
+    "date": "Jul 29, 2026 10:54",
+    "published_at": "2026-07-29T10:54:54Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/231878349id29470gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Valve Sponsors Work Bringing Open-Source RADV Driver To Windows",
+    "link": "https://www.phoronix.com/news/Valve-Sponsors-RADV-Windows",
+    "description": "Valve has been sponsoring Collabora engineers with early phase, exploratory work for trying to bring the open-source Radeon Vulkan \"RADV\" driver to Microsoft Windows...",
+    "guid": "https://www.phoronix.com/news/Valve-Sponsors-RADV-Windows",
+    "date": "Jul 29, 2026 10:35",
+    "published_at": "2026-07-29T10:35:22Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Auto-cpufreq 3.1 Adds GUI Monitoring and Bluetooth Controls",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366422",
+    "description": "The Linux power management tool expands its graphical interface with monitoring mode, Bluetooth controls, and improved Lenovo laptop support.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366422",
+    "date": "Jul 29, 2026 10:30",
+    "published_at": "2026-07-29T10:30:02Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Vibe Coded X11 YSERVER Gets Steam Working, Full-Screen Games With Cinnamon",
+    "link": "https://www.phoronix.com/news/YSERVER-1.4",
+    "description": "A new software creation that debuted this summer was YSERVER as a modern X11 server written in Rust largely by AI via Claude Code. This YSERVER implementation has continued implementing more X11 protocol and other functionality to get more desktop environments and apps working surprisingly okay on this vibe coded X11 server. YSERVER 1.4 is now available as the latest in this quest...",
+    "guid": "https://www.phoronix.com/news/YSERVER-1.4",
+    "date": "Jul 29, 2026 10:19",
+    "published_at": "2026-07-29T10:19:44Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Dreamsend: Wintersong is a 2.5D cyberpunk fantasy strategy RPG worth keeping an eye on",
+    "link": "https://www.gamingonlinux.com/2026/07/dreamsend-wintersong-is-a-2-5d-cyberpunk-fantasy-strategy-rpg-worth-keeping-an-eye-on/",
+    "description": "Recently announced by developer Anthony Nguyen, Dreamsend: Wintersong is an indie 2.5D cyberpunk fantasy strategy RPG that looks real interesting.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/07/dreamsend-wintersong-is-a-2-5d-cyberpunk-fantasy-strategy-rpg-worth-keeping-an-eye-on/",
+    "date": "Jul 29, 2026 10:14",
+    "published_at": "2026-07-29T10:14:43Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/803922558id29469gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "FreeBSD's Kernel Still Has A Bit Of GPL Code While Its Base User-Space Is GPL-Free",
+    "link": "https://www.phoronix.com/news/FreeBSD-Bits-Of-GPL-Kernel",
+    "description": "A few weeks ago there was excitement in the FreeBSD camp with FreeBSD 16 set to retire the last of its GPL code from the base system. While the retiring of the dialog code proclaimed that it was the last remaining piece of GPL software in the base system for FreeBSD, it turns out now that there is some GPL code within the FreeBSD kernel...",
+    "guid": "https://www.phoronix.com/news/FreeBSD-Bits-Of-GPL-Kernel",
+    "date": "Jul 29, 2026 09:57",
+    "published_at": "2026-07-29T09:57:59Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Co-op group climbing game Sunset Summit from the devs of DEVOUR arrives August",
+    "link": "https://www.gamingonlinux.com/2026/07/co-op-group-climbing-game-sunset-summit-from-the-devs-of-devour-arrives-august/",
+    "description": "Brothers Joe and Andrew Fender, the devs behind the indie mega hit DEVOUR, have revealed that Sunset Summit will arrive on August 21st.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/07/co-op-group-climbing-game-sunset-summit-from-the-devs-of-devour-arrives-august/",
+    "date": "Jul 29, 2026 09:50",
+    "published_at": "2026-07-29T09:50:12Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/2112342496id29468gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "GCC To Decline Any Significant Contributions Made Via AI/LLMs - Except For Test Cases",
+    "link": "https://www.phoronix.com/news/GCC-Declining-AI-Contributions",
+    "description": "The GCC Steering Committee announced today that they have accepted the recommended policy of the GCC AI Policy Working Group, which means no \"legally significant\" code contributions made via AI/LLM agents will be accepted into this open-source compiler...",
+    "guid": "https://www.phoronix.com/news/GCC-Declining-AI-Contributions",
+    "date": "Jul 29, 2026 09:43",
+    "published_at": "2026-07-29T09:43:31Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Double Fine get layoffs after split from Microsoft",
+    "link": "https://www.gamingonlinux.com/2026/07/double-fine-get-layoffs-after-split-from-microsoft/",
+    "description": "Double Fine have announced that 23 members of their team have been let go, as they need to cut down on expenses to keep the studio alive.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/07/double-fine-get-layoffs-after-split-from-microsoft/",
+    "date": "Jul 29, 2026 09:31",
+    "published_at": "2026-07-29T09:31:19Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1398664685id29467gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Valve make it clear no one is skipping ahead in the list for a Steam Machine",
+    "link": "https://www.gamingonlinux.com/2026/07/valve-make-it-clear-no-one-is-skipping-ahead-in-the-list-for-a-steam-machine/",
+    "description": "A fair amount of people don't quite understand how the Steam Machine reservation and waitlist works - so Valve reminded people no one is skipping the line.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/07/valve-make-it-clear-no-one-is-skipping-ahead-in-the-list-for-a-steam-machine/",
+    "date": "Jul 29, 2026 09:08",
+    "published_at": "2026-07-29T09:08:12Z",
+    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/steammachine2025.jpg",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Your Brain Can Rewire Itself To Allow True Multitasking",
+    "link": "https://science.slashdot.org/story/26/07/29/0455211/your-brain-can-rewire-itself-to-allow-true-multitasking?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "alternative_right shares a report from ScienceAlert: [I]n a new study published in the Journal of Cognitive Neuroscience, researchers from Georgetown University Medical Center in the U.S. have revealed that we can put certain tasks on autopilot in a way that enables something closer to true multitasking. Driving is the perfect example: When you take your test, your entire mental and physical energy is concentrated on executing the right combinations of movements and thoughts. After a decade behind the wheel, the brain is no longer consciously thinking everything through in great detail.\n \nIn the new study, the researchers found that after extensive practice, the brain can effectively reroute some tasks around the brain's main computing center -- like a bypass road around a city -- to reduce mental overload and improve multitasking capability. \"We have another stepping stone in our understanding of how the brain learns,\" says neuroscientist Maximilian Riesenhuber, senior author of the study. \"The encouraging part is that you really can learn to multitask. There is actually a way to remodel your brain architecture and use other parts of your brain.\"\n \n[...] \"Previous studies have shown that parts of the temporal cortex can be activated by particular object categories in experienced observers -- birds, cars, even Pokemon -- but a limitation of all of those studies is that they only looked after people became experts,\" says psychologist Patrick Cox, first author of the study. \"We measure before and after training, so we can see that extensive training essentially put a category-selective area in the temporal lobe that was not there before.\" The study culminated in a dual-task experiment, in which the participants were asked to identify cars and take on another challenge. The individuals whose brains had offloaded more car-sorting work to the temporal cortex did better at the second task.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Jul 29, 2026 09:00",
+    "published_at": "2026-07-29T09:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "EDATEC ED-IPC1200 and ED-IPC1220 add DIN-rail I/O around Raspberry Pi CM0",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366457",
+    "description": "EDATEC has expanded its family of Raspberry Pi Compute Module 0-based DIN-rail industrial computers with the ED-IPC1200 and ED-IPC1220. Both models provide Ethernet, USB, RS232, dual RS485, optional wireless connectivity, and isolated control interfaces, while the ED-IPC1220 includes additional digital I/O and analog inputs. The Raspberry Pi Compute Module 0 integrates a 1GHz quad-core 64-bit […]",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366457",
+    "date": "Jul 29, 2026 07:27",
+    "published_at": "2026-07-29T07:27:03Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Trump Administration Bans New Chinese Humanoid Robots",
+    "link": "https://hardware.slashdot.org/story/26/07/29/0441240/trump-administration-bans-new-chinese-humanoid-robots?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "The Trump administration has banned newly authorized foreign-made humanoid and four-legged robots, along with power inverters, citing \"unacceptable risks\" to the country's national security. FCC chairman Brendan Carr said the agency was doing its part \"to secure America's critical supply chains.\" The BBC reports: The FCC has added the items to its Covered List -- a register of goods and services that are deemed a risk to US national security. The ban applies to new foreign-produced advanced robotic devices and power inverters and does not prevent the sale or import of any existing models that had been previously authorized by the FCC.\n \nThe FCC cited concerns that the use of foreign-made inverters could allow overseas firms to turn them off, steal data, facilitate remote access and surveillance by \"foreign government actors, or be otherwise exploited through a cyberattack.\" It added that the use of robots made outside the US could allow \"malign actors to surveil Americans, enhance the capabilities of foreign intelligence services, or to remotely commandeer the robots.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Jul 29, 2026 05:30",
+    "published_at": "2026-07-29T05:30:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Shelly 3.0 GUI Package Manager for Arch Linux Released as a Major Update",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366469",
+    "description": "Shelly 3.0 has been released today as a major update for this open-source and free pacman alternative for Arch Linux distributions that introduces a completely revamped experience, new features, and many improvements.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366469",
+    "date": "Jul 29, 2026 04:24",
+    "published_at": "2026-07-29T04:24:04Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Workplaces Look For Cheaper AI As 'Tokenmaxxing' Fades As a Corporate Fad",
+    "link": "https://news.slashdot.org/story/26/07/28/2242250/workplaces-look-for-cheaper-ai-as-tokenmaxxing-fades-as-a-corporate-fad?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from the Associated Press: A corporate fad of \"tokenmaxxing\" on artificial intelligence technology is hitting its limits as workplaces throwing AI at everything are seeing the costs rise without a similar spike in productivity. What started as tech industry-fueled springtime hype over squeezing as much AI-generated work as possible out of products like OpenAI's ChatGPT and Anthropic's Claude has shifted to a summertime backlash. [...] Just a few months ago, Silicon Valley executives were promoting high token consumption as a signal of high-performing employees. The stereotypical tokenmaxxer was staying up late -- perhaps ignoring their significant other -- while orchestrating an army of 24-hour AI agents performing work on their behalf. [...] The trend boosted revenue for leading AI large language model developers like Anthropic and OpenAI, but it fizzled as it became apparent it wasn't necessarily the best strategy for everyone else.\n \n[...] Bain \u0026 Company management consultant Jue Wang said many of the big businesses her firm advises have been taking a closer look at returns on their AI investments. \"The token cost for them has been doubling, almost every other month,\" she said. \"Let's say $200 per developer per month. Multiply that by 20,000 developers, which is often what we're dealing with at these companies, and that quickly gets you to a number that is not a line item that any general manager has planned for.\" Sometimes that just means not using the AI equivalent of a sledgehammer to crack a nut. \"Not everything needs a Claude Opus 4.6,\" she said of one of Anthropic's more capable models suited to software engineering or deep research. \"And yet you see so many companies, so many users, default to using Opus for everything, including generating emails.\" That's led to a search for tools that do AI \"model routing\" -- in which easier queries get automatically sent to cheaper and more efficient AI systems and more complex tasks go to more powerful models.\n \n[...] At the same time, those who favor racking up as many tokens as possible are having a field day with new open-source models from Chinese startups like Moonshot's Kimi or Zhipu's GLM, which nearly match the capabilities of top U.S. models at a fraction of the price. \"There is some validity to the theory that this could push tokenmaxxing a little bit further,\" said Raffi Krikorian, the chief technology officer at Mozilla. \"But if we look at the industry overall, I think it's realizing that tokenmaxxing is a dumb thing.\" It's similar, Krikorian said, to how software companies once considered how many lines of code a programmer wrote to be a good metric of productivity. That later fell out of favor. \"I think tokenmaxxing is moving through the exact same pattern,\" he said. \"I think this is going to be an interesting blip that we're all going to look back to laugh at in a year.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Jul 29, 2026 03:30",
+    "published_at": "2026-07-29T03:30:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "ThingPulse Icon256 is a WLED-based word clock with 256 RGB LEDs",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366456",
+    "description": "The ThingPulse Icon256 is a Wi-Fi-connected word clock that displays the time as illuminated phrases across a 16 × 16 RGB LED matrix. The finished unit includes an enclosure, an English-language front panel, preinstalled firmware, and USB-C power input. The display consists of 256 individually addressable RGB light points positioned behind a letter grid. Instead […]",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366456",
+    "date": "Jul 29, 2026 02:52",
+    "published_at": "2026-07-29T02:52:35Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Hyprland 0.56.1 Released with Monitor Rotation and Mirroring Fixes",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366464",
+    "description": "Hyprland 0.56.1 is as a maintenance update addressing monitor regressions, window-rule leaks, input capture, rendering, and more.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366464",
+    "date": "Jul 29, 2026 01:21",
+    "published_at": "2026-07-29T01:21:06Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "ARCTIC Launches Its New Fan Controller That Already Has Mainline Linux Support",
+    "link": "https://www.phoronix.com/news/ARCTIC-Fan-Controller-Launches",
+    "description": "In over 22 years of Linux hardware reviews and testing at Phoronix, I have never been more excited for a fan controller... ARCTIC today launched their new Fan Controller and in making the product very unique for Linux users, it already has mainline Linux kernel support via a open-source driver contributed directly by ARCTIC...",
+    "guid": "https://www.phoronix.com/news/ARCTIC-Fan-Controller-Launches",
+    "date": "Jul 29, 2026 00:38",
+    "published_at": "2026-07-29T00:38:00Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
     "title": "Wayfire 0.11 Wayland Compositor Adds Better Fractional Scaling, HDR Rendering",
     "link": "https://lxer.com/module/newswire/ext_link.php?rid=366468",
     "description": "Wayfire 0.11 has been released as a major milestone for this open-source modular and extensible Wayland compositor, and, hopefully, the last update before the massive Wayfire 1.0 release.",
@@ -370,149 +580,5 @@
     "image": "https://itsfoss.com/content/images/2026/07/openuk-banner.png",
     "source": "itsfoss.com",
     "source_url": "https://itsfoss.com/"
-  },
-  {
-    "title": "Fwupd 2.1.7 Linux Firmware Updater Brings New Features and Improvements",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366451",
-    "description": "Fwupd developer Richard Hughes released fwupd 2.1.7 today as a new stable update in the fwupd 2.1 series of this open-source project for updating and managing the firmware of various hardware on your Linux distribution.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366451",
-    "date": "Jul 28, 2026 04:25",
-    "published_at": "2026-07-28T04:25:13Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "A Missing Underscore Sent Innocent Man To Prison For 18 Months",
-    "link": "https://yro.slashdot.org/story/26/07/28/0037231/a-missing-underscore-sent-innocent-man-to-prison-for-18-months?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "An anonymous reader quotes a report from Ars Technica: One missing underscore in a Skyrim-themed username put an innocent Nova Scotia man in prison for 18 months. A 2018 child-luring investigation, which began in Madison, Wisconsin, and eventually extended to Halifax, Canada, was based on a false premise. Police were looking for a man using the Kik messaging service under the name \"fus__ro_dah\" (two underscores after \"fus\"), but they accidentally requested records for the username \"fus_ro_dah\" (one underscore after \"fus\"). This one-character difference led them not to the perpetrator but to a Canadian man named Brandon Klayme. (Ars readers may recognize \"fus ro dah\" as the Unrelenting Force \"dragon shout\" from The Elder Scrolls V: Skyrim.)\n \nDespite finding no evidence of the crime on his digital devices, Canadian police arrested Klayme in 2020 on child sex abuse charges. He was convicted after a trial in 2023 and sentenced in 2024 to 18 months in prison. He served the full term. Even after release, Klayme continued to fight his conviction. In the process of preparing his appeal, the username mistake that led to all these years of disruption was finally discovered. On Thursday, the Nova Scotia Court of Appeal overturned Klayme's conviction, writing: \"Mr. Klayme is factually innocent of the offences. He should never have been charged, let alone convicted.\" [...] As the court puts it, \"Although the information about the usernames was available at the time of the trial, there is no evidence confirming or explaining how it went unnoticed.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Jul 28, 2026 03:30",
-    "published_at": "2026-07-28T03:30:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "First Look at Firefox’s Brand-New Design in Firefox Nightly",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366453",
-    "description": "Mozilla updated the Firefox Nightly builds today to the new design it teased earlier a couple of months ago, so we’re taking a closer look at Firefox’s brand-new look out of curiosity.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366453",
-    "date": "Jul 28, 2026 01:22",
-    "published_at": "2026-07-28T01:22:14Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "NVIDIA and Linux Foundation Form Open Secure AI Alliance",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366443",
-    "description": "NVIDIA, the Linux Foundation, Red Hat, Microsoft, IBM, Hugging Face, and dozens of industry leaders unite to develop open technologies for securing AI agents and software.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366443",
-    "date": "Jul 27, 2026 23:50",
-    "published_at": "2026-07-27T23:50:44Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Peacock to Be Included With YouTube Premium In Major Streaming Tie-Up",
-    "link": "https://news.slashdot.org/story/26/07/27/1942254/peacock-to-be-included-with-youtube-premium-in-major-streaming-tie-up?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "YouTube Premium will include Peacock Premium at no extra charge beginning in early 2027. \"The deal brings a slew of premium content to the [$15.99 per month] YouTube Premium subscription, including live sports like the NFL, NBA and MLB and entertainment like Law \u0026 Order, Saturday Night Live and Love Island,\" reports The Hollywood Reporter. \"It also has the potential to dramatically scale Peacock, which remains smaller than many of its streaming competitors.\" From the report: Peacock has 48 million subscribers, while YouTube Premium and YouTube Music have a combined 125 million subscribers, though they don't break out how many each of those offerings have. The agreement, which expands on the deal the company inked with YouTube parent company Google last year, will also extend the entertainment company's programming deal with YouTube TV, while bringing some of YouTube's offerings to Comcast Xfinity and Xumo platforms.\n \nThere's also a notable sports and production element to the deal, with NBC Sports agreeing to stream some live sporting events on its YouTube channels, and with NBC agreeing to serve as the production partner for select live events on YouTube. YouTube will also bundle some of the company's International streaming offerings like Universal+ and Hayu in select markets.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Jul 27, 2026 23:00",
-    "published_at": "2026-07-27T23:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "AMD \"Low Power\" CPU Core Type Patches Queued Ahead Of Linux 7.3",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366446",
-    "description": "Last month I wrote bout new AMD Linux patches introducing a new \"low power\" CPU core type as an alternative to their standard performance cores and dense efficiency cores. That work now is poised to land with the upcoming Linux 7.3 kernel...",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366446",
-    "date": "Jul 27, 2026 22:19",
-    "published_at": "2026-07-27T22:19:15Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Amazon Trying to Launch a Global Satellite Cellphone Network In 2028",
-    "link": "https://tech.slashdot.org/story/26/07/27/1936209/amazon-trying-to-launch-a-global-satellite-cellphone-network-in-2028?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Amazon has asked the FCC to approve a 5,105-satellite constellation launching in 2028 that would provide global direct-to-cell \"voice, messaging, data, and emergency services,\" similar to Starlink's partnership with T-Mobile. The network would use Globalstar spectrum, support future Apple satellite services, and complement Amazon's existing Leo broadband constellation. The Verge reports: Advanced Television points out that the FCC application also includes a request to use spectrum assigned to Iridium's satellite network outside the US, even as Rocket Lab is in the process of acquiring Iridium with plans to expand.\n \nThe new constellation and direct-to-device service will \"complement\" the broadband services Amazon also plans to offer through its Leo platform. In addition to consumer satellite service, it would also be used for things like disaster response and emergency messaging.\n \nAmazon says the new direct-to-device satellites \"will process the signals in orbit before relaying them to improve performance.\" The new constellation will be nearly double the size of Amazon's initial Leo constellation, which is planned to include around 3,200 satellites. As of July 2nd, Amazon says \"over 375\" of those satellites have launched so far.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Jul 27, 2026 22:00",
-    "published_at": "2026-07-27T22:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "AMD PMF Testing Tool Slated For Linux 7.3",
-    "link": "https://www.phoronix.com/news/AMD-PMF-Testing-Tool-Linux-7.3",
-    "description": "Looking to be added to the Linux kernel source tree for the upcoming Linux 7.3 cycle is test_amd_pmf, a small testing application for exercising the AMD Platform Management Framework (PMF) interfaces and dumping various system data points...",
-    "guid": "https://www.phoronix.com/news/AMD-PMF-Testing-Tool-Linux-7.3",
-    "date": "Jul 27, 2026 21:28",
-    "published_at": "2026-07-27T21:28:20Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Nvidia, Tech Giants Launch AI Safety Initiative",
-    "link": "https://it.slashdot.org/story/26/07/27/195206/nvidia-tech-giants-launch-ai-safety-initiative?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "wiredmikey shares a report from SecurityWeek: Nvidia and a large group of technology, cybersecurity, and enterprise software companies have launched new initiative aimed at developing and sharing open source tools, models, and techniques for securing AI systems and agents. The new Open Secure AI Alliance aims to give defenders more open tools for testing, auditing and protecting AI models and agents. Nvidia points to the recent security incident involving OpenAI and Hugging Face, noting that when closed AI tools could not differentiate between attackers and defenders and blocked forensic work, Hugging Face used the open-weight GLM 5.2 model on its own systems to review over 17,000 actions and contain the breach. \"The right response is not to deny defenders access to capable open systems. It is to pair openness with strong safeguards, clear rules against malicious misuse, rigorous evaluation and rapid remediation. In cybersecurity, the safer path is the one that gives more defenders the ability to test, verify and strengthen the systems on which society relies,\" Nvidia said.\n \nThanks to longtime Slashdot reader SphericalCrusher for also sharing the news.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Jul 27, 2026 21:00",
-    "published_at": "2026-07-27T21:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Collabora Online 26.04 Office Suite Released with Optional AI Assistant",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366441",
-    "description": "Collabora Online 26.04 is now available with an optional AI assistant, Markdown support, improved document review, and new Calc features.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366441",
-    "date": "Jul 27, 2026 20:47",
-    "published_at": "2026-07-27T20:47:45Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "GNU Binutils 2.47 Released With New Linker, Disassembler Options",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366439",
-    "description": "The new release also adds reproducible tarballs and new tools, while dropping Gold from the main tarball.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366439",
-    "date": "Jul 27, 2026 19:16",
-    "published_at": "2026-07-27T19:16:16Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Ubuntu 26.04 LTS Gets an Optional Virtualization HWE Stack",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366449",
-    "description": "Canonical introduces an optional virtualization HWE stack for Ubuntu 26.04 LTS, bringing newer QEMU, libvirt, EDK2, and SeaBIOS versions.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366449",
-    "date": "Jul 27, 2026 17:44",
-    "published_at": "2026-07-27T17:44:46Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "[$] Hazard pointers for the kernel",
-    "link": "https://lwn.net/Articles/1084015/",
-    "description": "The kernel's read-copy-update (RCU) subsystem ensures that data will not be\ndeleted until it is known that there are no threads holding references to\nit.  RCU works well and is widely used throughout the kernel, but it can\nincrease memory use and add significant delays before unused kernel objects\nare cleaned up.  Hazard pointers are\nan alternative approach to lockless data updates that offers better\nperformance, for some situations at least.  The kernel community is\ncurrently considering a\nhazard-pointer implementation by Mathieu Desnoyers and Paul McKenney.",
-    "guid": "https://lwn.net/Articles/1084015/",
-    "date": "Jul 27, 2026 16:51",
-    "published_at": "2026-07-27T16:51:58Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "Mysterious 16-Tile \u0026 32-Tile AMX Implementations Talked Up For More Performance",
-    "link": "https://www.phoronix.com/news/16-Tile-32-Tile-AMX-Performance",
-    "description": "Last October on Phoronix we were first to point out there being some mysterious intrigue around a new x86 implementation from a \"corporate entity other than Intel/AMD\" with the developer involved not elaborating on the matter. Now that same developer has posted another semi-cryptic message to the Linux kernel mailing list to talk about 16-tile and 32-tile Advanced Matrix Extensions (AMX) implementations. To date Intel only has 8-tile AMX...",
-    "guid": "https://www.phoronix.com/news/16-Tile-32-Tile-AMX-Performance",
-    "date": "Jul 27, 2026 16:41",
-    "published_at": "2026-07-27T16:41:37Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
   }
 ]
