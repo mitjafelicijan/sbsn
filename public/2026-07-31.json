@@ -1,5 +1,140 @@
 [
   {
+    "title": " Valve funding port of Linux RADV Radeon Vulkan driver to Windows — cross-platform effort already runs 'Counter-Strike 2' ",
+    "link": "https://www.tomshardware.com/software/linux/valve-funding-port-of-linux-radv-radeon-vulkan-driver-to-windows-cross-platform-effort-already-runs-counter-strike-2",
+    "description": " Valve funding port of Linux RADV Radeon Vulkan driver to Windows — cross-platform effort already runs Counter-Strike 2 ",
+    "guid": "cui6iTz2NAkMcrJrXeUV5W",
+    "date": "Jul 31, 2026 12:25",
+    "published_at": "2026-07-31T12:25:00Z",
+    "image": "https://cdn.mos.cms.futurecdn.net/d9sMHtzKwoKRrKJSznzoAT-1280-80.jpg",
+    "source": "tomshardware.com",
+    "source_url": "https://www.tomshardware.com/software/operating-systems/linux"
+  },
+  {
+    "title": "Xen 4.22 Hypervisor Brings New x86 Features and Better ARM Power Management",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366509",
+    "description": "The Xen 4.22 hypervisor arrives with x86 FRED support, AMD Bus Lock Threshold, ARM guest suspend and resume, and Xenstore scalability improvements.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366509",
+    "date": "Jul 31, 2026 11:18",
+    "published_at": "2026-07-31T11:18:37Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Exploring Kittens With Kitty Terminal Emulator",
+    "link": "https://feed.itsfoss.com/link/24361/17397287/kittens-kitty",
+    "description": "Kitty terminal's functionality can be enhanced with kittens. You can create your own or use the default ones.",
+    "guid": "69e5e1461bd09f0001c44081",
+    "date": "Jul 31, 2026 11:16",
+    "published_at": "2026-07-31T11:16:37Z",
+    "image": "https://itsfoss.com/content/images/2026/07/using-command-line-kittens-in-kitty.png",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "Servo 0.4 Browser Engine Gets More Websites Rendering Correctly",
+    "link": "https://www.phoronix.com/news/Servo-0.4-Released",
+    "description": "Servo 0.4 was just released for closing out the month of July. This month the Servo browser engine with its servoshell demo browser began rendering more real-world websites correctly...",
+    "guid": "https://www.phoronix.com/news/Servo-0.4-Released",
+    "date": "Jul 31, 2026 11:01",
+    "published_at": "2026-07-31T11:01:10Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Nouveau Patch For Linux 7.3 Allows For NVK Vulkan Video Atop NVIDIA NVDEC",
+    "link": "https://www.phoronix.com/news/Linux-7.3-Nouveau-NVDEC",
+    "description": "This week's round of drm-misc-next patches for staging ahead of the Linux 7.3 kernel merge window bring an exciting change for the open-source NVIDIA \"Nouveau\" driver...",
+    "guid": "https://www.phoronix.com/news/Linux-7.3-Nouveau-NVDEC",
+    "date": "Jul 31, 2026 10:20",
+    "published_at": "2026-07-31T10:20:00Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "x86_64 Shadow Stack By Default Retargeted For Fedora 46",
+    "link": "https://www.phoronix.com/news/Fedora-46-Shadow-Stack-Plans",
+    "description": "In recent weeks there was a proposal to enable x86_64 Shadow Stack support by default with the upcoming Fedora Linux 45 release. That change has been approved now by the Fedora Engineering and Steering Committee (FESCo) but with the feature being punted off to Fedora 46 next year...",
+    "guid": "https://www.phoronix.com/news/Fedora-46-Shadow-Stack-Plans",
+    "date": "Jul 31, 2026 10:04",
+    "published_at": "2026-07-31T10:04:00Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Vulkan 1.4.358 Released With New Image Tiling Control Extension",
+    "link": "https://www.phoronix.com/news/Vulkan-1.4.358",
+    "description": "After two weeks without any Vulkan spec update, Vulkan 1.4.358 was released overnight. Besides the usual assortment of minor clarifications/fixes, Vulkan 1.4.358 introduces one new extension: VK_EXT_image_tiling_control...",
+    "guid": "https://www.phoronix.com/news/Vulkan-1.4.358",
+    "date": "Jul 31, 2026 09:53",
+    "published_at": "2026-07-31T09:53:13Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Sound Fixes For Linux 7.2-rc6: \"Far Larger Than Wished\"",
+    "link": "https://www.phoronix.com/news/Linux-7.2-rc6-Sound-Fixes",
+    "description": "Linux sound subsystem maintainer Takashi Iwai of SUSE previously warned of many sound driver fixes due to AI/LLMs and a \"new normal\" of patch activity as a result. While we are approaching the end of the Linux 7.2 merge window with the stable release coming up in August, the sound patches continue trending higher and this week were \"far larger than wished\" ahead of Linux 7.2-rc6 due out on Sunday...",
+    "guid": "https://www.phoronix.com/news/Linux-7.2-rc6-Sound-Fixes",
+    "date": "Jul 31, 2026 09:26",
+    "published_at": "2026-07-31T09:26:56Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Netflix Sued For Losing 'Master Copy' of Unreleased Nicolas Cage Movie",
+    "link": "https://yro.slashdot.org/story/26/07/31/0530256/netflix-sued-for-losing-master-copy-of-unreleased-nicolas-cage-movie?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "A production company and filmmaker are suing Netflix for $105 million, alleging the streamer lost a stolen drive containing an unencrypted master copy of the unreleased Nicolas Cage film Fortitude, which they claim damage its exclusivity and market value. Netflix denied responsibility for the lost film but said it takes content security seriously and has offered to monitor piracy sites for unauthorized copies. CBS News reports: The complaint filed on Wednesday in California district court alleges that the film's associate producer, Daniel Haido, hand-delivered an unencrypted master copy of the film to Netflix so the company could screen it as a potential buyer. Haido verbally instructed the employee to delete the files after the screening, according to the suit. A little over a week after the screening, Netflix emailed the filmmakers to say the drive had been stolen, the plaintiffs allege. \"Someone stole a good amount of drives from our office desks this past week,\" a Netflix executive wrote in the email, according to the suit.\n \nThe complaint notes the movie, entitled \"Fortitude,\" took over seven years to make and cost $45 million. It tells the story of a secret mission called Operation Fortitude during World War II that was orchestrated to mislead the Nazis about the Allied invasion of Europe. The film stars Nicolas Cage as Dusko Popov, a real-life spy during World War II, as well as Sir Ben Kingsley and Ron Perlman.\n \nThe plaintiffs said studios will now be dissuaded from buying the rights to the movie, knowing that a version of it could be released by a third party for free. \"The film's value depended in significant part on its exclusivity as an unreleased, first-to-market work,\" the complaint states. \"By losing control of the film, Netflix destroyed that exclusivity and materially, if not completely, impaired the film's marketability.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Jul 31, 2026 09:00",
+    "published_at": "2026-07-31T09:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "DFRobot seeMote Cube tracks motion and sends haptic feedback in visionOS",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366501",
+    "description": "The DFRobot seeMote Cube is a handheld spatial input device for Apple Vision Pro application development. The 56mm cube combines six-degree-of-freedom tracking, six programmable buttons, Bluetooth connectivity, and app-controlled haptic feedback for interacting with virtual objects and tools in visionOS. According to the DFRobot, the seeMote Cube provides a tangible controller that can be moved, […]",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366501",
+    "date": "Jul 31, 2026 08:15",
+    "published_at": "2026-07-31T08:15:38Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Anthropic Says Its AI Systems Broke Into Computers at 3 Organizations",
+    "link": "https://yro.slashdot.org/story/26/07/31/0451235/anthropic-says-its-ai-systems-broke-into-computers-at-3-organizations?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Anthropic found that Claude models breached three outside organizations during cybersecurity tests because misconfigured environments accidentally gave them access to the internet. The company notified those affected and urged other AI labs to audit their own testing systems. The BBC reports: Anthropic said in a statement that it reviewed more than 140,000 tests to find evidence that Claude - its family of AI models - could access the internet from testing environments that were designed to be sealed off. The tests include so-called \"capture-the-flag\" evaluations in which Claude was tasked with obtaining information by breaching other systems - a common way that experts assess a model's hacking capabilities.\n \nA \"misconfiguration\" on systems run by Anthropic and its testing partner left the models with live internet access, allowing them to breach other systems, the San Francisco-based firm said. Anthropic said the earliest incidents date back to April and that it is \"approaching the fixes as if the responsibility were ours alone.\" Neither Anthropic nor the organizations that were breached had noticed the intrusions at the time.\n \nAnthropic said it could have reviewed its records more thoroughly and added that the findings gave the firm \"cautious optimism\" that such risks can be overcome with more investment and tighter measures. \"The broader lesson is not necessarily that AI has developed a fundamentally new attack capability,\" cyber security expert David Allott told the BBC. \"Instead, it is that AI agents can combine capabilities, obtain credentials and system access to take actions autonomously, while adapting scope and scale at machine speed,\" he added. The announcement comes just days after OpenAI said that its models had breached the systems of other companies, including AI tools platform Hugging Face.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Jul 31, 2026 05:30",
+    "published_at": "2026-07-31T05:30:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "GitHub Automatically Holds Suspicious Actions Runs, but Repository Owners Must Approve Them",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366504",
+    "description": "GitHub’s new Actions safeguard pauses potentially malicious workflow runs before execution, leaving repository owners to decide who can approve them and what checks must come first.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366504",
+    "date": "Jul 31, 2026 05:12",
+    "published_at": "2026-07-31T05:12:39Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Flock Cameras Are Being Destroyed Across the US",
+    "link": "https://news.slashdot.org/story/26/07/30/2045213/flock-cameras-are-being-destroyed-across-the-us?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous Slashdot reader writes: Surveillance cameras owned by Flock Safety have been cut down with electric saws in New York State, vandalized with paint in Oakland, California, and rammed with a truck in Idaho. Flock claims its services fight crime, but law enforcement agencies also use their services to track vehicles based on license plate numbers and reconstruct the their movements, even when the drivers and owners of these vehicles have never been accused or convicted of any crime. (Flock states it has 120,000 automated cameras that record license plate data, as well as pan-tilt-zoom cameras, across the United States.)\n \nA guerilla mindset among average citizens have seen these cameras forcibly disabled within recent weeks with sympathy directed toward the vigilantes. In June, a West Virginia man accused of destroying several Flock cameras was arrested. Under a Facebook post from the local NBC affiliate announcing his arrest are dozens of people volunteering to provide alibis. \"He was out fishing with me that day, you got the wrong guy,\" one man wrote.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Jul 31, 2026 03:30",
+    "published_at": "2026-07-31T03:30:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
     "title": "Fedora 45 Introduces a Minimal GRUB Package for Confidential VMs",
     "link": "https://lxer.com/module/newswire/ext_link.php?rid=366498",
     "description": "Fedora Linux 45 will introduce a separate, minimal GRUB package designed for confidential VMs, Unified Kernel Images, and predictable TPM measurements.",
@@ -169,6 +304,16 @@
     "source_url": "https://slashdot.org/"
   },
   {
+    "title": "Nouveau vs. NVIDIA R610 On CachyOS With The GeForce RTX 5090 Laptop GPU",
+    "link": "https://www.phoronix.com/review/nvidia-rtx-5090-laptop-linux",
+    "description": "With the Razer Blade 18 as the first laptop Razer's certifying for (Ubuntu) Linux use while testing it out I was predominantly using the NVIDIA R610 official driver stack. Some users were interested though in how well this laptop is working with the open-source, upstream Nouveau+NVK driver stack given Razer is marketing this high-end laptop for Linux use too. Before sending the review unit back I had run some graphics benchmarks to see how Nouveau+NVK was performing for this Razer Blade RZ09-0582 with the flagship GeForce RTX 5090 Laptop GPU.",
+    "guid": "https://www.phoronix.com/review/nvidia-rtx-5090-laptop-linux",
+    "date": "Jul 30, 2026 15:00",
+    "published_at": "2026-07-30T15:00:00Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
     "title": "GCC Adopts Policy Rejecting Significant AI-Generated Code",
     "link": "https://news.slashdot.org/story/26/07/29/2217254/gcc-adopts-policy-rejecting-significant-ai-generated-code?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
     "description": "GCC has adopted a policy rejecting substantial code contributions generated by or derived from LLMs. \"This covers not just code copied directly from tools like ChatGPT, Gemini, or GitHub Copilot, but also any versions of the code later edited or rewritten by a human, provided that the final contribution is still based on material generated by the system,\" reports Linuxiac. From the report: The important point, then, is not whether a developer has used an AI tool at some stage in their work; contributors can use LLMs to discuss ideas, understand existing code, learn about a field they are unfamiliar with, or carry out general research. The limitation lies in the inclusion of copyright-significant material generated by such tools in the code submitted to GCC.\n \nThe policy also provides for a few limited exceptions; GCC maintainers are allowed to accept changes that are legally insignificant or trivial and are generated by an LLM, on the condition that they meet the project's normal contribution requirements and the use of an LLM is clearly disclosed.\n \nFurthermore, copyright-significant AI-generated test cases could still be accepted. Since test cases usually involve small programs which are intended to reproduce compiler bugs or to verify certain behavior, the policy deals with them separately from code that is incorporated into GCC itself.\n \nIt does not follow that merely looking at or altering the generated code makes it acceptable. By the rules that have been adopted, a contributor cannot take substantial implementation produced by an LLM, clean it up manually, and then treat the resulting patch as if it had been originally written by them. Once a contribution has been derived from generated content, it is still subject to the policy.\n\n\n\n\n\nRead more of this story at Slashdot.",
@@ -178,16 +323,6 @@
     "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
     "source": "slashdot.org",
     "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Nouveau vs. NVIDIA R610 On CachyOS With The GeForce RTX 5090 Laptop GPU",
-    "link": "https://www.phoronix.com/review/nvidia-rtx-5090-laptop-linux",
-    "description": "With the Razer Blade 18 as the first laptop Razer's certifying for (Ubuntu) Linux use while testing it out I was predominantly using the NVIDIA R610 official driver stack. Some users were interested though in how well this laptop is working with the open-source, upstream Nouveau+NVK driver stack given Razer is marketing this high-end laptop for Linux use too. Before sending the review unit back I had run some graphics benchmarks to see how Nouveau+NVK was performing for this Razer Blade RZ09-0582 with the flagship GeForce RTX 5090 Laptop GPU.",
-    "guid": "https://www.phoronix.com/review/nvidia-rtx-5090-laptop-linux",
-    "date": "Jul 30, 2026 15:00",
-    "published_at": "2026-07-30T15:00:00Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
   },
   {
     "title": "AMD Zen 6 Client HSMP Patches Point To \"Ryzen Master\" Functionality On Linux",
@@ -386,6 +521,16 @@
     "source_url": "https://slashdot.org/"
   },
   {
+    "title": "Steam Client Adds HDR Streaming On Steam Deck OLED, AV1 Video Streaming",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366486",
+    "description": "Today's Steam client beta update brings some new game streaming enhancements for Linux gamers...",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366486",
+    "date": "Jul 30, 2026 06:27",
+    "published_at": "2026-07-30T06:27:27Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
     "title": "Krita 5.3.3 Is Out as the Recommended Release for Production Work",
     "link": "https://lxer.com/module/newswire/ext_link.php?rid=366489",
     "description": "Krita 5.3.3 and the experimental Qt 6-based Krita 6.0.3 arrive with crash fixes, animation improvements, and better font handling.",
@@ -394,159 +539,5 @@
     "published_at": "2026-07-30T04:55:57Z",
     "source": "lxer.com",
     "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "AI Companies Are Recruiting Electricians and Carpenters By the Thousands",
-    "link": "https://news.slashdot.org/story/26/07/29/2213243/ai-companies-are-recruiting-electricians-and-carpenters-by-the-thousands?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "An anonymous reader quotes a New York Times report on how AI companies are pouring money into training and recruiting electricians, carpenters, and other skilled tradespeople to build data centers: There is no parallel in American history for the boom underway in the construction of data centers, fueled by companies with functionally unlimited cash that are racing to supply skyrocketing demand for their A.I. models. The explosion has offset flagging activity in other sectors, like office construction, which never recovered after the pandemic. Housing has been depressed by high interest rates, and offshore wind felled by political opposition. Still, competition for labor -- never mind land and materials -- is starting to weigh on other parts of the industry.\n \n\"There's no question the resources are very limited, so decisions to build one thing kind of drag from another,\" said Mario Iacobacci, who runs the construction and infrastructure advisory practice at Oxford Economics. Developers are paying a premium for workers, especially in the rural areas where they are building data centers. According to an analysis by Indeed, the job listings website, hourly installation and maintenance jobs at data centers pay 42 percent more than similar jobs in other fields. Behind that inflated pay is a bidding war. In markets with a lot of data center construction, like Dallas and Northern Virginia, workers can jump ship for bonuses or higher per diem rates. The competition has driven contractors to staffing services like Aerotek.\n \n\"It is creating a labor tension that is really delicate,\" said Marty Schager, Aerotek's director of data center market development. \"You've got a passive job-seeker community out there right now that I think is looking to potentially capture opportunity with this once-in-a-generation data center gold rush.\" [...] The question looms over the apprentices who will become journeymen as the build-out reaches fever pitch. Fully trained electricians could shift to nuclear plants, apartment buildings or pharmaceutical factories. But it's hard to imagine anything on the scale of what's underway. \n\"The best-case scenario would be you train all these skilled workers up and right when the data centers start to become less popular is we'd have a housing boom,\" said Jeff Strohl, director of Georgetown University's Center on Education and the Workforce. \"That's probably not likely.\"\n \n\"If we have an influx of workers at this point with the data centers being built, what happens when they're done? Where do those workers go?\" he said. \"How many people does it take to run a data center after taking up all this property and all this land that could have been used for something else?\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Jul 30, 2026 03:30",
-    "published_at": "2026-07-30T03:30:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Radxa previews Qualcomm-based CM-Q64 and VMARC-Q9075 compute modules",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366471",
-    "description": "Radxa has published specifications for two upcoming compute modules based on Qualcomm Dragonwing processors. The compact CM-Q64 combines 12 TOPS of AI performance with multi-camera support, while the larger VMARC-Q9075 uses the SMARC form factor and scales to 200 sparse TOPS for industrial AI, robotics, and machine-vision systems. The Radxa CM-Q64 measures 55 × 40mm […]",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366471",
-    "date": "Jul 30, 2026 00:49",
-    "published_at": "2026-07-30T00:49:27Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "COSMIC Epoch 1.5 Brings More Fixes \u0026 Improvements To System76's Desktop",
-    "link": "https://www.phoronix.com/news/COSMIC-Epoch-1.5-Released",
-    "description": "The System76 and Pop!_OS developers continue quickly iterating on their Rust-based COSMIC desktop environment...",
-    "guid": "https://www.phoronix.com/news/COSMIC-Epoch-1.5-Released",
-    "date": "Jul 30, 2026 00:21",
-    "published_at": "2026-07-30T00:21:55Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "[$] LWN.net Weekly Edition for July 30, 2026",
-    "link": "https://lwn.net/Articles/1084315/",
-    "description": "Inside this week's LWN.net Weekly Edition:\n        \n        \n Front: Hazard pointers; DFSG team; Swap devices; Netkit and BPF; BPF inlined functions; Fedora GRUB; gccrs.\n             Briefs: RIP Dan Williams; Debian LLM resolution; Fedora 45 process; Codeberg LLM policy; GCC LLM policy; GNU Binutils 2.47; GNU C Library 2.44; Wayfire 0.11; Quotes; ...\n             Announcements: Newsletters, conferences, security updates, patches, and more.\n            ",
-    "guid": "https://lwn.net/Articles/1084315/",
-    "date": "Jul 30, 2026 00:01",
-    "published_at": "2026-07-30T00:01:09Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "Who Wins and Who Loses After US Bans Foreign Robots?",
-    "link": "https://hardware.slashdot.org/story/26/07/29/2152220/who-wins-and-who-loses-after-us-bans-foreign-robots?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "The FCC's ban on Chinese-made robots extends well beyond humanoids to quadrupeds, research platforms, and many robot vacuums from allied countries. Supporters call it a major boost for domestic robotics, but critics warn that cutting researchers and startups off from affordable foreign hardware could slow U.S. innovation instead. Ars Technica's Jeremy Hsu examines who stands to gain and who stands to lose from the prohibition: Such an import ban would apply to some of the most affordable robots primarily produced by Chinese companies, including Unitree's humanoid robots that are used by robotics labs and researchers for tasks such as experimental robot surgeries. US consumers would also likely lose access to the newest robot vacuum cleaners that are mainly manufactured by Chinese companies such as Roborock. But the ban also broadly applies to foreign-made robots produced by countries nominally allied to the United States, including Japan, South Korea, and Germany. [...]\n \nThe ban on foreign-made robots could theoretically encourage more US and foreign companies to set up manufacturing facilities in the United States. There are already multiple companies racing to scale up production of humanoid robots in US factories, including Agility Robotics, 1X Technologies, and Figure AI. Tesla has been attempting to shift production away from older electric vehicle models and toward its Optimus humanoid robot. Boston Dynamics has already been making its Atlas humanoid robot, along with its four-legged Spot robot and wheeled Stretch robot, at its main facility in Waltham, Massachusetts. The US robotics company is also planning to massively scale up manufacturing of the Atlas robot under South Korea's Hyundai Motor Company, which gained full ownership of Boston Dynamics in July 2026.\n \n\"This is one of the strongest technology-security actions in modern US history,\" wrote Evan Beard, CEO of Standard Bots, in a LinkedIn post. \"The message is unambiguous: robotics is a technology America must lead and own -- and foreign-subsidized robots will not be allowed to unfairly dominate US robotics as they did solar.\" Similar praise came from Rush Doshi, director of the Initiative on China Strategy at the Council on Foreign Relations, who, in a social media post, described the FCC decision as \"one of the most significant actions taken so far in support of the US robotics ecosystem.\"\n \nHowever, several robotics researchers and analysts interviewed by The Robot Report expressed skepticism about any potential boost to US competitiveness in robotics. Some even warned that the ban could prove counterproductive for US robotics efforts to develop humanoid robots. \"In the near term, the measure could slow US physical AI innovation by cutting startups and researchers off from future low-cost Chinese platforms before comparable Western alternatives exist,\" said Georg Stieler, a global robotics advisor and managing director for Asia at Stieler Technology \u0026 Market Advisory, in an interview with The Robot Report.\n \nUS domestic production of robots lags behind China in terms of mass manufacturing at lower cost, said Rueben Scriven, a senior analyst at Interact Analysis. \"This announcement is more likely to inhibit the US humanoid robotics industry, as the presence of low-cost Chinese humanoid robots has been helping educate the US market through promotional and entertainment use cases -- an effect this policy risks undermining,\" Scriven told The Robot Report. The report notes that previous FCC bans have done little to help create competitive U.S. alternatives, with restrictions on Chinese drones instead prompting companies to sell barely disguised versions of DJI technology.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Jul 30, 2026 00:00",
-    "published_at": "2026-07-30T00:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "ASUS Laptop Whisper Mode Support Being Worked On For Linux",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366461",
-    "description": "ASUS laptops support a feature called \"Whisper Mode\" that intentionally slows down the fan speed and lowers the CPU clock speed in order to keep the device running cool and quiet. The open-source ASUS Armoury Linux kernel driver is now seeing patches to properly support this Whisper Mode on Linux...",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366461",
-    "date": "Jul 29, 2026 23:17",
-    "published_at": "2026-07-29T23:17:58Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Valve Sponsors Work Bringing Open-Source RADV Driver To Windows",
-    "link": "https://news.slashdot.org/story/26/07/29/2140215/valve-sponsors-work-bringing-open-source-radv-driver-to-windows?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Valve is funding Collabora's experimental effort to port the open-source RADV Vulkan driver from Linux to Windows. The team has already demonstrated Counter-Strike 2 running with RADV, but a stable interface or compatibility shim will be needed to handle undocumented driver changes. Phoronix reports: Louis-Francis Ratte-Boulianne put out a blog post highlighting their initial work on porting RADV to Windows. Besides working on Windows WDDM2 integration for Windows, a big challenge with porting RADV to Windows is on relying on the AMD Radeon Software Windows kernel driver.\n \nIt's out-of-scope of this current work for trying to port the AMDGPU Linux kernel graphics driver to Windows, so they are working on bringing RADV to Windows while relying on AMD's official Windows kernel driver. That in turn has led to reverse engineering and other steps for figuring out the proprietary kernel driver's data structures and other elements so RADV can be adapted to use it.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Jul 29, 2026 23:00",
-    "published_at": "2026-07-29T23:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Google Shuts Down Its Nobel-Prize Winning AlphaFold Project",
-    "link": "https://tech.slashdot.org/story/26/07/29/2053245/google-shuts-down-its-nobel-prize-winning-alphafold-project?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Google has dismantled the original AlphaFold team, according to Financial Times (paywalled), reassigning many researchers to Gemini and Isomorphic Labs. Several other key members, including Nobel laureate John Jumper, left for Anthropic. Engadget reports: AlphaFold is an AI program that can accurately predict three-dimensional structures of proteins from their amino acid sequences in minutes instead of years. It's now being used to accelerate drug discovery, develop vaccines and understand the structural changes in proteins associated with neurodegenerative diseases like Alzheimer's and Parkinson's.\n \nDeepMind started developing AlphaFold in 2018. In 2020, it was recognized as a solution to humanity's 50-year-old \"protein folding problem,\" which sought to answer how amino acids automatically fold into complex 3D shapes. Those shapes determine the biological role of a protein. Scientists had identified the structures of roughly 170,000 proteins over the past 50 years, using tools and techniques like X-ray and nuclear magnetic resonance. The AlphaFold team took information from those previous work and then fed it to their AI to train AlphaFold.\n \nIn 2021, Nature published the papers with AlphaFold's methodology and the structure predictions of the entire human proteome, or the complete set of proteins expressed by our species. DeepMind then launched the AlphaFold Protein Structure Database, giving researchers free access to over 200 million protein structure predictions. In 2024, DeepMind CEO Demis Hassabis and John Jumper, who was a staff research scientist when the project began and who eventually became a VP and engineering fellow, won the Nobel Prize in Chemistry for their work on AlphaFold.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Jul 29, 2026 22:00",
-    "published_at": "2026-07-29T22:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "DRM Format Modifiers For Old AMD GPUs Coming With Linux 7.3: Thanks Valve",
-    "link": "https://www.phoronix.com/news/Linux-7.3-AMDGPU-GFX6-Modifiers",
-    "description": "Sent out today was another week's worth of features and other code changes to the AMDGPU kernel graphics driver and AMDKFD kernel compute driver. We are nearing the cut-off of new feature material for next month's Linux 7.3 kernel but there is some nice feature work in store for this week...",
-    "guid": "https://www.phoronix.com/news/Linux-7.3-AMDGPU-GFX6-Modifiers",
-    "date": "Jul 29, 2026 20:47",
-    "published_at": "2026-07-29T20:47:11Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Vibe Coded X11 YSERVER Gets Steam Working, Full-Screen Games With Cinnamon",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366478",
-    "description": "A new software creation that debuted this summer was YSERVER as a modern X11 server written in Rust largely by AI via Claude Code. This YSERVER implementation has continued implementing more X11 protocol and other functionality to get more desktop environments and apps working surprisingly okay on this vibe coded X11 server. YSERVER 1.4 is now available as the latest in this quest...",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366478",
-    "date": "Jul 29, 2026 20:14",
-    "published_at": "2026-07-29T20:14:59Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Steam Client Adds HDR Streaming On Steam Deck OLED, AV1 Video Streaming",
-    "link": "https://www.phoronix.com/news/Steam-Beta-Video-Streaming",
-    "description": "Today's Steam client beta update brings some new game streaming enhancements for Linux gamers...",
-    "guid": "https://www.phoronix.com/news/Steam-Beta-Video-Streaming",
-    "date": "Jul 29, 2026 19:07",
-    "published_at": "2026-07-29T19:07:07Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "COSMIC 1.5 Desktop Environment Released with Various Improvements",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366482",
-    "description": "Linux hardware vendor System76 released COSMIC 1.5 today as the latest stable version of this open-source, free, and Rust-based graphical desktop environment for Linux-based operating systems.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366482",
-    "date": "Jul 29, 2026 18:43",
-    "published_at": "2026-07-29T18:43:29Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "[$] Debugging information for inlined functions",
-    "link": "https://lwn.net/Articles/1083985/",
-    "description": "\nBPF programs use\n\nBPF type format (BTF) debugging information in order to\ndetermine how to interact with functions in the kernel. Specifically, tracing a\nkernel function involves finding its address in the kernel's BTF section — but\nthat doesn't work for functions that have been inlined, and therefore don't have\na single, specific address. Alan Maguire wants to add information about inlined\nfunctions to BTF in order to allow them to be traced, and led a session on that\ntopic at the 2026\n\nLinux Storage, Filesystem, Memory-Management, and BPF Summit.\n",
-    "guid": "https://lwn.net/Articles/1083985/",
-    "date": "Jul 29, 2026 18:05",
-    "published_at": "2026-07-29T18:05:21Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "Espressif begins mass production of ESP32-S31 wireless RISC-V SoC",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366472",
-    "description": "Espressif has moved the ESP32-S31 into mass production, expanding its wireless microcontroller lineup with a dual-core RISC-V processor, Wi-Fi 6, Bluetooth 5.4, Bluetooth Classic, and IEEE 802.15.4 connectivity. The new SoC targets smart-home hubs, audio devices, industrial automation, edge AI systems, and other connected applications requiring higher processing and wireless performance. The ESP32-S31 combines two […]",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366472",
-    "date": "Jul 29, 2026 17:12",
-    "published_at": "2026-07-29T17:12:00Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Three stable kernels for Wednesday fix a single regression",
-    "link": "https://lwn.net/Articles/1086047/",
-    "description": "Greg Kroah-Hartman has announced the release of the 6.12.99, 6.6.146, and 6.1.179 stable kernels. This batch of\nstable kernels includes a single fix for a regression\ncaused by this\ncommit. Users of those kernels should upgrade.",
-    "guid": "https://lwn.net/Articles/1086047/",
-    "date": "Jul 29, 2026 17:00",
-    "published_at": "2026-07-29T17:00:36Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
   }
 ]
