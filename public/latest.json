@@ -1,5 +1,128 @@
 [
   {
+    "title": "Prominent Arch Linux Developer Resigns After 10 Year Run",
+    "link": "https://www.phoronix.com/news/Arch-Linux-Foxboron",
+    "description": "Arch Linux developer, security team member, AUR maintainer, and package maintainer Morten Linderud \"Foxboron\" announced today he is resigning from the project...",
+    "guid": "https://www.phoronix.com/news/Arch-Linux-Foxboron",
+    "date": "Aug 01, 2026 11:47",
+    "published_at": "2026-08-01T11:47:02Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Drones Offer Alternative to Balloons For Weather Research",
+    "link": "https://news.slashdot.org/story/26/07/31/239224/drones-offer-alternative-to-balloons-for-weather-research?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "The U.S. company Meteomatics has created an automated weather-monitoring system that uses drones to collect atmospheric data at multiple altitudes before returning to recharge and upload their findings. The so-called Meteobase, which consists of a base station on the ground with a drone that can be launched and recovered automatically, \"is highly weather resistant and keeps the drone at a comfortable temperature,\" reports The Guardian. \"It can send out one data-gathering mission a day, or multiple flights to monitor fog, icing, an advancing weather front, or other fast-changing conditions.\" The report says the reusable drones could offer a cheaper, more controllable alternative to helium weather balloons, especially for tracking rapidly changing conditions.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Aug 01, 2026 11:00",
+    "published_at": "2026-08-01T11:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Linux 7.2-rc6 Working Around Several Buggy Western Digital SATA Drives",
+    "link": "https://www.phoronix.com/news/Linux-7.2-rc6-ATA",
+    "description": "Merged ahead of tomorrow's Linux 7.2-rc6 kernel test release are several ATA fixes that include a number of device-specific workarounds for some Western Digital SATA drives that have been failing to work on recent versions of the Linux kernel...",
+    "guid": "https://www.phoronix.com/news/Linux-7.2-rc6-ATA",
+    "date": "Aug 01, 2026 10:49",
+    "published_at": "2026-08-01T10:49:22Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "GNOME Working To Establish An RFC Process, Battling Sloppy AI-Generated Extensions",
+    "link": "https://www.phoronix.com/news/GNOME-RFC-Process-AI-Extensions",
+    "description": "GNOME developers were quite busy in closing out the month of July from continued work on establishing a formal Request For Comments (RFC) process for the project to battling the continued flood of AI-generated GNOME Shell extensions...",
+    "guid": "https://www.phoronix.com/news/GNOME-RFC-Process-AI-Extensions",
+    "date": "Aug 01, 2026 10:34",
+    "published_at": "2026-08-01T10:34:00Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "KDE Plasma 6.8 To Enjoy Huge Performance Gains For Multi-GPU/eGPU Performance",
+    "link": "https://www.phoronix.com/news/KDE-Plasma-6.8-Faster-eGPU",
+    "description": "It's been a very exciting week in the KDE Plasma 6.8 development space particularly thanks to performance work on bettering KWin's multi-GPU / external GPU handling...",
+    "guid": "https://www.phoronix.com/news/KDE-Plasma-6.8-Faster-eGPU",
+    "date": "Aug 01, 2026 10:18",
+    "published_at": "2026-08-01T10:18:48Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Picolibc 1.8.12 Brings Latest Improvements To This Embedded-Focused C Library",
+    "link": "https://www.phoronix.com/news/Picolibc-1.8.12-Released",
+    "description": "If the recent release of the GNU C Library glibc 2.44 is too big for your embedded use-cases, Keith Packard continues hacking on Picolibc as his embedded-focused C library. Released overnight was Picolibc 1.8.12 with a variety of improvements for this embedded libc...",
+    "guid": "https://www.phoronix.com/news/Picolibc-1.8.12-Released",
+    "date": "Aug 01, 2026 10:00",
+    "published_at": "2026-08-01T10:00:52Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Drifting SpaceX Rocket Heading For Accidental Collision With the Moon",
+    "link": "https://science.slashdot.org/story/26/07/31/2253226/drifting-spacex-rocket-heading-for-accidental-collision-with-the-moon?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "\"Space.com and The Guardian are reporting that the Falcon 9 upper stage leftover from the launch of the Firefly Blue Ghost-1 lander on Jan. 15, 2025 is due to impact the Moon on Aug. 5, 2026,\" writes longtime Slashdot reader fahrbot-bot. From a report: Onboard the same flight was the Hakuto-R Mission 2, called Resilience, a robotic lunar lander developed by the Japanese company ispace. According to a new study by an international team, the resulting impact plume may briefly be bright enough to see against the dark sky near the moon's edge. That means it might be visible to moongazers with sufficiently sensitive telescopes. This head-on collision of the errant stage is expected to occur near the Einstein and Bell craters near the western lunar limb. It may well be visible to ground and space-based assets.\n \nUsing special physics simulations to model the impact, William Jo, a graduate research assistant at the University of Texas, Austin and colleagues predict the debris plume from the impact will have the central ejecta spike reaching roughly 47 miles to over 60 miles (75 kilometers to 100 kilometers) altitude. \"Our calculations suggest the plume should be several orders of magnitude brighter than the dark-sky background for the first few minutes after impact,\" Jo told Space.com. \"So the plume should be visible, though I'd stress this is a single nominal case. The real one will look different, and the numbers are on the optimistic side. But the point worth making is that the flash isn't really the story here.\" Jo emphasized that there's great slam-dunk science to be had. \"Watching this one gives us a rare chance to open up ejecta-plume science and calibrate those models against a real event, which matters for every future thing we deliver to the moon,\" Jo said.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Aug 01, 2026 07:00",
+    "published_at": "2026-08-01T07:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "GOG Officially Expands Linux Support with Native Galaxy Client in Development",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366521",
+    "description": "After years of requests from the Linux gaming community, GOG has officially confirmed that it is developing native Linux support for the GOG Galaxy launcher. The announcement marks one of the biggest shifts in the company's history and signals a stronger commitment to Linux as a first-class gaming platform. While GOG has offered DRM-free Linux game downloads since 2014, its Galaxy launcher has remained exclusive to Windows and macOS—until now.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366521",
+    "date": "Aug 01, 2026 06:47",
+    "published_at": "2026-08-01T06:47:53Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "GNU nano 9.2 Adds New Buffer Synonym and Fixes Crashes",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366525",
+    "description": "This update of the nano terminal editor brings crash fixes, key-binding restoration, and a small but useful option tweak.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366525",
+    "date": "Aug 01, 2026 03:44",
+    "published_at": "2026-08-01T03:44:54Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "OpenAI Finds Evidence Other AI Agents Escaped Containment",
+    "link": "https://it.slashdot.org/story/26/07/31/2246237/openai-finds-evidence-other-ai-agents-escaped-containment?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from Reuters: OpenAI has discovered other instances in which autonomous agents have escaped containment as the company expands its investigation of the hacking incident at tech firm Hugging Face that drew global attention this month, two people familiar with the matter said on Friday. The new breakouts were uncovered during the company's publicly announced investigation into how one of its agents escaped what was meant to be a contained testing environment this month, the two people said, and OpenAI is now looking into those instances as well. One of the sources said that the escapes were limited in nature and that none of the agents were thought to have left OpenAI's network.\n \nAn OpenAI spokesperson referred to a statement issued by the company on Tuesday that said it was reviewing \"broader activity from our models\" in addition to the Hugging Face intrusion. The discovery of additional rogue behavior at OpenAI, even if limited in nature, could feed growing appetite for regulation coming out of the White House and elsewhere. The expanded investigation by OpenAI was launched shortly before its primary rival, Anthropic, disclosed that its models were also responsible for a series of break-ins that led to breaches at three other companies dating back to April, according to the two sources and a third source familiar with the matter. The recent discovery of other past breakouts at OpenAI has not previously been reported.\n \nAI safety experts said the new disclosures paint a portrait of a group of cutting-edge labs whose ability to develop dangerous autonomous hacking agents outstrips their ability to keep them under control. \"We have a whole industry where the people designing, developing and putting out these tools aren't keeping up themselves to responsibly develop these things and keep them safe,\" said Maurice Chiodo, a mathematician who works at Cambridge University's Center for the Study of Existential Risk. Reuters could not establish exactly how many incidents OpenAI investigators found or the timings or circumstances under which they occurred. The three sources said OpenAI and outside experts were examining log data from earlier in the year in a bid to understand what took place.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Aug 01, 2026 03:30",
+    "published_at": "2026-08-01T03:30:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Shotcut 26.7 Video Editor Adds Graphics Adapter for Linux, Shake Video Filter",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366526",
+    "description": "Shotcut 26.7 has been released today as the latest stable version of this open-source, cross-platform, and free video editing software that introduces new features and improvements.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366526",
+    "date": "Aug 01, 2026 00:41",
+    "published_at": "2026-08-01T00:41:55Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "AMD Begins Posting Display Core Next 6 \"DCN6\" Linux Patches For RDNA5 GPUs",
+    "link": "https://www.phoronix.com/news/AMD-DCN6-Linux-Start",
+    "description": "AMD closed out the month of July by posting some new AMDGPU Display Core \"DC\" patches. Most notable with this weekly patch ritual is several patches beginning to establish the foundation for Display Core Next 6 \"DCN6\" as their next-generation display IP. The patches tie DCN6 to the AMD GFX13 graphics engine, which is anticipated to be for the next-generation RDNA5 graphics processors...",
+    "guid": "https://www.phoronix.com/news/AMD-DCN6-Linux-Start",
+    "date": "Aug 01, 2026 00:29",
+    "published_at": "2026-08-01T00:29:25Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
     "title": "Happy SysAdmin Day to the People Keeping the Internet Held Together",
     "link": "https://lxer.com/module/newswire/ext_link.php?rid=366518",
     "description": "Today marks the 27th annual SysAdmin Day, celebrating the people who keep servers alive, networks running, and users away from dangerous buttons.",
@@ -83,6 +206,16 @@
     "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
     "source": "slashdot.org",
     "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "AMD Posts Linux Patches For HDMI 2.1 Auto Low-Latency Mode \"ALLM\" \u0026 VRR",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366507",
+    "description": "Following AMD posting AMDGPU patches for HDMI 2.1 FRL support after the HDMI 2.1 open-source support was long blocked by the HDMI Forum, as part of working toward a complete HDMI 2.1 implementation in this AMD Linux driver it was followed by HDMI 2.1 Display Stream Compression (DSC) support. Now the latest on the AMDGPU HDMI 2.1 enabling path is enabling Auto Low-Latency Mode (ALLM) as well as HDMI Variable Rate Refresh!..",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366507",
+    "date": "Jul 31, 2026 18:56",
+    "published_at": "2026-07-31T18:56:04Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
   },
   {
     "title": "The First Open-Source Firmware Released For Modern AMD Ryzen AM5 Platform",
@@ -352,6 +485,16 @@
     "source_url": "https://lxer.com/"
   },
   {
+    "title": "There's Finally A New Game Powered By The Unigine 2 Engine",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366506",
+    "description": "It's been about a decade since seeing any new games released on the visually-impressive, Linux-friendly Unigine Engine. Unigine Corp has mostly been focusing on Unigine Engine usage for simulations and other professional applications, but coming as a surprise today is a new game being developed on their latest Unigine 2 engine technology...",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366506",
+    "date": "Jul 31, 2026 06:44",
+    "published_at": "2026-07-31T06:44:09Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
     "title": "Anthropic Says Its AI Systems Broke Into Computers at 3 Organizations",
     "link": "https://yro.slashdot.org/story/26/07/31/0451235/anthropic-says-its-ai-systems-broke-into-computers-at-3-organizations?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
     "description": "Anthropic found that Claude models breached three outside organizations during cybersecurity tests because misconfigured environments accidentally gave them access to the internet. The company notified those affected and urged other AI labs to audit their own testing systems. The BBC reports: Anthropic said in a statement that it reviewed more than 140,000 tests to find evidence that Claude - its family of AI models - could access the internet from testing environments that were designed to be sealed off. The tests include so-called \"capture-the-flag\" evaluations in which Claude was tasked with obtaining information by breaching other systems - a common way that experts assess a model's hacking capabilities.\n \nA \"misconfiguration\" on systems run by Anthropic and its testing partner left the models with live internet access, allowing them to breach other systems, the San Francisco-based firm said. Anthropic said the earliest incidents date back to April and that it is \"approaching the fixes as if the responsibility were ours alone.\" Neither Anthropic nor the organizations that were breached had noticed the intrusions at the time.\n \nAnthropic said it could have reviewed its records more thoroughly and added that the findings gave the firm \"cautious optimism\" that such risks can be overcome with more investment and tighter measures. \"The broader lesson is not necessarily that AI has developed a fundamentally new attack capability,\" cyber security expert David Allott told the BBC. \"Instead, it is that AI agents can combine capabilities, obtain credentials and system access to take actions autonomously, while adapting scope and scale at machine speed,\" he added. The announcement comes just days after OpenAI said that its models had breached the systems of other companies, including AI tools platform Hugging Face.\n\n\n\n\n\nRead more of this story at Slashdot.",
@@ -371,150 +514,5 @@
     "published_at": "2026-07-31T05:12:39Z",
     "source": "lxer.com",
     "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Flock Cameras Are Being Destroyed Across the US",
-    "link": "https://news.slashdot.org/story/26/07/30/2045213/flock-cameras-are-being-destroyed-across-the-us?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "An anonymous Slashdot reader writes: Surveillance cameras owned by Flock Safety have been cut down with electric saws in New York State, vandalized with paint in Oakland, California, and rammed with a truck in Idaho. Flock claims its services fight crime, but law enforcement agencies also use their services to track vehicles based on license plate numbers and reconstruct the their movements, even when the drivers and owners of these vehicles have never been accused or convicted of any crime. (Flock states it has 120,000 automated cameras that record license plate data, as well as pan-tilt-zoom cameras, across the United States.)\n \nA guerilla mindset among average citizens have seen these cameras forcibly disabled within recent weeks with sympathy directed toward the vigilantes. In June, a West Virginia man accused of destroying several Flock cameras was arrested. Under a Facebook post from the local NBC affiliate announcing his arrest are dozens of people volunteering to provide alibis. \"He was out fishing with me that day, you got the wrong guy,\" one man wrote.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Jul 31, 2026 03:30",
-    "published_at": "2026-07-31T03:30:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Fedora 45 Introduces a Minimal GRUB Package for Confidential VMs",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366498",
-    "description": "Fedora Linux 45 will introduce a separate, minimal GRUB package designed for confidential VMs, Unified Kernel Images, and predictable TPM measurements.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366498",
-    "date": "Jul 30, 2026 23:52",
-    "published_at": "2026-07-30T23:52:01Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "New MCP Specification Addresses the Main Barrier To Enterprise Adoption",
-    "link": "https://slashdot.org/story/26/07/30/2053239/new-mcp-specification-addresses-the-main-barrier-to-enterprise-adoption?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "An anonymous reader quotes a report from Ars Technica: This week, the Model Context Protocol (MCP), an open source standard for how AI systems interact with external tools and data sources, saw its largest update since its introduction. Most notably, MCP's protocol core is now stateless, so requests are no longer dependent on a session tied to an individual server instance. This change has the potential to address long-standing barriers to scalability.\n \nThe blog post announcing the specification, written by lead maintainers David Soria Parra and Den Delimarsky (who both work at Anthropic), says: \"The highlight of this release is a stateless protocol core -- MCP is transforming from a bidirectional stateful protocol into a request/response stateless protocol. It was one of the most highly-requested features from developers who were eager to get better reliability and scalability for their MCP servers.\"\n \n[...] There is also a new deprecation policy that ensures at least 12 months between when a feature's formal deprecation is enacted and when the feature may actually be removed -- with a narrow exception for critical security updates. This is again in keeping with the general \"let's make this work better at enterprise scale\" theme of the new specification. This update is \"MCP's most important since remote MCP first launched over a year ago,\" Soria Parra wrote. Other additions include \"Multi Round-Trip Requests, header-based routing, cacheable list results, authorization hardening, a formal extensions framework, and updated Tier 1 SDKs.\"\n \nA full list of changes can be found here.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Jul 30, 2026 23:00",
-    "published_at": "2026-07-30T23:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "GNOME 50.3 Enables Remote Desktop Hardware Acceleration for AMD GPUs",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366491",
-    "description": "GNOME 50.3 has landed as the third maintenance update to the latest GNOME 50 desktop environment series to fix more bugs across various core components and apps.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366491",
-    "date": "Jul 30, 2026 22:20",
-    "published_at": "2026-07-30T22:20:32Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "A Fundamental Flaw Leaves LLMs Strikingly Vulnerable To Attack",
-    "link": "https://slashdot.org/story/26/07/30/2037233/a-fundamental-flaw-leaves-llms-strikingly-vulnerable-to-attack?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "joshuark quotes a report from MIT Technology Review: It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning, a top AI conference, this month. The claim has huge implications for the safety of this technology. By taking advantage of this flaw, which concerns how LLMs identify who or what is giving them instructions, the researchers were able to make popular LLMs spit out information they had been trained not to provide, such as how to synthesize cocaine and how to sabotage a commercial aircraft's navigation system. \"There's a real probability that this is going to be a problem that's fundamentally unsolvable,\" says Charles Ye, an independent researcher and coauthor of the ICML paper. [...]\n \nThe ICML paper describes attacks against several of OpenAI's models, but Cui and Ye say that they have since seen similar results with models made by Anthropic, Alibaba, and DeepSeek. Cui and her colleagues wanted to find out why an attack like chain-of-thought forgery was so effective. They suspected it had something to do with the mechanism that LLMs use to keep track of where their instructions are coming from. But what Cui and her colleagues discovered is that LLMs are in fact very bad at keeping track of different roles.\n \nIn a series of experiments that looked at what was going on inside a handful of different models, the researchers found that LLMs seem to identify the role of a specific chunk of text not by the tags around it but by the style of that text and the words it contains. The upshot, the researchers claim, is that all an attacker needs to do to hack an LLM is write text that spoofs a certain role. And because roles are a fundamental part of how LLMs work, no amount of training will fully solve the problem. \"There's going to be a huge economic incentive for people to do jailbreaks and prompt injections,\" says Cui. The best defense could be to expect the worst. Organizations shouldn't trust LLMs, and they should expect that anything done by agents could be unsafe, he says: \"That's not a great solution, but it just might be what we have to do.\"\n \n\"It's really incredible that these things are being deployed everywhere to control super-critical systems. There's been no study of the fundamental science here. We're all doing it ad hoc.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Jul 30, 2026 22:00",
-    "published_at": "2026-07-30T22:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Linux 7.3 Will Treat Intel Nova Lake S Graphics As Stable",
-    "link": "https://www.phoronix.com/news/Linux-7.3-Intel-NVL-S-Stable",
-    "description": "Ahead of the next-generation Intel Nova Lake processors expected to begin rolling out around the start of 2027, the upcoming Linux 7.3 kernel cycle is going to begin treating Nova Lake S processors with their integrated graphics as stable...",
-    "guid": "https://www.phoronix.com/news/Linux-7.3-Intel-NVL-S-Stable",
-    "date": "Jul 30, 2026 21:10",
-    "published_at": "2026-07-30T21:10:00Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Microsoft's $450 Billion Jump Is Biggest In Stock Market History",
-    "link": "https://news.slashdot.org/story/26/07/30/2027238/microsofts-450-billion-jump-is-biggest-in-stock-market-history?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Microsoft shares surged as much as 17% after reporting 43% growth in Azure revenue, putting the company on track to add a record $490 billion in market value in a single day. Bloomberg notes that it \"would eclipse Nvidia's $440 billion addition, following President Donald Trump's announcement of a 90-day tariff pause last year, as the biggest ever.\" From the report: The nearly $500 billion jump is larger than the market capitalization of roughly 96% of S\u0026P 500 stocks, data compiled by Bloomberg show. It's also bigger than the combined value of the benchmark's 44 smallest members, which includes companies like Domino's Pizza Inc., Clorox Co. and Hasbro Inc.\n \nMicrosoft's one-day add in value also dwarfs many of the world's other equity markets. South Africa, Turkey, Finland and Vietnam all have total stock market values that are less than what the software maker is set to add on Thursday.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Jul 30, 2026 21:00",
-    "published_at": "2026-07-30T21:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Five Proposals Now Being Weighed For Debian AI/LLM Usage",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366493",
-    "description": "Last week Debian developers began considering a general resolution over AI large language model (LLM) usage within the Debian project. They are now up to weighing five different proposals for how to permit or block AI/LLM usage in the Debian space...",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366493",
-    "date": "Jul 30, 2026 20:49",
-    "published_at": "2026-07-30T20:49:02Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Announcing the next Fedora Community Architect",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366492",
-    "description": "Fedora is evolving its community leadership structure to better support its ongoing growth. The Red Hat Open Source \u0026 AI Program Office is splitting the current Fedora Community Architect role into two focused positions. Shaun McCance will step into the role of Fedora Community Architect, taking over key responsibilities like Fedora Council representation and financial stewardship, while Justin Wheeler transitions to a new focus on AI Alignment.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366492",
-    "date": "Jul 30, 2026 19:17",
-    "published_at": "2026-07-30T19:17:33Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "AMD Posts Linux Patches For HDMI 2.1 Auto Low-Latency Mode \"ALLM\" \u0026 VRR",
-    "link": "https://www.phoronix.com/news/AMDGPU-HDMI-2.1-ALLM",
-    "description": "Following AMD posting AMDGPU patches for HDMI 2.1 FRL support after the HDMI 2.1 open-source support was long blocked by the HDMI Forum, as part of working toward a complete HDMI 2.1 implementation in this AMD Linux driver it was followed by HDMI 2.1 Display Stream Compression (DSC) support. Now the latest on the AMDGPU HDMI 2.1 enabling path is enabling Auto Low-Latency Mode (ALLM) as well as HDMI Variable Rate Refresh!..",
-    "guid": "https://www.phoronix.com/news/AMDGPU-HDMI-2.1-ALLM",
-    "date": "Jul 30, 2026 18:36",
-    "published_at": "2026-07-30T18:36:07Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "AMD Zen 6 Client HSMP Patches Point To \"Ryzen Master\" Functionality On Linux",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366500",
-    "description": "In an interesting twist, patches this week posted to the Linux kernel mailing list are enabling AMD Zen 6 client desktop and laptop SoCs for the HSMP driver. Up to now the AMD HSMP Linux driver was just used for modern EPYC server processors while now we are seeing this HSMP driver supporting the upcoming Medusa and Olympic Ridge client platforms... Including mentions of overclocking and even noting \"Ryzen Master\" as the Windows-only software for overclocking and system management...",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366500",
-    "date": "Jul 30, 2026 17:46",
-    "published_at": "2026-07-30T17:46:03Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "There's Finally A New Game Powered By The Unigine 2 Engine",
-    "link": "https://www.phoronix.com/news/Unigine-Engine-3-Rideshare",
-    "description": "It's been about a decade since seeing any new games released on the visually-impressive, Linux-friendly Unigine Engine. Unigine Corp has mostly been focusing on Unigine Engine usage for simulations and other professional applications, but coming as a surprise today is a new game being developed on their latest Unigine 2 engine technology...",
-    "guid": "https://www.phoronix.com/news/Unigine-Engine-3-Rideshare",
-    "date": "Jul 30, 2026 17:30",
-    "published_at": "2026-07-30T17:30:00Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "OPI Abstraction v0.1 Published With Aiming To Standardize DPU/IPU Ecosystems",
-    "link": "https://www.phoronix.com/news/Open-Programmable-OPI-DPU-IPU",
-    "description": "The Linux Foundation hosted Open Programmable Infrastructure \"OPI\" announced its first coordinated release with OPI Abstraction v0.1. The work of the Open Programmable Infrastructure is hoping to standardize the data processing unit (DPU) and infrastructure processing unit (IPU) ecosystems...",
-    "guid": "https://www.phoronix.com/news/Open-Programmable-OPI-DPU-IPU",
-    "date": "Jul 30, 2026 17:05",
-    "published_at": "2026-07-30T17:05:56Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Keychron Built Open Source Firmware for Gaming Mice, and Linux Users Stand to Gain the Most",
-    "link": "https://feed.itsfoss.com/link/24361/17396525/keychron-zgm-mouse-firmware",
-    "description": "Built on Zephyr RTOS and licensed under GPL-3.0, the firmware is scheduled to ship first on the Keychron G6 HE next year.",
-    "guid": "6a6b09d0173d1c000148a0a5",
-    "date": "Jul 30, 2026 16:42",
-    "published_at": "2026-07-30T16:42:42Z",
-    "image": "https://itsfoss.com/content/images/2026/07/keychron-zgm-open-source-firmware-banner.png",
-    "source": "itsfoss.com",
-    "source_url": "https://itsfoss.com/"
   }
 ]
