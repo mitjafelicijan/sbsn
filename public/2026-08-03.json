@@ -1,5 +1,289 @@
 [
   {
+    "title": "AerynOS 2026.08 ISO Released with OpenZFS Support and systemd 261",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366567",
+    "description": "The new AerynOS installation image adds experimental OpenZFS data-drive support, systemd 261.2, and the latest repository changes.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366567",
+    "date": "Aug 03, 2026 12:53",
+    "published_at": "2026-08-03T12:53:20Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Linux 7.3 Expected To Drop The FreeVxFS File-System Driver",
+    "link": "https://www.phoronix.com/news/Linux-Retiring-FreeVxFS",
+    "description": "It looks like Linux 7.3 will end up dropping FreeVxFS as the read-only Linux kernel driver for the Veritas VxFS file-ssytem used formerly by HP-UX and SCO UnixWare...",
+    "guid": "https://www.phoronix.com/news/Linux-Retiring-FreeVxFS",
+    "date": "Aug 03, 2026 12:35",
+    "published_at": "2026-08-03T12:35:52Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Keychron announced \"ZGM\", open-source firmware for gaming mice",
+    "link": "https://www.gamingonlinux.com/2026/08/keychron-announced-zgm-open-source-firmware-for-gaming-mice/",
+    "description": "Coming sometime in Q1 2027, hardware vendor Keychron recently announced a new project to bring open-source firmwire to mice named ZGM — Zephyr Gaming Mouse.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/keychron-announced-zgm-open-source-firmware-for-gaming-mice/",
+    "date": "Aug 03, 2026 12:05",
+    "published_at": "2026-08-03T12:05:57Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1684304714id29482gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "For your next group session - failure is truly deadly in the mini-game game filled Machine Party",
+    "link": "https://www.gamingonlinux.com/2026/08/for-your-next-group-session-failure-is-truly-deadly-in-the-mini-game-game-filled-machine-party/",
+    "description": "Mario Party but for people who love high-stakes and brutal outcomes? Sign me up for Machine Party.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/for-your-next-group-session-failure-is-truly-deadly-in-the-mini-game-game-filled-machine-party/",
+    "date": "Aug 03, 2026 11:53",
+    "published_at": "2026-08-03T11:53:56Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1501891678id29481gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "TFC2: The Fertile Crescent 2 - Collapse of The Bronze Age RTS arrives August 18",
+    "link": "https://www.gamingonlinux.com/2026/08/tfc2-the-fertile-crescent-2-collapse-of-the-bronze-age-rts-arrives-august-18/",
+    "description": "TFC2: The Fertile Crescent 2 - Collapse of The Bronze Age is a very promising looking classic real-time strategy game that's set now to arrive on August 18th.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/tfc2-the-fertile-crescent-2-collapse-of-the-bronze-age-rts-arrives-august-18/",
+    "date": "Aug 03, 2026 11:43",
+    "published_at": "2026-08-03T11:43:55Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1818536641id29480gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "'AI's Decimation of Call Center Jobs Has Begun'",
+    "link": "https://it.slashdot.org/story/26/08/03/031248/ais-decimation-of-call-center-jobs-has-begun?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "\"AI's decimation of call center jobs has begun,\" reports Bloomberg:\n\n\nCompanies including the Commonwealth Bank of Australia, Microsoft Corp., Uber Technologies Inc. and Hyatt Hotels Corp. are using automated chat and phone systems to handle work that previously required humans. In some cases, they've already wiped out sizable chunks of their customer service operations, together representing thousands of workers. \n\n\nThe specter of automation has long loomed over the call center industry, which employs millions worldwide from the U,S, to India to the Philippines. But until recently, generative artificial intelligence wasn't good enough to move the needle. Now, AI advancements — and pressure on executives to show they're embracing the new technology — have prompted corporations to deploy the tools more widely. Customer service employment in the U.S. is declining and will likely continue to do so as more tasks are automated, Forrester analyst Kate Leggett wrote in a report earlier this year. While it's impossible to determine the future job losses, she estimated that almost half of customer service roles will be affected by 2030. \n\nGlobally, the steepest job cuts are expected to hit countries like the Philippines, where many Western companies have outsourced their most easily automated work. Salespeople at multiple tech companies told Bloomberg that they routinely pitch call center AI tools as a way of lowering labor costs, undercutting a common industry claim that AI is primarily a way to help workers become more productive rather than kill their jobs... Commonwealth Bank of Australia, the nation's largest lender, has shed hundreds of workers from its chat support line as it wove AI into the system, according to people familiar with the work. This amounted to tens of millions of dollars in savings per year, one of the people said... \n\nMicrosoft is both one of the largest vendors and adopters of customer service automation tools. This has helped the software giant trim its customer service workforce — a mix of contractors and full-time staff — from about 50,000 to 40,000 in recent years, according to a person familiar with the operations. \"If something happened with little Johnny's Xbox in the middle of the night, we can now solve that with AI,\" Judson Althoff, who runs Microsoft's sales and service operations, said in an interview. Althoff said in April that AI is saving the company about $750 million per year in customer service costs. More complex problems still require human support, but the company is constantly expanding what can be fixed automatically, he said in the interview. \n\nTwo examples from the article:\n\nLast year Hyatt fired 30% of its in-house customer support staff for the Americas, according the hotel-industry news site Hotel Dive.\n\nLast week Bloomberg reported Uber had cut 10% of its customer service jobs as part of effort to \"embrace artificial intelligence,\" according to the article. \"Today, Uber pushes users to submit support requests through their apps, where they're met with an AI chatbot.\"\n\n\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Aug 03, 2026 11:34",
+    "published_at": "2026-08-03T11:34:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "KGamma2 Makes For Easy Gamma Adjustments On KDE Plasma With Wayland",
+    "link": "https://www.phoronix.com/news/KDE-KGamma2-Gamma-Wayland",
+    "description": "KDE developer David Edmundson announced today his KGamma2 tool in aiming to address a pain point for KDE Plasma desktop users on Wayland...",
+    "guid": "https://www.phoronix.com/news/KDE-KGamma2-Gamma-Wayland",
+    "date": "Aug 03, 2026 10:58",
+    "published_at": "2026-08-03T10:58:00Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "GNOME Mutter 51 Beta Released With Wayland Background Blur, Improved Frame Scheduling",
+    "link": "https://www.phoronix.com/news/GNOME-Shell-Mutter-51-Beta",
+    "description": "Released overnight on Sunday were the beta versions of Mutter 51 and GNOME Shell 51. This follows GNOME 51 embarking on itsAPI/ABI freeze, feature freeze, and UI freeze a day earlier...",
+    "guid": "https://www.phoronix.com/news/GNOME-Shell-Mutter-51-Beta",
+    "date": "Aug 03, 2026 10:23",
+    "published_at": "2026-08-03T10:23:00Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "KDE Linux Making For Easier First-Run Experience Of Java \u0026 DOS Apps",
+    "link": "https://www.phoronix.com/news/KDE-Linux-July-2026",
+    "description": "With July all wrapped up, the monthly status report is now published for KDE Linux as the in-house Linux distribution featuring all of the latest KDE wares and other open-source innovations...",
+    "guid": "https://www.phoronix.com/news/KDE-Linux-July-2026",
+    "date": "Aug 03, 2026 09:56",
+    "published_at": "2026-08-03T09:56:12Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "According to Statcounter, Linux on the desktop crossed over 7% globally",
+    "link": "https://www.gamingonlinux.com/2026/08/according-to-statcounter-linux-on-the-desktop-crossed-over-7-percent-globally/",
+    "description": "Take it with your usual pinch of salt, but Statcounter is showing some impressive growth for the Linux desktop overall globally.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/according-to-statcounter-linux-on-the-desktop-crossed-over-7-percent-globally/",
+    "date": "Aug 03, 2026 09:54",
+    "published_at": "2026-08-03T09:54:49Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/125549723id29479gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Gentoo-Based MocaccinoOS 26.08 Is Out with COSMIC 1.5, KDE Plasma 6.6.6",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366549",
+    "description": "The development team behind the Gentoo-based, independently developed MocaccinoOS distribution informs 9to5Linux.com today about the release and general availability of MocaccinoOS 26.08.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366549",
+    "date": "Aug 03, 2026 09:50",
+    "published_at": "2026-08-03T09:50:21Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Linux 7.3 Adding Support For MCTP-Over-USB v1.1",
+    "link": "https://www.phoronix.com/news/Linux-7.3-MCTP-Over-USB-1.1",
+    "description": "Within the Linux networking subsystem's \"net-next\" Git branch there is now queued up support for MCTP-over-USB v1.1. This is the newest version of the standard for sending Management Component Transport Protocol (MCTP) packets over USB for tasks like crash dumps, logging, and firmware updates...",
+    "guid": "https://www.phoronix.com/news/Linux-7.3-MCTP-Over-USB-1.1",
+    "date": "Aug 03, 2026 09:47",
+    "published_at": "2026-08-03T09:47:40Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Linux 7.3 To Support Realtek RTL8261C \u0026 RTL8261D",
+    "link": "https://www.phoronix.com/news/Linux-7.3-RTL8261C-RTL8261D",
+    "description": "Queued into net-next ahead of the Linux 7.3 merge window is adding support for the Realtek RTL8261C and RTL8261D 10 Gigabit PHYs that launched last year...",
+    "guid": "https://www.phoronix.com/news/Linux-7.3-RTL8261C-RTL8261D",
+    "date": "Aug 03, 2026 09:35",
+    "published_at": "2026-08-03T09:35:55Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Get plenty of games by supporting the 'Game industry hardship fund'",
+    "link": "https://www.gamingonlinux.com/2026/08/get-plenty-of-games-by-supporting-the-game-industry-hardship-fund/",
+    "description": "There's a new bundle of games on itch.io 'Game industry hardship fund' that helps to support various game developers after losing jobs.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/get-plenty-of-games-by-supporting-the-game-industry-hardship-fund/",
+    "date": "Aug 03, 2026 09:23",
+    "published_at": "2026-08-03T09:23:49Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1350101779id29478gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Lepton and FEX get prepared for the Steam Frame release",
+    "link": "https://www.gamingonlinux.com/2026/08/lepton-and-fex-get-prepared-for-the-steam-frame-release/",
+    "description": "It should be \"soon\" now right? The almost mythical Steam Frame from Valve may end up releasing this week, with lots of back-end work being done.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/lepton-and-fex-get-prepared-for-the-steam-frame-release/",
+    "date": "Aug 03, 2026 09:06",
+    "published_at": "2026-08-03T09:06:37Z",
+    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/lepton_gol2_cd4f2f20.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Adventure game Thimbleweed Park 2 announced",
+    "link": "https://www.gamingonlinux.com/2026/08/adventure-game-thimbleweed-park-2-announced/",
+    "description": "While details on it are quite light as we've only got the first announcement of it coming, Thimbleweed Park 2 is real and coming sometime in 2028.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/adventure-game-thimbleweed-park-2-announced/",
+    "date": "Aug 03, 2026 08:43",
+    "published_at": "2026-08-03T08:43:37Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/425145866id29476gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "THE FINALS will be adding a new \"Elytra\" anti-cheat",
+    "link": "https://www.gamingonlinux.com/2026/08/the-finals-will-be-adding-a-new-elytra-anti-cheat/",
+    "description": "Embark have given an update in the ongoing fight against cheaters, with a new anti-cheat named Elytra to begin rolling out that's home-grown.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/the-finals-will-be-adding-a-new-elytra-anti-cheat/",
+    "date": "Aug 03, 2026 08:34",
+    "published_at": "2026-08-03T08:34:05Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/181208242id29475gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Arch Linux AUR hit with another wave of malware",
+    "link": "https://www.gamingonlinux.com/2026/08/arch-linux-aur-hit-with-another-wave-of-malware/",
+    "description": "After previously dealing with a big wave of malware in the Arch Linux AUR (Arch User Repository), another wave happened while I was off touching grass.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/arch-linux-aur-hit-with-another-wave-of-malware/",
+    "date": "Aug 03, 2026 08:24",
+    "published_at": "2026-08-03T08:24:55Z",
+    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/arch.png",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Anthropic’s Claude for OSS Program Adds Codenotary’s immudb",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366573",
+    "description": "Codenotary says Anthropic’s Claude for OSS program will help accelerate immudb development and improve code quality.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366573",
+    "date": "Aug 03, 2026 08:18",
+    "published_at": "2026-08-03T08:18:51Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Massive Debian 13 Linux Kernel Security Update Patches 68 Vulnerabilities",
+    "link": "https://linux.slashdot.org/story/26/08/03/0219205/massive-debian-13-linux-kernel-security-update-patches-68-vulnerabilities?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Slashdot reader prisoninmate shares this report from 9to5Linux:\n\nComing ten days after the previous Linux kernel security update, which only fixed 12 vulnerabilities that may lead to a privilege escalation, denial of service, or information leaks, the new Debian 13 Linux kernel security update is a massive one, and it patches no less than 68 security vulnerabilities in the Linux 6.12 LTS kernel. ebian 13 \"Trixie\" kernel security update are CVE-2026-64530, a use-after-free in the traffic-control subsystem leading to remote denial-of-service with potential for remote code execution, and CVE-2026-64531 (a.k.a. OVSwrap), a local-root vulnerability in the Open vSwitch datapath leading to local privilege escalation to root... \n\nAll Debian 13 \"Trixie\" users are urged to update their installations to Linux kernel 6.12.100-1 as soon as possible.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Aug 03, 2026 07:34",
+    "published_at": "2026-08-03T07:34:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "EU Age Verification Project Mandates Hardware-Bound Attestation",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366565",
+    "description": "The EU’s age verification project confirms hardware-bound attestation is mandatory, raising concerns over Linux, custom ROMs, and open-source access.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366565",
+    "date": "Aug 03, 2026 05:15",
+    "published_at": "2026-08-03T05:15:53Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Hollywood Fights AI In Public While Quietly Building It Into Movies",
+    "link": "https://entertainment.slashdot.org/story/26/08/03/0350223/hollywood-fights-ai-in-public-while-quietly-building-it-into-movies?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Even as Hollywood performers protest and Hollywood studios sue \"in their war on AI,\" reports the Los Angeles Times, \"the entertainment industry is deepening its dependence on it.\"\n\nAmong hundreds of job postings in late June, more than one in 10 was likely connected to AI. The top studios' public postings suggest they have been recruiting people to build AI tools. They are also recruiting teams to defend their intellectual property against unauthorized AI use. \"There are plenty of studios that are hiring [for AI] but never talk about it in public,\" said Yoland Yan, a co-founder of ComfyUI, a company that helps studios juggle different AI tools. Companies have been hesitant to detail how they use generative AI in film production — partly because they are concerned about consumer and union backlash. Some in Hollywood described AI use as the new cosmetic surgery, where everyone knows it is happening, but few will admit to it... \n\nAlthough some companies may be shy about sharing their AI plans, big stars who don't have to answer to others have been more open about their embrace of the new technology for storytelling. Rejecting AI is like picking a horse and buggy over a car, said \"Star Wars\" creator George Lucas. \"Artificial intelligence means it's much easier for us to make movies,\" he told a trade magazine earlier this year. \"There's nothing you can do about it. That's progress. It's the future.\" Some in Hollywood have a softer stance on artificial intelligence, with studios cutting deals with AI companies, and filmmakers like Martin Scorsese backing AI companies. Ben Affleck launched an AI film tech company then sold it to Netflix for half a billion dollars. When launching InterPositive, Affleck said he wanted to keep \"storytelling human\" by building AI tools that could fix lighting, generate missing shots and other things while \"keeping creative decisions in the hands of artists....\" \n\n\nDisney, Netflix and Amazon had job postings that were about using AI on the creative side of the business. Universal, Paramount, Warner Bros. and Sony had job ads suggesting they were also using AI but for marketing, distribution and audience analytics. The postings suggest the Disney, Netflix and Amazon studios are building repeatable AI workflows for visual effects, animation, sound and dubbing. The companies also seem to be building in-house teams to develop custom generative-AI models, while also using third-party software. \n\nNone of the jobs advertised were to create AI that wrote scripts or created AI actors.\n \nIronically, the Times used Claude Code to build a scraper to identify the job postings, their article acknowledges.\n\n\nThree Disney jobs were for \"content security,\" assessing AI tools and guarding against piracy, watermarking and rights-protection work. But Disney is also hiring PhD-level talent \"to study 'computer graphics and AI' for Pixar and Disney films,\" according to the article, and \"people to 'bridge the gap between research and practical studio application.'\" \nDisney-owned visual effects shops Industrial Light \u0026 Magic \"was searching for supervisors to 'explore emerging technologies (including AI/Machine Learning)' to develop new production workflows.\"\nAudio post-production unit Skywalker Sound \"seemed to be recruiting to build proprietary AI models for soundtracks, voice separation, and voice transfer, the process of taking a speaker's tone and pitch, and applying it to new content.\" \nAmazon \"was hiring a principal AI executive to drive AI-tool adoption across production, plus roles in operations automation and LLM content classification.\"\n\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Aug 03, 2026 05:05",
+    "published_at": "2026-08-03T05:05:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Mozilla Firefox 153.0.1 Web Browser Brings Fixes for Multiple Issues and Crashes",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366555",
+    "description": "Mozilla Firefox 153.0.1 has been released this week, shortly after Monday’s release of Mozilla Firefox 153, as a first point update that addresses several important bugs and issues.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366555",
+    "date": "Aug 03, 2026 03:44",
+    "published_at": "2026-08-03T03:44:23Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Linuxiac Weekly Wrap-Up: Week 31, 2026 (July 27 – August 2)",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366569",
+    "description": "Catch up on the latest Linux news: Arch Linux August ISO, COSMIC 1.5, Shotcut 26.7, Nano 9.2, Xen 4.22, Linux desktop market share surpasses 10% in North America, and more.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366569",
+    "date": "Aug 03, 2026 02:12",
+    "published_at": "2026-08-03T02:12:54Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Rogue Police Officers Have Turned Flock's Nationwide Camera Network Into a Stalking Tool",
+    "link": "https://yro.slashdot.org/story/26/08/03/023205/rogue-police-officers-have-turned-flocks-nationwide-camera-network-into-a-stalking-tool?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "A woman found her police officer ex-boyfriend cop had used Flock's camera system 600 times to look up the location of her and her daughter, reports the Washington Post (Alternate URL here). (She found out through Have I Been Flocked, described as \"a website that aggregates police search logs made available through public records.\") \n\nBut it turns out dozens more police officers have also misused Flock...\n\n\nAuthorities have charged or accused at least 50 law-enforcement officers of using license-plate readers for unauthorized purposes, including to stalk women without their knowledge or consent, a Post analysis of police and court records found. In 26 of these cases, police investigators and prosecutors said the officers used the technology to spy on their wives, their girlfriends, their exes, their exes' new partners or women they wanted to meet. In other cases, police or prosecutors have not specified the alleged surveillance targets. Flock's system was used in 46 of the cases analyzed by The Post, while the other cases involved competing products... \n\nAfter The Post relayed its findings to Flock, the company said in a statement it \"will soon be announcing better filters and tools to stop abuse before it happens....\" In April, the company rolled out a new voluntary \"audit assistance\" feature, which agencies can choose to enable, that automatically scans officers' searches for suspicious activity, such as queries repeatedly targeting the same vehicle or run by officers off the clock. In an interview with The Post, Flock chief executive Garrett Langley said misuse of its systems is inevitable and that the company is focused on providing tools to catch perpetrators after the fact... \"We're not going to change humans, and humans make bad decisions,\" Langley said. \"What we can do is make sure that they know if you use this tool, you will be held accountable....\" \n\n\n\nThrough automated license-plate reader systems, or ALPRs, officers could trace the rhythms and travels of their subjects' daily lives, leading in some instances to violent confrontations, moments of psychological manipulation, and threats of coercion and control, the analysis found. \n\n- In Wisconsin, a police officer allegedly used Flock to check whether his ex-girlfriend had gone to an abortion clinic, according to a police affidavit for a case set for trial this month. \n- In Kansas, a police chief who tracked his ex through Flock sneaked up on her while she was intimate with another man, a state police certification body alleged, leading to his firing. \n- In Florida, a deputy speeding to stop a young actress he'd added to a watch list for a license-plate tool called Guardian nearly caused a head-on crash, according to a police report and video from his dashboard camera. The deputy was arrested in March, and his attorney declined to comment. \n\n- And in California, prosecutors said a former deputy, Alexander Vanny, used Flock as part of a months-long campaign of \"stalking\" and \"humiliating\" his former fiancée that also involved following her around town and installing a hidden camera in her roommate's bathroom, according to a sentencing brief... \n\nWhile some of the searches resulted in officers' firings, prosecutions and prison sentences, police departments in other cases allowed officers to continue using the systems even after receiving warnings that they were being misused... An array of privacy advocates has argued that Flock could deter bad actors by making simple changes to its product, such as requiring officers to label every search with a criminal case number. Some policing experts also warned that agencies' inconsistencies in developing and enforcing standard procedures for license-plate readers could lead to further misconduct. With no federal laws governing use and only a patchwork of state laws, many of the country's roughly 18,000 police agencies are left to decide their rules on their own... \n\nLangley, Flock's chief, has dismissed pushes by activists for the company to further limit how officers use its product.\n\"No one elected me the police chief of America,\" he told Forbes last year, adding, \"I don't think it's our job to police the police.\" \n\nThe Post also got this quote from an officer was fired and sentenced to probation after pleading no contest to charges of computer-system misuse, stalking and battery. \"Pretty much everybody uses that computer system\" improperly in the department, he said, and \"they don't audit it [nearly] as much as they should.\" \n\n\n\nFlock told The Post it now has over 120,000 cameras in more than 6,000 communities, recording 20 billion license plate scans every month.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Aug 03, 2026 02:05",
+    "published_at": "2026-08-03T02:05:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "GOG Officially Expands Linux Support With Native Galaxy Client In Development",
+    "link": "https://linux.slashdot.org/story/26/08/02/2019202/gog-officially-expands-linux-support-with-native-galaxy-client-in-development?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Long-time Slashdot reader pyroclast shared this report from Linux Journal:\n\nAfter years of requests from the Linux gaming community, GOG has officially confirmed that it is developing native Linux support for the GOG Galaxy launcher. The announcement marks one of the biggest shifts in the company's history and signals a stronger commitment to Linux as a first-class gaming platform. While GOG has offered DRM-free Linux game downloads since 2014, its Galaxy launcher has remained exclusive to Windows and macOS — until now. Although the company has not announced a release date, GOG says Linux has become a major area of investment, with development already underway... \n\nUnlike the web-based game downloads that Linux users already have access to, GOG Galaxy serves as a full-featured game management application. The launcher currently offers features including: \n — Automatic game installation and updates\n — Cloud save synchronization\n — Achievement tracking\n — Playtime statistics\n — Game library organization\n — Integrated storefront browsing\n — Friends lists and social features\n — Cross-platform launcher integration \nToday, Linux users typically access these capabilities through community projects such as Heroic Games Launcher, Lutris, or Bottles. A native Galaxy client would provide an officially supported alternative with direct integration into GOG's ecosystem... \n\nFor GOG, supporting Linux more fully aligns with its philosophy of giving users greater control over their purchased games.\n\n \n\nThe article argues this news shows Linux growing in importance for game publishers. After the rapid adoption of Valve's Steam Deck, there's also been continuous improvements to Proton and Vulkan, increasing hardware compatibility, and native Linux game development efforts. \n\n\"As more companies recognize the platform's growth, Linux users can expect broader support from game publishers and software developers alike.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Aug 03, 2026 00:35",
+    "published_at": "2026-08-03T00:35:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "AerynOS Issues First Development Update \u0026 New ISOs In Three Months",
+    "link": "https://www.phoronix.com/news/AerynOS-Big-Update-2026",
+    "description": "It's been just over three months since the last AerynOS development update and new ISO spin but fortunately that's been succeeded today by a new development update and ISO images. AerynOS development remains strong and ongoing with many changes to be found in this latest from-scratch Linux distribution release...",
+    "guid": "https://www.phoronix.com/news/AerynOS-Big-Update-2026",
+    "date": "Aug 03, 2026 00:23",
+    "published_at": "2026-08-03T00:23:32Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
     "title": "Kernel prepatch 7.2-rc6",
     "link": "https://lwn.net/Articles/1086727/",
     "description": "The 7.2-rc6 kernel prepatch is out for\ntesting.  Quoth Linus: \"Hmm. This rc is huge.  Even by the \"new normal\"\nstandards this is a big rc, and I think it's the biggest rc6 we've had in\nyears at least by commit count.\"  There were 537 non-merge commits\napplied between 7.2-rc5 and 7.2-rc6.",
@@ -20,8 +304,8 @@
     "source_url": "https://www.phoronix.com/"
   },
   {
-    "title": "IT Teams Report 11 Hour a Week on Cloud Connectivity Problems",
-    "link": "https://it.slashdot.org/story/26/08/02/2331237/it-teams-report-11-hour-a-week-on-cloud-connectivity-problems?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "title": "IT Teams are Spending 11 Hours a Week on Cloud Connectivity Problems",
+    "link": "https://it.slashdot.org/story/26/08/02/2331237/it-teams-are-spending-11-hours-a-week-on-cloud-connectivity-problems?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
     "description": "Researchers found enterprises are spending time troubleshooting cloud connectivity due to increased AI workloads, reports Computer Weekly. More than 400 IT and infrastructure decision-makers (US and UK) were surveyed for internet/cloud/AI exchange operator DE-CIX by market researchers Censuswide. But despite 96% of respondents claiming their enterprise networks are ready for cloud/AI loads, the average IT team still spends more than 11 hours each week resolving cloud connectivity problems\n\n\nOther leading concerns included downtime or reliability issues (26%), latency or slow performance (28%), and security vulnerabilities/DDoS attacks (27%). Cost of connectivity, staff expertise and lack of visibility/control over data flows were also cited as major challenges... As a result, as indicated in the study, many businesses are now turning to private interconnection, which enables enterprises to connect directly to cloud providers over dedicated infrastructure rather than routing traffic across the public Internet. Designed to deliver lower latency, greater resilience, enhanced security and more predictable performance, private interconnection has become an increasingly important way of supporting modern cloud and AI workloads. Specifically, the data showed that 61% of companies are already using private connectivity to clouds, while another 31% are actively considering it... [And 71% of enterprises with 1000 or more employees] \n\nOnly 8.62% of the smaller companies were spending 21 to 40 hours per week dealing with connectivity issues, while just 2.53% of the largest companies in the sample do. Summing up these findings, DE-CIX said that together they suggest direct interconnection is rapidly becoming a core component of enterprise cloud and AI infrastructure and a competitive advantage for companies, though optimising interconnection strategies clearly remains a pressing challenge for small and medium-sized enterprises... \"Every AI application depends on data moving quickly, securely and predictably between users, clouds and AI infrastructure. Our research suggests that far too many enterprises are still spending valuable time trying to maintain that kind of connectivity, with more than a third spending between 11 and 20 hours per week, and just under one in 10 spending between 21 to 40 hours per week. This confirms what we already knew — that that network architecture can make or break AI adoption.\"\n \n\nElsewhere The Register reports that cloud infrastructure services \"grew at their fastest for eight years during the second quarter of 2026, thanks to the AI craze and continued demand for flexible and scalable IT infrastructure.\"\n\nAccording to the latest figures from Synergy Research, enterprise spending on cloud infrastructure passed $143 billion in Q2, a year-on-year growth rate of 43 percent. This followed 11 successive quarters of increasing growth rates, during which the market has now doubled in size... \"AI has, of course, driven most of that incremental growth, and we now see year-on-year growth rates of 165 percent for AI-specific cloud services....\" And the top three global players continue to dominate the market, with Amazon Web Services (AWS), Microsoft Azure and Google Cloud together accounting for 67 percent of all the cloud revenue during the quarter. That percentage has increased since the third quarter of last year, when the triumvirate made up 63 percent of enterprise cloud infra spending.\n\n\n\n\n\n\n\nRead more of this story at Slashdot.",
     "guid": "",
     "date": "Aug 02, 2026 23:35",
@@ -71,6 +355,17 @@
     "published_at": "2026-08-02T20:28:04Z",
     "source": "lxer.com",
     "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Steam On Linux Use Back Above 4% In July",
+    "link": "https://linux.slashdot.org/story/26/08/02/0635256/steam-on-linux-use-back-above-4-in-july?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Valve just published the Steam Survey results for July 2026, reports Phoronix, \"and they point to a small uptick in Linux gaming use.\"\n\n\n\nBack in March Steam on Linux hit a record high of 5.33%, dropped to 4.52% in April, landed at 3.99% in May, and then in June was at 3.69%. The just-published numbers for July put Steam on Linux use at 4.01%, as an improvement over the prior two months but still well off the percentage highs of March and April... \n\nThe July data puts SteamOS Holo as powering around 22% of Steam on Linux gaming systems. That's also with the Steam Machine now shipping, in addition to the Steam Deck.\n\n\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Aug 02, 2026 19:34",
+    "published_at": "2026-08-02T19:34:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
   },
   {
     "title": "First Arch Linux ISO Powered by Linux Kernel 7.1 Is Now Available for Download",
@@ -134,6 +429,16 @@
     "published_at": "2026-08-02T14:32:25Z",
     "source": "phoronix.com",
     "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "NetBSD 11.0 Brings RISC-V Support, Linux Compatibility Improvements",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366552",
+    "description": "The nineteenth major NetBSD release adds 64-bit RISC-V support, more Linux-compatible system calls, and numerous new device drivers.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366552",
+    "date": "Aug 02, 2026 14:22",
+    "published_at": "2026-08-02T14:22:06Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
   },
   {
     "title": "Linux Desktop Market Share Surpasses 10% in North America",
@@ -258,130 +563,5 @@
     "published_at": "2026-08-02T06:44:38Z",
     "source": "lxer.com",
     "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "How 'Situational Awareness' Hedge Fund Dropped 67% in AI Stock Rout",
-    "link": "https://slashdot.org/story/26/08/02/0359246/how-situational-awareness-hedge-fund-dropped-67-in-ai-stock-rout?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "CNN tells the unfortunate tale of hedge fund Situational Awareness, \"founded in 2024 by German-born Leopold Aschenbrenner when he was in his early 20s.\"\n\n Aschenbrenner, a former OpenAI employee, founded the hedge fund on the premise that \"AI will be the dominant driver of global market returns over the next decade,\" according to the firm's site... Aschenbrenner managed to turn hundreds of millions of dollars into tens of billions of dollars over the course of roughly two years... That streak ended on Thursday, though, when the fund was forced to sell the bulk of its public holdings to a bigger rival after many of its investments went south. \n\nBut that's only part of the story. The fund employed a risky strategy of borrowing money to purchase stocks. When the investments appreciate, the payoff can be massive. But when the investments sour, the losses can be catastrophic. The downturn in AI stocks over the course of this month, like chip makers and cloud computing providers, hit the hedge fund extra hard. It was forced to sell off many investments at a steep discount to rival hedge fund Citadel in what Aschenbrenner reportedly compared to a \"bank run\" in a letter to investors. \n\n\"Critics pointed out that Aschenbrenner had no experience running money prior to launching his fund in July 2024, calling him more lucky than smart,\" writes CNBC:\n\nSome noted that his early work experience was at the doomed crypto firm FTX, where he helped now-disgraced founder Sam Bankman-Fried run a charity out of a Bahamas penthouse. Others on Wall Street, including former traders at global investment banks, noted that in light of reports Situational Awareness used as much as 400% leverage, the collapse wasn't shocking. \n\n The Wall Street Journal reports that Situational Awareness \"also used options to amplify its returns. That meant that even small declines in individual names could have big impacts on Situational's portfolio.\" \n\nAnd so, as the New York Post put it, \"The celebrated crystal ball of the 'Nostradamus of AI' hasn't merely gone cloudy — it has rolled off the table and shattered on the parlor floor.\"\nWall Street breathed a huge sigh of relief last week as an AI-focused hedge fund called Situational Awareness reportedly sold most of its portfolio — reportedly down 67% last month on the backfiring of debt-fueled bets on chipmakers and assorted artificial-intelligence firms — to billionaire Ken Griffin's Citadel... \nThe prevailing sentiment was best summed up by a veteran Wall Street sage who has seen a lot of flameouts in his day. Let's just say he wasn't impressed by Leopold Aschenbrenner, the 25-year-old German-born \"Nostradamus\" figure who is the founder of Situational Awareness... \"Just your typical leveraged idiot who was right until he was wrong,\" the source said, adding that the implosion is a \"one-off....\" \n\n\n\n[Another trusted source] felt there was room for conversation: \"A significant issue. Not viewed as systemic right now. I wonder if that changes as more problems arise.\" Indeed, the fact is that most of Wall Street is closely monitoring the Situational Awareness situation because they were holding many of the same positions as Aschenbrenner. Another top hedge fund manager I won't name tells me he has been getting crushed on similar investments in chipmakers essential to the AI supply chain, as well as other companies feeding off this technology. \n\nThanks to Slashdot reader joshuark for sharing the news.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Aug 02, 2026 04:45",
-    "published_at": "2026-08-02T04:45:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "New Debian 13 “Trixie” Kernel Security Update Fixes 68 Vulnerabilities",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366556",
-    "description": "The Debian Project released a new Linux kernel security update on July 31st, 2026, for its Debian 13 “Trixie” stable operating system series to address 68 security vulnerabilities.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366556",
-    "date": "Aug 02, 2026 03:41",
-    "published_at": "2026-08-02T03:41:39Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Recovery Seeds Reportedly Breached for Coldcard Hardware Bitcoin Wallets, $75M Taken",
-    "link": "https://it.slashdot.org/story/26/08/02/0145226/recovery-seeds-reportedly-breached-for-coldcard-hardware-bitcoin-wallets-75m-taken?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "\"A hardware wallet is supposed to be the safest place to keep Bitcoin,\" writes The Street, since it never connects to the internet, its keys never leave the device, and \"the whole point is that an attacker would need to physically hold it to steal anything.\" \n\nThe problem is that anyone who can reproduce the recovery seed doesn't need to possess the COLDCARD, Nerds.xyz points out. More from The Street:\n\n[The recovery seed] is supposed to come from a hardware random number generator producing 128 bits of entropy, a number so large that guessing it is computationally impossible. It wasn't. According to Block's engineering team a single code change on March 1, 2021 caused the firmware to silently fall back to a software-based generator instead of the hardware one. On Mk3 devices the effective search space collapsed to roughly 40 bits. Coinkite has confirmed that figure and called it preliminary. The gap between 128 bits and 40 bits is not a matter of degree. It is the difference between a lock that cannot be picked and one that can be brute-forced by anyone with rented cloud computing.... \n\nChainalysis found the attacker went after the largest balances first, pulling more than $30 million in the opening ten minutes. Within about 25 minutes, roughly 594 BTC had moved out of some 500 single-signature wallets. One victim lost around $1.8 million... Coinkite has shipped fixed firmware, but with a warning that matters more than the patch itself. Updating does not repair an existing seed. A seed created with weak entropy stays weak forever. Affected users have to generate an entirely new wallet on updated hardware and move their coins to it. \nBy Saturday morning Galaxy research was tracking 1,158.66 BTC, worth roughly $75.1 million, taken from 2,673 addresses, according to the article. And \"The Coldcard exploit is ONGOING,\" Galaxy Research posted an hour ago on X.com. \"Move Coldcard single-sig funds to safe locations immediately!\"\n\n\nWe have reported ~600 addresses we believe to be hackers holding funds stolen from Coldcard-generated weak entropy addresses to federal investigators, industry compliance firms, and cross-industry cyber investigators.\n \n\nThanks to Slashdot reader BrianFagioli for sharing the news.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Aug 02, 2026 01:48",
-    "published_at": "2026-08-02T01:48:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Steam On Linux Use Back Above 4% In July",
-    "link": "https://www.phoronix.com/news/Steam-On-Linux-July-2026",
-    "description": "Valve just published the Steam Survey results for July 2026 and point to a small uptick in Linux gaming use...",
-    "guid": "https://www.phoronix.com/news/Steam-On-Linux-July-2026",
-    "date": "Aug 02, 2026 00:25",
-    "published_at": "2026-08-02T00:25:24Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Is Big Tech's AI Gamble Starting to Look Riskier?",
-    "link": "https://slashdot.org/story/26/08/01/0340236/is-big-techs-ai-gamble-starting-to-look-riskier?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "The Washington Post looks at giant tech companies \"feeding every available dollar into the cash-incinerating maw of AI machines.\" They warn \"Tech superstars that once had oodles of cash left over at the end of each year are now flipping into the red...\"\n\n\n\n\n[While optimists expect] huge corporate profits and a society-wide boost to wealth and well-being...\nquestions about that AI vision are now growing more urgent: When, if ever, will this payoff arrive? And what will the fallout be for Americans if the titanic investment doesn't quickly deliver? \"This AI thing better work out because if it doesn't ... we're going to have a problem,\" said Torsten Slok, chief economist at investment firm Apollo Global Management. AI costs and doubts are spreading. The U.S. stock market has swooned this summer over fear of the AI bubble going bust... \n\n\nThe AI gamble sweeping up American fortunes is led by tech companies splurging on hulking data centers packed with computer chips and equipment needed to develop sophisticated AI models and deliver them to customers. In investor calls in the past week, Google, Microsoft, Meta and Amazon pointed to soaring AI-related sales and business deals. Advertisers are using the technology to tailor marketing pitches and corporations and start-ups are buying access to chatbots and other AI software to boost productivity... But this spending can only continue if AI generates an even larger avalanche of new revenue to pay for it all. Financial results released over the past week show that the AI titans' mammoth costs are largely swamping the sales boost from the technology. At Google, for every dollar of cash its business generated in the past three months, $1.15 went out the door to pay for AI computer chips and equipment, land for AI data centers and other big-ticket purchases. The company is covering the difference partly by borrowing money and selling more of its stock. Next year, five leading AI companies — Google, Amazon, Microsoft, Meta and Oracle — are projected to have negative free cash flow, which measures the cash left over after paying expenses and AI infrastructure costs. The figures, based on investment analyst projections compiled by S\u0026P Global Market Intelligence, show a stunning reversal for what have been some of the world's most cash-generating corporations... \n\nThe companies remain profitable by standard financial accounting measures that spread out the costs of their AI infrastructure spending over many years... Pessimists see a bet so gargantuan that it cannot possibly pay off. The pessimists are growing louder. The Bank for International Settlements, a typically measured institution in Switzerland that advises government bankers around the world, recently warned there was risk of \"economy-wide recessions\" if the AI boom falters. That could mean pain for workers and communities across the United States. \"I'm not saying AI is going to go away, it's just not clear to me these guys are going to make money on it,\" said Christopher Wood, global head of equity strategy at investment bank Jefferies who has correctly predictedpast financial bubbles.\n\n\n\n\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Aug 02, 2026 00:12",
-    "published_at": "2026-08-02T00:12:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Synex 13 u11 Released With Multiple Desktop Options",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366550",
-    "description": "The Argentinian Linux distribution continues its minimalist approach with updated packages, new COSMIC changes, and support for multiple desktop environments.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366550",
-    "date": "Aug 01, 2026 23:07",
-    "published_at": "2026-08-01T23:07:21Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "150-Game Discount Bundle Raises $57,000 for Videogame Workers 'Hardship Fund'",
-    "link": "https://games.slashdot.org/story/26/08/01/2240259/150-game-discount-bundle-raises-57000-for-videogame-workers-hardship-fund?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "\"An itch.io game bundle put together by Necrosoft Games and The United Videogame Workers-CWA union is a new way gamers can show their support for developers who have been let go amidst the ongoing video game industry labor crisis,\" writes Kotaku. \n\nLaunched Thursday, it's already raised $57,859 from 3,984 contributors. (Average contribution size: $14.52)\n\nThe bundle is pay-what-you-want with a minimum purchase price of $10, offering DRM-free PC versions of games including A Short Hike, SkateBIRD, and my favorite game in the pack, Arranger: A Role-Puzzling Adventure ... The bundle will be available through August 13. \n\nThe gaming blog Rock Paper Shotgun shares more details, starting with this quote from the bundle's page on itch.io:\n\n\"Reports say 33% of the industry lost their jobs in the last two years, and the jobs they could fill are disappearing as CEOs try to replace them with AI. It's hard for companies to adjust to the new shape of the game industry, but even harder for the people they should be employing... To address this in some small way, we have created a bundle with almost 150 games. The proceeds of this bundle will go toward a hardship fund for those experiencing layoffs.\" \n\nGames industry workers currently out of work or under-employed can apply to this fund, which is distributed by the United Videogame Workers, to help out with basic necessities like food and rent. As a note, this is only available to US and Canada-based devs, but there's an FAQ explaining who can apply for the fund.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Aug 01, 2026 22:42",
-    "published_at": "2026-08-01T22:42:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "NASA's Curiosity Mars Rover Discovers a Field of Honeycomb Textures",
-    "link": "https://science.slashdot.org/story/26/08/01/2136251/nasas-curiosity-mars-rover-discovers-a-field-of-honeycomb-textures?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "NASA's Curiosity rover has sent back images of honeycomb-like textures called polygonal fractures, each one about 1.5 to 3 inches (4 to 8 centimeters) across. NASA reports:\n\nThe mission has spotted small patches of these geometric shapes several times before, but nothing at the scale discovered in Valle Grande. In a 360-degree panorama that the rover captured on June 19 and 20, the 4,930th and 4,931st Martian days, or sols, of the mission, the polygonal shapes spread in all directions for as far as the rover can see... \"[T]his sea of polygons took our breath away,\" said the mission's project scientist, Ashwin Vasavada of NASA's Jet Propulsion Laboratory in Southern California... Some of the polygons that the mission has spotted in the past clearly formed as mud cracks, though a variety of processes can contribute to their honeycomb textures, including cycles of warm and cold temperatures or compression that squeezed water out of the sediment when the surface was buried. \n\nThese newly discovered polygons are among the many surprises Curiosity has trundled across since landing on Mars 14 years ago, on Aug. 5, 2012. Besides sulfur crystals, shiny meteorites, and other interesting geologic features, the rover has made major discoveries about the ancient Martian environment — most importantly, that it had the water, chemistry, and nutrients to support microbial life. \n\nBillions of years ago, lakes and streams dappled the lower foothills of Mount Sharp, a 3-mile-tall (5-kilometer-tall) mountain that Curiosity has been ascending since 2014. The rover has previously uncovered chemistry left over from Mars' watery history, including carbon-based molecules believed to be precursors to RNA and DNA, two nucleic acids that carry genetic information. Scientists have no way of knowing whether these organic molecules were created by biologic or geologic processes — either path is possible — but their discovery reconfirmed that ancient Mars had the right chemistry to support life.\n \nDark, pebble-sized rocks also litter the area, NASA writes in a blog post, saying it's a \"still-to-be-resolved question\" as to whether they're bits of Mars that \"floated\" down from higher in the sediment layers, or \"were ejected from distant impacts outside of Gale crater, or are meteorites from beyond Mars altogether.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Aug 01, 2026 21:39",
-    "published_at": "2026-08-01T21:39:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Incus 7.3 Released with Shared GPU Acceleration and 13 Security Fixes",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366534",
-    "description": "Incus 7.3 introduces shared 3D GPU acceleration for Linux virtual machines, easier port forwarding, UEFI NVRAM management, and fixes for 13 security vulnerabilities.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366534",
-    "date": "Aug 01, 2026 20:31",
-    "published_at": "2026-08-01T20:31:18Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Picolibc 1.8.12 Brings Latest Improvements To This Embedded-Focused C Library",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366536",
-    "description": "If the recent release of the GNU C Library glibc 2.44 is too big for your embedded use-cases, Keith Packard continues hacking on Picolibc as his embedded-focused C library. Released overnight was Picolibc 1.8.12 with a variety of improvements for this embedded libc...",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366536",
-    "date": "Aug 01, 2026 18:59",
-    "published_at": "2026-08-01T18:59:49Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "AerynOS Gets Linux Kernel 7.1.5, COSMIC 1.5, and Mesa 26.1.6",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366530",
-    "description": "AerynOS rolls out a new unstable update featuring Linux kernel 7.1.5, COSMIC Desktop 1.5.0, Mesa 26.1.6, systemd 260.4, and more.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366530",
-    "date": "Aug 01, 2026 17:28",
-    "published_at": "2026-08-01T17:28:19Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "NetBSD 11.0 Released With RISC-V Support, Enhanced Linux System Call Compatibility",
-    "link": "https://www.phoronix.com/news/NetBSD-11.0",
-    "description": "NetBSD 11.0 officially shipped today as the nineteenth major release of this popular BSD operating system...",
-    "guid": "https://www.phoronix.com/news/NetBSD-11.0",
-    "date": "Aug 01, 2026 16:49",
-    "published_at": "2026-08-01T16:49:21Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
   }
 ]
