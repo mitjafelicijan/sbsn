@@ -1,5 +1,246 @@
 [
   {
+    "title": "Nelson: rust-lang/rust is adopting an LLM policy",
+    "link": "https://lwn.net/Articles/1087326/",
+    "description": "Jynn Nelson describes\nthe Rust language team's new LLM policy on the Inside Rust blog.\n\n\n\tNo one except the author is required to read LLM output unless they\n\tchoose to: LLM output isn't allowed in public docs, PR\n\tdescriptions, or Github comments unless it's clearly marked;\n\treviewers aren't required to look at LLM PRs if they don't want to.\n\n\tNo one is required to use LLMs to contribute to rust-lang/rust:\n\tpolicies must be written first for humans, and only summarized for\n\tmachines; LLM reviews cannot substitute for human review or\n\tself-review.\n\n\tYou are allowed to generate LLM content that only you see, without\n\tdisclosure, as long as you do not post it anywhere that you expect\n\tus to read or review.\n",
+    "guid": "https://lwn.net/Articles/1087326/",
+    "date": "Aug 05, 2026 13:43",
+    "published_at": "2026-08-05T13:43:00Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "Cloudflare Announces Open-Source Cloudflare OS As AI \"Operating System\"",
+    "link": "https://www.phoronix.com/news/Cloudflare-OS",
+    "description": "Cloudflare today announced the open-sourcing of Cloudflare OS as an \"open platform for agents, apps, and work.\" Cloudflare OS is an AI \"operating system\" but not in the traditional OS sense...",
+    "guid": "https://www.phoronix.com/news/Cloudflare-OS",
+    "date": "Aug 05, 2026 13:16",
+    "published_at": "2026-08-05T13:16:43Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Security updates for Wednesday",
+    "link": "https://lwn.net/Articles/1087318/",
+    "description": "Security updates have been issued by AlmaLinux (fence-agents, gstreamer1-plugins-good, kernel, kernel-rt, p11-kit, perl-Archive-Tar, perl-DBI, and thunderbird), Debian (aom, botan3, and kernel), Fedora (abrt, coreutils, doctl, kernel, open62541, perl, perl-Devel-Cover, perl-PAR-Packer, and polymake), Mageia (acl and php), Oracle (firefox, frr, kernel, libreswan, nodejs-nodemon, nodejs22, perl-Archive-Tar, php:7.4, php:8.2, rsync, and thunderbird), Red Hat (compat-libtiff3, libpq, libtiff, postgresql, postgresql16, postgresql18, postgresql:12, postgresql:13, postgresql:15, postgresql:16, and postgresql:18), Slackware (stunnel), and SUSE (alloy, alsa, bind, chromedriver, corepack24, ffmpeg-4, golang-github-prometheus-prometheus, google-guest-agent, google-osconfig-agent, kubevirt, libgcrypt, libpng16, multipath-tools, netty, netty-tcnative, nodejs26, openssl-1_1, openssl-3, perl-HTTP-Tiny, perl-YAML-Syck, podman, python-sh, python-ujson, rsyslog, spice-vdagent, thrift, valkey, wpa_supplicant, and xen).",
+    "guid": "https://lwn.net/Articles/1087318/",
+    "date": "Aug 05, 2026 13:10",
+    "published_at": "2026-08-05T13:10:40Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "Linux To Avoid Confusing Processor Firmware With Newer Intel CPUs Sporting DEC",
+    "link": "https://www.phoronix.com/news/Linux-No-Confuse-Intel-DEC",
+    "description": "A patch for the Intel P-State CPU frequency scaling Linux driver is pending to avoid confusing the processor firmware on newer platforms like Intel Core Ultra Series 3 \"Panther Lake\" where Dynamic Efficiency Control (DEC) is supported...",
+    "guid": "https://www.phoronix.com/news/Linux-No-Confuse-Intel-DEC",
+    "date": "Aug 05, 2026 12:39",
+    "published_at": "2026-08-05T12:39:22Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Half-Life 2: VR Mod gets a big upgrade ready for the Steam Frame",
+    "link": "https://www.gamingonlinux.com/2026/08/half-life-2-vr-mod-gets-a-big-upgrade-ready-for-the-steam-frame/",
+    "description": "The community team behind the very highly rated Half-Life 2: VR Mod have pushed out a major upgrade to the game, with it now Steam Frame Verified.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/half-life-2-vr-mod-gets-a-big-upgrade-ready-for-the-steam-frame/",
+    "date": "Aug 05, 2026 12:23",
+    "published_at": "2026-08-05T12:23:21Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1658100991id29498gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "NVMe Polishes Its Specs, Brings Virtualization to Locally Attached SSDs",
+    "link": "https://hardware.slashdot.org/story/26/08/04/2326236/nvme-polishes-its-specs-brings-virtualization-to-locally-attached-ssds?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "The latest NVMe specifications add SSD-level virtualization that can simplify live VM migration by preserving storage identities across servers. The updates also introduce support for post-quantum cryptography, controller-based rate limiting, voltage monitoring, and factory-reset capabilities. The Register reports: Announced by the NVM Express consortium, all 11 of the suite of NVMe specs have been updated with new features and engineering change notices. These represent the next step in the evolution of the standard, it says, which was created as a protocol to support storage devices connected to a system's PCIe bus. Perhaps the most significant new capability is PCIe Exported NVM Subsystem Migration. This extends existing NVMe virtualization to locally-attached PCIe SSDs. It does this by abstracting the physical drives into host-defined virtualized NVM subsystems, to allow for virtual machine (VM) mobility without storage reconfiguration.\n \nWhen a VM moves from one server to another, its storage also needs to move with it in a way that's non-disruptive to any applications running in that VM. \"With NVM Subsystem Migration, NVMe SSDs can present exported NVM subsystems that hide the complexity of the underlying hardware,\" says Mike Allison, a senior director at SSD maker Samsung and NVM Express board member. \"Instead of interacting with physical controllers and namespaces, the host only sees exported controllers and namespaces. This creates a clean separation between what the VM sees and what's happening under the hood,\" Allison explains on an NVM Express blog.\n \n\"One of the key innovations here is providing the host with control over exported identifiers. During migration, those identifiers can be carried over exactly from the source to the destination. That consistency is crucial: even if the underlying hardware uses different internal IDs, the VM sees no change and can pick up right where it left off with no storage reconfiguration required,\" he says. In effect, the NVMe layer now enables the virtual machine manager (VMM) to rely on virtualization built into the SSD. The flash drive itself exposes logical, virtualized storage constructs, offloading this complexity from the VMM. You can learn more about the updated NVMe specifications here.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Aug 05, 2026 11:00",
+    "published_at": "2026-08-05T11:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Humble Choice for August 2026 brings TMNT: Shredder's Revenge, Like a Dragon: Infinite Wealth and more",
+    "link": "https://www.gamingonlinux.com/2026/08/humble-choice-for-august-2026-brings-tmnt-shredders-revenge-like-a-dragon-infinite-wealth-and-more/",
+    "description": "Another rather good month for Humble Choice subscribers, with a fresh set of games for August 2026 bringing some fun experiences.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/humble-choice-for-august-2026-brings-tmnt-shredders-revenge-like-a-dragon-infinite-wealth-and-more/",
+    "date": "Aug 05, 2026 10:52",
+    "published_at": "2026-08-05T10:52:19Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/378949224id29497gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Free to play football game Strikers Club adds Easy Anti-Cheat - works on SteamOS / Linux",
+    "link": "https://www.gamingonlinux.com/2026/08/free-to-play-football-game-strikers-club-adds-easy-anti-cheat-works-on-steamos-linux/",
+    "description": "Strikers Club is a free to play multiplayer football game where everyone controls a single player, and now it has Easy Anti-Cheat.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/free-to-play-football-game-strikers-club-adds-easy-anti-cheat-works-on-steamos-linux/",
+    "date": "Aug 05, 2026 10:44",
+    "published_at": "2026-08-05T10:44:09Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/685798812id29496gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "While Torvalds Makes Peace With AI in Linux, Greg Kroah-Hartman Draws a Line (Sort of)",
+    "link": "https://feed.itsfoss.com/link/24361/17403762/linux-drivers-staging-ai-rejection",
+    "description": "His new policy keeps AI patches out of drivers/staging, the tree meant for newcomers to learn kernel development.",
+    "guid": "6a72cf9140b6c5000119b443",
+    "date": "Aug 05, 2026 10:44",
+    "published_at": "2026-08-05T10:44:06Z",
+    "image": "https://itsfoss.com/content/images/2026/08/gkh-ai-ban-banner.png",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "Additional Old Linux Drivers Face Removal Due To Noise From AI/LLM Coding Agents",
+    "link": "https://www.phoronix.com/news/Linux-Retiring-Moxa-Driver",
+    "description": "There continues to be a lout of cleaning up of the kernel source tree to deal with noise generated by AI / LLM coding agents sending in reports and patches for old drivers that are likely not actively used by anyone on modern upstream kernel builds. Rather than continuing to carry these old drivers around with the uptick in AI/LLM-generated noise, kernel maintainers are finding it better to just retire the old drivers...",
+    "guid": "https://www.phoronix.com/news/Linux-Retiring-Moxa-Driver",
+    "date": "Aug 05, 2026 10:38",
+    "published_at": "2026-08-05T10:38:57Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "dwproton-11.0-10 released with a fix for Honkai: Star Rail",
+    "link": "https://www.gamingonlinux.com/2026/08/dwproton-11-0-10-released-with-a-fix-for-honkai-star-rail/",
+    "description": "If you want to play various Anime games on Linux like Honkai: Star Rail, dwproton is likely the best one to use with many tweaks to make them playable.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/dwproton-11-0-10-released-with-a-fix-for-honkai-star-rail/",
+    "date": "Aug 05, 2026 10:23",
+    "published_at": "2026-08-05T10:23:11Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1728209162id29495gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "AMD Preps HDMI FRL Fixes, New Knob For Disabling Older AMD GPU DCE Display Support",
+    "link": "https://www.phoronix.com/news/AMDGPU-DC-DCE-Gating",
+    "description": "Overnight AMD engineers sent out their latest round of AMDGPU DC display code updates for their Linux driver. This week's round of display code updates include some additional fixes for their recently introduced HDMI FRL (Fixed Rate Link) support as part of the work toward their HDMI 2.1 implementation finally coming together for their open-source, upstream Linux driver...",
+    "guid": "https://www.phoronix.com/news/AMDGPU-DC-DCE-Gating",
+    "date": "Aug 05, 2026 10:20",
+    "published_at": "2026-08-05T10:20:55Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "FEX 2608 Released With More Fixes For Running x86_64 Binaries On ARM64",
+    "link": "https://www.phoronix.com/news/FEX-2608-Released",
+    "description": "FEX 2608 is now available as the newest monthly feature update to this open-source emulator sponsored by Valve for running x86_64 binaries on ARM64, including Steam and Windows games with Steam Play (Proton)...",
+    "guid": "https://www.phoronix.com/news/FEX-2608-Released",
+    "date": "Aug 05, 2026 10:08",
+    "published_at": "2026-08-05T10:08:00Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Mini roguelike citybuilder 'Combolands' from Terra Nil designer launches August 24",
+    "link": "https://www.gamingonlinux.com/2026/08/mini-roguelike-citybuilder-combolands-from-terra-nil-designer-launches-august-24/",
+    "description": "Combolands is a mini citybuilding roguelike! Place buildings, stack combos, and master deep strategy in short bursts.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/mini-roguelike-citybuilder-combolands-from-terra-nil-designer-launches-august-24/",
+    "date": "Aug 05, 2026 10:06",
+    "published_at": "2026-08-05T10:06:26Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/206218710id29494gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Feed rubber ducks to a bottomless corporate void in Project P.I.T.T. on August 19",
+    "link": "https://www.gamingonlinux.com/2026/08/feed-rubber-ducks-to-a-bottomless-corporate-void-in-project-p-i-t-t-on-august-19/",
+    "description": "Throw ducks down a void, unlock helpful contraptions and keep on optimizing in the quirky Project P.I.T.T. with the release date announced for August 19th.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/feed-rubber-ducks-to-a-bottomless-corporate-void-in-project-p-i-t-t-on-august-19/",
+    "date": "Aug 05, 2026 09:49",
+    "published_at": "2026-08-05T09:49:29Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/446480836id29493gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Electronic Arts (EA) officially sold off to Saudi Arabia's Public Investment Fund, Jared Kushner and others",
+    "link": "https://www.gamingonlinux.com/2026/08/electronic-arts-ea-officially-sold-off-to-saudi-arabias-public-investment-fund-jared-kushner-and-others/",
+    "description": "Electronic Arts (EA) announced the big deal has been completed, and the company has now been sold off privately to a group of investors including Saudi Arabia.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/electronic-arts-ea-officially-sold-off-to-saudi-arabias-public-investment-fund-jared-kushner-and-others/",
+    "date": "Aug 05, 2026 09:40",
+    "published_at": "2026-08-05T09:40:56Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/518545846id29492gol.avif",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Bottles 65 Released with Over 100 Changes for Windows Apps on Linux",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366609",
+    "description": "Bottles 65 improves Windows app and game management on Linux with Steam integration, backups, file associations, and numerous fixes.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366609",
+    "date": "Aug 05, 2026 09:37",
+    "published_at": "2026-08-05T09:37:05Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Mozilla Firefox 153.0.3 Improves the Smart Window and Fixes More Bugs",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366610",
+    "description": "Mozilla released Firefox 153.0.3 today as the second update in the latest Firefox 153 ESR release of this popular open-source web browser to fix more issues and also add some improvements.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366610",
+    "date": "Aug 05, 2026 08:05",
+    "published_at": "2026-08-05T08:05:35Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Uptime Kuma 2.5 Adds NTP Monitoring and Rootless Docker Support",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366598",
+    "description": "Uptime Kuma 2.5 introduces an NTP monitor, a rootless Docker image, unlimited check intervals, new notification providers, and multiple bug fixes.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366598",
+    "date": "Aug 05, 2026 06:34",
+    "published_at": "2026-08-05T06:34:06Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Watch a SpaceX Rocket Crash Into the Moon",
+    "link": "https://science.slashdot.org/story/26/08/04/2245236/watch-a-spacex-rocket-crash-into-the-moon?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "A four-ton SpaceX Falcon 9 upper stage left drifting after a 2025 lunar mission is expected to crash into the Moon at about 5,400 mph, likely striking Einstein Crater. The impact should occur at approximately 2:35 a.m. ET (0635GMT). Reuters reports: Such stages typically fall back into Earth's atmosphere and burn up or plunge into the ocean after boosting the rocket's payload to a precise spot in orbit. But because the January lunar lander mission required more thrust than missions closer to Earth, the rocket's second stage remained in space, floating aimlessly among thousands of other pieces of space junk that active satellites must steer clear of. It was not until earlier this year that astronomers determined that the rocket stage, which had dumped its remaining fuel and cannot be controlled, was on an orbital trajectory ending at the moon.\n \n\"What has happened is essentially a mixture of solar activity and gravity forces have put it on a path toward the moon,\" Julianna Scheiman, SpaceX director of NASA science and Dragon programs, told reporters on Monday. \"This may be of some -- probably minor -- scientific interest, and we may learn some things from it,\" said Bill Gray, creator of widely used astronomy software who published a report on the stage's impact in April. \"It doesn't present any danger to anyone, though it does highlight a certain carelessness about how leftover space hardware (space junk) is disposed of.\" You can try to watch the impact via a livestream on YouTube; however, the area it's expected to hit (Einstein Crater) is on the moon's western limb, \"which is often difficult to see from Earth,\" notes Reuters. It will also likely \"kick up a plume of lunar dust that will likely be illuminated by sunlight but difficult to spot with the naked eye from Earth.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Aug 05, 2026 06:00",
+    "published_at": "2026-08-05T06:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Decimen Lets You Send Files Through Light, Not a Network",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366611",
+    "description": "Decimen is an open-source web app that moves files between devices through an animated QR stream, requiring no direct network connection, pairing, account, or native app.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366611",
+    "date": "Aug 05, 2026 03:31",
+    "published_at": "2026-08-05T03:31:07Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Texas Halts Data Center Connections To Power Grid Amid Overwhelming Demand",
+    "link": "https://hardware.slashdot.org/story/26/08/04/231207/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from Ars Technica: Nowhere is the US data center boom bigger than in Texas. But less than a year after declaring Texas the \"epicenter of AI development,\" Governor Greg Abbott has declared a moratorium on all new power grid connections for data centers -- at least until developers provide more information about their projects' potential impacts on the grid and communities. The Republican governor directed regulators in an August 3 announcement at the Public Utility Commission of Texas and the grid operators at the Electric Reliability Council of Texas (ERCOT) to perform a \"comprehensive verification and audit of all data centers advancing through ERCOT's interconnection process.\" As an independent system operator, ERCOT oversees a power grid that operates separately from the rest of the United States and provides services to most of Texas.\n \nTexas has aggressively courted data center development with its availability of cheap land and relatively abundant energy resources, along with offering state incentives, like tax breaks and fewer regulations. That puts the state on track to surpass Virginia in becoming the largest US data center market. But the recent AI boom and the accompanying frenzy of data center development threaten to overwhelm the Texas grid on paper, despite the state leading the country in adding new power generation. The ERCOT interconnection queue currently includes more than 1,800 projects representing over 474 gigawatts' worth of requests to connect to the Texas grid -- more than five times Texas' record peak electricity demand -- and about 90 percent of those power connection requests come from data centers.\n \n\"That unprecedented load growth could endanger the reliability and stability of the Texas electric grid,\" according to the statement from Abbott's office. Many of those data center projects may never materialize for various reasons. But ERCOT has still forecast that data center demand and other factors could drive statewide electricity demand to double the current demand record by 2032, according to The Texas Tribune. The review will examine each project's projected electricity consumption, reliance on the grid and state incentives, ownership, and water use. It will also assess measures intended to \"reduce impacts on neighboring property owners and communities,\" including noise controls, lighting, traffic improvements, setbacks, and emergency planning.\n \nArs Technica notes that the directive does not address air pollution or greenhouse-gas emissions and does not apply to data centers generating their own power on-site.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Aug 05, 2026 03:30",
+    "published_at": "2026-08-05T03:30:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "AMD Posts Proposal \u0026 Linux Patches For eSPI Subsystem",
+    "link": "https://www.phoronix.com/news/AMD-eSPI-Linux-Patches",
+    "description": "AMD has posted patches proposing a new Linux subsystem for the Enhanced Serial Peripheral Interface (eSPI) standard that was in turn originally developed by Intel. With AMD now making use of eSPI, they are proposing a new subsystem for it within the Linux kernel, which includes a new driver for their hardware...",
+    "guid": "https://www.phoronix.com/news/AMD-eSPI-Linux-Patches",
+    "date": "Aug 05, 2026 00:33",
+    "published_at": "2026-08-05T00:33:08Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
     "title": "An LLM agent attempts to compromise a project on GitHub",
     "link": "https://lwn.net/Articles/1087162/",
     "description": "The AI Security Institute has released a\ndetailed report on an security incident of its own making.  The\nInstitute set some LLM agents loose on the Internet with a security\nchallenge; soon they were creating malware-laden pull requests and\nsock-puppet accounts to promote them.\n\n\n\tThe agent opened a malicious pull request (PR) to ⟨REPO_A⟩ and\n\tpursued a number of strategies to get it merged:\n\n Repeatedly commented on the PR with sockpuppet accounts to manufacture\n     consensus and pressure the maintainer into approving with minimal\n     review.\n\n Opened a GitHub Issue in another repository (also owned by ⟨PERSON_A⟩)\n     containing a prompt injection for other coding agents. The malicious\n     instructions were addressed to issue-triage AI coding agents and\n     invisible to humans viewing the website.\n\n Sent multiple emails to ⟨PERSON_A⟩ and ⟨PERSON_B⟩, with different\n     pretexts to get them to run malicious code. Over the course of the\n     sample, the agent sent five emails, some containing malware, others\n     aimed at persuading a maintainer to accept the pull request.\n\n\n\nIt would be surprising if this were the only incident of this type; the\nonly real difference here is that the people involved are documenting what\nhappened.",
@@ -41,16 +282,6 @@
     "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
     "source": "slashdot.org",
     "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "NVIDIA Joins Dell and HP in Supporting the Linux Vendor Firmware Service (LVFS)",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366608",
-    "description": "Fwupd maintainer and Linux Vendor Firmware Service (LVFS) creator Richard Hughes announced that NVIDIA has also agreed to become a premier sponsor for the Linux Vendor Firmware Service.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366608",
-    "date": "Aug 04, 2026 20:21",
-    "published_at": "2026-08-04T20:21:26Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
   },
   {
     "title": "Microsoft Tells Engineers 'Tokenmaxxing Is Not What We Are Optimizing For'",
@@ -115,6 +346,17 @@
     "published_at": "2026-08-04T16:43:25Z",
     "source": "lwn.net",
     "source_url": "https://lwn.net"
+  },
+  {
+    "title": "NVIDIA now supporting the Linux Vendor Firmware Service (LVFS) as a premier sponsor",
+    "link": "https://www.gamingonlinux.com/2026/08/nvidia-now-supporting-the-linux-vendor-firmware-service-lvfs-as-a-premier-sponsor/",
+    "description": "Nice to see the Linux Vendor Firmware Service (LVFS) continues to grow, with it pulling in NVIDIA as a brand new sponsor.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/nvidia-now-supporting-the-linux-vendor-firmware-service-lvfs-as-a-premier-sponsor/",
+    "date": "Aug 04, 2026 16:28",
+    "published_at": "2026-08-04T16:28:19Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1721344156id29491gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
   },
   {
     "title": "Linux's Favorite Music Player Rhythmbox 3.5 Lands After Nearly a Decade in the 3.4 Series",
@@ -408,160 +650,5 @@
     "published_at": "2026-08-04T06:38:02Z",
     "source": "lxer.com",
     "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "GNOME Boxes Preparing To Deliver Much Improved Virtualization Experience",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366585",
-    "description": "GNOME Boxes as a front-end to libvirt and QEMU is preparing to deliver a much improved virtualization experience for those wanting to enjoy desktop VMs from the GNOME desktop...",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366585",
-    "date": "Aug 04, 2026 05:06",
-    "published_at": "2026-08-04T05:06:32Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "OpenAI's Astra Solved Decades-Old Math Problems For $2,000",
-    "link": "https://science.slashdot.org/story/26/08/04/0054251/openais-astra-solved-decades-old-math-problems-for-2000?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "An anonymous reader quotes a report from Forbes: The cost of producing new results on ten longstanding mathematical problems just fell to $2,000, according to OpenAI, which says its Astra model generated machine-checkable proofs for questions that had resisted human progress for decades. OpenAI published the work on August 1 and used it to give its next major model family a name: Astra. The results run across group theory, high-dimensional geometry, coding theory, quantum complexity, lattice cryptography and extremal combinatorics. They arrived as a 249-page manuscript collection and, alongside it, something the field has not seen attached to an AI claim before at this scale: a machine-checkable certificate for every single result.\n \nThe problems were not textbook exercises dressed up as discoveries. Each had been open for at least ten years, most of them far longer, and several sit at the center of their subfields:\n- A construction establishing the existence of non-sofic groups, a question that has occupied group theorists for years.\n- A disproof of Connes's rigidity conjecture, a long-standing problem in the theory of von Neumann algebras.\n- An improvement to the general upper bound on sphere-packing density in high dimensions, a bound that had stood since 1978.\n- Three problems come from the catalogue of open questions left behind by Paul Erdos. The announcement follows another result from May, when OpenAI used a similar reasoning model to produce an original mathematical proof disproving a famous unsolved conjecture in geometry, which was first posed by Paul Erdos in 1946.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Aug 04, 2026 03:30",
-    "published_at": "2026-08-04T03:30:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "NVIDIA 610.57 Linux Driver Lands with Dozens of Vulkan, Gaming, and Kernel Fixes",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366587",
-    "description": "NVIDIA releases its 610.57 New Feature Branch driver for Linux, delivering fixes for Vulkan, kernel module builds, displays, and stability.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366587",
-    "date": "Aug 04, 2026 02:03",
-    "published_at": "2026-08-04T02:03:34Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "FFmpeg 9.0 Released With More Vulkan Acceleration, Animated WebP \u0026 More AMD AMF",
-    "link": "https://www.phoronix.com/news/FFmpeg-9.0-Released",
-    "description": "FFmpeg 9.0 is now available as the latest feature release for this widely used, open-source multimedia library...",
-    "guid": "https://www.phoronix.com/news/FFmpeg-9.0-Released",
-    "date": "Aug 04, 2026 00:49",
-    "published_at": "2026-08-04T00:49:30Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Improved GPU Reset Recovery For AMD Kaveri, Hawaii \u0026 Other GFX7 GPUs With Linux 7.3",
-    "link": "https://www.phoronix.com/news/AMD-GFX7-Soft-Reset-Linux-7.3",
-    "description": "In addition to the AMDGPU feature pull request to DRM-Next last week that landed DRM format modifiers for old AMD GPUs and a variety of other improvements, a secondary set of AMDGPU feature work followed that last week in preparation for the upcoming Linux 7.3 merge window...",
-    "guid": "https://www.phoronix.com/news/AMD-GFX7-Soft-Reset-Linux-7.3",
-    "date": "Aug 04, 2026 00:36",
-    "published_at": "2026-08-04T00:36:30Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Rhythmbox 3.5 Media Player Improves Lyrics Search and Podcast Support",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366592",
-    "description": "Rhythmbox 3.5 has been released as the latest version of this open-source music playing application for the GNOME desktop environment using the GStreamer open-source multimedia framework.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366592",
-    "date": "Aug 03, 2026 23:00",
-    "published_at": "2026-08-03T23:00:35Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "An AI-Supervised Remote Exam Went So Badly That 58,000 Students Must Retake It",
-    "link": "https://news.slashdot.org/story/26/08/03/233245/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "An anonymous reader quotes a report from Ars Technica: Earlier this summer, nearly 160,000 applicants took the entrance exam for UNAM, Mexico's largest university. For the first time, they did it completely remotely, using a \"lockdown\" browser and AI-powered webcam proctoring software, over several weeks from late May through early June. It was a disaster. When exam results came in, they bore little resemblance to past results, especially at the top. Between 2021 and 2025, 3.5 percent of test takers scored 100 or more on the 120-question UNAM test. This year, 16.3 percent did so. The story was even worse at the highest of the high end. Between 2021 and 2025, 0.9 percent of test takers scored 110 or more; this year, 5.5 percent did so.\n \nThe surge in top scores led to accusations of widespread cheating, and UNAM appointed a commission of experts to investigate the situation. The group was given the unwieldy name \"la Comision Tecnica de Personas Expertas para la Revision del Proceso de Seleccion de Ingreso a Licenciatura para el Circlo Escolar 2026-2027/1,\" and it has just submitted its recommendations. The commission believes that the best path forward, given all the concerns, is to administer a \"control exam\" -- that is, applicants will have to sit for another test, and they will do so in person.\n \nThis control exam will apply not only to those who secured a spot at UNAM based on this year's test but also to everyone who would have been admitted based on minimum successful scores in their program of study since 2021. About 58,000 people could be affected, and places at UNAM will now depend on the results of the new test. (Details on the control exam should appear soon; classes are currently scheduled to begin on August 10, so everything will have to move quickly unless the school decides to delay classes.) According to Gaceta UNAM, the school's official news publication, the university rector has apologized to honest applicants, since they will now have to prepare for and take the test again despite doing nothing wrong. Still, the control exam is \"necessary to give certainty and guarantee equity in access,\" the rector added.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Aug 03, 2026 23:00",
-    "published_at": "2026-08-03T23:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Schools Are Ditching Chromebooks For MacBooks By the Thousands",
-    "link": "https://apple.slashdot.org/story/26/08/03/2115259/schools-are-ditching-chromebooks-for-macbooks-by-the-thousands?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Apple says its lower-cost MacBook Neo is beginning to displace Windows laptops and Chromebooks in K-12 schools, with several districts purchasing thousands of units. According to the company's latest earnings call, nearly half of the large MacBook Neo purchases made by U.S. educational institutions last quarter reportedly replaced competing platforms. 9to5Mac reports: Apple's commentary highlighted some large district deployments moving to Neo Pinellas County Schools, one of the largest districts in Florida, which is moving its 25k students off Windows and onto MacBook Neo across its 18 high schools. In Washington, Peninsula School District 401 moved over its 8,000 students from Chromebooks to MacBook Neo. Midwest City-Del City School District in Oklahoma purchased more than 6,000 MacBook Neos to become an all-Apple district for students.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Aug 03, 2026 22:00",
-    "published_at": "2026-08-03T22:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Benchmarking Six Linux Distributions On The Framework Laptop 13 Pro",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366588",
-    "description": "With the new Framework Laptop 13 Pro now shipping powered by Intel Core Ultra Series 3 (Panther Lake) and a brand new hardware design, I have spent the past week testing out various Linux distributions on this very nice high-end laptop. All of the modern Linux distributions tested have been playing nicely with this new Panther Lake laptop. Of course, beyond testing for compatibility I also took the opportunity to run some Linux distribution performance benchmarks for this laptop powered by the flagship Core Ultra X9 388H.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366588",
-    "date": "Aug 03, 2026 21:29",
-    "published_at": "2026-08-03T21:29:05Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Twenty years of Pandoc",
-    "link": "https://lwn.net/Articles/1086976/",
-    "description": "John MacFarlane has published a lengthy\nretrospective to commemorate twenty years of the Pandoc document converter.\n\n\nOn August 3, 2006, I uploaded the first version of pandoc to my\nwebsite, releasing it under the free GPL license. Pandoc 0.1 consisted\nof about 3000 lines of Haskell code, with no dependencies aside from\nGHC's standard library. It could convert Markdown, reStructuredText,\nHTML, and LaTeX documents into any of these formats, plus RTF or S5. I\nhad no idea at the time that this would just be the first of over two\nhundred releases over the next twenty years; that the project would\nbecome the most\npopular program written in Haskell; that I would spend countless\nhours on bug-fixes, improvement, and project management; that I would\ncollaborate with programmers in many other countries; that pandoc\nwould come to support over fifty document formats; that it would allow\nautomatic generation of citations and bibliographies; that it would\nbecome integrated into academic writing tools like Quarto and Jupyter Notebook; that it would be\ninstalled on millions of computers around the world.\n\nHow did this happen? I want to take advantage of pandoc's birthday\nto tell the story of the project, as best I can remember it.\n\n\n",
-    "guid": "https://lwn.net/Articles/1086976/",
-    "date": "Aug 03, 2026 21:18",
-    "published_at": "2026-08-03T21:18:31Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "Microsoft Is Bringing Xbox 360 Games to PC",
-    "link": "https://games.slashdot.org/story/26/08/03/1940240/microsoft-is-bringing-xbox-360-games-to-pc?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Microsoft reportedly plans to let developers bring Xbox 360 games to PC and next-generation Xbox devices, with a gradual rollout expected between 2027 and 2028. A separate disc-to-digital program would also give players transferable digital licenses tied to their physical Xbox discs, preserving the ability to resell or trade them. The Verge reports: With 360 games, developers can opt into making them backward compatible, and they will have control over things like a game's price and if it's available on Game Pass. The feature is expected to have a \"gradual\" rollout between 2027 and 2028 \"across next-gen devices.\" The \"full launch\" of original Xbox games on PC is also set for October 2026; the initial program announced in July included just four games.\n \nThe document also includes details about a way for players to get a digital version of a game that they already own on a physical disc, which The Verge's Tom Warren reported on in July. The document says that if a player puts an Xbox One or Series game on disc into an Xbox One or Series X console with a disc drive, they'll be granted a digital license that's bound to \"that disc and the player's account.\" The license will stay with a player across Xbox devices, but if the disc \"changes hands,\" the license will transfer to the new person. That should mean that gamers can still trade and sell discs; once the original owner of a disc does so, they can't play the digital version they got from that disc anymore.\n \nAccording to the document, a public beta for the disc-to-digital program was set for July with general availability set for August. We understand Microsoft had originally planned to test its disc-to-digital program with Xbox Insiders in July, but the beta was delayed. It's unclear if the timeline of August general availability is still accurate.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Aug 03, 2026 21:00",
-    "published_at": "2026-08-03T21:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Developing with Fedora, first flock, and not the last!",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366590",
-    "description": "Flock 2026 was my first Fedora conference, and it won’t be my last. I came home with new ideas, new friendships, and even a new project to work on for next year. Appreciation I want to start by appreciating the Flock organizers and volunteers. Putting together an event like this takes a lot of quiet, […]",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366590",
-    "date": "Aug 03, 2026 19:57",
-    "published_at": "2026-08-03T19:57:36Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Linux 7.3 Looks Like It Will Upstream FailFS",
-    "link": "https://www.phoronix.com/news/Linux-7.3-Expects-FailFS",
-    "description": "Merged back in Linux 7.3 was NULLFS as a \"completely catatonic minimal pseudo filesystem\". Now expected for Linux 7.3 is its sibling: FailFS...",
-    "guid": "https://www.phoronix.com/news/Linux-7.3-Expects-FailFS",
-    "date": "Aug 03, 2026 18:46",
-    "published_at": "2026-08-03T18:46:16Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "C-Kermit 11 released",
-    "link": "https://lwn.net/Articles/1086953/",
-    "description": "For those of us with a long memory: John Goerzen has announced\nthe release of C-Kermit 11, the first release of this file-transfer\nutility in 15 years.\n\n\n\tAs Debian maintainer of Kermit, I noticed some areas where it\n\twasn't matching modern expectations. One area was, not surprising\n\tfor a project of its age, security. Another area was that its\n\tcharacter set or line-ending conversions are usually not desired\n\tnow; we are used to byte-identical binary transfers, and the\n\tdefaults caused confusion and even some rare instances of data\n\tcorruption. So I started making a few patches last year.\n\n\nSee the\nchangelog for details on the work that has been done.\n\nMost of us probably haven't thought about C-Kermit in years (if ever), but\nthere was a time when it was an essential tool for moving files between\nmachines.",
-    "guid": "https://lwn.net/Articles/1086953/",
-    "date": "Aug 03, 2026 18:15",
-    "published_at": "2026-08-03T18:15:59Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "Mistfall Hunter is a new extraction ARPG that works on SteamOS / Linux",
-    "link": "https://www.gamingonlinux.com/2026/08/mistfall-hunter-is-a-new-extraction-arpg-that-works-on-steamos-linux/",
-    "description": "Mistfall Hunter is an extraction ARPG that blends together mechanics found in some other popular games, and it's out now working well on SteamOS / Linux.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/08/mistfall-hunter-is-a-new-extraction-arpg-that-works-on-steamos-linux/",
-    "date": "Aug 03, 2026 17:05",
-    "published_at": "2026-08-03T17:05:20Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/558540867id29484gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
   }
 ]
