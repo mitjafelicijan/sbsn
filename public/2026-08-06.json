@@ -1,5 +1,277 @@
 [
   {
+    "title": "Rust Coreutils 0.10 released",
+    "link": "https://lwn.net/Articles/1087490/",
+    "description": "Version\n0.10 of the uutils project's Rust Coreutils has been released. This\nrelease focused on compatibility with the GNU Core Utilities suite,\nwith Rust Coreutils now passing 645 of 690 tests, up from 625 with version 0.9.0. Notable\nchanges in this release include addition of the mv --exchange\noption, an OpenSSL backend for checksum utilities, applying SELinux labels at\ncreation when using mkdir, mkfifo, and mknod, as well\nas a number of performance and security improvements.\n\nThe project has an\nonline playground that runs the\nRust Coreutils directly in the browser via WebAssembly for those who would like\nto try the utilities without installing them. LWN covered the uutils project in\nFebruary 2025.\n\n",
+    "guid": "https://lwn.net/Articles/1087490/",
+    "date": "Aug 06, 2026 13:37",
+    "published_at": "2026-08-06T13:37:51Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "Security updates for Thursday",
+    "link": "https://lwn.net/Articles/1087489/",
+    "description": "Security updates have been issued by Debian (7zip, kernel, libde265, and p7zip), Mageia (tomcat), Oracle (fence-agents, frr10, kernel, ldns, libgcrypt, mingw-glib2, nodejs24, osbuild-composer, p11-kit, php8.4, sg3_utils, and thunderbird), Red Hat (libXfont2), and SUSE (containerd, evince, libXfont2, nginx, openssl-3, pcp, php7, php8, python-Django, python-httplib2, python-nltk, rrdtool, vifm, and wireshark).",
+    "guid": "https://lwn.net/Articles/1087489/",
+    "date": "Aug 06, 2026 13:00",
+    "published_at": "2026-08-06T13:00:13Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "Tails 7.10.1 Is Out as an Emergency Release to Fix Critical Vulnerabilities",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366615",
+    "description": "Tails 7.10.1 has been released today as the latest version of this Debian-based distribution designed to protect you against surveillance and censorship by leveraging the Tor anonymous network.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366615",
+    "date": "Aug 06, 2026 12:37",
+    "published_at": "2026-08-06T12:37:30Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "FOSS Weekly #26.32: Kittens, Feed Readers, Free Bash Course, No AI in Kernel Staging and More",
+    "link": "https://feed.itsfoss.com/link/24361/17404403/foss-weekly-26-32",
+    "description": "RSS feed is one way to escape the clutches of algorithms.",
+    "guid": "6a71c75ff2e54e0001b67f9c",
+    "date": "Aug 06, 2026 12:30",
+    "published_at": "2026-08-06T12:30:03Z",
+    "image": "https://itsfoss.com/content/images/2026/08/foss-weekly.webp",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "Linux Wireless Maintainer Takes Firm Stance Against AI/LLM Generated Slop Patches",
+    "link": "https://www.phoronix.com/news/Linux-WiFi-Strict-AI-Slop-Patch",
+    "description": "In addition to the Linux kernel staging area now rejecting AI/LLM-generated patches except for real security fixes, the Linux wireless networking code is also seeing some shifts around how it will deal with AI/LLM generated patches...",
+    "guid": "https://www.phoronix.com/news/Linux-WiFi-Strict-AI-Slop-Patch",
+    "date": "Aug 06, 2026 12:22",
+    "published_at": "2026-08-06T12:22:18Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "FAKE ME aims to take on MECCHA CHAMELEON where you remodel yourself to hide",
+    "link": "https://www.gamingonlinux.com/2026/08/fake-me-aims-to-take-on-meccha-chameleon-where-you-remodel-yourself-to-hide/",
+    "description": "MECCHA CHAMELEON took Steam by storm recently with the paint-yourself hide and seek idea, and now FAKE ME is attempting to cash in on that with remodelling.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/fake-me-aims-to-take-on-meccha-chameleon-where-you-remodel-yourself-to-hide/",
+    "date": "Aug 06, 2026 12:00",
+    "published_at": "2026-08-06T12:00:42Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1845564113id29507gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "After Nearly a Decade of Distro Hopping, I Realized It Was Never About the Distro",
+    "link": "https://feed.itsfoss.com/link/24361/17404404/distrohopping-lesson",
+    "description": "Some lessons are learned the hard way....or in this case, the looong way.",
+    "guid": "6a12d8e04aa1730001e917d4",
+    "date": "Aug 06, 2026 11:59",
+    "published_at": "2026-08-06T11:59:49Z",
+    "image": "https://itsfoss.com/content/images/2026/08/distro-hopping-realization.webp",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "RAM? What RAM? The biggest makers are reportedly now sold out all through 2027",
+    "link": "https://www.gamingonlinux.com/2026/08/ram-what-ram-the-biggest-makers-are-reportedly-now-sold-out-all-through-2027/",
+    "description": "I hope you don't like RAM or graphics cards or anything like that. Prices are expected to rise again, and stock is expected to vanish through 2027.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/ram-what-ram-the-biggest-makers-are-reportedly-now-sold-out-all-through-2027/",
+    "date": "Aug 06, 2026 11:41",
+    "published_at": "2026-08-06T11:41:56Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/2074099816id29506gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Blood Dungeon from the Wheel World and Nidhogg dev releases August 25",
+    "link": "https://www.gamingonlinux.com/2026/08/blood-dungeon-from-the-wheel-world-and-nidhogg-dev-releases-august-25/",
+    "description": "Blood Dungeon is an upcoming action roguelike featuring frenetic, fun, movement-focused gameplay with a rather silly squiggly art style.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/blood-dungeon-from-the-wheel-world-and-nidhogg-dev-releases-august-25/",
+    "date": "Aug 06, 2026 11:18",
+    "published_at": "2026-08-06T11:18:31Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/103090229id29505gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Raspberry Pi 4 3GB Variant Reaches More Distributors Following April Introduction",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366640",
+    "description": "Raspberry Pi introduced a new 3GB version of the Raspberry Pi 4 Model B in April, positioning it between the existing 2GB and 4GB configurations. Four months after the announcement, the model is appearing through additional distributors, including TME, PiShop.us, and Waveshare. The 3GB configuration was introduced in response to rising LPDDR4 memory costs. According […]",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366640",
+    "date": "Aug 06, 2026 11:06",
+    "published_at": "2026-08-06T11:06:00Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "FDA Approves First mRNA Flu Shot",
+    "link": "https://science.slashdot.org/story/26/08/06/0424256/fda-approves-first-mrna-flu-shot?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "The FDA has approved the first mRNA flu vaccine in the United States after a clinical trial found it was about 27% more effective than a standard flu shot. Manufactured by Moderna and marketed as mFlusiva, the vaccine is expected to be available this fall for adults ages 50 to 64 and those 65 and older, though approval for the older group is conditional on Moderna conducting an additional clinical trial, NBC News reports. From the report: Many scientists and public health experts have touted the idea of an mRNA-based flu vaccine, which uses the same messenger RNA platform as the Covid vaccines from Moderna and Pfizer. That's because mRNA vaccines can be manufactured much faster than traditional vaccines, allowing scientists to better match circulating influenza strains. Moderna said it takes two to three months from picking the strain to rolling out its flu shot, compared with about six months for traditional flu shots.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Aug 06, 2026 11:00",
+    "published_at": "2026-08-06T11:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Ready up for the Steam Frame with the In Your World VR Bundle",
+    "link": "https://www.gamingonlinux.com/2026/08/ready-up-for-the-steam-frame-with-the-in-your-world-vr-bundle/",
+    "description": "Need to grab some VR games ready for the release of the Valve Steam Frame? There's the In Your World VR Humble Bundle live now with some good stuff.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/ready-up-for-the-steam-frame-with-the-in-your-world-vr-bundle/",
+    "date": "Aug 06, 2026 10:57",
+    "published_at": "2026-08-06T10:57:57Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1757590882id29504gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Nazi Zombies is a free to play take on the classic Call of Duty Zombies mode",
+    "link": "https://www.gamingonlinux.com/2026/08/nazi-zombies-is-a-free-to-play-take-on-the-classic-call-of-duty-zombies-mode/",
+    "description": "Remember the classic Call of Duty Zombies? You may want to take a look at the recent free release of Nazi Zombies.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/nazi-zombies-is-a-free-to-play-take-on-the-classic-call-of-duty-zombies-mode/",
+    "date": "Aug 06, 2026 10:29",
+    "published_at": "2026-08-06T10:29:21Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1132946416id29503gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Page Alloc Hogger Lets You Better Stress Memory Behavior On Linux For Testing/Debugging",
+    "link": "https://www.phoronix.com/news/Page-Alloc-Hogger",
+    "description": "A new kernel feature proposed by a Google engineer is Page Alloc Hogger to allow for fine control over where memory pages are allocated in order to more easily reproduce low-memory conditions, make it simpler to exert memory pressure, and enable other stressful memory conditions for testing/debugging how Linux copes...",
+    "guid": "https://www.phoronix.com/news/Page-Alloc-Hogger",
+    "date": "Aug 06, 2026 10:28",
+    "published_at": "2026-08-06T10:28:46Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "AMD GFX1171 Support Merged For Mesa 26.3",
+    "link": "https://www.phoronix.com/news/AMD-GFX1171-Mesa-26.3",
+    "description": "Earlier this year we began seeing patches for AMD GFX1170 graphics IP labeled as \"RDNA 4m\" and that was then completed with also adding GFX1171 and GFX1172 as additional targets for the AMDGPU LLVM compiler back-end and AMDGPU kernel driver. Merged today for Mesa 26.3 is now adding the GFX1171 target to Mesa 26.3 for the RADV and RadeonSI drivers...",
+    "guid": "https://www.phoronix.com/news/AMD-GFX1171-Mesa-26.3",
+    "date": "Aug 06, 2026 10:19",
+    "published_at": "2026-08-06T10:19:27Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Qualcomm Proposes Synx For The Linux Kernel With \"Significant\" Power + Performance Benefits",
+    "link": "https://www.phoronix.com/news/Synx",
+    "description": "Qualcomm engineers have initiated a discussion over upstreaming Synx to the Linux kernel, which is a global synchronization framework across different parts of SoCs. Qualcomm is already using Synx internally and is reported to provide \"significant\" power and performance benefits...",
+    "guid": "https://www.phoronix.com/news/Synx",
+    "date": "Aug 06, 2026 10:05",
+    "published_at": "2026-08-06T10:05:27Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "SteelSeries' Latest Arctis Nova 5X \u0026 Nova 7 Headsets To Be Supported By Linux 7.3",
+    "link": "https://www.phoronix.com/news/SteelSeries-Nova-7-5X-2026",
+    "description": "If you happen to have a gaming headset from the latest SteelSeries Nova 5X or Nova 7 series, the upcoming Linux 7.3 kernel will begin properly supporting those headsets...",
+    "guid": "https://www.phoronix.com/news/SteelSeries-Nova-7-5X-2026",
+    "date": "Aug 06, 2026 09:55",
+    "published_at": "2026-08-06T09:55:47Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Popular Steam Deck accessory brand JSAUX announced controller-focused brand Voidjoy",
+    "link": "https://www.gamingonlinux.com/2026/08/popular-steam-deck-accessory-brand-jsaux-announced-controller-focused-brand-voidjoy/",
+    "description": "Voidjoy is a new spin-off brand from JSAUX, that plan to bring various types of controllers and addons for existing controllers.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/popular-steam-deck-accessory-brand-jsaux-announced-controller-focused-brand-voidjoy/",
+    "date": "Aug 06, 2026 09:51",
+    "published_at": "2026-08-06T09:51:00Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/737001244id29502gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Linux Kernel Begins Phasing Out the crypto_rng Layer to Simplify Random Number Generation",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366638",
+    "description": "Linux kernel developers are moving forward with plans to remove the crypto_rng API layer, a long-standing component of the kernel's cryptographic subsystem. The proposed change is part of a broader effort to simplify the kernel's internal architecture by eliminating redundant code paths and encouraging developers to rely on the kernel's modern random number generation interfaces instead.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366638",
+    "date": "Aug 06, 2026 09:34",
+    "published_at": "2026-08-06T09:34:31Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Mesa 26.2.0 released with lots of improvements for Linux / SteamOS graphics drivers",
+    "link": "https://www.gamingonlinux.com/2026/08/mesa-26-2-0-released-with-lots-of-improvements-for-linux-steamos-graphics-drivers/",
+    "description": "Mesa 26.2.0 is quite a bumper release bringing a lot of new features across many open source Linux / SteamOS drivers.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/mesa-26-2-0-released-with-lots-of-improvements-for-linux-steamos-graphics-drivers/",
+    "date": "Aug 06, 2026 09:34",
+    "published_at": "2026-08-06T09:34:00Z",
+    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/mesa.png",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Hyprland 0.56.2 Fixes Fullscreen Behavior and Screen Sharing",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366622",
+    "description": "The latest Hyprland patch release improves fullscreen handling, floating window rendering, monitor scale reporting, and screen capture behavior.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366622",
+    "date": "Aug 06, 2026 08:03",
+    "published_at": "2026-08-06T08:03:01Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "BMW Blasts Its Cars' Internal Screens With Aggressive Ads",
+    "link": "https://tech.slashdot.org/story/26/08/06/0414254/bmw-blasts-its-cars-internal-screens-with-aggressive-ads?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Longtime Slashdot readers schwit1 and fjo3 shared a report about BMW displaying a Spider-Man promotion on connected vehicle screens in more than 70 markets. According to reports, drivers had to play or dismiss the ad before they could use the infotainment system. Futurism reports: BMW, showing that it was about as in-touch as its drivers are familiar with turn signals, teased the promotion as a \"special surprise.\" According to The Autopian's coverage and the heaps of complaints online, the ad appears on the center console screen when you start up the car. When the ad's done playing -- a cheap looking animation that doesn't come close to warranting all this hubbub -- it even has the gall to ask you to scan a QR code.\n \nWhile it does give you the option to play or skip the \"festive animation,\" it's still an annoying extra step drivers have to take before pulling up the map they need or the music they want to listen to. It's also a breach of trust: drivers keep their cars connected so they receive critical software updates, not unexpectedly see ads when they're trying to hit the road. Few owners were pleased. Enthusiasts in the r/BMW subreddit had a veritable meltdown when someone posted footage of the ad playing on their infotainment system.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Aug 06, 2026 07:00",
+    "published_at": "2026-08-06T07:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Rust-Based uutils Coreutils 0.10 Reaches 93.5% GNU Compatibility",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366631",
+    "description": "The Rust-based core utilities project reaches a 93.48% GNU test pass rate while improving compatibility, security, and reliability.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366631",
+    "date": "Aug 06, 2026 05:00",
+    "published_at": "2026-08-06T05:00:02Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "New Images of the Sun Show Its Surface In the Finest Detail Yet",
+    "link": "https://science.slashdot.org/story/26/08/05/2226251/new-images-of-the-sun-show-its-surface-in-the-finest-detail-yet?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from the Associated Press: Scientists have captured images of the sun's surface in the finest detail yet, revealing a strange and dynamic facade. It's dangerous to look directly at the sun without proper eye protection. But researchers were able to peek at its scorching surface with the help of the National Science Foundation's Daniel K. Inouye Solar Telescope, located on the island of Maui in Hawaii.\n \nScientists originally took the images for a different reason: to fine-tune and test the limits of the telescope. But when they looked at the results, they realized they'd photographed the sun's bright outer shell at higher resolution than ever before. What's more, they saw strange feathery patterns rippling across the surface. \"That reminds me of famous paintings, like the swirling skies in Van Gogh's Starry Night,\" said solar physicist Ruizhu Chen with Stanford University, who was not involved with the new research.\n \nResearchers saw ripples of instability on the sun's surface caused by bits of magnetized plasma moving past each other at different speeds -- similar to waves that stir when a gust of wind blows over water. It's a well-known phenomenon that guides how fluids move. This has been glimpsed on Earth and other planets like Jupiter and Saturn, but \"it has not been observed ever at that level on the solar surface,\" according to study co-author Friedrich Woger with the National Solar Observatory. The findings were published Wednesday in the journal Nature.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Aug 06, 2026 03:30",
+    "published_at": "2026-08-06T03:30:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "GNOME 50.4 Desktop Environment Released with Various Improvements",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366635",
+    "description": "The GNOME Project released GNOME 50.4 today as the fourth maintenance update to the latest GNOME 50 desktop environment series to fix more bugs across various core apps and components.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366635",
+    "date": "Aug 06, 2026 03:28",
+    "published_at": "2026-08-06T03:28:33Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Mesa 26.2 Graphics Stack Released with Vulkan and OpenGL Driver Improvements",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366634",
+    "description": "Mesa 26.2 is now available, delivering new features, performance optimizations, and broader hardware support across its open-source graphics drivers.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366634",
+    "date": "Aug 06, 2026 01:57",
+    "published_at": "2026-08-06T01:57:04Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
     "title": "Linux 7.3 To Fix Longstanding Gap In The Native Driver For Original Steam Controller",
     "link": "https://www.phoronix.com/news/Linux-7.3-Steam-Controller",
     "description": "For those with one of the original Valve Steam Controllers from a decade ago and looking to make use of it with the native HID Linux driver outside of the Steam client or SDL, an important addition is coming with the Linux 7.3 kernel release later in the year...",
@@ -469,99 +741,5 @@
     "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
     "source": "slashdot.org",
     "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Decimen Lets You Send Files Through Light, Not a Network",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366611",
-    "description": "Decimen is an open-source web app that moves files between devices through an animated QR stream, requiring no direct network connection, pairing, account, or native app.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366611",
-    "date": "Aug 05, 2026 03:31",
-    "published_at": "2026-08-05T03:31:07Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Texas Halts Data Center Connections To Power Grid Amid Overwhelming Demand",
-    "link": "https://hardware.slashdot.org/story/26/08/04/231207/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "An anonymous reader quotes a report from Ars Technica: Nowhere is the US data center boom bigger than in Texas. But less than a year after declaring Texas the \"epicenter of AI development,\" Governor Greg Abbott has declared a moratorium on all new power grid connections for data centers -- at least until developers provide more information about their projects' potential impacts on the grid and communities. The Republican governor directed regulators in an August 3 announcement at the Public Utility Commission of Texas and the grid operators at the Electric Reliability Council of Texas (ERCOT) to perform a \"comprehensive verification and audit of all data centers advancing through ERCOT's interconnection process.\" As an independent system operator, ERCOT oversees a power grid that operates separately from the rest of the United States and provides services to most of Texas.\n \nTexas has aggressively courted data center development with its availability of cheap land and relatively abundant energy resources, along with offering state incentives, like tax breaks and fewer regulations. That puts the state on track to surpass Virginia in becoming the largest US data center market. But the recent AI boom and the accompanying frenzy of data center development threaten to overwhelm the Texas grid on paper, despite the state leading the country in adding new power generation. The ERCOT interconnection queue currently includes more than 1,800 projects representing over 474 gigawatts' worth of requests to connect to the Texas grid -- more than five times Texas' record peak electricity demand -- and about 90 percent of those power connection requests come from data centers.\n \n\"That unprecedented load growth could endanger the reliability and stability of the Texas electric grid,\" according to the statement from Abbott's office. Many of those data center projects may never materialize for various reasons. But ERCOT has still forecast that data center demand and other factors could drive statewide electricity demand to double the current demand record by 2032, according to The Texas Tribune. The review will examine each project's projected electricity consumption, reliance on the grid and state incentives, ownership, and water use. It will also assess measures intended to \"reduce impacts on neighboring property owners and communities,\" including noise controls, lighting, traffic improvements, setbacks, and emergency planning.\n \nArs Technica notes that the directive does not address air pollution or greenhouse-gas emissions and does not apply to data centers generating their own power on-site.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Aug 05, 2026 03:30",
-    "published_at": "2026-08-05T03:30:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "AMD Posts Proposal \u0026 Linux Patches For eSPI Subsystem",
-    "link": "https://www.phoronix.com/news/AMD-eSPI-Linux-Patches",
-    "description": "AMD has posted patches proposing a new Linux subsystem for the Enhanced Serial Peripheral Interface (eSPI) standard that was in turn originally developed by Intel. With AMD now making use of eSPI, they are proposing a new subsystem for it within the Linux kernel, which includes a new driver for their hardware...",
-    "guid": "https://www.phoronix.com/news/AMD-eSPI-Linux-Patches",
-    "date": "Aug 05, 2026 00:33",
-    "published_at": "2026-08-05T00:33:08Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "An LLM agent attempts to compromise a project on GitHub",
-    "link": "https://lwn.net/Articles/1087162/",
-    "description": "The AI Security Institute has released a\ndetailed report on an security incident of its own making.  The\nInstitute set some LLM agents loose on the Internet with a security\nchallenge; soon they were creating malware-laden pull requests and\nsock-puppet accounts to promote them.\n\n\n\tThe agent opened a malicious pull request (PR) to ⟨REPO_A⟩ and\n\tpursued a number of strategies to get it merged:\n\n Repeatedly commented on the PR with sockpuppet accounts to manufacture\n     consensus and pressure the maintainer into approving with minimal\n     review.\n\n Opened a GitHub Issue in another repository (also owned by ⟨PERSON_A⟩)\n     containing a prompt injection for other coding agents. The malicious\n     instructions were addressed to issue-triage AI coding agents and\n     invisible to humans viewing the website.\n\n Sent multiple emails to ⟨PERSON_A⟩ and ⟨PERSON_B⟩, with different\n     pretexts to get them to run malicious code. Over the course of the\n     sample, the agent sent five emails, some containing malware, others\n     aimed at persuading a maintainer to accept the pull request.\n\n\n\nIt would be surprising if this were the only incident of this type; the\nonly real difference here is that the people involved are documenting what\nhappened.",
-    "guid": "https://lwn.net/Articles/1087162/",
-    "date": "Aug 04, 2026 23:04",
-    "published_at": "2026-08-04T23:04:32Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "EA Is Now Officially Privately Owned",
-    "link": "https://games.slashdot.org/story/26/08/04/228200/ea-is-now-officially-privately-owned?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Longtime Slashdot reader neoRUR shares a report from Game Developer: EA Sports FC and Battlefield publisher EA has been taken private by an investor consortium led by Saudi Arabia's sovereign Public Investment Fund (PIF). The move means the U.S. juggernaut is no longer a publicly-traded entity and is now majority owned by the Kingdom of Saudi Arabia through its PIF investment arm. Other investors include Silver Lake and Affinity Partners, the latter of which was established by U.S. president Donald Trump's son-in-law Jared Kushner.\n \nThe $55 billion transaction was financed via a combination of cash from PIF, Silver Lake, and Affinity Partners as well as roll-over of PIF's existing stake in EA -- constituting an equity investment of approximately $36 billion. Notably, $20 billion of debt financing was provided by JPMorgan Chase Bank. The deal cleared the necessary regulatory hurdles in July, paving the way for its completion at the close of trading on August 4, 2026. It was approved by regulators in major markets such as the European Union and the United States without incident, despite lawmakers and union leaders in the U.S. calling on the Federal Trade Commission to heavily scrutinize the leveraged buyout over geopolitical and employment concerns.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Aug 04, 2026 23:00",
-    "published_at": "2026-08-04T23:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Apple Limits Bug Bounty Submissions After Flood of AI Slop",
-    "link": "https://it.slashdot.org/story/26/08/04/2045214/apple-limits-bug-bounty-submissions-after-flood-of-ai-slop?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Apple has capped the number of open bug-bounty reports researchers can submit after being flooded with low-quality and sometimes entirely fabricated vulnerabilities generated by AI. MacRumors reports: The Financial Times learned of the limit after cybersecurity startup Bynario used ChatGPT to locate more than 50 macOS bugs in three weeks. Bynario found a privilege escalation exploit that could let an attacker get unrestricted access to a Mac, but was unable to report it because Apple limited the number of bug reports Bynario could submit. Bynario sent eight reports to Apple in 2025, and another five in 2026 before hitting a restriction.\n \nBynario's founder said it is a \"very difficult time in the industry\" because companies are being \"flooded by the sheer amount of bugs.\" Apple has since been in contact with Bynario and is reviewing the company's submissions. While Apple now has a cap on the number of open submissions a researcher can have, researchers can request an increase to make sure Apple's security team doesn't miss a critical vulnerability.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Aug 04, 2026 22:00",
-    "published_at": "2026-08-04T22:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Bending Spoons to Buy Airtable For $1.28 Billion",
-    "link": "https://slashdot.org/story/26/08/04/2041222/bending-spoons-to-buy-airtable-for-128-billion?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Bending Spoons has made its first acquisition since going public last month at an $18 billion valuation, agreeing to buy spreadsheet and database startup Airtable for $1.28 billion in cash. Airtable joins a growing portfolio of notable brands owned by the Italian app developer, including Evernote, WeTransfer, EventBrite, and Vimeo. TechCrunch reports: Founded in 2013, Airtable has so far raised more than $1.4 billion over multiple funding rounds. At its peak, during the boom days of 2021, it was valued at over $11 billion, but earlier this year, its shares were said to be trading on the secondary markets at a valuation of $4 billion. With its current net cash-and-cash-equivalents balance, Airtable is now valued at about $2.25 billion, Bending Spoons said.\n \n\"Airtable is a pioneering brand reshaping how teams organize data and manage critical workflows. The value being delivered is reflected in annual recurring revenue growing over 20% YoY to approximately $480 million as of June 2026, and joining forces with Bending Spoons will accelerate innovation even further,\" Bending Spoons' founder Luca Ferrari said in a statement.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Aug 04, 2026 21:00",
-    "published_at": "2026-08-04T21:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "NVIDIA Joins Dell and HP in Supporting the Linux Vendor Firmware Service (LVFS)",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366608",
-    "description": "Fwupd maintainer and Linux Vendor Firmware Service (LVFS) creator Richard Hughes announced that NVIDIA has also agreed to become a premier sponsor for the Linux Vendor Firmware Service.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366608",
-    "date": "Aug 04, 2026 20:21",
-    "published_at": "2026-08-04T20:21:26Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Linux 7.3 To Fix MSI Claw M-Center Keys For Ryzen Z2 Extreme Powered Handheld",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366600",
-    "description": "For those with a MSI Claw A8 BZ2EM handheld gaming system, the model powered by the latest AMD Ryzen Z2 Extreme SoC, an important addition is coming to the Linux 7.3 kernel so that the M-Center keys will be properly supported...",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366600",
-    "date": "Aug 04, 2026 18:49",
-    "published_at": "2026-08-04T18:49:57Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
   }
 ]
