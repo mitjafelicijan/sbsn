@@ -1,5 +1,236 @@
 [
   {
+    "title": "GNOME Designers Lay Out Some Of Their GNOME Shell Dreams",
+    "link": "https://www.phoronix.com/news/GNOME-Shell-Plans-2026",
+    "description": "GNOME interaction designer Tobias Bernard has shared some of the plans and ideas for long-term GNOME Shell improvements they have been eyeing for future GNOME releases...",
+    "guid": "https://www.phoronix.com/news/GNOME-Shell-Plans-2026",
+    "date": "Aug 11, 2026 12:35",
+    "published_at": "2026-08-11T12:35:30Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Gamble your way out of a contract in the occult roulette roguelite deckbuilder 'Teufelskreis'",
+    "link": "https://www.gamingonlinux.com/2026/08/gamble-your-way-out-of-a-contract-in-the-occult-roulette-roguelite-deckbuilder-teufelskreis/",
+    "description": "Teufelskreis is an interesting one that's built on Linux with Godot. An occult roulette roguelike deckbuilder about gambling your way out of job contract.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/gamble-your-way-out-of-a-contract-in-the-occult-roulette-roguelite-deckbuilder-teufelskreis/",
+    "date": "Aug 11, 2026 12:26",
+    "published_at": "2026-08-11T12:26:47Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/795869659id29529gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Up To 12.8x Improvement Observed For gup_test With New Linux MM Patches",
+    "link": "https://www.phoronix.com/news/Linux-Batch-Follow-Page-Mask",
+    "description": "Linux developer Rik van Riel has pulled off some nice Linux kernel optimizations over the years and the Meta engineer has been working on another one around batching of look-ups with Linux's follow_page_mask() that is used for translating virtual addresses to the corresponding struct page...",
+    "guid": "https://www.phoronix.com/news/Linux-Batch-Follow-Page-Mask",
+    "date": "Aug 11, 2026 12:16",
+    "published_at": "2026-08-11T12:16:00Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Asobi: Remote Play is a new way to play PlayStation games on SteamOS / Linux",
+    "link": "https://www.gamingonlinux.com/2026/08/asobi-remote-play-is-a-new-way-to-play-playstation-games-on-steamos-linux/",
+    "description": "With testing being done on a SteamOS Steam Deck, Asobi: Remote Play is a new way to play PlayStation games on Linux systems including cloud-streaming.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/asobi-remote-play-is-a-new-way-to-play-playstation-games-on-steamos-linux/",
+    "date": "Aug 11, 2026 12:06",
+    "published_at": "2026-08-11T12:06:22Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1912917643id29528gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Raspberry Pi AXI PMU Driver Under Review For The Mainline Linux Kernel",
+    "link": "https://www.phoronix.com/news/Raspberry-Pi-AXI-PMU-Linux",
+    "description": "One of the Raspberry Pi device drivers that has remained elusive from the mainline Linux kernel has been for the performance monitoring unit (PMU) for the Broadcom AXI on all Raspberry Pi 1 through Raspberry Pi 5 models. Thanks to the work of a Google engineer, there is a new effort working to get a mainline Linux driver for the Raspberry Pi AXI PMU...",
+    "guid": "https://www.phoronix.com/news/Raspberry-Pi-AXI-PMU-Linux",
+    "date": "Aug 11, 2026 12:00",
+    "published_at": "2026-08-11T12:00:33Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Run Hermes on Raspberry Pi, Control It from Your Laptop",
+    "link": "https://feed.itsfoss.com/link/24361/17414747/hermes-desktop-remote-gateway",
+    "description": "The idea is to use Raspberry Pi as an always-on Hermes backend while using it from the computer(s).",
+    "guid": "6a7ab870b11ec20001886779",
+    "date": "Aug 11, 2026 11:38",
+    "published_at": "2026-08-11T11:38:23Z",
+    "image": "https://itsfoss.com/content/images/2026/08/hermes-desktop-remote-gateway.webp",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "BlueFerry Brings iMessage and SMS from iPhone to Linux Over Bluetooth",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366742",
+    "description": "BlueFerry is a new open-source Linux app that lets users send and receive iMessage and SMS from an iPhone directly over Bluetooth.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366742",
+    "date": "Aug 11, 2026 11:15",
+    "published_at": "2026-08-11T11:15:38Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Reddit Bans 11-Year Account for GPL Game Post, Testing the EU's DSA",
+    "link": "https://tech.slashdot.org/story/26/08/11/0532213/reddit-bans-11-year-account-for-gpl-game-post-testing-the-eus-dsa?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Longtime Slashdot reader DF5JT writes: On July 26, I posted a single announcement in r/backgammon: GNU Backgammon for Android, GPLv3, the first standalone backgammon engine on F-Droid. Reddit's spam filter removed the post and permanently banned my 11-year, 30,000-karma account -- the result is publicly visible at reddit.com/user/OE1FEU. To this day, Reddit has given no reason whatsoever, although Article 17 of the EU's Digital Services Act makes a statement of reasons mandatory. The only appeal channel is a 250-character web form that sends no confirmation and has never been answered; Reddit's own help text admits: \"you may not have received a message to your inbox.\" A GDPR export of 11 years of data came to 7.2 MB; every post was truncated after a few lines, with zero data about the ban decision.\n \nSo I spent one day escalating through every mechanism the EU provides: certified out-of-court dispute settlement at Austria's RTR, complaints with the Austrian and Dutch Digital Services Coordinators, the data protection authority (citing the ECJ's SCHUFA ruling on automated decisions), noyb, and Austria's consumer association. Bonus finding: the European Commission's DSA Transparency Database contains 14,067 Reddit statements of reasons for that week -- none for my ban -- and the Commission's own feedback form limits reports to 500 characters and crashed with a 500 Server Error. Is the DSA enforceable for ordinary users, or just paperwork?\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Aug 11, 2026 11:00",
+    "published_at": "2026-08-11T11:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Linux Mint Teases A Kernel Cleanup Trick That Fedora Figured Out Years Ago",
+    "link": "https://feed.itsfoss.com/link/24361/17414686/linux-mint-kernel-removal-feature",
+    "description": "The work-in-progress feature would clear out old, unused kernels automatically every week.",
+    "guid": "6a7acafeb11ec200018867a0",
+    "date": "Aug 11, 2026 10:41",
+    "published_at": "2026-08-11T10:41:46Z",
+    "image": "https://itsfoss.com/content/images/2026/08/linux-mint-kernel-removal-feature-banner.png",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "FastFlowLM 1.0 Released Now As Part Of The AMD ROCm Umbrella",
+    "link": "https://www.phoronix.com/news/FastFlowLM-1.0",
+    "description": "FastFlowLM is the open-source software for getting vision, audio, embedding, and MoE large language models up and running on AMD Ryzen AI NPUs. FastFlowLM 1.0 released today and is also now part of the AMD ROCm software umbrella...",
+    "guid": "https://www.phoronix.com/news/FastFlowLM-1.0",
+    "date": "Aug 11, 2026 10:24",
+    "published_at": "2026-08-11T10:24:00Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Rusticl Now Supports cl_ext_float_atomics",
+    "link": "https://www.phoronix.com/news/Rusticl-cl_ext_float_atomics",
+    "description": "With the recent release of Mesa 26.2 the Rusticl OpenCL driver now supports OpenCL 3.1 on RadeonSI, LLVMpipe, Zink, Intel Iris, and Apple Asahi. But the work is not over and more improvements to this Rust-based, modern OpenCL driver continue to land...",
+    "guid": "https://www.phoronix.com/news/Rusticl-cl_ext_float_atomics",
+    "date": "Aug 11, 2026 10:13",
+    "published_at": "2026-08-11T10:13:00Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Claude Opus Helped Debug \u0026 Fix Lack Of Audio On Linux For HP OmniBook X Flip 14",
+    "link": "https://www.phoronix.com/news/HP-X-Flip-14-Linux-Audio",
+    "description": "The HP OmniBook X Flip 14-kc0xxx is an AMD Ryzen AI 300 \"Strix Point\" powered laptop. While most AMD Strix Point laptops work fine on modern Linux distributions, with this particular HP OmniBook X there is no working audio with current mainline Linux kernel builds. With Claude Opus 5 acting as a debugging assistant and coding agent, patches are now pending to correct the audio support for this HP OmniBook X Flip 14 laptop to function on Linux...",
+    "guid": "https://www.phoronix.com/news/HP-X-Flip-14-Linux-Audio",
+    "date": "Aug 11, 2026 09:59",
+    "published_at": "2026-08-11T09:59:26Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "SparkyLinux 8.4 Brings Back 32-Bit Support for Older PCs",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366740",
+    "description": "SparkyLinux 8.4 is out based on Debian 13 “Trixie,” restoring 32-bit i686 images alongside updated packages and Linux kernel 6.12 LTS.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366740",
+    "date": "Aug 11, 2026 09:44",
+    "published_at": "2026-08-11T09:44:09Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "OptiScaler Client 1.0.6 adds Heroic Games Launcher support, experimental gamepad support, FSR 4.1.1 for older GPUs",
+    "link": "https://www.gamingonlinux.com/2026/08/optiscaler-client-1-0-6-adds-heroic-games-launcher-support-experimental-gamepad-support-fsr-4-1-1-for-older-gpus/",
+    "description": "OptiScaler Client is a modern, high-performance desktop utility designed to simplify the installation, management, and update of the OptiScaler mod.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/optiscaler-client-1-0-6-adds-heroic-games-launcher-support-experimental-gamepad-support-fsr-4-1-1-for-older-gpus/",
+    "date": "Aug 11, 2026 08:54",
+    "published_at": "2026-08-11T08:54:28Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1250621851id29527gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "SteamVR Beta 2.17.7 brings improvements to wired headset support on Linux / SteamOS",
+    "link": "https://www.gamingonlinux.com/2026/08/steamvr-beta-2-17-7-brings-improvements-to-wired-headset-support-on-linux-steamos/",
+    "description": "VR on Linux has quite a number of sore spots but it seems Valve do continue to improve it, with the latest SteamVR Beta hopefully making it a lot nicer.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/steamvr-beta-2-17-7-brings-improvements-to-wired-headset-support-on-linux-steamos/",
+    "date": "Aug 11, 2026 08:36",
+    "published_at": "2026-08-11T08:36:50Z",
+    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/SteamVR.jpg",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "XBOX PC and Game Pass coming to Linux with the 'Xodus' project",
+    "link": "https://www.gamingonlinux.com/2026/08/xbox-pc-and-game-pass-coming-to-linux-with-the-xodus-project/",
+    "description": "One big thing missing for Linux right now is support for XBOX PC and Game Pass, but we might not be waiting forever on that thanks to the 'Xodus' project.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/xbox-pc-and-game-pass-coming-to-linux-with-the-xodus-project/",
+    "date": "Aug 11, 2026 08:31",
+    "published_at": "2026-08-11T08:31:31Z",
+    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/XBOX.jpg",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "GE-Proton 11-4 brings lots of controller improvements",
+    "link": "https://www.gamingonlinux.com/2026/08/ge-proton-11-4-brings-lots-of-controller-improvements/",
+    "description": "The community maintained compatibility layer GE-Proton 11-4 is out now, and with it there's a whole lot of fixes and improvements for controllers.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/ge-proton-11-4-brings-lots-of-controller-improvements/",
+    "date": "Aug 11, 2026 08:21",
+    "published_at": "2026-08-11T08:21:46Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/437938319id29524gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "The Roboguard Revolution Is Short-Circuiting",
+    "link": "https://hardware.slashdot.org/story/26/08/11/0538200/the-roboguard-revolution-is-short-circuiting?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "alternative_right shares a report from 404 Media: Robotics companies promise that video-camera-toting security robots can deter and detect crime. But many companies are rethinking the approach after a trail of canceled contracts and questions about whether the artificial intelligence-powered bots are meeting the needs of businesses and local governments. Proof News found evidence of at least 21 security robot deployments since 2015. We contacted contract holders and combed news articles and determined that at least 13 of those programs have ended. Silicon Valley-based Knightscope secured the most security robot contracts, according to Proof's analysis, and also suffered the bulk of cancellations.\n \nFor example, New York City's then-Mayor Eric Adams installed a Knightscope robot on the overnight shift at the Times Square subway station, but the program was scrapped when the pilot expired in 2024. City leaders did not respond to Proof News' questions about why the robot wasn't renewed. By the end of its assignment, it was reportedly gathering dust in an empty storefront. Outside Columbus, Ohio, the city of Dublin pulled the plug on a Knightscope robot in May, ending its two-year pilot program after less than 10 months. The city enlisted the robot, dubbed DubBot, to patrol a downtown park, but city spokeswoman Robyn Gray said it \"did not fully meet our operational needs,\" and failed to identify any criminal incidents or lead to any tickets or arrests.\n \n[...] Seeking a new path forward in the security industry, Knightscope CEO William Santana Li said the company is forging a new model, combining its robots and AI-powered software with another key ingredient: human security guards. Knightscope announced it purchased Event Risk LLC, a national security guard firm, earlier this year. Knightscope has incurred net losses since inception in 2013, according to its most recent quarterly filing with the U.S. Securities and Exchange Commission, and is $273 million in debt. Knightscope hopes its pivot to incorporate people will give it a greater share of the physical security market -- which the company believes is worth an estimated $230 billion annually. Li declined to answer questions about the disbanded programs, but said in an email, \"Technology cannot do everything -- and neither can people -- but the combination can be very powerful.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Aug 11, 2026 08:00",
+    "published_at": "2026-08-11T08:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Radxa Broadens rCore Series with Snapdragon and Dragonwing AI SoMs",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366714",
+    "description": "Radxa has revealed two Qualcomm-based system-on-modules aimed at edge AI, multimedia, robotics, and industrial applications. The new rCore-Q8280 uses the Snapdragon 8cx Gen 3 with 29+ TOPS of AI performance, while the smaller rCore-Q6490 is based on the Dragonwing QCS6490 and provides up to 12 Dense TOPS. The higher-performance rCore-Q8280 is built around Qualcomm’s Snapdragon […]",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366714",
+    "date": "Aug 11, 2026 06:41",
+    "published_at": "2026-08-11T06:41:10Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Taxi Drivers Rarely Die of Alzheimer's",
+    "link": "https://science.slashdot.org/story/26/08/11/0515205/taxi-drivers-rarely-die-of-alzheimers?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader shares a report from The Conversation, written by Hatim Sharif, a civil and environmental engineer who has \"spent more than two decades staring at maps\" and spatial data. Sharif finds one connection especially fascinating: the link between spatial reasoning and why taxi drivers seem to have lower rates of Alzheimer's. From the report: Taxi and ambulance drivers are less likely than workers in almost any other job to die of Alzheimer's disease. That was the surprising result of a 2024 study examining the death certificates of nearly 9 million people in the U.S. [...] Of the 9 million death certificates from January 2020 to December 2022 that researchers examined, taxi and ambulance drivers had the lowest risk of dying from Alzheimer's disease out of 443 occupations. After adjusting for age, sex, race, ethnicity and education, roughly 1 in 100 taxi and ambulance drivers died of Alzheimer's, compared with 1 in 60 people overall. This pattern did not extend to other driving jobs.\n \nThe researchers concluded that the key to reducing the risk of Alzheimer's was not driving itself but continuous real-time navigation: the constant work of locating yourself in space, tracking a destination and updating a mental map as conditions change. Drivers whose jobs relied on fixed or predetermined routes, like bus drivers and aircraft pilots, didn't seem to experience a similar advantage. Researchers believe the association between navigation-heavy work and lower Alzheimer's risk centers on the hippocampus, a part of the brain that governs memory and spatial navigation. It's one of the first brain regions that Alzheimer's damages: Problems with spatial navigation and orientation are among the earliest signs of the disease, sometimes surfacing before obvious memory loss.\n \nIn one landmark 2000 study, neuroscientists compared the brains of licensed London taxi drivers with those of people who did not drive cabs. Their findings provided the first evidence via structural imaging that regions of the adult brain can measurably change under sustained navigational demand. To earn a license, London cabbies must memorize more than 25,000 streets within a 6-mile radius of Charing Cross, a challenge known as \"The Knowledge\" that takes three to four years.\n \nThe researchers found that London taxi drivers had measurably more gray matter in the posterior hippocampus, a brain area tied to storing large-scale spatial maps. That volume tracked with experience: The longer someone had driven, the larger that part of the brain. The change was built through practice, not inherited. While people who are good at navigation might gravitate to this kind of job, the job itself does have an impact on the brain. Together, these two studies make a coherent case: Work that intensively exercises the hippocampus may reshape it, and that reshaping may protect against one of the most feared diseases of aging.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Aug 11, 2026 05:16",
+    "published_at": "2026-08-11T05:16:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Ubuntu 24.04 LTS Users Get Linux 7.0 HWE Kernel Ahead of Ubuntu 24.04.5 LTS",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366713",
+    "description": "Good news for Ubuntu users as Canonical has started pushing the Linux 7.0 HWE (Hardware Enablement) kernel updates from Ubuntu 26.04 LTS (Resolute Raccoon) to Ubuntu 24.04 LTS (Noble Numbat).",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366713",
+    "date": "Aug 11, 2026 03:38",
+    "published_at": "2026-08-11T03:38:11Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Open-Source NVIDIA \"Nova\" Driver Sees More Functionality For Linux 7.3",
+    "link": "https://www.phoronix.com/news/NVIDIA-Nova-Rust-Linux-7.3",
+    "description": "Sent to DRM-Next this week was the DRM Rust core and driver changes targeting the upcoming Linux 7.3 merge window. There continues to be a lot of DRM core infrastructure work happening for Rust integration plus two leading Rust DRM drivers of Nova for open-source NVIDIA GPU support as the successor to Nouveau and then Tyr as the in-development Arm Mali driver...",
+    "guid": "https://www.phoronix.com/news/NVIDIA-Nova-Rust-Linux-7.3",
+    "date": "Aug 11, 2026 01:08",
+    "published_at": "2026-08-11T01:08:38Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
     "title": "Debian Testing “Forky” Users Can Now Enjoy KDE Plasma 6.7",
     "link": "https://lxer.com/module/newswire/ext_link.php?rid=366719",
     "description": "KDE Plasma 6.7 is now available in Debian Testing “Forky,” giving users access to the latest desktop improvements ahead of Debian 14.",
@@ -253,7 +484,7 @@
   {
     "title": "A retro gem returns and rebuilt, Knytt Classic is out now and free",
     "link": "https://www.gamingonlinux.com/2026/08/a-retro-gem-returns-and-rebuilt-knytt-classic-is-out-now-and-free/",
-    "description": "Knytt Classic, a fully rebuilt version of the much loved indie platformer is out today completely free on Steam.Read the full article on GamingOnLinux.",
+    "description": "Knytt Classic, a fully rebuilt version of the much loved indie platformer is out today completely free on Steam and GOGRead the full article on GamingOnLinux.",
     "guid": "https://www.gamingonlinux.com/2026/08/a-retro-gem-returns-and-rebuilt-knytt-classic-is-out-now-and-free/",
     "date": "Aug 10, 2026 13:16",
     "published_at": "2026-08-10T13:16:39Z",
@@ -506,6 +737,16 @@
     "source_url": "https://slashdot.org/"
   },
   {
+    "title": "Linux 7.2-rc7 Released Following Another Exhausting AI-Driven Week",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366710",
+    "description": "Linux 7.2-rc7 is now available for testing as we close in on the official Linux 7.2 release hopefully next weekend...",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366710",
+    "date": "Aug 10, 2026 06:56",
+    "published_at": "2026-08-10T06:56:35Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
     "title": "ESP32 Bit Pirate 1.7 Gains LoRa, Meshtastic, and Browser-Based BPIO2 Control",
     "link": "https://lxer.com/module/newswire/ext_link.php?rid=366712",
     "description": "ESP32 Bit Pirate has released version 1.7 of its ESP32-S3-based hardware debugging platform, adding LoRa support for SX1262 transceivers, a Meshtastic analysis shell, a new BPIO2 USB adapter, and support for additional boards. The open-source project continues to expand its browser-based tools for hardware debugging, programming, and experimentation. A major addition in version 1.7 is […]",
@@ -514,99 +755,5 @@
     "published_at": "2026-08-10T05:25:06Z",
     "source": "lxer.com",
     "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Microsoft Responds to Outcry After Quietly Installing Beta 'Photos' App on Enterprise Machines",
-    "link": "https://tech.slashdot.org/story/26/08/10/0229237/microsoft-responds-to-outcry-after-quietly-installing-beta-photos-app-on-enterprise-machines?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Microsoft's cloud storage app OneDrive got a new Photos app in the worst possible way, reports the blog Neowin . \"The app is reportedly showing up even on Windows 11 Enterprise machines, despite apparently being a beta application aimed at consumer functionality.\"\n\n\n\n\n\nOne admin questioned why a beta app was appearing on an Enterprise SKU in the first place, while another described the situation as yet another consumer-oriented feature being forced onto corporate PCs. Things get even more frustrating for IT departments because there does not appear to be a straightforward Microsoft-provided way to disable the app... Enterprise administrators generally need to know what is being installed on their managed devices, particularly when a software is labeled as beta. Quietly adding another application and leaving admins to clean it up themselves is therefore unlikely to win Microsoft many fans. \n\n\nBut there's another problem, according to the blog Windows Latest. \"OneDrive Photos automatically scans your system storage for photos,\" and apparently \"doesn't need a Microsoft account to work, as it can also detect your local files.\"\n\n\nThere's also a People section that groups similar faces in your photos. Microsoft asks for permission before turning it on and explicitly warns that facial data could be considered biometric data in some regions. The company says only you can see the grouped faces, that the data isn't shared with third parties, and that you can delete it by disabling the feature.\n \n\n\nIn a statement to Neowin,\nMicrosoft admitted this new photos \"experience\" they're \"incubating\" had gone \"more broadly than it should have,\" and then promised that \"We're fixing that.\" The spokesperson also said the Windows Photos app will \"always give you the option of local and cloud photos\" and, also a choice of whether or not to use it OneDrive.\" \n\n\nBut there's another \"awkward catch,\" notes the blog Digital Trends. \"Users currently can't uninstall OneDrive Photos without removing the main OneDrive app too.\"\n\nBecause OneDrive Photos is tied to the main OneDrive sync client, Windows 11 doesn't currently offer a separate uninstall option. The only straightforward way to get rid of OneDrive Photos right now is to uninstall OneDrive itself... Removing the main client can also affect its File Explorer integration and shortcuts... \n\nMicrosoft says this will change. The company is working on controls that will let users remove OneDrive Photos separately from the main OneDrive app. On enterprise PCs managed through Intune, Microsoft says the app will automatically disappear where it isn't supported.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Aug 10, 2026 04:34",
-    "published_at": "2026-08-10T04:34:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Privacy Backlash Explodes Against Meta's Smart Glasses",
-    "link": "https://yro.slashdot.org/story/26/08/10/0152228/privacy-backlash-explodes-against-metas-smart-glasses?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "With nearly 70% of the market, \"Meta wants its smart glasses to be a big hit,\" writes the Los Angeles Times. But after some users found ways to disable the light that warns people they're being filmed, \"the high-tech specs have also turned into a liability, as some are calling the gadget 'pervert glasses...'\"\n\n\n\nSome people are using the glasses — which look like a pair of regular spectacles — to record people without their knowledge and publish the videos on social media. The users secretly videotape and share what happens when they try to pick up women. Now, a growing number of people are worried they could be covertly recorded at the gym or even during sex. The backlash has prompted Meta to update its glasses to address privacy concerns, and some places have banned them, adding to the angst surrounding technology that's rapidly evolving... \n\nConcern about the glasses has exploded as more videos of interactions with people who don't know they're being recorded go viral on social media. On Instagram, some videos depict people getting approached in malls and grocery stores and on college campuses and sidewalks. While the videos are portrayed as jokes, the people filmed don't appear to know they're being recorded and sometimes seem uncomfortable, telling the strangers to leave them alone or stop harassing them. The outcry has spread beyond social media, with comedian Jimmy Kimmel calling the Meta devices \"pervert glasses\" on national television and singer Lorde telling concertgoers that smart glasses are \"not sexy...\" \n\nInstagram, which is owned by Meta, has been disabling accounts and taking down some of these pickup or prank videos for violating the platform's rules against harassment and bullying... Businesses are making their own calls about smart glasses. The 5 Point Cafe in Seattle, which banned Google Glass in the past, has banned Meta glasses from its diner and dive bar. \"Leave your Meta-SpyBan Display at home, they are officially Ray-Ban-ned from all of our restaurants. We serve privacy, not side-eye surveillance,\" a 2025 Instagram post from the business states.\n \n\nAn Android app that warns people if they're being recorded has roughly 110,000 downloads in the last six months, according to the article. The app's creator says it's a \"social problem\" that \"we don't value privacy, that we feel entitled to use others for our entertainment or our private gain, and technology amplifies that.\" \n\nThe American Civil Liberties Union and more than 70 organizations even sent a letter urging Meta to promise they'd leave facial recognition features out of their smart glasses, according to the article. But a Meta spokesperson said \"no final decision has been made.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Aug 10, 2026 01:59",
-    "published_at": "2026-08-10T01:59:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "AI Reviews Bring 'New Normal' to Linux Release Candidates: Lots of Bug Fixes",
-    "link": "https://linux.slashdot.org/story/26/08/10/0014253/ai-reviews-bring-new-normal-to-linux-release-candidates-lots-of-bug-fixes?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Linux Torvalds expects Linux 7.2 should be released next weekend \"unless something really bad\npops up,\" Torvalds said while announcing today's release candidate. \n\nBut there's something interesting about Linux 7.2-rc7, writes Phoronix. \"By the time the Linux kernel typically hits a -rc7 release things have usually settled quite well. But in today's world of AI/LLM coding/review agents, the kernel activity continues at an all-time high.\"\n\n\n\nTons of bug fixes continued to trickle in across the kernel spectrum for all sorts of issues. The HWMON hardware monitoring subsystem saw several critical and high severity bug fixes, on the memory management side was a nasty race condition leading to a use-after-free in the kernel for the past eight years, Btrfs restored its fixup worker infrastructure to deal with silent data loss, lots of AI patches in the networking realm, and the kernel was patched for the Safe RET Interrupt Vulnerability.\n\n\n\n \n\nLinus Torvalds wrote in the 7.2-rc7 announcement: \n\n\"Another week, another -rc. \n\nI can't say that I'm exactly thrilled about the size of this all, but\nit is what it is: the new normal with a lot of fixes, many of them due\nto review by various AI tools. \n\nAnd nothing looks particularly scary per se — it's just that there's a\nlot here. Most of it is fairly small, although we have a couple of\nlarger diffs: s390/zcrypt fixes stand out in the diffstat, and so does\nbtrfs bringing back the fixup worker infrastructure. And some\nnetfilter ipset fixes. \n\nBut aside from a few places like that, most of this is just lots of\ntiny fixes. It's pretty much spread all over — drivers (gpu, sound,\nnetworking, you name it), filesystems, core networking, arch code...\n\n\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Aug 10, 2026 00:59",
-    "published_at": "2026-08-10T00:59:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Flock Accused of Reactivating Its Cameras Without Notifying a Town",
-    "link": "https://yro.slashdot.org/story/26/08/08/0621205/flock-accused-of-reactivating-its-cameras-without-notifying-a-town?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "A Massachusetts newspaper reports that officials from the town of Littleton (population: 10,141) \"claim that five of Littletonâ(TM)s Flock Safety cameras were switched back on by the company without informing the town...\" \n\n\nLittleton had temporarily disabled the cameras earlier this year, according to the article, but upon discovering the cameras were still active, city officials say they directed the Town Counsel \"to initiate cancellation of the contract with Flock Safety and directed the Town Administrator to coordinate the removal of the six cameras on public ways\" with the Department of Public Works. \n\nIronically, it's the same Massachusetts town that last year was breached by a Chinese-state-sponsored hacking group for over 300 days. \n\nFlock has also considered dashcams installed in hundreds of thousands Uber, Lyft, and delivery drivers' vehicles \"to scan license plates those drivers travelled passed,\" reports 404 Media, \"essentially turning Uber and Lyft drivers into roaming surveillance vehicles, according to a Flock presentation shared with 404 Media...\n 404 Media first revealed the intended partnership last August when multiple sources provided information on the plan.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Aug 09, 2026 23:15",
-    "published_at": "2026-08-09T23:15:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Kernel prepatch 7.2-rc7",
-    "link": "https://lwn.net/Articles/1087961/",
-    "description": "The 7.2-rc7 kernel prepatch is out for\ntesting.  It is still bigger than Linus would like, but he said\nnonetheless: \"I don't currently see any value in delaying the 7.2\nrelease, so I would expect that to happen next weekend unless something\nreally bad pops up.\"",
-    "guid": "https://lwn.net/Articles/1087961/",
-    "date": "Aug 09, 2026 22:39",
-    "published_at": "2026-08-09T22:39:56Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "Linux 7.2-rc7 Released Following Another Exhausting AI-Driven Week",
-    "link": "https://www.phoronix.com/news/Linux-7.2-rc7-Released",
-    "description": "Linux 7.2-rc7 is now available for testing as we close in on the official Linux 7.2 release hopefully next weekend...",
-    "guid": "https://www.phoronix.com/news/Linux-7.2-rc7-Released",
-    "date": "Aug 09, 2026 22:14",
-    "published_at": "2026-08-09T22:14:34Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "CachyOS ISO Release for August 2026 Improves the Installer, Desktop Profiles",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366708",
-    "description": "The development team behind the Arch Linux-based CachyOS published today a new ISO snapshot for August 2026 that includes the latest package updates, new features, and improvements.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366708",
-    "date": "Aug 09, 2026 19:27",
-    "published_at": "2026-08-09T19:27:01Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Four weekend stable kernel updates",
-    "link": "https://lwn.net/Articles/1087949/",
-    "description": "The\n7.1.8,\n6.18.44,\n6.12.103, and\n6.6.151\nstable kernels have been released; each contains a fair number of important\nfixes.",
-    "guid": "https://lwn.net/Articles/1087949/",
-    "date": "Aug 09, 2026 19:24",
-    "published_at": "2026-08-09T19:24:41Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "CachyOS August 2026 Release Preps For Upcoming Server Edition",
-    "link": "https://www.phoronix.com/news/CachyOS-August-2026",
-    "description": "CachyOS is out with its latest media refresh of the year. Beyond the usual desktop improvements for the performance-optimized CachyOS, they continue working toward the upcoming CachyOS Server Edition...",
-    "guid": "https://www.phoronix.com/news/CachyOS-August-2026",
-    "date": "Aug 09, 2026 18:18",
-    "published_at": "2026-08-09T18:18:19Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
   }
 ]
