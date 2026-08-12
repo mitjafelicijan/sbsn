@@ -1,5 +1,184 @@
 [
   {
+    "title": "Swarms of Tiny Robots Remove Microplastics From Soil and Water",
+    "link": "https://hardware.slashdot.org/story/26/08/12/0547231/swarms-of-tiny-robots-remove-microplastics-from-soil-and-water?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "alternative_right shares a report from Phys.org: Scientists from the Czech Republic have created microscopic cleanup robots that successfully removed microplastics from both soil and aquatic environments in the lab. Details of their work are published in the journal npg Asia Materials. To build the robots, researchers started with microscopic MXene particles made of ultrathin, stacked layers. The material has a large surface area and surface chemistry that help it attract and hold plastic. They then coated the particles with magnetic nickel nanoparticles so rotating magnetic fields could drive the tiny robots.\n \nThen came the testing phase. The team placed swarms of these microbots into water and soil samples contaminated with plastic. The externally generated magnetic fields made the robots spin and tumble through the liquid and squeeze through tiny water-filled gaps in the soil. \"In soil environments, the microrobots can navigate through water-permeated soil microenvironments, actively disrupt microplastic entrapment within soil matrices, and extract them,\" the study authors commented in their paper. As they moved, their sticky surfaces collided with microplastics, binding to them and dragging them along. The researchers then used a magnet to pull the microrobots, along with their trapped plastic cargo, out of the samples.\n \nThey performed well. In water, they removed about 94% of test polystyrene particles and 89% of PET (polyethylene terephthalate) in around an hour. In the model soil, they removed about 81% of the polystyrene and 72% of PET. This outperformed the same MXene material used without magnetic motion, which relied on passive adsorption rather than actively moving through soil and water.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Aug 12, 2026 11:00",
+    "published_at": "2026-08-12T11:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "SimpleX Chat Wants Its 400K+ Users to Become Investors Too",
+    "link": "https://feed.itsfoss.com/link/24361/17416295/simplex-chat-investment-drive",
+    "description": "The funds will go towards keeping the project up and running.",
+    "guid": "6a7c087bb11ec2000188729c",
+    "date": "Aug 12, 2026 10:59",
+    "published_at": "2026-08-12T10:59:08Z",
+    "image": "https://itsfoss.com/content/images/2026/08/simplex-chat-investment-banner.png",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "Linux 7.2 To Revert Back To The FIFO DRM Scheduler Policy Due To \"Fair\" Regressions",
+    "link": "https://www.phoronix.com/news/Linux-7.2-Reverting-DRM-Fair",
+    "description": "One of the Direct Rendering Manager changes made for Linux 7.2 was switching to \"fair\" as the DRM scheduler default in place of the existing FIFO policy. The intent was on making the DRM scheduler policy more fair with this being used by AMDGPU and various other DRM kernel graphics drivers. But due to a last minute regression report, the fair policy is being reverted for Linux 7.2...",
+    "guid": "https://www.phoronix.com/news/Linux-7.2-Reverting-DRM-Fair",
+    "date": "Aug 12, 2026 10:31",
+    "published_at": "2026-08-12T10:31:25Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Mold 2.42 Delivering Greater Performance For This High Speed Linker",
+    "link": "https://www.phoronix.com/news/Mold-2.42-Released",
+    "description": "It's been quiet since the Mold 2.41 release back in April while today it's now been succeeded by Mold 2.42 for deliver even greater performance out of this high speed linker...",
+    "guid": "https://www.phoronix.com/news/Mold-2.42-Released",
+    "date": "Aug 12, 2026 10:21",
+    "published_at": "2026-08-12T10:21:09Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Intel LLM-Scaler Ready With Muse Glimmer Support, Other LLMs \u0026 Features",
+    "link": "https://www.phoronix.com/news/Intel-LLM-Scaler-Muse-Glimmer",
+    "description": "Intel's LLM-Scaler project that was born out of their Project Battlematrix initiative aims to make it easier to run generative AI on Arc (Pro) B-Series graphics cards with the likes of vLLM, ComfyUI, SGLang, and other popular AI software in this Docker-based pre-configured AI stack. This week new LLM-Scaler releases brought same-day support for new models and other enhancements...",
+    "guid": "https://www.phoronix.com/news/Intel-LLM-Scaler-Muse-Glimmer",
+    "date": "Aug 12, 2026 10:12",
+    "published_at": "2026-08-12T10:12:00Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "SnekromancY is a clever reinvention of Snake with a survivor-like tower escape style",
+    "link": "https://www.gamingonlinux.com/2026/08/snekromancy-is-a-clever-reinvention-of-snake-with-a-survivor-like-tower-escape-style/",
+    "description": "SnekromancY mixes three rather different genres together into something I haven't seen before with Snake, Vampire Survivors and Tower Escape.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/snekromancy-is-a-clever-reinvention-of-snake-with-a-survivor-like-tower-escape-style/",
+    "date": "Aug 12, 2026 10:06",
+    "published_at": "2026-08-12T10:06:42Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/409757905id29536gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "LACT 0.10 Released With New NVIDIA Overclocking Controls, Blackwell Hotspot Sensor",
+    "link": "https://www.phoronix.com/news/LACT-0.10-Released",
+    "description": "LACT is one of the popular third-party Linux GPU configuration and monitoring utilities that works across NVIDIA, AMD, and Intel graphics. This GUI provides GPU overclocking controls plus a wealth of information reporting, which is especially great considering the lack of any official GUI control panel for AMD Radeon and Intel Arc graphics on Linux. With today's LACT 0.10 release, there are yet more features in tow...",
+    "guid": "https://www.phoronix.com/news/LACT-0.10-Released",
+    "date": "Aug 12, 2026 09:52",
+    "published_at": "2026-08-12T09:52:03Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Xfce’s Wayland Compositor Gets Second Preview with Better Window and Input Handling",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366745",
+    "description": "Xfce’s experimental Wayland compositor xfwl4 gets its second preview release, adding new window management features and a large batch of fixes.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366745",
+    "date": "Aug 12, 2026 09:13",
+    "published_at": "2026-08-12T09:13:30Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Mining for that one single golden bit in '10 Million Pixels' is going to consume me",
+    "link": "https://www.gamingonlinux.com/2026/08/mining-for-that-one-single-golden-bit-in-10-million-pixels-is-going-to-consume-me/",
+    "description": "Another interesting upcoming incremental game here for you called 10 Million Pixels, and it's all about hunting for the golden pixel.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/mining-for-that-one-single-golden-bit-in-10-million-pixels-is-going-to-consume-me/",
+    "date": "Aug 12, 2026 09:09",
+    "published_at": "2026-08-12T09:09:24Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/133760000id29535gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Inspired by the Minecraft Redstone system, minimalist puzzler 'Pight' is a real gem",
+    "link": "https://www.gamingonlinux.com/2026/08/inspired-by-the-minecraft-redstone-system-minimalist-puzzler-pight-is-a-real-gem/",
+    "description": "Minecraft Redstone tends to melt my brain in a frustrating way, but the minimalist puzzle game Pight makes me feel somewhat smart.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/inspired-by-the-minecraft-redstone-system-minimalist-puzzler-pight-is-a-real-gem/",
+    "date": "Aug 12, 2026 08:50",
+    "published_at": "2026-08-12T08:50:25Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1094235410id29534gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Globe-trotting choices-matter CRPG 'Travelling At Night' has a demo up",
+    "link": "https://www.gamingonlinux.com/2026/08/globe-trotting-choices-matter-crpg-travelling-at-night-has-a-demo-up/",
+    "description": "From the creator of Cultist Simulator and Book of Hours comes a globe-trotting choices-matter CRPG, with a demo now up for Travelling At Night.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/globe-trotting-choices-matter-crpg-travelling-at-night-has-a-demo-up/",
+    "date": "Aug 12, 2026 08:19",
+    "published_at": "2026-08-12T08:19:35Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/273642374id29533gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Bottles game manager v66 brings UMU from Open Wine Components to help run games",
+    "link": "https://www.gamingonlinux.com/2026/08/bottles-game-manager-v66-brings-umu-from-open-wine-components-to-help-run-games/",
+    "description": "Bottles v66 has some major changes for this game manager to make the experience a lot nicer, with UMU from Open Wine Components to help run games.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/bottles-game-manager-v66-brings-umu-from-open-wine-components-to-help-run-games/",
+    "date": "Aug 12, 2026 08:05",
+    "published_at": "2026-08-12T08:05:32Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1171497516id29532gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "GNOME Devs Share GNOME Shell Design Ideas for Future GNOME Releases",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366763",
+    "description": "The GNOME Design team has shared a long list of ideas for future releases of the GNOME desktop environment, which may or may not become reality, and they need your help to make them come true.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366763",
+    "date": "Aug 12, 2026 07:42",
+    "published_at": "2026-08-12T07:42:01Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Behold the 'Glueball,' a Strange New Form of Matter",
+    "link": "https://science.slashdot.org/story/26/08/12/0551225/behold-the-glueball-a-strange-new-form-of-matter?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "sciencehabit shares a report from Science Magazine: For more than half a century, physicists have searched for one of the strangest particles predicted by modern theory. It would be made almost entirely of gluons, the elusive subatomic particles that carry the strong nuclear force. Now, using a particle collider in Beijing, researchers say they have effectively proved the existence of such a \"glueball.\"\n \nIn a preprint posted last month on arXiv and in a presentation last week at the International Conference on High Energy Physics (ICHEP), the researchers argue that a particle called X(2370), which they produced by smashing electrons into positrons at high energies, has the properties expected of a glueball. \"It's an experimental triumph,\" says Colin Morningstar, a particle physicist at Carnegie Mellon University who was not involved in the finding. \"It's the strongest evidence yet that particles dominated by a glueball component can exist in nature.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Aug 12, 2026 07:00",
+    "published_at": "2026-08-12T07:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Contiguous US Breaks Its Record For Hottest Month Ever, NOAA Says",
+    "link": "https://news.slashdot.org/story/26/08/11/2054244/contiguous-us-breaks-its-record-for-hottest-month-ever-noaa-says?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from the Associated Press: The contiguous United States sizzled to its hottest month ever last month, according to the National Oceanic and Atmospheric Administration. July averaged 76.89 degrees Fahrenheit (24.94 degrees Celsius) across the Lower 48 states, eclipsing the Dust Bowl's July 1936 by an eighth of a degree. Records go back to 1895. [...] Although it was unusually cool in Alaska, hotter-than-normal conditions blanketed the Lower 48, with the most excessive heat in the Mountain West, Southwest, Northern Plains and Southeast. The heat was so widespread that every one of the Lower 48 states was at least 1 degree Fahrenheit (nearly 0.6 degrees Celsius) warmer than the 20th century average, said Russ Vose, chief of monitoring at NOAA's National Center for Environmental Information.\n \n[...] The biggest driver of the record heat was nighttime lows that smashed the old mark for hottest minimums by 0.7 degrees, NOAA said. Hotter nights are a classic sign of human-caused climate change, according to scientists and several studies in peer-reviewed literature. NOAA's calculation is based on averaging 24 hours of temperature, not just highs or lows. \"If you're talking heat waves, that nighttime low is incredibly important for determining total heat stress,\" [said meteorologist Jeff Masters of Yale Climate Connections]. \"So if it doesn't cool off at night, your body doesn't have time to readjust to all the heat.\" As nighttime temperatures increase, more people die and lose sleep, studies show.\n \nThe years 2021 and 1936 tie for America's hottest summer, which is June through August. Through July, 2026 is a shade cooler than 2021, which was powered by record heat in June. Because of climate change, Masters said, \"this may be one of the coolest years we're gonna experience for the rest of our lives.\" What's needed, Masters said, is \"to stop burning so many fossil fuels. We also need to be spending money to adapt to the new climate that we've put in place.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Aug 12, 2026 03:30",
+    "published_at": "2026-08-12T03:30:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "QEMU 11.1 Adds RISC-V Big-Endian Support, ARM Nested Virtualization",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366759",
+    "description": "QEMU 11.1 is out with RISC-V big-endian target support, ARM nested virtualization improvements, new PowerPC defaults, and multiple security fixes.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366759",
+    "date": "Aug 12, 2026 03:07",
+    "published_at": "2026-08-12T03:07:32Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "QEMU 11.1 Released With Numerous Improvements",
+    "link": "https://www.phoronix.com/news/QEMU-11.1-Released",
+    "description": "For those using QEMU as part of the open-source virtualization stack, QEMU 11.1 is now available with a number of new feature enhancements and fixes...",
+    "guid": "https://www.phoronix.com/news/QEMU-11.1-Released",
+    "date": "Aug 12, 2026 01:42",
+    "published_at": "2026-08-12T01:42:47Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
     "title": "Redox OS Enjoys installer Improvements, Performance Enhancements",
     "link": "https://www.phoronix.com/news/Redox-OS-July-2026",
     "description": "A new blog post out today from the Redox OS crew highlights all of the interesting improvements made to this Rust-based, open-source operating system over the course of July...",
@@ -158,6 +337,16 @@
     "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
     "source": "slashdot.org",
     "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Fedora CoreOS To Enable systemd-oomd \u0026 zRAM Swap By Default",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366739",
+    "description": "Fedora's CoreOS as their container-optimized operating system will be moving to enable systemd-oomd by default with Fedora CoreOS 45. Additionally, swap on zRAM will be enabled by default too...",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366739",
+    "date": "Aug 11, 2026 15:04",
+    "published_at": "2026-08-11T15:04:37Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
   },
   {
     "title": "Zuckerberg's Superyacht Reportedly Declined To Help Stranded Boat",
@@ -432,6 +621,16 @@
     "source_url": "https://www.gamingonlinux.com/"
   },
   {
+    "title": "Open-Source NVIDIA \"Nova\" Driver Sees More Functionality For Linux 7.3",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366744",
+    "description": "Sent to DRM-Next this week was the DRM Rust core and driver changes targeting the upcoming Linux 7.3 merge window. There continues to be a lot of DRM core infrastructure work happening for Rust integration plus two leading Rust DRM drivers of Nova for open-source NVIDIA GPU support as the successor to Nouveau and then Tyr as the in-development Arm Mali driver...",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366744",
+    "date": "Aug 11, 2026 08:12",
+    "published_at": "2026-08-11T08:12:39Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
     "title": "The Roboguard Revolution Is Short-Circuiting",
     "link": "https://hardware.slashdot.org/story/26/08/11/0538200/the-roboguard-revolution-is-short-circuiting?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
     "description": "alternative_right shares a report from 404 Media: Robotics companies promise that video-camera-toting security robots can deter and detect crime. But many companies are rethinking the approach after a trail of canceled contracts and questions about whether the artificial intelligence-powered bots are meeting the needs of businesses and local governments. Proof News found evidence of at least 21 security robot deployments since 2015. We contacted contract holders and combed news articles and determined that at least 13 of those programs have ended. Silicon Valley-based Knightscope secured the most security robot contracts, according to Proof's analysis, and also suffered the bulk of cancellations.\n \nFor example, New York City's then-Mayor Eric Adams installed a Knightscope robot on the overnight shift at the Times Square subway station, but the program was scrapped when the pilot expired in 2024. City leaders did not respond to Proof News' questions about why the robot wasn't renewed. By the end of its assignment, it was reportedly gathering dust in an empty storefront. Outside Columbus, Ohio, the city of Dublin pulled the plug on a Knightscope robot in May, ending its two-year pilot program after less than 10 months. The city enlisted the robot, dubbed DubBot, to patrol a downtown park, but city spokeswoman Robyn Gray said it \"did not fully meet our operational needs,\" and failed to identify any criminal incidents or lead to any tickets or arrests.\n \n[...] Seeking a new path forward in the security industry, Knightscope CEO William Santana Li said the company is forging a new model, combining its robots and AI-powered software with another key ingredient: human security guards. Knightscope announced it purchased Event Risk LLC, a national security guard firm, earlier this year. Knightscope has incurred net losses since inception in 2013, according to its most recent quarterly filing with the U.S. Securities and Exchange Commission, and is $273 million in debt. Knightscope hopes its pivot to incorporate people will give it a greater share of the physical security market -- which the company believes is worth an estimated $230 billion annually. Li declined to answer questions about the disbanded programs, but said in an email, \"Technology cannot do everything -- and neither can people -- but the combination can be very powerful.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
@@ -472,159 +671,5 @@
     "published_at": "2026-08-11T05:09:40Z",
     "source": "lxer.com",
     "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Ubuntu 24.04 LTS Users Get Linux 7.0 HWE Kernel Ahead of Ubuntu 24.04.5 LTS",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366713",
-    "description": "Good news for Ubuntu users as Canonical has started pushing the Linux 7.0 HWE (Hardware Enablement) kernel updates from Ubuntu 26.04 LTS (Resolute Raccoon) to Ubuntu 24.04 LTS (Noble Numbat).",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366713",
-    "date": "Aug 11, 2026 03:38",
-    "published_at": "2026-08-11T03:38:11Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Qt Toolkit To Introduce Edge AI Submodule, Initially For Vision AI With Qt",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366733",
-    "description": "The Qt Group has been working on various AI integrations for the Qt toolkit in recent times like a QML profiler skill for agentic development to help with performance profiling. They have also worked on Qt AI coding assistants and AI agents in the Qt Creator integrated development environment. Their latest AI use is now preparing to introduce a new module in the Qt toolkit itself for edge AI inferencing...",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366733",
-    "date": "Aug 11, 2026 02:06",
-    "published_at": "2026-08-11T02:06:41Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Open-Source NVIDIA \"Nova\" Driver Sees More Functionality For Linux 7.3",
-    "link": "https://www.phoronix.com/news/NVIDIA-Nova-Rust-Linux-7.3",
-    "description": "Sent to DRM-Next this week was the DRM Rust core and driver changes targeting the upcoming Linux 7.3 merge window. There continues to be a lot of DRM core infrastructure work happening for Rust integration plus two leading Rust DRM drivers of Nova for open-source NVIDIA GPU support as the successor to Nouveau and then Tyr as the in-development Arm Mali driver...",
-    "guid": "https://www.phoronix.com/news/NVIDIA-Nova-Rust-Linux-7.3",
-    "date": "Aug 11, 2026 01:08",
-    "published_at": "2026-08-11T01:08:38Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Debian Testing “Forky” Users Can Now Enjoy KDE Plasma 6.7",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366719",
-    "description": "KDE Plasma 6.7 is now available in Debian Testing “Forky,” giving users access to the latest desktop improvements ahead of Debian 14.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366719",
-    "date": "Aug 11, 2026 00:35",
-    "published_at": "2026-08-11T00:35:11Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Challenger+ RP2350 NB-IoT Enables LTE Cat NB2 and GNSS for Embedded IoT",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366715",
-    "description": "ILABS is offering the Challenger+ RP2350 NB-IoT, a compact development board combining Raspberry Pi’s RP2350 microcontroller with STMicroelectronics’ ST87M01-1301 cellular module. The board targets low-power IoT applications requiring LTE Cat NB2 connectivity, GNSS positioning, and long battery life. The RP2350 provides dual Arm Cortex-M33 and dual Hazard3 RISC-V cores, with two cores active simultaneously at […]",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366715",
-    "date": "Aug 10, 2026 23:03",
-    "published_at": "2026-08-10T23:03:42Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Cyber Vulnerability Sweep Picks Up Royal Navy Drones Sending Data To China",
-    "link": "https://tech.slashdot.org/story/26/08/10/2043251/cyber-vulnerability-sweep-picks-up-royal-navy-drones-sending-data-to-china?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "A routine security assessment found that cameras aboard Royal Navy Kraken unmanned surface vessels were sending \"heartbeat\" signals to an IP address in China. \"A thorough investigation found no evidence of MoD data or systems being accessed, compromised or transmitted externally,\" said a Ministry of Defense spokesperson. \"Our assurance and testing processes are designed to identify and address potential vulnerabilities early, and we continue to undertake routine security activity across our systems and equipment.\" The Register reports: According to reports, the talkative components were cameras sourced by Kraken from a third-party supplier. The incident raises questions about supply chains, audits, and cybersecurity in the British armed forces. The spokesperson said: \"The first duty of government is national security, and we take the security of our equipment, networks, and data extremely seriously.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Aug 10, 2026 23:00",
-    "published_at": "2026-08-10T23:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "A Data Breach At Shipping Giant Ceva Logistics Is Rippling Across Banks, Retailers, Steam Gamers, and Beyond",
-    "link": "https://yro.slashdot.org/story/26/08/10/2035248/a-data-breach-at-shipping-giant-ceva-logistics-is-rippling-across-banks-retailers-steam-gamers-and-beyond?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "An anonymous reader quotes a report from TechCrunch: Ceva Logistics, one of the world's largest shipping and logistics giants, has been hacked. Several companies that rely on Ceva for shipping their products to their customers say that their personal information was also stolen in the breach. The cyberattack on Ceva is affecting at least eight warehouses across Europe used for shipping goods across the continent, the company told TechCrunch. Industry news site FreightWaves reports that the hack began on July 29 and is causing shipping delays for many of the goods in affected warehouses.\n \nCeva is a France-headquartered shipping and logistics giant that companies around the world rely on to deliver their goods from their assembly lines to customer homes. The company, which brought in $18.3 billion in revenue in 2025, has over a thousand warehouses across the world. [...] The hack at Ceva also resulted in a data breach, affecting a large amount of personal information belonging to retail customers that Ceva relies on for delivering goods to people's home addresses. Several companies reported that hackers took their customers' names, home addresses, phone numbers, and email addresses used to place their orders from Ceva's systems.\n \nDutch online retail giant Bol said on its website that hackers gained access to systems of its warehousing partner, Ceva, and warned that their customers' data may have been taken. Bol also said that it expects delays and some customer orders to be canceled as a result of the incident. De Bijenkorf, another Dutch luxury retailer, similarly confirmed order delays following the theft of its customers' data, per local media. Football club Ajax, banking giant ING, and eyeglass maker Ace \u0026 Tate also reported that customers' shipping information was affected. Video game giant Valve told customers that it learned on August 7 that data was taken from Ceva's systems, and alerted customers who recently bought its Steam hardware that they had personal information taken in the incident. Valve said in its note to customers, posted to Reddit, that Ceva stores their shipping and delivery information for 90 days following their order. So far, Ceva says the agency has received data breach reports from 10 organizations in relation to the incident.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Aug 10, 2026 22:00",
-    "published_at": "2026-08-10T22:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Monitor Your Drive Health with Performance Co-Pilot on Fedora",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366718",
-    "description": "You wake up one morning to find your home server unresponsive, after some investigation you discover a failed NVMe drive taking your self-hosted services and data with it. Perhaps you’re a system administrator and a workstation’s SSD has been silently accumulating errors for months, and now a user is reporting corrupted files. Drive failures are […]",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366718",
-    "date": "Aug 10, 2026 21:32",
-    "published_at": "2026-08-10T21:32:12Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Valve Slowly Expands SteamOS Support On Non-Valve Hardware",
-    "link": "https://hardware.slashdot.org/story/26/08/10/2027209/valve-slowly-expands-steamos-support-on-non-valve-hardware?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Valve is continuing to broaden SteamOS support beyond its own hardware, with the latest beta adding \"initial gamepad support\" for a few recent gaming handhelds and improving compatibility for a few others. Ars Technica reports: Those newly supported handhelds include MSI's Claw 8 EX AI+, the extremely expensive, extremely powerful handheld built around Intel's Arc G3 processor that launched this summer. While SteamOS has long included beta support for \"other AMD powered handhelds,\" Valve has only recently been working on offering compatibility with Intel-based handhelds like the MSI Claw line. This weekend's update suggests the company hasn't abandoned those efforts and that Intel chips aren't being left out of the SteamOS conversation.\n \nSteamOS 3.8.25 also newly supports the controllers built into Ayaneo's Android-focused Pocket S2 and the more recently released Windows-based Konkr Fit. Valve also says the new OS offers \"improved support\" for older MSI Claw devices and the OneXPlayer line of portable gaming PCs. This weekend's update follows June's SteamOS 3.8 update, which stressed \"improved compatibility with recent Intel and AMD platforms.\" That update specifically called out improved controller support on handhelds from the likes of GPD Win, Anbernic, and OrangePi, as well as improvements for various Lenovo Legion Go, MSI Claw, and OneXPlayer devices. The report notes that the new SteamOS update also updates the Linux driver powering the new Steam Controller, \"allowing it to work with 'native controller applications' even when Steam is not running.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Aug 10, 2026 21:00",
-    "published_at": "2026-08-10T21:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Illinois Just Passed a Law That Puts Linux on the Hook for Age Verification",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366721",
-    "description": "Illinois signed HB5511 on July 31. Past the TikTok and Instagram headlines is a mandate for operating systems, with no exemption for open source.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366721",
-    "date": "Aug 10, 2026 20:00",
-    "published_at": "2026-08-10T20:00:43Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Fedora CoreOS To Enable systemd-oomd \u0026 zRAM Swap By Default",
-    "link": "https://www.phoronix.com/news/Fedora-CoreOS-OOMD-zRAM-Swap",
-    "description": "Fedora's CoreOS as their container-optimized operating system will be moving to enable systemd-oomd by default with Fedora CoreOS 45. Additionally, swap on zRAM will be enabled by default too...",
-    "guid": "https://www.phoronix.com/news/Fedora-CoreOS-OOMD-zRAM-Swap",
-    "date": "Aug 10, 2026 19:35",
-    "published_at": "2026-08-10T19:35:44Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Five More Lenovo Laptops To Report Fan Sensors With Linux 7.3",
-    "link": "https://www.phoronix.com/news/Linux-7.3-Yogafan-Driver",
-    "description": "In addition to more ASUS motherboards having working sensors with Linux 7.3, this next kernel version will also get several more Lenovo laptop models to be reporting their fan sensor information under Linux...",
-    "guid": "https://www.phoronix.com/news/Linux-7.3-Yogafan-Driver",
-    "date": "Aug 10, 2026 18:40",
-    "published_at": "2026-08-10T18:40:00Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "9to5Linux Weekly Roundup: August 9th, 2026",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366717",
-    "description": "The 304th installment of the 9to5Linux Weekly Roundup is here for the week ending August 9th, 2026, keeping you updated on the most important developments in the Linux world.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366717",
-    "date": "Aug 10, 2026 18:29",
-    "published_at": "2026-08-10T18:29:13Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": " Xbox PC and Game Pass titles are coming to Linux through 'Xodus' — Heroic Launcher devs embark on new open-source reverse-engineering project ",
-    "link": "https://www.tomshardware.com/software/linux/xbox-pc-and-game-pass-titles-are-coming-to-linux-through-xodus-heroic-launcher-devs-embark-on-new-open-source-reverse-engineering-project",
-    "description": " You might be able to enjoy Xbox PC and PC Game Pass titles on Linux very soon thanks to the efforts of the Xodus team, who're emulating the entire Xbox PC stack through open-source implementations of Microsoft's proprietary components and dependencies. ",
-    "guid": "Eritfizgygb5cPfJ8g9LRb",
-    "date": "Aug 10, 2026 18:11",
-    "published_at": "2026-08-10T18:11:48Z",
-    "image": "https://cdn.mos.cms.futurecdn.net/BmB2jRGrsjFpT5E5T2nwJD-1280-80.jpg",
-    "source": "tomshardware.com",
-    "source_url": "https://www.tomshardware.com/software/operating-systems/linux"
-  },
-  {
-    "title": "Linux 7.3 Bringing A KCFI Optimization To Benefit Older Intel CPUs",
-    "link": "https://www.phoronix.com/news/Linux-7.3-KCFI-Optimization",
-    "description": "Expected to be merged during the upcoming Linux 7.3 merge window is a Kernel Control Flow Integrity (KCFI) improvement intended to benefit older Intel processors...",
-    "guid": "https://www.phoronix.com/news/Linux-7.3-KCFI-Optimization",
-    "date": "Aug 10, 2026 17:26",
-    "published_at": "2026-08-10T17:26:55Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
   }
 ]
