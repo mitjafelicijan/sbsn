@@ -1,5 +1,175 @@
 [
   {
+    "title": "Grand-scale FPS 'WARDOGS' should work on Linux / SteamOS, devs confirm working on Proton support",
+    "link": "https://www.gamingonlinux.com/2026/08/grand-scale-fps-wardogs-should-work-on-linux-steamos-devs-confirm-working-on-proton-support/",
+    "description": "The developers behind the upcoming grand-scale FPS WARDOGS have confirmed they're working to support Proton so it's playable on Linux / SteamOS.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/grand-scale-fps-wardogs-should-work-on-linux-steamos-devs-confirm-working-on-proton-support/",
+    "date": "Aug 13, 2026 12:19",
+    "published_at": "2026-08-13T12:19:08Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/2131649608id29547gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Omarchy Bets Its Future on AI Agents While the Linux World Stays Cautious",
+    "link": "https://feed.itsfoss.com/link/24361/17417194/omarchy-ai-agent-focus",
+    "description": "While some open source projects are locking AI out of their codebases, Omarchy's upcoming v4 release treats AI as part of the system.",
+    "guid": "6a7d6885b11ec2000188796c",
+    "date": "Aug 13, 2026 11:40",
+    "published_at": "2026-08-13T11:40:20Z",
+    "image": "https://itsfoss.com/content/images/2026/08/omarchy-ai-agent-banner-1.png",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "Linux Patches Enable Apple M4 NVMe Support",
+    "link": "https://www.phoronix.com/news/Linux-Apple-M4-NVMe-Patches",
+    "description": "While the Apple M4 SoCs aren't yet supported by the mainline Linux kernel and the Apple M3 series hardware isn't yet ready for end-users, there are some early elements of the Apple M4 support beginning to come together by open-source developers working on the Apple Silicon support. Sent out to the Linux kernel mailing list were patches for enabling NVMe solid state drive support with the M4...",
+    "guid": "https://www.phoronix.com/news/Linux-Apple-M4-NVMe-Patches",
+    "date": "Aug 13, 2026 11:30",
+    "published_at": "2026-08-13T11:30:36Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Make sure your Flatpak is up to date due to security issues",
+    "link": "https://www.gamingonlinux.com/2026/08/make-sure-your-flatpak-is-up-to-date-due-to-security-issues/",
+    "description": "Version 1.18.1 and 1.19.0 pre-release rolled out for Flatpak, due to some security issues that were found so it's an essential update for all Linux systems.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/make-sure-your-flatpak-is-up-to-date-due-to-security-issues/",
+    "date": "Aug 13, 2026 11:10",
+    "published_at": "2026-08-13T11:10:27Z",
+    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/flatpak-logo_gol2_0a4ceac3.avif",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "VA Launches Psilocybin Trial For Veterans With Treatment-Resistant Depression",
+    "link": "https://science.slashdot.org/story/26/08/13/0426242/va-launches-psilocybin-trial-for-veterans-with-treatment-resistant-depression?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Longtime Slashdot reader sbinning shares a press release: The U.S. Department of Veterans Affairs announced the launch of a new clinical trial to evaluate the effectiveness and safety of psilocybin to treat major depression in Veterans, including those with concurrent PTSD. The new trial comes after a recent executive order on \"Accelerating Medical Treatments for Serious Mental Illness,\" which aims to increase clinical trial participation and accelerate innovative research models and drug approvals for psychedelic drugs.\n \n[...] The randomized, controlled trial will enroll Veterans diagnosed with treatment-resistant major depressive disorder, with or without concurrent PTSD, and will compare outcomes between two psilocybin dosage levels. The study will also assess participants' levels of depression before and after treatment, tolerability of side effects, and overall patient-reported depression. [...] In addition to this trial, VA is involved in 20 active clinical trials focused on psychedelic therapies for mental health conditions. All VA research -- including research into psychedelics -- is conducted under strict safety protocols and in full compliance with federal guidelines.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Aug 13, 2026 11:00",
+    "published_at": "2026-08-13T11:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Cellular roguelike shooter 'Pathogenic' is a body-infecting good time",
+    "link": "https://www.gamingonlinux.com/2026/08/cellular-roguelike-shooter-pathogenic-is-a-body-infecting-good-time/",
+    "description": "Pathogenic is a top-down roguelike shooter where you control a customizable lone pathogen infecting a human host.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/cellular-roguelike-shooter-pathogenic-is-a-body-infecting-good-time/",
+    "date": "Aug 13, 2026 10:42",
+    "published_at": "2026-08-13T10:42:18Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1277958854id29544gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Microsoft's Azure Linux 3.0.20260809 Ships With 233+ CVE Fixes",
+    "link": "https://www.phoronix.com/news/Azure-Linux-3.0.20260809",
+    "description": "While Microsoft continues working on Azure Linux 4.0 as its overhauled Linux distribution built atop Fedora, Azure Linux 3.0 remains the current stable production series. Released overnight was Azure Linux 3.0.20260809 and it comes with more than 233 security patches for recent CVEs in the AI era...",
+    "guid": "https://www.phoronix.com/news/Azure-Linux-3.0.20260809",
+    "date": "Aug 13, 2026 10:38",
+    "published_at": "2026-08-13T10:38:00Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Intel XPU Manager 2.1 Released For Monitoring Arc Pro Graphics On Windows/Linux",
+    "link": "https://www.phoronix.com/news/Intel-XPU-Manager-2.1",
+    "description": "Intel XPU Manager 2.1 is now available as the latest version of this open-source tool for Linux and Windows systems for the monitoring and management of Arc Pro graphics cards. The Intel XPU Manager helps in keeping an eye on device utilization and other metrics  via the xpu-smi command and other components...",
+    "guid": "https://www.phoronix.com/news/Intel-XPU-Manager-2.1",
+    "date": "Aug 13, 2026 10:24",
+    "published_at": "2026-08-13T10:24:38Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Open-source re-implementation of The Elder Scrolls: Arena adds major new features like enemy combat AI",
+    "link": "https://www.gamingonlinux.com/2026/08/open-source-re-implementation-of-the-elder-scrolls-arena-adds-major-new-features-like-enemy-combat-ai/",
+    "description": "OpenTESArena 0.18.0 the open-source re-implementation of The Elder Scrolls: Arena is out now, bringing many gameplay enhancements.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/open-source-re-implementation-of-the-elder-scrolls-arena-adds-major-new-features-like-enemy-combat-ai/",
+    "date": "Aug 13, 2026 09:16",
+    "published_at": "2026-08-13T09:16:57Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/995296310id29543gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Warhammer 40,000: Dawn of War IV delayed until December",
+    "link": "https://www.gamingonlinux.com/2026/08/warhammer-40-000-dawn-of-war-iv-delayed-until-december/",
+    "description": "One game we have to wait a bit longer on is Warhammer 40,000: Dawn of War IV, which has moved from September to December 3rd.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/warhammer-40-000-dawn-of-war-iv-delayed-until-december/",
+    "date": "Aug 13, 2026 09:05",
+    "published_at": "2026-08-13T09:05:55Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/397346269id29542gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Scientists Create Largest 2D Map of the Universe",
+    "link": "https://science.slashdot.org/story/26/08/13/014211/scientists-create-largest-2d-map-of-the-universe?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "After 13 years of observations and data processing, astronomers have released the largest two-dimensional map of the universe ever assembled, \"offering a sweeping new view of nearly 4 billion celestial objects across roughly three-quarters of the sky,\" reports Space.com. From the report: The new map, created by the Dark Energy Spectroscopic Instrument (DESI) Legacy Imaging Surveys team, contains a staggering 5.6 trillion pixels and combines more than 263,000 telescope exposures collected over more than a decade. The observations span visible and near-infrared wavelengths, providing an enormous portrait of stars, galaxies and other cosmic phenomena across the sky, according to a statement from the National Science Foundation (NSF) NOIRLab. \"It's part of the fabric of astronomy research now,\" David Schlegel, co-lead of the Legacy Surveys and a scientist at the U.S. Department of Energy's Lawrence Berkeley National Laboratory, said in a statement. \"When you're working with astronomical objects today, you often start by pulling up the Legacy Imaging Viewer to see what you're looking at.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Aug 13, 2026 07:00",
+    "published_at": "2026-08-13T07:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "VLC is Wrongly Blamed for Microsoft Defender's Clumsiness",
+    "link": "https://feed.itsfoss.com/link/24361/17416952/vlc-microsoft-defenders-drama",
+    "description": "VLC takes a long time to play MP3 on Windows? Blame it on Microsoft Defender, not VLC.",
+    "guid": "6a7d335eb11ec200018878a9",
+    "date": "Aug 13, 2026 04:21",
+    "published_at": "2026-08-13T04:21:33Z",
+    "image": "https://itsfoss.com/content/images/2026/08/vlc-defender-drama.webp",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "How Social Media Spurred a Refugee Crisis Between Spain and Morocco",
+    "link": "https://news.slashdot.org/story/26/08/12/2052214/how-social-media-spurred-a-refugee-crisis-between-spain-and-morocco?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from The New York Times: Two days before tens of thousands of migrants surged into Ceuta, one of Spain's enclaves on Morocco's northern coast, a newspaper there posted a video on TikTok and Instagram showing two young women walking in the city in wet suits, their hair still damp. The posts didn't say so explicitly, but the implication was clear: The women had just swum across the border from Morocco. \"Ceuta can't take it anymore,\" the newspaper, El Faro de Ceuta, declared in the posts. On the other side of the border, the video resonated very differently. Cropped and reposted in Arabic, the video seemed like an invitation. The women were smiling, flashing peace signs and thumbs up and, most of all, walking around freely. The video seemed to legitimize rumors that had percolated for weeks on social media suggesting that a recent ruling by Spain's Supreme Court meant migrants who arrived illegally by sea could stay in the country. As one account on Facebook put it, falsely, \"Ceuta is turning into an open gate,\" when in fact migrants still faced expulsion after a judicial review. The responses to the posts about the swimmers were a critical part of a cascade of disinformation that experts described as one of the starkest instances in which social media contributed directly to a real-world tragedy.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Aug 13, 2026 03:30",
+    "published_at": "2026-08-13T03:30:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "2.16-inch AMOLED SF32LB52X-based dev board offers LoRa, GNSS, and Bluetooth 5.3",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366767",
+    "description": "LILYGO’s T-Display SF32 is a compact development platform built around the SiFli SF32LB52X ultra-low-power AIoT microcontroller. The device combines a 2.16-inch 480 × 480 AMOLED touchscreen with dual Arm Cortex-M33 cores, an ePicasso 2.5D graphics engine, LoRa connectivity, Bluetooth 5.3, and onboard battery power. The SF32LB52X uses a big.LITTLE-style arrangement consisting of a 192MHz high-performance […]",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366767",
+    "date": "Aug 13, 2026 02:49",
+    "published_at": "2026-08-13T02:49:13Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Rsync 3.5 Released As \"Extraordinary\" Update To Fix 33 Security Issues",
+    "link": "https://www.phoronix.com/news/Rsync-3.5",
+    "description": "Rsync as the widely-used, open-source remote sync software for synchronizing files and directories across networks is out today with a very important update...",
+    "guid": "https://www.phoronix.com/news/Rsync-3.5",
+    "date": "Aug 13, 2026 01:26",
+    "published_at": "2026-08-13T01:26:03Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Shelly 3.0.4 GUI Package Manager for Arch Linux Adds New Search Experience",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366782",
+    "description": "Shelly 3.0.4 has been released today as a new stable update in the Shelly 3.0 series of this pacman alternative for Arch Linux distributions, introducing several new features and enhancements.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366782",
+    "date": "Aug 13, 2026 01:17",
+    "published_at": "2026-08-13T01:17:43Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
     "title": "Trump Administration Enlists Private Companies To Hack Foreign Cybercrime Groups",
     "link": "https://news.slashdot.org/story/26/08/13/0052208/trump-administration-enlists-private-companies-to-hack-foreign-cybercrime-groups?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
     "description": "The Trump administration today unveiled a new program that will allow vetted U.S. companies to conduct cyber surveillance and offensive cyber operations against foreign transnational criminal organizations. A presidential memorandum signed August 12 directs the National Coordination Center to establish and manage the program, expanding the government's fight against cybercrime by tapping the technical capabilities of the private sector. It builds on a March executive order that called for greater private-sector involvement, but goes significantly further by establishing a formal operational framework for the initiative.\n \nThe White House argues that American companies possess a \"critical offensive cyber advantage\" whose capabilities have \"historically been underutilized\" in efforts to identify and disrupt criminal networks operating online. There are two broad categories of authorized activity. \"Cyber Surveillance Operations\" can involve secretly accessing foreign information systems without authorization to gather intelligence, including information that could later be used for offensive operations. \"Cyber Effects Operations,\" meanwhile, can result in the \"manipulation, disruption, denial, degradation, or destruction\" of information systems, networks, or infrastructure.\n \nIt's worth noting that companies will not be free to launch their own operations. The memorandum requires program officials to \"review every cyber operations package and provide written approval and direction\" before a participating company can act. Operations that could cause death or serious injury, or \"rise to the level of use of force or armed attack under international law,\" are classified as \"Critical Outcomes\" and cannot be approved through the standard process. The program includes safeguards requiring companies to halt and report operations that unintentionally affect U.S. persons or systems, as well as any imminent threats to critical infrastructure.\n\n\n\n\n\nRead more of this story at Slashdot.",
@@ -347,6 +517,16 @@
     "source_url": "https://itsfoss.com/"
   },
   {
+    "title": "QEMU 11.1 Released With Numerous Improvements",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366765",
+    "description": "For those using QEMU as part of the open-source virtualization stack, QEMU 11.1 is now available with a number of new feature enhancements and fixes...",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366765",
+    "date": "Aug 12, 2026 10:45",
+    "published_at": "2026-08-12T10:45:00Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
     "title": "Linux 7.2 To Revert Back To The FIFO DRM Scheduler Policy Due To \"Fair\" Regressions",
     "link": "https://www.phoronix.com/news/Linux-7.2-Reverting-DRM-Fair",
     "description": "One of the Direct Rendering Manager changes made for Linux 7.2 was switching to \"fair\" as the DRM scheduler default in place of the existing FIFO policy. The intent was on making the DRM scheduler policy more fair with this being used by AMDGPU and various other DRM kernel graphics drivers. But due to a last minute regression report, the fair policy is being reverted for Linux 7.2...",
@@ -473,137 +653,13 @@
     "source_url": "https://slashdot.org/"
   },
   {
-    "title": "Claude Opus Helped Debug \u0026 Fix Lack Of Audio On Linux For HP OmniBook X Flip 14",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366749",
-    "description": "The HP OmniBook X Flip 14-kc0xxx is an AMD Ryzen AI 300 \"Strix Point\" powered laptop. While most AMD Strix Point laptops work fine on modern Linux distributions, with this particular HP OmniBook X there is no working audio with current mainline Linux kernel builds. With Claude Opus 5 acting as a debugging assistant and coding agent, patches are now pending to correct the audio support for this HP OmniBook X Flip 14 laptop to function on Linux...",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366749",
-    "date": "Aug 12, 2026 04:39",
-    "published_at": "2026-08-12T04:39:02Z",
+    "title": "OpenAI Launches Official ChatGPT Desktop App for Linux in Preview",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366762",
+    "description": "OpenAI has released its official ChatGPT desktop app for Linux in preview, bringing ChatGPT, Work, and Codex together in one native experience.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366762",
+    "date": "Aug 12, 2026 06:10",
+    "published_at": "2026-08-12T06:10:31Z",
     "source": "lxer.com",
     "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Contiguous US Breaks Its Record For Hottest Month Ever, NOAA Says",
-    "link": "https://news.slashdot.org/story/26/08/11/2054244/contiguous-us-breaks-its-record-for-hottest-month-ever-noaa-says?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "An anonymous reader quotes a report from the Associated Press: The contiguous United States sizzled to its hottest month ever last month, according to the National Oceanic and Atmospheric Administration. July averaged 76.89 degrees Fahrenheit (24.94 degrees Celsius) across the Lower 48 states, eclipsing the Dust Bowl's July 1936 by an eighth of a degree. Records go back to 1895. [...] Although it was unusually cool in Alaska, hotter-than-normal conditions blanketed the Lower 48, with the most excessive heat in the Mountain West, Southwest, Northern Plains and Southeast. The heat was so widespread that every one of the Lower 48 states was at least 1 degree Fahrenheit (nearly 0.6 degrees Celsius) warmer than the 20th century average, said Russ Vose, chief of monitoring at NOAA's National Center for Environmental Information.\n \n[...] The biggest driver of the record heat was nighttime lows that smashed the old mark for hottest minimums by 0.7 degrees, NOAA said. Hotter nights are a classic sign of human-caused climate change, according to scientists and several studies in peer-reviewed literature. NOAA's calculation is based on averaging 24 hours of temperature, not just highs or lows. \"If you're talking heat waves, that nighttime low is incredibly important for determining total heat stress,\" [said meteorologist Jeff Masters of Yale Climate Connections]. \"So if it doesn't cool off at night, your body doesn't have time to readjust to all the heat.\" As nighttime temperatures increase, more people die and lose sleep, studies show.\n \nThe years 2021 and 1936 tie for America's hottest summer, which is June through August. Through July, 2026 is a shade cooler than 2021, which was powered by record heat in June. Because of climate change, Masters said, \"this may be one of the coolest years we're gonna experience for the rest of our lives.\" What's needed, Masters said, is \"to stop burning so many fossil fuels. We also need to be spending money to adapt to the new climate that we've put in place.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Aug 12, 2026 03:30",
-    "published_at": "2026-08-12T03:30:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "QEMU 11.1 Adds RISC-V Big-Endian Support, ARM Nested Virtualization",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366759",
-    "description": "QEMU 11.1 is out with RISC-V big-endian target support, ARM nested virtualization improvements, new PowerPC defaults, and multiple security fixes.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366759",
-    "date": "Aug 12, 2026 03:07",
-    "published_at": "2026-08-12T03:07:32Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "QEMU 11.1 Released With Numerous Improvements",
-    "link": "https://www.phoronix.com/news/QEMU-11.1-Released",
-    "description": "For those using QEMU as part of the open-source virtualization stack, QEMU 11.1 is now available with a number of new feature enhancements and fixes...",
-    "guid": "https://www.phoronix.com/news/QEMU-11.1-Released",
-    "date": "Aug 12, 2026 01:42",
-    "published_at": "2026-08-12T01:42:47Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Raspberry Pi AXI PMU Driver Under Review For The Mainline Linux Kernel",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366752",
-    "description": "One of the Raspberry Pi device drivers that has remained elusive from the mainline Linux kernel has been for the performance monitoring unit (PMU) for the Broadcom AXI on all Raspberry Pi 1 through Raspberry Pi 5 models. Thanks to the work of a Google engineer, there is a new effort working to get a mainline Linux driver for the Raspberry Pi AXI PMU...",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366752",
-    "date": "Aug 12, 2026 01:36",
-    "published_at": "2026-08-12T01:36:03Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Redox OS Enjoys installer Improvements, Performance Enhancements",
-    "link": "https://www.phoronix.com/news/Redox-OS-July-2026",
-    "description": "A new blog post out today from the Redox OS crew highlights all of the interesting improvements made to this Rust-based, open-source operating system over the course of July...",
-    "guid": "https://www.phoronix.com/news/Redox-OS-July-2026",
-    "date": "Aug 12, 2026 00:47",
-    "published_at": "2026-08-12T00:47:55Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "NVIDIA’s Nemotron 3.5 Lightning AI Model Lands on Ubuntu via Snap",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366758",
-    "description": "Ubuntu users can now run NVIDIA’s Nemotron 3.5 Lightning model through Canonical’s newly released inference Snap.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366758",
-    "date": "Aug 12, 2026 00:04",
-    "published_at": "2026-08-12T00:04:34Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Linux Desktop Use Surged To 22% On One Workday, Cloudflare Data Shows",
-    "link": "https://linux.slashdot.org/story/26/08/11/2047228/linux-desktop-use-surged-to-22-on-one-workday-cloudflare-data-shows?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Cloudflare data suggests desktop Linux usage in North America has climbed to 6.4%, up from 4.1% a year earlier, with one post-holiday workday briefly spiking to 22%. ZDNet reports: [B]elieve it or not, on Monday, July 6, when people were back after the July 4 holiday, Linux usage jumped to a high of 22%. The users of these systems are not AI agents or bots, but real people. I set Cloudflare to count humans rather than bots. If you include people and bots, Linux has a 9.7% market share. That proportion is similar to StatCounter's score. By Cloudflare's count, bots alone come to 19%.\n \nThese numbers tell us that workers are leading the way to the Linux desktop. [...] However, past performance doesn't explain present trends. So, why are we now seeing such a bump in Linux desktop growth? Experts believe this trend is largely AI developers and Linux users running AI Agents. For example, as David Linthicum, former managing director and chief cloud strategy officer at Deloitte Consulting and AI and cloud influencer, recently observed, while \"Windows 11 can technically run local AI workloads, but as you begin using multiple tools, managing different projects, and installing various dependencies, the friction starts to build,\" it's a different story for Linux users.\n \nLinthicum continued: \"Linux delivered what I can only describe as a true 'AI desktop' experience. Setup was straightforward, mainstream AI instructions matched what you'd actually see in your environment, and GPU-accelerated apps simply worked -- consistently. I spent far less time troubleshooting and far more time actually executing on projects.\" As for agents, Linux Foundation CEO Jim Zemlin summed up their role succinctly: \"Linux is the OS of choice for AI agents.\" Desktop Linux is also gaining momentum as frustration with Windows 11 and the end of Windows 10 support push users to alternatives, particularly on older PCs that can't officially upgrade. At the same time, Linux has become much easier to use, install software on, and game with, lowering many of the traditional barriers to switching.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Aug 11, 2026 23:00",
-    "published_at": "2026-08-11T23:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Freenet Creator Ian Clarke Shares Progress on Its New Decentralized Network",
-    "link": "https://tech.slashdot.org/story/26/08/11/2030205/freenet-creator-ian-clarke-shares-progress-on-its-new-decentralized-network?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Ian Clarke (aka ancient Slashdot reader Sanity), designer of the peer-to-peer communication platform Freenet, is back with an update on the project's progress following the launch of its P2P network in March. He writes: Earlier this year, Slashdot covered the launch of the completely redesigned Freenet. I recently gave a talk about what we've been building since then. Unlike traditional web applications, apps on Freenet have no central server or database; instead application state is distributed across the network. These now include decentralized group chat, publishing, search, and fully decentralized Git hosting. The talk also gets into some of Freenet's internals, including how we use machine learning for network routing.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Aug 11, 2026 22:00",
-    "published_at": "2026-08-11T22:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Analyzing Fedora's Slow Performance On The Framework Laptop 13 Pro With Intel Panther Lake",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366757",
-    "description": "As part of my recent Linux testing of the Framework Laptop 13 Pro I had recently benchmarked six Linux distributions on the Framework Laptop 13 Pro. CachyOS was the fastest to not much surprise but arguably the most surprising aspect was finding Fedora Workstation 44 typically running slower than the five other modern Linux distributions benchmarked. Here's a follow-up to that with more Fedora Linux benchmarks and the cause/workaround for Fedora's slower performance on the Intel Panther Lake laptop.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366757",
-    "date": "Aug 11, 2026 21:01",
-    "published_at": "2026-08-11T21:01:35Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Intel CPU Microcode 20260811 Release Fixes Eight Security Issues",
-    "link": "https://www.phoronix.com/news/Intel-CPU-Microcode-20260811",
-    "description": "Intel today published their 20260811 CPU microcode updates to fix a variety of issues for existing processors, including shipping the first new microcode images for Bartlett Lake and Wildcat Lake. The new microcode updates stretch back to Intel Core Gen10 processors...",
-    "guid": "https://www.phoronix.com/news/Intel-CPU-Microcode-20260811",
-    "date": "Aug 11, 2026 19:26",
-    "published_at": "2026-08-11T19:26:09Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "OpenAI Brings ChatGPT Desktop App To Linux",
-    "link": "https://www.phoronix.com/news/ChatGPT-Desktop-Linux-Preview",
-    "description": "OpenAI announced today they have brought their ChatGPT Desktop application to Linux and is currently in preview form...",
-    "guid": "https://www.phoronix.com/news/ChatGPT-Desktop-Linux-Preview",
-    "date": "Aug 11, 2026 18:37",
-    "published_at": "2026-08-11T18:37:16Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "These Open Source Devs Are Reverse-Engineering Xbox Game Pass for Linux",
-    "link": "https://feed.itsfoss.com/link/24361/17414994/xodus-xbox-gamepass-linux",
-    "description": "They have already cracked Xbox game downloads, and macOS support is also being worked on.",
-    "guid": "6a7b002db11ec2000188692d",
-    "date": "Aug 11, 2026 17:28",
-    "published_at": "2026-08-11T17:28:55Z",
-    "image": "https://itsfoss.com/content/images/2026/08/xodus-linux-gaming-banner-1.png",
-    "source": "itsfoss.com",
-    "source_url": "https://itsfoss.com/"
   }
 ]
