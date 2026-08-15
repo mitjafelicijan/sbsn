@@ -1,5 +1,170 @@
 [
   {
+    "title": "RustConn 0.20 Continues Further Polishing This GTK4/libadwaita-Based Connection Manager",
+    "link": "https://www.phoronix.com/news/RustConn-0.20-Released",
+    "description": "RustConn has been in development for a while now as a modern GTK4 connection manager supporting a variety of protocols like SSH, RDP, VNC, Telnet, and more. RustConn 0.20 was released this week as the latest major step forward to this Rust-based connection manager leveraging the GTK4 toolkit and libadwaita...",
+    "guid": "https://www.phoronix.com/news/RustConn-0.20-Released",
+    "date": "Aug 15, 2026 11:55",
+    "published_at": "2026-08-15T11:55:04Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Late Sound Fixes For Linux 7.2 Bring More Device Quirks, Intel Nova Lake HDMI-In Capture",
+    "link": "https://www.phoronix.com/news/Last-Sound-Fixes-Linux-7.2",
+    "description": "Ahead of the presumed Linux 7.2 stable kernel release tomorrow, some last minute sound fixes/quirks have been merged for this next kernel version...",
+    "guid": "https://www.phoronix.com/news/Last-Sound-Fixes-Linux-7.2",
+    "date": "Aug 15, 2026 11:03",
+    "published_at": "2026-08-15T11:03:00Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Astronomers Discover a New Kind of Cosmic Object: a Black Hole 'Star'",
+    "link": "https://science.slashdot.org/story/26/08/14/2224234/astronomers-discover-a-new-kind-of-cosmic-object-a-black-hole-star?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Astronomers using the James Webb Space Telescope say they may have found a new class of object: a \"black hole star,\" in which a black hole is wrapped in dense gas and radiates in ways that resemble an enormous star. The Guardian reports: The international team made the breakthrough after focusing their attention on a mysterious red spot in images of the early universe captured by Nasa's James Webb space telescope. The object was lurking in the constellation of Cetus, the Whale, billions of light years from Earth. It is thought to have formed 660m years after the big bang, astronomers' leading theory as to how the universe began. Measurements of the exotic body found that while it resembles an immense star, it releases 100bn times more energy than any known star can produce. The energy output is far closer to that observed from black holes than stars. The findings have been published in the journal Nature.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Aug 15, 2026 11:00",
+    "published_at": "2026-08-15T11:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "KDE Plasma 6.8 To Allow Fine-Tuning Mouse/Touchpad Speeds",
+    "link": "https://www.phoronix.com/news/Plasma-6.8-Tune-Mouse-Speeds",
+    "description": "KDE developers continue to be quite busy this summer baking improvements for the upcoming Plasma 6.8 desktop release. This Week in Plasna is out with its newest issue to outline all of these interesting enhancements...",
+    "guid": "https://www.phoronix.com/news/Plasma-6.8-Tune-Mouse-Speeds",
+    "date": "Aug 15, 2026 10:51",
+    "published_at": "2026-08-15T10:51:30Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Debian Developers Begin Voting Over LLM Usage Within The Project",
+    "link": "https://www.phoronix.com/news/Debian-Votes-On-LLM-Usage",
+    "description": "Debian developers have been considering a general resolution over LLM usage within the project. After collecting a variety of proposals, voting has now commenced for Debian developers to decide how comfortable they are with AI / Large Language Model contributions in the project or not...",
+    "guid": "https://www.phoronix.com/news/Debian-Votes-On-LLM-Usage",
+    "date": "Aug 15, 2026 10:40",
+    "published_at": "2026-08-15T10:40:04Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "KDE Frameworks 6.29 Adds ZIP64 Writing, Expands HEIF Support",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366825",
+    "description": "KDE Frameworks 6.29 arrives with ZIP64 archive writing, broader HEIF image support, KIO improvements, and numerous fixes across KDE’s core libraries.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366825",
+    "date": "Aug 15, 2026 10:22",
+    "published_at": "2026-08-15T10:22:18Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Canonical Certifies the Advantech AOM-2721 AIoT Board for Ubuntu 24.04 LTS",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366828",
+    "description": "Canonical announced that it has partnered with Advantech to enable Ubuntu 24.04 LTS on the Advantech AOM-2721 ultra-compact, industrial-grade Computer-on-Module (CoM) designed for edge Artificial Intelligence (AI) and Artificial Intelligence of Things (AIoT) applications.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366828",
+    "date": "Aug 15, 2026 08:50",
+    "published_at": "2026-08-15T08:50:48Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Raspberry Pi Imager 2.0.11 Brings Safer Image Writing, Better Customization",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366817",
+    "description": "Raspberry Pi Imager 2.0.11 adds stronger drive locking, multi-frame Zstandard image support, improved customization handling, and numerous fixes.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366817",
+    "date": "Aug 15, 2026 07:19",
+    "published_at": "2026-08-15T07:19:19Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Meta Patents AI Glasses to Use Facial Recognition to Identify People, Make Highlight Reels of Your Dinner Party",
+    "link": "https://yro.slashdot.org/story/26/08/14/2112242/meta-patents-ai-glasses-to-use-facial-recognition-to-identify-people-make-highlight-reels-of-your-dinner-party?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Meta has patented a smart-glasses system that could use facial recognition to identify people and automatically create personalized highlight reels of events such as dinner parties. The patent doesn't guarantee the feature will ship, but it offers a detailed look at how Meta is exploring facial recognition and AI-powered memory capture for its wearable devices. 404 Media reports: \"I've generated some highlights of tonight's dinner party. Would you like to see them?\" a prompt from the system says, alongside various thumbnails of what look like people laughing, according to one illustration in the patent. One section says the system may personalize highlight files using \"user relationship data.\" The illustrations clearly show a person wearing a pair of glasses, looking at a group of people, then the glasses focusing on one or more people in particular.\n \nPatentlyze, an organization that tracks patents, first alerted 404 Media to the patent on Friday. The patent is dense with how such a system would work, but in sum, the system with one or more cameras receives an input from the user, then uses machine-learning and \"sensory data\" to figure out points of interest in the camera's field of view. That can include detecting people in the shot \"based on one or more facial recognition algorithms,\" identifying those specific people, detecting their facial expressions, using \"eye gaze data of the user captured by the client system,\" and figuring out other points of interest \"based on scene and semantic understanding.\"\n \nAlthough the patent is for \"particular camera-based tasks by particular systems in a particular manner\" -- in this case, the company's smart glasses -- Meta writes it \"contemplates assisting users in any suitable camera-based task by any suitable system in any suitable manner.\" Meaning that although this technology is focused on the glasses, maybe the company will use it for other purposes in the future.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Aug 15, 2026 07:00",
+    "published_at": "2026-08-15T07:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Overshared to an AI? Proton's Tool Will Give You a Reality Check",
+    "link": "https://feed.itsfoss.com/link/24361/17418931/proton-ai-paper-trail",
+    "description": "Powered by Lumo, the tool turns your exported AI chat history into a personalized report of your privacy exposure.",
+    "guid": "6a7eda50b11ec200018935ed",
+    "date": "Aug 15, 2026 06:25",
+    "published_at": "2026-08-15T06:25:59Z",
+    "image": "https://itsfoss.com/content/images/2026/08/proton-ai-paper-trail-banner.png",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "ByteDance’s OIN 2.0 Deal: Patent Non-Aggression Meets Reputation Management",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366818",
+    "description": "By placing its qualifying patents in OIN 2.0’s cross-license community, ByteDance strengthens a defensive resource for open source while distancing itself from the political baggage surrounding TikTok.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366818",
+    "date": "Aug 15, 2026 05:30",
+    "published_at": "2026-08-15T05:30:31Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "WireGuard Easy 15.4 Released with OAuth Support",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366811",
+    "description": "The latest WireGuard Easy release adds external OAuth authentication, improves security, and speeds up client status handling.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366811",
+    "date": "Aug 15, 2026 03:59",
+    "published_at": "2026-08-15T03:59:01Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Robots That Walk and Talk Are Coming To Car Factories",
+    "link": "https://hardware.slashdot.org/story/26/08/14/215204/robots-that-walk-and-talk-are-coming-to-car-factories?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from The New York Times: At a BMW factory in South Carolina, a human-shaped robot with a screen for a face recently stepped from a charging station toward a stack of green plastic boxes. It grasped an auto part from one of the boxes, pivoted, placed the part in a trolley, then pulled the trolley across the floor. The robot's slow, stiff movements suggested a worker with a bad hangover rather than a technological revolution. \"They're still slower than humans,\" Ulrich Wieland, a BMW vice president in charge of logistics at the factory, in Spartanburg, told reporters invited to see the robot in June. But, he added, \"they're advancing fast.\"\n \nAutomakers have used robots for decades, but they are usually powerful, one-armed machines that are fixed in place and perform repetitive tasks like welding body frames or applying adhesives to door panels. Now, most major automakers are betting that robots designed to resemble human beings, known as humanoids, will usher in a new wave of automation and efficiency. Equipped with artificial intelligence, they are expected to move around and do tasks now done by humans without any modifications to factories or heavy equipment.\n \nUnlike most of the robots now in use, humanoids would respond to voice commands and theoretically solve problems and react to unforeseen events. They would never take a lunch break, join a union or require health insurance. To optimists, robots could rescue U.S. manufacturing by increasing productivity, solving shortages of skilled workers and giving Western carmakers a fighting chance at competing with Chinese rivals that enjoy lower costs. Boring but important jobs like sorting parts would be done by robots, freeing humans for more interesting and specialized work.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Aug 15, 2026 03:30",
+    "published_at": "2026-08-15T03:30:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Nitrux Shows Off a New Desktop Approach Other Distros Might Want to Take Note of",
+    "link": "https://feed.itsfoss.com/link/24361/17418654/nitrux-workspace-environment",
+    "description": "It is meant to be a middle ground between window managers and desktop environments.",
+    "guid": "6a7eab6cb11ec200018931ab",
+    "date": "Aug 15, 2026 01:02",
+    "published_at": "2026-08-15T01:02:27Z",
+    "image": "https://itsfoss.com/content/images/2026/08/nixtrux-we-banner.png",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "AMD Posts Massive 109 Patch Series For GFX 12.1 RAS Support On Friday Evening",
+    "link": "https://www.phoronix.com/news/AMD-GFX12.1-RAS-Patch-Series",
+    "description": "AMD has a tendency to send out large feature patch series for their open-source Linux drivers on Friday afternoons/evenings. Today we were greeted by a set of 109 patches working on RAS support for the upcoming AMD GFX12.1 target...",
+    "guid": "https://www.phoronix.com/news/AMD-GFX12.1-RAS-Patch-Series",
+    "date": "Aug 15, 2026 01:01",
+    "published_at": "2026-08-15T01:01:22Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Blue Pill-Style STM32C5 Board Adds Oberon-2 Firmware Support",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366814",
+    "description": "Norwegian-based Tenko has released an open-hardware development board based on STMicroelectronics’ STM32C5 microcontroller family. The compact board follows the familiar Blue Pill form factor while adding USB-C power, onboard USB-to-UART connectivity, and an alternative firmware environment based on Oberon-2. The board uses the recently introduced STM32C551CE, a 32-bit Arm Cortex-M33 microcontroller operating at up to […]",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366814",
+    "date": "Aug 15, 2026 00:56",
+    "published_at": "2026-08-15T00:56:02Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
     "title": "Raspberry Pi Imager 2.0.11 Adds Support for Multi-Frame Compressed Images",
     "link": "https://lxer.com/module/newswire/ext_link.php?rid=366819",
     "description": "Raspberry Pi Imager 2.0.11 has been released today as the latest stable release of this user-friendly tool for creating bootable media for Raspberry Pi devices.",
@@ -396,132 +561,5 @@
     "published_at": "2026-08-14T05:37:58Z",
     "source": "lxer.com",
     "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "KDE Announces “Bulletproof” KDE Suite with Three Years of Support",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366801",
-    "description": "The KDE Project, Kubuntu Focus, and Techpaladin Software announced today a new project for those who need long-term support (LTS) for the KDE Plasma desktop environment and related KDE applications called the “bulletproof” KDE suite.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366801",
-    "date": "Aug 14, 2026 04:06",
-    "published_at": "2026-08-14T04:06:29Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "LightDM is Back From The Dead, But Canonical isn't in Charge Anymore",
-    "link": "https://feed.itsfoss.com/link/24361/17417740/lightdm-is-back",
-    "description": "It took years of silence, new maintainers, and a release to bring LightDM back.",
-    "guid": "6a7da76cb11ec20001887ad3",
-    "date": "Aug 14, 2026 04:06",
-    "published_at": "2026-08-14T04:06:26Z",
-    "image": "https://itsfoss.com/content/images/2026/08/lightdm-revival-banner.png",
-    "source": "itsfoss.com",
-    "source_url": "https://itsfoss.com/"
-  },
-  {
-    "title": "UK Scientists To Grow Miniature Human Organs For Drug Testing",
-    "link": "https://science.slashdot.org/story/26/08/13/2120250/uk-scientists-to-grow-miniature-human-organs-for-drug-testing?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "An anonymous reader quotes a report from The Guardian: Miniature human organs and other tissues are to be grown from NHS patients' cells in a drive to improve medicine testing and reduce the number of animals used in drug development. Scientists will use the clumps of tissue to learn how diseases vary between patients, helping them identify which treatments are best for different people based on the particular pathology underlying their condition. The move marks a shift away from the traditional use of animals as models for human disease, towards what researchers believe will be more accurate and reliable tests based directly on human tissues.\n \nResearchers have been growing tiny clumps of human organs, known as organoids, for more than a decade. Tests show that pieces smaller than a millimeter can mirror key features of full-scale organs and tissues, including how they falter with disease and respond to drugs. Armed with organoids grown from diseased human tissues, scientists can investigate whether new drug candidates reverse pathological changes in all or a subset of patients, and quickly identify ineffective drugs early in the process. Historically, more than 90% of drugs that clear animal testing go on to fail in human trials, raising questions about the value of the tests. US and European medicines regulators now encourage other approaches if available. \"It's going to have a major impact on the numbers of animals used and the way we develop new drugs in the future,\" said Matthias Zilbauer, a clinical professor of paediatric gastroenterology at the Cambridge Stem Cell Institute. \"We're not saying there won't be any animal use in the near or foreseeable future, because there are still certain issues that cannot be tested in these new models, but the reduction is very real.\"\n \n\"A lot of human diseases either do not occur in animals or occur in a different way because they're not human,\" added Zilbauer. \"We want tests and models that can tell us which treatments work, and in what patients, and a mouse cannot tell us that.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Aug 14, 2026 03:30",
-    "published_at": "2026-08-14T03:30:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Microsoft Retreats In China",
-    "link": "https://tech.slashdot.org/story/26/08/13/2114239/microsoft-retreats-in-china?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Microsoft has been steadily scaling back its China presence, closing at least 15 branch offices and joint ventures over the past five years as Beijing favors domestic software. U.S. export controls also make it harder to grow its cloud and AI businesses, leaving the market with relatively little economic upside. Reuters reports: Microsoft took a major hit from the erosion of trust between Washington and Beijing, the five people said. China has since 2017 pushed the use of domestic software, which Beijing sees as more secure and whose quality is increasingly competitive with Windows and Office. U.S. restrictions, including export controls on advanced technology, have meanwhile hindered efforts to scale Microsoft's lucrative AI and cloud businesses in China.\n \n[...] Microsoft ultimately decided to remain because it had carved out a profitable business servicing Chinese companies like TikTok owner ByteDance, which need Western technology to manage overseas operations, according to three people familiar with the matter. The company also believed that it needed a presence to maintain access to China's world-class engineering talent, two of them said. Microsoft had also cultivated a relationship with the government that is among the deepest of any tech company, its former China head Alain Crozier told Reuters. \"Because of the geopolitics ... some days it's a little bit harder, but we never had a crisis,\" he said.\n \nA Microsoft spokesperson did not address questions about the firm's deliberations on its China business but said it operates in a regulatory \"environment that applies to every international supplier\" and that it remains committed to the Chinese market. The state of Microsoft's China business reflects market competition, regulatory demands and technological trends, the company said.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Aug 13, 2026 23:00",
-    "published_at": "2026-08-13T23:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Google's Gemini 3.7 Flash Targets Coding and Agents With a 50% Price Cut",
-    "link": "https://developers.slashdot.org/story/26/08/13/217215/googles-gemini-37-flash-targets-coding-and-agents-with-a-50-price-cut?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Google has released Gemini 3.7 Flash just three weeks after 3.6 Flash, focusing on better coding, agentic workflows, and enterprise automation while temporarily cutting API prices in half through the end of 2026. VentureBeat reports: For enterprise developers, the more consequential story may be the combination of those intelligence gains with lower inference costs: through the end of 2026, Gemini 3.7 Flash costs $0.75 per million input tokens and $3.75 per million output tokens.\n \nStarting Jan. 1, 2027, pricing rises to $1.50 per million input tokens and $7.50 per million output tokens. That means the current discount is temporary, but it gives teams deploying high-volume coding and business agents several months to evaluate whether Google's claimed reductions in retries and manual oversight translate into lower total operating costs. The launch also underscores Google's rapid iteration on its Flash line while its next flagship Pro model remains absent. [...]\n \nGoogle describes Gemini 3.7 Flash as its \"most intelligent workhorse model yet for coding and agents.\" The company says the model is better at adapting when it encounters roadblocks, clarifying intent when necessary and following instructions with greater fidelity. [...] Google's benchmarks show a large generational improvement in several software engineering tests. [...] Google's own results do not show 3.7 Flash universally displacing higher-priced competitors. They instead suggest a model that has become substantially more competitive in coding and agent workloads while occupying a lower price tier.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Aug 13, 2026 22:00",
-    "published_at": "2026-08-13T22:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Microsoft Is Combining Its Copilot Apps Ahead of a 'Super App'",
-    "link": "https://slashdot.org/story/26/08/13/1943229/microsoft-is-combining-its-copilot-apps-ahead-of-a-super-app?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Microsoft is merging its consumer Copilot and Microsoft 365 Copilot apps ahead of a broader \"super app\" launch later this year. \"Both personal and work accounts will be moved to the new unified app, which recycles the 'Microsoft Copilot' name but features an updated app icon,\" reports The Verge. \"The single app also means there won't be two annoying Copilot icons in the system tray or taskbar anymore.\" From the report: The updates are intended to be a technical milestone in preparation of the \"super app\" Microsoft is planning to launch later this year, so this is laying the foundations of what will be changing for Copilot products. A worldwide rollout for the mobile and web apps will start in \"mid-August,\" according to Microsoft, with a rollout to Windows and Mac apps set for \"mid-September.\" Mobile app users will be prompted to download the new Copilot app, and the updates will start appearing for some Windows Insiders this week.\n \nWhat changes you'll see will depend on which Copilot apps you're already using. Existing Microsoft Copilot users will be moved to the updated version, along with your chats and content, while Microsoft 365 Copilot app users will see \"minor navigation changes,\" the updated Copilot icon, and gain access to Copilot chat. If you already use both apps, Microsoft says your chats and content will be merged to a single updated Copilot app, but notes that chats, content, and data will remain separate between account types within the app. Microsoft says enterprise security, compliance, and government controls will remain unchanged and core Copilot features will remain free, though usage limits may vary. Podcasts, Deep Research, and Group Chat content will, however, be discontinued after August 18.\n \nThe company also says Shopping and Copilot Health \"may be temporarily unavailable\" during the transition.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Aug 13, 2026 21:00",
-    "published_at": "2026-08-13T21:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Rsync 3.5 Released As \"Extraordinary\" Update To Fix 33 Security Issues",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366790",
-    "description": "Rsync as the widely-used, open-source remote sync software for synchronizing files and directories across networks is out today with a very important update...",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366790",
-    "date": "Aug 13, 2026 19:38",
-    "published_at": "2026-08-13T19:38:50Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Updated Coreboot/Dasharo For MSI PRO Z690-A / Z790-P Motherboards, Adds Overclocking",
-    "link": "https://www.phoronix.com/news/New-Dasharo-2026-MSI-Intel-Z",
-    "description": "In addition to 3mdeb providing their Coreboot-based Dasharo built atop AMD openSIL on a Gigabyte EPYC server motherboard and recently making their first Dasharo release for an AMD Ryzen AM5 platform with the MSI PRO B850-P WIFI, the firmware consulting firm today released updated versions of their MSI PRO Z690-A and MSI PRO Z790-P Dasharo ports to those Intel Core motherboards...",
-    "guid": "https://www.phoronix.com/news/New-Dasharo-2026-MSI-Intel-Z",
-    "date": "Aug 13, 2026 19:08",
-    "published_at": "2026-08-13T19:08:39Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Domas: Bypassing memory protection with AMD's memory controllers",
-    "link": "https://lwn.net/Articles/1088778/",
-    "description": "\nChristopher Domas has\npublished a proof of concept with a description showing how to use AMD memory controllers' bank swizzle mode to bypass memory protection and read or write arbitrary data, including CPU microcode definitions and memory belonging to the \n\nplatform security processor. Among other things, this allows code running at the kernel level to directly manipulate the meaning of processor instructions, potentially bypassing other security measures such as memory encryption and virtual machine isolation.\n\n\n\nThis is not, strictly, unexpected behavior: it is \n\ndocumented in AMD's manual (on page 113 of that PDF). But the fact that it can be used to access arbitrary memory and thereby rewrite supposedly immutable parts of the computer's firmware without crashing the host machine seems like an unintentional side-effect of the design. Fortunately, since enabling bank swizzle mode requires kernel-level privileges, the vulnerability is not an immediate problem for most software. Still, it seems likely that this technique will end up being used for nefarious purposes eventually.\n",
-    "guid": "https://lwn.net/Articles/1088778/",
-    "date": "Aug 13, 2026 19:06",
-    "published_at": "2026-08-13T19:06:28Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "Out in Early Access - Sandustry has you explore, mine and automate in fully destructible pixel worlds",
-    "link": "https://www.gamingonlinux.com/2026/08/out-in-early-access-sandustry-has-you-explore-mine-and-automate-in-fully-destructible-pixel-worlds/",
-    "description": "Hooded Horse picked another good one to publish here from developer Lantto Games. Sandustry is a factory automation game where every pixel is a resource.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/08/out-in-early-access-sandustry-has-you-explore-mine-and-automate-in-fully-destructible-pixel-worlds/",
-    "date": "Aug 13, 2026 18:10",
-    "published_at": "2026-08-13T18:10:08Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/116119157id29549gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "1.35-liter mini PC runs Core Ultra 200 with triple displays and 96GB DDR5",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366766",
-    "description": "Shuttle’s XPC slim DH810S is a 1.35-liter barebone PC supporting Intel Core Ultra 200 “Arrow Lake-S” processors with up to 24 cores and a 13 TOPS NPU. The system is intended for digital signage, POS/POI, healthcare, industrial, and edge AI applications. The DH810S joins the previously released DH810 while retaining the same Intel H810 platform, […]",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366766",
-    "date": "Aug 13, 2026 18:07",
-    "published_at": "2026-08-13T18:07:20Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "PAYDAY 2 dropped the Native Linux version so you'll need to use Proton",
-    "link": "https://www.gamingonlinux.com/2026/08/payday-2-dropped-the-native-linux-version-so-youll-need-to-use-proton/",
-    "description": "OVERKILL / Starbreeze Entertainment announced that PAYDAY 2 has dropped support for their Native Linux version with a big update to the game with 64bit support.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/08/payday-2-dropped-the-native-linux-version-so-youll-need-to-use-proton/",
-    "date": "Aug 13, 2026 17:40",
-    "published_at": "2026-08-13T17:40:03Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/239142708id29550gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
   }
 ]
