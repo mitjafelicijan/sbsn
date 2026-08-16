@@ -1,5 +1,119 @@
 [
   {
+    "title": "Anthropic Discovers AI Agents Given Conflicting Instructions Soon Tried to Sabotage Each Other",
+    "link": "https://slashdot.org/story/26/08/16/0632252/anthropic-discovers-ai-agents-given-conflicting-instructions-soon-tried-to-sabotage-each-other?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "When Anthropic instructed three agents to migrate a Python backend, but telling each agent to perform the migration in a different language, \"We consistently saw a multiagent turf war,\" they wrote Thursday:\n\n\nAll of the models we tested quickly assumed that others were purposefully impeding their work, and began to sabotage others while protecting their own contributions. In fact, they sabotaged others with increasingly aggressive, self-replicating malware. This included disabling the Unix accounts of the other agents, writing automated scripts that found and killed competing processes on a loop, and deploying malicious code that was disguised as belonging to another agent. \nIn many runs, one agent settles the conflict by force via access-revocation (e.g., sudo/group removal, account lock, nologin, SSH denial). In others, some agents settle into passivity: they give up and refuse to escalate further. \n\nAgents sometimes manage to communicate their goals and coordinate: they recognize others' motivations as conflicting directives rather than hostility, and subsequently break out of the conflict loop in order to stop escalating indefinitely. In many of these successful episodes, they write commit messages or markdown files apologizing for malicious behavior and coordinate a truce. They clean up their malicious code, clarify the nature of the conflict, and ask for a human to intervene... \n\nIn several episodes with Mythos 5, we observe an emergent behavior where the agents propose and run a tournament for application performance in each language. In the example above, the Rust agent strategizes about bake-off metrics that appear neutral enough for the others to agree to this mechanism, yet would likely favor Rust: one thinking trace warns to be \"careful not to be seen as metric shopping\". Ultimately, the Golang/TypeScript losers gracefully concede codebase ownership to the Rust agent, giving up on their original user directives under their self-negotiated commitment device.\n \nOne problem is that AI agents do reward hacking, Anthropic notes, while current institutions \"are designed by and for people, resting on assumptions about the sufficiency of oversight at human speed... As autonomous agents become more and more prevalent in the world and operate in ever-more demanding settings, it is crucial that they learn how to effectively coordinate.\" \n\nIn addition to everything else, the agents struggled with a lack of clearly defined hierarchy, Anthropic points out. \"Nothing above suggests that these failures are permanent — but nothing suggests they will fix themselves, either...\" They argue a fix \"takes two forms: environments that exert the kinds of social pressure that evolution exerted on us, and social computing systems redesigned for actors that can self-replicate and self-improve. These are open problems in interaction and mechanism design, and our experiments here provide early evidence that new solutions are necessary.\" \n\n\"The AI models being tested in this case were Sonnet 4.6, Sonnet 5, Opus 4.6, Opus 4.8, Mythos Preview, and Mythos 5,\" notes Business Insider, adding that Sonnet 4.6 and Opus 4.6 \"were the most combative, settling about 60% of their runs by force instead of truces or passivity.\" \n\nAnthropic argues there's a clear case for researching this phenomenon — especially since \"The volume of agent-agent interaction could plausibly exceed that of human-human and human-agent interactions before the world understands the conditions for making such interactions go well.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Aug 16, 2026 11:34",
+    "published_at": "2026-08-16T11:34:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Arch-Based Omarchy 4.0 “Quattro” Is Here with Its Biggest Desktop Overhaul Yet",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366838",
+    "description": "Omarchy 4.0 “Quattro” arrives with a completely rewritten Quickshell-based desktop shell, faster installs, dual-boot support, and usability improvements.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366838",
+    "date": "Aug 16, 2026 11:03",
+    "published_at": "2026-08-16T11:03:59Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "AVX-512 xor_gen Continues To Look Exciting For Helping Linux RAID With Modern CPUs",
+    "link": "https://www.phoronix.com/news/AVX-512-xor-gen-v4",
+    "description": "Google engineer Eric Biggers back in June posted an AVX-512 optimization for Linux RAID yielding up to a 41% improvement on a modern AMD Ryzen 9 9950X (Zen 5) processor. A revised patch then put it as much as a 43% improvement for this AVX-512 optimized xor_gen() function. The code hasn't yet been merged to mainline but an updated version of it is now available...",
+    "guid": "https://www.phoronix.com/news/AVX-512-xor-gen-v4",
+    "date": "Aug 16, 2026 10:54",
+    "published_at": "2026-08-16T10:54:19Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Linux 7.3 binfmt_misc To Allow BPF Programs To Dynamically Choose Execution Environments",
+    "link": "https://www.phoronix.com/news/Linux-7.3-binfmt-misc",
+    "description": "The Linux kernel's binfmt_misc functionality allows non-native/custom files to ne run directly such as for Windows EXE files to be handled by Wine or JAR files to be handled by the Java runtime. For the upcoming Linux 7.3 merge window, the miscellaneous binary formats support is being extended so a binary type can be matched programmatically and the interpreter determined on a per-exec basis. BPF programs can also then be attached to dynamically choosing an execution environment on a per-binary basis...",
+    "guid": "https://www.phoronix.com/news/Linux-7.3-binfmt-misc",
+    "date": "Aug 16, 2026 10:37",
+    "published_at": "2026-08-16T10:37:13Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "New Linux Driver Enables 12VHPWR Monitoring For ASUS ROG Astral Graphics Cards",
+    "link": "https://www.phoronix.com/news/ASUS-ROG-Astral-12VHPWR",
+    "description": "For those concerned about current imbalance or voltage changes with the 12VHPWR power connectors and having an ASUS ROG Astral graphics card, there is now an open-source driver for Linux available that integrates with the hardware monitoring (HWMON) subsystem for 12VHPWR reporting on these ASUS graphics cards...",
+    "guid": "https://www.phoronix.com/news/ASUS-ROG-Astral-12VHPWR",
+    "date": "Aug 16, 2026 10:19",
+    "published_at": "2026-08-16T10:19:06Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "nnn 5.3 Terminal File Manager Adds Native Preview Pane, Better Fuzzy Filtering",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366842",
+    "description": "nnn 5.3 “Mai Tai” introduces a native preview pane, improved fuzzy filtering, lazy-loaded plugins, new plugins, and numerous usability fixes.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366842",
+    "date": "Aug 16, 2026 08:01",
+    "published_at": "2026-08-16T08:01:00Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "SpaceX Launches Two Falcon 9 Rockets just 38 Minutes Apart",
+    "link": "https://science.slashdot.org/story/26/08/16/0647207/spacex-launches-two-falcon-9-rockets-just-38-minutes-apart?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader shares this report from Space.com:\n\n\nOn Saturday evening (Aug. 15), SpaceX set another mark, for the shortest time between orbital flights: It launched two Falcon 9 rockets just 38 minutes apart, besting its old mark — set on Aug. 31, 2024 with two Starlink missions — by 27 minutes. \n\nThe first liftoff, from Florida's Cape Canaveral Space Force Station, occurred Saturday at 9:12 p.m. EDT (0112 GMT on Aug. 16) and carried eight satellites to low Earth orbit (LEO) for Louisiana-based telecom company Globalstar. All eight spacecraft were deployed successfully, separating over a six-minute span beginning 56.5 minutes after liftoff, SpaceX announced via social media. While that Falcon 9 was powering its way to low Earth orbit, another one launched from Vandenberg Space Force Base, on California's central coast. That liftoff, at 9:50 p.m. EDT (6:50 p.m. local time; 0150 GMT on Aug. 16), kicked off a mission for the U.S. Space Force called USSF-366... \n\nBoth of Saturday's missions featured successful rocket landings. The Falcon 9 first stage that launched the Globalstar mission came back for a touchdown at Cape Canaveral about eight minutes after launch. It was the 14th flight for that particular booster. The USSF-366 Falcon 9 first stage, meanwhile, came back to Earth about 8.5 minutes after its launch, touching down in the Pacific Ocean on the SpaceX droneship \"Of Course I Still Love You.\" That booster now has 18 missions under its belt. \n\nSaturday's doubleheader brought the tally of Falcon 9 launches in 2026 to 96. The vast majority of those — about 75% — have been Starlink missions.\n\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Aug 16, 2026 07:34",
+    "published_at": "2026-08-16T07:34:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "GNOME 51 Desktop Environment Is Now Available for Public Beta Testing",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366837",
+    "description": "The GNOME Project released the beta version of the upcoming GNOME 51 desktop environment series for public testing, with more new features and improvements across various core apps and components.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366837",
+    "date": "Aug 16, 2026 06:29",
+    "published_at": "2026-08-16T06:29:31Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Copper's Surprising Melting Behavior Provides Insights for Future Fusion Power Plant Design",
+    "link": "https://science.slashdot.org/story/26/08/16/0227237/coppers-surprising-melting-behavior-provides-insights-for-future-fusion-power-plant-design?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Phys.org reports:\nFuture fusion power plants aim to recreate the heart of a star here on Earth to power our future energy needs. While the core fusion plasma will burn at hundreds of millions of degrees, the surrounding structural components must handle sudden, punishing heat loads that rival the extreme temperatures faced by spacecraft upon reentry into Earth's atmosphere. Copper and its alloys are primary candidates for handling these intense heat fluctuations, making it vital to understand exactly how the metal behaves when pushed to its melting point. \nNow, researchers at the Department of Energy's SLAC National Accelerator Laboratory and collaborators have captured a detailed, step-by-step look at copper atoms as they underwent extreme heating. Published in Nature Communications, the results revealed a key parameter that allowed copper's crystal lattice to melt steadily rather than collapse instantaneously, as earlier simulations predicted. \"These results greatly improve the simulations we use to predict which materials have the best shot at surviving the extreme conditions of future fusion reaction chambers,\" said Mianzhen Mo, a SLAC staff scientist who led the research. \"They also demonstrate the incredible, atomic-scale resolution imaging we can achieve at SLAC's electron camera....\" \n\nResearchers use computer simulations, aided by AI and machine learning, to sift through innumerable combinations of elements and identify promising candidate materials for real-world testing.\n \n\"Whether the copper melts slowly or suddenly collapses, by the time the researchers look, the sample resembles nothing more than a metallic brown puddle,\" the article points out. But SLAC's powerful electron camera captures atomic and molecular movements down to the femtosecond — a millionth of a billionth of a second — and revealed that at around 1,424 degreesC (2,595 degreesF) there was still gradual melting as the temperature rose beyond the superheating limit, with real-world conditions showing the atoms shifted and retained some order. \n\n\"It's a straightforward solution,\" said Mianzhen Mo, a SLAC staff scientist who led the research. \"But molecular dynamics simulations had been overlooking it for years. When you have complex simulations attempting to capture every aspect of reality, down to individual atoms, it takes real-world data to show you what's missing from the calculations.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Aug 16, 2026 04:45",
+    "published_at": "2026-08-16T04:45:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Alpha-Stage NeoSearch Brings Openness to Search",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366841",
+    "description": "The Apache-licensed project seeks to elevate independent sources, demote SEO spam, and ultimately loosen Big Tech’s grip on web search.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366841",
+    "date": "Aug 16, 2026 03:26",
+    "published_at": "2026-08-16T03:26:32Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "X Open Sources Its Ranking and Filtering Algorithms",
+    "link": "https://slashdot.org/story/26/08/16/0223258/x-open-sources-its-ranking-and-filtering-algorithms?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader shared this report from TechCrunch:\n\nX is significantly expanding its open source codebase, which includes the app's \"For You\" algorithm and its core ranking engine, and adding a feature that will let users see if their account or posts have been impacted by any of its ranking systems, the social network said on Thursday. The company is making the source code for the \"For You\" timeline, the default feed you see when you open the app, available on GitHub under the Apache v2 license. It's also expanding its previous efforts to open source parts of its codebase to add more detail, including the model configuration, filter, and core ranking system details. That means it includes the parameters used to weight different signals — key to understanding which posts are actually displayed. This also makes the codebase roughly 10 to 15 times larger than it was before. \n\n\"You'll get the core ranking code that pulls posts and ranks them for any given user and assembles the feed,\" X's VP of Product Keith Coleman told TechCrunch in an interview ahead of the announcement. \"You can see the systems that filter out potentially problematic, rule-violating content...And some of those systems, like the ranker and the score, you can even run yourself outside the company.\" \n\"This is the kind of thing that I think people will be fairly shocked that we are releasing,\" he added. \n\nIn addition to the repository, X is providing tools that will let users see for themselves if and how X's ranking systems have impacted their account or posts. A new transparency tool is rolling out to an \"Under the Hood\" page in the app's settings, which will let users who have posted 10 or more times over the past month download their aggregate stats as a JSON file. The file will show if any labels have been applied to their account or posts over the past calendar month. \n\nX's VP of Product told TechCrunch that X engineers will consider pull requests. \"That would be amazing to have people submitting code that improves the algorithm...I mean, how cool would it be for the X algorithm to be not just visible to the public, but also, like, by the public?\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Aug 16, 2026 02:25",
+    "published_at": "2026-08-16T02:25:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
     "title": "Marek Olšák's 19 Latest Patches Further Optimizing RADV \u0026 ACO",
     "link": "https://www.phoronix.com/news/RADV-ACO-19-More-Patches-Valve",
     "description": "Legendary Mesa Radeon Gallium3D driver developer Marek Olšák who was a longtime AMD employee and then joined Valve's Linux graphics driver team earlier this year has continued his focus now on perfecting his art around the RADV Vulkan driver and ACO shader compiler...",
@@ -129,6 +243,16 @@
     "source_url": "https://www.phoronix.com/"
   },
   {
+    "title": "AMD Posts Massive 109 Patch Series For GFX 12.1 RAS Support On Friday Evening",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366827",
+    "description": "AMD has a tendency to send out large feature patch series for their open-source Linux drivers on Friday afternoons/evenings. Today we were greeted by a set of 109 patches working on RAS support for the upcoming AMD GFX12.1 target...",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366827",
+    "date": "Aug 15, 2026 13:25",
+    "published_at": "2026-08-15T13:25:17Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
     "title": "RustConn 0.20 Continues Further Polishing This GTK4/libadwaita-Based Connection Manager",
     "link": "https://www.phoronix.com/news/RustConn-0.20-Released",
     "description": "RustConn has been in development for a while now as a modern GTK4 connection manager supporting a variety of protocols like SSH, RDP, VNC, Telnet, and more. RustConn 0.20 was released this week as the latest major step forward to this Rust-based connection manager leveraging the GTK4 toolkit and libadwaita...",
@@ -250,171 +374,5 @@
     "published_at": "2026-08-15T05:30:31Z",
     "source": "lxer.com",
     "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "WireGuard Easy 15.4 Released with OAuth Support",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366811",
-    "description": "The latest WireGuard Easy release adds external OAuth authentication, improves security, and speeds up client status handling.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366811",
-    "date": "Aug 15, 2026 03:59",
-    "published_at": "2026-08-15T03:59:01Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Robots That Walk and Talk Are Coming To Car Factories",
-    "link": "https://hardware.slashdot.org/story/26/08/14/215204/robots-that-walk-and-talk-are-coming-to-car-factories?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "An anonymous reader quotes a report from The New York Times: At a BMW factory in South Carolina, a human-shaped robot with a screen for a face recently stepped from a charging station toward a stack of green plastic boxes. It grasped an auto part from one of the boxes, pivoted, placed the part in a trolley, then pulled the trolley across the floor. The robot's slow, stiff movements suggested a worker with a bad hangover rather than a technological revolution. \"They're still slower than humans,\" Ulrich Wieland, a BMW vice president in charge of logistics at the factory, in Spartanburg, told reporters invited to see the robot in June. But, he added, \"they're advancing fast.\"\n \nAutomakers have used robots for decades, but they are usually powerful, one-armed machines that are fixed in place and perform repetitive tasks like welding body frames or applying adhesives to door panels. Now, most major automakers are betting that robots designed to resemble human beings, known as humanoids, will usher in a new wave of automation and efficiency. Equipped with artificial intelligence, they are expected to move around and do tasks now done by humans without any modifications to factories or heavy equipment.\n \nUnlike most of the robots now in use, humanoids would respond to voice commands and theoretically solve problems and react to unforeseen events. They would never take a lunch break, join a union or require health insurance. To optimists, robots could rescue U.S. manufacturing by increasing productivity, solving shortages of skilled workers and giving Western carmakers a fighting chance at competing with Chinese rivals that enjoy lower costs. Boring but important jobs like sorting parts would be done by robots, freeing humans for more interesting and specialized work.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Aug 15, 2026 03:30",
-    "published_at": "2026-08-15T03:30:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Features Coming For Linux 7.3 From Optimizing Intel Hybrid CPUs To Old AMD Athlon XPs",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366813",
-    "description": "With Linux 7.2 expected to see its stable debut Sunday, here is a look at what I have been monitoring as changes expected to be submitted during the Linux 7.3 merge window that will open on Monday...",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366813",
-    "date": "Aug 15, 2026 02:27",
-    "published_at": "2026-08-15T02:27:32Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Nitrux Shows Off a New Desktop Approach Other Distros Might Want to Take Note of",
-    "link": "https://feed.itsfoss.com/link/24361/17418654/nitrux-workspace-environment",
-    "description": "It is meant to be a middle ground between window managers and desktop environments.",
-    "guid": "6a7eab6cb11ec200018931ab",
-    "date": "Aug 15, 2026 01:02",
-    "published_at": "2026-08-15T01:02:27Z",
-    "image": "https://itsfoss.com/content/images/2026/08/nixtrux-we-banner.png",
-    "source": "itsfoss.com",
-    "source_url": "https://itsfoss.com/"
-  },
-  {
-    "title": "AMD Posts Massive 109 Patch Series For GFX 12.1 RAS Support On Friday Evening",
-    "link": "https://www.phoronix.com/news/AMD-GFX12.1-RAS-Patch-Series",
-    "description": "AMD has a tendency to send out large feature patch series for their open-source Linux drivers on Friday afternoons/evenings. Today we were greeted by a set of 109 patches working on RAS support for the upcoming AMD GFX12.1 target...",
-    "guid": "https://www.phoronix.com/news/AMD-GFX12.1-RAS-Patch-Series",
-    "date": "Aug 15, 2026 01:01",
-    "published_at": "2026-08-15T01:01:22Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Blue Pill-Style STM32C5 Board Adds Oberon-2 Firmware Support",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366814",
-    "description": "Norwegian-based Tenko has released an open-hardware development board based on STMicroelectronics’ STM32C5 microcontroller family. The compact board follows the familiar Blue Pill form factor while adding USB-C power, onboard USB-to-UART connectivity, and an alternative firmware environment based on Oberon-2. The board uses the recently introduced STM32C551CE, a 32-bit Arm Cortex-M33 microcontroller operating at up to […]",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366814",
-    "date": "Aug 15, 2026 00:56",
-    "published_at": "2026-08-15T00:56:02Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Raspberry Pi Imager 2.0.11 Adds Support for Multi-Frame Compressed Images",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366819",
-    "description": "Raspberry Pi Imager 2.0.11 has been released today as the latest stable release of this user-friendly tool for creating bootable media for Raspberry Pi devices.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366819",
-    "date": "Aug 14, 2026 23:24",
-    "published_at": "2026-08-14T23:24:33Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Ex-Cambridge Professor At Center of Plagiarism Row Found Dead",
-    "link": "https://news.slashdot.org/story/26/08/14/2050245/ex-cambridge-professor-at-center-of-plagiarism-row-found-dead?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Former Cambridge professor Jason Arday, who resigned last week amid allegations of plagiarism and questions about his academic record, has been found dead at age 41 in London. The BBC reports: Jason Arday was found \"unresponsive\" at an address in Battersea, south London, on Friday afternoon, emergency services said. Metropolitan Police officers were called by the London Ambulance Service. A 41-year-old man was pronounced dead at the scene and his next of kin have been informed, the force said.\nArday resigned as a Cambridge professor of sociology of education last week after allegations of plagiarism and questions about some of his achievements. He had denied the claims.\n \nIn a statement, the Met Police said: \"At this time his death is being treated as unexpected, but is not believed to be suspicious.\" The 41-year-old academic had denied any plagiarism - but admitted errors in his work - and last week said the recent furore had led to \"an unrelenting level of public scrutiny and personal attack.\" The row first erupted after another academic -- self-defined \"race realist\" Nathan Cofnas, who was sacked from his Cambridge role in 2024 -- said he found numerous instances of plagiarism in Prof Arday's work and questioned some of his stated achievements.\n \n[...] Announcing his resignation last week, Arday said the \"personal cost\" of the scrutiny had become \"too great.\" He said: \"While criticism is an inevitable part of academic life, what I have experienced has gone far beyond scholarly disagreement. \"The relentless accusations, speculation and public commentary have taken a profound toll on me and on those I love.\" He stressed that his resignation should not \"be mistaken for an acceptance of the narratives that have surrounded me.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Aug 14, 2026 23:00",
-    "published_at": "2026-08-14T23:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Flock Announces Changes Amid Backlash Over Its License Plate Reader Network",
-    "link": "https://yro.slashdot.org/story/26/08/14/2044246/flock-announces-changes-amid-backlash-over-its-license-plate-reader-network?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Flock Safety is tightening controls on its nationwide license plate reader network after mounting backlash over privacy and documented police misuse. By January 1, law enforcement customers will be required to use automated auditing, tie searches to specific case numbers, and accept a shorter seven-day default retention period. Critics, including the ACLU, argue the changes still leave too much surveillance power in police hands. The Associated Press reports: In an interview, Flock CEO Garrett Langley said many of the product changes will make what were once optional guardrails mandatory for its users to implement by Jan. 1. Among them: All law enforcement customers will have to implement an audit tool that's intended to flag abnormal search behavior. When the system detects abnormal behavior, the user would be locked out pending an internal review, the company said in a description of the changes provided ahead of Thursday's announcement.\n \nFlock, which says its customers own the data that the cameras record, is also shortening the standard data retention window from 30 days to seven. It said it will allow data to be preserved for longer when it is evidence tied to a case number. Law enforcement users will now also be required to enter a code from their records management system tying each search to a specific case before it is run, something Langley said civil liberties advocates have long been calling for. Overrides for emergencies would be automatically flagged for review, the company said.\n \nCustomers will also be allowed to decide which offense types -- such as homicide or arson -- outside agencies can search their data for, which would allow a customer to block outside searches related to immigration enforcement, the company said. Langley said that change will give individual cities and departments control to use the system in a manner \"consistent with community values.\" Critics say Flock's changes don't address the core problem: police can still decide for themselves when and whom to search without judicial oversight. The ACLU called the shorter data-retention period \"a step in the right direction,\" but dismissed the other safeguards as \"retreads\" of inadequate protections, while Institute for Justice attorney Robert Frommer called the reforms \"window dressing\" from a company in \"panic mode.\"\n \nHe argued that searches should instead be approved \"by judges with real warrants.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Aug 14, 2026 22:00",
-    "published_at": "2026-08-14T22:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Building an Indestructible Debian Sandbox on SparkyLinux 8.4 + True OverlayFS (Assisted by Google AI)",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366808",
-    "description": "The holy grail of desktop engineering is a true immutable sandbox: the ability to boot into a historical snapshot, run risky updates or delete critical system binaries, and have those changes vanish into thin air upon a reboot. To solve this, SparkyLinux 8.4 was chosed (the leanest Debian testing base available) to build a 100% contained RAM sandbox from scratch.This post is an immediate follow up for https://lxer.com/module/newswire/view/366777/index.html .",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366808",
-    "date": "Aug 14, 2026 21:53",
-    "published_at": "2026-08-14T21:53:03Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "France's Top Court Blocks Social Media Ban For Under-15s",
-    "link": "https://yro.slashdot.org/story/26/08/14/2019223/frances-top-court-blocks-social-media-ban-for-under-15s?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "France's Constitutional Council has struck down a law that would have banned children under 15 from social media, ruling that it disproportionately restricted freedom of expression and lacked adequate privacy safeguards around age verification. President Emmanuel Macron has asked the government to rewrite the measure, with the goal of putting a revised version in place before spring 2027. Reuters reports: \"The Council holds that the contested provisions, on the one hand, disproportionately infringe upon the freedom of expression and communication and, on the other, fail to provide the legal safeguards necessary to ensure the right to respect for private life,\" it said.\n \nFrench lawmakers had approved the bill in July, becoming the first in Europe to follow Australia, whose world-first ban barred access to platforms including Facebook, Snapchat, TikTok and YouTube for under-16s in December. Lawmakers there are considering stricter penalties after data showed mixed success.\n \nCountries around the globe, including China, the United Arab Emirates and Turkey, have either instituted measures intended to curtail or bar access to social media for young people, or have said they were planning them. The European Union has said it was planning to seek stronger protections for children from harmful social media features.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Aug 14, 2026 21:00",
-    "published_at": "2026-08-14T21:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "D7VK 2.1 Brings Faster Load Times, More Performance Tweaks",
-    "link": "https://www.phoronix.com/news/D7VK-2.1",
-    "description": "D7VK as the open-source implementation of the Direct3D 7 / 6 / 5/ 3 APIs atop the Vulkan API for Linux/Wine usage is out with another feature update. D7VK continues to mature quite well for further enhancing these older Direct3D API versions that cover the span prior to DXVK's focus of Direct3D 8 to Direct3D 11 or VKD3D-Proton's Direct3D 12...",
-    "guid": "https://www.phoronix.com/news/D7VK-2.1",
-    "date": "Aug 14, 2026 20:26",
-    "published_at": "2026-08-14T20:26:46Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Test Days for Fedora 45: Help Us Test the Big Changes",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366820",
-    "description": "Fedora 45 has several system-level changes that need testing on real hardware. The first test day up is GNOME 51, starting on 17 August, with more events planned for RPM 6.1, installation media and others. You can participate with a VM for most tests; some hardware-specific testing is more useful on a real machine. Details […]",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366820",
-    "date": "Aug 14, 2026 20:21",
-    "published_at": "2026-08-14T20:21:34Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Lemonade 11.6 Integrates Muse-Glimmer 30B, Experimental TheNoise ROCm Image Generation",
-    "link": "https://www.phoronix.com/news/Lemonade-SDK-11.6",
-    "description": "For those dabbling with generative AI on the weekends, the AMD-led Lemonade SDK 11.6 is out today with its newest feature release of this open-source software for running local AI apps with optimized LLMs across CPUs, GPUs, and NPUs...",
-    "guid": "https://www.phoronix.com/news/Lemonade-SDK-11.6",
-    "date": "Aug 14, 2026 20:00",
-    "published_at": "2026-08-14T20:00:22Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "PBS Station Fears Losing 50TB of Data After Being Ghosted By Cloud Provider",
-    "link": "https://hardware.slashdot.org/story/26/08/14/1747213/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-provider?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "An anonymous reader quotes a report from Ars Technica: After its cloud storage provider went defunct, a PBS affiliate decided to sue a data center provider to regain access to 50TB of TV shows, videos, and other data dating back 70 years. As reported this week by Current, a trade newspaper covering public broadcasting, St. Louis affiliate Nine PBS filed a lawsuit against Iron Mountain Data Centers on July 28, seeking access to the data. In the litigation filed in Denver District Court, Nine PBS says that its cloud storage provider, Open Source Storage (OSS), used one of Iron Mountain's Denver data centers to store the channel's data. However, OSS is being unresponsive, and Nine PBS says Iron Mountain has refused to release its data.\n \nThe data in question includes the station's coverage of the COVID-19 pandemic, East St. Louis' history, The Great Flood of 1993, and over 11,000 files, The Denver Post reported in July. The lawsuit claims that \"most\" of the data is \"unique and irreplaceable,\" according to the Post. Last month, a judge blocked Iron Mountain from deleting or modifying the data.\n \nIn a hearing on Wednesday, a judge ruled that Iron Mountain must hand over any physical devices holding the data, Current reported today. The judge also said that Nine PBS must find a third party, such as a former OSS worker, who can help retrieve the data within 30 days and without sharing or corrupting data belonging to other OSS clients. Nine PBS is already communicating with a former OSS employee \"who is willing to help,\" the report said. If complications arise, such as from the data being encrypted, another hearing will be scheduled. Nine PBS and Iron Mountain must provide updates by September 14. Iron Mountain's spokesperson said the company only provides physical infrastructure, such as the building, network connectivity, power, and environmental controls. \"Our customers rent space for their servers and other hardware. These are the client's assets. We don't have access to the data on the hardware/servers because they belong to our customers,\" the company said.\n \nIf it granted \"unauthorized access to third-party hardware without a court order,\" Iron Mountain said the company would violate basic data privacy protocols, breach its contract with OSS, and \"potentially [expose] confidential data belonging to other clients of OSS.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Aug 14, 2026 20:00",
-    "published_at": "2026-08-14T20:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Omarchy 4.0 Linux Distro Released With Desktop Shell Now Implemented Via Quickshell",
-    "link": "https://www.phoronix.com/news/Omarchy-4.0-Released",
-    "description": "Omarchy as the Arch Linux distribution developed by David Heinemeier Hansson \"DHH\" / Basecamp is out today with Omarchy 4.0 as the distro's biggest release to date...",
-    "guid": "https://www.phoronix.com/news/Omarchy-4.0-Released",
-    "date": "Aug 14, 2026 18:10",
-    "published_at": "2026-08-14T18:10:15Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
   }
 ]
