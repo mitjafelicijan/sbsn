@@ -1,5 +1,172 @@
 [
   {
+    "title": "Linux 7.3 Deprecates Many Older 32-bit ARM Platforms, Orphans Hundreds Of Drivers",
+    "link": "https://www.phoronix.com/news/Linux-7.3-SoC",
+    "description": "All of the SoC updates have been merged for the Linux 7.3 kernel that include adding some new SoCs as well as deprecating several older 32-bit ARM platforms. In turn with those platforms deprecated, \"hundreds\" of drivers are now orphaned in the process...",
+    "guid": "https://www.phoronix.com/news/Linux-7.3-SoC",
+    "date": "Aug 19, 2026 12:17",
+    "published_at": "2026-08-19T12:17:13Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "RetroSpace will bring disco-punk space horror on October 1",
+    "link": "https://www.gamingonlinux.com/2026/08/retrospace-will-bring-disco-punk-space-horror-on-october-1/",
+    "description": "RetroSpace is an upcoming immersive sim that really looks like one to watch blending the worlds of disco-punk and space horror.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/retrospace-will-bring-disco-punk-space-horror-on-october-1/",
+    "date": "Aug 19, 2026 12:05",
+    "published_at": "2026-08-19T12:05:50Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/906853814id29581gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Turn neighbourhoods into car parks in Car Park Capital - confirmed to arrive October 9",
+    "link": "https://www.gamingonlinux.com/2026/08/turn-neighbourhoods-into-car-parks-in-car-park-capital-confirmed-to-arrive-october-9/",
+    "description": "Car Park Capital allows you to live out your grey dream of bulldozing entire neighbourhoods as you've convinced everyone they need another car park.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/turn-neighbourhoods-into-car-parks-in-car-park-capital-confirmed-to-arrive-october-9/",
+    "date": "Aug 19, 2026 11:24",
+    "published_at": "2026-08-19T11:24:04Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1652912518id29580gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Linux VRAM management set for more improvements with kernel 7.3",
+    "link": "https://www.gamingonlinux.com/2026/08/linux-vram-management-set-for-more-improvements-with-kernel-7-3/",
+    "description": "Valve contractor Natalie Vock blogged about work to improve VRAM management on Linux, and we're set to see some improvements with kernel 7.3 and more after.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/linux-vram-management-set-for-more-improvements-with-kernel-7-3/",
+    "date": "Aug 19, 2026 11:08",
+    "published_at": "2026-08-19T11:08:57Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/2142172066id29579gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Thunderbird 154 Open-Source Email Client Introduces an Optional System Tray Mode",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366901",
+    "description": "Following the release of Mozilla Firefox 154 today, the Mozilla Thunderbird 154 open-source email, calendar, news, chat, and address book client has been released with various new features and improvements.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366901",
+    "date": "Aug 19, 2026 11:05",
+    "published_at": "2026-08-19T11:05:08Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Babies Born Under Sugar Rationing Grew Into Adults With Lower Cancer Risk",
+    "link": "https://science.slashdot.org/story/26/08/19/0534224/babies-born-under-sugar-rationing-grew-into-adults-with-lower-cancer-risk?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "A study of more than 64,000 people born around the end of Britain's postwar sugar rationing found that those exposed to less sugar during their first 1,000 days had lower rates of five cancers decades later, including roughly 69% lower liver cancer risk and 36% lower breast cancer risk. They also \"showed signs of slower biological aging\" and \"continued to consume less sugar and had healthier diets overall,\" according to the authors of a new study published in The Conversation. From the report: After the second world war, sugar remained rationed in Britain for several years. But in September 1953, rationing ended and people started eating a lot more sugar. Consumption nearly doubled. This meant that children born just a few months apart had very different levels of sugar exposure both in the womb and during early childhood. For our study, we used data from over 64,000 people born in Britain between 1951 and 1956. Those born earlier spent a larger share of their first 1,000 days under sugar rationing, while those born later experienced progressively less of it.\n \n[...] What is most surprising, however, is not the cancer results or the biological markers of ageing. It's how early-life sugar exposure continued to affect people's diets even 50 years later. We found that people who experienced sugar rationing early in life still consumed less sugar in adulthood, around age 50. They also ate less overall, and their diets were healthier and more diverse. This suggests that the level of sweetness people are exposed to very early in life may shape their taste preferences for a long time.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Aug 19, 2026 11:00",
+    "published_at": "2026-08-19T11:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Proton Experimental brings fixes for Company of Heroes 3, Avatar: Frontiers of Pandora, Arma 3 and more",
+    "link": "https://www.gamingonlinux.com/2026/08/proton-experimental-brings-fixes-for-company-of-heroes-3-avatar-frontiers-of-pandora-arma-3-and-more/",
+    "description": "Valve just launched the latest Proton Experimental update to improve gaming on Linux / SteamOS, Steam Deck and Steam Machine - here's all that's changed.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/proton-experimental-brings-fixes-for-company-of-heroes-3-avatar-frontiers-of-pandora-arma-3-and-more/",
+    "date": "Aug 19, 2026 10:53",
+    "published_at": "2026-08-19T10:53:51Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/709825840id29578gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "PHP 7.4 To PHP 8.6 Benchmarks, PHP 8.6 JIT Performance",
+    "link": "https://www.phoronix.com/news/PHP-8.6-Early-Benchmarks",
+    "description": "A Phoronix Premium supporter recently relayed a request to see some fresh PHP performance benchmarks. So here are some fresh numbers of PHP 7.4 through the latest PHP 8.5 code plus the current Git state of PHP 8.6 ahead of the official PHP 8.6.0 release later in the year. With PHP 8.6 is also a fresh look at the JIT performance enabled too...",
+    "guid": "https://www.phoronix.com/news/PHP-8.6-Early-Benchmarks",
+    "date": "Aug 19, 2026 10:35",
+    "published_at": "2026-08-19T10:35:33Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Linux 7.3 Scheduler Improvements: Help For Gaming, Hybrid CPUs, Lower Scheduler Latency",
+    "link": "https://www.phoronix.com/news/Linux-7.3-Scheduler",
+    "description": "The exciting set of scheduler updates have been merged for the Linux 7.3 merge window...",
+    "guid": "https://www.phoronix.com/news/Linux-7.3-Scheduler",
+    "date": "Aug 19, 2026 10:20",
+    "published_at": "2026-08-19T10:20:00Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "New AMD Low-Power Core \u0026 Unified Intel/AMD CPU Core Type Handling In Linux 7.3",
+    "link": "https://www.phoronix.com/news/x86-Core-Types-Linux-7.3",
+    "description": "Covered first on Phoronix back in June was an AMD Linux patch for introducing a new \"low power\" CPU core type to complement their typical \"performance\" cores and their \"efficiency\" cores like with Zen 4C/5C. That low power core is presumed for some Zen 6 clients and that integration is now merged for Linux 7.3 as well as unifying the Intel/AMD CPU core type handling...",
+    "guid": "https://www.phoronix.com/news/x86-Core-Types-Linux-7.3",
+    "date": "Aug 19, 2026 10:04",
+    "published_at": "2026-08-19T10:04:10Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Raspberry Pi Compute Module 5 Programming Jig Launches",
+    "link": "https://www.phoronix.com/news/Raspberry-Pi-CM5-Jig",
+    "description": "The newest Raspberry Pi product to launch is the Raspberry Pi Compute Module 5 Programming Jig...",
+    "guid": "https://www.phoronix.com/news/Raspberry-Pi-CM5-Jig",
+    "date": "Aug 19, 2026 09:36",
+    "published_at": "2026-08-19T09:36:22Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Thunderbird 154 Lands with Microsoft Graph Support, Better Desktop Integration",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366902",
+    "description": "Mozilla Thunderbird 154 is now available with optional system tray support, Microsoft Graph integration, improved search behavior, and more.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366902",
+    "date": "Aug 19, 2026 08:02",
+    "published_at": "2026-08-19T08:02:09Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Physicists Entangle Quantum Memories Across a Record-Breaking 420 Kilometers",
+    "link": "https://tech.slashdot.org/story/26/08/19/0133228/physicists-entangle-quantum-memories-across-a-record-breaking-420-kilometers?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "alternative_right shares a report from Phys.org: Optical fibers are already the backbone of global communication systems. Recently, however, physicists have started to explore how their functionality could be boosted further by conveying information via entangled quantum particles -- potentially enabling instantaneous exchanges of information across vast distances. Such a system could eventually be the basis of a future 'quantum internet,' offering a level of security and computing power beyond anything possible today. In new research published in Physical Review Letters, a team led by Xi-Yu Luo at the University of Science and Technology of China in Hefei has pushed that vision further than ever, entangling two quantum memories across 420 kilometers (261 miles) of optical fiber -- more than four times the previous record.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Aug 19, 2026 07:00",
+    "published_at": "2026-08-19T07:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "nRF93M1 DK with LTE Cat 1 bis, nRF54L15, and nRF Cloud support",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366910",
+    "description": "Nordic Semiconductor’s nRF93M1 Development Kit is now available through multiple distributors, providing a platform for evaluating the company’s nRF93M1 LTE Cat 1 bis cellular module. The board combines the modem with an nRF54L15 host MCU and includes USB-C, onboard J-Link debugging, power-measurement support, and a preloaded SIM card. The nRF93M1 DK pairs the nRF93M1-LABA modem […]",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366910",
+    "date": "Aug 19, 2026 04:59",
+    "published_at": "2026-08-19T04:59:10Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Top Album Releases Linked To Rise In Fatal Crashes",
+    "link": "https://entertainment.slashdot.org/story/26/08/18/2225215/top-album-releases-linked-to-rise-in-fatal-crashes?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from The Guardian: The release of a new album by Taylor Swift might be a cause for celebration among her fans, but such events have also been linked to a more sombre phenomenon: an increase in fatal car crashes. The team behind a new study say it sheds light on the impact of distracted driving. Writing in the journal Jama Network Open, [Vishal Patel, first author of the study based at Harvard Medical School] and colleagues report how they focused on the release of 10 major albums, launched between 2017 and 2022, selected for having the highest number of Spotify streams over a single day. [...] The team found streaming volume for the top 200 songs in the US was 43% higher on the date of major album releases compared with the days surrounding the releases -- although such data does not reveal whether the music was being streamed in a car.\n \n[...] The researchers used data from a population-based registry of fatal US motor vehicle crashes to look at the number of traffic fatalities on the dates these albums were released, as well as for the 10 days either side. After taking into account the day of the week upon which the album was released, as well as federal holidays, and time of year, the researchers found the number of US traffic fatalities showed a relative increase of 15.1% on the date of major album releases, compared with similar days either side. \"This is equivalent to approximately 182 fatalities in the US attributable to the release days of the 10 included albums,\" the team writes.\n \nPatel said the release of a new album could distract drivers because accessing music is a search task, not a single button press. \"You unlock the phone, open the app, find the release, read down a tracklist, tap the right song. That's several seconds of looking at a screen,\" he said, adding unfamiliar music also demands more attention, while research has suggested listening to new, high-energy music measurably degrades driving performance. The researchers add the rise in traffic fatalities was greater among certain groups -- such as younger drivers, male drivers, people who were driving alone, and people driving cars with a built-in infotainment platform. The authors say the results suggest that \"online music streaming through smartphones may significantly contribute to distracted driving and traffic fatalities.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Aug 19, 2026 03:30",
+    "published_at": "2026-08-19T03:30:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Mozilla Firefox 155 Enters Public Beta Testing, Here’s What to Expect",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366906",
+    "description": "With the release of Firefox 154 rolling out to all supported platforms, Mozilla promoted the next major release, Firefox 155, to the beta channel for public testing, so it’s time to take a look at the new features and improvements.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366906",
+    "date": "Aug 19, 2026 01:56",
+    "published_at": "2026-08-19T01:56:11Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
     "title": "Modular's Mojo Language Now Open-Source Following Qualcomm Acquisition",
     "link": "https://www.phoronix.com/news/Modular-Mojo-Open-Source",
     "description": "Modular, the AI startup founded by Chris Lattner of LLVM and Swift fame, has open-sourced their Mojo systems programming language! This comes following the recent acquisition of Modular by Qualcomm...",
@@ -106,7 +273,7 @@
   {
     "title": "You Can Finally Buy a Fairphone In the US",
     "link": "https://mobile.slashdot.org/story/26/08/18/1712245/you-can-finally-buy-a-fairphone-in-the-us?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "An anonymous reader quotes a report from Wired: Your iPhone, SamsungGalaxy, andGoogle Pixel have a 1-year warranty. Unless you cough up extra dough for an extended service plan, you'll pay a hefty fee if you damage the screen and need a replacement (around $329 for aniPhone 17done directly fromApple). But it doesn't have to be this way. What if you could order the part from the manufacturer and do the repair yourself? That dream is finally being realized for American consumers, thanks to Fairphone.\n \nThe Dutch company is bringing its repairable and sustainably built Android smartphone -- the Fairphone (Gen 6+) -- to the US. Each one comes with a screwdriver. A replacement screen from Fairphone costs just $90. A new USB-C port is $20. A fresh battery is $40. In all, there are 12 modular elements you can swap yourself. It remains the only smartphone series with a 10/10 repairability scorefrom iFixit, not to mention an unmatched 5-year warranty and software updates through 2033.\n \nThe new Fairphone (Gen 6+) is a small upgrade over the Gen 6 that the company launched last year. It has a newer Qualcomm Snapdragon 7s Gen 4 processor and double the RAM at 12 GB, but is otherwise largely the same device (hence the \"plus\" in the name). It now comes in Cobalt Blue, a nod to the miners who extract the cobalt used to make phone batteries, and the company's efforts to improve working conditions in mines in the Democratic Republic of Congo. The new Fairphone is available on Amazon and at Fairphone.com for $650, and it's officially certified to work on T-Mobile and AT\u0026T's networks. While this will mark the U.S. debut of its flagship smartphone, the company first entered the stateside market last year with its repairable earbuds and headphones. It also plans to launch its next-generation Fairbuds 2 wireless earbuds later this year.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "description": "An anonymous reader quotes a report from Wired: Your iPhone, SamsungGalaxy, andGoogle Pixel have a 1-year warranty. Unless you cough up extra dough for an extended service plan, you'll pay a hefty fee if you damage the screen and need a replacement (around $329 for an iPhone 17 done directly from Apple). But it doesn't have to be this way. What if you could order the part from the manufacturer and do the repair yourself? That dream is finally being realized for American consumers, thanks to Fairphone.\n \nThe Dutch company is bringing its repairable and sustainably built Android smartphone -- the Fairphone (Gen 6+) -- to the US. Each one comes with a screwdriver. A replacement screen from Fairphone costs just $90. A new USB-C port is $20. A fresh battery is $40. In all, there are 12 modular elements you can swap yourself. It remains the only smartphone series with a 10/10 repairability scorefrom iFixit, not to mention an unmatched 5-year warranty and software updates through 2033.\n \nThe new Fairphone (Gen 6+) is a small upgrade over the Gen 6 that the company launched last year. It has a newer Qualcomm Snapdragon 7s Gen 4 processor and double the RAM at 12 GB, but is otherwise largely the same device (hence the \"plus\" in the name). It now comes in Cobalt Blue, a nod to the miners who extract the cobalt used to make phone batteries, and the company's efforts to improve working conditions in mines in the Democratic Republic of Congo. The new Fairphone is available on Amazon and at Fairphone.com for $650, and it's officially certified to work on T-Mobile and AT\u0026T's networks. While this will mark the U.S. debut of its flagship smartphone, the company first entered the stateside market last year with its repairable earbuds and headphones. It also plans to launch its next-generation Fairbuds 2 wireless earbuds later this year.\n\n\n\n\n\nRead more of this story at Slashdot.",
     "guid": "",
     "date": "Aug 18, 2026 19:00",
     "published_at": "2026-08-18T19:00:00Z",
@@ -337,6 +504,16 @@
     "source_url": "https://www.phoronix.com/"
   },
   {
+    "title": "EFS \u0026 FreeVxFS File-Systems Get Booted While FailFS Merged For Linux 7.3",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366887",
+    "description": "Among the early pull requests merged today by Linus Torvalds for the Linux 7.3 kernel cycle were removal of some ancient file-systems while adding in a new pseudo file-system...",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366887",
+    "date": "Aug 18, 2026 11:42",
+    "published_at": "2026-08-18T11:42:12Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
     "title": "Sainsbury's Store Pauses Facial Recognition After False Shoplifting Claim",
     "link": "https://yro.slashdot.org/story/26/08/18/0742229/sainsburys-store-pauses-facial-recognition-after-false-shoplifting-claim?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
     "description": "Bruce66423 shares a report from The Guardian: Sainsbury's has paused the use of AI face scanning in one of its stores after a customer was wrongly identified as a shoplifter and ejected from the shop. \"I was embarrassed, mortified even, and felt quite humiliated and powerless,\" Matt Arnold, 46, said of his ordeal. The comedy promoter was buying supplies in the store in East Dulwich, in south-east London, for a standup event at Dulwich Hamlet football club when, after scanning his items and a Nectar card, he was approached by two managers who told him he could not be served owing to an earlier incident. He was then asked to leave and they tried to escort him from the store.\n \nAs he left, he saw an overhead CCTV monitor alert with a red circle surrounding his face. He asked the shop staff to keep his shopping in the trolley so his friend could come and pick up the supplies for the comedy night happening soon next door. \"I think they were quite confused by this, understandably, but agreed and my colleague Dave went in to pay for and pick up the shop about five minutes later. There was no pause for thought from the staff, no suggestion that they understood this is not how a shoplifter would behave. Just blindly following the machine's orders.\" Sainsbury's head office apologised to Arnold the next day and has paused use of its AI-assisted Facewatch technology in the store while an investigation takes place. Arnold says the facial recognition tech should be paused in all stores. \"Anyone could be falsely accused and at some point that will be someone vulnerable, someone with mental health issues like anxiety. It's inevitable,\" said Arnold. \"Also, I would worry about the confidence-destroying effect of it happening to a younger person or someone less willing or able to stand up for themselves as I have done.\"\n \nA Sainsbury's spokesperson said: \"We have contacted Mr Arnold to apologise for his experience at our Dulwich superstore. The incident was caused by human error, not the facial recognition technology. Customers can be reassured that the Facewatch system has a 99.98% accuracy rate, and every match is reviewed by a trained manager.\" A Facewatch spokesperson said their technology was not at fault in this case. \"A correct alert was sent to the retailer, but was subsequently subject to human error in the way it was handled in store,\" they said.\n\n\n\n\n\nRead more of this story at Slashdot.",
@@ -492,119 +669,5 @@
     "published_at": "2026-08-18T05:36:14Z",
     "source": "lxer.com",
     "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Linuxiac Weekly Wrap-Up: Week 33, 2026 (August 10 – 16)",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366862",
-    "description": "Catch up on the latest Linux news: Manjaro 26.1, Omarchy 4.0, GNOME 51 Beta, OpenSSH 10.5, Podman 6.1, KDE Plasma 6.6 gets three years of LTS support, and more.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366862",
-    "date": "Aug 18, 2026 04:04",
-    "published_at": "2026-08-18T04:04:44Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "'Buy Now, Pay Later' Lenders Pitch Loans For Needs Like Electricity and Rent",
-    "link": "https://news.slashdot.org/story/26/08/17/2254201/buy-now-pay-later-lenders-pitch-loans-for-needs-like-electricity-and-rent?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "An anonymous reader quotes a report from The New York Times: Buy now, pay later\" loans took off during the pandemic as a way for online shoppers to go on retail splurges without using a credit card. Now, lenders are offering the loans as a means for people to finance basic households needs. The lending apps Flex and Zip allow customers to take out loans to pay for their broadband, electricity, health insurance, mobile phone service, mortgage and water bills. Affirm, one of the most popular pay-later apps, has started providing some tenants loans to extend their monthly rent payment for a few weeks. Many dentists, veterinarians and medical clinics now often offer instant pay-later financing, and Intuit this year started promoting \"File Now, Pay Later\" loans to TurboTax users who owe money in their tax return.\n \nPay-later loans are becoming the \"working capital for the modern middle class,\" said Karen Webster, the chief executive of Pymnts, a news and market research company for the payments industry. \"Consumers are using it more for essential, everyday things.\" Americans spent $160 billion last year through pay-later loans, according to research released recently by Federal Reserve economists -- nearly twice what consumers spent two years earlier, in 2023. That's still a fraction of the more than $3 trillion U.S. shoppers spend annually on consumer credit cards. But the industry continues to expand by double-digit rates each year.\n \nHow much of that growth reflects consumer preferences, versus desperation, is a question economists and industry analysts are trying to unravel. The rise in pay-later financing comes as many households are leaning more on debt to keep up with their daily expenses. Paying interest -- to afford basic needs -- adds to the overall cost of living, which has already been rising amid higher medical, housing and fuel costs. For many borrowers, the loans have become their only option: Half of those using them said they could not make ends meet otherwise, according to the latest edition of a survey that LendingTree, a loan marketplace, has compiled for years.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Aug 18, 2026 03:30",
-    "published_at": "2026-08-18T03:30:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "OpenAltFinder Connects Users With FOSS Alternatives to Nonfree Apps",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366877",
-    "description": "The website pairs proprietary programs with free and open-source replacements, then provides useful details to help users compare their options.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366877",
-    "date": "Aug 18, 2026 02:33",
-    "published_at": "2026-08-18T02:33:15Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "EFS \u0026 FreeVxFS File-Systems Get Booted While FailFS Merged For Linux 7.3",
-    "link": "https://www.phoronix.com/news/Linux-File-System-Changes-7.3",
-    "description": "Among the early pull requests merged today by Linus Torvalds for the Linux 7.3 kernel cycle were removal of some ancient file-systems while adding in a new pseudo file-system...",
-    "guid": "https://www.phoronix.com/news/Linux-File-System-Changes-7.3",
-    "date": "Aug 18, 2026 00:29",
-    "published_at": "2026-08-18T00:29:44Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Supreme Court Rejects Verizon Bid For $47 Million Refund of FCC Fine",
-    "link": "https://yro.slashdot.org/story/26/08/17/223241/supreme-court-rejects-verizon-bid-for-47-million-refund-of-fcc-fine?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "An anonymous reader quotes a report from Ars Technica: The Supreme Court today rejected Verizon's attempt to get a $47 million refund from the Federal Communications Commission. In a list of orders (PDF) issued by the court, Verizon's petition was denied without explanation. The denial apparently ends any possibility of Verizon asking a lower court to review the fine and order the FCC to issue a refund. However, AT\u0026T and T-Mobile are continuing to challenge similar fines on grounds that selling device-location data did not violate US telecom law.\n \nAT\u0026T, T-Mobile, and Verizon were fined a total of $196 million in 2024 for selling mobile users' real-time location data without their customers' consent. The carriers sold device-location information to data aggregators, who resold it to other firms. The carriers paid the fines and sought to have them overturned in courts, claiming their Seventh Amendment right to a jury trial was violated. Challenges by AT\u0026T and Verizon were combined into a single case, and the Supreme Court ruled against the carriers in June of this year.\n \nThe court ruled that the FCC penalty process does not violate the Seventh Amendment because the carriers could have obtained jury trials if they refused to pay the fines and waited for the government to try to collect. The ruling (PDF) against the carriers was 8-1, with Justice Clarence Thomas dissenting.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Aug 17, 2026 23:00",
-    "published_at": "2026-08-17T23:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Apple Wallet Driver's License Feature to Launch in Four More US States",
-    "link": "https://apple.slashdot.org/story/26/08/17/2157231/apple-wallet-drivers-license-feature-to-launch-in-four-more-us-states?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Apple Wallet's driver's license and state ID feature is set to expand to North Carolina, Oklahoma, Utah, and Virginia, bringing the total to 18 states plus Puerto Rico. The digital IDs can be used at participating TSA checkpoints and businesses without handing over or unlocking an iPhone, though users are still generally advised to carry a physical ID because acceptance remains limited. MacRumors reports: A few days ago, North Carolina's DMV announced that it plans to launch a mobile ID program later this year. As reported by WRAL, North Carolina residents will be able to set up a digital ID through a new NC Wallet app starting in December, with Apple Wallet, Google Wallet, and Samsung Wallet support to follow in \"early 2027.\" As mentioned, you do not need to unlock, show, or hand over your device to present an Apple Wallet ID in person, ensuring user privacy.\n \nApple Wallet IDs are generally not accepted by law enforcement, so carrying a physical ID is still legally required for traffic stops. In addition, the number of businesses that accept Apple Wallet IDs is still quite small. At least for now, Apple Wallet IDs are designed to be a convenient alternative where they are accepted. \"Your mobile ID is a valid form of identification in North Carolina,\" the DMV said, in a FAQ on its website. \"However, as retailers, restaurants and other businesses transition to mobile IDs, some may not be set up to accept them right away. For now, carrying your physical card gives you a backup when needed.\" According to code seen by MacRumors, Apple Wallet IDs are also coming to Oklahoma, Utah, and Virginia, but there is no timeframe for availability.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Aug 17, 2026 22:00",
-    "published_at": "2026-08-17T22:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Linux 7.3 To Land Initial Code Improving vRAM Management, More Improvements Coming",
-    "link": "https://www.phoronix.com/news/Linux-7.3-Improving-vRAM-Mgmt",
-    "description": "Earlier this year Natalie Vock of Valve's Linux graphics team laid out some patches for improving the Linux gaming experience for systems with limited vRAM. The kernel work for improving that video memory management is set to be introduced in the Linux 7.3 kernel. While that's a celebration on its own, Vock is pursuing more improvements still for bettering the Linux GPU driver video memory management behavior...",
-    "guid": "https://www.phoronix.com/news/Linux-7.3-Improving-vRAM-Mgmt",
-    "date": "Aug 17, 2026 21:15",
-    "published_at": "2026-08-17T21:15:57Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Judge Sets Framework For Nine PBS to Retrieve 70 Years of Archival TV Data",
-    "link": "https://hardware.slashdot.org/story/26/08/17/1919201/judge-sets-framework-for-nine-pbs-to-retrieve-70-years-of-archival-tv-data?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "District Court Judge Eric Elliff has ordered Iron Mountain to cooperate with Nine PBS in recovering roughly 50TB of archival material stored through now-defunct vendor OSS. \"He found that the station is the rightful owner of the materials and entitled to recover them from OSS' storage systems,\" reports Current.org. Nine PBS must identify a third party to help retrieve the files, pay outstanding storage fees, and ensure that data belonging to other OSS customers isn't disturbed or accidentally recovered. From the report: Under his order, Nine PBS is to identify a third-party vendor, such as a former OSS employee, who can assist in accessing and retrieving the data from the infrastructure that's housed in Iron Mountain's center within 30 days. Elliff acknowledged the complexities of Iron Mountain's position as a vendor to OSS, which, according to Nine PBS' complaint, is in delinquency. Iron Mountain is the \"custodian\" of Nine PBS' data, but it isn't the vendor that contracted with the station to store and preserve its data. That obligation remains with OSS. Under the order, Nine PBS will pay Iron Mountain current and past-due fees for data storage, starting from when OSS stopped paying Iron Mountain for use of its data storage facility.\n \nDuring the hearing, Gregory Rich, an attorney representing Nine PBS, said the station seeks access to a physical cage where the data is housed within Iron Mountain's facility. The station is in contact with a former OSS employee who is willing to help obtain the data. The attorney noted that the data could potentially be stored in physical form, such as tapes that could be easily retrieved. But if the materials are on a server, Nine PBS could lose the materials forever if Iron Mountain shuts it down. William Cravens, the attorney representing Iron Mountain, told the judge his client doesn't know the format of Nine PBS' materials that were stored by OSS. He expressed concern about whether Nine PBS' archival material is lumped together with data from other OSS clients. Iron Mountain wants to avoid potentially corrupting the other data, Cravens added.\n \nElliff ordered the immediate return of any physical devices that hold Nine PBS' data once access to OSS' storage system is granted. If data retrieval turns out to be more complicated -- if it is encrypted, for example -- he will schedule another hearing to determine how to proceed. Once Nine PBS retrieves its data, the station must work with a third party to ensure that no data from other OSS customers is among those materials.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Aug 17, 2026 21:00",
-    "published_at": "2026-08-17T21:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "FFmpeg Lands H.265 Vulkan Encode Performance Optimizations",
-    "link": "https://www.phoronix.com/news/FFmpeg-Faster-HEVC-Encode",
-    "description": "The FFmpeg multimedia library can now enjoy faster H.265/HEVC video encoding with the Vulkan-powered encode path. With the optimizations merged today, the H.265 encode performance should be roughly at parity to the H.264 encode speed...",
-    "guid": "https://www.phoronix.com/news/FFmpeg-Faster-HEVC-Encode",
-    "date": "Aug 17, 2026 20:14",
-    "published_at": "2026-08-17T20:14:03Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Offloading Rust To GPUs Proves Capable Of High Performance With Memory Safety",
-    "link": "https://www.phoronix.com/news/LLVM-Offload-Rust-Performance",
-    "description": "A new research paper published on LLVM offloading to GPU accelerators using the Rust programming language is talking up the prospects of making use of safe Rust code for GPU kernels while retaining Rust's memory safety and other advantages over C++ / CUDA / HIP...",
-    "guid": "https://www.phoronix.com/news/LLVM-Offload-Rust-Performance",
-    "date": "Aug 17, 2026 19:30",
-    "published_at": "2026-08-17T19:30:16Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "ARCTIC Fan Controller: The Best Fan Controller For Linux Desktops, Less Than $10 USD",
-    "link": "https://www.phoronix.com/review/arctic-fan-controller",
-    "description": "Back in March were patches posted by ARCTIC Cooling for an ARCTIC fan controller driver for Linux. Typically we aren't used to seeing desktop/enthusiast focused vendors providing such Linux drivers for peripherals directly but the sad fact is most often it's left up to the open-source community to reverse engineer and create such drivers for Linux. Making it all the more surprising besides it coming from ARCTIC Cooling directly was that at the time they didn't even have a fan controller product with USB interface. Well, now it's launched and in turn is a great USB fan controller for Linux systems and retails for just $9 USD.",
-    "guid": "https://www.phoronix.com/review/arctic-fan-controller",
-    "date": "Aug 17, 2026 16:50",
-    "published_at": "2026-08-17T16:50:00Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
   }
 ]
