@@ -1,5 +1,248 @@
 [
   {
+    "title": "Linux Driver Posted For The PreSonus Quantum 2626: A ~$700 Thunderbolt Audio Interface",
+    "link": "https://www.phoronix.com/news/PreSonus-Quantum-2626-Linux",
+    "description": "The PreSonus Quantum 2626 is a high-end, Thunderbolt 3 based audio interface. PreSonus just maintains Windows and macOS drivers for this high-end audio interface while now an open-source Linux driver has been posted after being independently developed via reverse engineering...",
+    "guid": "https://www.phoronix.com/news/PreSonus-Quantum-2626-Linux",
+    "date": "Aug 20, 2026 12:28",
+    "published_at": "2026-08-20T12:28:39Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "RPM 6.1 Released With Clang Build Fixes, New Release Model",
+    "link": "https://www.phoronix.com/news/RPM-6.1-Released",
+    "description": "RPM 6.1 is out today as the newest feature release for this package management system. With RPM 6.1 comes a number of features and improvements as well as a new release model...",
+    "guid": "https://www.phoronix.com/news/RPM-6.1-Released",
+    "date": "Aug 20, 2026 11:35",
+    "published_at": "2026-08-20T11:35:11Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "New Study Challenges Common Assumptions About Screen Time For Kids",
+    "link": "https://hardware.slashdot.org/story/26/08/19/2231240/new-study-challenges-common-assumptions-about-screen-time-for-kids?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "bryanandaimee shares a report from ScienceDaily: A Finnish study has found an unexpected association between screen use and cognitive performance. Children who accumulated more screen time as they grew up tended to show better cognitive processing during adolescence. One of the researchers cautions against viewing screen time as entirely harmful and says the goal should be to balance physical activity with screen use that encourages active thinking. [...] \"The findings suggest that screen time can support children's and adolescents' cognitive processing. Presumably, the essential point here is what kind of things they do in their screen time. Teachers and parents should encourage children to use devices and screens in such ways that promote active thinking, problem-solving, creativity and learning,\" states Doctoral Researcher Petri Jalanko from the University of Jyvaskyla.\n \nDigital activities that involve learning, creativity, problem-solving, or other forms of active mental engagement could potentially help explain the association observed in the study. \"We should not regard screen time solely as harmful but seek balance between physical activity and screen time that promotes active thinking,\" Jalanko summarizes. The relationship between physical activity and cognition was more complicated. Among girls, greater amounts of light intensity physical activity since childhood were associated with better working memory during adolescence. Among boys, greater participation in guided physical activity from childhood through adolescence was linked to better working memory.\n \nThe researchers also found an unexpected pattern involving unsupervised exercise. Lower levels of self-reported unsupervised physical activity were associated with better cognitive processing in adolescence. By contrast, physical activity and sedentary time measured using a device that tracked heart rate and movement were not associated with cognitive processing. One possible explanation is that these sensors can measure movement and physiological activity but cannot determine exactly what a person is doing during periods of activity or inactivity. The findings have been published in the journal Pediatric Exercise Science.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Aug 20, 2026 11:00",
+    "published_at": "2026-08-20T11:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "PINE64 is Halting its Linux Hardware Line, and The AI Bubble is to Blame",
+    "link": "https://feed.itsfoss.com/link/24361/17423811/pine64-kills-off-linux-hardware",
+    "description": "They are blaming DRAM and eMMC shortages, with nothing coming back before mid-2027.",
+    "guid": "6a86a62f352785000114b2c4",
+    "date": "Aug 20, 2026 10:42",
+    "published_at": "2026-08-20T10:42:38Z",
+    "image": "https://itsfoss.com/content/images/2026/08/pine64-linux-hardware-trashed-banner.png",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "Mesa 26.2.1 Released With Dozens Of Fixes",
+    "link": "https://www.phoronix.com/news/Mesa-26.2.1-Released",
+    "description": "For those preferring the tradition of waiting for the first point release of a new Mesa feature release before upgrading, Mesa 26.2.1 is available today with a healthy round of bug fixing...",
+    "guid": "https://www.phoronix.com/news/Mesa-26.2.1-Released",
+    "date": "Aug 20, 2026 10:35",
+    "published_at": "2026-08-20T10:35:42Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": " Pine64 halts all Linux hardware manufacturing through at least mid-2027 due to shortages — memory crunch forces open-source maker to freeze SBCs, tablets, and phones ",
+    "link": "https://www.tomshardware.com/pc-components/dram/pine64-halts-all-linux-device-production-until-at-least-mid-2027-as-memory-shortage-bites",
+    "description": " Microcontroller-based products, such as the PineTime smartwatch, PineVoice smart speaker, and Pinecil soldering iron, aren't affected. ",
+    "guid": "iii4UEEf4oRFBimUZeKFCX",
+    "date": "Aug 20, 2026 10:30",
+    "published_at": "2026-08-20T10:30:00Z",
+    "image": "https://cdn.mos.cms.futurecdn.net/vrcuV9XtYLVH8Vr6HXifeF-1280-80.jpg",
+    "source": "tomshardware.com",
+    "source_url": "https://www.tomshardware.com/software/operating-systems/linux"
+  },
+  {
+    "title": "Linux 7.3 Cleans Up The Code For Disabling Of Legacy 32-bit Time Support",
+    "link": "https://www.phoronix.com/news/Linux-7.3-vDSO-32-bit-Time",
+    "description": "The Linux kernel has supported the CONFIG_COMPAT_32BIT_TIME Kconfig build time option for optionally disabling of legacy 32-bit time system call support. This is intended to disable the code that uses a 32-bit integer for time that is thus not Year 2038 safe, but at the cost of breaking compatibility for legacy 32-bit applications. Even if building without Linux 32-bit time support, it turns out some 32-bit time code persisted but that is now being fixed with Linux 7.3...",
+    "guid": "https://www.phoronix.com/news/Linux-7.3-vDSO-32-bit-Time",
+    "date": "Aug 20, 2026 10:21",
+    "published_at": "2026-08-20T10:21:48Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Monke bullet heaven survivor-like chaos will come in 2027 with Gorilla Tag Contagion",
+    "link": "https://www.gamingonlinux.com/2026/08/monke-bullet-heaven-survivor-like-chaos-will-come-in-2027-with-gorilla-tag-contagion/",
+    "description": "The very popular VR game Gorilla Tag is getting a spin-off for PC and consoles named Gorilla Tag Contagion, a co-op survival roguelite.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/monke-bullet-heaven-survivor-like-chaos-will-come-in-2027-with-gorilla-tag-contagion/",
+    "date": "Aug 20, 2026 10:13",
+    "published_at": "2026-08-20T10:13:06Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/719349362id29593gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "KDE Gear 26.08 Delivers The Latest KDE App Experience",
+    "link": "https://www.phoronix.com/news/KDE-Gear-26.08",
+    "description": "KDE Gear 26.08 was released today to deliver the latest collection of KDE application updates...",
+    "guid": "https://www.phoronix.com/news/KDE-Gear-26.08",
+    "date": "Aug 20, 2026 09:58",
+    "published_at": "2026-08-20T09:58:23Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "The impressive Sandustry already hit 100K sales with an early multiplayer mod out now",
+    "link": "https://www.gamingonlinux.com/2026/08/the-impressive-sandustry-already-hit-100k-sales-with-an-early-multiplayer-mod-out-now/",
+    "description": "Released only a week ago, publisher Hooded Horse sent word that Sandustry has managed to hit over 100K sales already which is mighty impressive.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/the-impressive-sandustry-already-hit-100k-sales-with-an-early-multiplayer-mod-out-now/",
+    "date": "Aug 20, 2026 09:42",
+    "published_at": "2026-08-20T09:42:21Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1264947336id29592gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Live-action sci-fi horror game PRECOGNITION sounds rad from Sam Barlow",
+    "link": "https://www.gamingonlinux.com/2026/08/live-action-sci-fi-horror-game-precognition-sounds-rad-from-sam-barlow/",
+    "description": "PRECOGNITION is the latest from Immortality and Her Story creator, Sam Barlow. a cinematic sci-fi horror game featuring live-action sequences.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/live-action-sci-fi-horror-game-precognition-sounds-rad-from-sam-barlow/",
+    "date": "Aug 20, 2026 09:31",
+    "published_at": "2026-08-20T09:31:36Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/507503496id29591gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "The Loopler is a roguelite deckbuilder about a slot car driving in mesmerizing loops",
+    "link": "https://www.gamingonlinux.com/2026/08/the-loopler-is-a-roguelite-deckbuilder-about-a-slot-car-driving-in-mesmerizing-loops/",
+    "description": "You love a good numbers-go-up dopamine hit right? How about with a slot car driving in loops while you power it up with game-changing cards.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/the-loopler-is-a-roguelite-deckbuilder-about-a-slot-car-driving-in-mesmerizing-loops/",
+    "date": "Aug 20, 2026 09:15",
+    "published_at": "2026-08-20T09:15:46Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/385678913id29590gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Space bullet heaven roguelike Sublight arrives September 15",
+    "link": "https://www.gamingonlinux.com/2026/08/space-bullet-heaven-roguelike-sublight-arrives-september-15/",
+    "description": "With a demo I really liked and played a lot of, the space bullet heaven roguelike Sublight is set to warp into Early Access on September 15th.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/space-bullet-heaven-roguelike-sublight-arrives-september-15/",
+    "date": "Aug 20, 2026 08:58",
+    "published_at": "2026-08-20T08:58:37Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1679492676id29589gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Warp Launches Factories to Let Engineering Teams Build Their Own Cloud Software Factories",
+    "link": "https://feed.itsfoss.com/link/24361/17423719/warp-factories-launched",
+    "description": "The platform is open at every layer, letting teams bring their own models, harnesses, and compute while Warp handles the orchestration.",
+    "guid": "6a8682cd6f49bc0001836ef2",
+    "date": "Aug 20, 2026 08:53",
+    "published_at": "2026-08-20T08:53:58Z",
+    "image": "https://itsfoss.com/content/images/2026/08/warp-factories-banner.png",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "Dominocalypse brings some clever ideas to puzzle roguelikes with dominoes",
+    "link": "https://www.gamingonlinux.com/2026/08/dominocalypse-brings-some-clever-ideas-to-puzzle-roguelikes-with-dominoes/",
+    "description": "Dominocalypse clearly takes some inspiration from Balatro and many other score-chasing roguelikes, but the dominoes spin is pretty darn clever.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/dominocalypse-brings-some-clever-ideas-to-puzzle-roguelikes-with-dominoes/",
+    "date": "Aug 20, 2026 08:44",
+    "published_at": "2026-08-20T08:44:05Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/401967153id29588gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Dumb Ways to Build brings some funny co-op from Dumb Ways to Die on September 10",
+    "link": "https://www.gamingonlinux.com/2026/08/dumb-ways-to-build-brings-some-funny-co-op-from-dumb-ways-to-die-on-september-10/",
+    "description": "From the Dumb Ways to Die team, they revealed Dumb Ways to Build - a chaotic physics-based co-op game filled with deadly construction jobs.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/dumb-ways-to-build-brings-some-funny-co-op-from-dumb-ways-to-die-on-september-10/",
+    "date": "Aug 20, 2026 08:01",
+    "published_at": "2026-08-20T08:01:07Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/119265762id29587gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Modular’s Got Its ‘Mojo’ Working Fully Open Source",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366930",
+    "description": "Modular has opened Mojo’s compiler and tooling under Apache 2.0, but says outside compiler contributions will have to wait until later this year.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366930",
+    "date": "Aug 20, 2026 07:31",
+    "published_at": "2026-08-20T07:31:00Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Rescue Mission Is Called Off For NASA's Aging Swift Space Telescope",
+    "link": "https://science.slashdot.org/story/26/08/19/2213259/rescue-mission-is-called-off-for-nasas-aging-swift-space-telescope?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "NASA has called off a $30 million mission to rescue its aging Swift space telescope after Katalyst Space's Link spacecraft developed persistent control and positioning problems. The Associated Press reports: Katalyst said Link will not attempt to capture Swift and boost it to a higher orbit because of problems with controlling the spacecraft. NASA said this means the telescope will plunge through the atmosphere after more than 20 years of tracking some of the biggest explosions in the universe like gamma ray bursts and exploding stars. Its demise is not expected before October.\n \nNASA paid $30 million to Katalyst in an attempt to raise the telescope to a safer, longer-lasting orbit. Intense solar activity caused it to lose altitude faster than expected. The rescue spacecraft went into an uncontrollable spin a few weeks after its liftoff in early July. While flight controllers managed to slow Link's tumble, issues continued to plague its pointing and positioning in orbit.\n \n\"This is not the outcome we were working toward, but it does not change why this mission was worth attempting,\" NASA Administrator Jared Isaacman said in a statement. As a consolation prize, Katalyst will continue to operate Link in proximity with the telescope to demonstrate capabilities for future rescue operations. Katalyst CEO Ghonhee Lee said it was an ambitious mission on an aggressive timeline that was thrown together in under a year. \"We took on this high-risk, high-reward challenge and are proud of the milestones we reached along the way,\" Lee said in a statement. \"We have already learned a tremendous amount.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Aug 20, 2026 07:00",
+    "published_at": "2026-08-20T07:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Go 1.27 Released with Generic Methods, JSON v2, and Faster Memory Allocation",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366932",
+    "description": "Go 1.27 introduces generic methods, a new JSON v2 implementation, faster small memory allocations, goroutine leak profiling, and new crypto features.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366932",
+    "date": "Aug 20, 2026 04:28",
+    "published_at": "2026-08-20T04:28:01Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Whistleblower Arturo Bejar Leads Testimony In Landmark Trial Against Meta",
+    "link": "https://tech.slashdot.org/story/26/08/19/2329222/whistleblower-arturo-bejar-leads-testimony-in-landmark-trial-against-meta?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from NPR: Meta was infused with a culture in which employees obsessed over user numbers and consistently pushed safety to the side, according to Arturo Bejar, a former employee turned whistleblower, who testified today in the landmark child safety trial against the social media company. Only one man had the ability to change that, Bejar said: CEO Mark Zuckerberg. But he didn't. \"At the end of the day, it was the company culture that Mark had created that made it so that it was practically impossible to deliver features that addressed the wellbeing and safety issues that we've been talking about,\" he said.\n \nBejar is a linchpin witness for a consortium of states led by California, Colorado, Kentucky and New Jersey that sued Meta, alleging violations of consumer and child data protection laws, and that the company lied to the public about risks its platforms posed. The attorneys for the states say Meta designed Facebook and Instagram to hook young users and to keep them on site longer thanks to features such as infinite scrolling and the \"like\" button. Meta has denied the allegations. In his opening statement on Tuesday, attorney Paul Schmidt argued that the company was sensitive to the risks to teens, sought to address them and did not deceive the public about them. The state attorneys have not yet said if they will call Zuckerberg as a witness.\n \nTestifying in federal court in Oakland, California, for a second day on Wednesday, Bejar, who worked on safety issues at Meta for eight years, said he interacted with Zuckerberg dozens of times, and charged that Zuckerberg was not telling the truth when he made public denials that the company put profits over safety. In particular, Bejar addressed a widely-shared Facebook post Zuckerberg made in 2021 after another whistleblower, Frances Haugen, shared internal documents with The Wall Street Journal that highlighted risks to the mental health of teens. In the post, Zuckerberg said it's \"just not true\" that Meta prioritizes profit over safety and wellbeing. \"Based on my experience at Meta, that is not an accurate statement,\" Bejar said. [...] Bejar testified, at almost every turn the company chose policies that boosted usership and revenue over safety. Safety was \"not a meaningful priority,\" he said.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Aug 20, 2026 03:30",
+    "published_at": "2026-08-20T03:30:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "X.Org Server 26.1 RC1 Prepares For First Feature Release In Five Years",
+    "link": "https://www.phoronix.com/news/X.Org-Server-26.1-RC1",
+    "description": "Following today's release of XWayland 26.1 RC1, X.Org Server 26.1 RC1 was tagged. This xorg-server 26.1 release is aiming to become the first major feature release in five years, succeeding  the xorg-server 21.1 series...",
+    "guid": "https://www.phoronix.com/news/X.Org-Server-26.1-RC1",
+    "date": "Aug 20, 2026 02:18",
+    "published_at": "2026-08-20T02:18:15Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Garuda Linux Temeraire Released with New CachyOS-Based Kernel, Plasma Login Manager",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366933",
+    "description": "Garuda Linux Temeraire arrives with a new CachyOS-based kernel, Plasma Login Manager, revamped Hyprland setup, and major tooling changes.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366933",
+    "date": "Aug 20, 2026 01:25",
+    "published_at": "2026-08-20T01:25:02Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "EXT4 Preps More Performance Improvements For Linux 7.3",
+    "link": "https://www.phoronix.com/news/EXT4-Linux-7.3",
+    "description": "In addition to the IOmap improvements helping EXT4 performance in Linux 7.3, the main EXT4 feature pull request has now been submitted for this next kernel version. That pull is set to land yet more performance optimizations for EXT4...",
+    "guid": "https://www.phoronix.com/news/EXT4-Linux-7.3",
+    "date": "Aug 20, 2026 00:55",
+    "published_at": "2026-08-20T00:55:19Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
     "title": "[$] LWN.net Weekly Edition for August 20, 2026",
     "link": "https://lwn.net/Articles/1088565/",
     "description": "Inside this week's LWN.net Weekly Edition:\n        \n        \n Front: Debian AI GR; Python pathlib; bootstrappable builds; Fedora and AF_ALG; Arm 128-bit PTEs; BPF CI; 7.2 statistics.\n             Briefs: Brief news items from throughout the community.\n             Announcements: Newsletters, conferences, security updates, patches, and more.\n            ",
@@ -315,6 +558,16 @@
     "source_url": "https://www.gamingonlinux.com/"
   },
   {
+    "title": "COSMIC Epoch 1.6 Released With Per-App Volume Control, Remote Desktop Preparations",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366908",
+    "description": "COSMIC Epoch 1.6 was released this evening as the latest milestone for this open-source, Rust-based desktop environment led by System76 as part of the work on their Pop!_OS Linux distribution...",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366908",
+    "date": "Aug 19, 2026 12:36",
+    "published_at": "2026-08-19T12:36:38Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
     "title": "Linux 7.3 Deprecates Many Older 32-bit ARM Platforms, Orphans Hundreds Of Drivers",
     "link": "https://www.phoronix.com/news/Linux-7.3-SoC",
     "description": "All of the SoC updates have been merged for the Linux 7.3 kernel that include adding some new SoCs as well as deprecating several older 32-bit ARM platforms. In turn with those platforms deprecated, \"hundreds\" of drivers are now orphaned in the process...",
@@ -472,6 +725,16 @@
     "source_url": "https://slashdot.org/"
   },
   {
+    "title": "Linux 7.3 Adds New \"bpf_sock_read_xattr\" Feature For systemd, BPF Programs",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366905",
+    "description": "Merged earlier this year for Linux 7.1 was extended attributes on sockets support as a feature sought after by the likes of GNOME and systemd for helping with Varlink IPC usage and other purposes. A limitation though of the functionality has been no efficient means for a BPF program to read those user extended attribute labels back. But with Linux 7.3 that's being addressed with the new bpf_sock_read_xattr() kernel function...",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366905",
+    "date": "Aug 19, 2026 06:30",
+    "published_at": "2026-08-19T06:30:39Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
     "title": "nRF93M1 DK with LTE Cat 1 bis, nRF54L15, and nRF Cloud support",
     "link": "https://lxer.com/module/newswire/ext_link.php?rid=366910",
     "description": "Nordic Semiconductor’s nRF93M1 Development Kit is now available through multiple distributors, providing a platform for evaluating the company’s nRF93M1 LTE Cat 1 bis cellular module. The board combines the modem with an nRF54L15 host MCU and includes USB-C, onboard J-Link debugging, power-measurement support, and a preloaded SIM card. The nRF93M1 DK pairs the nRF93M1-LABA modem […]",
@@ -480,129 +743,5 @@
     "published_at": "2026-08-19T04:59:10Z",
     "source": "lxer.com",
     "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Top Album Releases Linked To Rise In Fatal Crashes",
-    "link": "https://entertainment.slashdot.org/story/26/08/18/2225215/top-album-releases-linked-to-rise-in-fatal-crashes?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "An anonymous reader quotes a report from The Guardian: The release of a new album by Taylor Swift might be a cause for celebration among her fans, but such events have also been linked to a more sombre phenomenon: an increase in fatal car crashes. The team behind a new study say it sheds light on the impact of distracted driving. Writing in the journal Jama Network Open, [Vishal Patel, first author of the study based at Harvard Medical School] and colleagues report how they focused on the release of 10 major albums, launched between 2017 and 2022, selected for having the highest number of Spotify streams over a single day. [...] The team found streaming volume for the top 200 songs in the US was 43% higher on the date of major album releases compared with the days surrounding the releases -- although such data does not reveal whether the music was being streamed in a car.\n \n[...] The researchers used data from a population-based registry of fatal US motor vehicle crashes to look at the number of traffic fatalities on the dates these albums were released, as well as for the 10 days either side. After taking into account the day of the week upon which the album was released, as well as federal holidays, and time of year, the researchers found the number of US traffic fatalities showed a relative increase of 15.1% on the date of major album releases, compared with similar days either side. \"This is equivalent to approximately 182 fatalities in the US attributable to the release days of the 10 included albums,\" the team writes.\n \nPatel said the release of a new album could distract drivers because accessing music is a search task, not a single button press. \"You unlock the phone, open the app, find the release, read down a tracklist, tap the right song. That's several seconds of looking at a screen,\" he said, adding unfamiliar music also demands more attention, while research has suggested listening to new, high-energy music measurably degrades driving performance. The researchers add the rise in traffic fatalities was greater among certain groups -- such as younger drivers, male drivers, people who were driving alone, and people driving cars with a built-in infotainment platform. The authors say the results suggest that \"online music streaming through smartphones may significantly contribute to distracted driving and traffic fatalities.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Aug 19, 2026 03:30",
-    "published_at": "2026-08-19T03:30:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Mozilla Firefox 155 Enters Public Beta Testing, Here’s What to Expect",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366906",
-    "description": "With the release of Firefox 154 rolling out to all supported platforms, Mozilla promoted the next major release, Firefox 155, to the beta channel for public testing, so it’s time to take a look at the new features and improvements.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366906",
-    "date": "Aug 19, 2026 01:56",
-    "published_at": "2026-08-19T01:56:11Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Modular's Mojo Language Now Open-Source Following Qualcomm Acquisition",
-    "link": "https://www.phoronix.com/news/Modular-Mojo-Open-Source",
-    "description": "Modular, the AI startup founded by Chris Lattner of LLVM and Swift fame, has open-sourced their Mojo systems programming language! This comes following the recent acquisition of Modular by Qualcomm...",
-    "guid": "https://www.phoronix.com/news/Modular-Mojo-Open-Source",
-    "date": "Aug 19, 2026 00:33",
-    "published_at": "2026-08-19T00:33:22Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "COSMIC Epoch 1.6 Released With Per-App Volume Control, Remote Desktop Preparations",
-    "link": "https://www.phoronix.com/news/COSMIC-Epoch-1.6",
-    "description": "COSMIC Epoch 1.6 was released this evening as the latest milestone for this open-source, Rust-based desktop environment led by System76 as part of the work on their Pop!_OS Linux distribution...",
-    "guid": "https://www.phoronix.com/news/COSMIC-Epoch-1.6",
-    "date": "Aug 19, 2026 00:20",
-    "published_at": "2026-08-19T00:20:01Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Cursor Launches 'Origin' Code Hosting Platform As GitHub Alternative",
-    "link": "https://developers.slashdot.org/story/26/08/18/2211249/cursor-launches-origin-code-hosting-platform-as-github-alternative?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Cursor has launched Origin, a GitHub-style code hosting platform built directly into its AI coding environment. The company is initially positioning Origin as a low-risk layer on top of GitHub, keeping GitHub as the \"source of truth,\" but the launch landed just as a major GitHub outage highlighted growing concerns about reliability in the age of AI-generated code. VentureBeat reports: Cursor began rolling out Origin, its own code hosting platform, to paid users on Monday morning. Roughly three and a half hours later, GitHub's status page lit up with what became a six-hour-and-forty-two-minute global degradation -- error rates near 20% across pull requests, issues and the API, and near 50% on archive and raw file downloads, according to GitHub's incident log. Enterprise single sign-on went down with it: SAML, OIDC, SCIM provisioning and Team Sync all failed. So did Copilot.\n \nThe developer internet did what the developer internet does. \"You can now host your repos in Cursor Origin and deploy to Vercel via Cursor Origin which is itself hosted on Vercel,\" Vercel chief executive Guillermo Rauch posted on X. \"And unlike GitHub, it's online [smile emoji]\" Asked why he was smiling, Rauch replied: \"trying to make light of the situation. We ourselves are stuck because of github rn!\" Matt Palmer, who works at Cursor, quote-tweeted his own company's launch with the day's best line: \"We were going to ship this earlier, but GitHub was down.\" A GitHub outage, in other words, delayed the launch of a GitHub competitor.\n \nProduct launches get locked weeks in advance, and no evidence suggests Cursor timed this one. But the coincidence did the company an enormous favor, because it dramatized the argument Origin exists to make. For eighteen years, choosing where to host your team's source code has been the least interesting decision an engineering organization makes. Cursor is betting that AI agents have made it interesting again -- and for technical decision makers, that is the real news here. Not a new product, but a new procurement question with a governance problem attached.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Aug 18, 2026 23:00",
-    "published_at": "2026-08-18T23:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Fedora Rawhide Server OverlayFS BTRFS setup",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366898",
-    "description": "Configuring Fedora Rawhide Server using a combination of Btrfs and OverlayFS creates a secure testing environment. This configuration isolates critical for tracking rapidly evolving Rawhide packages from developers allowing the server to load read-only Btrfs base snapshots while using the OverlayFS layer as a storage layer for writing and temporary data. If an update disrupts the OS, the base snapshot remains intact, allowing for rollback after a single reboot. Same configuration may also work and vice versa way. Btrfs-assistant running inside Overlay instance booted via corresponding option of Grub Submenu allows to recover from crash main instance via selection required \"ro\" snapshot using it's own GUI.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366898",
-    "date": "Aug 18, 2026 22:53",
-    "published_at": "2026-08-18T22:53:12Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Comcast Is Turning Millions of Its Routers Into Motion Detectors",
-    "link": "https://mobile.slashdot.org/story/26/08/18/2050203/comcast-is-turning-millions-of-its-routers-into-motion-detectors?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Comcast is activating Wi-Fi motion sensing on millions of compatible Xfinity gateways, allowing the routers to detect movement by measuring disruptions in signals between the gateway and connected devices. The free feature, part of Xfinity Shield, can send activity alerts through the Xfinity app and offers Home, Away, and nighttime monitoring modes without requiring separate motion sensors. The Verge reports: Wi-Fi motion sensing is a technology that has been around for a while, but it's only recently that it's become accurate and reliable enough to catch on. Linksys launched a similar service in 2021, but discontinued it a few years later. Lighting company Wiz launched a line of Wi-Fi-sensing smart bulbs in 2023, and more recently Philips Hue deployed a similar radio-frequency sensing technology in its products (using Zigbee rather than Wi-Fi). Comcast's motion sensing pairs with new modes in the Xfinity app -- Home Watch, Away Watch, and Dark Watch (a night/sleep mode) -- allowing you to turn sensing on or off based on your activities.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Aug 18, 2026 22:00",
-    "published_at": "2026-08-18T22:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "VirtualBox 7.2.16 Improves Shared Clipboard in Wayland, Adds FRED Support",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366904",
-    "description": "Oracle released VirtualBox 7.2.16 today as the eighth maintenance update to the latest VirtualBox 7.2 series of their open-source, free, and cross-platform virtualization software for Linux, Solaris, macOS, and Windows.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366904",
-    "date": "Aug 18, 2026 21:21",
-    "published_at": "2026-08-18T21:21:43Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Firefox 154.0 released",
-    "link": "https://lwn.net/Articles/1089386/",
-    "description": "Version\n154.0 of the Firefox browser has been released.  Changes include\nextending local network access protections to WebSocket connections, more\nflexible, per-site configuration of cookie and data clearing, and more.",
-    "guid": "https://lwn.net/Articles/1089386/",
-    "date": "Aug 18, 2026 21:15",
-    "published_at": "2026-08-18T21:15:41Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "Disney, ABC Sue FCC Over Threats to Broadcast Licenses",
-    "link": "https://yro.slashdot.org/story/26/08/18/2039239/disney-abc-sue-fcc-over-threats-to-broadcast-licenses?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Disney and ABC are suing the FCC to block an early review of eight station licenses, arguing the Trump administration is using the agency's regulatory power to punish the network over programming and editorial decisions it dislikes. Reuters reports: In a lawsuit (PDF) filed in U.S. District Court in Washington, Disney said the FCC was seeking to coerce and retaliate against \"a network that refuses to bow to the administration's demands,\" calling the agency's actions an \"extraordinary assault on free speech.\"\n \nTrump has waged an aggressive series of attacks on the news media and the latest move follows a two-year-long battle between Trump and Disney. Last month, Trump again called for ABC stations to lose their licenses because the network refused to air a prime-time speech on elections. The court case will pose a key test of the free speech rights of media outlets. Disney and ABC asked the court (PDF) to quickly issue a temporary restraining order halting the license renewal proceedings and preventing the FCC from scheduling a hearing. The company said the public comment period ended earlier this month and the FCC could act at any time.\n \nThe lawsuit alleges that the administration is violating the company's First Amendment free speech rights, saying that the FCC \"is using its regulatory power to retaliate against (Disney and ABC) for programming and editorial decisions the administration dislikes.\" The FCC said the move stemmed from a year-long investigation into whether Disney's diversity policies amounted to unlawful discrimination, an allegation the company denies. U.S. District Judge Loren AliKhan issued an order on Tuesday directing the company and the FCC to propose a schedule for considering the request for a temporary restraining order and told the agency to notify her if it moves to start the process of revoking the ABC licenses.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Aug 18, 2026 21:00",
-    "published_at": "2026-08-18T21:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Linux 7.3 Adds New \"bpf_sock_read_xattr\" Feature For systemd, BPF Programs",
-    "link": "https://www.phoronix.com/news/Linux-7.3-bpf_sock_read_xattr",
-    "description": "Merged earlier this year for Linux 7.1 was extended attributes on sockets support as a feature sought after by the likes of GNOME and systemd for helping with Varlink IPC usage and other purposes. A limitation though of the functionality has been no efficient means for a BPF program to read those user extended attribute labels back. But with Linux 7.3 that's being addressed with the new bpf_sock_read_xattr() kernel function...",
-    "guid": "https://www.phoronix.com/news/Linux-7.3-bpf_sock_read_xattr",
-    "date": "Aug 18, 2026 19:38",
-    "published_at": "2026-08-18T19:38:32Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "IOmap Improvement For Linux 7.3 Takes EXT4 \u0026 XFS Performance Further",
-    "link": "https://www.phoronix.com/news/IOmap-Linux-7.3-Faster",
-    "description": "As part of the VFS pull requests now merged to the Linux 7.3 development kernel was an improvement to the IOmap framework used by various file-systems for mapping logical file byte offsets in memory to their physical locations on storage. With the now-merged code, this modern block mapping framework is allowing better performance at least for the EXT4 file-system...",
-    "guid": "https://www.phoronix.com/news/IOmap-Linux-7.3-Faster",
-    "date": "Aug 18, 2026 17:25",
-    "published_at": "2026-08-18T17:25:00Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
   }
 ]
