@@ -1,5 +1,174 @@
 [
   {
+    "title": "Meloville Is a New Open-Source Music Player for Linux",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366958",
+    "description": "Meloville is a new Qt-based open-source music player for Linux with synced lyrics, Bluetooth controls, playlists, and metadata editing.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366958",
+    "date": "Aug 21, 2026 12:05",
+    "published_at": "2026-08-21T12:05:23Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Intel Compute Runtime 26.31.39395.13 Continues Prepping For Crescent Island, OpenCL LEO",
+    "link": "https://www.phoronix.com/news/Intel-CR-26.31.39395.13",
+    "description": "Intel today released the Compute Runtime 26.31.39395.13 open-source GPU compute stack update for Windows and Linux systems. Big ongoing trends for the Intel Compute Runtime continue to be preparing for upcoming Crescent Island and Nova Lake Xe3P graphics hardware as well as building out their new OpenCL LEO driver...",
+    "guid": "https://www.phoronix.com/news/Intel-CR-26.31.39395.13",
+    "date": "Aug 21, 2026 12:03",
+    "published_at": "2026-08-21T12:03:07Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Voxel game creation platform Luanti (formerly Minetest) gets basic gamepad support, security fixes",
+    "link": "https://www.gamingonlinux.com/2026/08/voxel-game-creation-platform-luanti-formerly-minetest-gets-basic-gamepad-support-security-fixes/",
+    "description": "Luanti (formerly Minetest) is a popular free and open source voxel game creation platform, with the latest release 5.17.0 out now and it's an important one.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/voxel-game-creation-platform-luanti-formerly-minetest-gets-basic-gamepad-support-security-fixes/",
+    "date": "Aug 21, 2026 11:43",
+    "published_at": "2026-08-21T11:43:31Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/843725172id29602gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "First-person gothic adventure 'Night Cart: The Immortal Plague' is a must for your wishlist",
+    "link": "https://www.gamingonlinux.com/2026/08/first-person-gothic-adventure-night-cart-the-immortal-plague-is-a-must-for-your-wishlist/",
+    "description": "Drive a horse-drawn cart through plague-ridden Transylvania in the first-person gothic adventure Night Cart: The Immortal Plague that sounds rather interesting.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/first-person-gothic-adventure-night-cart-the-immortal-plague-is-a-must-for-your-wishlist/",
+    "date": "Aug 21, 2026 11:25",
+    "published_at": "2026-08-21T11:25:23Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1790348709id29601gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Forsworn looks great for fans of repeatable tactical RPGs - arriving September 10",
+    "link": "https://www.gamingonlinux.com/2026/08/forsworn-looks-great-for-fans-of-repeatable-tactical-rpgs-arriving-september-10/",
+    "description": "Built around party-building, tough tactical battles, and run-based progression - Forsworn is definitely one you need to keep an eye on.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/forsworn-looks-great-for-fans-of-repeatable-tactical-rpgs-arriving-september-10/",
+    "date": "Aug 21, 2026 11:02",
+    "published_at": "2026-08-21T11:02:18Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1695244538id29600gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Microsoft Gives Task Manager Another Task: Watching AI Workloads",
+    "link": "https://tech.slashdot.org/story/26/08/21/0136250/microsoft-gives-task-manager-another-task-watching-ai-workloads?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Microsoft is expanding Windows Task Manager to show per-process NPU and GPU neural-engine usage, giving users more visibility into which apps are consuming hardware for AI workloads. The Register reports: The Processes tab can show NPU use alongside CPU and GPU activity, while the Performance tab displays overall utilization. [...] Microsoft was keen to point out the metrics that can be monitored. \"As AI workloads become more common on Windows devices, visibility into NPU and GPU neural engine utilization can help you make better-informed decisions,\" the company said. \"With the latest Task Manager improvements, you can monitor AI processing activity alongside CPU, memory, storage, and networking data from a familiar interface.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Aug 21, 2026 11:00",
+    "published_at": "2026-08-21T11:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Minecraft Dungeons II gets a brand new gameplay trailer",
+    "link": "https://www.gamingonlinux.com/2026/08/minecraft-dungeons-ii-gets-a-brand-new-gameplay-trailer/",
+    "description": "Are you excited for some more dungeon crawling action in Minecraft Dungeons II? There's a new gameplay trailer out now ahead of the September release.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/minecraft-dungeons-ii-gets-a-brand-new-gameplay-trailer/",
+    "date": "Aug 21, 2026 10:50",
+    "published_at": "2026-08-21T10:50:13Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1827813971id29599gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "ESP32-S3 handhelds with 3.97-inch e-paper and optional LoRa/NFC",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366962",
+    "description": "M5Stack’s new PaperMono and PaperMono-Lite are compact ESP32-S3-based e-paper development platforms built around a 3.97-inch grayscale touchscreen. Both models include Wi-Fi, microSD storage, an IMU, real-time clock, frontlight, microphone, buzzer, and an integrated 1150mAh battery, while the higher-end PaperMono adds LoRa and NFC connectivity. Both devices are based on the ESP32-S3R8, which integrates a dual-core […]",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366962",
+    "date": "Aug 21, 2026 10:33",
+    "published_at": "2026-08-21T10:33:53Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Linux 7.3 Ready With CXL Type-2 Driver Support For AMD Solarflare NICs",
+    "link": "https://www.phoronix.com/news/AMD-Solarflare-NIC-CXL-Type-2",
+    "description": "With the mainline Linux 7.2 kernel there is now the basic support in place for CXL Type-2 accelerator drivers within the CXL core subsystem code. The first in-tree Type-2 driver with the Linux kernel is for the new AMD Solarflare NIC hardware...",
+    "guid": "https://www.phoronix.com/news/AMD-Solarflare-NIC-CXL-Type-2",
+    "date": "Aug 21, 2026 10:33",
+    "published_at": "2026-08-21T10:33:07Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Linus Torvalds Endures A Debug Session From Hell, \"Enormously Helped\" By AI",
+    "link": "https://www.phoronix.com/news/Linus-Torvalds-Debug-AI",
+    "description": "It's pretty rare to see Linus Torvalds author patches himself pertaining to the open-source Linux graphics drivers, but waking up this morning I was surprised to see he authored and committed an Intel Xe kernel graphics driver change himself. It ended up being after he encountered a \"debug session from hell\" but was ultimately helped by AI in fixing a bug that had been irking him...",
+    "guid": "https://www.phoronix.com/news/Linus-Torvalds-Debug-AI",
+    "date": "Aug 21, 2026 10:19",
+    "published_at": "2026-08-21T10:19:44Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Bazzite Linux 44 for handhelds finally launches with some massive upgrades",
+    "link": "https://www.gamingonlinux.com/2026/08/bazzite-linux-44-for-handhelds-finally-launches-with-some-massive-upgrades/",
+    "description": "Bazzite Linux 44 has been out for desktops for a while, but the \"Deck\" image for handhelds and console-like TV PCs is finally here with a huge overhaul.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/bazzite-linux-44-for-handhelds-finally-launches-with-some-massive-upgrades/",
+    "date": "Aug 21, 2026 10:17",
+    "published_at": "2026-08-21T10:17:47Z",
+    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/bazzite.jpg",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Canonical is Funding a PhD to Automate C to Rust Translation for Ubuntu",
+    "link": "https://feed.itsfoss.com/link/24361/17424976/canonical-c-to-rust-automation",
+    "description": "The three-year project aims to translate hundreds of thousands of lines of C into Rust.",
+    "guid": "6a87dfd53527850001156389",
+    "date": "Aug 21, 2026 08:28",
+    "published_at": "2026-08-21T08:28:11Z",
+    "image": "https://itsfoss.com/content/images/2026/08/canonical-c-to-rust-translation-banner.png",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "China Is About to Launch Its Most Ambitious Moon Mission Yet",
+    "link": "https://science.slashdot.org/story/26/08/21/0121220/china-is-about-to-launch-its-most-ambitious-moon-mission-yet?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "China's Chang'e 7 mission is set to launch for the moon's south pole, where it will attempt the first-ever landing directly at the pole and search the region's dark craters for water ice. \"It's an amazing mission,\" says Norbert Schorghofer, a Hawaii-based senior scientist at the Planetary Science Institute. \"There has never been a landed mission to find water [on the moon].\" If successful, China \"will be the leader in lunar science,\" Schorghofer adds. Scientific American reports: Chang'e 7, China's seventh moon mission, is scheduled to launch on a Long March 5 rocket from the coastal Wenchang Space Launch Site on the island of Hainan, with the launch window opening on the morning of August 24 local time (the evening of August 23 EDT). The mission includes an orbiter, as well as a lander, which totes a rover and a novel \"hopping\" robot. The spacecraft will take up to six days to reach lunar orbit, where it will then spend two months preparing for a November landing meant to be a near bull's-eye on the lunar south pole. The mission also includes equipment from several international partners, highlighting China's growing global influence -- both on and off Earth.\n \nThe mission's lunar target is Shackleton Crater, a 21-kilometer-wide (13-mile-wide) pit with a rim that grazes the moon's south pole. No other spacecraft has ever landed so close. That proximity should allow Chang'e 7 to prospect for water ice trapped in smaller depressions near Shackleton that, because of the moon's tilt, never see sunlight and have temperatures just a few dozen degrees above absolute zero. \"There are big reservoirs of ice water at the poles,\" says Simone Dell'Agnello, a physicist at Italy's National Institute for Nuclear Physics.\n \nNo one knows, however, just how big those reservoirs are or what their actual distribution is across the lunar south pole's crater-pocked desolation. And because that ice might be used as for manufacturing rocket fuel or to make potable water for thirsty astronauts, answering those questions is key for the U.S.'s and China's competing plans to construct crewed lunar outposts.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Aug 21, 2026 07:00",
+    "published_at": "2026-08-21T07:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Mozilla Firefox 154 Is Now Available for Download, Here’s What’s New",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366954",
+    "description": "Mozilla has published the final builds of the Firefox 154 open-source web browser today, ahead of its official unveiling on August 18th, 2026, so it’s time to take a look at the new features and improvements.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366954",
+    "date": "Aug 21, 2026 05:59",
+    "published_at": "2026-08-21T05:59:25Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Are You Sure You Want a Car With a Giant Touch Screen?",
+    "link": "https://tech.slashdot.org/story/26/08/20/2030251/are-you-sure-you-want-a-car-with-a-giant-touch-screen?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "RAMageddon could soon push car prices higher as modern vehicles rely on ever more RAM and powerful centralized computers to run everything from infotainment to driver-assistance systems. Analysts cited by The Atlantic estimate the shortage could add a few percentage points to vehicle prices, which might not sound like much, but could potentially translate to around $2,000 on a $50,000 vehicle. The broader shift toward software-heavy vehicles could also make used cars even less affordable. An anonymous reader quotes an excerpt from the report: Just like laptops, cars depend on microprocessors and RAM, or random-access memory, to run all of their computations. \"There's just a baseline level of tech, and thus a baseline level of cost, required of every vehicle,\" Karl Brauer, the executive analyst at iSeeCars, an automotive-research platform, told me. Technology is a major reason the average price of a new car in the U.S. has reached some $50,000, and that was before RAM became one of the most prized commodities in the world. AI companies are snatching up as much memory as possible for their data centers, causing a RAM shortage that has significantly raised the prices of phones, laptops, and just about any consumer-electronic device. Cars are next.\n \n[...] Over the next year, the memory shortage -- sometimes known as RAMageddon -- will likely raise vehicle prices by a few percentage points, on average, [said Sam Abuelsamid, an analyst at Telemetry and a former automotive engineer]. The relative amount would be smaller than the shocking double-digit jumps for gaming consoles and MacBooks but in some ways more significant: A 4 percent price hike for cars amounts to some $2,000 on average. Cars with those centralized computers will be affected the most, but no vehicle will be spared. \"Even if you don't need the high-end chips, you're going to pay more even for the low-end chips just because of the supply constraint,\" Abuelsamid said. On a recent earnings call, Ford's chief financial officer said that the company had paid $1 billion in higher materials costs due to the memory shortage and inflation. GM and Volkswagen, too, have noted rising chip costs to investors. (Ford and GM did not respond to a request for comment. A spokesperson for Volkswagen told me that the company has \"recognized an increased demand for memory chips, primarily driven by growing requirements in other industries,\" and that in recent years, Volkswagen has taken measures to \"mitigate supply risks.\")\n \nRAMageddon is poised to last for several years, but the consequences for car buyers may be permanent. Consider what happened during the pandemic, when supply-chain disruptions and rising demand for electronics produced a major chip shortage. Nearly every major car company had to slash production because they simply couldn't procure enough chips, and shifted their focus to selling higher-end and higher-profit vehicles. Potential customers already willing to spend six figures on a car are much less likely to care about a 5 or 10 percent price hike, [said Ivan Drury, the director of insights at Edmunds]. Even now, car companies are continuing to focus on selling more profitable models. Since the pandemic, the average price of a new vehicle has jumped $11,000.\n \nThe AI-fueled chip crisis could play out more severely. The average price of a new car could, before long, jump to $60,000 and beyond. These rising costs are making cars even more similar to computers and all of the software they run: Perhaps in an effort to mitigate higher prices, some automakers are also introducing in-car advertisements and putting certain features, such as heated seats, behind a paywall. As cars have morphed into computers, the inevitable next step is for automakers to behave like modern tech companies.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Aug 21, 2026 03:30",
+    "published_at": "2026-08-21T03:30:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "9to5Linux Weekly Roundup: August 16th, 2026",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366953",
+    "description": "The 305th installment of the 9to5Linux Weekly Roundup is here for the week ending August 16th, 2026, keeping you updated on the most important developments in the Linux world.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366953",
+    "date": "Aug 21, 2026 02:56",
+    "published_at": "2026-08-21T02:56:26Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
     "title": "Intel Mesa Linux Drivers Now Treating Nova Lake S / U / H / HX As Stable",
     "link": "https://www.phoronix.com/news/Intel-Mesa-Nova-Lake-Stable",
     "description": "Intel's open-source Mesa drivers for Iris Gallium3D (OpenGL) and ANV (Vulkan) on Linux are no longer treating next-gen Nova Lake processors with integrated graphics as experimental and off-by-default. With today's Mesa 26.3-devel code, the Intel driver code across Nova Lake's S, U, H, and HX product families are considered stable and enabled by default...",
@@ -496,188 +665,13 @@
     "source_url": "https://slashdot.org/"
   },
   {
-    "title": "Go 1.27 Released with Generic Methods, JSON v2, and Faster Memory Allocation",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366932",
-    "description": "Go 1.27 introduces generic methods, a new JSON v2 implementation, faster small memory allocations, goroutine leak profiling, and new crypto features.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366932",
-    "date": "Aug 20, 2026 04:28",
-    "published_at": "2026-08-20T04:28:01Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Whistleblower Arturo Bejar Leads Testimony In Landmark Trial Against Meta",
-    "link": "https://tech.slashdot.org/story/26/08/19/2329222/whistleblower-arturo-bejar-leads-testimony-in-landmark-trial-against-meta?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "An anonymous reader quotes a report from NPR: Meta was infused with a culture in which employees obsessed over user numbers and consistently pushed safety to the side, according to Arturo Bejar, a former employee turned whistleblower, who testified today in the landmark child safety trial against the social media company. Only one man had the ability to change that, Bejar said: CEO Mark Zuckerberg. But he didn't. \"At the end of the day, it was the company culture that Mark had created that made it so that it was practically impossible to deliver features that addressed the wellbeing and safety issues that we've been talking about,\" he said.\n \nBejar is a linchpin witness for a consortium of states led by California, Colorado, Kentucky and New Jersey that sued Meta, alleging violations of consumer and child data protection laws, and that the company lied to the public about risks its platforms posed. The attorneys for the states say Meta designed Facebook and Instagram to hook young users and to keep them on site longer thanks to features such as infinite scrolling and the \"like\" button. Meta has denied the allegations. In his opening statement on Tuesday, attorney Paul Schmidt argued that the company was sensitive to the risks to teens, sought to address them and did not deceive the public about them. The state attorneys have not yet said if they will call Zuckerberg as a witness.\n \nTestifying in federal court in Oakland, California, for a second day on Wednesday, Bejar, who worked on safety issues at Meta for eight years, said he interacted with Zuckerberg dozens of times, and charged that Zuckerberg was not telling the truth when he made public denials that the company put profits over safety. In particular, Bejar addressed a widely-shared Facebook post Zuckerberg made in 2021 after another whistleblower, Frances Haugen, shared internal documents with The Wall Street Journal that highlighted risks to the mental health of teens. In the post, Zuckerberg said it's \"just not true\" that Meta prioritizes profit over safety and wellbeing. \"Based on my experience at Meta, that is not an accurate statement,\" Bejar said. [...] Bejar testified, at almost every turn the company chose policies that boosted usership and revenue over safety. Safety was \"not a meaningful priority,\" he said.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Aug 20, 2026 03:30",
-    "published_at": "2026-08-20T03:30:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "X.Org Server 26.1 RC1 Prepares For First Feature Release In Five Years",
-    "link": "https://www.phoronix.com/news/X.Org-Server-26.1-RC1",
-    "description": "Following today's release of XWayland 26.1 RC1, X.Org Server 26.1 RC1 was tagged. This xorg-server 26.1 release is aiming to become the first major feature release in five years, succeeding  the xorg-server 21.1 series...",
-    "guid": "https://www.phoronix.com/news/X.Org-Server-26.1-RC1",
-    "date": "Aug 20, 2026 02:18",
-    "published_at": "2026-08-20T02:18:15Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Garuda Linux Temeraire Released with New CachyOS-Based Kernel, Plasma Login Manager",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366933",
-    "description": "Garuda Linux Temeraire arrives with a new CachyOS-based kernel, Plasma Login Manager, revamped Hyprland setup, and major tooling changes.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366933",
-    "date": "Aug 20, 2026 01:25",
-    "published_at": "2026-08-20T01:25:02Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
     "title": "EXT4 Preps More Performance Improvements For Linux 7.3",
-    "link": "https://www.phoronix.com/news/EXT4-Linux-7.3",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366934",
     "description": "In addition to the IOmap improvements helping EXT4 performance in Linux 7.3, the main EXT4 feature pull request has now been submitted for this next kernel version. That pull is set to land yet more performance optimizations for EXT4...",
-    "guid": "https://www.phoronix.com/news/EXT4-Linux-7.3",
-    "date": "Aug 20, 2026 00:55",
-    "published_at": "2026-08-20T00:55:19Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "[$] LWN.net Weekly Edition for August 20, 2026",
-    "link": "https://lwn.net/Articles/1088565/",
-    "description": "Inside this week's LWN.net Weekly Edition:\n        \n        \n Front: Debian AI GR; Python pathlib; bootstrappable builds; Fedora and AF_ALG; Arm 128-bit PTEs; BPF CI; 7.2 statistics.\n             Briefs: Brief news items from throughout the community.\n             Announcements: Newsletters, conferences, security updates, patches, and more.\n            ",
-    "guid": "https://lwn.net/Articles/1088565/",
-    "date": "Aug 20, 2026 00:05",
-    "published_at": "2026-08-20T00:05:06Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "PINE64 Halts Linux Device Production Amid DRAM and EMMC Shortages",
-    "link": "https://hardware.slashdot.org/story/26/08/19/2134209/pine64-halts-linux-device-production-amid-dram-and-emmc-shortages?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "BrianFagioli writes: PINE64 has some very bad news for Linux hardware fans. PINE64 says it has no plans to produce additional Linux devices in the near future because of the ongoing DRAM and eMMC shortage. Future production will depend on component pricing after mid 2027, while existing PineNote and PineTab2 inventory could run out in roughly three months. The company says PineTime, PineVoice, and Pinecil production will continue as usual, but the outlook for its Linux hardware is much less certain. \"That's it for this post, all in all it's a bit bleak for the Linux devices, but in the meantime PineStore still have a great lineup of MCU powered devices which will continue to expand with more exciting devices,\" the company said.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Aug 19, 2026 23:00",
-    "published_at": "2026-08-19T23:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Stripe Buys AI Startup OpenRouter For $7.5 Billion",
-    "link": "https://news.slashdot.org/story/26/08/19/2128206/stripe-buys-ai-startup-openrouter-for-75-billion?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Stripe is acquiring AI model marketplace OpenRouter as it pushes beyond payments into the infrastructure behind AI applications. According to The New York Times, the deal is reportedly valued at about $7.5 billion, with $1.5 billion allocated to OpenRouter's founders. Less than three months ago the company was valued at about $1.3 billion. CNBC reports: OpenRouter has become popular with developers seeking to use AI models, particularly those considered non-proprietary and available for free. Many of these so-called open-weight AI models stem from Chinese labs like DeepSeek and Z.ai, which have gained steam among developers for generally being more cost-efficient relative to proprietary AI models from U.S. companies like OpenAI and Anthropic.\n \nIn a blog post about the deal, Stripe noted that it's been working with companies to \"optimize their token costs and route tokens efficiently,\" referring to a kind of metric used to measure AI model usage. Stripe said it's difficult to manage AI costs relative to performance because of the rapid \"pace at which models are released and repriced.\" [...]\n \nOpenRouter said in a blog post that combining with Stripe will help with its overall vision of \"a healthy AI ecosystem where many models thrive, where AI neurodiversity is a strength, where a lab or an inference provider with a breakthrough can reach millions of developers, and where no single model becomes the default by inertia.\" \"Stripe is building the economic infrastructure for AI, and together with OpenRouter we'll help businesses maximize profitability by routing their requests intelligently and spending their tokens efficiently,\" Stripe CEO Patrick Collison said in a statement.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Aug 19, 2026 22:00",
-    "published_at": "2026-08-19T22:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Amazon's Drones Will Soon Deliver to Nearly 500 US Cities and Towns",
-    "link": "https://tech.slashdot.org/story/26/08/19/1950233/amazons-drones-will-soon-deliver-to-nearly-500-us-cities-and-towns?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Amazon says its Prime Air drone delivery service will expand sixfold to nearly 500 U.S. cities and towns by the end of 2026, including metro areas around Chicago, Syracuse, Cleveland, Atlanta, and Boise. According to Amazon Prime Air vice president David Carbon, the service has already delivered \"hundreds of thousands of packages to customers\" this year, typically within about an hour. The Verge reports: These will join 11 locations across the US where Amazon already offers drone deliveries, with each Prime Air site serving an area of approximately 175 square miles. The service aims to quickly deliver packages of up to 5 pounds or less [...]. Amazon reiterated its drone safety features alongside these expansion plans, including Prime Air's \"industry-leading Detect-and-Avoid system.\" That's likely an attempt to minimize any concerns raised by the communities where the service is expanding, given these drones have already been scrutinized for crashing into cranes, internet cables, gardens, and an apartment building.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Aug 19, 2026 21:00",
-    "published_at": "2026-08-19T21:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "KDE Plasma Rice – Abandoned Machine | Easy Customization",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366915",
-    "description": "Here is a simple KDE Plasma rice with an \"Abandoned Machine\" vibe that features a clean setup, easy customization, and is perfect for daily use. Just a quick note to be transparent: I actually created this setup about five months ago, but I am finally sharing it now. For the visual components, I used the Layan Global Theme paired with the Layan Breath Kvantum Theme, the Gruvbox Plus icon pack, and the KDE Modern Clock widget.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366915",
-    "date": "Aug 19, 2026 20:35",
-    "published_at": "2026-08-19T20:35:22Z",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366934",
+    "date": "Aug 20, 2026 05:59",
+    "published_at": "2026-08-20T05:59:30Z",
     "source": "lxer.com",
     "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Two Very Exciting Memory Management Optimizations Going Into Linux 7.3",
-    "link": "https://www.phoronix.com/news/Linux-7.3-MM",
-    "description": "Andrew Morton on Tuesday sent out all of the memory management \"MM\" updates for the Linux 7.3 merge window. The MM pull was particularly heavy as he noted 1,250 \"added-to-MM\" emails were sent out this cycle compared to 920 the prior cycle. With a lot of patch churn, he also turned to Google's Gemini AI for writing his patch summaries. In going through the very verbose AI-generated summary, there are two patch series that get me excited on the performance front with Linux 7.3...",
-    "guid": "https://www.phoronix.com/news/Linux-7.3-MM",
-    "date": "Aug 19, 2026 20:31",
-    "published_at": "2026-08-19T20:31:26Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Distro of the Week: Linux Q83 13.14 Kopernik",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366924",
-    "description": "Once you get past what can best be described as an interesting default desktop photo, Poland's Linux Q83's latest offering makes one wonder: With one this solid, why is this Debian-based distro ranking in the 90s on Distrowatch.com when it should be much higher?",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366924",
-    "date": "Aug 19, 2026 19:03",
-    "published_at": "2026-08-19T19:03:53Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Cinematic puzzle-platforming comedy LIFTED is a delightful short adventure",
-    "link": "https://www.gamingonlinux.com/2026/08/cinematic-puzzle-platforming-comedy-lifted-is-a-delightful-short-adventure/",
-    "description": "LIFTED is a family-friendly and quite funny cinematic platforming adventure that recently released with Native Linux support.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/08/cinematic-puzzle-platforming-comedy-lifted-is-a-delightful-short-adventure/",
-    "date": "Aug 19, 2026 18:53",
-    "published_at": "2026-08-19T18:53:01Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/681435242id29586gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Go 1.27 released",
-    "link": "https://lwn.net/Articles/1089559/",
-    "description": "Go 1.27, the most recent version of\nthe Go programming language, has been released\nwith a number of new tools, the addition of support for the ML-DSA post-quantum algorithm,\nnew JSON-processing packages, language updates, and more.\n\n",
-    "guid": "https://lwn.net/Articles/1089559/",
-    "date": "Aug 19, 2026 18:30",
-    "published_at": "2026-08-19T18:30:44Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "Go Language 1.27 Adds Generic Methods, Struct Improvement \u0026 More SIMD",
-    "link": "https://www.phoronix.com/news/Go-1.27",
-    "description": "Go 1.27 was released today as the newest version of this programming language from Google's Go team...",
-    "guid": "https://www.phoronix.com/news/Go-1.27",
-    "date": "Aug 19, 2026 18:23",
-    "published_at": "2026-08-19T18:23:05Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Seven stable kernels for Wednesday",
-    "link": "https://lwn.net/Articles/1089557/",
-    "description": "Greg Kroah-Hartman has announced the release of the\n7.1.9,\n6.18.45,\n6.12.104,\n6.6.152,\n6.1.183, 5.15.216, and 5.10.265 stable kernels. Each contains important\nfixes throughout the tree; users are advised to upgrade.",
-    "guid": "https://lwn.net/Articles/1089557/",
-    "date": "Aug 19, 2026 18:02",
-    "published_at": "2026-08-19T18:02:54Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "Btrfs Ready With More Performance Improvements For Linux 7.3: Some ~3x To ~5x Wins",
-    "link": "https://www.phoronix.com/news/Linux-7.3-Btrfs",
-    "description": "David Sterba of SUSE sent in the Btrfs file-system feature updates today that target the Linux 7.3 merge window. Among other changes are more performance improvements for this next version of the Linux kernel...",
-    "guid": "https://www.phoronix.com/news/Linux-7.3-Btrfs",
-    "date": "Aug 19, 2026 17:50",
-    "published_at": "2026-08-19T17:50:46Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "[$] Debian weighs eight options in vote on LLM usage",
-    "link": "https://lwn.net/Articles/1087134/",
-    "description": "The Debian Project is voting on the usage\nof large language models (LLMs) to make contributions to the project. The first\nproposal, sent in late July by Matthias Geiger, would expressly forbid any\ncontributions to Debian that are created by or with the assistance of LLMs. That\nkicked off a firestorm of discussion and a flood of alternate proposals. Debian\ndevelopers are now voting on\neight proposals in total that range from banning LLM-assisted contributions\nto explicitly approving them, as well as the standard \"none of the above\" option\nthat would leave Debian with no agreed policy.",
-    "guid": "https://lwn.net/Articles/1087134/",
-    "date": "Aug 19, 2026 17:36",
-    "published_at": "2026-08-19T17:36:17Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
   }
 ]
