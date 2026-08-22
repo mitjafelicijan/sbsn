@@ -1,5 +1,171 @@
 [
   {
+    "title": "AMD RDNA 4m Firmware Published For Linux Ahead Of Launch",
+    "link": "https://www.phoronix.com/news/AMD-RDNA-4m-Firmware-Published",
+    "description": "In addition to AMD's Friday afternoon big code drop of all the UALink enablement patches for the Linux kernel and the AMDGPU driver, there was another big drop from AMD to end out the week... Upstreamed to the linux-firmware.git repository is all the firmware binaries needed by the open-source driver stack for initializing their forthcoming RDNA 4m \"GFX 11.7\" graphics...",
+    "guid": "https://www.phoronix.com/news/AMD-RDNA-4m-Firmware-Published",
+    "date": "Aug 22, 2026 11:08",
+    "published_at": "2026-08-22T11:08:14Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Over 1 Million People Have Clicked LinkedIn's AI Slop Button",
+    "link": "https://tech.slashdot.org/story/26/08/21/224221/over-1-million-people-have-clicked-linkedins-ai-slop-button?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "According to a post from chief product officer Hari Srinivasan, \"over a million people\" have clicked on LinkedIn's new \"Seems like AI slop\" button, which launched after one analysis found 41% of the platform's longform posts were fully AI-generated. The Verge reports: In Thursday's post, Srinivasan said that users are overall \"now experiencing 40% less views on what we classify as AI slop from just a few weeks ago.\" LinkedIn is also adding a new message that will tell users who make a post if \"Some members told us this post seems like AI.\" \"We approached this assuming good intent; I know I'm increasingly conscious on how to not sound like AI \u0026 the goal is to provide helpful feedback,\" Srinivasan said.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Aug 22, 2026 11:00",
+    "published_at": "2026-08-22T11:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "NVK Vulkan Video Merged For Mesa 26.3",
+    "link": "https://www.phoronix.com/news/NVK-Vulkan-Video-Mesa-26.3",
+    "description": "The newest major feature to land in Mesa's open-source NVIDIA \"NVK\" Vulkan driver is support for Vulkan Video!..",
+    "guid": "https://www.phoronix.com/news/NVK-Vulkan-Video-Mesa-26.3",
+    "date": "Aug 22, 2026 10:55",
+    "published_at": "2026-08-22T10:55:00Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Sched_ext's Sub-Scheduler Support Now \"Feature Complete\" With Linux 7.3",
+    "link": "https://www.phoronix.com/news/Linux-7.3-sched-ext",
+    "description": "The extensible scheduler framework \"sched_ext\" that allows for custom schedulers as BPF programs has been working on sub-scheduler support in recent kernel cycles. With Linux 7.3, sub-scheduler support is now deemed feature complete...",
+    "guid": "https://www.phoronix.com/news/Linux-7.3-sched-ext",
+    "date": "Aug 22, 2026 10:43",
+    "published_at": "2026-08-22T10:43:51Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "K230 handheld couples AMOLED display with LoRa and keyboard",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366961",
+    "description": "LILYGO has updated its T-Display K230 handheld, packaging its Kendryte K230-based development platform into a compact enclosure with a physical keyboard. The device combines dual-core 64-bit RISC-V processing with a 4.1-inch AMOLED touchscreen, LoRa, Wi-Fi, Ethernet, camera support, HDMI output, and an nRF52840 companion microcontroller. The T-Display K230 is based on the Kendryte K230 SoC, […]",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366961",
+    "date": "Aug 22, 2026 10:32",
+    "published_at": "2026-08-22T10:32:37Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Red Hat's Tuned 2.28 To Improve Out-Of-The-Box WiFi Power Savings On Fedora",
+    "link": "https://www.phoronix.com/news/Red-Hat-Tuned-2.28",
+    "description": "Tuned 2.28 released this Saturday as the newest version of Red Hat's tuning profile delivery mechanism for Linux. Tuned is used notably out-of-the-box on Fedora Linux for monitoring and adaptively tuning systems...",
+    "guid": "https://www.phoronix.com/news/Red-Hat-Tuned-2.28",
+    "date": "Aug 22, 2026 10:18",
+    "published_at": "2026-08-22T10:18:39Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Open-Source Etnaviv Driver Now Able To Run YOLOX",
+    "link": "https://www.phoronix.com/news/Etnaviv-YOLOX",
+    "description": "The open-source, reverse-engineered Etnaviv driver stack that began for providing accelerated graphics support on Vivante GPU IP and since expanded to handle Vivante NPUs as well is now able to handle YOLOX object detection...",
+    "guid": "https://www.phoronix.com/news/Etnaviv-YOLOX",
+    "date": "Aug 22, 2026 10:06",
+    "published_at": "2026-08-22T10:06:04Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Wine 11.16 brings more ARM64 support improvements",
+    "link": "https://www.gamingonlinux.com/2026/08/wine-11-16-brings-more-arm64-support-improvements/",
+    "description": "The Wine 11.16 development release is officially out now bringing further enhancements to running Windows games / apps on Linux.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/wine-11-16-brings-more-arm64-support-improvements/",
+    "date": "Aug 22, 2026 09:59",
+    "published_at": "2026-08-22T09:59:52Z",
+    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/wine-generic.jpg",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Linux 7.3 x86/mm Lands Patches To Greatly Improve Latency-Sensitive Workloads",
+    "link": "https://www.phoronix.com/news/Linux-7.3-x86-mm-Latency",
+    "description": "The highlight of this week's x86/mm pull request of changes for the Linux 7.3 kernel are fixes that reduce the time that the TLB flushing code has interrupts disabled. This helps significantly with latency-sensitive workloads but Intel engineer Dave Hansen noted in the pull request that \"it's certainly something to keep an eye on\" in looking out for any regressions...",
+    "guid": "https://www.phoronix.com/news/Linux-7.3-x86-mm-Latency",
+    "date": "Aug 22, 2026 09:57",
+    "published_at": "2026-08-22T09:57:36Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "No Ads, No Telemetry, No AI Agent: Orion Browser Does Linux",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366978",
+    "description": "Kagi’s privacy-focused, WebKit-based browser arrives for Linux as a not quite completely open source beta — with features galore and an opt-in user-funded business model.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366978",
+    "date": "Aug 22, 2026 07:29",
+    "published_at": "2026-08-22T07:29:38Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Linux Creator Linus Torvalds Just Used AI to Fix a Kernel Bug",
+    "link": "https://feed.itsfoss.com/link/24361/17426094/torvalds-used-ai-fix-kernel-bug",
+    "description": "The creator of Linux needed 18 boots to find a one-line fix. The AI helped him get there.",
+    "guid": "6a8940543527850001156d2e",
+    "date": "Aug 22, 2026 07:20",
+    "published_at": "2026-08-22T07:20:08Z",
+    "image": "https://itsfoss.com/content/images/2026/08/torvalds-patches-kernel-with-ai-2-.jpg",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "'Off the Charts' El Nino Is Already the Strongest Since Records Began",
+    "link": "https://news.slashdot.org/story/26/08/21/2216202/off-the-charts-el-nino-is-already-the-strongest-since-records-began?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "A rapidly developing El Nino is already reaching record-setting levels for this time of year and is expected to intensify further over the coming months. \"The El Nino has blossomed. It is off the charts. Usual measures of El Nino have blown past prior record levels in the period with good data, even though maximum effects are still several months in the future,\" writes renowned climate scientist James Hansen at Columbia University in New York in a newsletter sent today. Climate scientists disagree over whether it has already surpassed previous \"super El Nino\" events on every metric, but several say the signal is unprecedented in forecasts and could ultimately become the strongest modern event on record. New Scientist reports: There are different ways of measuring El Ninos, which occur when warm surface waters spread eastwards along the equator across the surface of the tropical Pacific Ocean. Hansen thinks the best measure is how much warmer than usual the upper 300 meters of the eastern tropical Pacific becomes. \"Our preferred metric, the heat anomaly in the upper 300 meters of the Equatorial Pacific Ocean... already exceeds the 1997-98 super El Nino,\" he writes.\n \n[...] What's clear is that this developing super El Nino will soon exceed previous events on all measures. \"I have never seen an El Nino signal this intense in our forecasts,\" [Adam Scaife at the Met Office, the UK's national weather service] said in a statement released today. \"If the forecast is accurate... then 2026 will far exceed our recent experience of El Nino and its worldwide climate influences.\"\n \nWhile Hansen is comparing the developing super El Nino to other modern events for which we have direct temperature records, Hayley Fowler at Newcastle University in the UK thinks it could also exceed historical events suspected to be even larger. \"The super El Nino evolving in the Pacific will likely be the biggest ever recorded, reaching or exceeding the levels of the 1877-1878 El Nino which caused widespread impacts, including famines and around 50 million deaths (3-4 percent of the global population at the time), mostly across Asia and South America,\" Fowler said in a statement.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Aug 22, 2026 07:00",
+    "published_at": "2026-08-22T07:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Proton Mail Wants to Organize Your Emails Automatically",
+    "link": "https://feed.itsfoss.com/link/24361/17426034/proton-mail-categories",
+    "description": "The feature sorts mail into six categories using metadata alone, and full-content search is coming to mobile next.",
+    "guid": "6a87faa13527850001156567",
+    "date": "Aug 22, 2026 04:40",
+    "published_at": "2026-08-22T04:40:17Z",
+    "image": "https://itsfoss.com/content/images/2026/08/proton-mail-categories-banner.png",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "Proton 11.0-2 Brings Support for AsteroidsHD, Portal Worlds, and Plain Sight",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366980",
+    "description": "Valve released Proton 11.0-2 today as the second update to the Proton 11 series of this open-source compatibility tool for Steam Play, based on Wine and additional components for playing Windows games on Linux.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366980",
+    "date": "Aug 22, 2026 04:26",
+    "published_at": "2026-08-22T04:26:39Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "China Joins Europe In Scrapping Windows For Linux",
+    "link": "https://linux.slashdot.org/story/26/08/21/2158246/china-joins-europe-in-scrapping-windows-for-linux?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from ZDNet: According to a Bloomberg report, attributed to China's Ministry of State Security, the country has ordered some government agencies to drop Windows 10 China Government Edition for Chinese-made Linux distributions. Why not Windows 11? Because China, like many other non-US governments, no longer trusts American companies with their software and services. This approach is all about digital sovereignty. In addition, even before the recent trend of governments outside America moving away from Windows, Beijing has started a long-running push to replace foreign technology in sensitive systems with domestic, open-source alternatives.\n \n[...] The Chinese government did not specify which Linux versions would replace Windows 10. However, the stock prices of Chinese Linux suppliers, Kylin Software and Tongxin Software Technology (commonly known as UnionTech), immediately jumped. These companies' respective operating systems, Kylin OS (no relation to Ubuntu Kylin) and UnionTech OS (UOS), were already positioned as domestic desktop and server replacements for Windows in government, state-owned enterprise, and critical-infrastructure environments. [...] Huawei's HarmonyOS 2, which began as an Android variant but is now a proprietary mobile and Internet of Things (IoT) operating system, is also being developed into a PC platform. HarmonyOS 2 won't be deployed anytime soon. Kylin and UOS are the only mature desktops that are ready for institutional desktop deployments.\n \n[...] ... this transition won't be easy. For agencies now moving off the government Windows build, the issue will be more demanding than simply swapping one desktop interface for another. Migration requires application testing, peripheral and driver validation, identity system integration, document-format compatibility, staff retraining and, in many cases, replacement or adaptation of Windows-dependent line-of-business software. The report provides no details on exactly how this transformation will occur. But the speed of the shift suggests that these issues are already being addressed in China's centralized managed desktop stack.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Aug 22, 2026 03:30",
+    "published_at": "2026-08-22T03:30:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "KDE Plasma 6.8 Lands Some Enticing Performance Optimizations This Week",
+    "link": "https://www.phoronix.com/news/KDE-Plasma-6.8-More-Performance",
+    "description": "This Week in Plasma is out with its latest issue to highlight interesting developments in the trek towards Plasma 6.8...",
+    "guid": "https://www.phoronix.com/news/KDE-Plasma-6.8-More-Performance",
+    "date": "Aug 22, 2026 01:01",
+    "published_at": "2026-08-22T01:01:36Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
     "title": "OpenZFS 2.4.4 Released With Linux 7.2 Support, Dozens Of Fixes",
     "link": "https://www.phoronix.com/news/OpenZFS-2.4.4-Released",
     "description": "OpenZFS 2.4.4 is out today as the newest stable point release for this ZFS file-system implementation for Linux and FreeBSD systems...",
@@ -398,6 +564,16 @@
     "source_url": "https://www.gamingonlinux.com/"
   },
   {
+    "title": "Linux 7.3 Network Changes Merged But Developers \"Completely Overwhelmed\" Due To AI/LLMs",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366956",
+    "description": "All of the networking subsystem feature updates were merged today for the Linux 7.3 kernel's merge window. There are a lot of wired and wireless networking improvements this cycle but also a ton of bug fixes -- including many not so important fixes spun up by AI/LLM agents. The networking subsystem maintainers admit now they are \"completely overwhelmed\" due to this code churn from the output of AI large language models...",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366956",
+    "date": "Aug 21, 2026 09:02",
+    "published_at": "2026-08-21T09:02:24Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
     "title": "Canonical is Funding a PhD to Automate C to Rust Translation for Ubuntu",
     "link": "https://feed.itsfoss.com/link/24361/17424976/canonical-c-to-rust-automation",
     "description": "The three-year project aims to translate hundreds of thousands of lines of C into Rust.",
@@ -440,159 +616,13 @@
     "source_url": "https://lxer.com/"
   },
   {
-    "title": "Are You Sure You Want a Car With a Giant Touch Screen?",
-    "link": "https://tech.slashdot.org/story/26/08/20/2030251/are-you-sure-you-want-a-car-with-a-giant-touch-screen?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "RAMageddon could soon push car prices higher as modern vehicles rely on ever more RAM and powerful centralized computers to run everything from infotainment to driver-assistance systems. Analysts cited by The Atlantic estimate the shortage could add a few percentage points to vehicle prices, which might not sound like much, but could potentially translate to around $2,000 on a $50,000 vehicle. The broader shift toward software-heavy vehicles could also make used cars even less affordable. An anonymous reader quotes an excerpt from the report: Just like laptops, cars depend on microprocessors and RAM, or random-access memory, to run all of their computations. \"There's just a baseline level of tech, and thus a baseline level of cost, required of every vehicle,\" Karl Brauer, the executive analyst at iSeeCars, an automotive-research platform, told me. Technology is a major reason the average price of a new car in the U.S. has reached some $50,000, and that was before RAM became one of the most prized commodities in the world. AI companies are snatching up as much memory as possible for their data centers, causing a RAM shortage that has significantly raised the prices of phones, laptops, and just about any consumer-electronic device. Cars are next.\n \n[...] Over the next year, the memory shortage -- sometimes known as RAMageddon -- will likely raise vehicle prices by a few percentage points, on average, [said Sam Abuelsamid, an analyst at Telemetry and a former automotive engineer]. The relative amount would be smaller than the shocking double-digit jumps for gaming consoles and MacBooks but in some ways more significant: A 4 percent price hike for cars amounts to some $2,000 on average. Cars with those centralized computers will be affected the most, but no vehicle will be spared. \"Even if you don't need the high-end chips, you're going to pay more even for the low-end chips just because of the supply constraint,\" Abuelsamid said. On a recent earnings call, Ford's chief financial officer said that the company had paid $1 billion in higher materials costs due to the memory shortage and inflation. GM and Volkswagen, too, have noted rising chip costs to investors. (Ford and GM did not respond to a request for comment. A spokesperson for Volkswagen told me that the company has \"recognized an increased demand for memory chips, primarily driven by growing requirements in other industries,\" and that in recent years, Volkswagen has taken measures to \"mitigate supply risks.\")\n \nRAMageddon is poised to last for several years, but the consequences for car buyers may be permanent. Consider what happened during the pandemic, when supply-chain disruptions and rising demand for electronics produced a major chip shortage. Nearly every major car company had to slash production because they simply couldn't procure enough chips, and shifted their focus to selling higher-end and higher-profit vehicles. Potential customers already willing to spend six figures on a car are much less likely to care about a 5 or 10 percent price hike, [said Ivan Drury, the director of insights at Edmunds]. Even now, car companies are continuing to focus on selling more profitable models. Since the pandemic, the average price of a new vehicle has jumped $11,000.\n \nThe AI-fueled chip crisis could play out more severely. The average price of a new car could, before long, jump to $60,000 and beyond. These rising costs are making cars even more similar to computers and all of the software they run: Perhaps in an effort to mitigate higher prices, some automakers are also introducing in-car advertisements and putting certain features, such as heated seats, behind a paywall. As cars have morphed into computers, the inevitable next step is for automakers to behave like modern tech companies.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Aug 21, 2026 03:30",
-    "published_at": "2026-08-21T03:30:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "9to5Linux Weekly Roundup: August 16th, 2026",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366953",
-    "description": "The 305th installment of the 9to5Linux Weekly Roundup is here for the week ending August 16th, 2026, keeping you updated on the most important developments in the Linux world.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366953",
-    "date": "Aug 21, 2026 02:56",
-    "published_at": "2026-08-21T02:56:26Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
     "title": "Intel Mesa Linux Drivers Now Treating Nova Lake S / U / H / HX As Stable",
-    "link": "https://www.phoronix.com/news/Intel-Mesa-Nova-Lake-Stable",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366959",
     "description": "Intel's open-source Mesa drivers for Iris Gallium3D (OpenGL) and ANV (Vulkan) on Linux are no longer treating next-gen Nova Lake processors with integrated graphics as experimental and off-by-default. With today's Mesa 26.3-devel code, the Intel driver code across Nova Lake's S, U, H, and HX product families are considered stable and enabled by default...",
-    "guid": "https://www.phoronix.com/news/Intel-Mesa-Nova-Lake-Stable",
-    "date": "Aug 21, 2026 00:44",
-    "published_at": "2026-08-21T00:44:45Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "China's YouTube Rival Bilibili Is Going Global",
-    "link": "https://news.slashdot.org/story/26/08/20/208238/chinas-youtube-rival-bilibili-is-going-global?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Bilibili, often described as China's answer to YouTube, is relaunching its international app and preparing an English-language site as part of a broader push into the U.S., Europe, Japan, and other markets. The company is courting Western creators like MrBest, hiring community and moderation staff globally, and building tools for brand partnerships. Semafor reports: The revamped international app no longer requires identity verification -- meaning users can sign up without having to provide a passport or ID document, which were long required of overseas users on its main Chinese platform, according to what appears to be a newly created account on X marketing the platform to global creators. \"Yes bilibili is going global,\" the account wrote, adding that content-wise, the US and Chinese sites will be the same.\n \nIn a document recently shared in a Discord chat for Bilibili creators, the company pitched itself as a place for influencers to make money and connect with \"Gen Z Coded, affluent and well-educated\" users. A marketplace for international users to connect with brands for sponsored content is \"in development,\" according to the presentation. The deck also showed creators how to post videos on its Chinese website, adding that an English version is \"coming soon. We are working hard.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Aug 20, 2026 23:00",
-    "published_at": "2026-08-20T23:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Watching TikTok Videos and Instagram Reels Deactivates the Brain's Cognitive Control Network",
-    "link": "https://tech.slashdot.org/story/26/08/20/1928242/watching-tiktok-videos-and-instagram-reels-deactivates-the-brains-cognitive-control-network?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "An anonymous reader quotes a report from RathBiotaClan: Millions of people finish short video after short video every day; a new brain-scan study shows that the very act of finishing a clip they like temporarily quiets the brain regions that normally help them stay focused and weigh longer-term goals. When people watch a short video they enjoy enough to finish, two brain regions involved in cognitive control show significant deactivation. That is the central finding of a new study from Zhejiang University, published in NeuroImagein January 2026.\n \nUsing functional MRI alongside proton magnetic resonance spectroscopy (H-MRS), the research team examined 56 young adults while they freely watched short video clips inside an MRI scanner. Both the dorsal anterior cingulate cortex (dACC) and the dorsolateral prefrontal cortex (dlPFC) showed reduced activity specifically when participants watched clips they liked enough to view to completion. Cognitive control helps people balance immediate pleasures against longer-term goals, and impairments in this system are linked to conditions such as depression, anxiety, ADHD, and addiction. Short-video platforms present rapid, algorithmically curated streams that are built for continuous, low-effort consumption.\n \nPrior behavioral research has tied both internet addiction and smartphone addiction to weaker self-control, and separate neuroimaging work has documented disruptions to reward and cognitive-control circuits in people with behavioral addictions. Despite this, few studies had directly tested whether the act of watching entertaining short videos itself suppresses the brain's cognitive control regions. The Zhejiang University team set out to answer that question, along with a second one: what neurochemical factors might explain why this suppression varies from person to person?\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Aug 20, 2026 22:00",
-    "published_at": "2026-08-20T22:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Ukrainian Publishers Call For Support After Russian Attacks Destroy 10 Million Books",
-    "link": "https://news.slashdot.org/story/26/08/20/201221/ukrainian-publishers-call-for-support-after-russian-attacks-destroy-10-million-books?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Russian attacks on Ukrainian publishing infrastructure in July and August destroyed roughly 10 million books, which equates to about 30% of Ukraine's annual book output. The Ukrainian Book Institute is warning of a potential \"collapse of the entire book ecosystem\" and is calling for international financial and industry support to help publishers, printers, and distributors recover. The Guardian reports: A major attack on August 1 hit warehouses belonging to the RNK-Ranok publishing group in Kharkiv, destroying approximately 8m books, following July attacks in Kyiv which led to the loss of more than 1.5m books. In all, the recent attacks have led to the destruction of approximately 30% of the volume of books produced annually in Ukraine.\n \nThe RNK-Ranok logistics centre, which stores books for the company's many imprints, is also the distribution centre for the national bookselling chain KnyhoLand, which runs 51 shops and several websites. Along with the estimated 8m books lost, a further 600,000 school textbooks were destroyed. The total loss has been preliminarily estimated at almost 1bn hryvnias (16.5m eueros). \"At this stage, we face the risk of the collapse of the entire book ecosystem,\" said Oleksandra Koval, director of the Ukrainian Book Institute. The institute is asking for donations to support Ukrainian publishers, and is calling on the international publishing community to work with Ukrainian publishers and raise awareness about Russian attacks on Ukrainian culture.\n \nOn August 16, a Russian attack on Kyiv led to a fire breaking out at the Pochaina book market, destroying several rows of stalls, books and vendors' property. The Pochaina market, founded in 1997, was once one of Ukraine's largest book markets, with hundreds of stalls and books from more than 120 publishers. The institute said the book industry was of \"strategic importance\" to Ukraine, preserving and promoting Ukrainian culture and giving the country's voice a platform at home and abroad. [...] The institute also called for an end to cooperation with Russian publishers and literary agencies, saying that solidarity with Ukrainian publishers was crucial to preserving cultural heritage that Russia was \"deliberately trying to destroy.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Aug 20, 2026 21:00",
-    "published_at": "2026-08-20T21:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Linux Driver Posted For The PreSonus Quantum 2626: A ~$700 Thunderbolt Audio Interface",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366946",
-    "description": "The PreSonus Quantum 2626 is a high-end, Thunderbolt 3 based audio interface. PreSonus just maintains Windows and macOS drivers for this high-end audio interface while now an open-source Linux driver has been posted after being independently developed via reverse engineering...",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366946",
-    "date": "Aug 20, 2026 20:54",
-    "published_at": "2026-08-20T20:54:16Z",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366959",
+    "date": "Aug 21, 2026 04:27",
+    "published_at": "2026-08-21T04:27:55Z",
     "source": "lxer.com",
     "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Linux 7.3 Network Changes Merged But Developers \"Completely Overwhelmed\" Due To AI/LLMs",
-    "link": "https://www.phoronix.com/news/Linux-7.3-Networking",
-    "description": "All of the networking subsystem feature updates were merged today for the Linux 7.3 kernel's merge window. There are a lot of wired and wireless networking improvements this cycle but also a ton of bug fixes -- including many not so important fixes spun up by AI/LLM agents. The networking subsystem maintainers admit now they are \"completely overwhelmed\" due to this code churn from the output of AI large language models...",
-    "guid": "https://www.phoronix.com/news/Linux-7.3-Networking",
-    "date": "Aug 20, 2026 20:05",
-    "published_at": "2026-08-20T20:05:28Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "[$] A look at the Quickshell desktop-component toolkit",
-    "link": "https://lwn.net/Articles/1083090/",
-    "description": "Quickshell is a toolkit for\nbuilding desktop components, such as toolbars or menus. It uses QML, which is a declarative language\nfor designing GUI applications. Quickshell helps developers create graphical tools\nfor common desktop use cases with a focus on ease of development. It offers a\nconvenient method for writing user interfaces and has been adopted by a number\nof projects, such as caelestia-shell and DankMaterialShell, that\nprovide desktop environments for minimal window managers like Sway and niri.",
-    "guid": "https://lwn.net/Articles/1083090/",
-    "date": "Aug 20, 2026 19:39",
-    "published_at": "2026-08-20T19:39:51Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "Agent 64: Spies Never Die is pure retro FPS nostalgia bait",
-    "link": "https://www.gamingonlinux.com/2026/08/agent-64-spies-never-die-is-pure-retro-fps-nostalgia-bait/",
-    "description": "Designed to be very much like a slightly more modern version of the Nintendo 64's classic GoldenEye - this is well and truly nostalgia bait.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/08/agent-64-spies-never-die-is-pure-retro-fps-nostalgia-bait/",
-    "date": "Aug 20, 2026 19:27",
-    "published_at": "2026-08-20T19:27:46Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/260959185id29597gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Arch Linux-Based Garuda Linux “Temeraire” Released with Linux Kernel 7.2",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366937",
-    "description": "Garuda Linux “Temeraire” is out today as the latest snapshot of this Arch Linux-based distro that promises to deliver a powerful, beautiful, and user-centric Linux desktop experience.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366937",
-    "date": "Aug 20, 2026 19:22",
-    "published_at": "2026-08-20T19:22:46Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Intel Hyper Threading Performance On The Xeon 678X \"Granite Rapids-WS\"",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366948",
-    "description": "With the Intel Xeon 678X \"Granite Rapids WS\" processor that I have been recently testing within the HP Z4 G6i workstation, there are 48 cores plus with Hyper Threading is a total of 96 threads for this high-end workstation processor with a 300 Watt TDP. For those curious about the performance impact of HT/SMT on this Intel Xeon 600 series workstation processor, here are some comparison benchmarks.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366948",
-    "date": "Aug 20, 2026 17:51",
-    "published_at": "2026-08-20T17:51:17Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Rust 1.98 Adds Algebraic Floating-Point Methods Akin To \"-ffast-math\"",
-    "link": "https://www.phoronix.com/news/Rust-1.98-Released",
-    "description": "Rust 1.98 released today and is headlined the debut of new algebraic floating-point methods...",
-    "guid": "https://www.phoronix.com/news/Rust-1.98-Released",
-    "date": "Aug 20, 2026 17:29",
-    "published_at": "2026-08-20T17:29:25Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "KMSCON 10.0.2 Brings asciicast Playback Support, Bug Fixes",
-    "link": "https://www.phoronix.com/news/KMSCON-10.0.2-Released",
-    "description": "KMSCON 10.0.2 debuted today as the latest update to this leading user-space terminal emulator for Linux systems. KMSCON is built around Linux's KMS/DRM interfaces and the most viable alternative to date for in-kernel VTs...",
-    "guid": "https://www.phoronix.com/news/KMSCON-10.0.2-Released",
-    "date": "Aug 20, 2026 17:19",
-    "published_at": "2026-08-20T17:19:37Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Bethesda finally fix the Skyrim Special Edition on-screen keyboard crashing SteamOS / Steam Deck",
-    "link": "https://www.gamingonlinux.com/2026/08/bethesda-finally-fix-the-skyrim-special-edition-on-screen-keyboard-crashing-steamos-steam-deck/",
-    "description": "A new update from Bethesda has rolled out for The Elder Scrolls V: Skyrim Special Edition, and much like with Fallout 4, they finally fixed an annoying bug.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/08/bethesda-finally-fix-the-skyrim-special-edition-on-screen-keyboard-crashing-steamos-steam-deck/",
-    "date": "Aug 20, 2026 16:49",
-    "published_at": "2026-08-20T16:49:06Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/281928699id29596gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
   }
 ]
