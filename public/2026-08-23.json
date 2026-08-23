@@ -1,5 +1,120 @@
 [
   {
+    "title": "ReactOS Merges Support For Job Objects As Step To Running Modern Windows Apps",
+    "link": "https://www.phoronix.com/news/ReactOS-Job-Objects",
+    "description": "Merged yesterday to the ReactOS code-base is initial support for Job Objects, which is an important milestone in the road to being able to run more modern Windows software under this open-source operating system striving for Windows driver/application compatibility...",
+    "guid": "https://www.phoronix.com/news/ReactOS-Job-Objects",
+    "date": "Aug 23, 2026 11:41",
+    "published_at": "2026-08-23T11:41:04Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Supply Chain Issues Delaying US Grid Batteries' Installation",
+    "link": "https://hardware.slashdot.org/story/26/08/23/0333203/supply-chain-issues-delaying-us-grid-batteries-installation?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Falling prices have made grid-scale storage batteries more attractive, reports Bloomberg. But after decades of stagnant investment, America's grids \"are racing to make the upgrades needed to plug them in,\" with supplies straining for the necessary equipment.\n\nDemand for batteries has skyrocketed as electricity use across the U.S. swells, driven by data centers' booming energy needs and increasing electrification. It's also getting harder to get them connected to power grids... As those upgrades get delayed, storage projects are piling up in interconnection queues from coast to coast. For example, Consolidated Edison Inc., a major utility in New York state, says over the last two years the volume of battery storage projects waiting to be connected has grown by 300%... \"The whole process of interconnecting these new power plants got really log-jammed and bottlenecked,\" said Joseph Rand, an energy policy researcher at the Lawrence Berkeley National Laboratory... \n\nNationwide, some 750 gigawatts of energy storage projects — roughly equivalent to the generating capacity of more than 700 nuclear reactors — are in line to get grid connections, according to the lab's research. Not all of these projects will get built. Many developers already abandoned the queue because of delays. Still, the waiting time is increasing; the median was five years in 2025, up from a year and a half in 2015. The flood of battery projects is expected to continue. Wood Mackenzie, an energy consultancy, projects the U.S. energy storage market will quadruple in the next six years... \n\n[Shortages in key equipment] have driven up construction costs and time lines for grid upgrades, leaving utilities struggling to build fast enough. A drought of skilled workers is further slowing them down... In California, PG\u0026E Corp., the state's largest utility, told regulators in January that a key driver of delays was long lead times for specialized equipment. Procuring certain breakers could take nearly four years, according to the utility, which reported a 300% increase in its interconnection workload compared to prior years. In Northern California, for example, holdups to circuit breaker upgrades to a substation in Solano County led to projected delays for two battery projects worth a combined 450 megawatts. Transmission line work in the Bay Area has put another 800 megawatts of energy storage at risk of delay, according to PG\u0026E. \n\nLast year New York's Con Ed started requiring developers to help pay for upgrades if their projects will push power demand and strain infrastructure. But that also drew criticism:\n\nAccording to a survey conducted by the trade group New York Battery and Energy Storage Technology Consortium (NY-BEST), the new methodology raised costs by an average of $21 million per project, a 14-fold increase. At least 25 projects have been canceled as a result, according to the group. Battery advocates have appealed to state regulators to get Con Ed to abandon the new policy.\n \nThanks to Slashdot reader Bruce66423 for sharing the news.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Aug 23, 2026 11:34",
+    "published_at": "2026-08-23T11:34:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Linux 7.3 Makes Preparations Toward Upstreaming FAMFS File-System",
+    "link": "https://www.phoronix.com/news/Linux-7.3-Preps-Toward-FAMFS",
+    "description": "The NVDIMM and direct access (DAX) patches have been merged for the Linux 7.3 cycle. Most of the DAX/NVDIMM activity this cycle is on making preparations for the upcoming submission of Micron's FAMFS file-system...",
+    "guid": "https://www.phoronix.com/news/Linux-7.3-Preps-Toward-FAMFS",
+    "date": "Aug 23, 2026 11:20",
+    "published_at": "2026-08-23T11:20:00Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "GCC Patch Adjusting AMD Zen 5 Misprediction Cost Nets 12% Win In Benchmark",
+    "link": "https://www.phoronix.com/news/AMD-Zen-5-Mispredict-Cost",
+    "description": "An AMD compiler engineer posted a patch on Saturday for the GNU Compiler Collection (GCC). The two-line patch adjusts the misprediction cost for Zen 4 and Zen 5 processors, which ends up yielding a 12% improvement in one SPEC CPU benchmark on Zen 5 and a 9% improvement on Zen 4...",
+    "guid": "https://www.phoronix.com/news/AMD-Zen-5-Mispredict-Cost",
+    "date": "Aug 23, 2026 10:56",
+    "published_at": "2026-08-23T10:56:12Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Linux 7.3 Introduces New AES Encryption APIs - Will Open Up More Performance",
+    "link": "https://www.phoronix.com/news/Linux-7.3-New-Crypto-AES-APIs",
+    "description": "Eric Biggers of Google continues carrying out great work on the Linux kernel crypto code. For Linux 7.3 he's landed work on new library APIs for most of the AES encryption modes used within the kernel. Moving forward this will open the door to more performance optimizations, reducing code duplication, and other enhancements...",
+    "guid": "https://www.phoronix.com/news/Linux-7.3-New-Crypto-AES-APIs",
+    "date": "Aug 23, 2026 10:42",
+    "published_at": "2026-08-23T10:42:14Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Linux 7.3 Input Subsystem Updates Merged With Security Fixes, Other Improvements",
+    "link": "https://www.phoronix.com/news/Linux-7.3-Input",
+    "description": "The big set of input subsystem updates were merged earlier this week for the Linux 7.3 cycle. It's a random assortment of different improvements as well as bug/security fixes driven in part by the flow of AI/LLM generated discoveries...",
+    "guid": "https://www.phoronix.com/news/Linux-7.3-Input",
+    "date": "Aug 23, 2026 10:30",
+    "published_at": "2026-08-23T10:30:27Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Debian is Voting on Whether to Allow AI-Assisted Contributions",
+    "link": "https://linux.slashdot.org/story/26/08/23/0539230/debian-is-voting-on-whether-to-allow-ai-assisted-contributions?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Debian developers are voting on whether to ban AI-assisted contributions, reports the blog Linuxiac, with a ballot listing eight proposals and a \"None of the above\" option.\n\n\n\nThe first one is still the original proposal to ban LLM-assisted contributions by changing the Debian Social Contract. This would stop generative AI from being used for direct Debian work like packaging, software, documentation, translations, websites, and project communication. However, upstream projects made with AI help would not be affected. The proposal gives several reasons for the ban, such as unclear copyright and licensing, doubts about the reliability of AI-generated work, extra review work for maintainers, aggressive scraping of Free Software resources, and the high resource use of large AI systems... \n\nThe second option would clearly allow contributions that are partly or fully made by an LLM, as long as contributors check their technical quality, security, licensing, and usefulness, fully understand the changes, and disclose major AI help. It would also ban sending private or sensitive Debian information to untrusted external AI services. A similar fourth option recognizes worries about generative AI but says banning it would be hard to enforce and not helpful. This proposal would accept AI-assisted Debian work if it follows the Debian Free Software Guidelines, is properly reviewed and understood by the contributor, and is marked as AI-assisted when needed. The fifth proposal is even more open. It says Debian should not support or ban generative AI tools, but should apply the same standards for quality, correctness, maintainability, and legality to all contributions, no matter how they were made... \n\n\nOne unique proposal is called \"Debian is created by humans.\" Instead of banning AI tools for contributors, it focuses on what actually gets included in Debian. With this approach, contributors could use generative AI for research, analysis, exploration, or critique, but could not submit AI-generated output directly as Debian packaging, patches, documentation, bug reports, project communications, or other Debian work. As the proposal says: humans create Debian. Another, much stricter proposal asks Debian contributors to avoid LLM use as much as possible. It would require all Debian communication, like bug reports, mailing-list messages, Salsa discussions, and Planet Debian posts, to be written only by humans. Any AI use in Debian work would have to be disclosed, and violations could be handled under the project's Code of Conduct. \n\nThe CEO/founder of AI-native compliance management platform company Strike Graph believes a Debian AI ban is \"the wrong fix for the actual problem\" at hand, reports The New Stack:\n\n\"Debian's ban isn't really about banning AI,\" [CEO Justin] Beals says. \"It's an admission that nobody has built a reliable way to verify what an AI agent actually produced before it lands in a codebase this many systems depend on, including infrastructure running in orbit. That's a legitimate thing to be worried about....\" He thinks that any policy statement that says AI isn't allowed simply won't hold up, as the tooling keeps getting harder to detect... \nLooking across the complete set of tabled propositions, proposal A (no LLM contributions to Debian via social contract) needs a 3:1 majority to pass; the other seven proposals (B to H) need a simple majority.\n\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Aug 23, 2026 07:34",
+    "published_at": "2026-08-23T07:34:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "17 GNOME Extensions To Help You Customization Desktop Looks",
+    "link": "https://feed.itsfoss.com/link/24361/17426547/gnome-extensions-customization",
+    "description": "Change how your Linux desktop running GNOME DE looks with these GNOME extensions.",
+    "guid": "6a72bbcf40b6c5000119b3df",
+    "date": "Aug 23, 2026 05:01",
+    "published_at": "2026-08-23T05:01:29Z",
+    "image": "https://itsfoss.com/content/images/2026/08/gnome-extensions-to-customize-desktop-looks.webp",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "Defamation Suit Demanding Elsevier Retract Paper Heads Closer To Trial",
+    "link": "https://science.slashdot.org/story/26/08/23/0113210/defamation-suit-demanding-elsevier-retract-paper-heads-closer-to-trial?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Retraction Watch reports:\n\n\nA trial date has been set in a $1 billion defamation case against Elsevier that alleges the company published what plaintiffs say was a manipulated study about an air purifying technology over objections from peer reviewers. The case has already cost Elsevier a $10,000 sanction from a judge. \nGlobal Plasma Solutions (GPS), which makes air quality products, sued Elsevier in 2022 after the publisher declined to retract a 2021 paper in Building and Environment about GPS' needlepoint bipolar ionization technology, which it heavily marketed during the COVID-19 pandemic as an air purifier. The complaint claims Elsevier is responsible for the authors' alleged omission of data and misleading conclusions in the paper that fueled \"massive\" financial losses for the company, its lawyers claim. Elsevier knew the paper \"failed peer review\" under its \"own standards,\" but moved forward with the article despite this knowledge, according to GPS, which now goes by GPS Air. \n\nThe complaint has survived a bid by Elsevier to dismiss the case, and a trial has been set for Dec. 7. In allowing the case to proceed, U.S. Magistrate Judge David Keesler said in a May 2024 opinion that GPS has \"plausibly alleged actual malice\" by Elsevier defined as \"knowledge of falsity or reckless disregard for the truth.\" Chief Judge Martin Reidinger of the U.S. District Court for the Western District of North Carolina upheld Keesler's recommendation in July 2025... \n\nCiting internal and discovery documents, GPS alleges an assessment of 19 journals revealed Elsevier has published more than 1,200 articles either without any peer review, or against the recommendations of the reviewers.\n \nThanks to long-time Slashdot reader sandbagger for sharing the article.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Aug 23, 2026 04:33",
+    "published_at": "2026-08-23T04:33:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Microsoft Blames Windows Gaming Issues On RGB Lighting Devices",
+    "link": "https://tech.slashdot.org/story/26/08/23/0046217/microsoft-blames-windows-gaming-issues-on-rgb-lighting-devices?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "BleepingComputer reports:\n\n\nMicrosoft says ongoing issues causing games to crash or fail to launch after installing the August 2026 Windows updates may be caused by peripherals with RGB lighting. \n\nAs Microsoft explained when it confirmed it's investigating on Wednesday, this known issue affects games like ARC Raiders, MARVEL Tokon: Fighting Souls, and The Finals on systems running Windows 11 24H2 and 25H2... \"[Peripherals or internal device components with RGB lighting features] may install drivers or code components with file names similar to inpoutx64. In systems where these drivers are found, the issue is then triggered by launching certain games,\" it noted.\n\n \n\nThanks to Slashdot reader joshuark for sharing the article.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Aug 23, 2026 02:29",
+    "published_at": "2026-08-23T02:29:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Fedora Badges Revamp Project: From The Ground Up",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366914",
+    "description": "After years of technical research and foundational work, the Fedora Badges application service has been rebuilt from the ground up, and it is heading to production. Whether you have been collecting badges for years or you are brand new to the Fedora Project community, here is what is waiting for you there. Completely modernized user interface The archaic server rendered pages are now gone. The Fedora Badges application service […]",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366914",
+    "date": "Aug 23, 2026 01:01",
+    "published_at": "2026-08-23T01:01:48Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
     "title": "Longtime Linux CIFS/SMB3 Maintainer Passes Away",
     "link": "https://www.phoronix.com/news/SMB3-CIFS-Maintainer-Change",
     "description": "There is a changing of the guard with Linux 7.3 as the maintainer of the Common Internet File System (CIFS) / SMB3 code within the Linux kernel. Longtime maintainer, principal Linux CIFS author, and current Microsoft employee Steve French has stepped down due to health reasons...",
@@ -282,6 +397,16 @@
     "source_url": "https://www.phoronix.com/"
   },
   {
+    "title": "KDE Plasma 6.8 Lands Some Enticing Performance Optimizations This Week",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366986",
+    "description": "This Week in Plasma is out with its latest issue to highlight interesting developments in the trek towards Plasma 6.8...",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366986",
+    "date": "Aug 22, 2026 09:01",
+    "published_at": "2026-08-22T09:01:08Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
     "title": "No Ads, No Telemetry, No AI Agent: Orion Browser Does Linux",
     "link": "https://lxer.com/module/newswire/ext_link.php?rid=366978",
     "description": "Kagi’s privacy-focused, WebKit-based browser arrives for Linux as a not quite completely open source beta — with features galore and an opt-in user-funded business model.",
@@ -343,140 +468,5 @@
     "published_at": "2026-08-22T04:26:39Z",
     "source": "lxer.com",
     "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "China Joins Europe In Scrapping Windows For Linux",
-    "link": "https://linux.slashdot.org/story/26/08/21/2158246/china-joins-europe-in-scrapping-windows-for-linux?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "An anonymous reader quotes a report from ZDNet: According to a Bloomberg report, attributed to China's Ministry of State Security, the country has ordered some government agencies to drop Windows 10 China Government Edition for Chinese-made Linux distributions. Why not Windows 11? Because China, like many other non-US governments, no longer trusts American companies with their software and services. This approach is all about digital sovereignty. In addition, even before the recent trend of governments outside America moving away from Windows, Beijing has started a long-running push to replace foreign technology in sensitive systems with domestic, open-source alternatives.\n \n[...] The Chinese government did not specify which Linux versions would replace Windows 10. However, the stock prices of Chinese Linux suppliers, Kylin Software and Tongxin Software Technology (commonly known as UnionTech), immediately jumped. These companies' respective operating systems, Kylin OS (no relation to Ubuntu Kylin) and UnionTech OS (UOS), were already positioned as domestic desktop and server replacements for Windows in government, state-owned enterprise, and critical-infrastructure environments. [...] Huawei's HarmonyOS 2, which began as an Android variant but is now a proprietary mobile and Internet of Things (IoT) operating system, is also being developed into a PC platform. HarmonyOS 2 won't be deployed anytime soon. Kylin and UOS are the only mature desktops that are ready for institutional desktop deployments.\n \n[...] ... this transition won't be easy. For agencies now moving off the government Windows build, the issue will be more demanding than simply swapping one desktop interface for another. Migration requires application testing, peripheral and driver validation, identity system integration, document-format compatibility, staff retraining and, in many cases, replacement or adaptation of Windows-dependent line-of-business software. The report provides no details on exactly how this transformation will occur. But the speed of the shift suggests that these issues are already being addressed in China's centralized managed desktop stack.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Aug 22, 2026 03:30",
-    "published_at": "2026-08-22T03:30:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "KDE Plasma 6.8 Lands Some Enticing Performance Optimizations This Week",
-    "link": "https://www.phoronix.com/news/KDE-Plasma-6.8-More-Performance",
-    "description": "This Week in Plasma is out with its latest issue to highlight interesting developments in the trek towards Plasma 6.8...",
-    "guid": "https://www.phoronix.com/news/KDE-Plasma-6.8-More-Performance",
-    "date": "Aug 22, 2026 01:01",
-    "published_at": "2026-08-22T01:01:36Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "OpenZFS 2.4.4 Released With Linux 7.2 Support, Dozens Of Fixes",
-    "link": "https://www.phoronix.com/news/OpenZFS-2.4.4-Released",
-    "description": "OpenZFS 2.4.4 is out today as the newest stable point release for this ZFS file-system implementation for Linux and FreeBSD systems...",
-    "guid": "https://www.phoronix.com/news/OpenZFS-2.4.4-Released",
-    "date": "Aug 22, 2026 00:40",
-    "published_at": "2026-08-22T00:40:33Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Township Fights Nuclear Weapons Data Center By Passing a Moratorium on Electrical Infrastructure",
-    "link": "https://hardware.slashdot.org/story/26/08/21/2015213/township-fights-nuclear-weapons-data-center-by-passing-a-moratorium-on-electrical-infrastructure?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Ypsilanti Township, Michigan, has imposed a six-month moratorium on \"major electric utility infrastructure\" in its latest attempt to delay a proposed $1.2 billion University of Michigan-Los Alamos data center that would support nuclear-weapons research. Township leaders, who have already paused water service for data centers, say the project has moved forward without adequate consultation and want more time to study noise, grid impacts, and other effects on residents. 404 Media reports: Last year, the university announced it was partnering with LANL on the construction of a massive 220,000 square foot hyperscale data center in Ypsilanti Township and residents have been fighting it ever since. During a meeting of the Township Board on August 18, the council unanimously passed a resolution that will delay the construction of new electrical infrastructure for 180 days. Data centers need a lot of energy, and Michigan's power authority will have to build new substations in the Township to power the proposed facility. The moratorium asked the local power authorities to use the six month delay to study noise pollution and how the new infrastructure would affect existing customers.\n \nThe moratorium is narrowly focused on \"the nature and scale of electrical infrastructure necessary to serve new high-energy-demand land uses [...] including infrastructure associated, but not limited to hyper-scale data centers, mid-sized data centers, artificial intelligence computing facilities, and high-performance computational centers, industrial facilities, and other intensive electrical users.\"\n \nEarlier this month, the University of Michigan announced it had settled on a specific plot of land in Ypsilanti Township -- a 144-acre plot on Textile Road. In a press release about the decision, the University said the data center would have the \"capacity to change the world\" and insisted it would not be a \"high value target risk\" in a war, that it would not store any hazardous nuclear material, and was not a weapons production facility. LANL previously confirmed that the data center will be used for nuclear weapons research. Ypsilanti Township Supervisor Brenda Stumbo told WEMU news that the selection of the site was a \"travesty of justice\" because it ignores constituents' concerns about environmental impact.\n \nDuring the August 18 moratorium vote, the Board projected a large stock photograph of an electric substation behind its members. The photo was meant to remind people of the size of the incoming infrastructure and the lack of communication from the university about it. \"This picture's really important to think about because U of M has been so crystal clear that they've been communicating to us abundantly -- which is not true,\" Township clerk Debbie Swanson said during the meeting. \"That speaks to the lack of respect.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Aug 21, 2026 23:00",
-    "published_at": "2026-08-21T23:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Wine 11.16 Released With VA-API Hardware Decoding, Better ARM64 Support",
-    "link": "https://www.phoronix.com/news/Wine-11.16-Released",
-    "description": "Wine 11.16 is out today as the newest bi-weekly development release for this software enabling Windows games and applications to run on Linux and other platforms...",
-    "guid": "https://www.phoronix.com/news/Wine-11.16-Released",
-    "date": "Aug 21, 2026 22:12",
-    "published_at": "2026-08-21T22:12:01Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Apple Cuts Jobs In Siri, Vision Pro Immersive Video and Gaming Teams",
-    "link": "https://apple.slashdot.org/story/26/08/21/207246/apple-cuts-jobs-in-siri-vision-pro-immersive-video-and-gaming-teams?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Apple is cutting more than 200 jobs as it shifts resources toward a rebuilt, AI-powered Siri and other future products. Roughly 100 positions are being eliminated from the Vision Pro organization, including much of its gaming team and some immersive-video staff. Another 100 cuts are hitting the Siri and software teams. Bloomberg reports: In a statement, Apple acknowledged that it was realigning some teams \"to evolve our business to deliver the best experiences for our users.\" \"While we will create new roles as part of this change, it will also impact a limited number of existing roles,\" the company said. \"We are grateful to these team members for their contributions, and we are committed to supporting them throughout their transition, including opportunities to apply for other roles at Apple.\"\n \nThe Siri reshuffling is tied to an upcoming AI-infused version of the assistant, which is built on a new technical architecture. That shift requires a change in the necessary expertise, prompting the company to eliminate a small number of existing roles, reallocate resources and create new positions supporting the updated Siri.\n \nThe changes to the Intelligent Systems Experience team reflect an effort to reorganize work on AI-powered capabilities. As more groups bring AI functions to apps, features and services, Apple is realigning teams to match priorities and accelerate development. The restructuring will eliminate some existing positions while creating new roles.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Aug 21, 2026 22:00",
-    "published_at": "2026-08-21T22:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Proton 11.0-2 Enables More Titles With Steam Play / Linux Gaming",
-    "link": "https://www.phoronix.com/news/Proton-11.0-2",
-    "description": "Just in time for those that enjoy their Linux / Steam Play gaming on weekends, Valve and CodeWeavers today released Proton 11.0-2 as the newest stable release of this Wine 11.0 downstream that powers Steam Play for running Windows games gracefully on Linux...",
-    "guid": "https://www.phoronix.com/news/Proton-11.0-2",
-    "date": "Aug 21, 2026 21:14",
-    "published_at": "2026-08-21T21:14:07Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "American Who Wiped His Phone With 'Duress' Password During Border Search Gets Felony Charges",
-    "link": "https://yro.slashdot.org/story/26/08/21/202201/american-who-wiped-his-phone-with-duress-password-during-border-search-gets-felony-charges?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Federal prosecutors have charged activist Samuel Tunick with obstruction after he gave Customs and Border Protection officers a duress passcode that wiped his GrapheneOS-powered Pixel during a border search. \"His prosecution is one of the earliest known instances of the federal authorities charging a person with destroying evidence using a program designed to wipe a device clean after a specific code is entered,\" reports The New York Times. From the report: \"Obstructing federal law enforcement is a serious matter that has serious repercussions,\" Theodore Hertzberg, the U.S. attorney for the Northern District of Georgia, said in a statement. \"Individuals who destroy or attempt to destroy property, including data, to prevent lawful search and seizure should expect to face prosecution and punishment for their actions.\"\n \nA spokeswoman for U.S. Customs and Border Protection said in a statement that the agency had the authority to search the electronic devices of anyone entering or leaving the United States, regardless of citizenship, to enforce laws addressing terrorism, child exploitation, drug- and human-smuggling, visa fraud and national security threats.\n \n\"The border search will only include an examination of information that is present on the device at the time it is presented for inspection,\" the spokeswoman said, adding that it searched the electronic devices of fewer than 0.01 percent of all arriving international travelers in the last fiscal year. \"Just the knowledge that the government is peering into your private life in this way, trying to dig up dirt on you, even though it's unsuccessful, is creepy,\" Tunick said, in response to a question about how the charges have affected him.\n \nHis message: \"The government doesn't own our communications, our relationships, as hard as they might try to. We have to defend our fundamental right to privacy; otherwise we can't say that we really live in a democracy.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Aug 21, 2026 21:00",
-    "published_at": "2026-08-21T21:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Proton 11.0-2 is out with lots of gaming fixes for Linux / SteamOS, Steam Deck, Steam Machine",
-    "link": "https://www.gamingonlinux.com/2026/08/proton-11-0-2-is-out-with-lots-of-gaming-fixes-for-linux-steamos-steam-deck-steam-machine/",
-    "description": "Valve just rolled out the red carpet for the latest mainline stable update to their compatibility layer with Proton 11.0-2 now available.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/08/proton-11-0-2-is-out-with-lots-of-gaming-fixes-for-linux-steamos-steam-deck-steam-machine/",
-    "date": "Aug 21, 2026 20:59",
-    "published_at": "2026-08-21T20:59:15Z",
-    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/proton%20logo%20official.jpg",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "AMD Posts Massive Patch Series For Enabling UALink In The Linux Kernel",
-    "link": "https://www.phoronix.com/news/UALink-Series-2-Linux",
-    "description": "Whether coincidental or intentional, AMD engineers tend to drop interesting, feature patches for the open-source/Linux space on Friday afternoons. Hitting the kernel mailing list minutes ago were two patch series sent out by AMDGPU maintainer Alex Deucher for introducing UALink infrastructure...",
-    "guid": "https://www.phoronix.com/news/UALink-Series-2-Linux",
-    "date": "Aug 21, 2026 20:07",
-    "published_at": "2026-08-21T20:07:08Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "EPIC SBC packs Ryzen AI X100 with dual 2.5GbE and triple M.2",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366960",
-    "description": "IEI has detailed the NANO-X100, a compact EPIC single-board computer based on AMD’s Ryzen AI Embedded X100 Series. The 115 × 165mm board integrates 64GB of LPDDR5X memory, dual 2.5GbE networking, three M.2 expansion slots, four USB 3.2 ports, HDMI and DisplayPort outputs, and multiple serial interfaces for embedded and industrial applications. The preliminary specifications […]",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366960",
-    "date": "Aug 21, 2026 19:42",
-    "published_at": "2026-08-21T19:42:50Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Thunderbird 154 Released with System Tray Mode, Microsoft Graph Support, and Major Mail Fixes",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366957",
-    "description": "The Thunderbird team has officially released Thunderbird 154, delivering several useful new features alongside a substantial collection of fixes for email, calendars, address books, authentication, and stability... Thunderbird 154 is now the latest monthly release of the popular open-source email client.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366957",
-    "date": "Aug 21, 2026 18:11",
-    "published_at": "2026-08-21T18:11:20Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Linux 7.3 Lands Improvements For Voodoo 3 / 4 / 5 \u0026 Vintage Atari Computers In 2026",
-    "link": "https://www.phoronix.com/news/Linux-7.3-FBDEV",
-    "description": "At a time when Linux continues dropping older hardware drivers due to the influx of AI/LLM-generated bug reports and patches for hardware extremely unlikely to be used with modern versions of the mainline Linux kernel, Voodoo graphics cards and vintage Atari computers are seeing some reprieve with the upcoming Linux 7.3 kernel release...",
-    "guid": "https://www.phoronix.com/news/Linux-7.3-FBDEV",
-    "date": "Aug 21, 2026 17:53",
-    "published_at": "2026-08-21T17:53:28Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
   }
 ]
