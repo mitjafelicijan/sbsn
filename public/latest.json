@@ -1,5 +1,249 @@
 [
   {
+    "title": "dwproton-11.0-12 released to fix Wuthering Waves on SteamOS / Linux",
+    "link": "https://www.gamingonlinux.com/2026/08/dwproton-11-0-12-released-to-fix-wuthering-waves-on-steamos-linux/",
+    "description": "Wuthering Waves is another of those problematic Anime gacha games that likes to break, but dwproton-11.0-12 has released to keep it going on Linux / SteamOS.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/dwproton-11-0-12-released-to-fix-wuthering-waves-on-steamos-linux/",
+    "date": "Aug 24, 2026 12:24",
+    "published_at": "2026-08-24T12:24:19Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/23738536id29616gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "GNU Emacs 31.1 Released With Mouse Control Enabled By Default, Theme For New Users",
+    "link": "https://www.phoronix.com/news/GNU-Emacs-31.1-Released",
+    "description": "GNU Emacs 31.1 is out today as the newest feature release to this popular text editor...",
+    "guid": "https://www.phoronix.com/news/GNU-Emacs-31.1-Released",
+    "date": "Aug 24, 2026 11:55",
+    "published_at": "2026-08-24T11:55:01Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Ancient Dungeon adds Steam Frame support",
+    "link": "https://www.gamingonlinux.com/2026/08/ancient-dungeon-adds-steam-frame-support/",
+    "description": "The co-op dungeon crawler Ancient Dungeon had an update just before the weekend with some bug fixes - and now it supports Valve's Steam Frame.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/ancient-dungeon-adds-steam-frame-support/",
+    "date": "Aug 24, 2026 11:52",
+    "published_at": "2026-08-24T11:52:50Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/267910190id29615gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "After 50 Years, Physicists May Have Finally Found a Particle Made of Pure Force",
+    "link": "https://science.slashdot.org/story/26/08/24/0055233/after-50-years-physicists-may-have-finally-found-a-particle-made-of-pure-force?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Gluons are the quantum 'Gorilla Glue' involved in binding quarks together, ScienceAlert reminds us. But for nearly 50 years, physicists have hunted for \"glueballs\", exotic particles predicted by this theory of the strong interaction — the only type of particle in nature composed entirely of force mediators: \n\nNow, a collaboration working at a collider in Beijing says it has the clearest evidence yet that a known particle called X(2370) is dominated by one of these elusive states... Physicists sifted through the wreckage of high-energy particle collisions to find strong evidence of this glueball, made predominantly of gluons — massless force carriers of the strong interaction between quarks... The new evidence for this exotic, unstable glueball's ephemeral existence comes from a recent preprint on arXiv, presented at the International Conference on High Energy Physics in Brazil... This collaboration uses the Beijing Electron Positron Collider II, a particle accelerator and collider that smashes electrons into their antimatter counterparts, called positrons, to probe perplexing particle physics. \n\n\n The resultant glueball is an \"unprecedented form of matter,\" says Jin Shan, a particle physicist at Nanjing University and one of the research team's leaders. \"It not only enables the theory describing strong interactions to pass its most rigorous test, but also vastly expands the boundaries of our understanding of the physical world,\" he told Fan Chen at South China Morning Post... Previously, in a study published in the journal Physical Review Letters in 2024, the researchers analyzed 10 billion meson decay events. They measured the X(2370) particle's mass and spin parity — a property that dictates its interactions and almost-instantaneous decay — for the first time, finding complete agreement between their experimental values and predictions. Now, they've identified its additional decay modes and determined its flavor-singlet nature, \"the most important characteristic of a glueball....\" \n\nThe authors describe their work as the clearest experimental result to emerge from nearly 50 years of glueball searches, supporting the long-standing theoretical prediction that gluons can bind together into a new form of matter. \n\nThe discovery \"\"highlights advances in technology and analytical techniques that have recently revealed another decades-in-the-making physics mystery,\" the article points out. \n\n\"More experiments are needed to further confirm and constrain the prototypes of the highly esoteric glueball; in other words, more particle smashing.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Aug 24, 2026 11:34",
+    "published_at": "2026-08-24T11:34:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Low-cost 45mm NanoPi R28S offers dual GbE and Wi-Fi 6",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367016",
+    "description": "The NanoPi R28S is a compact networking-focused Linux board based on the Rockchip RK3528A from FriendlyELEC. The 45 × 45mm platform provides dual Gigabit Ethernet, Wi-Fi 6, Bluetooth 5.3, microSD storage, optional eMMC, and dual USB-C ports, with support for several Linux-based operating systems. The NanoPi R28S is powered by the Rockchip RK3528A, which integrates […]",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367016",
+    "date": "Aug 24, 2026 10:59",
+    "published_at": "2026-08-24T10:59:33Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "volt-gui is an AMD Adrenaline / NVIDIA Settings alternative for Linux",
+    "link": "https://www.gamingonlinux.com/2026/08/volt-gui-is-an-amd-adrenaline-nvidia-settings-alternative-for-linux/",
+    "description": "Coming from the developer of DXVK-Sarek that recently got updated is volt-gui, an alternative to AMD Adrenaline / NVIDIA Settings for Linux.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/volt-gui-is-an-amd-adrenaline-nvidia-settings-alternative-for-linux/",
+    "date": "Aug 24, 2026 10:57",
+    "published_at": "2026-08-24T10:57:25Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1152265980id29614gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "DXVK-Sarek 1.13.0 is a big release for older GPUs to play modern games on Linux",
+    "link": "https://www.gamingonlinux.com/2026/08/dxvk-sarek-1-13-0-is-a-big-release-for-older-gpus-to-play-modern-games-on-linux/",
+    "description": "DXVK-Sarek 1.13.0 has been released to bring more enhancements for gamers with older GPUs that don't support later Vulkan versions to keep on gaming on Linux.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/dxvk-sarek-1-13-0-is-a-big-release-for-older-gpus-to-play-modern-games-on-linux/",
+    "date": "Aug 24, 2026 10:44",
+    "published_at": "2026-08-24T10:44:56Z",
+    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/dxvk-sarek_gol2_f4bb675e.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "VKD3D 2.1 Released With New Features For Direct3D 12 In Upstream Wine",
+    "link": "https://www.phoronix.com/news/VKD3D-2.1-Released",
+    "description": "VKD3D 2.1 was released today by CodeWeavers' Henri Verbeet as the upstream Wine project for getting Direct3D 12 implemented over the Vulkan API...",
+    "guid": "https://www.phoronix.com/news/VKD3D-2.1-Released",
+    "date": "Aug 24, 2026 10:34",
+    "published_at": "2026-08-24T10:34:10Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Intel Engineers Propose DRM Fabric For Linux",
+    "link": "https://www.phoronix.com/news/DRM-Fabric-Proposal",
+    "description": "Coincidentally just days after AMD posted their big UALink patch series for Linux, Intel engineers today announced a proposal called DRM Fabric...",
+    "guid": "https://www.phoronix.com/news/DRM-Fabric-Proposal",
+    "date": "Aug 24, 2026 10:26",
+    "published_at": "2026-08-24T10:26:22Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Linux 7.3 Adds Support For Several Newer RISC-V Extensions",
+    "link": "https://www.phoronix.com/news/Linux-7.3-RISC-V",
+    "description": "With the in-development Linux 7.3 is support for discovering and enumerating support for several newer RISC-V ISA extensions. Plus there are improvements to its control flow integrity Shadow Stack handling, CPU context switch support for QoS tagging, using UEFI runtime services for restart and powering off, and other improvements...",
+    "guid": "https://www.phoronix.com/news/Linux-7.3-RISC-V",
+    "date": "Aug 24, 2026 10:12",
+    "published_at": "2026-08-24T10:12:56Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "How to Fish is another brilliantly funny online co-op game",
+    "link": "https://www.gamingonlinux.com/2026/08/how-to-fish-is-another-brilliantly-funny-online-co-op-game/",
+    "description": "How to Fish is another sudden indie sensation that released recently on Steam, bringing friends together to do some completely ridiculous fishing.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/how-to-fish-is-another-brilliantly-funny-online-co-op-game/",
+    "date": "Aug 24, 2026 10:01",
+    "published_at": "2026-08-24T10:01:53Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1906246906id29612gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "AMD k10temp Driver Adds EPYC Zen 5 Per-CCD Temperature Monitoring With Linux 7.3",
+    "link": "https://www.phoronix.com/news/Linux-7.3-HWMON",
+    "description": "Merged last week for the Linux 7.3 kernel were all the hardware monitoring (HWMON) driver updates for Linux 7.3, which included supporting several more ASUS desktop motherboards, a few AIO liquid cooling products, more Lenovo system support, and per-CCD temperature monitoring on AMD EPYC 9005 server processors...",
+    "guid": "https://www.phoronix.com/news/Linux-7.3-HWMON",
+    "date": "Aug 24, 2026 09:56",
+    "published_at": "2026-08-24T09:56:08Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Paradox Interactive to publish survival-crafting creature collector adventure 'Guardians of the Wild Sky'",
+    "link": "https://www.gamingonlinux.com/2026/08/paradox-interactive-to-publish-survival-crafting-creature-collector-adventure-guardians-of-the-wild-sky/",
+    "description": "Arriving sometime in 2027, Paradox Interactive with their publishing arm Paradox Arc revealed Guardians of the Wild Sky.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/paradox-interactive-to-publish-survival-crafting-creature-collector-adventure-guardians-of-the-wild-sky/",
+    "date": "Aug 24, 2026 09:34",
+    "published_at": "2026-08-24T09:34:44Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/459890541id29611gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Mushroom-munching dungeon-crawling deck-builder 'Shroom and Gloom' arrives September 10",
+    "link": "https://www.gamingonlinux.com/2026/08/mushroom-munching-dungeon-crawling-deck-builder-shroom-and-gloom-arrives-september-10/",
+    "description": "Fight and eat your enemies in the hand-drawn mushroom-munching dungeon-crawling deck-builder 'Shroom and Gloom' when it arrives September 10th.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/mushroom-munching-dungeon-crawling-deck-builder-shroom-and-gloom-arrives-september-10/",
+    "date": "Aug 24, 2026 09:19",
+    "published_at": "2026-08-24T09:19:55Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/574426534id29610gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "1992 Amiga shoot 'em up classic remake Apidya' Special arrives August 25",
+    "link": "https://www.gamingonlinux.com/2026/08/1992-amiga-shoot-em-up-classic-remake-apidya-special-arrives-august-25/",
+    "description": "Chock full of glorious 16-bit pixel action and really does bring you back to the feel of gaming in the 90s, Apidya' Special arrives today.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/1992-amiga-shoot-em-up-classic-remake-apidya-special-arrives-august-25/",
+    "date": "Aug 24, 2026 09:15",
+    "published_at": "2026-08-24T09:15:00Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/326356766id29609gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Tails of Iron 2: Whiskers of Winter brings game crossovers in a free expansion",
+    "link": "https://www.gamingonlinux.com/2026/08/tails-of-iron-2-whiskers-of-winter-brings-game-crossovers-in-a-free-expansion/",
+    "description": "Tails of Iron 2: Whiskers of Winter has a brand new free expansion out new with a whole bunch of new content along with a few fun game crossovers.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/tails-of-iron-2-whiskers-of-winter-brings-game-crossovers-in-a-free-expansion/",
+    "date": "Aug 24, 2026 09:01",
+    "published_at": "2026-08-24T09:01:34Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/273594306id29608gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Unraid 8 NAS to Drop Slackware for Fedora-Based uCore",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367004",
+    "description": "The upcoming Unraid 8 release will switch from Slackware to Fedora-based uCore while introducing integrated backups, Docker Compose, and more.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367004",
+    "date": "Aug 24, 2026 07:56",
+    "published_at": "2026-08-24T07:56:34Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "SCO Successor Xinuos Asks Court to Rehear Its Claims Against IBM/Red Hat Over Project Monterey",
+    "link": "https://linux.slashdot.org/story/26/08/24/037241/sco-successor-xinuos-asks-court-to-rehear-its-claims-against-ibmred-hat-over-project-monterey?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "The long legal battle over ownership of Linux \"is closer than ever to ending,\" reports the Register, \"after a panel of three judges ruled a claim against IBM and Red Hat isn't valid, and that time has expired for further action.\"\n\n\n\nIn 2021, an heir to SCO settled with IBM for $14.25 million — a sum that reflects the fact SCO had for years failed to produce strong evidence to back its claims. Another of SCO's legal successors, Xinuos, filed a new claim that IBM should be on the hook because Big Blue knew it did not own the code it contributed to Linux but instead had a non-exclusive license to use it. Xinuos argued that when IBM contributed Project Monterey code to Linux [25 years ago], it breached that license. \n\nXinuos eventually took that argument to the US District Court for the Southern District of New York — and failed to convince it that IBM and Red Hat had a case to answer. Xinuos appealed, and on August 10th the United States Court of Appeals for the Second Circuit decided [PDF] not to revisit the District Court's decision, agreeing that the original legalese governing Project Monterey means it's too late to re-litigate the matter. The Appeals Court also agreed that Xinuos tried to frame the case as a licensing issue but failed, instead arguing that the issue was really about ownership. \nThat ain't all, folks, because Xinuos intends to file a petition to have the case re-heard by the full bench of the Court of Appeals. That hardly ever happens, unless the court finds significant errors or major legal issues that make a rehearing worthwhile. Law firm Kaplan says the Second Circuit has allowed reviews of less than 0.03 percent of the cases it has handled. So perhaps this matter is now close to a final resolution. \n\nBack in 2000 Slashdot interviewed one of the presidents of SCO.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Aug 24, 2026 07:34",
+    "published_at": "2026-08-24T07:34:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "TeamSpeak Will Let You Call Your Friends Directly",
+    "link": "https://feed.itsfoss.com/link/24361/17427222/teamspeak-direct-calls-teased",
+    "description": "The feature is in alpha testing now and is set to bring 4K screensharing and picture-in-picture support.",
+    "guid": "6a882fd1352785000115681e",
+    "date": "Aug 24, 2026 07:04",
+    "published_at": "2026-08-24T07:04:25Z",
+    "image": "https://itsfoss.com/content/images/2026/08/teamspeak-direct-calls-banner.png",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "DietPi v10.6 Adds Orange Pi and Odroid Images",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367015",
+    "description": "The August 2026 release of DietPi v10.6 expands hardware support with new images for the Orange Pi 4 Pro, Orange Pi Zero 3W, and several Odroid boards. The update also improves DietPi-Banner functionality, adds RISC-V support for the Kubo IPFS Node package, and addresses stability and configuration issues across multiple platforms. DietPi: DietPi is a […]",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367015",
+    "date": "Aug 24, 2026 04:53",
+    "published_at": "2026-08-24T04:53:35Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "One-Third of Web Pages are Now Written With AI, Says Pew Research",
+    "link": "https://slashdot.org/story/26/08/24/0359209/one-third-of-web-pages-are-now-written-with-ai-says-pew-research?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "A Pew Research senior data scientist analyzed 500,000 English-language webpages from the past five years with an AI detection tool to estimate how many were likely written or edited by AI: \n\n\n\n\nOf all the pages in this sample, 10% show significant signs of AI authorship... If we filter old webpages out of our samples and look at only the pages published after the release of ChatGPT, the trend is even more pronounced. In the July 2026 snapshot, signs of AI authorship can be found in over one-third of pages published after ChatGPT was released. This is in line with other studies that have shown that large shares of recently published pages on the internet were likely written or substantially edited by AI. \n\nAI-authored text is not evenly spread across the web. When ChatGPT was first released, the kinds of linguistic patterns that can signal AI authorship appeared at similar rates across the main top-level web domains (.com, .org, .edu and .gov). But in samples from 2026, around one-in-ten pages with a .com domain show signs of AI authorship — about double the share on .org domains (4.6%), and 10 times the rate on .edu or .gov domains (both around 1%). \n\n They even identified specific ways online text has changed, \"comparing the internet of today to a snapshot from 2023.\"\n\n Em dashes appear twice as often\n Oxford commas increased 63%.\n Words used more frequently by AI (like \"delve,\" \"interplay\" or \"testament\") have more than doubled in usage.\n \"Negative parallelism\" comparisons (\"it's not just X, it's Y\") have nearly tripled.\n\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Aug 24, 2026 04:34",
+    "published_at": "2026-08-24T04:34:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Linuxiac Weekly Wrap-Up: Week 34, 2026 (August 17 – 23)",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367014",
+    "description": "Catch up on the latest Linux news: kernel 7.2, AerynOS August update, Bazzite 44, COSMIC Desktop 1.6, VirtualBox 7.2.16, Firefox 154, and more.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367014",
+    "date": "Aug 24, 2026 03:22",
+    "published_at": "2026-08-24T03:22:06Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Could Mecha Comet's Linux PC-Phone Hybrid Be the Future of Linux Smartphones?",
+    "link": "https://linux.slashdot.org/story/26/08/24/0228216/could-mecha-comets-linux-pc-phone-hybrid-be-the-future-of-linux-smartphones?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "3,346 backers pledged $1,198,844 on Kickstarter to build the (modular) handheld Linux computer, the Mecha Comet. It's slightly bigger and heavier than your smartphone, with a 4-inch AMOLED display and loaded up with things like microphones, speakers, a SIM tray, two USB ports and a mini HDMI port. There's three separate kill switches for wifi, microphone and camera — plus a \"boot mode\" switch for the SD card, and even three pins for instant access to its debug console.\n\n \nIt's now expected to ship in October or November (and is still available for preorder). \n\nSnap-in extensions include a keyboard (with programmable colors for its backlit keys), a gamepad, and a special IO Breakout that exposes the 40 pogo pins for modules, sensors, and MCUs. They're all open hardware, and founder Shoaib Merchant says \"I'm looking forward to more community designs over the upcoming months.\" He shows the screen in action in a video on Kickstarter, demonstrating native apps like Music, Notes, Settings, and Files — as well as a Terminal app running on its color screen. \n\nA Linux correspondent at How-To Geek notes its ships \"with a custom, hardware-optimized Linux distro out of the box,\" so \"it's like having a dedicated Linux terminal in your pocket.\" And they argue the new device\n\"could be the future of Linux smartphones.\"\n\n I should also mention that you don't necessarily have to use the battery; it can power on over USB PD without one. Overall, you're getting the same I/O you'd expect from a computer in a smartphone-like form factor, complete with modular input devices — and it's running Linux under the hood. For me, that's the most innovative gadget I've seen in the Linux hardware space in a long time... \nIt's powerful enough to run most Linux terminal apps, which opens up a lot of possibilities. You're also getting an NPU built right into the SoC, which opens up the possibility for on-device AI workflows — something not possible in budget smartphones. Now, I personally plan to use it for SSHing into my main computer and home lab and operating them remotely. That's also why I'll be putting the LTE modem in the M.2 slot rather than an SSD — mobile data means I can reach my machines even when there's no Wi-Fi around. \n\nI also showed it to my partner, and she sees this as the ideal minimalist phone for digital detoxing. There's a built-in media player, a basic notes app, and you can even run Spotify from the terminal if you want.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Aug 24, 2026 02:31",
+    "published_at": "2026-08-24T02:31:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
     "title": "Linux 7.3 Improving RAID 5/6 Benchmark-Based Algorithm Selection",
     "link": "https://www.phoronix.com/news/Linux-7.3-XOR-RAID6-Benchmark",
     "description": "Following the main set of memory management \"MM\" changes submitted for Linux 7.3, Andrew Morton sent in his \"non-MM\" pull request of the other patches he's been collecting from various developers for this next Linux kernel release. Standing out there were some improvements to the RAID 5/6 benchmark-based algorithm selection...",
@@ -27,6 +271,16 @@
     "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367010",
     "date": "Aug 23, 2026 23:52",
     "published_at": "2026-08-23T23:52:39Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "eCryptfs Sees Fixes For Potential Malicious Intent, Some Dating Back To Its 2006 Debut",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367002",
+    "description": "The eCryptfs stacked cryptographic filesystem implementation for the Linux kernel to transparently encrypt files saw a number of bug fixes for the Linux 7.3 kernel. A number of these bug fixes deal with potential maliciously-crafted data and vulnerable going back to the 2006 introduction of eCryptfs as this option known for its use on Ubuntu home directory encryption and Chrome OS...",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367002",
+    "date": "Aug 23, 2026 22:21",
+    "published_at": "2026-08-23T22:21:10Z",
     "source": "lxer.com",
     "source_url": "https://lxer.com/"
   },
@@ -250,119 +504,5 @@
     "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
     "source": "slashdot.org",
     "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Microsoft Blames Windows Gaming Issues On RGB Lighting Devices",
-    "link": "https://tech.slashdot.org/story/26/08/23/0046217/microsoft-blames-windows-gaming-issues-on-rgb-lighting-devices?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "BleepingComputer reports:\n\n\nMicrosoft says ongoing issues causing games to crash or fail to launch after installing the August 2026 Windows updates may be caused by peripherals with RGB lighting. \n\nAs Microsoft explained when it confirmed it's investigating on Wednesday, this known issue affects games like ARC Raiders, MARVEL Tokon: Fighting Souls, and The Finals on systems running Windows 11 24H2 and 25H2... \"[Peripherals or internal device components with RGB lighting features] may install drivers or code components with file names similar to inpoutx64. In systems where these drivers are found, the issue is then triggered by launching certain games,\" it noted.\n\n \n\nThanks to Slashdot reader joshuark for sharing the article.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Aug 23, 2026 02:29",
-    "published_at": "2026-08-23T02:29:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Fedora Badges Revamp Project: From The Ground Up",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366914",
-    "description": "After years of technical research and foundational work, the Fedora Badges application service has been rebuilt from the ground up, and it is heading to production. Whether you have been collecting badges for years or you are brand new to the Fedora Project community, here is what is waiting for you there. Completely modernized user interface The archaic server rendered pages are now gone. The Fedora Badges application service […]",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366914",
-    "date": "Aug 23, 2026 01:01",
-    "published_at": "2026-08-23T01:01:48Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Longtime Linux CIFS/SMB3 Maintainer Passes Away",
-    "link": "https://www.phoronix.com/news/SMB3-CIFS-Maintainer-Change",
-    "description": "There is a changing of the guard with Linux 7.3 as the maintainer of the Common Internet File System (CIFS) / SMB3 code within the Linux kernel. Longtime maintainer, principal Linux CIFS author, and current Microsoft employee Steve French has stepped down due to health reasons...",
-    "guid": "https://www.phoronix.com/news/SMB3-CIFS-Maintainer-Change",
-    "date": "Aug 23, 2026 00:31",
-    "published_at": "2026-08-23T00:31:41Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Battery Fires At Recycling Centres Are Costing the UK £1bn a Year",
-    "link": "https://hardware.slashdot.org/story/26/08/23/0027208/battery-fires-at-recycling-centres-are-costing-the-uk-1bn-a-year?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Wrongly discarded lithium batteries, such as those in vapes, are causing more than 10 fires a week at U.K. recycling centers, according to figures shared with the Guardian:\n\nThe Environment Services Association (ESA), the trade body for waste management companies, said its members had reported 1,518 fires in the year to March 2026. At least 541 of these fires were directly attributed to lithium ion batteries, the survey found. There were a further 216 battery fires in bin lorries [garbage trucks]. The ESA said the reported number of battery-related fires underestimated the scale of the problem, because in most incidents it was impossible to determine the cause of the blaze. A spokesperson said: \"We know 40% of fires at recycling centres are caused by batteries, but we think the actual number is more like 70%.\" \n\nIt estimates that annual cost of these fires has increased from £150m in 2021 to £1bn today...\nThe ESA is calling for a £5 deposit scheme on the sale of all vapes to ensure that vape users have an incentive to return used devices to retailers for safe disposal... [Patrick Brighty, the head of recycling policy at the ESA, said] \"Vapes are among the biggest culprits because they're cheap, abundant and typically have a short use-life.\"\n\n\n \n\nThanks to long-time Slashdot reader AmiMoJo for sharing the news.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Aug 23, 2026 00:29",
-    "published_at": "2026-08-23T00:29:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "eCryptfs Sees Fixes For Potential Malicious Intent, Some Dating Back To Its 2006 Debut",
-    "link": "https://www.phoronix.com/news/Linux-7.3-eCryptfs",
-    "description": "The eCryptfs stacked cryptographic filesystem implementation for the Linux kernel to transparently encrypt files saw a number of bug fixes for the Linux 7.3 kernel. A number of these bug fixes deal with potential maliciously-crafted data and vulnerable going back to the 2006 introduction of eCryptfs as this option known for its use on Ubuntu home directory encryption and Chrome OS...",
-    "guid": "https://www.phoronix.com/news/Linux-7.3-eCryptfs",
-    "date": "Aug 23, 2026 00:24",
-    "published_at": "2026-08-23T00:24:17Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Godot 4.7.2 Open-Source Game Engine Released with 57 Bug Fixes",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367001",
-    "description": "Godot 4.7.2 is now available with 57 fixes covering the editor, rendering, Wayland, multiplayer, input handling, and more.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367001",
-    "date": "Aug 22, 2026 23:30",
-    "published_at": "2026-08-22T23:30:18Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "How Will AI Change the Field of Mathematics?",
-    "link": "https://science.slashdot.org/story/26/08/22/2235244/how-will-ai-change-the-field-of-mathematics?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "\"AI went from being very terrible to seemingly genuinely quite good at a professional level in a very short space of time...\" says the Verge's AI reporter.\n\nBut AI systems \"are still truly, truly terrible at some areas of math... even the days of the week.\"\n\nIf you look at academic math papers, a lot of the time you won't see numbers... So they're still terrible, but they're now also very good at this other part. As to why, at some point you reach a critical mass of what these systems can do. We saw it with writing, we've seen it with programming. They're very good at forging connections between different areas, applying old methods in new ways, those kinds of things. It appears that the newer models they're training have apparently reached that level where it clicks, and now it can do math... \n\nThere are areas now where it seems to be producing work that is on par with good mathematicians, alongside other parts where yeah, it can't count. All caught up in that is whether it's going to rewrite employment structures or funding structures... One would hope [math researchers] would branch out into all of these new exciting areas or pose new questions. But AI won't do that, and that's the concern. And then that would leave the field quite sterile, and it will have all of these things that have been done, and maybe nothing left to pursue... [A] lot are scared that it's closing off the field. So by definition, those breakthroughs that lead to something surprising and new that you can say, \"Oh, this works here,\" may not be happening anymore... \n\nThere were some bleak responses from graduate students I saw in essays posted online. Where's their place in this as future researchers? Do they have a place in this? Is it as glorified AI proof checkers? That will be quite an unsatisfying career, I imagine. Or maybe not, I don't know. We will see. I think anything used properly will be a net boon. \n\nThey also had an interesting response when asked if AI democratizes access to high-level mathematical proofs:\n\nA lot of the mathematicians I spoke to were almost quite weary of this, actually. They love the idea, in theory, of democratizing access. They're also quite fed up with AI-generated or -assisted papers that are flooding every publication imaginable, as well as the pre-print servers that they use in these fields. Some of those I spoke to said things like, \"Oh, I got three emails this week alone with people being like, 'Hey, is this legit?'\" Because they thought they'd solved something with ChatGPT or with Claude, and they also don't have the mathematical skills to check whether they've actually solved something. \nOn the flip side, there are parts where they said, \"Well, we've got a talented undergrad who's done something that a talented undergrad would probably have never managed, and here they are doing grad-level work and they've produced a paper that is legit.\" And in the bigger scheme of things, a few I spoke to said, \"Well yeah, a lot of these are in the ivory tower. Having access to this kind of thing globally could really boost access to the kind of things here.\" On the flip side, the cost. These things cost a lot to run.\n\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Aug 22, 2026 22:39",
-    "published_at": "2026-08-22T22:39:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Rush Rescue Mission for NASA's $500M Space Telescope Fails",
-    "link": "https://science.slashdot.org/story/26/08/22/1844225/rush-rescue-mission-for-nasas-500m-space-telescope-fails?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Remember that rush rescue mission for NASA's $500M space telescope? It failed, reports CNN, and the LINK satellite won't be able to boost the telescope's orbit. NASA says its decades-old Swift telescope will now continue losing altitude, until it reaches Earth's atmosphere later this year and burns up. \n\nCNN reports:\n\n\n\nJust weeks after LINK lifted off on July 3, it started to spin out of control. [Satellite designer] Katalyst was able to regain control of the satellite, but the company acknowledged that the issue cost it time, which would delay LINK's rendezvous with Swift by about a month. However, that postponement — at least initially — did not seem to be a deterrent to the mission. Now, NASA and Katalyst have announced that LINK's mission will not capture and boost Swift to a higher orbit \"due to ongoing attitude control issues,\" according to statements Wednesday. \n\n\"NASA should be willing to move quickly and take smart risks when the potential return is worth it, and that is exactly what we did with this mission,\" NASA Administrator Jared Isaacman said in a statement. \"This is not the outcome we were working toward, but it does not change why this mission was worth attempting. The team moved with extraordinary speed to give Swift a chance to carry out more science while advancing capabilities America will need for satellite servicing in the future....\" \n\nThe mission team is forging ahead with its plan for LINK to rendezvous with Swift — but as a demonstration rather than a rescue. \"We are going to learn everything we can from LINK's rendezvous attempt and put those lessons to work on the missions that follow,\" Isaacman said... Swift wasn't designed to be serviced in space, which means that insights from the demonstration could be used for future missions... \"We have already learned a tremendous amount,\" [said Ghonhee Lee, CEO of Katalyst Space Technologies], \"and now our job is to turn those lessons into something durable — building a repeatable playbook to inform future rendezvous and proximity operations and satellite servicing.\"\n\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Aug 22, 2026 21:00",
-    "published_at": "2026-08-22T21:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Redox OS Switches To EEVDF-Based Scheduler For 2.6x Throughput",
-    "link": "https://www.phoronix.com/news/Redox-OS-Goes-EEVDF",
-    "description": "The Rust-written, from-scratch Redox OS operating system has switched to using an EEVDF based scheduler design. In doing so they are promoting a 2.6x increase in throughput and a 782x improvement in fairness...",
-    "guid": "https://www.phoronix.com/news/Redox-OS-Goes-EEVDF",
-    "date": "Aug 22, 2026 19:42",
-    "published_at": "2026-08-22T19:42:00Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Apple HFS / HFS+ File-System Support Continues Seeing Fixes With Linux 7.3",
-    "link": "https://www.phoronix.com/news/Apple-HFS-Linux-7.3",
-    "description": "In early 2025 it was being discussed to potentially drop the HFS and HFS+ file-system support with the code having been orphaned over a decade and becoming a maintenance burden. But that dismal outlook quickly turned around with some developers stepping up to maintain the old Apple file-system support. Over a year later, fortunately, it's turned out to be a success story with more HFS/HFS+ file-system fixes continuing to work their way into the mainline Linux kernel...",
-    "guid": "https://www.phoronix.com/news/Apple-HFS-Linux-7.3",
-    "date": "Aug 22, 2026 19:01",
-    "published_at": "2026-08-22T19:01:47Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "KDE Plasma 6.8 to Make Auto-Hide Panels 10x Faster",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=366993",
-    "description": "KDE developers continue shaping Plasma 6.8 with smarter automatic brightness, faster panels, improved lock screen authentication, and performance gains.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=366993",
-    "date": "Aug 22, 2026 17:20",
-    "published_at": "2026-08-22T17:20:03Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
   }
 ]
