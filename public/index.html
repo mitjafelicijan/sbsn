@@ -470,6 +470,260 @@
             <div class="grid">
                 
                 <article>
+                    <h2><a href="https://www.tomshardware.com/software/linux/linux-was-announced-by-linus-torvalds-35-years-ago-today-humble-os-started-with-10-000-lines-of-code-but-has-now-grown-to-40-million-dominates-global-infrastructure" target="_blank"> Linux was announced by Linus Torvalds 35 years ago today — humble OS started with 10,000 lines of code but has now grown to 40 million, dominates global infrastructure </a></h2>
+                    <div class="meta">
+                        Aug 25, 2026 12:28 | 
+                        Source: <a href="https://www.tomshardware.com/software/operating-systems/linux" target="_blank">tomshardware.com</a>
+                    </div>
+                    
+                    <img src="https://cdn.mos.cms.futurecdn.net/Xd4pf4f9ejwiifZLQFFW8A-1280-80.jpg">
+                    
+                    <p> The development of Linux, a free ‘hobby’ operating system, was announced by Linus Torvalds 35 years ago today. </p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://www.phoronix.com/news/Linux-7.3-Device-Mapper" target="_blank">Linux 7.3 Device Mapper Sees Many Fixes, Including Code Cleanups By Claude Opus</a></h2>
+                    <div class="meta">
+                        Aug 25, 2026 12:22 | 
+                        Source: <a href="https://www.phoronix.com/" target="_blank">phoronix.com</a>
+                    </div>
+                    
+                    <p>The Linux Device Mapper &#34;DKM&#34; framework for mapping block devices to higher-level virtual block devices doesn&#39;t see any major new features for Linux 7.3 but there are many bug fixes, including code clean-ups carried out by AI...</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://it.slashdot.org/story/26/08/25/062246/windows-backdoor-sleepwalker-hides-in-memory-until-activated-by-a-magic-packet?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" target="_blank">Windows Backdoor &#39;Sleepwalker&#39; Hides in Memory Until Activated by a &#39;Magic Packet&#39;</a></h2>
+                    <div class="meta">
+                        Aug 25, 2026 11:00 | 
+                        Source: <a href="https://slashdot.org/" target="_blank">slashdot.org</a>
+                    </div>
+                    
+                    <img src="https://a.fsdn.com/sd/twitter_icon_large.png">
+                    
+                    <p>&#34;The Register has a story about a Windows backdoor that waits silently in memory for a &#39;magic packet&#39; before springing into action,&#34; writes Slashdot reader fred133. &#34;No outgoing traffic, just waiting...&#34; From the report: Like a sleeper cell awaiting activation, a never-before-seen Windows backdoor dubbed Sleepwalker waits silently in memory for one specifically crafted network packet to wake it up and deliver commands using the malware&#39;s 23-instruction language. The commands can do everything from running code directly in memory to moving data off the computer. Malware researcher Dominik Reichel discovered the passive backdoor, which also has its own command language, and detailed Sleepwalker in a technical analysis on Monday. &#34;What makes it worth writing up is what that packet carries: not a readable command, but a short program written in a command language of the backdoor&#39;s own design,&#34; Reichel said. &#34;Its 23 instructions cover scheduling, several ways to move data, staged file delivery and running code directly in memory. Recovering the encryption key is not enough to understand one of these programs. The internal command language must be reverse engineered as well.&#34;
+ 
+In addition to having its own command language, it&#39;s also notable that the remote host can be a VMware VMCI target instead of a normal network address. &#34;Taken as a whole, the approach here is consistent with a targeted, well-resourced operation rather than an opportunistic one,&#34; Reichel wrote. The malware, hidden inside a 64-bit Windows DLL file, impersonates Microsoft&#39;s dpapi.dll, part of Windows&#39; data protection API for protecting sensitive data. It exports the same seven functions as the real dpapi.dll, but attempts to forward calls to a file named dpapisvc.dll, which is not a real Windows component. The file also has a forged ESET Management Agent version resource, and loads via side-loading into ERAAgent.exe, the Windows executable for ESET Management Agent. After confirming that its host process is named ERAAgent.exe, Sleepwalker goes to sleep inside the computer&#39;s memory, which also helps it remain hidden from traditional anti-virus tools.
+ 
+Unlike most backdoors, which call back to an attacker-controlled command-and-control (C2) server and start receiving commands, Sleepwalker lies in wait, checking every packet that passes through the network looking for a specific pattern - this is called a magic packet. Once it sniffs out a packet that matches the exact pattern, the backdoor decrypts the data and treats it as a command. &#34;Because the backdoor never sends anything out on its own and does not open any obvious listening port by default, tools that watch for connections to known-bad domains or unusual outbound traffic will not see anything unusual,&#34; Reichel wrote. &#34;The absence of outbound connections to known-bad infrastructure does not rule out an infection, either. A machine can be fully compromised by this backdoor while producing nothing at all for a network monitor to flag.&#34;
+
+
+
+
+
+Read more of this story at Slashdot.</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://www.tomshardware.com/software/windows/windows-veterans-vibe-coded-task-manager-now-also-runs-on-mac-and-linux-downloadable-app-is-the-result-of-a-107-page-spec-fed-to-claude-code" target="_blank"> Windows veteran&#39;s vibe-coded Task Manager now also runs on Mac and Linux — downloadable app is the result of a 107-page spec fed to Claude Code </a></h2>
+                    <div class="meta">
+                        Aug 25, 2026 10:30 | 
+                        Source: <a href="https://www.tomshardware.com/software/operating-systems/linux" target="_blank">tomshardware.com</a>
+                    </div>
+                    
+                    <img src="https://cdn.mos.cms.futurecdn.net/7ndgbD4kf8HpWSzWyLQHKW-1280-80.jpg">
+                    
+                    <p> Legendary Windows developer Dave Plummer has been busy finessing his revamped Task Manager, now dubbed TMOG. </p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://www.phoronix.com/news/Intel-DP-2.1-ALPM-v5" target="_blank">DisplayPort 2.1 ALPM Still Being Worked On For Intel Xe3P / Nova Lake</a></h2>
+                    <div class="meta">
+                        Aug 25, 2026 10:25 | 
+                        Source: <a href="https://www.phoronix.com/" target="_blank">phoronix.com</a>
+                    </div>
+                    
+                    <p>The in-development Linux 7.3 kernel is marking Nova Lake Xe3P graphics as stable in being enabled by default and no longer hidden behind the &#34;force probe&#34; flag. While on-by-default, there still are some features that have yet to land like the DisplayPort 2.1 ALPM functionality...</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://lxer.com/module/newswire/ext_link.php?rid=367032" target="_blank">Ardour 9.8 DAW Released with Initial Scales Support, Better Recording Recovery</a></h2>
+                    <div class="meta">
+                        Aug 25, 2026 10:11 | 
+                        Source: <a href="https://lxer.com/" target="_blank">lxer.com</a>
+                    </div>
+                    
+                    <p>Ardour 9.8 DAW is out with initial keys and scales support, improved recording recovery after crashes, clip recording enhancements, and more.</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://www.gamingonlinux.com/2026/08/true-classic-snes-jrpg-terranigma-comes-to-pc-in-early-2027/" target="_blank">True classic SNES JRPG &#39;Terranigma&#39; comes to PC in early 2027</a></h2>
+                    <div class="meta">
+                        Aug 25, 2026 10:08 | 
+                        Source: <a href="https://www.gamingonlinux.com/" target="_blank">gamingonlinux.com</a>
+                    </div>
+                    
+                    <img src="https://www.gamingonlinux.com/uploads/articles/tagline_images/1698217834id29623gol.webp">
+                    
+                    <p>Much loved back in the 90s, the classic JRPG Terranigma is making a full return and this time with a PC release being confirmed right away.Read the full article on GamingOnLinux.</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://www.phoronix.com/news/Plasma-68-Better-Remote-Desktop" target="_blank">KDE Remote Desktop Experience Improving For Closing The X11 vs. Wayland Gap</a></h2>
+                    <div class="meta">
+                        Aug 25, 2026 10:00 | 
+                        Source: <a href="https://www.phoronix.com/" target="_blank">phoronix.com</a>
+                    </div>
+                    
+                    <p>KDE developer David Edmundson is out today with a blog post around improvements that have been ongoing for the Plasma 6.8 release in improving the KDE remote desktop experience. As part of ensuring a good Wayland experience and hitting all the needs fulfilled by X11, Plasma 6.8 is seeing improvements for its remote desktop functionality...</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://www.tomshardware.com/software/linux/decades-long-linux-ownership-dispute-effectively-dead-after-xinuos-appeal-rejected-us-court-of-appeals-halts-the-legal-wrangling-over-ibms-and-red-hats-use-of-project-monterey-unix-code" target="_blank"> Decades-long Linux ownership dispute effectively dead after Xinuos appeal rejected — US Court of Appeals halts the legal wrangling over IBM’s and Red Hat’s use of Project Monterey UNIX code </a></h2>
+                    <div class="meta">
+                        Aug 25, 2026 10:00 | 
+                        Source: <a href="https://www.tomshardware.com/software/operating-systems/linux" target="_blank">tomshardware.com</a>
+                    </div>
+                    
+                    <img src="https://cdn.mos.cms.futurecdn.net/Dny84DUN8dLTj7B9TUQBEB-1280-80.jpg">
+                    
+                    <p> A decades-long dispute over the ownership of Linux looks like it is over. Earlier this month the United States Court of Appeals for the Second Circuit rejected Xinuos’ continued claims that IBM and Red Hat improperly contributed jointly‑developed Project Monterey UNIX code to Linux. </p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://www.phoronix.com/news/Linux-7.3-Sound" target="_blank">Lots Of New Audio Hardware Support In Linux 7.3</a></h2>
+                    <div class="meta">
+                        Aug 25, 2026 09:51 | 
+                        Source: <a href="https://www.phoronix.com/" target="_blank">phoronix.com</a>
+                    </div>
+                    
+                    <p>Linux sound subsystem maintainer Takashi Iwai of SUSE submitted all of the sound feature updates last week for the Linux 7.3 kernel. Besides the continued AI/LLM-generated patch churn, the sound code for Linux 7.3 sees a lot of new hardware support...</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://feed.itsfoss.com/link/24361/17428059/openterface-keymod-crowdfunding-campaign" target="_blank">This Tiny USB Device Turns Your Phone Into a Keyboard, Mouse, and SSH Terminal</a></h2>
+                    <div class="meta">
+                        Aug 25, 2026 09:44 | 
+                        Source: <a href="https://itsfoss.com/" target="_blank">itsfoss.com</a>
+                    </div>
+                    
+                    <img src="https://itsfoss.com/content/images/2026/08/keycmd.webp">
+                    
+                    <p>The $42 open source dongle gives you BIOS-level keyboard and mouse control plus SSH access. No software installation is needed on the target machine.</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://www.gamingonlinux.com/2026/08/w4-games-the-company-formed-by-godot-engine-veterans-gets-help-and-funding-from-tencent/" target="_blank">W4 Games, the company formed by Godot Engine veterans, gets help and funding from Tencent</a></h2>
+                    <div class="meta">
+                        Aug 25, 2026 09:17 | 
+                        Source: <a href="https://www.gamingonlinux.com/" target="_blank">gamingonlinux.com</a>
+                    </div>
+                    
+                    <img src="https://www.gamingonlinux.com/uploads/tagline_gallery/godot.jpg">
+                    
+                    <p>With an extra $18 million raised, W4 Games plan to continue to expand their enterprise technology and support for the open-source Godot Engine.Read the full article on GamingOnLinux.</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://www.gamingonlinux.com/2026/08/cult-classic-horror-point-and-click-adventure-sanitarium-returns-as-sanitarium-enhanced/" target="_blank">Cult-classic horror point-and-click adventure Sanitarium returns as Sanitarium Enhanced</a></h2>
+                    <div class="meta">
+                        Aug 25, 2026 08:58 | 
+                        Source: <a href="https://www.gamingonlinux.com/" target="_blank">gamingonlinux.com</a>
+                    </div>
+                    
+                    <img src="https://www.gamingonlinux.com/uploads/articles/tagline_images/1915146317id29621gol.webp">
+                    
+                    <p>Sanitarium Enhanced is a modernized and improved edition of the cult-classic psychological horror adventure Sanitarium, originally released in 1998.Read the full article on GamingOnLinux.</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://www.gamingonlinux.com/2026/08/bazzite-44-getting-a-hotfix-for-various-issues-after-the-recent-big-release/" target="_blank">Bazzite 44 getting a hotfix for various issues after the recent big release</a></h2>
+                    <div class="meta">
+                        Aug 25, 2026 08:47 | 
+                        Source: <a href="https://www.gamingonlinux.com/" target="_blank">gamingonlinux.com</a>
+                    </div>
+                    
+                    <img src="https://www.gamingonlinux.com/uploads/tagline_gallery/bazzite.jpg">
+                    
+                    <p>The Bazzite Deck 44 release for handhelds and TV PCs was a huge change for the popular gaming focused version of Linux, which sadly came with lots of issues.Read the full article on GamingOnLinux.</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://www.gamingonlinux.com/2026/08/valve-updated-a-bunch-of-their-older-steam-shooters/" target="_blank">Valve updated a bunch of their older Steam shooters</a></h2>
+                    <div class="meta">
+                        Aug 25, 2026 08:38 | 
+                        Source: <a href="https://www.gamingonlinux.com/" target="_blank">gamingonlinux.com</a>
+                    </div>
+                    
+                    <img src="https://www.gamingonlinux.com/uploads/articles/tagline_images/707472252id29619gol.webp">
+                    
+                    <p>While Valve didn&#39;t seem to publicly celebrate their 30th anniversary, they did at least go back to some older titles to fix them up.Read the full article on GamingOnLinux.</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://www.gamingonlinux.com/2026/08/alien-breed-35th-anniversary-collection-announced-for-september/" target="_blank">Alien Breed 35th Anniversary Collection announced for September</a></h2>
+                    <div class="meta">
+                        Aug 25, 2026 08:29 | 
+                        Source: <a href="https://www.gamingonlinux.com/" target="_blank">gamingonlinux.com</a>
+                    </div>
+                    
+                    <img src="https://www.gamingonlinux.com/uploads/articles/tagline_images/1454158866id29618gol.webp">
+                    
+                    <p>Licensed by Team 17 and developed by Antstream, Alien Breed 35th Anniversary brings together six brutal games with modernised controls and new modes.Read the full article on GamingOnLinux.</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://lxer.com/module/newswire/ext_link.php?rid=367036" target="_blank">Vanilla OS 3 “Reunion” Released with GNOME 50 and ARM64 Support</a></h2>
+                    <div class="meta">
+                        Aug 25, 2026 07:08 | 
+                        Source: <a href="https://lxer.com/" target="_blank">lxer.com</a>
+                    </div>
+                    
+                    <p>Vanilla OS 3 “Reunion” is now available with GNOME 50, Linux kernel 7.1, ARM64 support, reproducible builds, and a new backup tool.</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://yro.slashdot.org/story/26/08/25/0548233/aliexpress-leverages-user-audio-systems-for-fingerprinting?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" target="_blank">AliExpress Leverages User Audio Systems For Fingerprinting</a></h2>
+                    <div class="meta">
+                        Aug 25, 2026 07:00 | 
+                        Source: <a href="https://slashdot.org/" target="_blank">slashdot.org</a>
+                    </div>
+                    
+                    <img src="https://a.fsdn.com/sd/twitter_icon_large.png">
+                    
+                    <p>A developer says AliExpress is using the browser&#39;s WebAudio API to help fingerprint users by playing inaudible audio and measuring tiny differences in how their devices process it. CyberNews reports: The developer, &#34;laserphile,&#34; wrote on their blog that they recently ran into some weird issues with their Bluetooth headphones. They couldn&#39;t play music via their phone when, at the same time, the AliExpress website was open on their PC. The headphones, laserphile explained, support multipoint Bluetooth audio so they can be connected to the PC and phone at the same time, for instance, playing music on the phone and announcing notifications through the PC. &#34;Shortly after loading the AliExpress homepage, audio from my phone would stop playing. Closing the AliExpress tab fixes it immediately,&#34; the developer said in the blog post.
+ 
+&#34;Muting the tab/Firefox/Windows does not help, and there is no visible video, music, or other media playing on the page. This seemed suspicious enough to investigate.&#34; It turns out that Alibaba has been secretly leveraging AliExpress users&#39; audio systems to track them and build detailed fingerprints of them. [...] The AliExpress site was using the browser&#39;s WebAudio API to run invisible sound waves at zero volume. By measuring tiny hardware differences in how each PC processed those signals, the site created a unique digital fingerprint to track devices -- without user knowledge or consent.
+ 
+The secret audio path froze the developer&#39;s Bluetooth connection while covertly scraping hardware memory, screen dimensions, and network data in the background. The data collection extends beyond audio. Further inspection revealed that the same scripts also measure canvas, WebGL, hardware specs, WebRTC, mouse/touch events, and automation indicators. All of these form a broad device fingerprint that is sent back to Alibaba&#39;s telemetry servers. The simplest fix is to use a privacy-focused browser such as Firefox or Brave, which can limit or block this kind of fingerprinting. Brave goes further by randomizing fingerprint data and blocking the AliExpress tracking scripts involved.
+
+
+
+
+
+Read more of this story at Slashdot.</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://news.slashdot.org/story/26/08/24/2245233/worlds-oceans-hit-highest-temperature-on-record-as-el-nino-grows?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" target="_blank">World&#39;s Oceans Hit Highest Temperature On Record As El Nino Grows</a></h2>
+                    <div class="meta">
+                        Aug 25, 2026 03:30 | 
+                        Source: <a href="https://slashdot.org/" target="_blank">slashdot.org</a>
+                    </div>
+                    
+                    <img src="https://a.fsdn.com/sd/twitter_icon_large.png">
+                    
+                    <p>An anonymous reader quotes a report from the BBC: The world&#39;s oceans are hotter than ever recorded, new data suggests, as they suffer from human-caused climate change and the growing El Nino weather phenomenon. The average surface temperature of the planet&#39;s seas outside the polar regions hit 21.1C (70F) on Saturday, according to figures from the European Copernicus climate change service. That edges past the 21.09C recorded on three separate days in March 2024, and is far above average for the time of year. [...] The data is based on sea temperatures 10m (32ft 10in) below the surface, using measurements from buoys, ships and satellites, which are combined to produce a global estimate.
+ 
+While the margin of record is currently very small and any global estimate comes with uncertainties, scientists say its timing is particularly notable. Average worldwide sea temperatures tend to reach their yearly peak in March or April, which corresponds to the end of summer in the southern hemisphere -- and not in August. The southern hemisphere contains more of the planet&#39;s ocean surface than the northern hemisphere and so exerts a bigger influence on average sea temperatures. What is especially concerning to scientists is that the oceans are already so hot when the natural El Nino weather phenomenon is still some way off its expected peak. &#34;The fact that we are already breaking records is an early indicator of how strong the El Nino is becoming,&#34; said Dr Jeremy Grist, senior research fellow at the National Oceanography Centre in Southampton. &#34;All things being equal we might expect the ocean temperature record to be broken again in March [or] April 2027,&#34; he added.
+
+
+
+
+
+Read more of this story at Slashdot.</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://lxer.com/module/newswire/ext_link.php?rid=367039" target="_blank">GNU Emacs 31.1: Approaching Fifty and Still Improving</a></h2>
+                    <div class="meta">
+                        Aug 25, 2026 02:33 | 
+                        Source: <a href="https://lxer.com/" target="_blank">lxer.com</a>
+                    </div>
+                    
+                    <p>More than four decades after Richard Stallman began GNU Emacs, version 31.1 makes the classic editor friendlier for everyday Linux users.</p>
+                </article>
+                
+                <article>
                     <h2><a href="https://www.phoronix.com/news/Linux-7.3-HID" target="_blank">Linux 7.3 Merges Initial Kernel Driver Support For The 2026 Steam Controller</a></h2>
                     <div class="meta">
                         Aug 25, 2026 00:33 | 
@@ -989,6 +1243,16 @@ Read more of this story at Slashdot.</p>
                 </article>
                 
                 <article>
+                    <h2><a href="https://lxer.com/module/newswire/ext_link.php?rid=367017" target="_blank">Linux 7.3 Improving RAID 5/6 Benchmark-Based Algorithm Selection</a></h2>
+                    <div class="meta">
+                        Aug 24, 2026 09:28 | 
+                        Source: <a href="https://lxer.com/" target="_blank">lxer.com</a>
+                    </div>
+                    
+                    <p>Following the main set of memory management &#34;MM&#34; changes submitted for Linux 7.3, Andrew Morton sent in his &#34;non-MM&#34; pull request of the other patches he&#39;s been collecting from various developers for this next Linux kernel release. Standing out there were some improvements to the RAID 5/6 benchmark-based algorithm selection...</p>
+                </article>
+                
+                <article>
                     <h2><a href="https://www.gamingonlinux.com/2026/08/mushroom-munching-dungeon-crawling-deck-builder-shroom-and-gloom-arrives-september-10/" target="_blank">Mushroom-munching dungeon-crawling deck-builder &#39;Shroom and Gloom&#39; arrives September 10</a></h2>
                     <div class="meta">
                         Aug 24, 2026 09:19 | 
@@ -1074,6 +1338,16 @@ Read more of this story at Slashdot.</p>
                 </article>
                 
                 <article>
+                    <h2><a href="https://lxer.com/module/newswire/ext_link.php?rid=367012" target="_blank">Linux 7.3 Better Protects Against Buggy EFI Firmware Taking Down The Rest Of User-Space</a></h2>
+                    <div class="meta">
+                        Aug 24, 2026 06:25 | 
+                        Source: <a href="https://lxer.com/" target="_blank">lxer.com</a>
+                    </div>
+                    
+                    <p>The EFI updates were merged today for the in-development Linux 7.3 kernel. Most notable with the EFI updates is now enforcing a timeout foe EFI runtime service completions rather than potentially hanging indefinitely...</p>
+                </article>
+                
+                <article>
                     <h2><a href="https://lxer.com/module/newswire/ext_link.php?rid=367015" target="_blank">DietPi v10.6 Adds Orange Pi and Odroid Images</a></h2>
                     <div class="meta">
                         Aug 24, 2026 04:53 | 
@@ -1114,169 +1388,6 @@ AI-authored text is not evenly spread across the web. When ChatGPT was first rel
 
 
 Read more of this story at Slashdot.</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://lxer.com/module/newswire/ext_link.php?rid=367014" target="_blank">Linuxiac Weekly Wrap-Up: Week 34, 2026 (August 17 – 23)</a></h2>
-                    <div class="meta">
-                        Aug 24, 2026 03:22 | 
-                        Source: <a href="https://lxer.com/" target="_blank">lxer.com</a>
-                    </div>
-                    
-                    <p>Catch up on the latest Linux news: kernel 7.2, AerynOS August update, Bazzite 44, COSMIC Desktop 1.6, VirtualBox 7.2.16, Firefox 154, and more.</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://linux.slashdot.org/story/26/08/24/0228216/could-mecha-comets-linux-pc-phone-hybrid-be-the-future-of-linux-smartphones?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" target="_blank">Could Mecha Comet&#39;s Linux PC-Phone Hybrid Be the Future of Linux Smartphones?</a></h2>
-                    <div class="meta">
-                        Aug 24, 2026 02:31 | 
-                        Source: <a href="https://slashdot.org/" target="_blank">slashdot.org</a>
-                    </div>
-                    
-                    <img src="https://a.fsdn.com/sd/twitter_icon_large.png">
-                    
-                    <p>3,346 backers pledged $1,198,844 on Kickstarter to build the (modular) handheld Linux computer, the Mecha Comet. It&#39;s slightly bigger and heavier than your smartphone, with a 4-inch AMOLED display and loaded up with things like microphones, speakers, a SIM tray, two USB ports and a mini HDMI port. There&#39;s three separate kill switches for wifi, microphone and camera — plus a &#34;boot mode&#34; switch for the SD card, and even three pins for instant access to its debug console.
-
- 
-It&#39;s now expected to ship in October or November (and is still available for preorder). 
-
-Snap-in extensions include a keyboard (with programmable colors for its backlit keys), a gamepad, and a special IO Breakout that exposes the 40 pogo pins for modules, sensors, and MCUs. They&#39;re all open hardware, and founder Shoaib Merchant says &#34;I&#39;m looking forward to more community designs over the upcoming months.&#34; He shows the screen in action in a video on Kickstarter, demonstrating native apps like Music, Notes, Settings, and Files — as well as a Terminal app running on its color screen. 
-
-A Linux correspondent at How-To Geek notes its ships &#34;with a custom, hardware-optimized Linux distro out of the box,&#34; so &#34;it&#39;s like having a dedicated Linux terminal in your pocket.&#34; And they argue the new device
-&#34;could be the future of Linux smartphones.&#34;
-
- I should also mention that you don&#39;t necessarily have to use the battery; it can power on over USB PD without one. Overall, you&#39;re getting the same I/O you&#39;d expect from a computer in a smartphone-like form factor, complete with modular input devices — and it&#39;s running Linux under the hood. For me, that&#39;s the most innovative gadget I&#39;ve seen in the Linux hardware space in a long time... 
-It&#39;s powerful enough to run most Linux terminal apps, which opens up a lot of possibilities. You&#39;re also getting an NPU built right into the SoC, which opens up the possibility for on-device AI workflows — something not possible in budget smartphones. Now, I personally plan to use it for SSHing into my main computer and home lab and operating them remotely. That&#39;s also why I&#39;ll be putting the LTE modem in the M.2 slot rather than an SSD — mobile data means I can reach my machines even when there&#39;s no Wi-Fi around. 
-
-I also showed it to my partner, and she sees this as the ideal minimalist phone for digital detoxing. There&#39;s a built-in media player, a basic notes app, and you can even run Spotify from the terminal if you want.
-
-
-
-
-
-Read more of this story at Slashdot.</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://www.phoronix.com/news/Linux-7.3-XOR-RAID6-Benchmark" target="_blank">Linux 7.3 Improving RAID 5/6 Benchmark-Based Algorithm Selection</a></h2>
-                    <div class="meta">
-                        Aug 24, 2026 00:38 | 
-                        Source: <a href="https://www.phoronix.com/" target="_blank">phoronix.com</a>
-                    </div>
-                    
-                    <p>Following the main set of memory management &#34;MM&#34; changes submitted for Linux 7.3, Andrew Morton sent in his &#34;non-MM&#34; pull request of the other patches he&#39;s been collecting from various developers for this next Linux kernel release. Standing out there were some improvements to the RAID 5/6 benchmark-based algorithm selection...</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://tech.slashdot.org/story/26/08/23/2348249/the-global-race-to-make-a-practical-quantum-computer-just-took-a-big-leap-forward?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" target="_blank">The Global Race To Make a Practical Quantum Computer Just Took a Big Leap Forward</a></h2>
-                    <div class="meta">
-                        Aug 23, 2026 23:53 | 
-                        Source: <a href="https://slashdot.org/" target="_blank">slashdot.org</a>
-                    </div>
-                    
-                    <img src="https://a.fsdn.com/sd/twitter_icon_large.png">
-                    
-                    <p>It&#39;s &#34;radically different from other quantum computers&#34; reports Phys.org. The Helios system uses trapped ions — charged atoms suspended in free space using electromagnetic fields. 
-
-But it operates with 98 qubits — making it the largest trapped-ion quantum computer built so far.
-
-Quantinuum, the company behind the device, is based in Cambridge, U.K., and Broomfield, Colorado. It demonstrated earlier machines operating on 32 qubits in 2023 and 56 qubits in 2025... 
-
-
-It relies on two major advances — one in hardware and one in software. First, the four-way X junction lets the system handle several tasks at once rather than one at a time, which is much faster. That was impossible in earlier QCCD [quantum charge-coupled device] machines, which could only move data back and forth in a single line or loop. Second, judicious use of the freedom offered by the two dimensions of the X junction relies on new classical control software called Helios runtime, which plans the smartest, fastest route for moving and processing the data. Together, these represent a substantial advance in the engineering of quantum computers. 
-
-An important consequence is that Helios can perform computations that cannot be performed even on the largest supercomputers using known methods within reasonable amounts of time and power consumption. This demonstrates the ability of this device and its successors to surpass the computational prowess of classical computers — although their algorithms and hardware are rapidly advancing, too. Having said that, Helios&#39; computations have just been random benchmark tests, so the practical importance of this leap forward is still limited. To perform quantum computations of practical importance in science and commerce, even the most optimistic estimates suggest that quantum computers must be enormously bigger and better — of the order of a million qubits.
-
-
-
-
-
-
-Read more of this story at Slashdot.</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://lxer.com/module/newswire/ext_link.php?rid=367010" target="_blank">Contour 0.7 Terminal Emulator Adds Tabs, Split Panes, and Saved Layouts</a></h2>
-                    <div class="meta">
-                        Aug 23, 2026 23:52 | 
-                        Source: <a href="https://lxer.com/" target="_blank">lxer.com</a>
-                    </div>
-                    
-                    <p>Contour 0.7 is out with native GUI tabs, split panes, saved layouts, a command palette, GUI settings, and experimental daemon sessions.</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://lxer.com/module/newswire/ext_link.php?rid=367002" target="_blank">eCryptfs Sees Fixes For Potential Malicious Intent, Some Dating Back To Its 2006 Debut</a></h2>
-                    <div class="meta">
-                        Aug 23, 2026 22:21 | 
-                        Source: <a href="https://lxer.com/" target="_blank">lxer.com</a>
-                    </div>
-                    
-                    <p>The eCryptfs stacked cryptographic filesystem implementation for the Linux kernel to transparently encrypt files saw a number of bug fixes for the Linux 7.3 kernel. A number of these bug fixes deal with potential maliciously-crafted data and vulnerable going back to the 2006 introduction of eCryptfs as this option known for its use on Ubuntu home directory encryption and Chrome OS...</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://yro.slashdot.org/story/26/08/23/2127238/twitch-and-amazon-hit-with-lawsuit-for-training-ai-with-streamers-content?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" target="_blank">Twitch And Amazon Hit With Lawsuit for Training AI With Streamers&#39; Content</a></h2>
-                    <div class="meta">
-                        Aug 23, 2026 21:59 | 
-                        Source: <a href="https://slashdot.org/" target="_blank">slashdot.org</a>
-                    </div>
-                    
-                    <img src="https://a.fsdn.com/sd/twitter_icon_large.png">
-                    
-                    <p>A class action filed this week accused Amazon&#39;s Twitch gaming service of using video streams to fuel its AI products without licensing or obtaining permission, reports Engadget:
-
-Earlier this month, Twitch Support posted on X that it added an option to opt out of &#34;having your channel content used to train generative AI content models across Amazon.&#34; Shortly after, Twitch hosted an episode of its recurring Patch Notes stream where Mike Minton, the company&#39;s chief product officer, said &#34;if it was opt-in, nobody would opt in,&#34; when asked by a viewer why the Twitch settings for AI training aren&#39;t opt-in but instead enabled by default, requiring users to opt out if they don&#39;t want to participate.
-Now, the latest class action lawsuit claims that Twitch and Amazon committed a breach of contract when the companies decided to use its streamers as &#34;free training stock for separate commercial AI products.&#34;
-
-
-
-
-
-
-
-
-Read more of this story at Slashdot.</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://lxer.com/module/newswire/ext_link.php?rid=367003" target="_blank">Make Your KDE Plasma Look Cozy &amp; Aesthetic — Super Easy Tutorial!</a></h2>
-                    <div class="meta">
-                        Aug 23, 2026 20:49 | 
-                        Source: <a href="https://lxer.com/" target="_blank">lxer.com</a>
-                    </div>
-                    
-                    <p>Transform your Linux desktop into a cozy, aesthetic tropical escape with this super easy, step-by-step KDE Plasma customization tutorial using EndeavourOS, Austral Azure theme, and Papirus icons, complete with lightweight tweaks ideal for beginners and a relaxing beach vibe.</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://lxer.com/module/newswire/ext_link.php?rid=367005" target="_blank">Linux 7.3 Introduces New AES Encryption APIs - Will Open Up More Performance</a></h2>
-                    <div class="meta">
-                        Aug 23, 2026 19:18 | 
-                        Source: <a href="https://lxer.com/" target="_blank">lxer.com</a>
-                    </div>
-                    
-                    <p>Eric Biggers of Google continues carrying out great work on the Linux kernel crypto code. For Linux 7.3 he&#39;s landed work on new library APIs for most of the AES encryption modes used within the kernel. Moving forward this will open the door to more performance optimizations, reducing code duplication, and other enhancements...</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://www.phoronix.com/news/Linux-7.3-EFI" target="_blank">Linux 7.3 Better Protects Against Buggy EFI Firmware Taking Down The Rest Of User-Space</a></h2>
-                    <div class="meta">
-                        Aug 23, 2026 19:05 | 
-                        Source: <a href="https://www.phoronix.com/" target="_blank">phoronix.com</a>
-                    </div>
-                    
-                    <p>The EFI updates were merged today for the in-development Linux 7.3 kernel. Most notable with the EFI updates is now enforcing a timeout foe EFI runtime service completions rather than potentially hanging indefinitely...</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://www.phoronix.com/news/Linux-7.3-DRM" target="_blank">Linux 7.3 Delivers Graphics Driver Improvements From Old GPUs To Next-Gen Hardware</a></h2>
-                    <div class="meta">
-                        Aug 23, 2026 18:10 | 
-                        Source: <a href="https://www.phoronix.com/" target="_blank">phoronix.com</a>
-                    </div>
-                    
-                    <p>The Direct Rendering Manager (DRM) subsystem updates have been merged for the ongoing Linux 7.3 merge window. There is a lot of exciting GPU kernel driver improvements this cycle ranging from some notable enhancements to old AMD Radeon graphics hardware up through enabling support for some next-generation AMD graphics IP blocks to over on the Intel side where Nova Lake S graphics are being enabled by default...</p>
                 </article>
                 
             </div>
