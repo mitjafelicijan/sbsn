@@ -1,5 +1,139 @@
 [
   {
+    "title": "LibreOffice 26.8 Released With Many Nice Improvements",
+    "link": "https://www.phoronix.com/news/LibreOffice-26.8",
+    "description": "LibreOffice 26.8 is now available as the latest half-year feature update to this leading open-source alternative to Microsoft Office...",
+    "guid": "https://www.phoronix.com/news/LibreOffice-26.8",
+    "date": "Aug 26, 2026 11:30",
+    "published_at": "2026-08-26T11:30:28Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Scientists May Have Figured Out Why Dead Brains Don't Always Rot",
+    "link": "https://science.slashdot.org/story/26/08/26/0626223/scientists-may-have-figured-out-why-dead-brains-dont-always-rot?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "fahrbot-bot shares a report from Smithsonian Magazine: The brain is one of the first organs to begin decomposing after death. Yet archaeologists have discovered more than 4,400 preserved human brains around the world, some of which have remained intact for the last 12,000 years. In hundreds of cases, the brain was the only soft tissue left among otherwise skeletal remains. But how and why do brains sometimes persist for millennia while all other types of soft tissue disappear? This preservation paradox has stumped scientists for years. Now, however, a team of researchers say they may have solved the mystery.\n \nIf a brain ends up in a wet, oxygen-starved environment, the processes that usually cause decay can have the opposite effect, researchers report in a study published in the August 7 issue of the Journal of Proteome Research. \"Under the right conditions, preservation actually arises from decay itself: The same reactions that degrade tissue can also weld the breakdown products together into something far tougher,\" study co-author Alexandra Seviour, a paleobiologist at the University of Oxford in England, tells Live Science's Victoria Atkinson.\n \nFollowing experiments on 72 mouse carcasses (described in the article) the scientists think they know why. When oxygen is abundant, it triggers a cascading, chemical chain reaction that causes brain proteins to break down rapidly. This sequence hinges on free radicals, highly reactive, unstable molecules that \"steal\" electrons from nearby atoms and molecules. The process happens in the brains of living people too, and if left unchecked, can cause health problems. In low-oxygen environments, however, this chemical sequence appears to play out differently. The researchers' analyses hint that free radicals instead react and bond with nearby proteins, making the overall tissue tougher and more resistant to decomposition, Seviour tells Chemical and Engineering News' Anirban Mukhopadhyay. The findings show that \"decay is not the opposite of preservation but, under specific chemical constraints, one of its mechanisms,\" the researchers write in the paper.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Aug 26, 2026 11:00",
+    "published_at": "2026-08-26T11:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "AMD Introduces New \"GFX1250-STRICT\" GPU Target In LLVM",
+    "link": "https://www.phoronix.com/news/AMD-gfx1250-strict",
+    "description": "The AMD GFX1250 IP is what's used by the new Instinct MI450 series accelerators. That's been around within the Linux kernel, AMDGPU LLVM compiler back-end, and related codebases the past year. Interestingly merged yesterday is a new \"gfx1250-strict\" target...",
+    "guid": "https://www.phoronix.com/news/AMD-gfx1250-strict",
+    "date": "Aug 26, 2026 10:22",
+    "published_at": "2026-08-26T10:22:43Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "GCC Patches Added -mcpu=native -mtune=native Support For RISC-V",
+    "link": "https://www.phoronix.com/news/GCC-RISC-V-mcpu-mtune-native",
+    "description": "A SiFive engineer posted patches today for the GNU Compiler Collection (GCC) for adding -mtune=native -mcpu=native support for the compiler on RISC-V...",
+    "guid": "https://www.phoronix.com/news/GCC-RISC-V-mcpu-mtune-native",
+    "date": "Aug 26, 2026 10:08",
+    "published_at": "2026-08-26T10:08:15Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Linux 7.3 PCI Code Adds Advisory Non-Fatal Errors, Intel Dunlow Support",
+    "link": "https://www.phoronix.com/news/Linux-7.3-PCI",
+    "description": "All of the PCI/PCIe subsystem updates for the in-development Linux 7.3 kernel were merged this week...",
+    "guid": "https://www.phoronix.com/news/Linux-7.3-PCI",
+    "date": "Aug 26, 2026 09:53",
+    "published_at": "2026-08-26T09:53:14Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Gamescom Opening Night Live 2026 round-up of announcements",
+    "link": "https://www.gamingonlinux.com/2026/08/gamescom-opening-night-live-2026-round-up-of-announcements/",
+    "description": "Last night was the Gamescom Opening Night Live event and there was quite a number of interesting games being announced and shown off.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/gamescom-opening-night-live-2026-round-up-of-announcements/",
+    "date": "Aug 26, 2026 09:50",
+    "published_at": "2026-08-26T09:50:36Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1617841746id29626gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Woodpecker CI 3.18.0 Improves Pipeline Logs and Security",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367057",
+    "description": "Woodpecker CI 3.18.0 adds pipeline log downloads, tighter plugin environment handling, Kubernetes improvements, and multiple bug fixes.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367057",
+    "date": "Aug 26, 2026 09:47",
+    "published_at": "2026-08-26T09:47:24Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "COSMIC 1.7 Desktop Environment Improves COSMIC Files, COSMIC Edit, and More",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367059",
+    "description": "Linux hardware vendor System76 released COSMIC 1.7 today as the latest stable version of this open-source, free, and Rust-based graphical desktop environment for Linux-based operating systems.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367059",
+    "date": "Aug 26, 2026 08:15",
+    "published_at": "2026-08-26T08:15:55Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "SpaceX Plans to Build a $100 Billion Spaceport In Louisiana",
+    "link": "https://science.slashdot.org/story/26/08/25/2337244/spacex-plans-to-build-a-100-billion-spaceport-in-louisiana?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "SpaceX plans to spend up to $100 billion building a new Starship launch facility in Vermilion Parish, Louisiana, which the state says could eventually \"support thousands of launches annually.\" CNBC reports: Once built, Starbase, LA will serve as the main launch facility for Starship, SpaceX's in-development rocket that's the largest ever built and designed to be fully reusable. Musk has aspirations to massively expand SpaceX's Starlink satellite network, to launch orbital data centers and to someday colonize Mars. Those ambitions, and justification for SpaceX's nearly $2 trillion market cap, hinge on the success of Starship.\n \nSpaceX said, in a video posted to its website on Tuesday, that the search for a site to build launch pads and have access to ample fuel for its operations took about seven years. Musk said in the video that the company would bring \"probably 10,000 really exciting jobs\" to Louisiana with the spaceport. A fact sheet posted online by the state of Louisiana said SpaceX is expected to generate an estimated \"3,000 direct new jobs over the next 10 years\" in the state, and \"8,100 indirect new jobs.\" SpaceX said it would work on a \"historic coastal restoration\" in Louisiana, in partnership with the state to \"bring the marsh back\" and ensure the wetlands around its new facility will have \"storm protection.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Aug 26, 2026 07:00",
+    "published_at": "2026-08-26T07:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Upcoming Jetson Orin Nano 2 boosts edge AI performance to 78 TOPS",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367066",
+    "description": "NVIDIA has announced the Jetson Orin Nano 2, an updated edge AI platform aimed at robotics, drones, machine vision, and other embedded AI applications. The new module provides up to 78 TOPS of AI performance, 8GB of memory, and an 8-core Arm CPU while retaining the compact form factor of the previous Jetson Orin Nano […]",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367066",
+    "date": "Aug 26, 2026 06:44",
+    "published_at": "2026-08-26T06:44:25Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Fanless Edge box runs Linux on Rockchip RV1126B with 3-TOPS NPU",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367041",
+    "description": "The Forlinx FCU3101 is a fanless edge AI computing system based on Rockchip’s RV1126B/RV1126BJ processor, providing local AI inference, Ethernet, serial, and digital I/O connectivity for industrial vision, security monitoring, and data acquisition applications. The FCU3101 is built around the Rockchip RV1126B/RV1126BJ, which integrates four Arm Cortex-A53 processor cores operating at up to 1.6GHz together […]",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367041",
+    "date": "Aug 26, 2026 03:41",
+    "published_at": "2026-08-26T03:41:26Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Lab Supply Companies Have Been Selling Antibodies Using Manipulated Images",
+    "link": "https://science.slashdot.org/story/26/08/25/2331240/lab-supply-companies-have-been-selling-antibodies-using-manipulated-images?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from Ars Technica: Antibodies play a central role in your body's immune defense. But they're also nearly ubiquitous in biological research, being essential for several widely used lab techniques. While some researchers need to go through the process of producing their own antibodies, antibodies to many key proteins are commercially available and can be ordered for overnight delivery. In May, however, Reese Richardson, a post-doc at Northwestern University, discovered that some of the images used to demonstrate how these antibodies performed in lab experiments had been subject to image manipulation -- the sorts of changes that would get a paper retracted if they had appeared in the academic literature. The manipulations ranged from removing background noise to copying and pasting data to fabricate results. Now, he has done a more exhaustive search and found problematic manipulations in images used to market over 17,000 commercial antibodies.\n \n[...] The consequences of this discovery are pretty significant. If you buy an antibody believing it will generate clean, clear data and find it doesn't, many researchers will assume the problem is them. That often leads them to spend time troubleshooting the procedure and trying slightly different conditions to get useful data. If the antibody can't produce those results, all the troubleshooting will have been a waste of time and money. Nature's coverage of the new findings includes quotes from several companies that sell these antibodies that, paraphrased, range from \"we'll look into it\" to \"we don't think it's a problem.\" Researchers who have spent time frustrated while failing to get an antibody-based experiment to work may think otherwise.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Aug 26, 2026 03:30",
+    "published_at": "2026-08-26T03:30:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "OpenSSL 4.0.2 Released with Important Security and Bug Fixes",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367048",
+    "description": "OpenSSL 4.0.2 has been released today as the second maintenance/security update to the latest OpenSSL 4.0 series of this widely used TLS/SSL and crypto library for providing secure communications over computer networks.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367048",
+    "date": "Aug 26, 2026 02:09",
+    "published_at": "2026-08-26T02:09:57Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
     "title": "Chrome/Chromium Experimenting With Flatpak Packaging",
     "link": "https://www.phoronix.com/news/Chrome-Chromium-Flatpak",
     "description": "Google engineers responsible for the Chrome/Chromium web browser are experimenting with Flatpak packaging on Linux. They aren't yet committed to officially supporting Flatpak packages but for now are at least exploring the option...",
@@ -450,6 +584,16 @@
     "source_url": "https://www.gamingonlinux.com/"
   },
   {
+    "title": "Linux ath11k Driver Improvements For Qualcomm WiFi 6 Hardware Yields 7x Lower Latency",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367037",
+    "description": "A patch series being worked on for the ath11k mainline wireless networking driver for Qualcomm WiFi 6 / 802.11ax chipsets is yielding 7x lower latency or 2.2x throughput at identical latency...",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367037",
+    "date": "Aug 25, 2026 08:39",
+    "published_at": "2026-08-25T08:39:53Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
     "title": "Valve updated a bunch of their older Steam shooters",
     "link": "https://www.gamingonlinux.com/2026/08/valve-updated-a-bunch-of-their-older-steam-shooters/",
     "description": "While Valve didn't seem to publicly celebrate their 30th anniversary, they did at least go back to some older titles to fix them up.Read the full article on GamingOnLinux.",
@@ -491,160 +635,5 @@
     "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
     "source": "slashdot.org",
     "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Mozilla Presents Their Plan For Shipping JPEG-XL In Firefox 157",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367033",
-    "description": "While Firefox 152+ already offers experimental JPEG-XL support,  Mozilla formally announced today their plans for officially shipping JPEG-XL image format support in the Firefox web browser...",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367033",
-    "date": "Aug 25, 2026 04:05",
-    "published_at": "2026-08-25T04:05:24Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "World's Oceans Hit Highest Temperature On Record As El Nino Grows",
-    "link": "https://news.slashdot.org/story/26/08/24/2245233/worlds-oceans-hit-highest-temperature-on-record-as-el-nino-grows?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "An anonymous reader quotes a report from the BBC: The world's oceans are hotter than ever recorded, new data suggests, as they suffer from human-caused climate change and the growing El Nino weather phenomenon. The average surface temperature of the planet's seas outside the polar regions hit 21.1C (70F) on Saturday, according to figures from the European Copernicus climate change service. That edges past the 21.09C recorded on three separate days in March 2024, and is far above average for the time of year. [...] The data is based on sea temperatures 10m (32ft 10in) below the surface, using measurements from buoys, ships and satellites, which are combined to produce a global estimate.\n \nWhile the margin of record is currently very small and any global estimate comes with uncertainties, scientists say its timing is particularly notable. Average worldwide sea temperatures tend to reach their yearly peak in March or April, which corresponds to the end of summer in the southern hemisphere -- and not in August. The southern hemisphere contains more of the planet's ocean surface than the northern hemisphere and so exerts a bigger influence on average sea temperatures. What is especially concerning to scientists is that the oceans are already so hot when the natural El Nino weather phenomenon is still some way off its expected peak. \"The fact that we are already breaking records is an early indicator of how strong the El Nino is becoming,\" said Dr Jeremy Grist, senior research fellow at the National Oceanography Centre in Southampton. \"All things being equal we might expect the ocean temperature record to be broken again in March [or] April 2027,\" he added.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Aug 25, 2026 03:30",
-    "published_at": "2026-08-25T03:30:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "GNU Emacs 31.1: Approaching Fifty and Still Improving",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367039",
-    "description": "More than four decades after Richard Stallman began GNU Emacs, version 31.1 makes the classic editor friendlier for everyday Linux users.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367039",
-    "date": "Aug 25, 2026 02:33",
-    "published_at": "2026-08-25T02:33:55Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Linux 7.3 Merges Initial Kernel Driver Support For The 2026 Steam Controller",
-    "link": "https://www.phoronix.com/news/Linux-7.3-HID",
-    "description": "The HID subsystem updates were recently merged for the ongoing Linux 7.3 kernel merge window. Among other hardware additions, the 2026 Valve Steam Controller is seeing initial kernel driver support...",
-    "guid": "https://www.phoronix.com/news/Linux-7.3-HID",
-    "date": "Aug 25, 2026 00:33",
-    "published_at": "2026-08-25T00:33:34Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Early Linux 7.3 Kernel Benchmarks Show Some Performance Improvements, Some Regressions",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367030",
-    "description": "Being halfway through the Linux 7.3 kernel merge window and prior to wrapping up and sending back the HP Z4 G6i workstation powered by the Xeon 678X Granite Rapids WS processor, I decided to run some benchmarks to see how Linux 7.3 Git is performing relative to the prior stable kernel series. Here are the first benchmarks of this early state of Linux 7.3 with some performance improvements as well as some regressions.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367030",
-    "date": "Aug 24, 2026 23:08",
-    "published_at": "2026-08-24T23:08:43Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Amazon Hikes Hardware Prices By 60%, Blaming Memory Shortage",
-    "link": "https://news.slashdot.org/story/26/08/24/228251/amazon-hikes-hardware-prices-by-60-blaming-memory-shortage?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Amazon has raised the prices of its hardware devices by as much as 60%, blaming \"significant increases in memory and storage component costs.\" TechCrunch reports: The price explosion impacted Fire TVs, Echos, Kindles, and Eeros. One egregious example that's been cited is that of the Echo Dot, one of Amazon's cheapest smart speakers, the price of which jumped 60% overnight, from $49.99 to $79.99. Price-tracking sites like CamelCamelCamel show the stark uptick, which has previously hovered much lower. [...] The company also said that it would continue to offer occasional promotions to customers over the course of the next year. Amazon said in a statement: \"The consumer electronics industry is facing significant increases in memory and storage component costs. After absorbing these increases for as long as we could, we recently adjusted pricing across our product lines.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Aug 24, 2026 23:00",
-    "published_at": "2026-08-24T23:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "SEC Investigating Near-Implosion of AI Hedge Fund",
-    "link": "https://yro.slashdot.org/story/26/08/24/2155211/sec-investigating-near-implosion-of-ai-hedge-fund?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "The SEC is investigating the near-collapse of AI-focused hedge fund Situational Awareness, sending subpoenas to major Wall Street banks for details about the fund's trades, borrowing, and communications with lenders. The fund, founded by former OpenAI researcher Leopold Aschenbrenner, managed over $30 billion and borrowed tens of billions more before leveraged bets unraveled, forcing it to sell most of its stock portfolio to Citadel at a discount. The New York Times reports: The subpoenas asked for details on the timing of Situational Awareness's trades and for its communications with lenders about the money it was borrowing, also known as \"leverage,\" two of those people said. The subpoenas additionally warned the banks to preserve any information regarding the San Francisco hedge fund. The S.E.C. oversees financial markets with an eye toward protecting small investors, and has brought civil cases regularly against investment firms that produced large losses. Any investigation into Situational Awareness would be at its earliest stages, and it's no guarantee that it would lead to fines or other punishment. The hedge fund has not been accused of wrongdoing.\n \n[...] Situational Awareness had a fast rise and an even quicker retreat. Founded just two years ago by Leopold Aschenbrenner, a former researcher at OpenAI, it rode the A.I. boom to soaring investment returns. To achieve those results, however, the fund relied on heavy borrowing, as well as complicated and expensive financial instruments that magnify gains -- and losses. The latter piled up quickly last month when the stock prices of publicly traded, high-flying A.I. companies dipped. At the same time, shares in more traditional technology companies -- which the hedge fund had been betting against -- rose, compounding the problem. Situational Awareness was forced into a fire sale. It wound up selling most of its stock portfolio to a rival, Citadel, at a discount.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Aug 24, 2026 22:00",
-    "published_at": "2026-08-24T22:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Slackware-Based PorteuX 2.8 Released with Linux 7.2, COSMIC 1.6, and More",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367018",
-    "description": "PorteuX 2.8 has been released today as the latest snapshot of this Slackware-based distribution inspired by Slax and Porteus and designed to be super fast, small, portable, modular, and immutable.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367018",
-    "date": "Aug 24, 2026 21:37",
-    "published_at": "2026-08-24T21:37:13Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Trump Admin Moves to Impose More Than $100K Fee For H-1B Worker Visas",
-    "link": "https://news.slashdot.org/story/26/08/24/2023203/trump-admin-moves-to-impose-more-than-100k-fee-for-h-1b-worker-visas?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "The Trump administration is proposing to make permanent a $103,265 fee on certain new H-1B visas, dramatically increasing costs for employers that rely on highly skilled foreign workers in tech, education, and research. \"A federal judge in June ruled that the fee was illegal and blocked the Trump administration from collecting it,\" reports Reuters. \"A Boston-based appeals court is reviewing that decision while a different court considers whether a judge properly rejected a challenge to the fee by a major business group.\" From the report: Trump's temporary fee increase expires in September, one year after it was issued. The proposed rule by the U.S. Department of Homeland Security, posted in the Federal Register on Monday, would make a fee of $103,265 permanent. It could be finalized by the end of the year. The H-1B program allows U.S. employers to hire foreign workers with training in specialty fields and offers 65,000 visas annually, with another 20,000 for workers with advanced degrees, approved for three to six years. Those visas typically came with fees between $2,000 and $5,000 before Trump's order. The fee would not apply to visas granted to foreign citizens already in the United States on student visas, who make up a large share of new H-1B recipients, or to renewals of current visas.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Aug 24, 2026 21:00",
-    "published_at": "2026-08-24T21:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Wine’s Vkd3d 2.1 Improves HLSL Support and Shader Reflection",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367031",
-    "description": "VKD3D 2.1 open-source 3D library is out with expanded HLSL support, new shader reflection capabilities, SPIR-V improvements, and more.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367031",
-    "date": "Aug 24, 2026 20:05",
-    "published_at": "2026-08-24T20:05:44Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Linux ath11k Driver Improvements For Qualcomm WiFi 6 Hardware Yields 7x Lower Latency",
-    "link": "https://www.phoronix.com/news/ath11k-7x-Lower-Latency",
-    "description": "A patch series being worked on for the ath11k mainline wireless networking driver for Qualcomm WiFi 6 / 802.11ax chipsets is yielding 7x lower latency or 2.2x throughput at identical latency...",
-    "guid": "https://www.phoronix.com/news/ath11k-7x-Lower-Latency",
-    "date": "Aug 24, 2026 19:29",
-    "published_at": "2026-08-24T19:29:27Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "9to5Linux Weekly Roundup: August 23rd, 2026",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367019",
-    "description": "The 306th installment of the 9to5Linux Weekly Roundup is here for the week ending August 23rd, 2026, keeping you updated on the most important developments in the Linux world.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367019",
-    "date": "Aug 24, 2026 18:34",
-    "published_at": "2026-08-24T18:34:14Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "New AF_ALG Restrictions With Linux 7.3 Due To The Security \u0026 Maintenance Nightmare",
-    "link": "https://www.phoronix.com/news/Linux-7.3-AF-ALG-Restrictions",
-    "description": "The past few Linux kernel cycles have chipped away at AF_ALG functionality for that interface for user-space programs to access the kernel's internal cryptography API.  Linux has been dropping AF_ALG features like zero-copy support and offloading. AF_ALG was quickly deprecated in Linux 7.2 while now for Linux 7.3 it's being further restricted...",
-    "guid": "https://www.phoronix.com/news/Linux-7.3-AF-ALG-Restrictions",
-    "date": "Aug 24, 2026 18:17",
-    "published_at": "2026-08-24T18:17:25Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Linux 7.3 is Shaping Up to Be One of The Most Performance-Focused Kernel Releases in Years",
-    "link": "https://feed.itsfoss.com/link/24361/17427617/linux-7-3-preview",
-    "description": "The merge window is still open, but faster filesystems, a smarter scheduler, and real-time latency fixes are already in.",
-    "guid": "6a8c1c7c35278500011575f8",
-    "date": "Aug 24, 2026 17:48",
-    "published_at": "2026-08-24T17:48:26Z",
-    "image": "https://itsfoss.com/content/images/2026/08/linux-7-3-performance-banner.png",
-    "source": "itsfoss.com",
-    "source_url": "https://itsfoss.com/"
-  },
-  {
-    "title": "Linus Torvalds Turns to AI to Track Down Intel Xe GPU Bug",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367029",
-    "description": "A tricky Intel Xe driver bug sent Linus Torvalds through 18 kernel boots, with AI handling much of the debugging grunt work along the way.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367029",
-    "date": "Aug 24, 2026 17:02",
-    "published_at": "2026-08-24T17:02:45Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
   }
 ]
