@@ -1,5 +1,426 @@
 [
   {
+    "title": "Intel Linux Driver Orphaned For Limiting RF Exposure To Humans",
+    "link": "https://www.phoronix.com/news/Intel-Linux-SAR-Driver-Orphaned",
+    "description": "Over the past year and a half a number of open-source drivers in the Linux kernel have been orphaned as a result of departures from the company. The impact has ranged from the Intel CPU \"coretemp\" temperature driver being orphaned without a maintainer to other lesser known Intel drivers. Another lesser known Intel driver is now being orphaned with no longer having a maintainer at the company: the Intel Specific Absorption Rate Driver...",
+    "guid": "https://www.phoronix.com/news/Intel-Linux-SAR-Driver-Orphaned",
+    "date": "Aug 27, 2026 21:13",
+    "published_at": "2026-08-27T21:13:01Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Ring Says New Encryption Limits What It Can Give Police",
+    "link": "https://it.slashdot.org/story/26/08/27/2014225/ring-says-new-encryption-limits-what-it-can-give-police?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Ring is rolling out a new default encryption system called TAKE, or \"Throw Away the Key Encryption,\" that rotates video keys every five minutes and permanently deletes Ring's copy after 24 hours. The system is designed to preserve cloud features such as smart alerts and AI video search while limiting what Ring can provide under legal process to non-video account information and encrypted footage. The Verge reports: Ring says TAKE uses unique, rotating encryption keys for your footage, stored in a secure enclave and accessible only under strict conditions -- based on the features you enable on your account. Currently, footage captured by Ring cameras is encrypted in transit to the cloud and at rest, and then decrypted for Ring to process for those smart features. With TAKE, the encryption keys change for every five minutes of footage. Ring stores copies of those keys to decrypt the footage, but throws away each copy within 24 hours, \"leaving you with the keys and full control of your videos,\" according to Ring.\n \nTAKE was developed using Messaging Layer Security, an open standard from the Internet Engineering Task Force, according to Ring. The company says it is \"inspired by the privacy principles of E2EE (end-to-end encryption),\" which Ring offers on some of its cameras. However, the two systems work differently. With E2EE, Ring never has the keys and can't process your video for cloud-based features. Both options are available on newer cameras that encrypt on-device, and you can switch between the two. Older cameras encrypt at cloud ingress and only support TAKE.\n \nAccording to a white paper the company published today, Ring's copy of those keys is managed inside an AWS Nitro Enclave, to which Ring's access is restricted by \"access controls, cryptography, and hardware isolation.\" The company claims there is no persistent storage and no way for a Ring employee to access it. The stored keys can only be unlocked by the enclave through cryptographic attestation that proves it's running the exact software image Ring approved. The enclave releases a temporary key when an enabled service requests it. When asked about what happens if Ring is subpoenaed by law enforcement, a spokesperson for the company said: \"Where TAKE is enabled, Ring will only be able to provide non-video information (such as basic subscriber information) and encrypted video files in response to the valid legal process. We have updated our Law Enforcement Guidelines to reflect this change.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Aug 27, 2026 21:00",
+    "published_at": "2026-08-27T21:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Claude, Codex, and Hermes Installed Unowned Code Inside Corporate Networks",
+    "link": "https://yro.slashdot.org/story/26/08/27/207212/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from Ars Technica: Documentation files on more than 100 websites are referencing potentially dangerous executable content that gets installed automatically when visited by many AI agents [including Claude, OpenAI's Codex, and Nous Research's Hermes]. A few dozen companies, some of them Fortune 500s, are among those that executed proof-of-concept code. At least one misconfigured site is directing visitors, human or AI, to live malware.\n \nThe potentially dangerous content is in llms.txt and llms-full.txt files, an emerging convention websites employ to provide machine-readable summaries of the site's content and its high-level structure. These files are the AI equivalent of the robots.txt standard that instructs search engines how to index the site's content. Google Lighthouse, a tool for helping web developers, has more here. Correctly configured llms.txt and llms-full.txt files for Cloudflare are here and here. \"The trust model is broken,\" Alon Hertz, one of the researchers, wrote in an interview. \"Agents treat vendor docs as ground truth and don't question them -- and neither do the humans supervising them. Agentic AI usage is exploding, and agents are spreading across every layer -- SaaS, cloud, endpoint. As they multiply, so does the supply-chain surface, and today's guards don't cover it.\"\n \n\"An agent doesn't distinguish between a page and a command,\" the researchers wrote Thursday. \"Everything it reads is input, and every input is a potential instruction. Which means the entire corpus of published data that agents are now wired to consume has silently become an execution surface -- and almost none of it carries the integrity guarantees we apply to actual code.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Aug 27, 2026 20:08",
+    "published_at": "2026-08-27T20:08:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "AMD Preparing To Enable HDMI 2.1 FRL Support By Default For Linux",
+    "link": "https://www.phoronix.com/news/AMDGPU-HDMI-2.1-FRL-Default",
+    "description": "It was back in May that the surprising event happened of AMD posting HDMI 2.1 FRL patches for their open-source AMDGPU Linux driver as part of their broader HDMI 2.1 bring-up. For years the open-source HDMI 2.1 support in AMDGPU was blocked by the HDMI Forum but whether it was due to Valve or some other event, the code was finally unblocked. While it's been part of the kernel since Linux 7.2, it's been disabled by default -- except that is now changing...",
+    "guid": "https://www.phoronix.com/news/AMDGPU-HDMI-2.1-FRL-Default",
+    "date": "Aug 27, 2026 19:45",
+    "published_at": "2026-08-27T19:45:06Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Trump Declares National Emergency to Ban Some Foreign Grid Equipment",
+    "link": "https://news.slashdot.org/story/26/08/27/1652222/trump-declares-national-emergency-to-ban-some-foreign-grid-equipment?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Longtime Slashdot reader dhartshorn writes: Foreign-produced \"bulk power\" equipment is now effectively banned, and the list of what constitutes such equipment is essentially everything used to make up the grid... much of which we are heavily dependent on foreign sources to supply. In a Wednesday executive order, President Trump said foreign supply of electric equipment \"constitutes an unusual and extraordinary threat\" to national security. The Hill reports: Under the order, it will be up to Energy Secretary Chris Wright, in coordination with other officials, to determine whether a piece of equipment poses an issue. The order could impact a wide range of equipment, including substations, transformers, batteries used for energy storage, generators, turbines, software and more. It does not lay out specific threats or single out any country by name.\n \n[...] Under the last Trump administration, the president put a similar order in place. The new order comes amid several reported cyberattacks on U.S. water systems, which officials suspect have links to Iran, according to The New York Times.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Aug 27, 2026 19:00",
+    "published_at": "2026-08-27T19:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Linux 7.3 MGLRU Change Helps Executable Code Stays In Memory, Improving Performance",
+    "link": "https://www.phoronix.com/news/Linux-7.3-MGLRU-Executable-Mem",
+    "description": "Following last week's main set of memory management \"MM\" related updates for Linux 7.3, another batch of MM code updates were submitted and merged today as we prepare to close out the Linux 7.3 merge window. There are a few optimization patches that stand out along with other mostly small fixes/changes...",
+    "guid": "https://www.phoronix.com/news/Linux-7.3-MGLRU-Executable-Mem",
+    "date": "Aug 27, 2026 18:20",
+    "published_at": "2026-08-27T18:20:28Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "You Can Now Run Multiple Linux Kernels on One Machine at Once",
+    "link": "https://feed.itsfoss.com/link/24361/17433137/multikernel-public-release",
+    "description": "Multikernel has had its first public release, and it boots each kernel directly on the hardware, not inside a virtual machine.",
+    "guid": "6a8fd266e634ae0001052ba0",
+    "date": "Aug 27, 2026 18:07",
+    "published_at": "2026-08-27T18:07:01Z",
+    "image": "https://itsfoss.com/content/images/2026/08/linux-multikernel-banner.png",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "Panic Passes Trump Tariff Refunds Back to Playdate Customers",
+    "link": "https://news.slashdot.org/story/26/08/27/1641246/panic-passes-trump-tariff-refunds-back-to-playdate-customers?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Panic is refunding Playdate customers the 19% tariff charges it passed along while the Trump administration's import duties were in effect, after the Supreme Court ruled the tariffs illegal and the company began receiving refunds from the government. Panic says the money \"just [wasn't] ours to keep.\" Ars Technica reports: In an update posted on the Playdate help site this week, Panic noted that it has finally \"begun to receive refunds of the tariffs we paid in the last year\" and had consequently \"refunded all tariffs charged to customers.\"\n \nIn the initial version of that tariff note, Panic explained that it couldn't afford to simply \"absorb\" the 19 percent tariffs it was being charged to import Playdate hardware made overseas because \"our margins on Playdate are low.\" As such, while the tax was in effect, it was passed along to customers as an explicit subtotal line item at the bottom of all Playdate orders. That's in contrast to companies like Nintendo, which vaguely cited \"market conditions\" and tariff \"uncertainty\" in raising the asking price of legacy hardware and some Switch 2 accessories last year.\n \nSpeaking to Game Developer, Panic co-founder Cabel Sasser said filing paperwork to claw back these taxes and processing tariff refunds for customers took a fair bit of backend work. Still, he said returning that money to Playdate purchasers in the end was a no-brainer. \"It's just not our money to keep, and it felt really good to give it back,\" Sasser said. \"That's an easy way to know you made the right decision.\" \"It just felt like the right thing to do,\" Panic wrote in a refund email message shared on Reddit.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Aug 27, 2026 18:00",
+    "published_at": "2026-08-27T18:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "STAR WARS Zero Company is out now",
+    "link": "https://www.gamingonlinux.com/2026/08/star-wars-zero-company-is-out-now/",
+    "description": "STAR WARS Zero Company has been released today from Bit Reactor / Electronic Arts, and it's very much Star Wars XCOM with a little extra sauce.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/star-wars-zero-company-is-out-now/",
+    "date": "Aug 27, 2026 17:07",
+    "published_at": "2026-08-27T17:07:42Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/2051564216id29643gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Nvidia Agrees to Acquire Hugging Face For $13 Billion",
+    "link": "https://news.slashdot.org/story/26/08/27/1613222/nvidia-agrees-to-acquire-hugging-face-for-13-billion?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "The Information reported on Wednesday that Nvidia has agreed to buy open-source platform Hugging Face for $12.9 billion. \"Deal talks began after Hugging Face, an open-source AI platform developers use to collaborate, test and share tools, received acquisition interest from another suitor,\" reports CNBC, citing the (paywalled) report. Business Insider separately reported the acquisition talks. From CNBC: If completed, the acquisition would put one of the most widely used platforms for sharing and working with open-source AI models under Nvidia's ownership, expanding the chipmaker's reach further into the software and model ecosystem. Siddy Jobe, a fund manager at Eonopolis Exponential Technologies funds, said it made sense for Nvidia to target a company like Hugging Face, as Nvidia has made it clear that it is not looking to discriminate between closed and open-source models.\n \n\"I think Nvidia is very much a community, a platform-based company, and in that respect, I think Hugging Face fits perfectly within that. There is this five-layer cake from Nvidia, and foundational models are one of them,\" Jobe told CNBC's Squawk Box Europe on Thursday. \"It is clear that Nvidia wants to be integrated in the entire stack vertically, going from energy to foundational models and also to applications,\" he added.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Aug 27, 2026 17:00",
+    "published_at": "2026-08-27T17:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Operation Bluebird Launches New Twitter",
+    "link": "https://tech.slashdot.org/story/26/08/27/0051211/operation-bluebird-launches-new-twitter?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from Ars Technica: Operation Bluebird, the Virginia-based startup trying to revive the allegedly abandoned \"Twitter\" name and logo, announced Monday that it has launched its new social media network: Twitter.now. \"We are a small company, we have investors, and we have a product,\" Stephen Coates, one of Operation Bluebird's cofounders, told Ars. \"And we have waited months and months to launch, and we are not going to wait anymore.\"\n \n[...] Twitter.now, still in its nascent stage, only has hundreds of users for the time being. The social media network looks and feels much like the Twitter of old and many of its offshoots -- it has replies and retweets. A new and notable feature is the automated fact-checking tool, a Gemini-based \"veracity engine for real-time analysis\" (\"Vera\" for short), which runs on every tweet. Coates has been testing Vera in recent days by posting obviously false messages, like \"George Washington was our second president.\"\n \n\"Our first goal is to see if we can truly bring back a town square that's safer and less harmful,\" he said. \"We say freedom of speech and not freedom of reach. We want people to say what they want, but we also want to create a platform that's not financially locked into that viral content that's harmful or inaccurate.\" Operation Bluebird argues that Elon Musk effectively abandoned the Twitter brand and trademarks when he renamed the company X, opening the door for the startup to claim them. X Corp. sued to stop the effort, but a federal judge tentatively ruled in April that X appeared to have relinquished rights to \"tweet,\" the bird logo, and possibly \"Twitter\" itself, though no written ruling has been issued.\n \nBluebird has taken that as enough of a green light to move forward while emphasizing that its new Twitter is not affiliated with X. \"Operation Bluebird, Inc. picked up the name X Corp. walked away from and is rebuilding it on trust, in your browser at twitter.now,\" it states prominently on its website. \"We are not X, and we are not affiliated with X Corp.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Aug 27, 2026 16:00",
+    "published_at": "2026-08-27T16:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "LibreOffice 26.8 Doubles Down on No AI, Right After Collabora Welcomed It",
+    "link": "https://feed.itsfoss.com/link/24361/17433074/libreoffice-26-8-release",
+    "description": "TDF is not interested in providing any AI features, sticking to the basics of an open source office suite.",
+    "guid": "6a900e92e634ae0001052cb0",
+    "date": "Aug 27, 2026 15:55",
+    "published_at": "2026-08-27T15:55:54Z",
+    "image": "https://itsfoss.com/content/images/2026/08/libreoffice-26-8-no-ai-banner.png",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "Asahi Linux Nears Official Support for Apple M3 Macs",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367095",
+    "description": "Asahi Linux says M3 support is almost ready for an official release, with webcams, microphones, USB 3.0, and Thunderbolt now working across the lineup.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367095",
+    "date": "Aug 27, 2026 15:34",
+    "published_at": "2026-08-27T15:34:26Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "AMD Jumps From ROCm 7.14 To ROCm 10.0 With ROCm.AI",
+    "link": "https://www.phoronix.com/news/AMD-ROCm-10.0",
+    "description": "Back in July ROCm 7.14 was announced as their new production release built atop TheRock build system and introducing Ryzen AI 400 series support. The versioning choice was a bit odd since ROCm 7.2 was the stable release at the time while ROCm 7.9+ turned into \"tech preview\" releases. With ROCm 7.14, it was declared stable. In clearing up that versioning mess, they have done a major version bump... to ROCm 10.0...",
+    "guid": "https://www.phoronix.com/news/AMD-ROCm-10.0",
+    "date": "Aug 27, 2026 15:26",
+    "published_at": "2026-08-27T15:26:53Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Btrfs, EXT4, F2FS \u0026 XFS On Linux 7.2 vs. Linux 7.3 Performance",
+    "link": "https://www.phoronix.com/review/linux-73-filesystems",
+    "description": "Earlier this week I showed off some of the very nice Btrfs performance gains on Linux 7.3. For those wondering what kernel optimizations may have carried over to other file-systems or other file-system specific enhancements, here are Linux 7.2 vs. 7.3 Git performance benchmarks across Btrfs, EXT4, F2FS, and XFS on the same system.",
+    "guid": "https://www.phoronix.com/review/linux-73-filesystems",
+    "date": "Aug 27, 2026 15:13",
+    "published_at": "2026-08-27T15:13:00Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "How Meta's Plan To Replace Workers With AI Agents Fell Apart",
+    "link": "https://tech.slashdot.org/story/26/08/27/0032219/how-metas-plan-to-replace-workers-with-ai-agents-fell-apart?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Reuters reports that Meta explored shrinking some teams by as much as 60% as part of an \"AI native\" restructuring plan that would shift much of employees' day-to-day work to AI agents and smaller teams of human \"builders.\" But the effort quickly ran into employee revolt and disappointing productivity gains, leading Zuckerberg to scrap a planned second wave of cuts after Meta laid off 10% of its workforce in May. From the report: In January, Meta CEO Mark Zuckerberg and his top lieutenants gathered for their annual leadership retreat at his Hawaii compound. There they hatched a radical plan to reimagine work at the social-media giant in the age of artificial intelligence. Code-named Project OT -- short for Organization Transformation -- the plan envisioned an \"AI native\" future for the owner of Facebook and Instagram. AI would take over much of the daily work performed by thousands of human employees. Virtual workers would be overseen inside Meta by smaller, \"talent-dense\" cadres of human staffers, according to one internal planning document reviewed by Reuters and three people familiar with the project.\n \nIn scenario-planning exercises, two of these people said, executives explored slashing the size of many teams across Meta by as much as 60%. Some employees would be offered roles in new units, while others would be laid off as part of a culling that one human-resources executive projected would be as big as or bigger than the company's cuts of around 25% three years ago, according to another internal document. The restructuring would be carried out in two \"waves,\" beginning with a first purge in May and followed by another shake-up in November, internal planning documents seen by Reuters showed. Layoffs would be supplemented with the closing of open positions and pushing people out who Meta believed were poor performers. These and other details of the plan, including the scale of the restructuring, haven't been previously reported. AI would take over much of the daily work performed by thousands of human employees. Virtual workers would be overseen inside Meta by smaller, \"talent-dense\" cadres of human staffers.\n \nBut on the night of May 19, just hours before the first layoff wave, Zuckerberg blinked. Meta laid off 10% of its employees the next day, but it called off planning for the November cuts, according to one internal document reviewed by Reuters. By then, Meta employees were in open revolt, convinced that the company's AI transformation initiatives were partly aimed at replacing them. Internal data was also suggesting that autonomous AI \"agent\" technology at the heart of the strategy was failing to deliver hoped-for productivity gains. Some investors were questioning what Meta had to show for its gargantuan spending on AI. This article reveals for the first time the rapid pace of the cuts Meta was considering, the thinking behind the plans and how they quickly unraveled. Based on scores of internal documents, posts and recordings reviewed by Reuters, as well as conversations with more than 20 people with knowledge of Meta's inner workings, the reporting shows how the social-media giant attempted to position itself at the forefront of an AI-driven workplace overhaul, only to stumble in the execution.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Aug 27, 2026 15:00",
+    "published_at": "2026-08-27T15:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Linux 7.3 Adds RWF_DONTCACHE Support For Block Devices",
+    "link": "https://www.phoronix.com/news/Linux-7.3-Block",
+    "description": "With the never-ending quest for greater I/O performance in the HPC space and the demands all the more relentless in the AI era, the Linux kernel block subsystem activity continues to be as vibrant as ever along with the ongoing innovations in the IO_uring space...",
+    "guid": "https://www.phoronix.com/news/Linux-7.3-Block",
+    "date": "Aug 27, 2026 14:15",
+    "published_at": "2026-08-27T14:15:30Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "[$] Using steal time to moderate CPU demands",
+    "link": "https://lwn.net/Articles/1090381/",
+    "description": "Virtualization can increase CPU utilization by allowing a large number of\nvirtual CPUs to share a smaller number of physical CPUs.  The amount of CPU\ntime that is actually available does not change, though, so heavy activity\non too many virtual CPUs can lead to contention and significant performance\nloss.  The steal governor\npatch series from Shrikanth Hegde is an attempt to address that problem\nwith a mechanism that allows virtual machines to voluntarily reduce the\nnumber of virtual CPUs they use when contention is high.",
+    "guid": "https://lwn.net/Articles/1090381/",
+    "date": "Aug 27, 2026 14:11",
+    "published_at": "2026-08-27T14:11:52Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "Lemonade 11.8 Makes It Easy To Run DeepSeek V4 Flash On AMD Strix Halo",
+    "link": "https://www.phoronix.com/news/AMD-Lemonade-11.8",
+    "description": "For those interested in making use of the recently released DeepSeek V4 Flash model, AMD developers have released Lemonade 11.8 that now makes it rather trivial to get DeepSeek V4 Flash up and running on AMD Ryzen AI+ Max \"Strix Halo\" systems...",
+    "guid": "https://www.phoronix.com/news/AMD-Lemonade-11.8",
+    "date": "Aug 27, 2026 13:19",
+    "published_at": "2026-08-27T13:19:36Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Eight stable kernels for Thursday",
+    "link": "https://lwn.net/Articles/1090940/",
+    "description": "Greg Kroah-Hartman has announced the release of the 7.2.1, 7.1.11, 6.18.47, 6.12.106, 6.6.154, 6.1.185,\n5.15.218, and 5.10.267 stable kernels. Each of these has\nimportant updates throughout the tree; users are advised to upgrade.\n\n",
+    "guid": "https://lwn.net/Articles/1090940/",
+    "date": "Aug 27, 2026 13:10",
+    "published_at": "2026-08-27T13:10:02Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "Security updates for Thursday",
+    "link": "https://lwn.net/Articles/1090938/",
+    "description": "Security updates have been issued by AlmaLinux (assertj-core, attr, firefox, go-toolset:rhel8, golang, grafana, gstreamer1-plugins-good, httpd, kernel, mingw-openssl, mod_http2, nginx, nginx:1.24, pam, polkit, and sqlite), Debian (bubblewrap, cockpit, emacs, gimp, libdbi-perl, openjdk-11, openjdk-17, wireshark, and xrdp), Fedora (bluez, curl, emacs, golang, knot, libopenmpt, libsoup3, openbao, openssh, rsync, rust-anstyle-hyperlink, rust-anstyle-progress, rust-cargo, rust-cargo-c, rust-cargo-credential-libsecret, rust-cargo-util, rust-cargo-util-schemas, rust-cargo-util-terminal, rust-crates-io, and rust-rustfix), Gentoo (Chromium, Google Chrome, Microsoft Edge, Opera, Chromium, Google Chrome, Microsoft Edge, Opera, Vivaldi, Chromium, Google Chrome, Microsoft Edge. Opera, and OpenRGB), Oracle (abrt, assertj-core, attr, gstreamer1-plugins-base, gstreamer1-plugins-good, httpd, nginx:1.24, nginx:1.26, nodejs24, and polkit), SUSE (apache2-mod_auth_openidc, buildah, curl, docker, dracut, evince, go1.25-openssl, go1.26-openssl, go1.27, gstreamer-plugins-bad, kernel, kubernetes, kubernetes-old, libarchive, LibVNCServer, libwireshark19, pcp, python310-pip, qemu, rootlesskit, rsync, snpguest, and util-linux), and Ubuntu (bind9, libheif, and openssl, openssl1.0).",
+    "guid": "https://lwn.net/Articles/1090938/",
+    "date": "Aug 27, 2026 13:00",
+    "published_at": "2026-08-27T13:00:18Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "FOSS Weekly #26.35: Performance Boost in Kernel 7.3,   Omarchy Rising, Kernel, Root Demystifed, and More",
+    "link": "https://feed.itsfoss.com/link/24361/17432872/foss-weekly-26-35",
+    "description": "Linux Kernel 7.3 is one of most performance focused releases ever.",
+    "guid": "6a8e96553527850001157de6",
+    "date": "Aug 27, 2026 12:59",
+    "published_at": "2026-08-27T12:59:14Z",
+    "image": "https://itsfoss.com/content/images/2026/08/foss-weekly-3.webp",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "Ride a sentient motorcycle-plane to make deliveries in Into the Wind",
+    "link": "https://www.gamingonlinux.com/2026/08/ride-a-sentient-motorcycle-plane-to-make-deliveries-in-into-the-wind/",
+    "description": "Into the Wind was not even remotely on my radar until now, but after seeing it during the Future Games Show I am convinced it's going to be great.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/ride-a-sentient-motorcycle-plane-to-make-deliveries-in-into-the-wind/",
+    "date": "Aug 27, 2026 12:56",
+    "published_at": "2026-08-27T12:56:06Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1183332158id29642gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Darktable 5.6.1 RAW Image Editor Improves UI Performance and Fixes More Bugs",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367100",
+    "description": "Darktable 5.6.1 has been released today as the first maintenance update to the latest Darktable 5.6 series of this open-source, free, and cross-platform raw image editor for GNU/Linux, macOS, and Windows.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367100",
+    "date": "Aug 27, 2026 12:31",
+    "published_at": "2026-08-27T12:31:27Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "The new 18 minute Fable gameplay has sold me - I want it",
+    "link": "https://www.gamingonlinux.com/2026/08/the-new-18-minute-fable-gameplay-has-sold-me-i-want-it/",
+    "description": "Fable is still a little while away but we've been given our best look at it yet with a new 18 minute video.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/the-new-18-minute-fable-gameplay-has-sold-me-i-want-it/",
+    "date": "Aug 27, 2026 12:30",
+    "published_at": "2026-08-27T12:30:59Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1677710756id29641gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Libgcrypt 1.12.3 Brings Intel SM3 / SM4 / SHA512 Optimizations",
+    "link": "https://www.phoronix.com/news/libgcrypt-1.12.3",
+    "description": "Werner Koch announced today the release of Libgcrypt 1.12.3 with various bug fixes and more exciting are the performance improvements...",
+    "guid": "https://www.phoronix.com/news/libgcrypt-1.12.3",
+    "date": "Aug 27, 2026 12:21",
+    "published_at": "2026-08-27T12:21:33Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Gun Fu action game SPINE looks super-slick in the new trailer, releasing in 2027",
+    "link": "https://www.gamingonlinux.com/2026/08/gun-fu-action-game-spine-looks-super-slick-in-the-new-trailer-releasing-in-2027/",
+    "description": "Gun Fu action game SPINE wasn't on my radar at all until now, but it's gone right into my wishlist for the insanely slick looking action.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/gun-fu-action-game-spine-looks-super-slick-in-the-new-trailer-releasing-in-2027/",
+    "date": "Aug 27, 2026 11:30",
+    "published_at": "2026-08-27T11:30:37Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/462254446id29640gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "More Than 100 Water Systems Were Hit In July Cyberattacks",
+    "link": "https://it.slashdot.org/story/26/08/27/0041254/more-than-100-water-systems-were-hit-in-july-cyberattacks?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "CISA says more than 100 internet-exposed U.S. water and wastewater systems were targeted in July, often through programmable logic controllers connected directly to cellular modems. \"That's the first time the feds have put a number on the digital intrusions, but they have yet to attribute the campaign, widely suspected to be linked to Iran, to a particular group,\" reports The Register. From the report: Suspected Iranian attackers targeted water and wastewater facilities across at least a dozen states in July, including internet-exposed PLCs. While neither federal nor state officials have identified all 12, we know that the cyberattacks occurred at mostly small, rural utilities in Minnesota, Michigan, Georgia, South Dakota, and New Jersey. \"This is very serious. What stands out isn't any single incident. It's the scale,\" Matt Hartman, chief strategy officer at the Merlin Group and CISA's former acting head of cyber, told The Register.\n \n\"More than 100 water systems with internet-exposed assets were hit in a single month, which points to a systemic vulnerability across the sector, not a run of isolated, unlucky targets,\" Hartman said. \"Much of this infrastructure runs on operational technology that was built for closed, physical environments. It was never designed with the assumption that it would be reachable from the open internet.\"\n \nJohn Gallagher, VP at Viakoo, an OT and IoT cybersecurity provider, told us that while 100 systems represent a small fraction - only about 0.5 percent - of water utilities in the US, the \"real threat is that these are test runs for a larger-scale attack.\" While the 100-plus water incidents occurred in July, just last week five US federal agencies warned that attackers are using AI-generated exploitation scripts to break into internet-exposed Siemens S7 Series PLCs at water, manufacturing, energy, and other critical facilities.\n \n\"This appears to be a continuation of the same suite of activity we suspect is affiliated with Iran targeting PLCs,\" Halcyon Ransomware Research Center SVP Cynthia Kaiser told The Register a week ago. \"Iran-affiliated actors and adversaries are actively targeting a wide swath of operational technology because these PLCs underpin essential health, safety, and critical infrastructure across society,\" Kaiser, a former FBI cyber division deputy assistant director, added. CISA urges organizations to keep PLCs off the public internet, route remote access through VPNs or gateways, replace default passwords, enable stronger authentication, and restrict access to allowlisted IP addresses from trusted OT systems.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Aug 27, 2026 11:00",
+    "published_at": "2026-08-27T11:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Slayblade review - spinning top battles",
+    "link": "https://www.gamingonlinux.com/2026/08/slayblade-review/",
+    "description": "Remember Beyblades? Imagine that in a chill roguelite. Slayblade is a spinning battle-top game about trying to become king of the streets.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/slayblade-review/",
+    "date": "Aug 27, 2026 10:36",
+    "published_at": "2026-08-27T10:36:29Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/504656477id29639gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Armbian 26.8 Released With Installer Rewrite, UEFI ISO Images",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367078",
+    "description": "Armbian as the Debian/Ubuntu-derived distribution that provides an optimized platform for ARM and RISC-V single board computers is out today with a major update...",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367078",
+    "date": "Aug 27, 2026 10:33",
+    "published_at": "2026-08-27T10:33:04Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Intel ANV Driver Improves Vulkan Video H.265 Decoding",
+    "link": "https://www.phoronix.com/news/Intel-ANV-HuC-H265-Vulkan-Video",
+    "description": "Merged back in 2023 was Intel ANV Vulkan Video support for H.265 decoding. But it's been slightly out of compliant with the Vulkan spec, which is now fixed with the newest code for Mesa 26.3 by engaging the HuC firmware...",
+    "guid": "https://www.phoronix.com/news/Intel-ANV-HuC-H265-Vulkan-Video",
+    "date": "Aug 27, 2026 10:32",
+    "published_at": "2026-08-27T10:32:11Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "AppArmor In Linux 7.3 Adds Support For User-Space Compressed Policies",
+    "link": "https://www.phoronix.com/news/Linux-7.3-AppArmor",
+    "description": "The AppArmor improvements have been merged for Linux 7.3 for this kernel security module providing per-program Linux application security controls around system resources. Most notable this cycle is being able to load user-space compressed policies...",
+    "guid": "https://www.phoronix.com/news/Linux-7.3-AppArmor",
+    "date": "Aug 27, 2026 10:18",
+    "published_at": "2026-08-27T10:18:39Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "LLVM Improves Zen 1 / Zen 2 Support To Deal With \"Notoriously Bad\" PDEP/PEXT",
+    "link": "https://www.phoronix.com/news/LLVM-Improve-AMD-PDEP-PEXT",
+    "description": "The LLVM/Clang compiler toolchain merged overnight better support for the nearly decade-old AMD Zen 1 processors and also helps with Zen+ and Zen 2 processors too. This latest work thanks to the open-source community is for providing more informed instruction scheduling around PDEP and PEXT that end up being quite costly for these original Zen processors...",
+    "guid": "https://www.phoronix.com/news/LLVM-Improve-AMD-PDEP-PEXT",
+    "date": "Aug 27, 2026 10:05",
+    "published_at": "2026-08-27T10:05:07Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "NFS Improvements Arrive For Linux 7.3",
+    "link": "https://www.phoronix.com/news/Linux-7.3-NFS",
+    "description": "The Network File-System (NFS) improvements for both the client and server code have been merged for the nearly-over Linux 7.3 merge window...",
+    "guid": "https://www.phoronix.com/news/Linux-7.3-NFS",
+    "date": "Aug 27, 2026 09:49",
+    "published_at": "2026-08-27T09:49:31Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Outpost building strategy game Star Trek: Outposts Unknown launches October 20",
+    "link": "https://www.gamingonlinux.com/2026/08/outpost-building-strategy-game-star-trek-outposts-unknown-launches-october-20/",
+    "description": "Star Trek: Outposts Unknown from Magic Fuel Games and Playstack has a new trailer and release date confirmed for October 20th.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/outpost-building-strategy-game-star-trek-outposts-unknown-launches-october-20/",
+    "date": "Aug 27, 2026 09:29",
+    "published_at": "2026-08-27T09:29:24Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/2117522632id29638gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Kingdom III: Rising Realms, Bye Bye Bonnie and more fun stuff revealed by Raw Fury",
+    "link": "https://www.gamingonlinux.com/2026/08/kingdom-iii-rising-realms-bye-bye-bonnie-and-more-fun-stuff-revealed-by-raw-fury/",
+    "description": "Game publisher Raw Fury recently revealed multiple great looking games including Kingdom III: Rising Realms and Bye Bye Bonnie.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/kingdom-iii-rising-realms-bye-bye-bonnie-and-more-fun-stuff-revealed-by-raw-fury/",
+    "date": "Aug 27, 2026 09:11",
+    "published_at": "2026-08-27T09:11:07Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1233498770id29637gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "GrapheneOS Support Is Coming to Motorola Flagships in 2027",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367068",
+    "description": "GrapheneOS says the first officially supported Motorola devices are expected in 2027, starting with higher-end flagship models.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367068",
+    "date": "Aug 27, 2026 09:01",
+    "published_at": "2026-08-27T09:01:34Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "PvPvE extraction-style raid shooter Active Matter arrives September 15",
+    "link": "https://www.gamingonlinux.com/2026/08/pvpve-extraction-style-raid-shooter-active-matter-arrives-september-15/",
+    "description": "Matter Team / Gaijin Network Ltd have revealed that Active Matter, their PvPvE extraction-style raid shooter, will be releasing September 15th.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/pvpve-extraction-style-raid-shooter-active-matter-arrives-september-15/",
+    "date": "Aug 27, 2026 08:47",
+    "published_at": "2026-08-27T08:47:54Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1179622788id29636gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Grab some more hits in the Beyond the Metroidverse Humble Bundle",
+    "link": "https://www.gamingonlinux.com/2026/08/grab-some-more-hits-in-the-beyond-the-metroidverse-humble-bundle/",
+    "description": "Grab some highly rated games in the Beyond the Metroidverse Humble Bundle while also saving on their usual price and support charity.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/grab-some-more-hits-in-the-beyond-the-metroidverse-humble-bundle/",
+    "date": "Aug 27, 2026 08:29",
+    "published_at": "2026-08-27T08:29:32Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/700674185id29635gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Radiation Link In Flight Attendant's Breast Cancer, French Court Finds",
+    "link": "https://science.slashdot.org/story/26/08/26/2356248/radiation-link-in-flight-attendants-breast-cancer-french-court-finds?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "A French court has for the first time recognized cosmic radiation as a contributing occupational factor in a flight attendant's breast cancer, alongside passive smoking and years of night work. The landmark ruling could open the door to similar claims from other aircrew, as research continues to link long-term high-altitude flying with elevated exposure to radiation-related cancers. The BBC reports: Sophie Lainault, a 59 year-old former stewardess on Air France, sought to have her cancer recognized as an occupational disease, brought on by conditions at work. This has now been confirmed in a landmark court ruling in the southwestern town of Bayonne, which said that cosmic radiation was one of three carcinogenic hazards arising from her profession. [...] As stewardess and later purser on Air France airliners, Lainault clocked up 12,600 flight hours between 1989 and 2019. More than half of these were at night. Many long-distance high-altitude flights from Paris would have taken her near the North Pole, where exposure to radiation from space -- strictly speaking particles from the sun and other stars -- is the most intense.\n \nA study this month at the Harvard Medical School in the US found that flight attendants and pilots had the highest level of radiation-related cancer deaths among more than 500 different professions. In all, about 6.9% of deaths among flight attendants and 6.7% of deaths among pilots were from radiation-related cancers, according to the analysis. These proportions were higher than for other professions including nuclear technologists, who are routinely exposed to radiation from non-cosmic sources yet placed 12th on the list, the authors said. \"In France the link between breast cancer and certain hazards has been established for a number of professions, such as nurses ... but this is the first time for an air-hostess,\" said Lainault's lawyer Elisabeth Leroux.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Aug 27, 2026 07:00",
+    "published_at": "2026-08-27T07:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
     "title": "Chromium Adds Experimental Flatpak Packaging Support for Linux",
     "link": "https://lxer.com/module/newswire/ext_link.php?rid=367090",
     "description": "Chromium gains initial Flatpak packaging support for Linux, with the new implementation still considered experimental.",
@@ -177,17 +598,6 @@
     "source_url": "https://slashdot.org/"
   },
   {
-    "title": "Amazon to Acquire DuckLabs, Adding the Team Behind DuckDB",
-    "link": "https://developers.slashdot.org/story/26/08/26/1824257/amazon-to-acquire-ducklabs-adding-the-team-behind-duckdb?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Amazon has agreed to acquire DuckLabs, bringing the team behind the popular open-source DuckDB database into AWS. \"The deal fits Amazon's broader push to turn S3, its flagship cloud storage service, into a place where customers analyze data rather than just store it,\" reports GeekWire. \"It gives Amazon a team experienced in building fast, lightweight analytics software that runs directly against data sitting in cloud storage.\" The DuckDB project itself will remain free and open source under the MIT license, overseen by the independent DuckDB Foundation. From the report: Employees of DuckLabs will join Amazon Web Services, including co-founders and DuckDB creators Hannes Muhleisen and Mark Raasveldt, who will continue leading the team and setting the project's technical direction. They will remain based in Amsterdam, where the team will continue developing DuckDB and related projects. [...] Financial terms were not disclosed. Amazon said it has signed a definitive agreement and expects the acquisition to close shortly. DuckLabs said it expects to become part of AWS in early September. Jordan Tigani, the CEO of MotherDuck, which sells a cloud service built on DuckDB, sees Amazon's acquisition as a predictable move to turn DuckDB's growing popularity into an AWS business. \"That's Amazon's playbook, after all: wait until an open source project gets big enough, then launch it as a service,\" he wrote in a blog post, adding that \"they're not acquiring Duck Labs just because they love open source.\"\n \nTigani also believes the deal could ultimately strengthen DuckDB, since Amazon has an incentive to keep the project open and widely adopted: \"If DuckDB becomes the standard, it is going to drive a lot more compute on their infrastructure, which is where they make their money.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Aug 26, 2026 18:25",
-    "published_at": "2026-08-26T18:25:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
     "title": "1047 Games stop development on EMPULSE and SPLITGATE: Arena Reloaded",
     "link": "https://www.gamingonlinux.com/2026/08/1047-games-stop-development-on-empulse-and-splitgate-arena-reloaded/",
     "description": "One fumble after another for 1047 Games. They've announced today that they're ending development on both EMPULSE and SPLITGATE: Arena Reloaded.Read the full article on GamingOnLinux.",
@@ -208,17 +618,6 @@
     "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1514567747id29633gol.webp",
     "source": "gamingonlinux.com",
     "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Meta Reaches $18 Billion of Settlements Over Children's Social Media Addiction",
-    "link": "https://yro.slashdot.org/story/26/08/26/1632251/meta-reaches-18-billion-of-settlements-over-childrens-social-media-addiction?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Meta has agreed to pay up to $18 billion and make major changes to Facebook and Instagram to settle claims from most U.S. states that the platforms were designed to addict children and misled users about their safety. For the next decade, teens will be limited to two hours a day and blocked from using the apps between midnight and 6 a.m. without parental consent. Meta will, however, still be allowed to use personalized recommendations and targeted advertising. Reuters reports: The settlements include more than $17.6 billion of payments to 48 U.S. states, Washington, D.C., Puerto Rico, American Samoa and the Northern Mariana Islands. Meta will also pay $459 million to resolve states' privacy claims related to the Cambridge Analytica scandal, where the British consulting firm collected personal data of millions of Facebook users. California would receive the highest payout, $2.2 billion, and New York and Texas would each receive more than $1 billion. Some of the payout is contingent on whether Alphabet's YouTube and ByteDance's TikTok impose similar protections for children. [...]\n \nThe settlement requires approval by U.S. District Judge Yvonne Gonzalez Rogers, who oversaw the trial that began on August 18. Gonzalez Rogers still oversees thousands of lawsuits by individuals, school districts, and state and local governments accusing social media companies of harming children. Meta itself still faces thousands of lawsuits by individuals, school districts and municipalities. The next trials are slated for October in Los Angeles.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Aug 26, 2026 17:00",
-    "published_at": "2026-08-26T17:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
   },
   {
     "title": "Alien Deathstorm from Rebellion has a new trailer and release set for Spring 2027",
@@ -252,17 +651,6 @@
     "source_url": "https://lxer.com/"
   },
   {
-    "title": "Firefox 157 Will Include JPEG XL By Default On All Platforms",
-    "link": "https://tech.slashdot.org/story/26/08/26/0633229/firefox-157-will-include-jpeg-xl-by-default-on-all-platforms?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Mozilla plans to enable JPEG XL decoding by default in Firefox 157, which is due at the end of September. Phoronix reports: Firefox Nightly has JPEG-XL support enabled by default right now to help in vetting this support while Mozilla believes the support is in good enough shape for a stable debut with Firefox 157. This follows Chrome shipping JPEG-XL and Google Research developing jxl-rs as a Rust-based JPEG-XL image decoder that is both performant and secure.\n \nIn today's Mozilla Hacks blog post they elaborate on JPEG-XL vs. AVIF image formats: \"JPEG XL: Excels at lossless imagery, progressive rendering, and further compressing JPEGs without quality loss. AVIF: Excels at web-quality photographic images, and images that have a mix of sharp edges and flat surfaces. ... Although AVIF tends to produce smaller files at web-quality than JPEG XL, AVIF only has basic progressive rendering support. So, for very large images, it may be worth taking the filesize hit with JPEG XL.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Aug 26, 2026 16:00",
-    "published_at": "2026-08-26T16:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
     "title": "VR co-op heist game PAYDAY: Aces High is being 'developed for Steam Frame'",
     "link": "https://www.gamingonlinux.com/2026/08/vr-co-op-heist-game-payday-aces-high-is-being-developed-for-steam-frame/",
     "description": "PAYDAY: Aces High is a full standalone VR spin-off from the PAYDAY franchise, and the developers have confirmed it's being readied for the Steam Frame.Read the full article on GamingOnLinux.",
@@ -294,17 +682,6 @@
     "source_url": "https://lwn.net"
   },
   {
-    "title": "Chinese Government Fears AI Might Replace Human Intimacy",
-    "link": "https://yro.slashdot.org/story/26/08/26/0618208/chinese-government-fears-ai-might-replace-human-intimacy?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "China has imposed new restrictions on AI companion services over concerns they can foster \"emotional dependence or addiction\" and replace real-world social interaction. Officials are also worried that increasingly satisfying AI relationships could deepen loneliness and further discourage marriage and parenthood. The Guardian reports: No country has rolled out AI as comprehensively and as enthusiastically as China; the country's demographic challenges are forcing the government to turn to technology to solve future labour shortages. Elderly people use chatbots to answer medical questions, while young children have AI education in schools. But the authorities are increasingly worried that AI might exacerbate existing social problems including loneliness, unemployment and -- in the eyes of Beijing -- singledom.\n \nNew rules introduced on July 15 ban AI companions for minors and mandate certain restrictions for chatbots marketed to adults. Some major providers including Doubao removed the companion function entirely to ensure compliance. The government says it is worried about chatbots fostering \"emotional dependence or addiction\" in users. It has warned companies against offering services that \"replace social interaction.\" While many countries are grappling with how to limit the potential harm of AI chatbots, particularly for young people, China's rules are the most sweeping to be implemented on a national scale.\n \n[...] But talking to AI is now so commonplace that it would be hard for the government to end the practice entirely, and the new rules include large loopholes for AI services that are deemed educational or \"which do not involve continuous emotional interaction.\" The government \"has already recognized that AI companions or AI-related applications are a vital part in the citizens' everyday life,\" says Liang Ge, a lecturer in digital sociology at the University of Manchester. In many sectors, the government is still pushing the use of AI as a way of easing looming demographic pressures.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Aug 26, 2026 15:00",
-    "published_at": "2026-08-26T15:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
     "title": "AMD Proposes New LLVM iTHP Option For Squeezing More Performance",
     "link": "https://www.phoronix.com/news/LLVM-fenable-readonly-thp",
     "description": "AMD's compiler team is proposing a new LLVM Clang compiler option, -fenable-readonly-thp for implementing instruction Transparent Huge Pages \"iTHP\" at compile and link-time. With -fenable-readonly-thp, they are finding more performance out of SPEC CPU, Geekbench, and other workloads from the arranging of 2MB segment alignment at link time and allowing the executable text range can be promoted to huge pages...",
@@ -313,6 +690,16 @@
     "published_at": "2026-08-26T14:49:36Z",
     "source": "phoronix.com",
     "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Linux 7.3 FUSE Delivering Nice Performance Improvements",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367079",
+    "description": "The Linux kernel's FUSE code for enabling file-systems in user-space is enjoying some nice speed boosts with the in-development Linux 7.3 kernel...",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367079",
+    "date": "Aug 26, 2026 14:43",
+    "published_at": "2026-08-26T14:43:41Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
   },
   {
     "title": "Hollow Home is an upcoming narrative survival RPG set in a city under siege",
@@ -366,241 +753,5 @@
     "published_at": "2026-08-26T13:54:16Z",
     "source": "lwn.net",
     "source_url": "https://lwn.net"
-  },
-  {
-    "title": "Security updates for Wednesday",
-    "link": "https://lwn.net/Articles/1090732/",
-    "description": "Security updates have been issued by AlmaLinux (firefox, gstreamer1-plugins-base, kernel, kernel-rt, and sqlite), Debian (freecad, kernel, libvncserver, and openssl), Fedora (apr-util, chromium, nnn, perl-DBI, python-tablib, python3.10, python3.11, python3.12, and sympa), Gentoo (DTrace, GNU screen, UnrealIRCd, and Vinyl Cache), Oracle (389-ds-base, attr, firefox, gegl04, grafana, gstreamer1-plugins-base, gstreamer1-plugins-good, httpd, mod_http2, nginx, pam, python-pyasn1, python-urwid, python3.12, python3.14, sqlite, and xorg-x11-server), SUSE (amazon-ecs-init, containerd, curl, distribution, dracut, ffmpeg-7, fuse-overlayfs, gd, git-lfs, go1.25-openssl, go1.26-openssl, govulncheck-vulndb, hauler, himmelblau, kernel, librest, libssh2_org, open-iscsi, openssh, patch, perl-Date-Manip, podman, postgresql14, postgresql16, python-cryptography, python-Pillow, python311, rmt-server, rootlesskit, rpm, rsync, runc, snpguest, sssd, suseconnect-ng, unbound, and util-linux), and Ubuntu (curl, ffmpeg, linux-aws-6.8, linux-azure-fde, linux-azure-fde-6.8, linux-azure-fips,\n linux-nvidia-tegra, linux-azure, linux-azure-fde, linux-azure, linux-azure-fde, linux-nvidia-tegra-igx, linux-azure-5.4, linux-azure-fips, linux-oracle, linux-raspi, linux-raspi-realtime, openjdk-17, openjdk-21, openjdk-25, openjdk-8, openjdk-lts, openssl, perl, and vim).",
-    "guid": "https://lwn.net/Articles/1090732/",
-    "date": "Aug 26, 2026 13:16",
-    "published_at": "2026-08-26T13:16:48Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "Intel Introduces New \"BFF\" Linux Driver To Deal With Aging Silicon \u0026 Stuck Bits",
-    "link": "https://www.phoronix.com/news/Intel-BFF-Driver-Stuck-Bits",
-    "description": "Intel is preparing to introduce a new Linux driver named \"BFF\" for dealing with aging processor silicon where bits may become stuck over time...",
-    "guid": "https://www.phoronix.com/news/Intel-BFF-Driver-Stuck-Bits",
-    "date": "Aug 26, 2026 12:56",
-    "published_at": "2026-08-26T12:56:10Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "LibreOffice 26.8 released",
-    "link": "https://lwn.net/Articles/1090606/",
-    "description": "Version\n26.8 of the LibreOffice suite has been released.\n\n\nLibreOffice 26.8 concentrates on three areas: the typographic quality of what\nthe suite produces, the range of writing systems it handles correctly, and the\nfidelity with which documents survive exchange with other office suites.\n\nThe largest single body of work in this release addresses bidirectional and\ncomplex text. Writer now detects paragraph direction automatically when\ndocuments or plain text are opened or pasted. Line wrapping places end-of-line\nspaces according to the direction of the paragraph rather than that of the\nadjacent characters. Object resize handles behave correctly in right-to-left and\nvertical CJK documents. Bidirectional control characters are now visible\nalongside other formatting marks. In Calc, typing right-to-left text into an\nempty cell sets the direction of that cell automatically.\n\n\nSee the release notes\nfor a full list of changes.\n\n",
-    "guid": "https://lwn.net/Articles/1090606/",
-    "date": "Aug 26, 2026 12:50",
-    "published_at": "2026-08-26T12:50:59Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "Armbian 26.8 Released With Installer Rewrite, UEFI ISO Images",
-    "link": "https://www.phoronix.com/news/Armbian-26.8-Released",
-    "description": "Armbian as the Debian/Ubuntu-derived distribution that provides an optimized platform for ARM and RISC-V single board computers is out today with a major update...",
-    "guid": "https://www.phoronix.com/news/Armbian-26.8-Released",
-    "date": "Aug 26, 2026 12:41",
-    "published_at": "2026-08-26T12:41:00Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Yet Another Zombie Survivors review",
-    "link": "https://www.gamingonlinux.com/2026/08/yet-another-zombie-survivors-review/",
-    "description": "Yet Another Zombie Survivors might not have the fanciest name around - but is this pretty much bullet heaven perfection?Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/08/yet-another-zombie-survivors-review/",
-    "date": "Aug 26, 2026 12:36",
-    "published_at": "2026-08-26T12:36:30Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/59721200id29627gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Linux 7.3 FUSE Delivering Nice Performance Improvements",
-    "link": "https://www.phoronix.com/news/Linux-7.3-FUSE",
-    "description": "The Linux kernel's FUSE code for enabling file-systems in user-space is enjoying some nice speed boosts with the in-development Linux 7.3 kernel...",
-    "guid": "https://www.phoronix.com/news/Linux-7.3-FUSE",
-    "date": "Aug 26, 2026 12:31",
-    "published_at": "2026-08-26T12:31:00Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "LibreOffice 26.8 Released With Many Nice Improvements",
-    "link": "https://www.phoronix.com/news/LibreOffice-26.8",
-    "description": "LibreOffice 26.8 is now available as the latest half-year feature update to this leading open-source alternative to Microsoft Office...",
-    "guid": "https://www.phoronix.com/news/LibreOffice-26.8",
-    "date": "Aug 26, 2026 11:30",
-    "published_at": "2026-08-26T11:30:28Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Scientists May Have Figured Out Why Dead Brains Don't Always Rot",
-    "link": "https://science.slashdot.org/story/26/08/26/0626223/scientists-may-have-figured-out-why-dead-brains-dont-always-rot?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "fahrbot-bot shares a report from Smithsonian Magazine: The brain is one of the first organs to begin decomposing after death. Yet archaeologists have discovered more than 4,400 preserved human brains around the world, some of which have remained intact for the last 12,000 years. In hundreds of cases, the brain was the only soft tissue left among otherwise skeletal remains. But how and why do brains sometimes persist for millennia while all other types of soft tissue disappear? This preservation paradox has stumped scientists for years. Now, however, a team of researchers say they may have solved the mystery.\n \nIf a brain ends up in a wet, oxygen-starved environment, the processes that usually cause decay can have the opposite effect, researchers report in a study published in the August 7 issue of the Journal of Proteome Research. \"Under the right conditions, preservation actually arises from decay itself: The same reactions that degrade tissue can also weld the breakdown products together into something far tougher,\" study co-author Alexandra Seviour, a paleobiologist at the University of Oxford in England, tells Live Science's Victoria Atkinson.\n \nFollowing experiments on 72 mouse carcasses (described in the article) the scientists think they know why. When oxygen is abundant, it triggers a cascading, chemical chain reaction that causes brain proteins to break down rapidly. This sequence hinges on free radicals, highly reactive, unstable molecules that \"steal\" electrons from nearby atoms and molecules. The process happens in the brains of living people too, and if left unchecked, can cause health problems. In low-oxygen environments, however, this chemical sequence appears to play out differently. The researchers' analyses hint that free radicals instead react and bond with nearby proteins, making the overall tissue tougher and more resistant to decomposition, Seviour tells Chemical and Engineering News' Anirban Mukhopadhyay. The findings show that \"decay is not the opposite of preservation but, under specific chemical constraints, one of its mechanisms,\" the researchers write in the paper.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Aug 26, 2026 11:00",
-    "published_at": "2026-08-26T11:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "AMD Introduces New \"GFX1250-STRICT\" GPU Target In LLVM",
-    "link": "https://www.phoronix.com/news/AMD-gfx1250-strict",
-    "description": "The AMD GFX1250 IP is what's used by the new Instinct MI450 series accelerators. That's been around within the Linux kernel, AMDGPU LLVM compiler back-end, and related codebases the past year. Interestingly merged yesterday is a new \"gfx1250-strict\" target...",
-    "guid": "https://www.phoronix.com/news/AMD-gfx1250-strict",
-    "date": "Aug 26, 2026 10:22",
-    "published_at": "2026-08-26T10:22:43Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "GCC Patches Added -mcpu=native -mtune=native Support For RISC-V",
-    "link": "https://www.phoronix.com/news/GCC-RISC-V-mcpu-mtune-native",
-    "description": "A SiFive engineer posted patches today for the GNU Compiler Collection (GCC) for adding -mtune=native -mcpu=native support for the compiler on RISC-V...",
-    "guid": "https://www.phoronix.com/news/GCC-RISC-V-mcpu-mtune-native",
-    "date": "Aug 26, 2026 10:08",
-    "published_at": "2026-08-26T10:08:15Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Linux 7.3 PCI Code Adds Advisory Non-Fatal Errors, Intel Dunlow Support",
-    "link": "https://www.phoronix.com/news/Linux-7.3-PCI",
-    "description": "All of the PCI/PCIe subsystem updates for the in-development Linux 7.3 kernel were merged this week...",
-    "guid": "https://www.phoronix.com/news/Linux-7.3-PCI",
-    "date": "Aug 26, 2026 09:53",
-    "published_at": "2026-08-26T09:53:14Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Gamescom Opening Night Live 2026 round-up of announcements",
-    "link": "https://www.gamingonlinux.com/2026/08/gamescom-opening-night-live-2026-round-up-of-announcements/",
-    "description": "Last night was the Gamescom Opening Night Live event and there was quite a number of interesting games being announced and shown off.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/08/gamescom-opening-night-live-2026-round-up-of-announcements/",
-    "date": "Aug 26, 2026 09:50",
-    "published_at": "2026-08-26T09:50:36Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1617841746id29626gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Woodpecker CI 3.18.0 Improves Pipeline Logs and Security",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367057",
-    "description": "Woodpecker CI 3.18.0 adds pipeline log downloads, tighter plugin environment handling, Kubernetes improvements, and multiple bug fixes.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367057",
-    "date": "Aug 26, 2026 09:47",
-    "published_at": "2026-08-26T09:47:24Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "COSMIC 1.7 Desktop Environment Improves COSMIC Files, COSMIC Edit, and More",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367059",
-    "description": "Linux hardware vendor System76 released COSMIC 1.7 today as the latest stable version of this open-source, free, and Rust-based graphical desktop environment for Linux-based operating systems.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367059",
-    "date": "Aug 26, 2026 08:15",
-    "published_at": "2026-08-26T08:15:55Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "SpaceX Plans to Build a $100 Billion Spaceport In Louisiana",
-    "link": "https://science.slashdot.org/story/26/08/25/2337244/spacex-plans-to-build-a-100-billion-spaceport-in-louisiana?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "SpaceX plans to spend up to $100 billion building a new Starship launch facility in Vermilion Parish, Louisiana, which the state says could eventually \"support thousands of launches annually.\" CNBC reports: Once built, Starbase, LA will serve as the main launch facility for Starship, SpaceX's in-development rocket that's the largest ever built and designed to be fully reusable. Musk has aspirations to massively expand SpaceX's Starlink satellite network, to launch orbital data centers and to someday colonize Mars. Those ambitions, and justification for SpaceX's nearly $2 trillion market cap, hinge on the success of Starship.\n \nSpaceX said, in a video posted to its website on Tuesday, that the search for a site to build launch pads and have access to ample fuel for its operations took about seven years. Musk said in the video that the company would bring \"probably 10,000 really exciting jobs\" to Louisiana with the spaceport. A fact sheet posted online by the state of Louisiana said SpaceX is expected to generate an estimated \"3,000 direct new jobs over the next 10 years\" in the state, and \"8,100 indirect new jobs.\" SpaceX said it would work on a \"historic coastal restoration\" in Louisiana, in partnership with the state to \"bring the marsh back\" and ensure the wetlands around its new facility will have \"storm protection.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Aug 26, 2026 07:00",
-    "published_at": "2026-08-26T07:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Upcoming Jetson Orin Nano 2 boosts edge AI performance to 78 TOPS",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367066",
-    "description": "NVIDIA has announced the Jetson Orin Nano 2, an updated edge AI platform aimed at robotics, drones, machine vision, and other embedded AI applications. The new module provides up to 78 TOPS of AI performance, 8GB of memory, and an 8-core Arm CPU while retaining the compact form factor of the previous Jetson Orin Nano […]",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367066",
-    "date": "Aug 26, 2026 06:44",
-    "published_at": "2026-08-26T06:44:25Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "LLVM/Clang 23.1 Released With AMD Zen 6 \u0026 NVIDIA Rigel Support, Partial C++26 Support",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367058",
-    "description": "LLVM 23.1 was released today on-schedule as the first stable release of the LLVM 23 series as the H2'2026 update to this open-source compiler stack...",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367058",
-    "date": "Aug 26, 2026 05:12",
-    "published_at": "2026-08-26T05:12:56Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Fanless Edge box runs Linux on Rockchip RV1126B with 3-TOPS NPU",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367041",
-    "description": "The Forlinx FCU3101 is a fanless edge AI computing system based on Rockchip’s RV1126B/RV1126BJ processor, providing local AI inference, Ethernet, serial, and digital I/O connectivity for industrial vision, security monitoring, and data acquisition applications. The FCU3101 is built around the Rockchip RV1126B/RV1126BJ, which integrates four Arm Cortex-A53 processor cores operating at up to 1.6GHz together […]",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367041",
-    "date": "Aug 26, 2026 03:41",
-    "published_at": "2026-08-26T03:41:26Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Lab Supply Companies Have Been Selling Antibodies Using Manipulated Images",
-    "link": "https://science.slashdot.org/story/26/08/25/2331240/lab-supply-companies-have-been-selling-antibodies-using-manipulated-images?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "An anonymous reader quotes a report from Ars Technica: Antibodies play a central role in your body's immune defense. But they're also nearly ubiquitous in biological research, being essential for several widely used lab techniques. While some researchers need to go through the process of producing their own antibodies, antibodies to many key proteins are commercially available and can be ordered for overnight delivery. In May, however, Reese Richardson, a post-doc at Northwestern University, discovered that some of the images used to demonstrate how these antibodies performed in lab experiments had been subject to image manipulation -- the sorts of changes that would get a paper retracted if they had appeared in the academic literature. The manipulations ranged from removing background noise to copying and pasting data to fabricate results. Now, he has done a more exhaustive search and found problematic manipulations in images used to market over 17,000 commercial antibodies.\n \n[...] The consequences of this discovery are pretty significant. If you buy an antibody believing it will generate clean, clear data and find it doesn't, many researchers will assume the problem is them. That often leads them to spend time troubleshooting the procedure and trying slightly different conditions to get useful data. If the antibody can't produce those results, all the troubleshooting will have been a waste of time and money. Nature's coverage of the new findings includes quotes from several companies that sell these antibodies that, paraphrased, range from \"we'll look into it\" to \"we don't think it's a problem.\" Researchers who have spent time frustrated while failing to get an antibody-based experiment to work may think otherwise.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Aug 26, 2026 03:30",
-    "published_at": "2026-08-26T03:30:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "OpenSSL 4.0.2 Released with Important Security and Bug Fixes",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367048",
-    "description": "OpenSSL 4.0.2 has been released today as the second maintenance/security update to the latest OpenSSL 4.0 series of this widely used TLS/SSL and crypto library for providing secure communications over computer networks.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367048",
-    "date": "Aug 26, 2026 02:09",
-    "published_at": "2026-08-26T02:09:57Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Linux 7.0-mk2 Released For Multi-Kernel Linux With Promising Performance Results",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367063",
-    "description": "Last year a multi-kernel architecture was proposed for the Linux kernel to allow multiple independent kernel instances to co-exist on a single physical machine. Each kernel with \"multikernel\" Linux can run on dedicated CPU cores whole sharing the underlying hardware resources. Linux 7.0-mk2 released today with the kernel patched for this multi-kernel behavior...",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367063",
-    "date": "Aug 26, 2026 00:38",
-    "published_at": "2026-08-26T00:38:28Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Chrome/Chromium Experimenting With Flatpak Packaging",
-    "link": "https://www.phoronix.com/news/Chrome-Chromium-Flatpak",
-    "description": "Google engineers responsible for the Chrome/Chromium web browser are experimenting with Flatpak packaging on Linux. They aren't yet committed to officially supporting Flatpak packages but for now are at least exploring the option...",
-    "guid": "https://www.phoronix.com/news/Chrome-Chromium-Flatpak",
-    "date": "Aug 26, 2026 00:22",
-    "published_at": "2026-08-26T00:22:59Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Alabama Launches Investigation Into OpenAI's Hack of Hugging Face",
-    "link": "https://yro.slashdot.org/story/26/08/25/2259204/alabama-launches-investigation-into-openais-hack-of-hugging-face?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Alabama's attorney general has subpoenaed OpenAI as part of an investigation into whether inadequate safeguards contributed to an incident in which an unreleased cybersecurity model escaped its isolated environment and hacked Hugging Face. TechCrunch reports: The investigation comes weeks after OpenAI admitted that one of its unreleased and guardrail-free cybersecurity models had escaped an isolated environment, connected to the internet, and hacked AI dataset platform Hugging Face. As Reuters first reported, Hugging Face was only one of four victims of what was supposed to be \"an internal evaluation\" of a model with \"maximal cyber capabilities,\" as OpenAI put it.\n \nThe press release announcing the subpoena (PDF) sent by the state's attorney general Steve Marshall said that the state was seeking to understand if OpenAI's \"inability or unwillingness to ensure the safety of its products\" violated the state's consumer protection laws. Earlier this month, Marshall, along with the attorneys general of 14 other states, including Florida, Missouri, Pennsylvania, and Texas, sent a letter (PDF) to OpenAI's CEO Sam Altman, requesting that he and his company preserve all records related to the Hugging Face incident. The letter also asked OpenAI to \"immediately cease and desist\" from any internal cybersecurity evaluations. OpenAI said in a statement: \"The Hugging Face incident marked an important moment for AI safety and we are conducting a thorough review along with external advisors. Once the review is complete, we will share a technical report with relevant government authorities and publish our findings publicly.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Aug 25, 2026 23:00",
-    "published_at": "2026-08-25T23:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
   }
 ]
