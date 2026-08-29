@@ -1,5 +1,223 @@
 [
   {
+    "title": "Xylitol Linked To Strokes and Heart Attacks, Study Finds",
+    "link": "https://science.slashdot.org/story/26/08/29/0058228/xylitol-linked-to-strokes-and-heart-attacks-study-finds?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from The Guardian: A common sweetener used in products such as chewing gum, toothpaste, jam, yoghurts and ice-cream has been linked to an increased risk of strokes, heart attacks and death. Xylitol is a sugar alcohol present in some natural foods in very low amounts. It is also added -- often in amounts 1,000 times higher -- to artificially sweeten foods, beverages and oral care products. Despite its growing use, the long-term health impacts of xylitol have never been widely studied.\n \nIn the largest study of its kind, researchers found high blood levels of xylitol were associated with an increased risk of major adverse cardiovascular events. The findings were presented in Munich at the European Society of Cardiology (ESC) annual congress, the world's largest heart conference. Researchers looked at 17,710 people and compared the 25% with the highest levels of xylitol in their blood against the 25% with the lowest. Those who had the highest amount were 57% more likely to die or suffer a heart attack or stroke, than those with the least, within six years. Even after 30 years, they were still 18% more likely to have suffered one of these cardiac events.\n \nTaken with data from the middle quartiles, the results from both cohorts suggested a dose-dependent relationship: the higher the xylitol blood levels, the higher the cardiovascular event rate. Furthermore, the researchers showed that there was consistent increase in cardiovascular events with xylitol irrespective of baseline characteristics, such as age and sex. The researchers also highlighted that the association was independent of underlying factors such as body mass index, hypertension, diabetes and lipid levels, which might predispose people to low-calorie products.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Aug 29, 2026 15:00",
+    "published_at": "2026-08-29T15:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "KDE Plasma 6.8 Improving Performance \u0026 Efficiency For Some Full Screen Content",
+    "link": "https://www.phoronix.com/news/Plasma-6.8-Full-Screen-Perf",
+    "description": "In addition to the Union QtWidgets initial release happening this week, a number of other improvements also landed in the past few days in making Plasma 6.8 all the more exciting...",
+    "guid": "https://www.phoronix.com/news/Plasma-6.8-Full-Screen-Perf",
+    "date": "Aug 29, 2026 14:48",
+    "published_at": "2026-08-29T14:48:28Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "DXVK 3.1 Released with Initial Support for DXGI Present Parameters",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367133",
+    "description": "DXVK 3.1 was released today as the latest stable version for this Vulkan-based implementation of D3D9, D3D10, and D3D11 for Linux / Wine, bringing new features and improvements for several games.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367133",
+    "date": "Aug 29, 2026 13:26",
+    "published_at": "2026-08-29T13:26:51Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "ReactOS 0.4.16 Released With New Graphical Installer, Better Hardware Support",
+    "link": "https://www.phoronix.com/news/ReactOS-0.4.16-Released",
+    "description": "ReactOS 0.4.16 released today as the newest major update to this \"open-source Windows\" project providing an open-source OS with Windows driver and application compatibility...",
+    "guid": "https://www.phoronix.com/news/ReactOS-0.4.16-Released",
+    "date": "Aug 29, 2026 12:56",
+    "published_at": "2026-08-29T12:56:32Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "D7VK v2.2 for playing retro Windows games on Linux improves Direct3D 3 support",
+    "link": "https://www.gamingonlinux.com/2026/08/d7vk-v2-2-for-playing-retro-windows-games-on-linux-improves-direct3d-3-support/",
+    "description": "D7VK v2.2 is out now continuing to improve retro Windows games on Linux with improvements to Direct3D 3 and various bug fixes.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/d7vk-v2-2-for-playing-retro-windows-games-on-linux-improves-direct3d-3-support/",
+    "date": "Aug 29, 2026 12:35",
+    "published_at": "2026-08-29T12:35:30Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1704365657id29656gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Ubuntu 26.04.1 LTS Released With Initial Collection Of Fixes",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367117",
+    "description": "Canonical today published Ubuntu 26.04.1 LTS as their first point release in the long-term support series for the \"Resolute Raccoon\"...",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367117",
+    "date": "Aug 29, 2026 11:55",
+    "published_at": "2026-08-29T11:55:21Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": " Get up to $175 back for your pre-installed Windows 11 license — new portal provides legal forms, but warns buyers not to wipe storage first ",
+    "link": "https://www.tomshardware.com/software/windows/site-provides-instructions-to-get-up-to-usd175-back-for-your-pre-installed-windows-11-license-new-portal-provides-legal-forms-but-warns-buyers-not-to-wipe-storage-first",
+    "description": " The Refund4Freedom site was put together by the Italian Linux Society and the Free Software Foundation Europe to help address the unfairness of unwanted OS bundling. ",
+    "guid": "2C2xtH7zoXnkiLRQLNfXo7",
+    "date": "Aug 29, 2026 11:39",
+    "published_at": "2026-08-29T11:39:30Z",
+    "image": "https://cdn.mos.cms.futurecdn.net/DpJikreqsPzfAA3BiWX2Hb-1280-80.jpg",
+    "source": "tomshardware.com",
+    "source_url": "https://www.tomshardware.com/software/operating-systems/linux"
+  },
+  {
+    "title": "F2FS With Now Handle Multi-Device Flushes In Parallel With Linux 7.3",
+    "link": "https://www.phoronix.com/news/Linux-7.3-F2FS",
+    "description": "Coming in as a late pull request ahead of the Linux 7.3 merge window closing this weekend were the Flash Friendly File-System (F2FS) updates that have now made it into Linux Git...",
+    "guid": "https://www.phoronix.com/news/Linux-7.3-F2FS",
+    "date": "Aug 29, 2026 11:17",
+    "published_at": "2026-08-29T11:17:00Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "GNOME's Very Exciting Week From Flatpak Funding To Reset Recovery Plus Apps",
+    "link": "https://www.phoronix.com/news/GNOME-Very-Exciting-Week",
+    "description": "This week was extremely eventful in the GNOME space with GPU reset recovery for GNOME Mutter now largely wrapped up and the merge request opened to facilitate the code review. There was also the announcement of the half million Euro Sovereign Tech Agency investment into Flatpak. Plus on the application side were a few more interesting advancements this week.'..",
+    "guid": "https://www.phoronix.com/news/GNOME-Very-Exciting-Week",
+    "date": "Aug 29, 2026 11:02",
+    "published_at": "2026-08-29T11:02:34Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "The World's Busiest Spaceport Is About To Get a Lot Quieter, At Least For Now",
+    "link": "https://science.slashdot.org/story/26/08/29/0049211/the-worlds-busiest-spaceport-is-about-to-get-a-lot-quieter-at-least-for-now?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "SpaceX is significantly reducing Falcon 9 launches from Florida this year, ending the Space Coast's decade-long run as the world's busiest spaceport as more missions shift to Vandenberg Space Force Base in California. The slowdown is expected to continue until Starship begins flying regularly from Florida. Longtime Slashdot reader schwit1 shares a report from Ars Technica: A Falcon 9 launch early Tuesday was the last planned Starlink mission from Cape Canaveral until SpaceX begins flying Starship missions from Florida, according to Kiko Dontchev, the company's vice president of launch. For at least the rest of the year, and maybe longer, this means the launch rate at the Florida spaceport will drop from eight or nine per month to perhaps two per month.\n It wasn't long ago when two launches per month was the norm, an indication of just how quickly SpaceX's launch cadence has grown. Cape Canaveral and Kennedy Space Center sit on adjoining property and share the same range on Florida's east coast, so it is worth considering them a single spaceport. The last time the Florida spaceport did not lead the world in space launches was in 2015.\n \"From here on, Starlink missions out of Florida will fly on Starship,\" Dontchev wrote on X. \"The West Coast team will continue regularly launching Starlink from Vandenberg.\" \"Yep, that'll be louder -- but everybody knows the real action will be in Louisiana, starting in 2029 or so,\" writes schwit1. SpaceX on Tuesday announced plans to spend up to $100 billion building a new Starship launch facility in Vermilion Parish, Louisiana, which the state says could eventually \"support thousands of launches annually.\"\n \nFurther reading: Musk's other unstated reasons for shutting down Falcon 9 in Florida (Behind The Black)\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Aug 29, 2026 11:00",
+    "published_at": "2026-08-29T11:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "California Passes AB-1856 For Open-Source Relief Over Age Verification",
+    "link": "https://www.phoronix.com/news/California-AB-1856-Passes",
+    "description": "As an update to the May story about California's age verification law may end up exempting most Linux distributions, that AB-1856 bill has finally passed!..",
+    "guid": "https://www.phoronix.com/news/California-AB-1856-Passes",
+    "date": "Aug 29, 2026 10:48",
+    "published_at": "2026-08-29T10:48:11Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "SteamOS 3.9 Preview Moves To Linux 7.2, KDE Plasma 6.7 Desktop",
+    "link": "https://www.phoronix.com/news/SteamOS-3.9-Preview",
+    "description": "In time for the weekend Linux gamers, Valve last night released the first preview of SteamOS 3.9 for the Steam Deck, Steam Machine, and other devices.  This early preview comes with some exciting software updates...",
+    "guid": "https://www.phoronix.com/news/SteamOS-3.9-Preview",
+    "date": "Aug 29, 2026 10:35",
+    "published_at": "2026-08-29T10:35:03Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "EndeavourOS Titan Nova Refreshes the ISO Ahead of the Wayland-Based Triton",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367137",
+    "description": "EndeavourOS releases Titan Nova with refreshed hardware support and installer fixes while development continues on the Wayland-based Triton release.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367137",
+    "date": "Aug 29, 2026 10:23",
+    "published_at": "2026-08-29T10:23:52Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Linux 7.3 UBI Adds Support For Per-Device Wear-Leveling Thresholds",
+    "link": "https://www.phoronix.com/news/Linux-7.3-UBI",
+    "description": "The Unsorted Block Images \"UBI\" layer in the Linux kernel for NAND flash memory tracking and wear leveling finally has the notion of per-device wear-leveling thresholds...",
+    "guid": "https://www.phoronix.com/news/Linux-7.3-UBI",
+    "date": "Aug 29, 2026 10:21",
+    "published_at": "2026-08-29T10:21:57Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Ryabitsev: Creepy crawlies",
+    "link": "https://lwn.net/Articles/1091203/",
+    "description": "Konstantin Ryabitsev has written a blog post with\nhard numbers about the impact of AI crawlers on the Linux kernel\nrepositories at git.kernel.org:\n\n\nToday, git.kernel.org receives about 6M daily requests demanding to see\nrandom commits. Of these, 66% are still immediately batted away with the Anubis\nchallenge, but 33% are now solving the math and getting through to the main site\n— because apparently what we have to offer is worth spending a ton of cycles to\ncalculate the Anubis challenge.\n\nIt's impossible to tell with certainty which of these are bots and which are\nreal humans — but chances are, if it's asking for an old commit in a random old\nfork, it's probably not a real developer trying to do their work.\n\nWith a bunch of generous assumptions, legitimate requests are only about 2%\nof git.kernel.org traffic — everything else are scrapers.\n\n\n",
+    "guid": "https://lwn.net/Articles/1091203/",
+    "date": "Aug 29, 2026 09:32",
+    "published_at": "2026-08-29T09:32:34Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "GE-Proton 11-6 released with updates for Wayland, PS5 Controllers and more upgrades",
+    "link": "https://www.gamingonlinux.com/2026/08/ge-proton-11-6-released-with-updates-for-wayland-ps5-controllers-and-more-upgrades/",
+    "description": "The community build of Valve's compatibility layer GE-Proton 11-6 is out now, bringing major new features and changes to running Windows games SteamOS / Linux.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/ge-proton-11-6-released-with-updates-for-wayland-ps5-controllers-and-more-upgrades/",
+    "date": "Aug 29, 2026 09:24",
+    "published_at": "2026-08-29T09:24:45Z",
+    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/ge-proton_gol2.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Direct3D 8/9/10/11 to Vulkan translation layer DXVK 3.1 brings improvements for game launchers, older Frostbite engine and more",
+    "link": "https://www.gamingonlinux.com/2026/08/direct3d-8-9-10-11-to-vulkan-translation-layer-dxvk-3-1-brings-improvements-for-game-launchers-older-frostbite-engine-and-more/",
+    "description": "DXVK 3.1 is out now bringing more impressive upgrades for the Direct3D 8/9/10/11 to Vulkan translation layer that powers Valve's Proton.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/direct3d-8-9-10-11-to-vulkan-translation-layer-dxvk-3-1-brings-improvements-for-game-launchers-older-frostbite-engine-and-more/",
+    "date": "Aug 29, 2026 09:14",
+    "published_at": "2026-08-29T09:14:32Z",
+    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/dxvk_gol2.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "MSI WS300 with 72-Core Grace CPU, Blackwell Ultra GPU, and Dual 400GbE",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367120",
+    "description": "MSI has detailed the XpertStation WS300T60L, a tower workstation based on NVIDIA’s DGX Station architecture and GB300 Grace Blackwell Ultra platform. The system is aimed at AI development, data science, inference, AI agents, and physical AI workloads, with a 72-core Arm processor, Blackwell Ultra GPU, up to 748GB of coherent memory, and dual 400GbE connectivity. […]",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367120",
+    "date": "Aug 29, 2026 08:52",
+    "published_at": "2026-08-29T08:52:22Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "SteamOS 3.9.0 Preview brings major updates to desktop mode, Linux kernel, WiFi and more",
+    "link": "https://www.gamingonlinux.com/2026/08/steamos-3-9-0-preview-brings-major-updates-to-desktop-mode-linux-kernel-wifi-and-more/",
+    "description": "Hot on the heels of the SteamOS 3.8.26 Beta, Valve released SteamOS 3.9.0 Preview bringing some really massive changes to the system.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/steamos-3-9-0-preview-brings-major-updates-to-desktop-mode-linux-kernel-wifi-and-more/",
+    "date": "Aug 29, 2026 08:51",
+    "published_at": "2026-08-29T08:51:02Z",
+    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/steamos-steam-machine_gol2.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Trump Creates a Space Academy and Honors the Artemis Astronauts",
+    "link": "https://science.slashdot.org/story/26/08/28/221237/trump-creates-a-space-academy-and-honors-the-artemis-astronauts?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "President Trump awarded the four-member Artemis II crew the Congressional Space Medal of Honor and signed an executive order directing the creation of a new U.S. Space Academy. The proposed academy would train engineers, scientists, technicians, operators, and astronauts for NASA, the Space Force, and the commercial space industry. Houston Public Media reports: The Artemis II crew -- NASA's Reid Wiseman, Victor Glover, Christina Koch, and the Canadian Space Agency's Jeremy Hansen -- retraced history as they flew around the moon and back in April, the first time humans have been in lunar territory since the 1970s. He had previously hosted the crew members at the White House following their mission and called them during the mission while the crew was tens of thousands of miles away. \"The one thing that really sticks out to us [from that call] is you said how proud you are and how proud our nation is for the job that we've just accomplished,\" Wiseman said during Friday's ceremony. \"And for us, that is what we set out to do. We wanted to inspire this nation to learn.\"\n \nDuring the ceremony, Trump also signed an executive order to create the \"United States Space Academy.\" Under the order, a Presidential Commission on the U.S. Space Academy has 120 days to create a report with guidelines for the U.S. Space Academy. The Commission will include NASA Administrator Jared Isaacman as its Chair, as well as other NASA and space officials. Secretary of Defense Pete Hegseth, Trump's Chief of Staff Susie Wiles, and Michael Kratsios, assistant to the president for science and technology. In effect, it allows the Trump Administration to build the U.S. Space Academy to its liking. \"It will serve both the United States Space Force as well as NASA and the civilian spaceflight industry,\" Trump said. \"And it will attract, train, graduate the very best that our nation and our nation really has to offer.\" As for where the academy will be located, Trump said he was \"going to be choosing a location very shortly.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Aug 29, 2026 07:00",
+    "published_at": "2026-08-29T07:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Artix Linux Drops XLibre Support Just Months After Making It Default",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367132",
+    "description": "Artix Linux is discontinuing XLibre support only months after adopting it as the default X server, alongside refreshed August 2026 ISOs.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367132",
+    "date": "Aug 29, 2026 05:49",
+    "published_at": "2026-08-29T05:49:23Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
     "title": "EndeavourOS Titan Nova Is Out with Linux Kernel 7.1 and KDE Plasma 6.7.4",
     "link": "https://lxer.com/module/newswire/ext_link.php?rid=367139",
     "description": "The EndeavourOS team announced today the general availability for download of EndeavourOS Titan Nova as the latest stable snapshot of this Arch Linux-based distro featuring the KDE Plasma desktop environment.",
@@ -428,69 +646,5 @@
     "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/steamos%20plain%202025.webp",
     "source": "gamingonlinux.com",
     "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Canada Hires 48 Scholars Away From Top US Universities",
-    "link": "https://news.slashdot.org/story/26/08/27/2350251/canada-hires-48-scholars-away-from-top-us-universities?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Canada is recruiting 64 researchers to universities across the country (source paywalled; alternative source), including 48 from U.S. institutions such as Harvard, Yale, and MIT. The hires are backed by more than $364 million in government funding and are part of a broader effort to attract researchers in fields such as AI, climate science, and medicine. The New York Times reports: While scientists often shy away from political discourse, some are saying the Trump administration's assault on science is behind their departure. \"I used to live in the country that I thought was the most enthusiastic about the prospects for science improving the human condition, of any country in the world,\" said Phillip Zamore, the chair of RNA Therapeutics Institute at the University of Massachusetts. \"And I woke up one day and that wasn't true anymore.\" He has been recruited to McGill University in Montreal, which has also hired five other researchers, and will join the medical faculty. \"If scientists don't stand up for truth, no one will,\" Dr. Zamore said.\n \nThe Canada-bound brain drain from U.S. institutions began last year as the Trump administration put forward policies that targeted foreign students, academic freedom and funding for equity-related programs. Kevin Hall, a nutrition scientist who left the U.S. National Institutes of Health last year, accusing federal officials of censoring his research on ultraprocessed foods, has been hired at the University of Ottawa. \"While certain countries are cutting research and turning their back on academic freedom, we're doubling down on science,\" Melanie Joly, Canada's industry minister, told reporters at the announcement, in Vancouver, of the new university hiring. She billed it as the world's \"largest talent attraction\" project. The European Union has made a similar push. \"Years from now, we will look back at today's announcement, and we will be able to seize the lasting impact of our choices,\" Ms. Joly said.\n \nUnpredictable decisions about funding prompted Seth Guikema, a professor in civil and environmental engineering, who has specialized in natural hazards modeling at the University of Michigan, to look elsewhere. His work focuses on how climate hazards inequitably affect communities, and that work has become harder to fund, he said. \"Every country sets its priorities in terms of what is going to get funded, and I think Canada has done a very good job of supporting research in areas that really matter to society,\" said Dr. Guikema, who will start at Western University in London, Ontario in January.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Aug 28, 2026 07:00",
-    "published_at": "2026-08-28T07:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Is ChatGPT Changing How You're Writing?",
-    "link": "https://slashdot.org/story/26/08/27/2315218/is-chatgpt-changing-how-youre-writing?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "An anonymous reader quotes a report fro SFGATE: From \"rizz\" to \"meat proxy,\" words and phrases have fallen in and out of favor for centuries. Culture, politics and technological development have long influenced these trends, and now, new research shows that ChatGPT is beginning to influence how humans communicate. The findings from a team at the Pew Research Center show how, in a short time since OpenAI released ChatGPT in November 2022 and other chatbots followed, the use of certain words and phrases has spiked on the web. The researchers, led by data scientist Samuel Bestvater, studied nearly half a million English language webpage texts in snapshots over the past five years. Not only has AI-written text become more common, but it could also be influencing how people write, such as trying to avoid using the \"tells\" that have become associated with AI-generated text.\n \nBestvater and his team detected double the number of em dashes, double the frequency of particular words -- such as \"delve,\" \"testament\" and \"interplay\" -- and nearly triple the use of a phrasing known as negative parallelisms (\"it's not X, it's Y\"), as well as a 63% increase in Oxford commas. But while AI labs continually try to tweak their models to generate more humanlike text, the people they're mimicking aren't staying the same. \"Human writers might also be changing the way that they write in response to AI. I've seen some anecdotal evidence of people saying, 'Now I avoid em dashes,'\" Bestvater said. \"If human writers are adjusting their choices of words and phrases and punctuation to try to differentiate their writing from AI-generated text, then you would see a pattern that looks sort of like that in the chart.\"\n \n\"You can see changes in people's speech. People are tending to more commonly use these low-frequency words in their speech because they're spending a lot of time listening to or reading AI-generated content,\" said Roger Kreuz, a cognitive psychologist at the University of Memphis who recently wrote about how difficult it is for people to identify bot-written text.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Aug 28, 2026 03:30",
-    "published_at": "2026-08-28T03:30:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Ubuntu 26.04.1 LTS Released With Initial Collection Of Fixes",
-    "link": "https://www.phoronix.com/news/Ubuntu-26.04.1-LTS-Released",
-    "description": "Canonical today published Ubuntu 26.04.1 LTS as their first point release in the long-term support series for the \"Resolute Raccoon\"...",
-    "guid": "https://www.phoronix.com/news/Ubuntu-26.04.1-LTS-Released",
-    "date": "Aug 28, 2026 00:13",
-    "published_at": "2026-08-28T00:13:09Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "AI's Memory Crunch Is Coming For Android Apps",
-    "link": "https://developers.slashdot.org/story/26/08/27/2210241/ais-memory-crunch-is-coming-for-android-apps?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Google is imposing new memory-use limits on Android apps as the AI data center boom contributes to a broader memory chip shortage that could leave lower-cost phones with less RAM. Developers will have until February 2027 to meet new thresholds for memory and bitmap usage. To aid developers, Google is adding tools to flag apps that exceed the limits and help prevent slowdowns and crashes. TechCrunch reports: The company explains that the mobile industry is now facing \"significant hardware supply constraints that are altering device memory availability,\" which can then, in turn, affect the consumer's experience with their devices. To address this, Google is now establishing new performance thresholds across several areas, like dynamic memory usage and bitmap usage. In addition, Google is adding code optimization requirements designed to prevent things like app slowdowns and crashes related to performance.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Aug 27, 2026 23:00",
-    "published_at": "2026-08-27T23:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "OpenAI Is Developing a 'Persistent' AI Agent",
-    "link": "https://features.slashdot.org/story/26/08/27/224230/openai-is-developing-a-persistent-ai-agent?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Wired reports that OpenAI is testing a new \"Persistent mode\" for Codex that would let the agent keep working until explicitly \"put to sleep,\" proactively creating follow-up tasks for itself across sessions and using prior interactions and knowledge of the user to decide what to do next. Code alluding to the feature was spotted in the product's code base, though it has not been rolled out or officially announced yet. From the report: Persistent mode appears in Codex's \"reasoning effort\" menu, in which users can select the level of computing power, tokens, and time they want to allow for an AI model to \"think\" before answering a prompt. It seems to be one of OpenAI's most computationally intensive settings. When users have selected Persistent mode, OpenAI's code base reads that Codex will \"continue working until put to sleep.\" That's a stark contrast to currently available modes, which will stop working on a task after a few minutes or hours, even if it's not complete.\n \nIn another file in the code base, OpenAI describes a feature within Persistent mode called \"proactivity.\" This appears to be a type of system prompt for agents in Persistent mode, which are told that their work is not done when they finish answering a user's request. Instead, the agent is instructed to proactively create follow-up tasks for itself. The agent is capable of working on those tasks across sessions and using past user interactions and \"knowledge of the user\" to decide what to work on. It also has a tool to message the user without being asked but is told to send these sparingly.\n \nThe instructions also set limits for the agent, according to the file. The agent is told that Persistent mode does not expand what it is allowed to do and that altering anything outside the user's own system requires the user's approval first -- seemingly intended to limit how dangerous a persistent AI agent could be. The file sits in the shared core of Codex rather than in the code specific to the terminal, seeming to suggest the proactivity feature is intended for more than the command line tool.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Aug 27, 2026 22:00",
-    "published_at": "2026-08-27T22:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Intel Linux Driver Orphaned For Limiting RF Exposure To Humans",
-    "link": "https://www.phoronix.com/news/Intel-Linux-SAR-Driver-Orphaned",
-    "description": "Over the past year and a half a number of open-source drivers in the Linux kernel have been orphaned as a result of departures from the company. The impact has ranged from the Intel CPU \"coretemp\" temperature driver being orphaned without a maintainer to other lesser known Intel drivers. Another lesser known Intel driver is now being orphaned with no longer having a maintainer at the company: the Intel Specific Absorption Rate Driver...",
-    "guid": "https://www.phoronix.com/news/Intel-Linux-SAR-Driver-Orphaned",
-    "date": "Aug 27, 2026 21:13",
-    "published_at": "2026-08-27T21:13:01Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
   }
 ]
