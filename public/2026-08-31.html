@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link href="data:image/x-icon;base64,AAABAAEAEBAQAAEABAAoAQAAFgAAACgAAAAQAAAAIAAAAAEABAAAAAAAgAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAoKCgAP///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEQAAAAAAARERAAAAAAERIiEQAAAAAiERIRAAAAACEREhEAAAABIRERERAAAAEREiESIAAAARIhEiACAAARERIgAAAgABESIAAiIAEAEiAAAiABEAAgAAIAARAAAAIAIgEQAAAAACACIAAAAAAAARAAAAAAD/HwAA+A8AAOAHAADAAwAAwAMAAMABAACAAQAAgAEAAIAAAAAAAAAAAAAAAAAAAAAAAwAAgA8AAMA/AADg/wAA" rel="icon" type="image/x-icon">
-    <title>/bin/news - August 30, 2026</title>
+    <title>/bin/news - August 31, 2026</title>
     <style>
         body {
             font-family: system-ui, -apple-system, sans-serif;
@@ -378,13 +378,13 @@
                     
                     <tr>
                         
-                        <td class="today">
+                        <td class="">
                             
                                 <a href="2026-08-30.html">30</a>
                             
                         </td>
                         
-                        <td class="">
+                        <td class="today">
                             
                                 <a href="2026-08-31.html">31</a>
                             
@@ -466,8 +466,302 @@
 		</aside>
 
         <main class="main-content">
-            <h2 class="view-title">August 30, 2026</h2>
+            <h2 class="view-title">August 31, 2026</h2>
             <div class="grid">
+                
+                <article>
+                    <h2><a href="https://linux.slashdot.org/story/26/08/31/0222236/multikernel-linux-tree-released-runs-multiple-kernels-on-bare-metal-without-a-hypervisor?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" target="_blank">Multikernel Linux Tree Released: Runs Multiple Kernels On Bare Metal Without a Hypervisor</a></h2>
+                    <div class="meta">
+                        Aug 31, 2026 02:26 | 
+                        Source: <a href="https://slashdot.org/" target="_blank">slashdot.org</a>
+                    </div>
+                    
+                    <img src="https://a.fsdn.com/sd/twitter_icon_large.png">
+                    
+                    <p>&#34;Multikernel Technologies has put out mklinux v7.0-mk2, the first public release of the multikernel Linux tree it&#39;s been building since last year,&#34; reports the blog It&#39;s FOSS:
+
+The basic premise of the project is that one physical server can run several independent Linux kernels side by side, each with its own dedicated CPUs and memory. So, the same box could run a database on one kernel and a GPU training job on another without either kernel touching the other&#39;s resources... One kernel runs as the host, controlling the machine&#39;s CPUs, memory, and PCI devices. When it spins up a new kernel instance, that instance gets its own dedicated slice of hardware and boots straight onto it using Linux&#39;s kexec mechanism, running natively rather than under a hypervisor. 
+
+The host tracks all of this through device tree overlays under /sys/fs/multikernel/, and it can shift hardware between running instances while everything stays up. 
+
+That&#39;s a different setup from both VMs and containers. A VM still puts a hypervisor and a host kernel between the app and the hardware. A container skips the hypervisor, but every tenant on the machine shares one kernel... This release only supports x86_64 hardware, though Multikernel Technologies says the architecture-specific code is already modular enough for other ports to follow later.
+ 
+
+The article notes they&#39;re selling multiple products based on the kernel tree, including one for running AI agents in their own kernel with direct GPU access and one that promises to patch a running kernel without taking the system down.
+
+
+
+
+
+Read more of this story at Slashdot.</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://yro.slashdot.org/story/26/08/31/0043226/gamescom-crime-spree-three-exhibitors-report-their-laptops-were-stolen?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" target="_blank">Gamescom Crime Spree? Three Exhibitors Report Their Laptops Were Stolen</a></h2>
+                    <div class="meta">
+                        Aug 31, 2026 00:38 | 
+                        Source: <a href="https://slashdot.org/" target="_blank">slashdot.org</a>
+                    </div>
+                    
+                    <img src="https://a.fsdn.com/sd/twitter_icon_large.png">
+                    
+                    <p>From the gaming news site Aftermath&#34;
+
+
+Game developer and consultant Ryan Laley traveled to Cologne, Germany from Essex, England to showcase his upcoming horror social deduction game Mimic at the annual Gamescom event. He paid &#34;thousands of pounds&#34; to get a booth at the show, where other game developers and press could try the game ahead of its October release. But Laley&#39;s Gamescom was cut short when he realized Friday morning that his brand new Alienware laptop, purchased for the event, was missing. The laptop was stored in a cupboard in the booth, and Laley started asking nearby vendors to see if someone had moved it. That&#39;s when he realized it was stolen — and that he wasn&#39;t alone. Laley&#39;s booth in Gamescom&#39;s business area, specifically in the International Game Developers Association Lounge, had been hit in what appears to be a string of thefts at the convention center. The business area of the convention is not open to the public, only press and others with specific tickets. Laley said Gamescom advertised this area as having 24/7 security and limited access after hours... 
+
+Publisher and merchandiser iam8bit, in a nearby booth showcasing Escape Academy 2: Back 2 School and Petal Runner, had two laptops with game builds stolen Thursday night from its booth, a representative confirmed to Aftermath.
+
+ 
+&#34;Meanwhile, Tessera Studios had two laptops and a Steam Deck taken from its cabinet,&#34; reports Tom&#39;s Hardware:
+
+Gamescom organizers responded to the issues, saying that although they have arranged for uniformed guards to provide general security, individual booth security must be booked separately. They&#39;ve also advised exhibitors to have insurance against theft, and said these warnings are noted in the terms and conditions for participants, as well as in the event&#39;s technical guidelines. &#34;All cases have been reported to us and to the police, and investigations are already underway,&#34; the organizers&#39; statement read. They also said that security is one of their priorities at the event, but also added, &#34;At an event of this size, however, there will always be individuals attempting to take advantage of the situation.&#34;
+
+
+
+
+
+
+
+Read more of this story at Slashdot.</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://lxer.com/module/newswire/ext_link.php?rid=367164" target="_blank">Linux Just Escaped California&#39;s Mandatory Age Checks - Windows and macOS Didn&#39;t</a></h2>
+                    <div class="meta">
+                        Aug 31, 2026 00:32 | 
+                        Source: <a href="https://lxer.com/" target="_blank">lxer.com</a>
+                    </div>
+                    
+                    <p>California lawmakers unanimously approved a major exemption for open-source operating systems, leaving Windows, macOS, iOS, and Android facing the 2027 age-verification deadline.</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://www.phoronix.com/news/Linux-7.3-rc1-Code-Stats" target="_blank">Linux 7.3-rc1 Close To 41 Million Lines, AMD Kernel Graphics Driver At 6.5 Million Lines</a></h2>
+                    <div class="meta">
+                        Aug 31, 2026 00:23 | 
+                        Source: <a href="https://www.phoronix.com/" target="_blank">phoronix.com</a>
+                    </div>
+                    
+                    <p>With Linus Torvalds remarking in the Linux 7.3-rc1 release announcement of the AMD kernel graphics driver changes for amounting around a third of the -rc1 changes due to the big AMD GPU register files for DCN 6.0 and other new IP additions, here are some fresh code stats at large...</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://lxer.com/module/newswire/ext_link.php?rid=367144" target="_blank">SteamOS 3.9 Preview Moves To Linux 7.2, KDE Plasma 6.7 Desktop</a></h2>
+                    <div class="meta">
+                        Aug 30, 2026 23:01 | 
+                        Source: <a href="https://lxer.com/" target="_blank">lxer.com</a>
+                    </div>
+                    
+                    <p>In time for the weekend Linux gamers, Valve last night released the first preview of SteamOS 3.9 for the Steam Deck, Steam Machine, and other devices.  This early preview comes with some exciting software updates...</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://lwn.net/Articles/1091421/" target="_blank">Kernel prepatch 7.3-rc1</a></h2>
+                    <div class="meta">
+                        Aug 30, 2026 22:52 | 
+                        Source: <a href="https://lwn.net" target="_blank">lwn.net</a>
+                    </div>
+                    
+                    <p>Linus has released 7.3-rc1 and closed the
+merge window for this release.  &#34;Nothing really stands out - except for
+the fact that it&#39;s big. It&#39;s not the biggest rc1 we&#39;ve ever had, but it&#39;s
+certainly up there, at least in number of commits.&#34;  He pulled 15,267
+commits during this merge window, making it the second busiest ever; only
+6.7 has exceeded it.</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://linux.slashdot.org/story/26/08/30/2235224/ais-creepy-crawlers-criticized-by-linux-foundations-it-infrastructure-director?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" target="_blank">AI&#39;s &#39;Creepy&#39; Crawlers Criticized by Linux Foundation&#39;s IT Infrastructure Director</a></h2>
+                    <div class="meta">
+                        Aug 30, 2026 22:38 | 
+                        Source: <a href="https://slashdot.org/" target="_blank">slashdot.org</a>
+                    </div>
+                    
+                    <img src="https://a.fsdn.com/sd/twitter_icon_large.png">
+                    
+                    <p>The Linux Foundation&#39;s director of IT infrastructure says they now spend more CPU cycles &#34;rendering commits for scrapers than we spend on all other kinds of legitimate access.&#34;
+
+
+At any one time, across 5 geo-distributed nodes, there are 14 CPU cores doing nothing but rendering git commits as html.... 
+
+[W]hen a source is guaranteed to be LLM-free, like the entire history of kernel commits, it&#39;s worth its weight in gold as a source of training data... At the time of writing, linux.git is about 1.48 million commits. Oh, and we have about 922 forks of it on git.kernel.org — but don&#39;t worry, it&#39;s actually extremely efficient on the backend, since it&#39;s mostly the same objects in every fork. Unless, of course, you&#39;re a scraper, in which case you have, oh, several BILLION valid URLs you can scrape, only to get 922 duplicates of the same 1.48 million commits — which is exactly what the scrapers are doing. But wait, it&#39;s not just commits itself. You can also ask for patches, plain renders, diffs between arbitrary commits — cgit is happy to let you, which was perfect for the times when the Internet was for humans or crawlers who obeyed robots.txt, and is AWFUL right about now, because we can generate 1.2 METRIC BAJILLION valid URLs just for a single fork of linux.git. 
+
+
+Initially, this was the solution — look through the logs, find out which IPs are obvious scraper bots, and fail2ban them. At first, this was easy, because the bots helpfully told you who they were via their user-agent. Then, they wised up and started pretending that they were random vanilla browsers. So, we started banning them by IP — after all, it&#39;s easy to figure out that an IP that is trying to grab every possible commit in a 8-year-old abandoned fork of linux is not really some lone Chrome on Windows user who is just furiously clicking every link that comes across their screen. The bots then started fanning out to entire subnets, but this was still meh, because obviously an IP coming from Google Compute is just pretending to be a Firefox user... 
+
+
+ And... that&#39;s when things turned really, really ugly. Suddenly, the crawlers were coming from millions of random residential or mobile IPs, all pretending to be random modern browsers. An IP like that would make 4-5 requests and then never show up in the logs again... They descended like swarms of locust, hit hard and fast until the system fell over and then moved on to the next target until you recovered. Then, they returned. Rinse. Repeat. They still do that — welcome to the wonderful world of &#34;proxy SDK monetization.&#34; It&#39;s big business, and your TV is probably doing it... 
+
+Today, git.kernel.org receives about 6M daily requests demanding to see random commits. Of these, 66% are still immediately batted away with the Anubis challenge, but 33% are now solving the math and getting through to the main site — because apparently what we have to offer is worth spending a ton of cycles to calculate the Anubis challenge... With a bunch of generous assumptions, legitimate requests are only about 2% of git.kernel.org traffic — everything else are scrapers... 
+
+[W]e&#39;re turning off features to reduce the number of crawlable URLs and to gate off actions that are expensive for us to run. Expect to lose some functionality, at least when accessing our resources anonymously. Trust me, we hate it just as much as you, but at this point it&#39;s a necessity... [W]e promise to still offer all of our data for download to anyone who asks. You just may have to jump through more hoops to get it. 
+Sorry.
+
+
+
+
+
+Read more of this story at Slashdot.</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://www.phoronix.com/news/Linux-7.3-rc1-Released" target="_blank">Linux 7.3-rc1 With AMD Zen 6 Additions, Better Btrfs Performance &amp; 2026 Steam Controller</a></h2>
+                    <div class="meta">
+                        Aug 30, 2026 21:51 | 
+                        Source: <a href="https://www.phoronix.com/" target="_blank">phoronix.com</a>
+                    </div>
+                    
+                    <p>Like clockwork, the Linux 7.3 merge window has concluded after two weeks and the Linux 7.3-rc1 kernel now available for testing...</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://games.slashdot.org/story/26/08/30/2017215/chesscom-launches-new-poker-site-plans-more-classic-game-sites-with-player-ratings---thanks-to-ai-protyping?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" target="_blank">Chess.com Launches New Poker Site, Plans More Classic Game Sites with Player Ratings - Thanks to   AI Protyping</a></h2>
+                    <div class="meta">
+                        Aug 30, 2026 20:20 | 
+                        Source: <a href="https://slashdot.org/" target="_blank">slashdot.org</a>
+                    </div>
+                    
+                    <img src="https://a.fsdn.com/sd/twitter_icon_large.png">
+                    
+                    <p>In May Chess.com &#34;quietly launched&#34; a free educational poker site named Gambit, reports The Verge, where players can learn the game and improve an Elo-like rating without risking real money. And next Chess.com will expand into more classic games, including go, backgammon, and mahjong:
+
+Like Gambit, Chess.com is developing Elo-style rating systems for these games, as well. [Chess.com&#39;s chief growth officer, Albert Cheng] didn&#39;t say when the new sites will launch but that &#34;development is moving quite rapidly&#34; on them, using the same playbook he used for Gambit... He and one other employee took Gambit from prototype to launch within a year, partly with help from AI, mainly for coding tasks. &#34;I think the biggest advantage that it&#39;s provided is essentially being able to read our existing codebase and our design system and apply consistent patterns to how we develop Chess.com over to a different platform and do so quickly,&#34; Cheng said.... &#34;Just because code is easier to write doesn&#39;t mean that you just let it run on its own, but it certainly is a superpower in getting things off the ground.&#34; 
+
+Cheng also said the version of Gambit that&#39;s live at the time of writing has &#34;zero or close to zero&#34; AI-created assets, which were used in early prototypes. 
+
+
+According to Cheng, without help from AI, getting another site up and running would have required a bigger team or &#34;would have been a lot more disruptive to the status quo of building and growing Chess.&#34; Now that a &#34;small, scrappy&#34; team can get a new platform off the ground much faster, it&#39;s opened the door for Chess.com to dip into more games, starting with poker. 
+
+The poker site already has 75,000 members, according to a blog post Friday — and they&#39;ve already played nearly 20 million hands and completed 100,000 lessons. The site is now holding a daily poker tournament, and on Monday will broadcast the event with live commentary on their Twitch and YouTube channels.
+
+
+
+
+
+Read more of this story at Slashdot.</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://lxer.com/module/newswire/ext_link.php?rid=367167" target="_blank">The FOSS Force Interview With Richard Stallman</a></h2>
+                    <div class="meta">
+                        Aug 30, 2026 19:58 | 
+                        Source: <a href="https://lxer.com/" target="_blank">lxer.com</a>
+                    </div>
+                    
+                    <p>In a wide-ranging interview, the founder of the Free Software Movement discusses GNU, Linux, the open-source split, large language models, SaaSS, digital surveillance, and why software freedom remains a moral issue.</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://www.phoronix.com/news/OpenShot-4.0" target="_blank">OpenShot 4.0 Released In Adapting Video Editor UI To Qt6</a></h2>
+                    <div class="meta">
+                        Aug 30, 2026 19:55 | 
+                        Source: <a href="https://www.phoronix.com/" target="_blank">phoronix.com</a>
+                    </div>
+                    
+                    <p>OpenShot 4.0 was tagged this afternoon on GitHub as the newest major feature release to this open-source non-linear video editing application...</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://tech.slashdot.org/story/26/08/30/1850233/google-maps-renamed-lake-ontario-to-lake-america---but-only-for-us-users?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" target="_blank">Google Maps Renamed Lake Ontario to &#39;Lake America&#39; - But Only for U.S. Users</a></h2>
+                    <div class="meta">
+                        Aug 30, 2026 18:53 | 
+                        Source: <a href="https://slashdot.org/" target="_blank">slashdot.org</a>
+                    </div>
+                    
+                    <img src="https://a.fsdn.com/sd/twitter_icon_large.png">
+                    
+                    <p>It&#39;s already happened — at least on Google Maps.
+
+Google&#39;s online maps reflect name changes in official government sources, Google posted Saturday. So when the U.S. Geographic Names Information System formally changed the name for &#34;Lake Ontario&#34; to &#34;Lake America,&#34; Google also renamed it &#34;Lake America&#34; — for visitors from the U.S. 
+
+&#34;Those in Canada will continue to see &#39;Lake Ontario&#39;,&#34; Google said. 
+
+And people from every other country in the world... &#34;will see both names.&#34; Though here&#39;s how it will be written... 
+
+
+Lake Ontario (Lake America) 
+
+
+&#34;These updates follow our long-standing policy for bodies of water with names that vary from country to country, and are starting to roll out now.&#34; 
+
+
+Meanwhile, NPR reports that Ontario&#39;s Premier posted a billboard reading &#34;Lake Ontario — Now and Always&#34; on Canada&#39;s side of the lake (repeating the message in French). And The Daily Beast reports Google move has also drawn some criticism online:
+
+
+
+&#34;Hey you gave one of the Great Lakes the wrong name; pretty embarrassing mistake so you might want to fix that,&#34; one user wrote on X... 
+
+MapQuest has said it will not be changing the name, and instead launched a new tool that allows users to rename it themselves to whatever they want.
+
+
+
+
+
+
+
+Read more of this story at Slashdot.</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://news.slashdot.org/story/26/08/30/1735223/has-big-tech-captured-americas-schools?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" target="_blank">Has Big Tech Captured America&#39;s Schools?</a></h2>
+                    <div class="meta">
+                        Aug 30, 2026 17:39 | 
+                        Source: <a href="https://slashdot.org/" target="_blank">slashdot.org</a>
+                    </div>
+                    
+                    <img src="https://a.fsdn.com/sd/twitter_icon_large.png">
+                    
+                    <p>America&#39;s public education system has become &#34;an avenue for multitrillion-dollar companies to enact their agendas,&#34; argues a NewYork Times reporter who&#39;s covered that tech industry influence for over 10 years. Big tech companies &#34;advocate for new laws to require schools to teach industry-aligned subjects. They sit on committees that help shape learning standards for public school students...&#34; 
+
+
+The reporter concludes that &#34;Silicon Valley&#39;s efforts to capture the attention of education professionals and provide student training materials can also double as marketing or indoctrination.&#34;
+They enable some of the most powerful corporations on the planet to spin rosy technology stories for administrators, teachers and students, giving them a sanitized view of industry practices and product risks. Many parents would likely object if, say, Exxon Mobil wrote their children&#39;s environmental science curriculum. Or if Purdue Pharma trained their children&#39;s biology teachers. Yet, over the last decade, schools have often embraced the technology industry in similar ways with few questions asked. 
+
+The article excerpts the soon-to-be-released book &#34; Coding Kids: Big Tech&#39;s Battle to Remake Public Schools,&#34; with the reporter adding more thoughts on LinkedIn:
+
+
+Every few years, Silicon Valley has urged American public schools to quickly adopt the latest technology or teach the latest tech subject: Big Data analytics; laptops for every child; algorithm-driven math and reading apps; compter programming; virtual reality. And each time the urgent arguments sounded remarkably similar: if schools just adopted the latest tech tool, or taught the latest tech subject, it would democratize learning for every child and equip students with valuable career skills. 
+Despite good intentions, &#34;today we know some of those classroom tech drives did not exactly pan out as advertised.&#34;
+
+Now some of the same companies that urged schools to provide laptops and coding lessons are employing similar arguments to urge schools to quickly adopt A.I. tools. I&#39;ve spent years covering Chromebooks and student chatbot use. And I&#39;m troubled by our collective amnesia around school tech.
+ 
+Thanks to long-time Slashdot reader theodp for sharing the article.
+
+
+
+
+
+Read more of this story at Slashdot.</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://tech.slashdot.org/story/26/08/30/0644253/a-tiny-rainbow-on-a-chip-could-help-supercharge-6g-networks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" target="_blank">A Tiny &#39;Rainbow On a Chip&#39; Could Help Supercharge 6G Networks</a></h2>
+                    <div class="meta">
+                        Aug 30, 2026 16:34 | 
+                        Source: <a href="https://slashdot.org/" target="_blank">slashdot.org</a>
+                    </div>
+                    
+                    <img src="https://a.fsdn.com/sd/twitter_icon_large.png">
+                    
+                    <p>ScienceDaily reports:
+
+A microchip about the size of a grain of rice can generate a highly organized &#34;rainbow&#34; of light, a capability that could eventually support faster, higher-capacity 6G communications and extremely precise timing for quantum technologies. Physicists at Loughborough University, working with an international research team, demonstrated a system that produces a series of precisely spaced light frequencies. Those optical frequencies can then be converted into multiple high-frequency electromagnetic signals known as millimeter waves. 
+
+ Millimeter waves are attracting growing interest for future communications because they can provide considerably more bandwidth, giving networks more room to transmit data. A major obstacle, however, has been producing these signals with the precision and stability required for advanced applications... &#34;They could ultimately contribute to faster, higher capacity 6G networks,&#34; [said Dr. Luke Peters, of Loughborough University&#39;s Emergent Photonics Research Centre], &#34;but the potential goes far beyond communications. These frequencies could also be used in radar systems as well as spectroscopy and astronomical instruments, helping scientists study materials and make extremely precise measurements of the universe. 
+&#34;These applications are still some way off, and there are challenges to overcome before the technology can be used in real-world systems — but our latest work has tackled a major one...&#34; A microcomb generates an extremely precise set of light frequencies arranged somewhat like the colors in a rainbow, although the light itself is invisible to the human eye. A specialized antenna can then convert those optical frequencies into millimeter waves. Earlier research demonstrated that microcombs could produce a single precise millimeter wave frequency. Generating many frequencies simultaneously could be far more useful because each could potentially serve as a separate channel for transmitting information at the same time. Achieving that, however, requires a microcomb with exceptional stability and signal quality. 
+In a new Nature Communications paper, the Loughborough led researchers report a system capable of doing exactly that. 
+
+Their system connects its chip-based microresonator to a much larger loop of optical fiber where laser light continuously travels through both parts of the system, according to the article. 
+
+&#34;The team is now investigating how the microcomb system could eventually move from a laboratory experiment into practical technology.&#34;
+
+
+
+
+
+Read more of this story at Slashdot.</p>
+                </article>
                 
                 <article>
                     <h2><a href="https://lxer.com/module/newswire/ext_link.php?rid=367108" target="_blank">Kubernetes 1.37 advances workload-aware scheduling and cluster networking</a></h2>
@@ -572,6 +866,16 @@ Read more of this story at Slashdot.</p>
                     </div>
                     
                     <p>The x86 platform driver changes are now in place for the Linux 7.3 kernel with additions for upcoming AMD Zen 6 hardware, the RGB LED driver controls for the Ryzen AI Halo PC, and a lot of laptop support additions and improvements for a variety of devices from different hardware vendors. Plus some handheld gaming device updates too...</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://lxer.com/module/newswire/ext_link.php?rid=367148" target="_blank">GNOME&#39;s Very Exciting Week From Flatpak Funding To Reset Recovery Plus Apps</a></h2>
+                    <div class="meta">
+                        Aug 30, 2026 12:43 | 
+                        Source: <a href="https://lxer.com/" target="_blank">lxer.com</a>
+                    </div>
+                    
+                    <p>This week was extremely eventful in the GNOME space with GPU reset recovery for GNOME Mutter now largely wrapped up and the merge request opened to facilitate the code review. There was also the announcement of the half million Euro Sovereign Tech Agency investment into Flatpak. Plus on the application side were a few more interesting advancements this week.&#39;..</p>
                 </article>
                 
                 <article>
@@ -768,6 +1072,16 @@ Read more of this story at Slashdot.</p>
                 </article>
                 
                 <article>
+                    <h2><a href="https://lxer.com/module/newswire/ext_link.php?rid=367153" target="_blank">Another x86 Advisory From Some Entity Other Than Intel Or AMD</a></h2>
+                    <div class="meta">
+                        Aug 30, 2026 03:34 | 
+                        Source: <a href="https://lxer.com/" target="_blank">lxer.com</a>
+                    </div>
+                    
+                    <p>Last October I highlighted an interesting post on the Linux kernel mailing list around an x86 corporate entity other than Intel or AMD that left mysterious intrigue. The developer that detailed those x86 opcode/CPUID/MSR allocations back in July then detailed 16-tile and 32-tile AMX implementations again for something outside the current scope of Intel/AMD processors. Today another message is being relayed from that &#34;corporate entity other than Intel/AMD.&#34;..</p>
+                </article>
+                
+                <article>
                     <h2><a href="https://lxer.com/module/newswire/ext_link.php?rid=367142" target="_blank">Manjaro-Based Mabox Linux 26.08 Adds New Tools for Custom ISOs</a></h2>
                     <div class="meta">
                         Aug 30, 2026 02:03 | 
@@ -929,73 +1243,6 @@ Read more of this story at Slashdot.</p>
                 </article>
                 
                 <article>
-                    <h2><a href="https://science.slashdot.org/story/26/08/29/1942224/with-the-snip-of-a-gene-scientists-hope-to-erase-high-cholesterol-for-life?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" target="_blank">With the Snip of a Gene, Scientists Hope To Erase High Cholesterol For Life</a></h2>
-                    <div class="meta">
-                        Aug 29, 2026 21:00 | 
-                        Source: <a href="https://slashdot.org/" target="_blank">slashdot.org</a>
-                    </div>
-                    
-                    <img src="https://a.fsdn.com/sd/twitter_icon_large.png">
-                    
-                    <p>CNN reports that &#34;A one-time snip of a key gene lowered heart-clogging cholesterol by about 50% over an entire year with no adverse effects, scientists have reported.&#34;
-
-The overwhelmingly positive results were found in four people who had taken the highest dose of the experimental treatment during a pilot study published in The New England Journal of Medicine in November 2025. That study was extremely small — only 15 patients with dangerously high cholesterol that did not respond to medication. The research was designed to test the safety of five different doses of a gene-altering infusion delivered by CRISPR-Cas9, a biological scissor which cuts a targeted genetic location to modify or turn a gene on or off. &#34;If you&#39;d asked me 15 years ago if we could have done something like this, I would have thought you were crazy,&#34; senior study author Dr. Steven Nissen, chief academic officer of the Sydell and Arnold Miller Family Heart, Vascular &amp; Thoracic Institute at Cleveland Clinic in Ohio, told CNN previously. 
-
-
-
-An update on the study, published Friday in NEJM, appears to answer a key question: Does the intervention last? &#34;Is something like this truly a one and done? That was always the question,&#34; said lead study author Dr. Luke Laffin, a preventive cardiologist at Cleveland Clinic&#39;s Heart, Vascular &amp; Thoracic Institute. &#34;This new data is essentially saying that the decreases in LDL cholesterol and triglycerides we saw at 60 days after treatment have lasted over a year,&#34; Laffin said. &#34;In people who took the highest dose, the reduction seems durable and safe....&#34; 
-
-If larger clinical trials show similar results, the procedure could be a game changer for young people with severe disease, preventive cardiologist Dr. Ann Marie Navar, an associate professor of cardiology at UT Southwestern Medical Center in Dallas, told CNN previously. &#34;If you&#39;re 20 and you have really high cholesterol, it may make a lot more sense to have a one-time treatment that doesn&#39;t require you to have to take a pill every single day or shot every two weeks for the next 60 years,&#34; said Navar, who was not involved in the study. &#34;The potential for this is just enormous.&#34; 
-
-Being born with this mutation naturally &#34;drastically lowers or even eliminates a person&#39;s risk for heart disease,&#34; the article points out. And the study&#39;s senior author adds &#34;now that CRISPR is here, we have the ability to change other people&#39;s genes so they too can have this protection.&#34;
-
-
-
-
-
-Read more of this story at Slashdot.</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://tech.slashdot.org/story/26/08/29/0033244/millions-of-cars-recalled-over-danger-of-bursting-into-flames-but-theyre-not-evs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" target="_blank">Millions of Cars Recalled Over Danger of Bursting Into Flames. But They&#39;re Not EVs.</a></h2>
-                    <div class="meta">
-                        Aug 29, 2026 20:00 | 
-                        Source: <a href="https://slashdot.org/" target="_blank">slashdot.org</a>
-                    </div>
-                    
-                    <img src="https://a.fsdn.com/sd/twitter_icon_large.png">
-                    
-                    <p>The Washington Post shares this tip for car buyers. 
-
-
-Electric vehicles &#34;are not driving the recent growth in recalls warning that vehicles could erupt into flames at any time, even when parked and turned off.&#34;
-
-A Washington Post analysis of National Highway Traffic Safety Administration (NHTSA) recall notices found that conventional gas and diesel vehicles made up the vast majority of vehicles covered by the &#34;park outside&#34; label since 2021. 
-
-
-Last week, The Post wrote about an alarming surge in these so-called &#34;park outside&#34; recalls... A total of an estimated 3.4 million vehicles currently have outstanding recalls of this kind, according to vehicle history provider CarFax.
-Safety experts say the surge in &#34;park outside&#34; recalls appears to be caused by other changes to modern gas and electric vehicles, such as the additional technology in everything from transmissions to seat warmers.... [It&#39;s a messy mix of things that &#34;doesn&#39;t lend itself to simple description of what&#39;s happening,&#34; says Sean Kane, president of auto safety-analysis firm Safety Research and Strategies. &#34;But it boils down to growing electronic systems and the number of components.&#34;] 
-
-They&#39;re known as &#34;key-off fires,&#34; said Frank Borris, a former NHTSA investigator who now works as a safety consultant. &#34;The engine is off,&#34; he said, &#34;but the circuits are still hot and they stay hot all the time.&#34; Earlier this year, Kia needed to recall 463,000 Tellurides because of the risk that the front power-seat switch could overheat and ignite the seat. That was the second time Kia had issued a recall for that one defect. The first recall, in 2024, didn&#39;t fully address the problem. More than 66,000 Ford Expeditions and Lincoln Navigators from the 2021 model year were recalled due to circuit boards in the battery junction box that could short out. At least 16 fires were blamed on the problem, which often ignited when the vehicles were parked and turned off. 
-
-
-NHTSA has issued 93 &#34;park outside&#34; recalls since 2021, according to a Post analysis. Nearly half — 44 recalls — covered vehicles exclusively with conventional internal-combustion engines, while 38 recalls were just for EVs or hybrids. So the number of campaigns were nearly equally divided between gas and electric or hybrid vehicles. But gas vehicles pull away when comparing the size of the recalls. Gas-only campaigns covered a combined 4.6 million vehicles with &#34;park outside&#34; recalls over the past five years, compared to only about 662,000 vehicles that were EVs or hybrids... 
-
-
-Other countries have provided limited looks at the EV fire issue, such as an United Kingdom government review of data from Norway finding that gas and diesel vehicles had a fire incidence rate that was four times higher than EVs from 2016 to 2021.
-
- 
-
-Just in 2026, U.S. authorities have announced 17 new &#34;park outside&#34; recalls covering 1.7 million vehicles, according to the article.
-
-
-
-
-
-Read more of this story at Slashdot.</p>
-                </article>
-                
-                <article>
                     <h2><a href="https://www.phoronix.com/news/FreeBSD-14.5-RC1" target="_blank">FreeBSD 14.5-RC1 Released With Several Security Fixes</a></h2>
                     <div class="meta">
                         Aug 29, 2026 19:16 | 
@@ -1003,398 +1250,6 @@ Read more of this story at Slashdot.</p>
                     </div>
                     
                     <p>Ahead of FreeBSD 14.5-RELEASE hopefully debuting on 8 September, FreeBSD 14.5-RC1 is out today as the final scheduled development release...</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://yro.slashdot.org/story/26/08/29/0539211/chatbot-conversations-can-become-evidence-in-court?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" target="_blank">Chatbot Conversations Can Become Evidence in Court</a></h2>
-                    <div class="meta">
-                        Aug 29, 2026 19:00 | 
-                        Source: <a href="https://slashdot.org/" target="_blank">slashdot.org</a>
-                    </div>
-                    
-                    <img src="https://a.fsdn.com/sd/twitter_icon_large.png">
-                    
-                    <p>The Washington Post looks &#34;a growing number of Americans who have had their private conversations with AI chatbots made public in court,&#34; calling the chatbots &#34;custodians of a fast-growing trove of intimate data that can be sought by law enforcement, or companies or other opponents in civil litigation.&#34;
-
-A Washington Post review of public records and local news stories found that chatbot logs were cited in 12 court cases over the past two years. It&#39;s hard to know how often chatbot material is drawn into investigations and legal proceedings more broadly, because police, and parties in civil cases, don&#39;t have to present in court all the evidence they obtain... In some cases, AI companies have reported people on their platforms to the FBI, leading to prosecutions and at least one conviction... OpenAI has said the company uses software to scan conversations for signs of dangerous behavior and flag them to human reviewers. 
-
-If a reviewer determines a chat indicates &#34;an imminent and credible risk of harm to others,&#34; they report the user to law enforcement, the company said in an April blog post. A spokesperson for OpenAI declined to disclose how many times the company had reported users to police.... Data released by OpenAI shows requests by government agencies and law enforcement for user data growing rapidly. In the second half of 2025, the company disclosed data from more than 80 accounts, an increase of more than four times as many over the same period the year before... 
-
-When police ask someone to open their phone during questioning or after an arrest, they often do so, allowing officers to scroll through the apps they use, [according to Michael Price, the litigation director for the Fourth Amendment Center at the National Association of Criminal Defense Lawyers]... In general, the Fourth Amendment, which protects people against unreasonable searches and seizures of their property, provides the right to refuse a search of the contents of their phone unless police have a warrant. &#34;The short answer is that most people consent,&#34; Price said. &#34;They shouldn&#39;t, but they do...&#34; 
-
-OpenAI CEO Sam Altman has argued that conversations with chatbots should receive special legal protections, similar to conversations between clients and their attorneys. 
-
-Special legal protections aren&#39;t recognized by courts today, the article poitns out. A financial executive who became the subject of a federal criminal investigation for fraud asked Claude about potential defense strategies, then asked a judge to disallow the conversations from the prosecution&#39;s case, according to the article. &#34;But the judge said that protections for conversations between clients and their attorneys did not apply: Claude is not a lawyer, and the executive&#39;s attorneys did not ask him to talk to the chatbot.&#34; 
-
-The article includes quotes from three ChatGPT conversations that later turned up in court proceedings:
-
-
-&#34;I deleted a email a year ago from my yahoo account. Can yahoo still retrieve the email?&#34;
-
-&#34;How f----d am i bro. What if i smahsed the s--- oitta mutlipls cars.&#34;
-&#34;My dad Said that I&#39;m will get a settlement worth of 1million dollar.&#34;
-&#34;As AI becomes a bigger part of everyday life, its use as evidence and in trials is likely to become more prevalent,&#34; the article points out — especially with the growing popularity of agents that take actions for users.
-
-
-
-
-
-Read more of this story at Slashdot.</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://linux.slashdot.org/story/26/08/29/0547248/the-linux-kernel-is-approaching-2000-cves-per-release?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" target="_blank">The Linux Kernel Is Approaching 2,000 CVEs Per Release</a></h2>
-                    <div class="meta">
-                        Aug 29, 2026 18:00 | 
-                        Source: <a href="https://slashdot.org/" target="_blank">slashdot.org</a>
-                    </div>
-                    
-                    <img src="https://a.fsdn.com/sd/twitter_icon_large.png">
-                    
-                    <p>Phoronix reports on Greg Kroah-Hartman&#39;s recent slide from his upcoming talk in Paris at Kernel Recipes 2026 (September 21 to 23):
-
-
-
-With the proliferation of AI/LLM models analyzing the Linux kernel&#39;s vast codebase, there has been a surge in the number of CVEs per kernel release. After typically being around 500 CVEs fixed per release, we are now approaching 2,000 CVEs fixed per release and perhaps will break that threshold for Linux 7.3... Fortunately, most often they end up being lower priority vulnerabilities and often within old/obscure driver code, so the impact is often minimal.
-
-
-
-
-
-
-Read more of this story at Slashdot.</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://games.slashdot.org/story/26/08/29/0437236/grand-theft-auto-6-preview-signals-blockbuster-demand-analysts-say?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" target="_blank">&#39;Grand Theft Auto 6&#39; Preview Signals Blockbuster Demand, Analysts Say</a></h2>
-                    <div class="meta">
-                        Aug 29, 2026 17:00 | 
-                        Source: <a href="https://slashdot.org/" target="_blank">slashdot.org</a>
-                    </div>
-                    
-                    <img src="https://a.fsdn.com/sd/twitter_icon_large.png">
-                    
-                    <p>Rockstar Games has released a 26-minute &#34;extended look&#34; at Grand Theft Auto VI, due for release November 19th.
-After one day the video had nearly 10 million views on YouTube, and when Netflix streamed the footage, &#34;some viewers had to refresh the page after receiving error messages, indicating high usage levels,&#34; reports CNBC:
-
-
-&#34;Some members briefly experienced an issue accessing Netflix, but we quickly recovered,&#34; the company told CNBC. Game streaming platform Twitch, where many viewers were posting their reactions, also experienced bandwidth issues when the trailer was released, according to analysts at Wells Fargo. 
-
-CNBC notes predictions the game could become one of the most profitable entertainment products of all time, while the Washington Post predicting it&#39;s &#34;about to be the biggest pop media event of the year, if not the decade.&#34;
-
- The data backs this up. The latest evidence arrived Thursday, when Netflix viewership surged for the long-awaited first look at gameplay footage, according to data from market intelligence firm Sensor Tower. The firm estimates &#34;GTA VI&#34; has already received about 4.6 million preorders.
-Box office blockbusters like &#34;The Odyssey&#34; take weeks to hit $1 billion. &#34;GTA V&#34; famously did it in three days. Analyst firm Newzoo projects the new game could generate between $3.3 billion and $5.2 billion by the end of its launch week in November... 
-
-The influence of the series, created by Rockstar Games, extends beyond sales records. In 2025, &#34;GTA V&#34; accumulated 1.89 billion hours watched despite being a 12-year-old title, according to Stream Hatchet. Much of those hours are spent watching people role-play in &#34;GTA Online,&#34; particularly through role-play servers managed by studio Cfx.re, which was acquired by Rockstar in 2023. By 2024, the studio said more than 20 million players used its platforms. GTA role-play involves players pretending to be cops, robbers, hapless retail workers or any functioning member of society within the online game... The game can lift up music sales and streams. Tom Petty&#39;s 1989 song &#34;Love is a Long Road&#34; saw stream numbers increased by nearly 37,000 percent on Spotify after it was the soundtrack to the debut &#34;GTA VI&#34; trailer in 2023, according to Universal Music Publishing Group. 
-Christopher Dring, editor-in-chief and co-founder of analysis firm The Game Business, told CNBC&#39;s &#34;Squawk Box Europe&#34; that GTA 5 is still in the top five bestselling video games every year, despite being released 13 years ago, reports CNBC:
-
-The response to Thursday&#39;s gameplay debut indicated that leaks of the content in advance would not impact the launch commercially, he continued. Rockstar Games, which makes the GTA franchise, had called the leaks &#34;heartbreaking....&#34; 
-
-The GTA 6 preview follows a mixed reaction from players to the news that GTA 6 would only be released as a digital download, with no physical disc. The alleged source of the leaked content has claimed the leaks were a protest over Rockstar&#39;s release strategy, and Sony&#39;s plan to end to new PlayStation disc production in 2028. Speaking on the last earnings call on Aug. 7, Take-Two CEO Strauss Zelnick said discs did not make sense to the consumer, adding that its business was &#34;well over 90% digitally distributed.&#34; Data from Circana shows the sale of physical game discs in the U.S. has fallen to its lowest level on record, with spending at $85 million.
-
-
-
-
-
-Read more of this story at Slashdot.</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://www.phoronix.com/news/x86-WBINVD-Advisory" target="_blank">Another x86 Advisory From Some Entity Other Than Intel Or AMD</a></h2>
-                    <div class="meta">
-                        Aug 29, 2026 16:24 | 
-                        Source: <a href="https://www.phoronix.com/" target="_blank">phoronix.com</a>
-                    </div>
-                    
-                    <p>Last October I highlighted an interesting post on the Linux kernel mailing list around an x86 corporate entity other than Intel or AMD that left mysterious intrigue. The developer that detailed those x86 opcode/CPUID/MSR allocations back in July then detailed 16-tile and 32-tile AMX implementations again for something outside the current scope of Intel/AMD processors. Today another message is being relayed from that &#34;corporate entity other than Intel/AMD.&#34;..</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://yro.slashdot.org/story/26/08/29/0325208/as-backlash-grows-more-americans-now-oppose-automated-police-license-plate-readers-than-support?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" target="_blank">As Backlash Grows, More Americans Now Oppose Automated Police License Plate Readers Than Support</a></h2>
-                    <div class="meta">
-                        Aug 29, 2026 16:00 | 
-                        Source: <a href="https://slashdot.org/" target="_blank">slashdot.org</a>
-                    </div>
-                    
-                    <img src="https://a.fsdn.com/sd/twitter_icon_large.png">
-                    
-                    <p>A new survey on police license plate cameras found that &#34;more Americans oppose these surveillance cameras than support them,&#34; reports TechCrunch:
-
-According to a new YouGov survey of 20,000 people across the U.S. that was shared exclusively with The Washington Post, 46% of respondents opposed the company&#39;s surveillance cameras in their communities, while 38% supported them. This is a reversal from last year, when the majority of survey respondents said they were in favor... The survey also reported that more respondents said the surveillance would not make them feel any safer.
- 
-
-
-TechCrunch reports that Flock CEO Garrett &#34;faces a growing public outcry around concerns that Flock&#39;s surveillance cameras, drones, and license plate recognition technology could be misused.&#34; Responding to reports of police abusing Flock&#39;s system, Langley told CBS News &#34; I don&#39;t think that Flock created police abuse. I think we&#39;re the first company to ever shine a light on it and build the tools to find it.&#34; 
-
-But Futurism notes that &#34;a grand jury in Ohio declined to bring felony charges against a man accused of destroying a Flock camera earlier this month — perhaps the clearest sign yet of the country&#39;s overwhelming hatred for the surveillance gadgets.&#34; And Newsweek documents more of the backlash:
-
-
-
-Flock Chief Executive Garrett Langley recently became the subject of a doxxing campaign after his home address was circulated online by opponents of the company&#39;s technology, underscoring how deeply divisive the issue has become.
- 
-
-
-TechCrunch reports Flock&#39;s CEO is now calling for new laws — at the state level — regulating not Flock&#39;s cameras but the police officers who use them:
-
-
-Langley has said that state regulators should &#34;pass bills that make [the illegal use of Flock data] a criminal offense.&#34; And during his Fox News interview, he pointed to the changes the company has already made, while also saying, &#34;Today, it is too often that in Flock and in other technologies, there&#39;s no regulation. There&#39;s no accountability, and we think that&#39;s wrong.&#34;
- 
-
-But Flock has its supporters. One local police department used a 3D printer to create a fake &#34;decoy&#34; camera, then monitored it for five days until they arrested a Florida man for knocking it down.
- 404 Media suggests that because the man told officers he believed it was a camera worth between $1,000 and $5,000, he was charged with three felonies including &#34;grand theft&#34; and criminal mischief of property damage worth over $1,000, plus property crimes against computer equipment supplies. 
-
-Ironically, days earlier the City Council was already considering a resolution to end their city&#39;s use of Flock cameras altogether...
-
-
-
-
-
-Read more of this story at Slashdot.</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt" target="_blank"> California lawmakers unanimously pass Linux exemption from age-verification law — software distributed under the GPL, MIT, BSD, and Apache licenses are exempt </a></h2>
-                    <div class="meta">
-                        Aug 29, 2026 15:57 | 
-                        Source: <a href="https://www.tomshardware.com/software/operating-systems/linux" target="_blank">tomshardware.com</a>
-                    </div>
-                    
-                    <img src="https://cdn.mos.cms.futurecdn.net/G9dtD87HfBhVHzDmSHE2tE-1280-80.jpg">
-                    
-                    <p> California’s legislature has passed Assembly Bill 1856, exempting open-source operating systems from the State’s Digital Age Assurance Act months before the law is due to take effect on January 1, 2027. </p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://science.slashdot.org/story/26/08/29/0058228/xylitol-linked-to-strokes-and-heart-attacks-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" target="_blank">Xylitol Linked To Strokes and Heart Attacks, Study Finds</a></h2>
-                    <div class="meta">
-                        Aug 29, 2026 15:00 | 
-                        Source: <a href="https://slashdot.org/" target="_blank">slashdot.org</a>
-                    </div>
-                    
-                    <img src="https://a.fsdn.com/sd/twitter_icon_large.png">
-                    
-                    <p>An anonymous reader quotes a report from The Guardian: A common sweetener used in products such as chewing gum, toothpaste, jam, yoghurts and ice-cream has been linked to an increased risk of strokes, heart attacks and death. Xylitol is a sugar alcohol present in some natural foods in very low amounts. It is also added -- often in amounts 1,000 times higher -- to artificially sweeten foods, beverages and oral care products. Despite its growing use, the long-term health impacts of xylitol have never been widely studied.
- 
-In the largest study of its kind, researchers found high blood levels of xylitol were associated with an increased risk of major adverse cardiovascular events. The findings were presented in Munich at the European Society of Cardiology (ESC) annual congress, the world&#39;s largest heart conference. Researchers looked at 17,710 people and compared the 25% with the highest levels of xylitol in their blood against the 25% with the lowest. Those who had the highest amount were 57% more likely to die or suffer a heart attack or stroke, than those with the least, within six years. Even after 30 years, they were still 18% more likely to have suffered one of these cardiac events.
- 
-Taken with data from the middle quartiles, the results from both cohorts suggested a dose-dependent relationship: the higher the xylitol blood levels, the higher the cardiovascular event rate. Furthermore, the researchers showed that there was consistent increase in cardiovascular events with xylitol irrespective of baseline characteristics, such as age and sex. The researchers also highlighted that the association was independent of underlying factors such as body mass index, hypertension, diabetes and lipid levels, which might predispose people to low-calorie products.
-
-
-
-
-
-Read more of this story at Slashdot.</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://www.phoronix.com/news/Plasma-6.8-Full-Screen-Perf" target="_blank">KDE Plasma 6.8 Improving Performance &amp; Efficiency For Some Full Screen Content</a></h2>
-                    <div class="meta">
-                        Aug 29, 2026 14:48 | 
-                        Source: <a href="https://www.phoronix.com/" target="_blank">phoronix.com</a>
-                    </div>
-                    
-                    <p>In addition to the Union QtWidgets initial release happening this week, a number of other improvements also landed in the past few days in making Plasma 6.8 all the more exciting...</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://lxer.com/module/newswire/ext_link.php?rid=367133" target="_blank">DXVK 3.1 Released with Initial Support for DXGI Present Parameters</a></h2>
-                    <div class="meta">
-                        Aug 29, 2026 13:26 | 
-                        Source: <a href="https://lxer.com/" target="_blank">lxer.com</a>
-                    </div>
-                    
-                    <p>DXVK 3.1 was released today as the latest stable version for this Vulkan-based implementation of D3D9, D3D10, and D3D11 for Linux / Wine, bringing new features and improvements for several games.</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://www.phoronix.com/news/ReactOS-0.4.16-Released" target="_blank">ReactOS 0.4.16 Released With New Graphical Installer, Better Hardware Support</a></h2>
-                    <div class="meta">
-                        Aug 29, 2026 12:56 | 
-                        Source: <a href="https://www.phoronix.com/" target="_blank">phoronix.com</a>
-                    </div>
-                    
-                    <p>ReactOS 0.4.16 released today as the newest major update to this &#34;open-source Windows&#34; project providing an open-source OS with Windows driver and application compatibility...</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://www.gamingonlinux.com/2026/08/d7vk-v2-2-for-playing-retro-windows-games-on-linux-improves-direct3d-3-support/" target="_blank">D7VK v2.2 for playing retro Windows games on Linux improves Direct3D 3 support</a></h2>
-                    <div class="meta">
-                        Aug 29, 2026 12:35 | 
-                        Source: <a href="https://www.gamingonlinux.com/" target="_blank">gamingonlinux.com</a>
-                    </div>
-                    
-                    <img src="https://www.gamingonlinux.com/uploads/articles/tagline_images/1704365657id29656gol.webp">
-                    
-                    <p>D7VK v2.2 is out now continuing to improve retro Windows games on Linux with improvements to Direct3D 3 and various bug fixes.Read the full article on GamingOnLinux.</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://lxer.com/module/newswire/ext_link.php?rid=367117" target="_blank">Ubuntu 26.04.1 LTS Released With Initial Collection Of Fixes</a></h2>
-                    <div class="meta">
-                        Aug 29, 2026 11:55 | 
-                        Source: <a href="https://lxer.com/" target="_blank">lxer.com</a>
-                    </div>
-                    
-                    <p>Canonical today published Ubuntu 26.04.1 LTS as their first point release in the long-term support series for the &#34;Resolute Raccoon&#34;...</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://www.tomshardware.com/software/windows/site-provides-instructions-to-get-up-to-usd175-back-for-your-pre-installed-windows-11-license-new-portal-provides-legal-forms-but-warns-buyers-not-to-wipe-storage-first" target="_blank"> Get up to $175 back for your pre-installed Windows 11 license — new portal provides legal forms, but warns buyers not to wipe storage first </a></h2>
-                    <div class="meta">
-                        Aug 29, 2026 11:39 | 
-                        Source: <a href="https://www.tomshardware.com/software/operating-systems/linux" target="_blank">tomshardware.com</a>
-                    </div>
-                    
-                    <img src="https://cdn.mos.cms.futurecdn.net/DpJikreqsPzfAA3BiWX2Hb-1280-80.jpg">
-                    
-                    <p> The Refund4Freedom site was put together by the Italian Linux Society and the Free Software Foundation Europe to help address the unfairness of unwanted OS bundling. </p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://www.phoronix.com/news/Linux-7.3-F2FS" target="_blank">F2FS With Now Handle Multi-Device Flushes In Parallel With Linux 7.3</a></h2>
-                    <div class="meta">
-                        Aug 29, 2026 11:17 | 
-                        Source: <a href="https://www.phoronix.com/" target="_blank">phoronix.com</a>
-                    </div>
-                    
-                    <p>Coming in as a late pull request ahead of the Linux 7.3 merge window closing this weekend were the Flash Friendly File-System (F2FS) updates that have now made it into Linux Git...</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://www.phoronix.com/news/GNOME-Very-Exciting-Week" target="_blank">GNOME&#39;s Very Exciting Week From Flatpak Funding To Reset Recovery Plus Apps</a></h2>
-                    <div class="meta">
-                        Aug 29, 2026 11:02 | 
-                        Source: <a href="https://www.phoronix.com/" target="_blank">phoronix.com</a>
-                    </div>
-                    
-                    <p>This week was extremely eventful in the GNOME space with GPU reset recovery for GNOME Mutter now largely wrapped up and the merge request opened to facilitate the code review. There was also the announcement of the half million Euro Sovereign Tech Agency investment into Flatpak. Plus on the application side were a few more interesting advancements this week.&#39;..</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://www.phoronix.com/news/California-AB-1856-Passes" target="_blank">California Passes AB-1856 For Open-Source Relief Over Age Verification</a></h2>
-                    <div class="meta">
-                        Aug 29, 2026 10:48 | 
-                        Source: <a href="https://www.phoronix.com/" target="_blank">phoronix.com</a>
-                    </div>
-                    
-                    <p>As an update to the May story about California&#39;s age verification law may end up exempting most Linux distributions, that AB-1856 bill has finally passed!..</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://www.phoronix.com/news/SteamOS-3.9-Preview" target="_blank">SteamOS 3.9 Preview Moves To Linux 7.2, KDE Plasma 6.7 Desktop</a></h2>
-                    <div class="meta">
-                        Aug 29, 2026 10:35 | 
-                        Source: <a href="https://www.phoronix.com/" target="_blank">phoronix.com</a>
-                    </div>
-                    
-                    <p>In time for the weekend Linux gamers, Valve last night released the first preview of SteamOS 3.9 for the Steam Deck, Steam Machine, and other devices.  This early preview comes with some exciting software updates...</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://lxer.com/module/newswire/ext_link.php?rid=367137" target="_blank">EndeavourOS Titan Nova Refreshes the ISO Ahead of the Wayland-Based Triton</a></h2>
-                    <div class="meta">
-                        Aug 29, 2026 10:23 | 
-                        Source: <a href="https://lxer.com/" target="_blank">lxer.com</a>
-                    </div>
-                    
-                    <p>EndeavourOS releases Titan Nova with refreshed hardware support and installer fixes while development continues on the Wayland-based Triton release.</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://www.phoronix.com/news/Linux-7.3-UBI" target="_blank">Linux 7.3 UBI Adds Support For Per-Device Wear-Leveling Thresholds</a></h2>
-                    <div class="meta">
-                        Aug 29, 2026 10:21 | 
-                        Source: <a href="https://www.phoronix.com/" target="_blank">phoronix.com</a>
-                    </div>
-                    
-                    <p>The Unsorted Block Images &#34;UBI&#34; layer in the Linux kernel for NAND flash memory tracking and wear leveling finally has the notion of per-device wear-leveling thresholds...</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://lwn.net/Articles/1091203/" target="_blank">Ryabitsev: Creepy crawlies</a></h2>
-                    <div class="meta">
-                        Aug 29, 2026 09:32 | 
-                        Source: <a href="https://lwn.net" target="_blank">lwn.net</a>
-                    </div>
-                    
-                    <p>Konstantin Ryabitsev has written a blog post with
-hard numbers about the impact of AI crawlers on the Linux kernel
-repositories at git.kernel.org:
-
-
-Today, git.kernel.org receives about 6M daily requests demanding to see
-random commits. Of these, 66% are still immediately batted away with the Anubis
-challenge, but 33% are now solving the math and getting through to the main site
-— because apparently what we have to offer is worth spending a ton of cycles to
-calculate the Anubis challenge.
-
-It&#39;s impossible to tell with certainty which of these are bots and which are
-real humans — but chances are, if it&#39;s asking for an old commit in a random old
-fork, it&#39;s probably not a real developer trying to do their work.
-
-With a bunch of generous assumptions, legitimate requests are only about 2%
-of git.kernel.org traffic — everything else are scrapers.
-
-
-</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://www.gamingonlinux.com/2026/08/ge-proton-11-6-released-with-updates-for-wayland-ps5-controllers-and-more-upgrades/" target="_blank">GE-Proton 11-6 released with updates for Wayland, PS5 Controllers and more upgrades</a></h2>
-                    <div class="meta">
-                        Aug 29, 2026 09:24 | 
-                        Source: <a href="https://www.gamingonlinux.com/" target="_blank">gamingonlinux.com</a>
-                    </div>
-                    
-                    <img src="https://www.gamingonlinux.com/uploads/tagline_gallery/ge-proton_gol2.webp">
-                    
-                    <p>The community build of Valve&#39;s compatibility layer GE-Proton 11-6 is out now, bringing major new features and changes to running Windows games SteamOS / Linux.Read the full article on GamingOnLinux.</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://www.gamingonlinux.com/2026/08/direct3d-8-9-10-11-to-vulkan-translation-layer-dxvk-3-1-brings-improvements-for-game-launchers-older-frostbite-engine-and-more/" target="_blank">Direct3D 8/9/10/11 to Vulkan translation layer DXVK 3.1 brings improvements for game launchers, older Frostbite engine and more</a></h2>
-                    <div class="meta">
-                        Aug 29, 2026 09:14 | 
-                        Source: <a href="https://www.gamingonlinux.com/" target="_blank">gamingonlinux.com</a>
-                    </div>
-                    
-                    <img src="https://www.gamingonlinux.com/uploads/tagline_gallery/dxvk_gol2.webp">
-                    
-                    <p>DXVK 3.1 is out now bringing more impressive upgrades for the Direct3D 8/9/10/11 to Vulkan translation layer that powers Valve&#39;s Proton.Read the full article on GamingOnLinux.</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://www.gamingonlinux.com/2026/08/debian-linux-developers-vote-to-allow-responsible-use-of-generative-ai/" target="_blank">Debian Linux developers vote to allow &#34;Responsible Use of Generative AI&#34;</a></h2>
-                    <div class="meta">
-                        Aug 29, 2026 09:06 | 
-                        Source: <a href="https://www.gamingonlinux.com/" target="_blank">gamingonlinux.com</a>
-                    </div>
-                    
-                    <img src="https://www.gamingonlinux.com/uploads/tagline_gallery/debian.jpg">
-                    
-                    <p>The flood gates for generative AI in Debian Linux are now seemingly open, with the results from a recent vote now available.Read the full article on GamingOnLinux.</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://lxer.com/module/newswire/ext_link.php?rid=367120" target="_blank">MSI WS300 with 72-Core Grace CPU, Blackwell Ultra GPU, and Dual 400GbE</a></h2>
-                    <div class="meta">
-                        Aug 29, 2026 08:52 | 
-                        Source: <a href="https://lxer.com/" target="_blank">lxer.com</a>
-                    </div>
-                    
-                    <p>MSI has detailed the XpertStation WS300T60L, a tower workstation based on NVIDIA’s DGX Station architecture and GB300 Grace Blackwell Ultra platform. The system is aimed at AI development, data science, inference, AI agents, and physical AI workloads, with a 72-core Arm processor, Blackwell Ultra GPU, up to 748GB of coherent memory, and dual 400GbE connectivity. […]</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://www.gamingonlinux.com/2026/08/steamos-3-9-0-preview-brings-major-updates-to-desktop-mode-linux-kernel-wifi-and-more/" target="_blank">SteamOS 3.9.0 Preview brings major updates to desktop mode, Linux kernel, WiFi and more</a></h2>
-                    <div class="meta">
-                        Aug 29, 2026 08:51 | 
-                        Source: <a href="https://www.gamingonlinux.com/" target="_blank">gamingonlinux.com</a>
-                    </div>
-                    
-                    <img src="https://www.gamingonlinux.com/uploads/tagline_gallery/steamos-steam-machine_gol2.webp">
-                    
-                    <p>Hot on the heels of the SteamOS 3.8.26 Beta, Valve released SteamOS 3.9.0 Preview bringing some really massive changes to the system.Read the full article on GamingOnLinux.</p>
                 </article>
                 
             </div>
