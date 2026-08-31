@@ -1,5 +1,324 @@
 [
   {
+    "title": "Tim Cook's Last Day As CEO of Apple",
+    "link": "https://apple.slashdot.org/story/26/08/31/1719253/tim-cooks-last-day-as-ceo-of-apple?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from 9to5Mac: Today is Tim Cook's last day as Apple CEO, with John Ternus set to take over tomorrow. To mark his last day in the role, Cook penned an emotional memo to Apple employees today. In the memo sent to employees this morning and obtained by 9to5Mac, Cook reflects on his time at Apple and thanks employees for all of their work. He also says he takes \"enormous comfort in handing the helm to someone as brilliant and wonderful and capable\" as John Ternus. \"Few people understand what it takes to build products that change the world the way John does and I could not be more excited for his leadership,\" Cook writes. \"There is something truly special about Apple,\" writes Cook. \"I am most proud of what an annual report could never capture. This place is proof that culture triumphs over everything. We share a belief that what we build matters, and that we have both the opportunity and the responsibility to leave the world better than we found it. That purpose is part of what makes this place extraordinary. Apple helps nurture it, but I believe it lived within each of you long before you arrived here. It is what brought you to this company and what continues to drive the work you do every day.\"\n \nHe continues: \"Together, we have created something far greater than any one of us could have imagined or accomplished alone. And that's the secret to our success. We bring out the best in each other. We lift each other up. We have made it possible to leave our 'dent in the universe,' as Steve once described it, because of who we are and what we believe, because of what we value and how we see the world. How fortunate we are. How fortunate I am...\"\n \nCook also thanked the Apple community in a post on social media, writing: \"Sending lots of love to the Apple community on my last day as CEO. My title changes tomorrow, but the love I have for the Apple community never will. Thank you for being a constant source of inspiration. My gratitude is endless, and I'm excited for the next chapter!\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Aug 31, 2026 18:00",
+    "published_at": "2026-08-31T18:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "MapQuest's App Surges to No. 1 In Navigation After Refusing to Rename Lake Ontario",
+    "link": "https://news.slashdot.org/story/26/08/31/1646204/mapquests-app-surges-to-no-1-in-navigation-after-refusing-to-rename-lake-ontario?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "MapQuest's refusal to rename Lake Ontario as \"Lake America\" has sent its app surging up the charts, making it the No. 1 navigation app in the U.S. and driving \"hundreds of thousands\" of new downloads. In contrast, Google Maps announced on Saturday that it was complying with the Trump administration's name change. TechCrunch reports: The \"OG of online mapping,\" as the company calls itself, announced on Thursday that it would not change the name of Lake Ontario on its maps to Lake America, despite Trump's executive order directing the U.S. Department of the Interior to update the lake's name in the U.S. geographic naming service. As a result, MapQuest's mobile app downloads soared, sending the iOS app to the No. 4 position on the U.S. App Store's Top Charts for apps (not including games) as of Monday morning on the U.S. east coast.\n \nMapQuest also reached the No. 8 position overall in the U.S. App Store across both apps and games, and it became the No. 1 Navigation app in the United States. In Canada's App Store, the app reached No. 2 overall as of Sunday evening. The 30-year-old company remarked that it received \"hundreds of thousands\" of new downloads since its decision to keep the name Lake Ontario in place, and saw its app's usage climb to 50 times above its normal levels. \"We took the same approach we did with the Gulf of Mexico: be part of the conversation, and give people an app that keeps the names they're familiar with,\" said Doug Berger, general manager of MapQuest, in a statement. \"Hundreds of thousands of people signaled to us this weekend that we got it right by downloading our app.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Aug 31, 2026 17:00",
+    "published_at": "2026-08-31T17:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "3mdeb Enhancing The UEFI Update Capsules Experience For Open-Source Firmware",
+    "link": "https://www.phoronix.com/news/OSS-Firmware-UEFI-Updates-Cap",
+    "description": "Open-source firmware consulting firm 3mdeb is out with a new blog post highlighting their recent work on enhancing the UEFI update capsules experience for open-source firmware with Coreboot and their downstream Dasharo offerings...",
+    "guid": "https://www.phoronix.com/news/OSS-Firmware-UEFI-Updates-Cap",
+    "date": "Aug 31, 2026 16:08",
+    "published_at": "2026-08-31T16:08:21Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "A 12TB Steam 'Teraleak' Spills More Than a Decade of Lost PC Gaming History",
+    "link": "https://games.slashdot.org/story/26/08/31/0247220/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "A massive 12TB archive of old Steam2 content has surfaced online, apparently containing nearly every version of games uploaded to Valve's servers between 2003 and 2013, including unreleased prototypes, playtest builds, and cut content. Early discoveries include deleted Portal 2 material, files tied to Half-Life 2: Episode 3, and beta builds of games like Left 4 Dead 2, CS: GO, Spore, and Dragon Age: Origins. Researchers claim much of the material was once accessible through an unsecured public API. Ars Technica reports: The reason this weekend's leaked content cuts off abruptly in 2013 is because that's when Valve updated its content distribution system from \"Steam2\" to the current SteamPipe system. In moving from a proprietary file distribution format to standard HTTP file trees, the new system removed various update approval bottlenecks on Valve's end and streamlined update and patch downloads so they only reflected file differentials.\n \nPublicly accessible early versions of some games released before this SteamPipe transition had been considered lost content by archivists, no longer accessible from Valve itself and living on only as local downloads on aging machines. Apparently all that content wasn't as lost as many thought, though. Longtime Valve watcher and data miner Gabe Follower (previously) wrote on social media this weekend that he had \"verified that everything in Steam2 Teraleak was obtained via a publicly accessible [API] endpoint. It's Valve's fault...\" Spanish-language Valve streamer and analyst Scolcer also said on social media (via machine translation) that the teraleak was \"obtained from a site that was 100% accessible to the public. It was there for everyone to download. No passwords. Nothing. Hidden in plain sight, but with no protection whatsoever.\"\n \nWhat's unclear right now if that API and publicly available Steam2 server content were accessed recently or if this weekend's leak represents content that was privately archived before the 2013 server transition and is just now being made public. \"It could more-so be a collection of different people that knew about it and accumulated whatever people had downloaded back then into this massive archive,\" said The One Epicplayer, a moderator on the Valve Cut Content (VCC) Discord, which has long followed Valve betas and leaks. \"I haven't been filled in on the full details but my suspicion is that these depot [files] were downloaded a long time ago and sat in a private collection,\" CrazyBubba, another VCC Discord moderator, told Ars. \"There were a lot of leaks a few years back and many folks hoarded files for years. ... historically there have been issues with people lording content over other members.\"\n \nA readme file included with the leak offers \"warm n good wishes to all hoarders who had stuff from this collection\" and encourages users to mirror and share it as widely as possible. On the VCC Discord, a user purporting to be the original uploader of the teraleak (who offered screenshots of a 22TB server upload log among their evidence) wrote that \"getting this out really took a significant amount of effort from me and I would like it if it didn't go to waste.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Aug 31, 2026 16:00",
+    "published_at": "2026-08-31T16:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Steam Deck / SteamOS hit over 30,000 Verified + Playable games",
+    "link": "https://www.gamingonlinux.com/2026/08/steam-deck-steamos-hit-over-30-000-verified-playable-games/",
+    "description": "A big milestone has been hit by Valve for the Steam Deck, and SteamOS for other devices like the Steam Machine, with over 30,000 Verified + Playable games.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/steam-deck-steamos-hit-over-30-000-verified-playable-games/",
+    "date": "Aug 31, 2026 15:44",
+    "published_at": "2026-08-31T15:44:21Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1431877560id29666gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "OpenShot 4.0 released",
+    "link": "https://lwn.net/Articles/1091606/",
+    "description": "Version\n4.0 of the OpenShot video editor has been released.\n\n\nOpenShot 4.0 has arrived, bringing some of the biggest creative workflow\nupgrades in our history. You can now record your screen, webcam, microphone, and\nsystem audio directly into a project. You can correct and grade footage with\ncolor wheels, curves, LUTs, and professional video scopes. You can also isolate\nsubjects with locally run machine learning models and create everything from\nanimated audio visualizations to cinematic film looks. \n\n\nSee the release\nnotes for a full list of changes.\n\n",
+    "guid": "https://lwn.net/Articles/1091606/",
+    "date": "Aug 31, 2026 15:03",
+    "published_at": "2026-08-31T15:03:32Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "Berlin Is Being Blackmailed By Hackers",
+    "link": "https://it.slashdot.org/story/26/08/31/0229251/berlin-is-being-blackmailed-by-hackers?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from the BBC: Berlin is being blackmailed by hackers who were able to compromise city systems and steal data earlier this month, its mayor has said. Kai Wegner said officials would not cave in to the ransom demand, which came on Thursday evening. He did not say how much was being sought, though Der Spiegel reports the hackers are demanding 30 bitcoin, worth around 2 million euros. Some of the German capital's online systems were forced to close down as a result of the attack, while investigators were working to understand what data had been taken.\n \nThe Rhysida group, which is thought to operate from Russia and eastern Europe, and was behind a previous attack on the British Museum, has reportedly taken responsibility. It has said on its website it intends to begin auctioning the 5.79 terabytes of data it was able to steal from Berlin in seven days' time, according to news agency Reuters. [...] Officials for the city-state said an initial data leak occurred between August 7 and 12. Then, on August 14, two department networks were shut down, making applications for housing benefits and payments impossible for several days. \"Berlin will not be blackmailed,\" Wegner said on Friday.\n \nHe said state police, prosecutors and federal security services were working to investigate the suspected perpetrators \"with the utmost urgency,\" adding that inquiries into the \"content and scope of the compromised data are being pursued with great intensity.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Aug 31, 2026 15:00",
+    "published_at": "2026-08-31T15:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Netdev 0x1A videos and slides are now live",
+    "link": "https://lwn.net/Articles/1091600/",
+    "description": "The Netdev 0x1A conference was\nheld in Rome, Italy from July 13 through July 16. Conference organizer\nJami Hadi Salim has let us know that the videos and slides for all sessions are now\navailable. Topics include Linux QUIC, shared memory socket transport, eBPF-based\nDDoS protection, and more.\n\n",
+    "guid": "https://lwn.net/Articles/1091600/",
+    "date": "Aug 31, 2026 14:44",
+    "published_at": "2026-08-31T14:44:44Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "[$] The rest of the 7.3 merge window",
+    "link": "https://lwn.net/Articles/1089791/",
+    "description": "By the time Linus Torvalds released\n7.3-rc1 and closed the merge window for this release, 15,267 non-merge\nchangesets had been pulled into the mainline repository.  That is the\nsecond-highest commit count for an -rc1 release in the kernel's history;\nonly the 6.7-rc1 release, which included nearly 3,000 commits of bcachefs\nhistory, had more.  About 13,000 of those commits entered the mainline\nafter the first 7.3 merge-window summary\nwas written so, needless to say, there are a lot of changes to cover.",
+    "guid": "https://lwn.net/Articles/1089791/",
+    "date": "Aug 31, 2026 14:12",
+    "published_at": "2026-08-31T14:12:19Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "Linux 7.3 Features Many Exciting Improvements, New Hardware Support \u0026 Faster Btrfs",
+    "link": "https://www.phoronix.com/review/linux-73-features",
+    "description": "With Linux 7.3-rc1 released to cap off the two week merge window, here is a look at the many exciting changes merged for the Linux 7.3 kernel that is working its way toward release in the second half of October.",
+    "guid": "https://www.phoronix.com/review/linux-73-features",
+    "date": "Aug 31, 2026 13:33",
+    "published_at": "2026-08-31T13:33:00Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Security updates for Monday",
+    "link": "https://lwn.net/Articles/1091536/",
+    "description": "Security updates have been issued by Debian (kernel, libarchive, libdbi-perl, libnet-dns-perl, librabbitmq, roundcube, starlette, and xrdp), Fedora (bluez, postgresql16-anonymizer, pyOpenSSL, python-cryptography, python-pynitrokey, and rust-h2), Gentoo (Chromium, Google Chrome, Microsoft Edge, Opera, Freenet, and Tor), Mageia (golang and python-nltk), Red Hat (nodejs22, nodejs24, nodejs:22, and nodejs:24), SUSE (7zip, apptainer, broot, cadvisor, coredns, coturn, distribution-registry, gh, git-lfs, grafana, gzip, java-25-openjdk, libopenssl-3-devel, libsoup-3_0-0, mozjs102, OpenRGB, openssl-3, openvpn, podman, pyenv, python, python-PyPDF2, python310, python312, python313-Authlib, python36, rekor, rsync, rsyslog, tor, trivy, v2ray-core, vim, wget, and wicked), and Ubuntu (bzip2 and openjdk-26).",
+    "guid": "https://lwn.net/Articles/1091536/",
+    "date": "Aug 31, 2026 13:07",
+    "published_at": "2026-08-31T13:07:18Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "Linux Kernel Patches Out For Review To Enable USB4/Thunderbolt For Apple M1 / M2 / M3",
+    "link": "https://www.phoronix.com/news/Linux-USB4-Apple-Silicon",
+    "description": "There is a set of 19 patches out for review on the Linux kernel mailing list that would finally allow the mainline kernel running on Apple Silicon M1 / M2 / M3 SoCs to enjoy USB4/Thunderbolt support...",
+    "guid": "https://www.phoronix.com/news/Linux-USB4-Apple-Silicon",
+    "date": "Aug 31, 2026 12:55",
+    "published_at": "2026-08-31T12:55:11Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Tether Brings the Apple Continuity Experience to Linux",
+    "link": "https://feed.itsfoss.com/link/24361/17435541/tether-apple-continuity-on-linux",
+    "description": "The open source offering syncs iMessage, SMS, and OTP codes between iPhone and Linux without needing a Mac device.",
+    "guid": "6a9542122f93c60001400804",
+    "date": "Aug 31, 2026 12:32",
+    "published_at": "2026-08-31T12:32:04Z",
+    "image": "https://itsfoss.com/content/images/2026/08/tether-iphone-linux-banner.png",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "Hytale Update 6 adds Hardcore Mode, Mod Browser, Gyro Controls, Networking Upgrades and much more",
+    "link": "https://www.gamingonlinux.com/2026/08/hytale-update-6-adds-hardcore-mode-mod-browser-gyro-controls-networking-upgrades-and-much-more/",
+    "description": "Hytale, the in-development open world RPG, has expanded with another huge update and there's lots of fun features added this time.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/hytale-update-6-adds-hardcore-mode-mod-browser-gyro-controls-networking-upgrades-and-much-more/",
+    "date": "Aug 31, 2026 12:09",
+    "published_at": "2026-08-31T12:09:35Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1617440048id29665gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "California's Age Verification Bill Passes with Linux Exemption Intact",
+    "link": "https://yro.slashdot.org/story/26/08/31/0549210/californias-age-verification-bill-passes-with-linux-exemption-intact?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "California's age-verification bill has passed in its legislature — but with its open-source carve-out intact, reports the blog Linuxiac:\n\n\n\nBack in May, we reported that California lawmakers amended Assembly Bill 1856 to carve open-source operating systems out of the state's upcoming age verification requirements. Three months later, that exemption survived the legislative process intact, and the bill has cleared both chambers of the California Legislature... sending the measure to Engrossing and Enrolling, the final legislative preparation stage before it can be presented to Governor Gavin Newsom... \n\nFor operating systems that are covered, AB 1856 builds on California's Digital Age Assurance Act, which is scheduled to take effect on January 1, 2027. Under the current text, when an operating system runs on a device and includes an account setup feature, its provider must offer an interface that asks the account holder for the birth date, age, or both, of the device's primary user during account setup. The operating system must then be capable of providing a digital age signal to covered application stores and application developers through a reasonably consistent real-time API. Instead of exposing a precise birth date, the signal identifies one of four age ranges: under 13, 13 through 15, 16 through 17, or 18 and older... Covered application stores must request the signal from the operating system and make it available to developers.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Aug 31, 2026 11:34",
+    "published_at": "2026-08-31T11:34:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Monster-collecting RPG Cassette Beasts 2002 set for release in March 2027",
+    "link": "https://www.gamingonlinux.com/2026/08/monster-collecting-rpg-cassette-beasts-2002-set-for-release-in-march-2027/",
+    "description": "One missed from the recent flurry of announcements - the monster collecting RPG Cassette Beasts 2002 is set to release and it's going to be a good one.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/monster-collecting-rpg-cassette-beasts-2002-set-for-release-in-march-2027/",
+    "date": "Aug 31, 2026 11:32",
+    "published_at": "2026-08-31T11:32:05Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/686453445id29664gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Open source evolution simulation Thrive brings Multicellular Stage advancements",
+    "link": "https://www.gamingonlinux.com/2026/08/open-source-evolution-simulation-thrive-brings-multicellular-stage-advancements/",
+    "description": "Everything that Spore could have been? A full evolution sim, Thrive, has a big new release out bringing in some brand new game mechanics.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/open-source-evolution-simulation-thrive-brings-multicellular-stage-advancements/",
+    "date": "Aug 31, 2026 11:22",
+    "published_at": "2026-08-31T11:22:43Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/998089484id29663gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Servo 0.5 Released: DuckDuckGo Properly Rendering, Up To 10x Faster Text Rendering",
+    "link": "https://www.phoronix.com/news/Servo-0.5-Released",
+    "description": "Servo 0.5 is out today as the newest monthly update to this open-source, Rust-based browser engine. Servo 0.5 ships many notable enhancements for benefiting those running the Servoshell example browser or looking at Servo as an opportunity for embedded use...",
+    "guid": "https://www.phoronix.com/news/Servo-0.5-Released",
+    "date": "Aug 31, 2026 10:36",
+    "published_at": "2026-08-31T10:36:28Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Portal: Alive \u0026 Kicking is a full remake and re-imagining of Valve's classic out now on Steam",
+    "link": "https://www.gamingonlinux.com/2026/08/portal-alive-kicking-is-a-full-remake-and-re-imagining-of-valves-classic-out-now-on-steam/",
+    "description": "Portal: Alive \u0026 Kicking has officially arrived on Steam, giving the classic Valve game Portal a bit of a makeover.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/portal-alive-kicking-is-a-full-remake-and-re-imagining-of-valves-classic-out-now-on-steam/",
+    "date": "Aug 31, 2026 10:31",
+    "published_at": "2026-08-31T10:31:19Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/696418660id29662gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "New Linux Patches Tune AMD Ryzen Zen 6 To Optimize Performance \u0026 Power Consumption",
+    "link": "https://www.phoronix.com/news/AMD-Zen-6-Client-EPP-Tunings",
+    "description": "Ahead of the next-generation AMD Ryzen Zen 6 client processors debuting, an important patch series was posted overnight to the Linux kernel mailing list. These patches provide new Zen 6 client Energy Performance Preference \"EPP\" tunings that are important for optimizing performance and power consumption for these upcoming AMD Zen 6 desktop and laptop processors...",
+    "guid": "https://www.phoronix.com/news/AMD-Zen-6-Client-EPP-Tunings",
+    "date": "Aug 31, 2026 10:23",
+    "published_at": "2026-08-31T10:23:32Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "AI Crawlers Are Bleeding The Linux Kernel Repo's Compute Power",
+    "link": "https://feed.itsfoss.com/link/24361/17435468/linux-kernel-repo-ai-overrun",
+    "description": "By comparison, only about two percent of the six million daily requests hitting the repo are likely human.",
+    "guid": "6a95063b2f93c60001400602",
+    "date": "Aug 31, 2026 10:11",
+    "published_at": "2026-08-31T10:11:41Z",
+    "image": "https://itsfoss.com/content/images/2026/08/linux-git-repo-crawlers-banner.png",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "GZDoom successor UZDoom 5.0 is officially out now",
+    "link": "https://www.gamingonlinux.com/2026/08/gzdoom-successor-uzdoom-5-0-is-officially-out-now/",
+    "description": "Spawned from GZDoom, the successor project UZDoom just had a massive new release with version 5.0 out now.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/gzdoom-successor-uzdoom-5-0-is-officially-out-now/",
+    "date": "Aug 31, 2026 10:11",
+    "published_at": "2026-08-31T10:11:25Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1725460830id29661gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "A Faster Merge Sort For Mesa 26.3 Vulkan Drivers To Benefit Ray-Tracing",
+    "link": "https://www.phoronix.com/news/Mesa-Vulkan-Faster-Sorting",
+    "description": "One of the latest optimizations to the Mesa Vulkan drivers by Natalie Vock of Valve's Linux graphics team is faster and more vRAM efficient sorting for Morton code keys that are important for fast BVH construction and greater GPU parallelism...",
+    "guid": "https://www.phoronix.com/news/Mesa-Vulkan-Faster-Sorting",
+    "date": "Aug 31, 2026 10:07",
+    "published_at": "2026-08-31T10:07:13Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "NVIDIA VA-API Driver 0.0.18 Ships More Fixes, Chrome/Chromium Decode On Direct Backend",
+    "link": "https://www.phoronix.com/news/NVIDIA-VA-API-Driver-0.0.18",
+    "description": "Firefox has finally begun supporting Vulkan Video decoding to complement their long-used VA-API support on Linux. This is good news for the official NVIDIA Linux graphics driver stack as it's been the notable vendor not supporting the Video Acceleration API. But prior to Firefox rolling out its experimental Vulkan Video support, an independent implementation of VA-API built atop NVIDIA's NVDEC interface has been available for supporting GPU video acceleration in Firefox. That project is out today with its newest release...",
+    "guid": "https://www.phoronix.com/news/NVIDIA-VA-API-Driver-0.0.18",
+    "date": "Aug 31, 2026 09:48",
+    "published_at": "2026-08-31T09:48:13Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Game launcher 'Launchbox' should get a Linux version in 2027",
+    "link": "https://www.gamingonlinux.com/2026/08/game-launcher-launchbox-should-get-a-linux-version-in-2027/",
+    "description": "During their recent celebration event and livestream, the developers of the popular game launcher Launchbox confirmed they are working on a Linux version.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/game-launcher-launchbox-should-get-a-linux-version-in-2027/",
+    "date": "Aug 31, 2026 09:47",
+    "published_at": "2026-08-31T09:47:23Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1410017843id29660gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "OpenTS is a new open-source reconstruction of Command \u0026 Conquer: Tiberian Sun",
+    "link": "https://www.gamingonlinux.com/2026/08/opents-is-a-new-open-source-reconstruction-of-command-conquer-tiberian-sun/",
+    "description": "Command \u0026 Conquer: Tiberian Sun is a true classic - one I remember excitedly reading magazine previews about and it continues to live on.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/opents-is-a-new-open-source-reconstruction-of-command-conquer-tiberian-sun/",
+    "date": "Aug 31, 2026 09:28",
+    "published_at": "2026-08-31T09:28:12Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1071398440id29659gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "DOSBOX Staging 0.83 brings authentic CRT colour emulation, FMV deinterlacer, disc automounting and much more",
+    "link": "https://www.gamingonlinux.com/2026/08/dosbox-staging-0-83-brings-authentic-crt-colour-emulation-fmv-deinterlacer-disc-automounting-and-much-more/",
+    "description": "Whew! Quite a big release for DOSBOX Staging, the popular modern continuation of DOSBox with release 0.83.0 officially out now with many advancements.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/dosbox-staging-0-83-brings-authentic-crt-colour-emulation-fmv-deinterlacer-disc-automounting-and-much-more/",
+    "date": "Aug 31, 2026 09:07",
+    "published_at": "2026-08-31T09:07:17Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1581230528id29658gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "California Bill AB-1856 passes - exempting open source from age verification",
+    "link": "https://www.gamingonlinux.com/2026/08/california-bill-ab-1856-passes-exempting-open-source-from-age-verification/",
+    "description": "The age verification bill in California AB-1856 has passed with the exemptions for open source left intact.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/08/california-bill-ab-1856-passes-exempting-open-source-from-age-verification/",
+    "date": "Aug 31, 2026 08:57",
+    "published_at": "2026-08-31T08:57:52Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1280147548id29657gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "OpenAI To Cut Off AI Models For SpaceX-owned Cursor",
+    "link": "https://slashdot.org/story/26/08/31/0525235/openai-to-cut-off-ai-models-for-spacex-owned-cursor?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "\"OpenAI said on Friday that it plans to stop providing AI models to Cursor, the coding-tool company now owned by Elon Musk's SpaceX,\" reports Reuters:\n\n\n\"We are making this choice because we cannot be confident that SpaceX will use our technology within our terms of service, based on our experience with Elon Musk's companies violating contracts,\" OpenAI said in a blog post... However, Michael Truell, a co-founder of Cursor and now an executive at SpaceX, said on X that the company was speaking with the OpenAI team to resolve this issue. \n\nHours after OpenAI's announcement, Anthropic, which rivals both firms but has an ongoing partnership with SpaceX, said it planned to increase compute to support Claude models in Cursor, according to Tom Brown, one of the co-founders of the firm... \n\nIn its blog post, OpenAI said that X, formerly known as Twitter and now part of SpaceX, had breached the terms of its contract with OpenAI after Musk acquired the platform.\n\"To work with a large partner like SpaceX, we typically rely on custom contracts to ensure compliance with our terms of service and that the integration provides for safety at scale,\" the AI company added. \n\n\nThe article also notes Elon Musk's response Saturday in a post on X.com: \"I couldn't care less.\"\n\nHe accused Altman and OpenAI President Greg Brockman of being \"untrustworthy,\" while repeating his assertion that they \"stole an open source nonprofit.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Aug 31, 2026 07:34",
+    "published_at": "2026-08-31T07:34:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Amazon's HR Lead Uses AI Tool to Write 100,000 Lines of Code - 25 Years After She Last Coded",
+    "link": "https://developers.slashdot.org/story/26/08/31/047227/amazons-hr-lead-uses-ai-tool-to-write-100000-lines-of-code---25-years-after-she-last-coded?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "In an Amazon News blog post, their HR leader describes using AI to write 100,000 lines of code — 25 years after she last coded. \"Do you know how empowering it is to realize that after 25 years away from coding, you can actually build again?\" First she built a calendar app for her family, but then used Amazon's AI-powered coding tool Kiro to write an app for Amazon's internal \"Everyone Can Build\" event.\n\nWe opened the competition to every employee on our team, and within just a few weeks, more than 1,500 people were building. I couldn't believe what they built. One employee built an app that turned a nearly four-hour manual process into a one-second automated check, saving tens of thousands of hours annually. Another made a desktop pet named Momo that keeps your tasks, reminders, and shortcuts a click away. \n\n\nSince then, I've written over 100,000 lines of code with AI. What I've found is that the more you work with these tools, the more natural the process becomes, and the more you realize they're expanding what you're capable of, not replacing it. You don't need perfection to start. You just need to dive in. When I decided to build the submission app for our team competition, I didn't know how to begin, so I asked our internal AI workplace assistant, called Aza. It pointed me to the right tools and helped me take the first step. From there, I opened Kiro and started building. When you give employees the ability and tools to solve problems themselves, they will surprise you with what they create... \n\nAt Amazon, every employee has access to AI tools. Whether someone needs a quick answer, wants to move faster in their day-to-day, or is ready to try building something new, the resources are there. The more people use these tools, the more capable they become with them, and that experience carries forward in their careers... We also want to make it easy for people to build credentials that are recognized across industries. That's why AI training is free for every Amazon employee. Amazon covers the full cost of one AWS AI certification exam per year, with options ranging from foundational AI concepts to professional-level generative AI. Employees can choose the path that fits where they are in their learning journey. \n\n\nLong-time Slashdot reader theodp notes that 7 months ago Galetti also took to Amazon News to announce the elimination of 16,000 corporate jobs, a move which CNBC noted coincided \"with a push to invest heavily in artificial intelligence.\" \n\nThe job reductions come just a few months after October's layoffs, when 14,000 employees were let go across Amazon's corporate workforce. At the time, the company indicated the cuts would continue in 2026 as it found \"additional places we can remove layers.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Aug 31, 2026 04:34",
+    "published_at": "2026-08-31T04:34:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
     "title": "Multikernel Linux Tree Released: Runs Multiple Kernels On Bare Metal Without a Hypervisor",
     "link": "https://linux.slashdot.org/story/26/08/31/0222236/multikernel-linux-tree-released-runs-multiple-kernels-on-bare-metal-without-a-hypervisor?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
     "description": "\"Multikernel Technologies has put out mklinux v7.0-mk2, the first public release of the multikernel Linux tree it's been building since last year,\" reports the blog It's FOSS:\n\nThe basic premise of the project is that one physical server can run several independent Linux kernels side by side, each with its own dedicated CPUs and memory. So, the same box could run a database on one kernel and a GPU training job on another without either kernel touching the other's resources... One kernel runs as the host, controlling the machine's CPUs, memory, and PCI devices. When it spins up a new kernel instance, that instance gets its own dedicated slice of hardware and boots straight onto it using Linux's kexec mechanism, running natively rather than under a hypervisor. \n\nThe host tracks all of this through device tree overlays under /sys/fs/multikernel/, and it can shift hardware between running instances while everything stays up. \n\nThat's a different setup from both VMs and containers. A VM still puts a hypervisor and a host kernel between the app and the hardware. A container skips the hypervisor, but every tenant on the machine shares one kernel... This release only supports x86_64 hardware, though Multikernel Technologies says the architecture-specific code is already modular enough for other ports to follow later.\n \n\nThe article notes they're selling multiple products based on the kernel tree, including one for running AI agents in their own kernel with direct GPU access and one that promises to patch a running kernel without taking the system down.\n\n\n\n\n\nRead more of this story at Slashdot.",
@@ -188,17 +507,6 @@
     "source_url": "https://www.phoronix.com/"
   },
   {
-    "title": "Scientists Turn Plastic Waste Into Edible Cookies",
-    "link": "https://science.slashdot.org/story/26/08/30/0456255/scientists-turn-plastic-waste-into-edible-cookies?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "A team of researchers at Southern Illinois University Carbondale engineered yeast to create cookies that were 3D printed out of plastic waste, reports Futurism:\n\nThe yeast breaks down the components of plastic compounds and agricultural byproducts like discarded plant stalks into proteins, fats, acids, and flavorings that we can eat. When these are combined together, the mixture is fed into a 3D printer that spits out cookies of any desired shape. The researchers chose to print their cookies as the Greek letter Â, creating what they call \"ÂBites\" — or micro bites. They haven't actually eaten one of their ÂBites yet, as they wait for university approval... \"I think it has a pleasant, appealing aroma,\" Lahiru Jayakody, a microbiologist at SIU who led the research, told NewScientist. \"And it will taste good, too. We've not tasted it, but it smells good — that's for sure — like a real cookie....\" \n\n\nThe researchers used CRISPR gene-editing technology to reprogram yeast strains to eat polyethylene terephthalate (PET), a widely used form of plastic commonly found in disposable water bottles, food packaging, and clothes, which is rich with carbon. Before the yeast can start feasting, the PET plastics are subjected to a process called oxidative hydrothermal dissolution to break them down into smaller bits that the microbes can digest. The purported advantage of this approach is that it's environmentally friendly, using only heat, water, and oxygen. The yeast feasts on these stripped-down plastic bits, turning them into a slurry of proteins, fats, and acids that're combined with fiber, starch, and sweetener to make them more palatable. One of the yeast strains in particular was able to turn plant biomass into tasty vanilla flavorings... \n\n[R]ight now, it's an expensive process, costing around $60 to produce a kilogram of cookies, The Guardian reported. And some experts say it's wishful thinking to believe we can 3D-print, and then eat, ourselves out of these global problems with 3D-printed, delectable treats. \"We produce 400 million tons a year of plastic waste. You're not going to turn it all into cookies,\" Jason Hallett at Imperial College London told New Scientist. \"So it's not a solution to the plastic-waste crisis. There's no way you could do this commercially. We're not gonna be eating plastic cookies.\"\n\n \n\nThanks to Slashdot reader fjo3 for sharing the article.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Aug 30, 2026 14:34",
-    "published_at": "2026-08-30T14:34:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
     "title": "KDE Plasma 6.8 Expands Union Theming to QtWidgets Apps",
     "link": "https://lxer.com/module/newswire/ext_link.php?rid=367141",
     "description": "KDE’s upcoming Plasma 6.8 adds early QtWidgets support to the Union theming system, plus lower screencasting latency and better HDR handling.",
@@ -229,27 +537,6 @@
     "source_url": "https://lxer.com/"
   },
   {
-    "title": "SpaceX Launching NASA's Roman Space Telescope to Explore Dark Energy and Habitable Planets",
-    "link": "https://science.slashdot.org/story/26/08/30/0317245/spacex-launching-nasas-roman-space-telescope-to-explore-dark-energy-and-habitable-planets?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "SpaceX is scheduled to launch the Roman Space Telescope on a Falcon Heavy rocket, with the launch window opening at 7:26 a.m. EDT (1126 GMT). NASA will carry the launch live on YouTube. \n\nCNN offers this mission overview from NASA Administrator Jared Isaacman. \"Roman will investigate dark matter, dark energy and the structure of the universe itself, and accelerate the future of discovery of potentially habitable planets outside our solar system.\" In fact, \"NASA anticipates that Roman will image more than 50 times as much of the sky in the next five years as Hubble covered in three decades,\" reports USA Today, noting that \"every single image it beams back to Earth will contain the equivalent of 100 pictures Hubble would capture.\"\n\n\n\n\nThe barrel-shaped Roman telescope is due to set up operations nearly 1 million miles from Earth and begin scouring previously unobservable areas of the cosmos... NASA will make all of Roman's data available for anyone to peruse, meaning astronomers from all over the world will have the opportunity to make use of the observatory for advanced research, NASA says... Spanning 42 feet long and more than 14 feet wide, the Nancy Grace Roman Space Telescope is outfitted with two primary instruments \n\nIts 300-megapixel near-infrared camera is built to look across the universe and study the three-dimensional distribution of dark matter, reports The Conversation. But it's also carrying a coronagraph instrument built to dramatically reduce the glare from distant stars \"that will test the technology for future missions that plan to detect Earth-like planets around other stars.\" \n\n\n The mission's generating some excitement. \"Nearly three decades after dark energy's discovery, astronomers are letting themselves hope that a breakthrough is almost at hand,\" writes Scientific American, adding that cosmologists \"are increasingly questioning the validity of their vaunted standard model, although no one can decide exactly what comes next.\"\n\nRoman will chase down three different ways of detecting dark energy, seeking to more precisely define what its effects on the universe are and whether they're changing over time. The first one involves surveying the skies for a special variety of supernova that's so predictable that scientists can use it as a beacon for calculating what a host galaxy's distance is and how fast it's moving away from us — the same technique that first betrayed dark energy back in the 1990s. The second entails mapping large numbers of galaxies to discern huge, faint bubbles in the cosmos that represent the fossilized signatures of sound waves that froze out of the universe's primordial plasma as it expanded and cooled. The sizes of those bubbles scale with the size and growth of the very early universe, offering a powerful probe for studying cosmic change over time. The third tracer uses a technique called microlensing, which reveals clumps of dark matter via their warping of background starlight, to fill in scientists' still incomplete reckoning of matter's cosmic distribution. \n\nThe Houston Chronicle reports that the telescope will also study rogue planets, isolated black holes, starquakes and planet-forming disks around nearby stars.\n\n \"Almost regardless of what your scientific interest is, Roman is probably already planning to take observations,\" Julie McEnery, Roman's senior project scientist at NASA, said during a July news conference.\" \n\n\n\nNBC News reports that after the Roman telescope launches, \"it's set to spend more than three months journeying to its final destination, located roughly 1 million miles from Earth.\"\n\n\nThree primary surveys are planned over the course of the Roman telescope's mission. During the largest one, which will last over a year, the telescope will peer through the Milky Way's dense, star-packed center, known as the galactic bulge, building a vast catalog of all the astronomical objects it observes. The second and third surveys will focus on dark matter and dark energy. \n\nAxios notes that Roman's primary mirror \"is about the same size as that of Hubble's, but at 80% less weight — reflecting huge tech advancements since Hubble was built in the 1970s.\" And NPR reports NASA began planning the $4.3 billion telescope 15 years ago to search for supernovas to help explore dark energy — when \"a call came in from the government office in charge of surveillance satellites.\"\n\n\n\n\n\"The National Reconnaissance Office reached out to NASA,\" [remembers cosmologist Daniel Scolnic at Duke University], \"saying, 'We have this amazing satellite sitting in a hangar that we're not using. And what what do you guys think about instead of pointing downwards, we point upwards, and you guys use it?'\" NASA said yes. It took some substantial modifications, but now that old satellite is set to become NASA's next major space observatory.... \n\nAnother goal of the telescope is to spend a month surveying all the stars in the Milky Way galaxy. Julie McEnery is Roman's project scientist. She says even though Roman has broadly the same sensitivity and sharpness of vision as the currently orbiting Hubble Space Telescope, its design lets it do things much faster. \"That one month of observations to survey our Milky Way galaxy would take about a century with Hubble,\" says McEnery.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Aug 30, 2026 11:22",
-    "published_at": "2026-08-30T11:22:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "California’s Age Verification Bill Passes with Linux Exemption Intact",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367155",
-    "description": "California lawmakers have approved AB 1856, requiring age signals from covered operating systems while keeping its open-source carve-out intact.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367155",
-    "date": "Aug 30, 2026 11:12",
-    "published_at": "2026-08-30T11:12:12Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
     "title": "NVIDIA Vulkan Frame Rate Up-Conversion \"FRUC\" Merged To FFmpeg",
     "link": "https://www.phoronix.com/news/FFmpeg-NVIDIA-RTX-FRUC",
     "description": "Upstreamed to the FFmpeg multimedia driver code this weekend is support for Frame Rate Up-Conversion \"FRUC\" making use of the NVIDIA Vulkan Optical Flow extension...",
@@ -266,172 +553,6 @@
     "guid": "https://www.phoronix.com/news/Linux-7.3-KVM",
     "date": "Aug 30, 2026 10:41",
     "published_at": "2026-08-30T10:41:00Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Linux 7.3 Introduces 8250_mxpcie Driver For Moxa PCIe Multi-Port Serial Boards",
-    "link": "https://www.phoronix.com/news/Linux-7.3-Serial",
-    "description": "The TTY/Serial code changes for Linux 7.3 were merged this week and include dropping the dated IPWireless driver while introducing the new 8250_mxpcie driver...",
-    "guid": "https://www.phoronix.com/news/Linux-7.3-Serial",
-    "date": "Aug 30, 2026 10:28",
-    "published_at": "2026-08-30T10:28:05Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "The New Way Security Teams Evaluate Pentesting Vendors",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367114",
-    "description": "Security teams typically don’t struggle to find vulnerabilities as much as they have in the past. The harder part usually begins after the report arrives, once dozens of findings land in front of engineering teams already juggling patch schedules, production deadlines, and internal disagreements about urgency. Platforms like XBOW, OffSec, and Cobalt have entered that environment as organizations started rethinking what they actually need from pentesting vendors beyond annual compliance exercises.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367114",
-    "date": "Aug 30, 2026 09:40",
-    "published_at": "2026-08-30T09:40:42Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Libgcrypt 1.12.3 Released With Bug Fixes, Curve Alias, and Faster Crypto",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367113",
-    "description": "A new Libgcrypt release focuses on maintenance and speed, while improving interoperability through an additional elliptic-curve identifier.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367113",
-    "date": "Aug 30, 2026 08:09",
-    "published_at": "2026-08-30T08:09:12Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "BMW Blames Young People For Loss of Real Buttons In New Cars",
-    "link": "https://tech.slashdot.org/story/26/08/30/067214/bmw-blames-young-people-for-loss-of-real-buttons-in-new-cars?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "BMW is about to release their most screen-dependent vehicles ever, reports Car and Driver:\n\n\nStep into the BMW iX3, and you'll notice something is missing: real buttons. The climate controls are fettered to the center screen, as is nearly every other feature, save for a handful located in the center console — at least the window switches are still on the doors...\n\nBut don't blame a desire for larger profit margins; BMW's move away from physical switchgear and toward touchscreen dependence is the fault of younger buyers, according to one executive. In an interview with CarExpert, Vikram Pawah, the CEO of BMW Group Australia, said that young buyers prefer the newer controls... According to the executive, younger customers are less patient with their technology. \"They want things done quickly, and they're multitasking,\" Pawah said. \"And we have to keep that in mind. That's how customers are evolving. They are multitasking....\" \n\nTesla has always forced functions to its center screen; newer players such as Rivian do the same. And in recent years, established brands like Mazda and Mercedes-Benz have moved more and more functions to touchscreens. \n\nBMW's iX3 also includes a new safety feature — a side-radar that detects if a cyclist or vehicle is approaching, and delays the release of the electronic door lock \"until the danger passes.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Aug 30, 2026 07:34",
-    "published_at": "2026-08-30T07:34:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Debian AI Vote has Divided the Community",
-    "link": "https://feed.itsfoss.com/link/24361/17434660/debian-allows-ai-contribution",
-    "description": "Debian is a big name, a leader in the community, so the decision Debian made is going to set a precedent. It may lead to more projects embracing AI as Debian leads the way.",
-    "guid": "6a927a032f93c600013fff0e",
-    "date": "Aug 30, 2026 05:23",
-    "published_at": "2026-08-30T05:23:46Z",
-    "image": "https://itsfoss.com/content/images/2026/08/debian-ai-vote.png",
-    "source": "itsfoss.com",
-    "source_url": "https://itsfoss.com/"
-  },
-  {
-    "title": "ReactOS 0.4.16 Released with New Graphical Installer and Wine 10 Work",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367149",
-    "description": "ReactOS 0.4.16 introduces a graphical installer, improved hardware support, a new ATA driver, and ongoing modernization toward Wine 10.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367149",
-    "date": "Aug 30, 2026 05:06",
-    "published_at": "2026-08-30T05:06:13Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Google's AI-Powered Lifestyle App 'Dreambeans' Now Free in the US",
-    "link": "https://tech.slashdot.org/story/26/08/30/0422259/googles-ai-powered-lifestyle-app-dreambeans-now-free-in-the-us?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Google's AI assistant Gemini crawls your Google apps for \"more personalized suggestions,\" in a feature they call Personal Intelligence. Now when given permission, an Android/iOS app called Dreambeans \"uses Personal Intelligence to connect information from Google apps like Gmail, Calendar, Photos, YouTube and Search History, to curate a finite collection of daily stories designed to spark new ideas.\" In a slick new video Google says the app will \"surface what matters to you.\" \n\nThe blog 9to5Google notes that after previously requiring a subscription, Dreambeans \"is now available for free Google Accounts in the US to test, calling it \"very much like a hyper-personalized Google Now or Discover feed.\"\n\nInstead of using stock imagery, each Dreambeans story is accompanied by Nano Banana 2-generated artwork that uses an illustrated style. For example, if Dreambeans recommends a hike, you might see yourself and a group of friends at that location... There's also an \"Ask anything\" chat experience to get more information. You can leave feedback by tapping the heart or downvoting, while the chat interface allows you to provide more details. \"Tune your feed\" lets you tell Dreambeans what you \"want more stories about\" and what it should never show.\n\n \n\nOr, as TechCrunch senior writer Lucas Ropek puts it, you get a curated list of AI-illustrated \"stories\" that \"will turn your life into a cartoon\"\n\n\n[Gozde Oznur, the product lead behind the new app, told TechCrunch the app] has also been built as a doomscrolling antidote, in that it only provides users with a limited number of stories per day — typically 10 to 14. The idea is to get a few inspirational ideas and then go out and live your life, she said. A lot of companies are currently trying to court the user that is sick of phone addiction. I recently reviewed a startup, Bond, which also uses AI to auto-generate lifestyle suggestions for the user. \nWhat about privacy protections? According to Oznur, they are pretty solid. The only person with access to the app's stories is the user, she said. Users can also delete their data whenever they want, and can choose which Google services they want to connect to the tool.\n\n\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Aug 30, 2026 04:34",
-    "published_at": "2026-08-30T04:34:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Another x86 Advisory From Some Entity Other Than Intel Or AMD",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367153",
-    "description": "Last October I highlighted an interesting post on the Linux kernel mailing list around an x86 corporate entity other than Intel or AMD that left mysterious intrigue. The developer that detailed those x86 opcode/CPUID/MSR allocations back in July then detailed 16-tile and 32-tile AMX implementations again for something outside the current scope of Intel/AMD processors. Today another message is being relayed from that \"corporate entity other than Intel/AMD.\"..",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367153",
-    "date": "Aug 30, 2026 03:34",
-    "published_at": "2026-08-30T03:34:44Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Manjaro-Based Mabox Linux 26.08 Adds New Tools for Custom ISOs",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367142",
-    "description": "Mabox Linux 26.08 introduces new system remastering tools, switches its F12 terminal to Kitty, and adds the Yazi file manager.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367142",
-    "date": "Aug 30, 2026 02:03",
-    "published_at": "2026-08-30T02:03:14Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Debian Decides: Contributors Can Use Generative AI 'Responsibly'",
-    "link": "https://linux.slashdot.org/story/26/08/29/2223248/debian-decides-contributors-can-use-generative-ai-responsibly?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "This week Debian voted on whether to ban AI-assisted contributions. The winning proposal? \"Debian neither endorses nor prohibits the use of generative AI tools\" in its projects, documentation, and packaging... Generative AI \"is neither exempt from nor subject to special rules beyond the standards already expected of Debian contributors.\" \n\n\"The responsibility for every contribution rests with the contributor who submits it, who remains accountable for its technical quality, legal acceptability, and suitability for inclusion in Debian.\"\n\n\n\"We recognize that such tools can substantially improve the productivity of contributors when used responsibly, allowing volunteers to spend more of their limited time on work that requires technical expertise, judgment, review, and collaboration. \n\nThe Debian Project nevertheless expects that all contributions submitted to Debian, regardless of how and with which tools they were produced, satisfy the same standards of quality, correctness, maintainability, and legal compliance. The use of a generative AI tool does not diminish the contributor's responsibility for the work they submit. Contributors are expected to understand, review, test, and, where appropriate, modify AI-assisted output before incorporating it into Debian. Blindly accepting or uploading AI-generated material without appropriate human review is inconsistent with Debian's established development practices. \n\nWe enourage our contributors to disclose whether a contribution was made with AI assitance, but do not require them to do so. \n\nDebian acknowledges that the legal status of material produced by generative AI systems remains the subject of ongoing discussion in many jurisdictions, including questions relating to copyright... The Project does not seek to resolve these unsettled legal questions through this General Resolution, nor does it adopt a position on whether AI-generated output is, in whole or in part, copyrightable or derived from copyrighted works. Instead, Debian continues to rely on the judgment and responsibility of its individual contributors. Project members are expected to exercise appropriate care when using generative AI tools, to consider the provenance and licensing implications of material they contribute, and to avoid introducing content whose legal status they cannot reasonably justify. Existing Debian policies governing licensing, copyright, software freedom, and the acceptance of contributions continue to apply irrespective of the tools used to produce those contributions.\n\n \n\nIt also cautions contributors to keep keys, credentials, and embargoed security reports from leaking to\nthird-party AI services. \n\nBut discussion continues on Debian's mailing list. \"I regret the loss of contributors,\" wrote the author of the winning proposition (while acknowledging it would have happened with either option winning).\n\"It is just too early to take a final decision on the matter. Let's revisit this in two years or so, and let this mess of a GR be a warning for our future selves.\" \n\n\nOther comments from the mailing list:\n\n\n\"On a very personal note, I regret that the winning option does not\nacknowledge all the legitimate concerns around AI: environmental impact,\ncopyright and licensing uncertainty, the health of Free Software\ncommunities, and the strain of aggressive scraping on the open web... [W]e have a lot of work ahead of us to act as a community and understand how we can continue to accommodate the very large minority that would have preferred to ban or discourage AI.\n\"I also think that our next discussion should distinguish between locally running LLMs and cloud LLMs. The way things are going, locally running LLMs will be an alternative, and then you can much better control what was the training data and the Freeness of the thing.\"\nThanks to long-time Slashdot reader Robbat2 for sharing the news.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Aug 30, 2026 01:34",
-    "published_at": "2026-08-30T01:34:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "RTL8723BS Driver Continues Dominating The Staging Area Activity For Linux 7.3",
-    "link": "https://www.phoronix.com/news/Linux-7.3-Staging",
-    "description": "Upstreamed back in 2017 for Linux 4.12 was the RTL8723BS driver in the kernel's staging area. Nine years later it remains in staging and remains a frequent target for clean-ups and code improvements as it tries to work its way out...",
-    "guid": "https://www.phoronix.com/news/Linux-7.3-Staging",
-    "date": "Aug 30, 2026 00:33",
-    "published_at": "2026-08-30T00:33:50Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Debian Says Yes to Generative AI, but Keeps Humans Accountable",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367146",
-    "description": "Debian developers have chosen a middle path on AI, allowing its use while keeping contributors fully accountable for their work.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367146",
-    "date": "Aug 30, 2026 00:31",
-    "published_at": "2026-08-30T00:31:45Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "LibreOffice 26.8 Again Proves Open Source Is About More Than Code",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367151",
-    "description": "New bidirectional-text tools, better OOXML round-tripping, and no built-in AI show why LibreOffice is accountable to users rather than product-market calculations.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367151",
-    "date": "Aug 29, 2026 23:00",
-    "published_at": "2026-08-29T23:00:16Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Anthropic Sued By Sony, Warner For Allegedly Stealing Tens of Thousands of Songs, Torrenting Copyrighted Works",
-    "link": "https://yro.slashdot.org/story/26/08/29/2149242/anthropic-sued-by-sony-warner-for-allegedly-stealing-tens-of-thousands-of-songs-torrenting-copyrighted-works?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Axios reports:\n\n\nSome of the world's largest music publishers filed a blockbuster lawsuit against Anthropic late Friday night, alleging \"one of the largest and most blatant ongoing thefts of intellectual property in history.\" \n\n\nThe suit is the opening salvo in what is now likely to be a yearslong fight over music, AI, and how intellectual property is protected in a new era of technology... The Sony/Warner lawsuit is notable because it's broad. It alleges Anthropic unlawfully trained its models off \"tens of thousands\" of music publishers' copyrighted compositions, whereas other lawsuits have focused on a narrower set of works. BMG's lawsuit against Anthropic, for example, claims infringement against 493 compositions. \n\n\nWhat they're saying: \"Defendants Anthropic and its founders Dario Amodei and Benjamin Mann have conducted a brazen campaign of illegally torrenting, scraping, and downloading copyrighted works on a massive scale in order to develop, operate, and reap enormous profits from Anthropic's 'Claude' series of artificial intelligence ('AI') models,\" the plaintiffs write in the 48-page complaint. They also claim that Anthropic pirated thousands of copyrighted musical works... \n\nMore details from The Verge:\n\n\nThe companies are asking for up to $150,000 per work, plus up to $25,000 for each instance when identifiable copyright data was stripped. In total, the damages could amount to several billion dollars if a court finds in Sony and Warner's favor and awards the maximum amount... \n\nThe suit alleges that Mann used BitTorrent to download over five million pirated books, and that employees downloaded at least two million more from Pirate Library Mirror. It also claims that Anthropic scraped lyrics from sites like MusixMatch and LyricFind, which paid to license content from the labels.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Aug 29, 2026 23:00",
-    "published_at": "2026-08-29T23:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "What's 88-year-old Ridley Scott Doing Now?",
-    "link": "https://entertainment.slashdot.org/story/26/08/29/210256/whats-88-year-old-ridley-scott-doing-now?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "The Los Angeles Times first calls Ridley Scott's newest movie \"a postapocalyptic thriller that trades zombies for pandemics and asks whether hope can outlast catastrophe.\" But besides \nThe Dog Stars, Scott is also working on an adaptation of Robert Louis Stevenson's \"Treasure Island\" starring Hugh Jackman, and is thinking about turning one of his past films into a musical. (\"I can't tell you which one because they're being difficult.\") The common theme, they suggest, is a director who allows his stories to \"speak through evocative, immersive images rather than unnecessary exposition.\"\n\n\n\n\nThe British director says it's because he got his start in advertising after attending the Royal College of Art in London. After 1982's neon-coated sci-fi thriller \"Blade Runner,\" Scott notably made the iconic Apple Macintosh computer ad \"1984,\" a memorable Orwellian-themed clip that contained suggestions of the dystopias that would continue to fascinate Scott in his filmmaking. \"Advertising in England at that point became a competitive art form,\" he says, pointing to the notorious \"Adland Five,\" a group of directors that included Hugh Hudson, Adrian Lyne, Alan Parker, Scott and his brother Tony. \"I've got a show reel which is 50 years old which would entertain the s — out you. Hasn't aged at all. Our visual drive changed the face of how films looked.\" \nThat's apparent in Scott's latest, \"The Dog Stars\" (in theaters Friday), a film about survival after the end of the world. It's based on Peter Heller's 2012 novel and set in Colorado 10 years in the future after an aggressive flu has decimated much of the population. Those remaining alive use any means necessary to stay that way, resulting in instability, brutality and, more hopefully, connection...\nThese days, Scott develops movies with his production company, Scott Free, which he founded with his late brother Tony in 1995. Before that he says he struggled to find good scripts. And rarely has someone handed one to him. \"I've only ever had three films land on my desk,\" he says. \"One was 'Alien,' which I was fifth choice for after Robert Altman.\" He makes a face. \"Can you imagine offering Robert Altman 'Alien'? How stupid can you get?\" \nAnother was 2015 space adventure \"The Martian,\" which Scott says had been sitting on a shelf for two years before it was sent to him. Scott's grounded, semi-comedic take on Andy Weir's novel resulted in seven Oscar nominations. The third screenplay to materialize was \"The Dog Stars.\" \"I read it and I was blown away,\" Scott says. \n\nDeadline notes that Scott is already re-writing the third prequel to Alien, citing Scott's comments to French outlet AlloCiné.\n\n\"The one that just came out [2024's Alien: Romulus] was OK. I think it needs some help. So, I've gone back in.\" Scott continued, \"I've already got a footprint for the next Alien.... I'm picking up where we left off in Covenant with Micheal Fassbender, who now thinks he's Ozymandius.\" With the sequel bringing back Fassbender's futuristic AI droid, Scott sees an opportunity to explore the repercussions of artificial intelligence in our current world. \"I like the fact that AI has gone off the rails,\" said Scott of where the character is at the end of Covenant. \"If we go AI, the moment we discover it's off the rails is too late. It could switch every digital thing off in the world like that. You'd have fucking chaos. It's that kind of stuff that's scary.\" \n\nScott tells the Los Angeles Times that the malfunctioning AI character fascinates him, and in the movie will be creating a \"brave new world for himself... AIs can go off. And if they do, it's like a bomb...\"\n\nSo far, Scott says he hasn't implemented AI technologies into his filmmaking. He holds up his \"Treasure Island\" Ridleygrams [hand-drawn storyboards] and shakes them at the camera. \"I can compete with an AI without any problem making images,\" he says. \"But it's coming, inevitably.\" \nScott was not involved in the forthcoming Prime Video series \"Blade Runner 2099,\" out in November. \"I can't blame my lawyers and my agents at that time, but somehow we let 'Blade Runner' go,\" he says. \"And when you're not the author of the actual written word, you don't have a piece.\" (He was more involved in Noah Hawley's recent \"Alien: Earth\" series, which he calls \"pretty damn good....\") \n\nDoes that mean he thinks about his legacy as a filmmaker? He does, but not often. \"When you think of your legacy, you're too near the end,\" Scott says. \"I'm not near the end.\" He looks up from his drawings. \"I've had a riotous time,\" he says. He corrects himself: \"I'm having a riotous time.\"\n\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Aug 29, 2026 22:00",
-    "published_at": "2026-08-29T22:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "FreeBSD 14.5-RC1 Released With Several Security Fixes",
-    "link": "https://www.phoronix.com/news/FreeBSD-14.5-RC1",
-    "description": "Ahead of FreeBSD 14.5-RELEASE hopefully debuting on 8 September, FreeBSD 14.5-RC1 is out today as the final scheduled development release...",
-    "guid": "https://www.phoronix.com/news/FreeBSD-14.5-RC1",
-    "date": "Aug 29, 2026 19:16",
-    "published_at": "2026-08-29T19:16:11Z",
     "source": "phoronix.com",
     "source_url": "https://www.phoronix.com/"
   }
