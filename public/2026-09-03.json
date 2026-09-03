@@ -1,5 +1,300 @@
 [
   {
+    "title": "Google Engineer Accused of Polymarket Insider Trading Says He Was Just Gambling",
+    "link": "https://yro.slashdot.org/story/26/09/02/230259/google-engineer-accused-of-polymarket-insider-trading-says-he-was-just-gambling?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from Wired: Michele Spagnuolo, the Google engineer arrested in May by U.S. authorities for alleged insider trading on Polymarket, is making a new bold bet. On Wednesday, his legal team filed a motion to dismiss the charges against him. Spagnuolo isn't outright denying that he made money using internal information from Google. Instead, his legal team says that the wagers were not financial instruments subject to regulation by the United States' Commodities Exchange Act but rather good old-fashioned international betting that the U.S. has no authority over.\n \nSpagnuolo, who has been placed on leave from Google, is accused of committing commodities fraud, wire fraud, and money laundering. Using the alias \"AlphaRaccoon,\" he allegedly made a series of wagers on Polymarket's flagship platform that resulted in profits totaling over $1.2 million. According to the criminal complaint, \"AlphaRaccoon\" correctly wagered that the singer D4vd, who gained notoriety for his suspected connection to a grisly killing, would be Google's most-searched person of the year in 2025. (D4vd was later charged with murder; he pleaded not guilty.) [...] Spagnuolo's lawyers argue that defining swaps to include wagers like who the most-searched person on Google will be each year \"would fly in the face of the statute's purpose and history\" and lead to \"absurd results.\" They say it would make it so that any wager in the world, from a charity raffle to a local Ping-Pong match, could be classified as a financial instrument. \"Spagnuolo is basically making the same argument as the states that are suing prediction markets,\" says a financial services regulation expert Todd Phillips. \"This is the issue that will likely go up to the Supreme Court.\"\nFeatured Video\n \nIn addition to disputing the idea that prediction markets offer swaps, Spagnuolo's legal team argues that the U.S. government had no jurisdiction over him in the first place because he's a non-U.S. citizen who was wagering on a non-U.S. platform. Although Polymarket is headquartered in New York, the company's flagship prediction market is banned in the United States and technically is administered by an ostensibly Panama-based entity known as Adventure One QSS. Spagnuolo was living in Zurich, Switzerland, when he allegedly made the Google-related trades on Polymarket. \"The extraterritorial argument is interesting and raises the question of whether the U.S. should be the world's prediction markets cop,\" Philipps says. Spagnuolo's team also claims that the charges should be dismissed because the internal information he supposedly leveraged did not have any commercial value to Google.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Sep 03, 2026 15:00",
+    "published_at": "2026-09-03T15:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "[$] Recent work in memory tiering",
+    "link": "https://lwn.net/Articles/1092001/",
+    "description": "Tiered-memory systems are built with multiple types of memory, each of\nwhich has different performance characteristics.  In addition to the usual\nDRAM, a tiered system might also provide faster high-bandwidth memory or\nslower CXL memory.  On these systems, the placement of memory allocations\nhas a significant effect on the performance that a workload will obtain.\nWhile work on tiered-memory improvements has been ongoing for years, it\nfeels like the pace has slowed a bit recently.  Even so, there are a few\nefforts underway, but they are facing questions about whether the tiering\ndesign makes sense.",
+    "guid": "https://lwn.net/Articles/1092001/",
+    "date": "Sep 03, 2026 14:11",
+    "published_at": "2026-09-03T14:11:26Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "itch.io upgraded their app to support Steam shortcuts, a headless mode and linking existing downloads",
+    "link": "https://www.gamingonlinux.com/2026/09/itch-io-upgraded-their-app-to-support-steam-shortcuts-a-headless-mode-and-linking-existing-downloads/",
+    "description": "The itch.io app has been upgraded with some very useful additions, that make using it actually a whole lot nicer.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/itch-io-upgraded-their-app-to-support-steam-shortcuts-a-headless-mode-and-linking-existing-downloads/",
+    "date": "Sep 03, 2026 14:10",
+    "published_at": "2026-09-03T14:10:09Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/320788219id29691gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Audacity 4.0 released",
+    "link": "https://lwn.net/Articles/1092439/",
+    "description": "Version\n4.0 of the Audacity audio editor has been released. Notable changes in this\nrelease include a rewritten interface using Qt, ability to save user-interface\nlayouts as \"Workspaces\", improvements in working with audio clips, and a new\n.aup4 project format.\n\nThe release is not fully feature-compatible with the Audacity 3.x\nseries; see the compatibility\nnotes for a list of missing features.",
+    "guid": "https://lwn.net/Articles/1092439/",
+    "date": "Sep 03, 2026 13:58",
+    "published_at": "2026-09-03T13:58:06Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "METRO 2039 arrives February 4, 2027 and there's a new trailer",
+    "link": "https://www.gamingonlinux.com/2026/09/metro-2039-arrives-february-4-2027-and-theres-a-new-trailer/",
+    "description": "METRO 2039 from 4A Games now has a firm release date of February 4th, 2027. On top of that we have some fresh footage of it.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/metro-2039-arrives-february-4-2027-and-theres-a-new-trailer/",
+    "date": "Sep 03, 2026 13:54",
+    "published_at": "2026-09-03T13:54:39Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/422902273id29690gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "FOSS Weekly #26.36: Debian CERN Win, Faster Firefox, Free Bash Course, Grub Customization and More Linux Stuff",
+    "link": "https://feed.itsfoss.com/link/24361/17439066/foss-weekly-26-36",
+    "description": "A faster Firefox is a better Firefox.",
+    "guid": "6a96da262f93c60001400e84",
+    "date": "Sep 03, 2026 13:34",
+    "published_at": "2026-09-03T13:34:02Z",
+    "image": "https://itsfoss.com/content/images/2026/09/foss-weekly.webp",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "Security updates for Thursday",
+    "link": "https://lwn.net/Articles/1092419/",
+    "description": "Security updates have been issued by AlmaLinux (freerdp, go-fdo-server, golang-github-openprinting-ipp-usb, kernel, kernel-rt, nodejs:24, perl-DBI, and php), Debian (firefox-esr, libapache2-mod-auth-openidc, and libass), Fedora (dracut, exiv2, firefox, freerdp, gvfs, mingw-expat, mingw-gstreamer1, mingw-gstreamer1-plugins-bad-free, mingw-gstreamer1-plugins-base, mingw-gstreamer1-plugins-good, mingw-openexr, nss, proftpd, and syncthing), Mageia (apr-util, bubblewrap, libalsa2, libarchive, perl-Net-OAuth, perl-Text-CSV_XS, perl-XML-Bare, and perl-YAML-Syck), Oracle (freerdp, gimp, golang, iperf3, nginx:1.24, nodejs:22, nodejs:24, pipewire, wget, xmlrpc-c, and xorg-x11-server-Xwayland), SUSE (apache2-mod_auth_openidc, apptainer, apr-util, bzip2, c-ares, cosign, dhcpcd, dovecot22, emacs, erlang, gegl, gopass, gzip, httpcomponents-client, incus, kernel-devel, libgpg-error, libsoup2, mozillafirefox, mozilla-nss, mozilla-nspr,, MozillaFirefox, mozilla-nss, mozilla-nspr, rust-cbindgen, nodejs20, orthanc, orthanc-authorization, orthanc-postgresql,, postgresql14, python-cryptography, python-msgpack, quagga, snpguest, snphost, texlive, tuxguitar, udisks2, vim, wget, and yast2-users), and Ubuntu (apr-util, biosig, linux, linux-aws, linux-azure, linux-azure-fips, linux-fips,\n linux-hwe-5.4, linux-ibm, linux-ibm-5.4, linux-iot, linux-kvm,\n linux-oracle, linux-raspi, linux-raspi-5.4, linux-xilinx-zynqmp, linux-aws-5.15, linux-gcp-5.15, linux-oracle-5.4, sssd, and tika).",
+    "guid": "https://lwn.net/Articles/1092419/",
+    "date": "Sep 03, 2026 13:07",
+    "published_at": "2026-09-03T13:07:14Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "21st Revision Of Patches For Getting Linux To Shutdown Devices Asynchronously",
+    "link": "https://www.phoronix.com/news/Linux-Shutdown-Async-21",
+    "description": "Being worked on for over two years has been the latest attempt for async device shutdown support for Linux for getting Linux systems -- especially servers with lots of hardware like many NVMe drives -- to shutdown faster. That work is now up to its 21st version as it works toward hopefully making it to the mainline kernel in the not too distant future...",
+    "guid": "https://www.phoronix.com/news/Linux-Shutdown-Async-21",
+    "date": "Sep 03, 2026 13:03",
+    "published_at": "2026-09-03T13:03:51Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "1Password Just Pledged $300,000 to DHH's Omarchy, and its Own Employees Aren't Happy",
+    "link": "https://feed.itsfoss.com/link/24361/17439067/1password-omarchy-pledge",
+    "description": "Internal Slack messages show the CEO and cofounder gave staff two very different explanations for the decision.",
+    "guid": "6a993723af07250001fdc271",
+    "date": "Sep 03, 2026 13:03",
+    "published_at": "2026-09-03T13:03:20Z",
+    "image": "https://itsfoss.com/content/images/2026/09/1password-omarchy-pledge-banner.png",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "Linux Kernel 7.1 Reaches End of Life, It’s Time to Upgrade to Linux Kernel 7.2",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367242",
+    "description": "This is your friendly reminder that the Linux 7.1 kernel series has reached the end of its supported life and that you should consider upgrading to Linux kernel 7.2 as soon as possible.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367242",
+    "date": "Sep 03, 2026 12:40",
+    "published_at": "2026-09-03T12:40:25Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "NVIDIA Acquiring Hugging Face For $12.93 Billion",
+    "link": "https://www.phoronix.com/news/NVIDIA-Hugging-Face",
+    "description": "Following rumors in recent days of NVIDIA courting Hugging Face, it's now been officially announced that NVIDIA is acquiring Hugging Face...",
+    "guid": "https://www.phoronix.com/news/NVIDIA-Hugging-Face",
+    "date": "Sep 03, 2026 12:40",
+    "published_at": "2026-09-03T12:40:04Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Linux 7.3 Now Disabling RandStruct Security Feature By Default If Rust Support Present",
+    "link": "https://www.phoronix.com/news/Linux-7.3-RandStruct-Rust",
+    "description": "While Rust programming language use may help with memory safety and other security advantages, the default Linux kernel configuration is now losing randomization of sensitive kernel structures if Rust support is present...",
+    "guid": "https://www.phoronix.com/news/Linux-7.3-RandStruct-Rust",
+    "date": "Sep 03, 2026 12:22",
+    "published_at": "2026-09-03T12:22:27Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Rebounder is an ultra stylish precision-platformer comic-book world of ink, paper, and print",
+    "link": "https://www.gamingonlinux.com/2026/09/rebounder-is-an-ultra-stylish-precision-platformer-comic-book-world-of-ink-paper-and-print/",
+    "description": "Just announced by Aggro Crab (PEAK, Another Crab's Treasure) is the insanely cool looking Rebounder.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/rebounder-is-an-ultra-stylish-precision-platformer-comic-book-world-of-ink-paper-and-print/",
+    "date": "Sep 03, 2026 12:09",
+    "published_at": "2026-09-03T12:09:50Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/23323128id29689gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Exploration-first JRPG with creature collecting - Stories of Somnia gets a first demo",
+    "link": "https://www.gamingonlinux.com/2026/09/exploration-first-jrpg-with-creature-collecting-stories-of-somnia-gets-a-first-demo/",
+    "description": "Stories of Somnia has a really fun style and an interesting mixture of game mechanics that blurs the line between different genres and now you can try it.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/exploration-first-jrpg-with-creature-collecting-stories-of-somnia-gets-a-first-demo/",
+    "date": "Sep 03, 2026 11:24",
+    "published_at": "2026-09-03T11:24:04Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/862815456id29688gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Perplexity Will Open Source Its Faster Lily AI Engine For Apple Silicon",
+    "link": "https://entertainment.slashdot.org/story/26/09/02/2235237/perplexity-will-open-source-its-faster-lily-ai-engine-for-apple-silicon?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "BrianFagioli writes: Perplexity has built a local artificial intelligence engine designed specifically for Apple silicon and the Qwen3.6-35B-A3B model. Called Lily, the engine uses a Rust runtime and custom Metal kernels, with neither PyTorch nor MLX in its execution path. Perplexity says Lily averaged 23 percent faster prompt processing and 35 percent faster token generation than MLX-LM on an M5 Max MacBook Pro with 128GB of unified memory. Lily is more specialized than MLX-LM, which supports a much wider range of models and architectures. Perplexity says it plans to release Lily as open source, but the code is not available yet, leaving its performance claims dependent on internal testing for now.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Sep 03, 2026 11:00",
+    "published_at": "2026-09-03T11:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Infinity Bounce is a chaotic physics-based pinball-like incremental game",
+    "link": "https://www.gamingonlinux.com/2026/09/infinity-bounce-is-a-chaotic-physics-based-pinball-like-incremental-game/",
+    "description": "Infinity Bounce is a fresh reveal from Stray Fawn Studio (The Wandering Village, Dungeon Clawler) that has you turn a galaxy into a chaotic pinball machine.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/infinity-bounce-is-a-chaotic-physics-based-pinball-like-incremental-game/",
+    "date": "Sep 03, 2026 10:57",
+    "published_at": "2026-09-03T10:57:37Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1062878209id29687gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "ASCII-based traditional roguelike 'Rangedrifter' has such a damn cool style",
+    "link": "https://www.gamingonlinux.com/2026/09/ascii-based-traditional-roguelike-rangedrifter-has-such-a-damn-cool-style/",
+    "description": "I love discovering new games, especially when they look as fascinating as the roguelike Rangedrifter.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/ascii-based-traditional-roguelike-rangedrifter-has-such-a-damn-cool-style/",
+    "date": "Sep 03, 2026 10:36",
+    "published_at": "2026-09-03T10:36:13Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/353732549id29686gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Audacity 4.0 Audio Editor Released With Qt6 Based UI",
+    "link": "https://www.phoronix.com/news/Audacity-4.0-Released",
+    "description": "The longtime Audacity open-source audio editor had been using wxWidgets for years but with today's Audacity 4.0 release they have transitioned to using the Qt6 toolkit...",
+    "guid": "https://www.phoronix.com/news/Audacity-4.0-Released",
+    "date": "Sep 03, 2026 10:30",
+    "published_at": "2026-09-03T10:30:52Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "GCC 17 Now Supports Using -mtune=native -mcpu=native On RISC-V",
+    "link": "https://www.phoronix.com/news/GCC-17-RISC-V-mtune-mcpu-native",
+    "description": "As a follow up to last month's article about patches being posted for enabling \"-mcpu=native -mtune=native\" support for RISC-V with the GCC compiler, that code is now merged for what will become the GCC 17.1 release in the early months of 2027...",
+    "guid": "https://www.phoronix.com/news/GCC-17-RISC-V-mtune-mcpu-native",
+    "date": "Sep 03, 2026 10:20",
+    "published_at": "2026-09-03T10:20:07Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Classic JRPG 'Blue Dragon' gets an unofficial open source native PC release",
+    "link": "https://www.gamingonlinux.com/2026/09/classic-jrpg-blue-dragon-gets-an-unofficial-open-source-native-pc-release/",
+    "description": "Originally released back in 2006 for the Xbox 360, the classic JRPG 'Blue Dragon' can now be played on PC thanks to the re:Blue project.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/classic-jrpg-blue-dragon-gets-an-unofficial-open-source-native-pc-release/",
+    "date": "Sep 03, 2026 10:09",
+    "published_at": "2026-09-03T10:09:53Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/399570701id29684gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "InputPlumber 0.79 Adds Support For More Handhelds",
+    "link": "https://www.phoronix.com/news/InputPlumber-0.79",
+    "description": "InputPlumber is the open-source router and remapping daemon for Linux that is particularly popular among Linux gaming handhelds for combining multiple input devices and translating actions into various virtual device formats. InputPlumber supports emulating mouse, keyboard, ad gamepad inputs. With the new InputPlumber 0.79 release there is expanded hardware support and bug fixes...",
+    "guid": "https://www.phoronix.com/news/InputPlumber-0.79",
+    "date": "Sep 03, 2026 10:06",
+    "published_at": "2026-09-03T10:06:00Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Wadjet Eye Games reveal vampire RPG 'Nighthawks' to release September 22",
+    "link": "https://www.gamingonlinux.com/2026/09/wadjet-eye-games-reveal-vampire-rpg-nighthawks-to-release-september-22/",
+    "description": "Nighthawks from developer The Curiosity Engine and publisher Wadjet Eye Games looks really interesting and it's now set for release on September 22nd.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/wadjet-eye-games-reveal-vampire-rpg-nighthawks-to-release-september-22/",
+    "date": "Sep 03, 2026 09:59",
+    "published_at": "2026-09-03T09:59:52Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1461612010id29685gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Thunderbird 155 Improves Exchange Setup and Custom OAuth Support",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367233",
+    "description": "Mozilla Thunderbird 155 improves Exchange account setup, expands custom OAuth support for IMAP and SMTP, and delivers a broad set of fixes.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367233",
+    "date": "Sep 03, 2026 09:37",
+    "published_at": "2026-09-03T09:37:26Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Star Wars Episode I: The Phantom Menace preservation project OpenPhantom adds Linux support via Wine / Proton",
+    "link": "https://www.gamingonlinux.com/2026/09/star-wars-episode-i-the-phantom-menace-preservation-project-openphantom-adds-linux-support-via-wine-proton/",
+    "description": "Star Wars: Episode I – The Phantom Menace, the video game from 1999 is a bit of a blast from the past and now kept alive by OpenPhantom.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/star-wars-episode-i-the-phantom-menace-preservation-project-openphantom-adds-linux-support-via-wine-proton/",
+    "date": "Sep 03, 2026 09:33",
+    "published_at": "2026-09-03T09:33:10Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/749805483id29683gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Instrument Clusters Are Now Paid Extras In Two Hyundai Models",
+    "link": "https://tech.slashdot.org/story/26/09/02/2246257/instrument-clusters-are-now-paid-extras-in-two-hyundai-models?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "\"Enshittification of car controls [is] rapidly accelerating,\" writes longtime Slashdot reader sinij, pointing to a new report from Car and Driver. From the report: Remember when iPhones used to come with free headphones and a phone charger (including the wall plug)? It didn't feel so much like Apple giving you free goodies as it did that the company was providing you with the relevant hardware to use the device. Apple stopped including headphones and charging blocks in 2020. Now, Hyundai is pulling some of its standard hardware from the box, at least for two models.\n \nHyundai is charging customers extra for a driver's display in the new Elantra generation (more specifically, the Korea-market Avante), as well as the Ioniq 3, Motor1 reported. Both models feature Pleos Connect, Hyundai's new infotainment setup that pairs a center touchscreen with a slim 9.9-inch instrument cluster mounted above the dashboard -- except where it doesn't.\n \nIn its domestic market, the instrument cluster screen is offered as a 350,000 won ($255) option for the base trim. Not the most expensive optional extra in the world, but still kind of a slap in the face for a feature traditionally viewed as standard fare. Things are more expensive for the electric Ioniq 3. In the EV's case, the base trim gives customers the full Tesla-screen experience, meaning if customers want the driver's display, they'll need to fork over the additional $5000 necessary to move up to the next-level trim. [...] Hyundai plans to have the setup equipped in 20 million cars globally by the end of the decade.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Sep 03, 2026 07:00",
+    "published_at": "2026-09-03T07:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Bluetooth/UWB board based on nRF52840 offers 10cm accuracy",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367232",
+    "description": "Makerfabs has showcased an nRF52840 development board combining Bluetooth connectivity with a DW3000-series ultra-wideband radio for ranging and positioning applications. The board includes a 1.3-inch OLED display, dual USB Type-C connections, LiPo battery support, a fuel gauge, and expansion headers, while accompanying Arduino examples cover single- and multi-node UWB ranging. The board is based on […]",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367232",
+    "date": "Sep 03, 2026 06:34",
+    "published_at": "2026-09-03T06:34:27Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Distro of the Week:Fluff Linux KDE Plasma",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367244",
+    "description": "We get mail: A reader recently suggested we take today's Distro of the Week - Fluff Linux - on a test drive, and we obliged. This American distro based on Arch Linux with the KDE Plasma desktop environment did not disappoint, and was impressive on several levels.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367244",
+    "date": "Sep 03, 2026 03:31",
+    "published_at": "2026-09-03T03:31:28Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Global Heating Will Hit At Least 1.8C, UN Warns, and There Are 'No Good Outcomes'",
+    "link": "https://news.slashdot.org/story/26/09/02/2228245/global-heating-will-hit-at-least-18c-un-warns-and-there-are-no-good-outcomes?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from The Guardian: Global heating will reach at least 1.8C under even the most optimistic future, well beyond the Paris agreement goal of 1.5C, according to a UN report that warns every fraction of temperature rise intensifies destructive extreme weather, glacier melt, ecosystem loss, and island and coastal city submersion. The report by the Nairobi-based UN Environment Program confirmed overshooting the 1.5C goal inscribed in the landmark Paris agreement of 2015 was now \"unavoidable\" and, despite some progress in addressing the human-caused climate crisis driven by burning fossil fuels, likely in the next few years. It said: \"There are no good outcomes above 1.5C.\"\n \nHeating of up to 3C above preindustrial levels could lead to glaciers losing more than a quarter of their mass by 2100, raising sea levels by up to 13cm. Global food production could decline by up to 14% by 2050 if there are not effective strategies to adapt. Human health, water supplies, nature, cities, infrastructure and economies could all be severely damaged. Some losses would be irreversible. Many communities may have to relocate or change their livelihoods. The report said the best hope for humanity to limit damage was to adopt an \"overshoot, peak and decline\" pathway that required immediate and sustained greenhouse gas emissions cuts combined with steps to remove carbon dioxide from the atmosphere.\n \nIt described the goal of net zero emissions -- increasingly politically contentious in some countries -- as \"an essential milestone that cannot be skipped\" and stressed carbon dioxide removal through steps such as establishing vast new forests must occur alongside, not as an alternative to, deep cuts in fossil pollution. Crucially, the authors of the report, titled Limiting Overshoot, said the average global temperature could be returned to 1.5C this century only if heating stayed below about 1.8C. They warned nature's capacity to store carbon was uncertain and would shrink the more the planet heats. [...] The report's authors cited earlier work that found limiting heating to about 1.8C required global emissions to be halved by 2035. They said existing national policies were projected to lead to at least 2.3C heating, but it would still be possible to limit stay below 2C if countries delivered on net zero emissions commitments by mid-century.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Sep 03, 2026 03:30",
+    "published_at": "2026-09-03T03:30:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
     "title": "Lemonade 11.9 Local AI Server Released With Super Exciting AMD ROCm HRX Backend",
     "link": "https://www.phoronix.com/news/Lemonade-11.9-ROCm-HRX",
     "description": "Lemonade 11.9 is out today as the newest feature release to this AMD-backed, open-source local AI server solution across Linux, Windows, and macOS. Lemonade has long been focused on offering \"100% free and private\" AI use with local hardware whether it be GPUs, CPUs, or NPUs.  With Lemonade 11.9's release today it's very interesting for having experimental ROCm HRX back-end support with Llama.cpp. HRX is the new exciting thing to watch out for on the AMD ROCm compute landscape...",
@@ -448,6 +743,17 @@
     "source_url": "https://itsfoss.com/"
   },
   {
+    "title": "Steam Linux user share dips below 4% for August 2026",
+    "link": "https://www.gamingonlinux.com/2026/09/steam-linux-user-share-dips-below-4-percent-for-august-2026/",
+    "description": "The Steam Hardware \u0026 Software Survey for August 2026 is now live, and with it we can see the latest system details for gamers on Steam.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/steam-linux-user-share-dips-below-4-percent-for-august-2026/",
+    "date": "Sep 02, 2026 08:40",
+    "published_at": "2026-09-02T08:40:30Z",
+    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/defaulttagline.png",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
     "title": "SteamVR Beta 2.17.8 released to ready up for the Steam Frame - added support for USB streaming",
     "link": "https://www.gamingonlinux.com/2026/09/steamvr-beta-2-17-8-released-to-ready-up-for-the-steam-frame-added-support-for-usb-streaming/",
     "description": "Valve are clearly making preparations for the Steam Frame to finally get a proper release this month - with a new Release Candidate Beta build of SteamVR.Read the full article on GamingOnLinux.",
@@ -468,110 +774,5 @@
     "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/steam_plain_2025.jpg",
     "source": "gamingonlinux.com",
     "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "NASA Selects Blue Origin As Mars Telecommunications Network Provider",
-    "link": "https://science.slashdot.org/story/26/09/02/0527234/nasa-selects-blue-origin-as-mars-telecommunications-network-provider?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "NASA has awarded Blue Origin a contract worth up to $700 million to build and operate a dedicated Mars telecommunications network for current and future missions to the Red Planet. Blue Origin is expected to deliver the spacecraft by the end of 2028, with the network targeted to become operational by 2030. From a press release: Blue Origin will design, develop, integrate, launch, and operate the network as a part of the agency's broader space communications and navigation infrastructure. The architecture will consist of a high-performance telecommunications spacecraft orbiting Mars, transmitting science data, imagery, navigation information, and critical mission communications for spacecraft operating on and around the planet.\n \nThe award marks a milestone in NASA's strategy to expand communications and navigation services beyond Earth and the Moon, establishing the foundation for sustained exploration of Mars in the coming decades.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Sep 02, 2026 07:00",
-    "published_at": "2026-09-02T07:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "LZ Experiment Sees Surprising Result In Search For Dark Matter",
-    "link": "https://science.slashdot.org/story/26/09/02/0018212/lz-experiment-sees-surprising-result-in-search-for-dark-matter?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "New submitter greytree shares a report from Brown University: LUX-ZEPLIN, an experiment co-led by Brown University faculty and students, observed a particle interaction that could be interpreted as a signal from WIMPs, a dark matter candidate -- but researchers need more data to confirm. [...] The result does not yet meet the statistical threshold required to claim a discovery, but it is the most compelling hint of dark matter reported by the experiment to date. \"We're very intrigued to see this event in the data, in the region where we expect dark matter to show up, and the competing backgrounds are very low,\" said Rick Gaitskell, a professor of physics at Brown University and the spokesperson for LZ. \"With only one event, we don't want to get ahead of ourselves. We are not claiming to have seen dark matter. But we have seen something interesting that we want to share with the scientific community for their input.\" [...]\n \nIf the anomalous event was caused by dark matter, the WIMP that generated it would likely have a mass of at least 200 GeV/c2 (gigaelectronvolts), or more than 200 times the mass of a proton. The LZ results have not reached \"5-sigma\" significance, the statistical threshold in physics that an event must reach to be considered a discovery. The new analysis is 2.6 sigma, meaning there is approximately a 0.5% chance that the event could be explained by known backgrounds. With additional data, researchers can test whether the finding continues to grow in significance or fades away. LZ has already accumulated the world's largest dark matter dataset and will continue to accrue WIMP search data at SURF, substantially improving their search statistics.\n \nJiJi Fan, an associate professor of physics at Brown not involved in the LZ experimental research but whose theoretical work is cited in the new LZ paper, said the new findings were \"very intriguing.\" While the event recorded by LZ could not have been the simplest type of WIMP interaction, there are other types of possible interactions that could explain it, she said. Had a WIMP interacted in the simplest way at the high energy associated with this recent event, the detector would have recorded many recoil events at lower energies following the initial event. LZ recorded a single event, however, which requires an expanded theoretical explanation. \"There are well-motivated theoretical extensions, including inelastic scattering and momentum-dependent elastic scattering, that could potentially account for this single event,\" Fan said. \"This also sets up a target for on-going dark matter hunting, not only at direct detection experiments such as LZ but also at other complementary experimental frontiers.\" \nThe results were presented in a scientific talk at the 2026 TeV Particle Astrophysics conference in Japan on Tuesday, Sept. 1. A paper detailing the finding can be found here (PDF).\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Sep 02, 2026 03:30",
-    "published_at": "2026-09-02T03:30:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Steam On Linux Dips Below 4% For August",
-    "link": "https://www.phoronix.com/news/Steam-Survey-August-2026",
-    "description": "Valve just published the Steam Survey results for August 2026. After jumping above 4% in July, in August it fell back below that threshold. Meanwhile CachyOS continues gaining ground among Linux gamers...",
-    "guid": "https://www.phoronix.com/news/Steam-Survey-August-2026",
-    "date": "Sep 02, 2026 00:19",
-    "published_at": "2026-09-02T00:19:13Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "GoPro Says It's Moving Into Data Centers As Part of a $285 Million Merger",
-    "link": "https://slashdot.org/story/26/09/01/1943244/gopro-says-its-moving-into-data-centers-as-part-of-a-285-million-merger?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "GoPro plans to expand into AI infrastructure through a $285 million merger with optical-photonics company Starman Optical, whose transceivers will give the action-camera maker a foothold in the fast-growing data center market. GoPro also plans to push into defense, robotics, aerospace, and government markets while continuing its existing camera business. Engadget reports: Starman's optical transceivers are expected to fall under its umbrella, \"extending the Company's reach into the large and rapidly growing market for AI infrastructure in optical transceivers,\" according to a press release. GoPro is also planning a push into the defense, government, robotics and aerospace sectors, bolstered by the combined company's IP, optics and imaging capabilities.\n \n[...] As Reuters notes, GoPro briefly reached a valuation of $4 billion on its first day as a publicly traded company in 2014. Its stock has struggled in recent years, but the share price received a boost on Monday when it was revealed that YouTuber and filmmaker Markiplier (Mark Fischbach) had become GoPro's largest individual shareholder after acquiring an 8.5 percent stake. The move follows a similar pivot made by the struggling shoe retailer Allbirds in April when it announced a pivot to AI compute infrastructure, sending the stock soaring more than 700%.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Sep 01, 2026 23:00",
-    "published_at": "2026-09-01T23:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Who Is John Ternus, the New Apple CEO?",
-    "link": "https://hardware.slashdot.org/story/26/09/01/1955204/who-is-john-ternus-the-new-apple-ceo?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "John Ternus has officially taken over as Apple CEO after 15 years under Tim Cook, stepping up from his role as senior vice president of hardware engineering. A 25-year Apple veteran who helped oversee products including AirPods, Apple Watch, Vision Pro, Apple silicon, and the new MacBook Neo, Ternus now inherits the challenge of pushing Apple forward in AI while Cook stays on as executive chairman. TechCrunch reports: Ternus has worked at Apple for nearly half of his life -- now 51 years old, he has been with the company for 25 years. He joined Apple's product design team in 2001 as only his second job out of college (his first was at a small maker of virtual-reality devices called Virtual Research Systems). By 2013, Ternus was a VP of hardware engineering and was promoted to the SVP role in 2021. [...] Ternus previously reported to Cook, who he considers a mentor, and led all of hardware engineering at Apple. That's a pretty big deal for a company that's known for ubiquitous hardware like the iPhone and the MacBook. [...] Ternus' earliest project at Apple involved scrutinizing parts for the Apple Cinema Display, an early desktop monitor. \"At some point in my first year, I found myself at a supplier facility. I was far away from home. Well past midnight, I was using a magnifying glass to count the number of grooves on the head of a screw ... and I was arguing with the supplier because these parts had 35 grooves. They were supposed to have 25,\" Ternus recalled in his commencement speech. \"I distinctly remember stepping back for a minute and thinking, 'What the hell am I doing? Is this normal?'\"\n \nAs Ternus climbed the corporate ladder, his responsibilities grew. He may no longer spend as much time analyzing screws, but he still seems to take pride in getting the little details right. In a recent interview, when Ternus was asked about his favorite memory of Steve Jobs, he mentioned the former Apple co-founder's attention to craftsmanship. \"[Jobs] was moving a piece of furniture, a chest of drawers, and pulled it away from the wall and looked at the back and was just reflecting on, you know, that the carpenter who made it had made it beautiful,\" Ternus said. \"It finished the back as beautifully as the rest of it, even though nobody was going to see it, right? And I think about that all the time because I think that perfectly exemplifies what we do here.\"\n \nFrom there, he went on to lead the hardware development behind products across the Apple ecosystem, overseeing launches like AirPods, Apple Watch, and the Vision Pro. He also had a hand in major technical upgrades at Apple, like Apple's transition from Intel chips to its own proprietary Apple silicon. Most recently, Ternus was involved in the production of the MacBook Neo, Apple's new, more affordable laptop model that lowers costs through some clever trade-offs in hardware design, like using an iPhone chip to power the device. \"We never want to ship junk. We want to ship great products that have that Apple experience, that Apple quality. To do that with the Neo required building something completely new from the ground up ... leveraging both the technologies we'd been developing like Apple silicon, but also the kind of expertise that we've developed over many, many years of building Macs, and building phones, and building iPads, and all of these things,\" Ternus told Tom's Guide.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Sep 01, 2026 22:00",
-    "published_at": "2026-09-01T22:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "WinBtrfs 1.10 Released With Two Years Worth Of Improvements For Btrfs On Windows",
-    "link": "https://www.phoronix.com/news/WinBtrfs-1.10",
-    "description": "WinBtrfs is a driver for Microsoft Windows to support reading and writing to Btrfs file-systems. WinBtrfs works with Windows XP and newer. It hadn't seen a new release in over two years but a big feature release is now available with a combination of new features and bug fixes...",
-    "guid": "https://www.phoronix.com/news/WinBtrfs-1.10",
-    "date": "Sep 01, 2026 21:57",
-    "published_at": "2026-09-01T21:57:42Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Anthropic's Claude Fable 5.1 and Mythos 5.1 Arrive With a 75% Cost Reduction For Fable Cache Reads",
-    "link": "https://it.slashdot.org/story/26/09/01/2037255/anthropics-claude-fable-51-and-mythos-51-arrive-with-a-75-cost-reduction-for-fable-cache-reads?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Anthropic has released Claude Fable 5.1 and Mythos 5.1, two versions of the same underlying model aimed at longer-running agentic work. \"For enterprise buyers, however, the release is about more than another round of benchmark gains,\" reports VentureBeat. \"Anthropic is simultaneously changing the economics of running persistent agents, reducing the cost of cached context by 75%, and introducing a new security architecture called Enterprise Frontier Safeguards, or EFS, designed to let organizations retain monitoring data inside infrastructure they control.\" From the report: Those changes arrive at a particularly consequential moment. Over the past several weeks, Anthropic and the U.K. AI Security Institute have disclosed incidents in which earlier Claude models, running under unusually permissive cybersecurity evaluation conditions, took unauthorized actions against real systems. Anthropic temporarily paused external cyber evaluations and has since introduced additional containment and monitoring before resuming them.\n \nTaken together, Fable 5.1 looks less like a conventional model refresh than an attempt to solve three increasingly intertwined enterprise problems: how to make agents capable enough to finish difficult work, economical enough to leave running for hours, and governable enough to give access to sensitive systems.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Sep 01, 2026 21:00",
-    "published_at": "2026-09-01T21:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "AMDGPU Linux Driver's Latest Patches For HDMI Passive VRR Support",
-    "link": "https://www.phoronix.com/news/AMDGPU-HDMI-Passive-VRR",
-    "description": "As part of AMD's ongoing effort for getting HDMI 2.1 support squared away in their upstream AMDGPU kernel graphics driver, sent out today were the latest patches around passive variable refresh rate \"Passive VRR\" for HDMI connections...",
-    "guid": "https://www.phoronix.com/news/AMDGPU-HDMI-Passive-VRR",
-    "date": "Sep 01, 2026 20:41",
-    "published_at": "2026-09-01T20:41:59Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Linux From Scratch 13.1 Is Out with Major Toolchain Updates",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367216",
-    "description": "Linux From Scratch 13.1 is now available with GCC 16.2, Binutils 2.47, Glibc 2.44, Linux 7.1.8, and 46 updated or added packages.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367216",
-    "date": "Sep 01, 2026 19:57",
-    "published_at": "2026-09-01T19:57:42Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "The Linux Kernel AI Flood, Linux 7.2 Release \u0026 Other August Highlights",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367210",
-    "description": "It was a very busy month of August with the Linux kernel developers continue to be flooded with AI/LLM-generated patches and bug reports. Plus there was the general resolution on AI usage within the Debian project and other open-source projects now evolving in the AI era. With the Linux 7.2 stable release and Linux 7.3 merge window, the past month was all the more eventful...",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367210",
-    "date": "Sep 01, 2026 18:26",
-    "published_at": "2026-09-01T18:26:13Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
   }
 ]
