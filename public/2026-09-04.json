@@ -1,5 +1,266 @@
 [
   {
+    "title": "[$] Deterministic testing for multithreaded Python",
+    "link": "https://lwn.net/Articles/1090579/",
+    "description": "Python's support for multithreaded programs has improved considerably over\nthe last few years with the advent of the \"free-threaded\" version of the language.  But\ntesting multithreaded programs is notoriously difficult, because the\nunderlying host system determines the thread-execution ordering, which adds\nan element of non-determinism.  At PyCon US, Larry Hastings gave a talk (YouTube video)\nabout his blanket project,\nwhich is meant to provide mechanisms for deterministic testing of\nmultithreaded Python code.",
+    "guid": "https://lwn.net/Articles/1090579/",
+    "date": "Sep 04, 2026 15:29",
+    "published_at": "2026-09-04T15:29:17Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "Auto Companies Call For Ban On Chinese-Made Cars",
+    "link": "https://tech.slashdot.org/story/26/09/04/0441229/auto-companies-call-for-ban-on-chinese-made-cars?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from The Hill: A group representing American automakers sent a letter (PDF) Thursday to congressional leaders asking for a \"permanent ban\" on Chinese-made cars in the U.S. John Bozzella, the Alliance for Automotive Innovation's CEO and president, described in the letter China's manufacturing industry as \"rooted in a well-documented pattern of unfair trade, subsidies, intellectual property theft and surveillance.\" Bozzella addressed his request to Senate Majority Leader John Thune (R-S.D.), Senate Minority Leader Chuck Schumer (D-N.Y.), Speaker Mike Johnson (R-La.) and House Minority Leader Hakeem Jeffries (D-N.Y.) -- urging them to back a \"permanent ban on the sale, import and manufacture of Chinese connected vehicles,\" before the 119th Congress concludes in January.\n \n\"Right now, Chinese automakers are dumping subsidized vehicles with connected software and hardware around the world,\" Bozzella wrote, adding that China \"is capturing market share\" in Europe, Australia, Southeast Asia, Mexico and South America. \"This hasn't happened inside the U.S. yet, but given the scale and urgency of this threat, we urge you to enact a Chinese vehicle, software and hardware ban before adjourning this year and make this policy the law of the land,\" he added. The Alliance for Automotive Innovation, a trade organization representing car manufacturers, represents the \"entire\" U.S. auto industry, per its website.\nBipartisan bills in the Senate and House would bar automakers with more than 15% Chinese ownership from selling vehicles in the U.S. \"Enacting a permanent ban on Chinese vehicles and high-risk hardware and software in the 119th Congress will send a clear and bipartisan message that China's strategy to dominate global automotive manufacturing will be met with a national security policy response from the American government,\" wrote Bozzella.\n \nFurther reading: US Car Buyers Envy What They Cannot Have\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Sep 04, 2026 15:00",
+    "published_at": "2026-09-04T15:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "NetworkManager Works To Enforce AI Policy By Tricking AI Agents To Add A Canary",
+    "link": "https://www.phoronix.com/news/NetworkManager-AI-Canary",
+    "description": "Last month the NetworkManager project adopted an AI coding policy where authors are responsible for 100% of the code they submit and must be able to explain it all. In an attempt to catch AI coding agents that may be trying to bypass their policy, they have added an interesting canary to the project to try to catch such AI-generated patches so they can then be automatically dealt with...",
+    "guid": "https://www.phoronix.com/news/NetworkManager-AI-Canary",
+    "date": "Sep 04, 2026 14:52",
+    "published_at": "2026-09-04T14:52:01Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "PoCL 7.2 Released With Official OpenCL 3.0 Conformance On RISC-V \u0026 x86_64 CPUs",
+    "link": "https://www.phoronix.com/news/PoCL-7.2-Released",
+    "description": "The Portable Computing Language project is out today with PoCL 7.2 as this portable, MIT-licensed OpenCL implementation that runs across various CPU architectures as well as targeting other GPUs/hardware with LLVM back-ends. Notable with PoCL 7.2 is bringing official OpenCL 3.0 conformance on x86_64 and RISC-V processors...",
+    "guid": "https://www.phoronix.com/news/PoCL-7.2-Released",
+    "date": "Sep 04, 2026 14:33",
+    "published_at": "2026-09-04T14:33:57Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "6 Best Linux Distros for Kids in 2026",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367279",
+    "description": "Looking for a Linux distro that won’t fry your kid’s attention span? Here are the 6 best picks for 2026, ranked by age, with real pros and cons.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367279",
+    "date": "Sep 04, 2026 14:28",
+    "published_at": "2026-09-04T14:28:02Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Grml 2026.09 released",
+    "link": "https://lwn.net/Articles/1092660/",
+    "description": "Version\n2026.09, code-named\n\"Hättiwaritätti\", of the Debian-based Grml live Linux distribution for system\nadministrators has been released. It is based on packages from the upcoming\nDebian 14 (\"forky\") release. Notable changes include an update to the Linux\n7.1.8 kernel, support for booting from exfat-formatted USB devices, and an\nupdate to GNU Screen 5.0.1.\n\n",
+    "guid": "https://lwn.net/Articles/1092660/",
+    "date": "Sep 04, 2026 13:30",
+    "published_at": "2026-09-04T13:30:13Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "Security updates for Friday",
+    "link": "https://lwn.net/Articles/1092659/",
+    "description": "Security updates have been issued by Debian (chromium, firefox-esr, and pcre2), Fedora (cockpit, expat, freeipa, kbd, kernel, mrtg, python-pip, and valkey), Mageia (libopenmpt and python-gitpython), Oracle (dbus-broker, freerdp, gegl, gegl04, gimp:2.8, go-fdo-client, go-fdo-server, golang-github-openprinting-ipp-usb, grafana, gzip, image-builder, iperf3, kernel, libssh, libxml2, microcode_ctl, nodejs:22, nodejs:24, openssl-fips-provider, pam, php:7.4, php:8.2, tar, and wget), SUSE (apache2-mod_auth_openidc, apptainer, busybox, cpio, cups-filters, curl, dracut, ffmpeg, file-roller, glibc, grafana, kubevirt, virt-pr-helper-container, lcms2, libtree-sitter0_26, libvirt, postgresql14, postgresql15, postgresql16, postgresql18, suseconnect-ng, terraform-provider-susepubliccloud, and yast2-users), and Ubuntu (FFmpeg, gnupg2, librabbitmq, libssh2, openssh, and spice-vdagent).",
+    "guid": "https://lwn.net/Articles/1092659/",
+    "date": "Sep 04, 2026 13:18",
+    "published_at": "2026-09-04T13:18:27Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "XDC 2026 Will Feature Many Interesting Talks: Vulkan Gallium, OpenCL On CUDA \u0026 More",
+    "link": "https://www.phoronix.com/news/XDC-2026-Talks",
+    "description": "The annual X.Org Developer's Conference \"XDC 2026\" is happening later this month in Toronto. A great number of interesting talks are planned this year from new Wayland features to OpenCL over CUDA, the possibility of Vulkan Gallium, and a lot of exciting driver developments...",
+    "guid": "https://www.phoronix.com/news/XDC-2026-Talks",
+    "date": "Sep 04, 2026 13:05",
+    "published_at": "2026-09-04T13:05:43Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Linux 7.4 To Improve Apple Silicon Audio Support \u0026 Its \"Impossible\" Power Management",
+    "link": "https://www.phoronix.com/news/Linux-Apple-Audio-Shared-GPIO",
+    "description": "The Apple Silicon audio driver code within the Linux kernel is preparing to make use of the recent shared GPIO infrastructure for allowing multiple drivers / kernel components to nicely share the same GPIO lines. This should help clean things up in the mainline kernel for the Apple Silicon audio support and with a cleaner architecture than the current downstream Asahi Linux code...",
+    "guid": "https://www.phoronix.com/news/Linux-Apple-Audio-Shared-GPIO",
+    "date": "Sep 04, 2026 12:13",
+    "published_at": "2026-09-04T12:13:01Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Rockchip RK3576 module powers edge AI dev kit with 20-TOPS RK1820 accelerator",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367271",
+    "description": "Seeed Studio has unveiled the reComputer RK3576 development platform based on Rockchip’s RK3576 processor, with options ranging from standalone compute modules to a complete Dev Kit with an RK1820 AI accelerator. The platform features a 6-TOPS integrated NPU, LPDDR5 memory, eMMC storage, Gigabit Ethernet, Wi-Fi 6, MIPI CSI/DSI, HDMI, USB, and a 40-pin expansion header. […]",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367271",
+    "date": "Sep 04, 2026 11:25",
+    "published_at": "2026-09-04T11:25:04Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Genetically Modified Pig Kidney Keeps Man Alive For Record Nine Months",
+    "link": "https://science.slashdot.org/story/26/09/04/0433242/genetically-modified-pig-kidney-keeps-man-alive-for-record-nine-months?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "A genetically modified pig kidney kept a 66-year-old man off dialysis for a record nine months, marking the longest survival yet for a pig kidney transplanted into a living person and the first time such an organ successfully served as a bridge to a later human transplant. The Guardian reports: Tim Andrews was seriously ill with end-stage kidney disease caused by type 2 diabetes and had only a 9% chance of receiving a human kidney within five years, against a more than 40% risk of dying or being removed from the waiting list. Kidney transplantation provides the best survival and quality of life for patients with end-stage kidney disease, but global demand for human organs far exceeds supply.\n \nSurgeons in the US successfully transplanted a kidney from Wilma, a Yucatan miniature pig, into Andrews, after genetically engineering it to be compatible with his immune system. The kidney kept Andrews free of dialysis for a record nine months, the longest period ever recorded, before it began failing and he received one from a dead human donor. It was also the first time a pig's kidney had been used as a temporary \"bridge\" to a human transplant. The breakthrough has been detailed in the journal Lancet.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Sep 04, 2026 11:00",
+    "published_at": "2026-09-04T11:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Fedora 47 Considering Use Of Thin LTO Compiler Optimizations",
+    "link": "https://www.phoronix.com/news/Fedora-47-Considers-Thin-LTO",
+    "description": "A change proposal filed for what would be part of Fedora Linux 47 is on making use of Thin LTO rather than Fat LTO for link-time optimizations. With Thin LTO being more memory efficient and faster build speeds, the hope is that more Fedora packages could also use Thin LTO for packages where no link-time optimizations are currently leveraged...",
+    "guid": "https://www.phoronix.com/news/Fedora-47-Considers-Thin-LTO",
+    "date": "Sep 04, 2026 10:32",
+    "published_at": "2026-09-04T10:32:00Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Stranded Deep 2 brings survival to the desert wilderness",
+    "link": "https://www.gamingonlinux.com/2026/09/stranded-deep-2-brings-survival-to-the-desert-wilderness/",
+    "description": "Revealed during the Steam survival crafting fest recently, we're getting another dose of survival in Stranded Deep 2.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/stranded-deep-2-brings-survival-to-the-desert-wilderness/",
+    "date": "Sep 04, 2026 10:21",
+    "published_at": "2026-09-04T10:21:53Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1241195906id29698gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Mesa 26.3 Preps For Intel Nova Lake P's New 64-bit GPU Mode",
+    "link": "https://www.phoronix.com/news/Intel-Nova-Lake-P-64-bit-Mode",
+    "description": "Merged overnight for Mesa 26.3 are changes to Intel's graphics compiler code for supporting a new 64-bit shader addressing mode. It turns out with upcoming Nova Lake P graphics will be a big fundamental change...",
+    "guid": "https://www.phoronix.com/news/Intel-Nova-Lake-P-64-bit-Mode",
+    "date": "Sep 04, 2026 10:20",
+    "published_at": "2026-09-04T10:20:57Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Vulkan 1.4.362 Released With New Extension Developed By Valve",
+    "link": "https://www.phoronix.com/news/Vulkan-1.4.362",
+    "description": "Vulkan 1.4.362 is out this morning as the newest routine spec update. Making Vulkan 1.4.362 more notable beyond a couple bug fixes are two new Vulkan API extensions, both of which were worked on by Valve's Linux graphics team and one of them being a Valve vendor extension...",
+    "guid": "https://www.phoronix.com/news/Vulkan-1.4.362",
+    "date": "Sep 04, 2026 09:56",
+    "published_at": "2026-09-04T09:56:48Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Get some quality tactical RPGs in the CRPG Pack: Isometric Immersion Humble Bundle",
+    "link": "https://www.gamingonlinux.com/2026/09/get-some-quality-tactical-rpgs-in-the-crpg-pack-isometric-immersion-humble-bundle/",
+    "description": "You can get some real quality tactical RPGs in the CRPG Pack: Isometric Immersion Humble Bundle, this is one with some great savings.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/get-some-quality-tactical-rpgs-in-the-crpg-pack-isometric-immersion-humble-bundle/",
+    "date": "Sep 04, 2026 08:54",
+    "published_at": "2026-09-04T08:54:16Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1440215722id29697gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "DRAGON BALL XENOVERSE 3 gets a new character transformation focused trailer",
+    "link": "https://www.gamingonlinux.com/2026/09/dragon-ball-xenoverse-3-gets-a-new-character-transformation-focused-trailer/",
+    "description": "DRAGON BALL XENOVERSE 3 is looking really exciting, with the ability to really customize your form and fighting style with new transformations.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/dragon-ball-xenoverse-3-gets-a-new-character-transformation-focused-trailer/",
+    "date": "Sep 04, 2026 08:40",
+    "published_at": "2026-09-04T08:40:53Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1669476038id29696gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "OpenVPN 2.7.7 Released with Seven Security Fixes",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367268",
+    "description": "OpenVPN 2.7.7 is now available with fixes for seven security vulnerabilities, Linux Netlink hardening, and several networking bug fixes.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367268",
+    "date": "Sep 04, 2026 08:22",
+    "published_at": "2026-09-04T08:22:05Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "GUNDAM ROGUE ORBIT arrives March 5, 2027",
+    "link": "https://www.gamingonlinux.com/2026/09/gundam-rogue-orbit-arrives-march-5-2027/",
+    "description": "GUNDAM ROGUE ORBIT from Bandai Namco has a new trailer and a release date now set for March 5th, 2027.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/gundam-rogue-orbit-arrives-march-5-2027/",
+    "date": "Sep 04, 2026 08:16",
+    "published_at": "2026-09-04T08:16:17Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1603514181id29695gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "FINAL FANTASY VII REVELATION arrives April 8, 2027 - will be getting two DLC expansions",
+    "link": "https://www.gamingonlinux.com/2026/09/final-fantasy-vii-revelation-arrives-april-8-2027-will-be-getting-two-dlc-expansions/",
+    "description": "Square Enix just revealed that FINAL FANTASY VII REVELATION will release April 8th, 2027 and they've also said it will get two DLC expansions.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/final-fantasy-vii-revelation-arrives-april-8-2027-will-be-getting-two-dlc-expansions/",
+    "date": "Sep 04, 2026 08:09",
+    "published_at": "2026-09-04T08:09:23Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1000909188id29694gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "The cloud gaming dream is dying - XBOX places limits on XBOX Cloud Gaming",
+    "link": "https://www.gamingonlinux.com/2026/09/the-cloud-gaming-dream-is-dying-xbox-places-limits-on-xbox-cloud-gaming/",
+    "description": "Cloud gaming always seems like it's just a few years away from becoming a real reality doesn't it? But no, it's never really going to take over like this.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/the-cloud-gaming-dream-is-dying-xbox-places-limits-on-xbox-cloud-gaming/",
+    "date": "Sep 04, 2026 07:46",
+    "published_at": "2026-09-04T07:46:00Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1310982949id29693gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "\"Yes, no AI is now a feature\" - LibreOffice / The Document Foundation",
+    "link": "https://www.gamingonlinux.com/2026/09/yes-no-ai-is-now-a-feature-libreoffice-the-document-foundation/",
+    "description": "Something I found interesting that deserved a write-up this morning is the blog post from LibreOffice / The Document Foundation on no AI being a feature.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/yes-no-ai-is-now-a-feature-libreoffice-the-document-foundation/",
+    "date": "Sep 04, 2026 07:36",
+    "published_at": "2026-09-04T07:36:41Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1129773177id29692gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Tesla Launches Steering-Wheel-Free Cybercab Robotaxi In Austin",
+    "link": "https://tech.slashdot.org/story/26/09/04/0427208/tesla-launches-steering-wheel-free-cybercab-robotaxi-in-austin?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Tesla has begun offering public rides in Austin in its purpose-built Cybercab, a two-seat robotaxi with no steering wheel or pedals. \"You can go outside, take rides,\" said Ashok Elluswamy, Tesla's VP of AI. \"Anyone can take rides. It's open to the entire public.\" Previously, the fleet consisted only of Model Ys.\n \nTexas records show Tesla had registered 45 Cybercabs as of Thursday, though the company has not disclosed how many are currently carrying passengers. Tesla also says it eventually wants consumers to be able to buy the vehicles for under $30,000. Business Insider reports: Videos posted online by Tesla influencers and content creators who were invited to the Austin event showed that the Cybercab can be hailed through the Robotaxi app. In a video posted by David Moss, an autonomous-vehicle content creator, Robotaxi users could open the car's butterfly doors through the app. After the riders enter the car, the doors closed automatically, Moss said in the video. The launch comes nearly two years after Tesla first unveiled the Cybercab at its \"We, Robot\" event in Burbank, California.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Sep 04, 2026 07:00",
+    "published_at": "2026-09-04T07:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Ubuntu 26.10 “Stonking Stingray” Snapshot 3 Is Now Available for Public Testing",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367273",
+    "description": "Canonical released Snapshot 3 of the upcoming Ubuntu 26.10 (Stonking Stingray) release as the third development milestone targeting early adopters and application developers who want to test their apps.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367273",
+    "date": "Sep 04, 2026 05:19",
+    "published_at": "2026-09-04T05:19:06Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Bernie Sanders Proposes Artificial Superintelligence Ban Amid Rogue AI Hackings",
+    "link": "https://yro.slashdot.org/story/26/09/03/2222247/bernie-sanders-proposes-artificial-superintelligence-ban-amid-rogue-ai-hackings?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from The Hill: Sen. Bernie Sanders (I-Vt.) and Rep. Greg Casar (D-Texas) are calling for a permanent ban on the development and deployment of artificial superintelligence, citing a series of recent hackings involving \"rogue\" models. The bicameral duo announced Thursday they will introduce the Ban Artificial Superintelligence Act, which would institute the permanent ban, along with temporarily pausing \"advanced AI development\" until federal regulators establish safety standards. The bill would also direct the U.S. to \"pursue international agreements to prevent superintelligence from being developed anywhere in the world\" and establish a new Cabinet-level federal agency focused on AI safety rules.\n \nSuperintelligence refers to AI technologies that will surpass the smartest humans. Several technology leaders, including OpenAI CEO Sam Altman, have suggested superintelligence is on the horizon. The legislation would also set new penalties for any person or company trying to circumvent the ban, including the corporate death penalty, in which a court forces a company to shut down. Individual developers could also face up to 20 years in prison, the lawmakers said. \"Nearly every day, there is a frightening new story about how Big Tech companies are losing control of the technology they are developing, with potentially cataclysmic results,\" Sanders wrote in a press release.\n \n\"The leaders of the major AI companies publicly acknowledge that they do not fully understand the technology and that it is escaping their control. It is irresponsible for society to allow them to move forward and make these products even more advanced.\"\n \nCasar emphasized AI's fast development, writing in a statement, \"In just four years, we have gone from the first version of ChatGPT to AI models so powerful they cannot be properly controlled.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Sep 04, 2026 03:30",
+    "published_at": "2026-09-04T03:30:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
     "title": "Ubuntu 26.10 Snapshot 3 Monthly ISOs Released For Testing",
     "link": "https://www.phoronix.com/news/Ubuntu-26.10-Snapshot-3",
     "description": "Released tonight is Ubuntu 26.10 \"Stonking Stingray\" Snapshot 3 as the newest monthly ISO candidates for Ubuntu Linux...",
@@ -325,6 +586,16 @@
     "source_url": "https://www.gamingonlinux.com/"
   },
   {
+    "title": "CERN Transitioning To Debian After Being A Longtime RHEL Institution",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367243",
+    "description": "CERN, the European Organization for Nuclear Research, besides being well known for its Large Hadron Collider (LHC) is known among longtime Linux users as a RHEL/CentOS shop. CERN formally even co-maintained the Scientific Linux RHEL derivative with other educational/research institutions in the past. So to much surprise now, CERN is transitioning to Debian Linux...",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367243",
+    "date": "Sep 03, 2026 11:08",
+    "published_at": "2026-09-03T11:08:55Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
     "title": "Perplexity Will Open Source Its Faster Lily AI Engine For Apple Silicon",
     "link": "https://entertainment.slashdot.org/story/26/09/02/2235237/perplexity-will-open-source-its-faster-lily-ai-engine-for-apple-silicon?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
     "description": "BrianFagioli writes: Perplexity has built a local artificial intelligence engine designed specifically for Apple silicon and the Qwen3.6-35B-A3B model. Called Lily, the engine uses a Rust runtime and custom Metal kernels, with neither PyTorch nor MLX in its execution path. Perplexity says Lily averaged 23 percent faster prompt processing and 35 percent faster token generation than MLX-LM on an M5 Max MacBook Pro with 128GB of unified memory. Lily is more specialized than MLX-LM, which supports a much wider range of models and architectures. Perplexity says it plans to release Lily as open source, but the code is not available yet, leaving its performance claims dependent on internal testing for now.\n\n\n\n\n\nRead more of this story at Slashdot.",
@@ -442,158 +713,13 @@
     "source_url": "https://www.gamingonlinux.com/"
   },
   {
-    "title": "Instrument Clusters Are Now Paid Extras In Two Hyundai Models",
-    "link": "https://tech.slashdot.org/story/26/09/02/2246257/instrument-clusters-are-now-paid-extras-in-two-hyundai-models?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "\"Enshittification of car controls [is] rapidly accelerating,\" writes longtime Slashdot reader sinij, pointing to a new report from Car and Driver. From the report: Remember when iPhones used to come with free headphones and a phone charger (including the wall plug)? It didn't feel so much like Apple giving you free goodies as it did that the company was providing you with the relevant hardware to use the device. Apple stopped including headphones and charging blocks in 2020. Now, Hyundai is pulling some of its standard hardware from the box, at least for two models.\n \nHyundai is charging customers extra for a driver's display in the new Elantra generation (more specifically, the Korea-market Avante), as well as the Ioniq 3, Motor1 reported. Both models feature Pleos Connect, Hyundai's new infotainment setup that pairs a center touchscreen with a slim 9.9-inch instrument cluster mounted above the dashboard -- except where it doesn't.\n \nIn its domestic market, the instrument cluster screen is offered as a 350,000 won ($255) option for the base trim. Not the most expensive optional extra in the world, but still kind of a slap in the face for a feature traditionally viewed as standard fare. Things are more expensive for the electric Ioniq 3. In the EV's case, the base trim gives customers the full Tesla-screen experience, meaning if customers want the driver's display, they'll need to fork over the additional $5000 necessary to move up to the next-level trim. [...] Hyundai plans to have the setup equipped in 20 million cars globally by the end of the decade.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Sep 03, 2026 07:00",
-    "published_at": "2026-09-03T07:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Bluetooth/UWB board based on nRF52840 offers 10cm accuracy",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367232",
-    "description": "Makerfabs has showcased an nRF52840 development board combining Bluetooth connectivity with a DW3000-series ultra-wideband radio for ranging and positioning applications. The board includes a 1.3-inch OLED display, dual USB Type-C connections, LiPo battery support, a fuel gauge, and expansion headers, while accompanying Arduino examples cover single- and multi-node UWB ranging. The board is based on […]",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367232",
-    "date": "Sep 03, 2026 06:34",
-    "published_at": "2026-09-03T06:34:27Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Distro of the Week:Fluff Linux KDE Plasma",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367244",
-    "description": "We get mail: A reader recently suggested we take today's Distro of the Week - Fluff Linux - on a test drive, and we obliged. This American distro based on Arch Linux with the KDE Plasma desktop environment did not disappoint, and was impressive on several levels.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367244",
-    "date": "Sep 03, 2026 03:31",
-    "published_at": "2026-09-03T03:31:28Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Global Heating Will Hit At Least 1.8C, UN Warns, and There Are 'No Good Outcomes'",
-    "link": "https://news.slashdot.org/story/26/09/02/2228245/global-heating-will-hit-at-least-18c-un-warns-and-there-are-no-good-outcomes?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "An anonymous reader quotes a report from The Guardian: Global heating will reach at least 1.8C under even the most optimistic future, well beyond the Paris agreement goal of 1.5C, according to a UN report that warns every fraction of temperature rise intensifies destructive extreme weather, glacier melt, ecosystem loss, and island and coastal city submersion. The report by the Nairobi-based UN Environment Program confirmed overshooting the 1.5C goal inscribed in the landmark Paris agreement of 2015 was now \"unavoidable\" and, despite some progress in addressing the human-caused climate crisis driven by burning fossil fuels, likely in the next few years. It said: \"There are no good outcomes above 1.5C.\"\n \nHeating of up to 3C above preindustrial levels could lead to glaciers losing more than a quarter of their mass by 2100, raising sea levels by up to 13cm. Global food production could decline by up to 14% by 2050 if there are not effective strategies to adapt. Human health, water supplies, nature, cities, infrastructure and economies could all be severely damaged. Some losses would be irreversible. Many communities may have to relocate or change their livelihoods. The report said the best hope for humanity to limit damage was to adopt an \"overshoot, peak and decline\" pathway that required immediate and sustained greenhouse gas emissions cuts combined with steps to remove carbon dioxide from the atmosphere.\n \nIt described the goal of net zero emissions -- increasingly politically contentious in some countries -- as \"an essential milestone that cannot be skipped\" and stressed carbon dioxide removal through steps such as establishing vast new forests must occur alongside, not as an alternative to, deep cuts in fossil pollution. Crucially, the authors of the report, titled Limiting Overshoot, said the average global temperature could be returned to 1.5C this century only if heating stayed below about 1.8C. They warned nature's capacity to store carbon was uncertain and would shrink the more the planet heats. [...] The report's authors cited earlier work that found limiting heating to about 1.8C required global emissions to be halved by 2035. They said existing national policies were projected to lead to at least 2.3C heating, but it would still be possible to limit stay below 2C if countries delivered on net zero emissions commitments by mid-century.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Sep 03, 2026 03:30",
-    "published_at": "2026-09-03T03:30:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Lemonade 11.9 Local AI Server Released With Super Exciting AMD ROCm HRX Backend",
-    "link": "https://www.phoronix.com/news/Lemonade-11.9-ROCm-HRX",
-    "description": "Lemonade 11.9 is out today as the newest feature release to this AMD-backed, open-source local AI server solution across Linux, Windows, and macOS. Lemonade has long been focused on offering \"100% free and private\" AI use with local hardware whether it be GPUs, CPUs, or NPUs.  With Lemonade 11.9's release today it's very interesting for having experimental ROCm HRX back-end support with Llama.cpp. HRX is the new exciting thing to watch out for on the AMD ROCm compute landscape...",
-    "guid": "https://www.phoronix.com/news/Lemonade-11.9-ROCm-HRX",
-    "date": "Sep 03, 2026 00:32",
-    "published_at": "2026-09-03T00:32:40Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "[$] LWN.net Weekly Edition for September 3, 2026",
-    "link": "https://lwn.net/Articles/1090824/",
-    "description": "Inside this week's LWN.net Weekly Edition:\n        \n        \n Front: Python JIT; rnull block driver; steal time; GNOME governance; 7.3 merge window; LUKS.\n             Briefs: Kernel infrastructure; Debian AI; Dolphin 26.08; Firefox 155; Incus 7.4; OpenShot 4.0; Quotes; ...\n             Announcements: Newsletters, conferences, security updates, patches, and more.\n            ",
-    "guid": "https://lwn.net/Articles/1090824/",
-    "date": "Sep 03, 2026 00:22",
-    "published_at": "2026-09-03T00:22:18Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "Embedded platform implements Amlogic A311Y3 octa-core SoC with PCIe 3.0 support",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367231",
-    "description": "Boardcon’s CM311Y3 system-on-module and accompanying Idea311Y3 development board are based on the Amlogic A311Y3 processor. The platform provides an 8-TOPS NPU, up to 16GB of LPDDR5/LPDDR5X memory, PCIe 3.0 storage expansion, dual Gigabit Ethernet, HDMI input and output, and multiple MIPI camera and display interfaces. The Amlogic A311Y3 integrates two Arm Cortex-A78 cores running at […]",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367231",
-    "date": "Sep 03, 2026 00:07",
-    "published_at": "2026-09-03T00:07:24Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "FCC Plans Robocall Scorecard to Grade Phone Companies On Spam Call Blocking",
-    "link": "https://mobile.slashdot.org/story/26/09/02/215232/fcc-plans-robocall-scorecard-to-grade-phone-companies-on-spam-call-blocking?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "The FCC is proposing (PDF) a public \"robocall mitigation scorecard\" that would grade phone companies on how well they block illegal spam calls while avoiding false positives on the legitimate ones. \"The Scorecard will empower consumers and encourage providers to continue to combat illegal robocalls by providing the public with an assessment of the effectiveness of voice service providers' efforts to protect consumers from illegal robocalls,\" the FCC Consumer and Governmental Affairs Bureau said in a public notice. Ars Technica reports: The scorecards could include call-blocking statistics along with data on customer complaints and enforcement actions. The FCC said scorecards could grade providers on a number scale, with letter grades, or by classifying providers as low risk, medium risk, or high risk. The proposed tool would rate wireless, wireline, and VoIP providers on efforts to block robocalls and their \"actual results in protecting [consumers] from illegal robocalls,\" the FCC said. \"In practice, that means moving beyond a simple administrative checklist (i.e., did the provider file the right paperwork, did they offer the right tools) and toward a composite set of metrics that reflects both operational practices and measurable outcomes, including how often legitimate calls are blocked.\"\n \nWhether the tool is useful for consumers will depend on how it's designed, how easy each provider's scorecard is to find, and what data sources it relies on. The proposed scorecard would apply to domestic voice service providers with retail customers, but not telcos that operate solely as wholesale or intermediate providers. \"Combatting the scourge of illegal robocalls remains the FCC's top consumer protection priority... As proposed in today's public notice, the FCC aims to develop a scorecard that will give consumers more information about the measures providers are taking to fight illegal robocalls, and it will also incentivize providers to improve their efforts,\" FCC Chairman Brendan Carr said in a press release.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Sep 02, 2026 23:00",
-    "published_at": "2026-09-02T23:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "For Better or Worse, Calibre 9.14 Adds AI Cover Generator and Improved Kobo Support",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367223",
-    "description": "Want AI-generated cover art for your ebook? Calibre now offers it, along with a substantial collection of less controversial improvements for Kobo users and readers.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367223",
-    "date": "Sep 02, 2026 22:35",
-    "published_at": "2026-09-02T22:35:54Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "1Password Wades Into a Right-Wing Mess After Funding a Linux Project",
-    "link": "https://news.slashdot.org/story/26/09/02/2055245/1password-wades-into-a-right-wing-mess-after-funding-a-linux-project?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "1Password is facing customer and internal employee backlash after pledging $300,000 to support a Linux distro created by David Heinemeier Hansson, who has regularly published racist and anti-immigrant rhetoric. \"The popular password manager is now a 'distinguished corporate patron' of Omacom, the nonprofit foundation that oversees a popular Linux distribution known as Omarchy,\" reports The Verge. From the report: One viral blog post declared that 1Password \"Supports the Ethnic Cleansing of Europe\" because of the donation. Others on social media asked for suggestions for alternative password managers so they would not support the funding of a project from Heinemeier Hansson, better known as DHH. The donation has also resulted in internal pushback from employees of 1Password who are disappointed by the affiliation, The Verge has learned. 1Password CEO David Faugno and cofounder Roustem Karimov have since posted internal messages addressing what Faugno describes as \"concerns, both internally and externally\" that have been raised \"due to the polarizing nature\" of DHH.\n \nDHH is a Danish entrepreneur best known for creating Ruby on Rails, Basecamp, and the Hey email client. Omarchy is DHH's \"opinionated\" version of Linux, meaning it's Linux the way he likes to use it. It's based on Arch Linux, with certain apps that install by default. It's also, apparently, one of 1Password's big customer environments. [...] In an internal Slack message obtained by The Verge, 1Password's Karimov downplayed the overtly racist comments from DHH, telling staff the following: \"As I said, people have different personal opinions. You believe in your heart that DHH is evil, that you have the moral high ground, and that nothing will change your mind. However, not everyone believes that. It is not fair to claim a monopoly and ostracize team members who might disagree with you. There are people who are afraid to speak up simply because they will be personally attacked.\"\n \n1Password CEO Faugno took a different approach, trying to reassure staff that \"1Password does not endorse hateful, dehumanizing, or exclusionary views, including those shared publicly by DHH.\" Nonetheless, it seems the company has sacrificed a moral position for a \"mission-driven\" position. In the same message to staff, Faugno says \"the scale and growth of [Omarchy's] use among our customers is significant -- Omarchy has grown to be the second most used Linux distribution among 1Password users.\" Faugno then tries to create distance, telling staff that its contribution is \"to the Omacom Foundation, not an individual.\" Still, he says \"we recognize that Omarchy is associated with DHH, its founder. Our donation is not in any way an endorsement of his personal views or conduct.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Sep 02, 2026 22:00",
-    "published_at": "2026-09-02T22:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "First Arch Linux ISO Powered by Linux Kernel 7.2 Is Now Available for Download",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367220",
-    "description": "This is your friendly reminder that Arch Linux 2026.09.01 is out now as a new ISO snapshot for September 2026, powered by the latest and greatest Linux 7.2 kernel series.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367220",
-    "date": "Sep 02, 2026 21:04",
-    "published_at": "2026-09-02T21:04:25Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "CERN Transitioning From RHEL To Debian",
-    "link": "https://linux.slashdot.org/story/26/09/02/2041220/cern-transitioning-from-rhel-to-debian?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Longtime Slashdot reader Microsplat: CERN plans to have all 2,200+ industrial computers and embedded systems in its accelerator-control infrastructure running Debian 13 by the end of 2026. These are systems used for accelerator control, laboratory equipment and other operational functions ... They also generate and interact with a hefty amount of data, although this Linux.com article refers more broadly to CERN's computing infrastructure. It's unclear whether the Debian migration covers all server infrastructure or what scientific-research-based systems are included. Our shops have done much the same in recent years, mostly due to CentOS and CFEngine getting the can. Phoronix adds some additional context in its article: CERN was a longtime RHEL/CentOS shop, previously co-maintained the Scientific Linux RHEL derivative, moved to CentOS in 2015, and later considered CentOS Stream. CERN says Red Hat's adoption of the \"-march=x86-64-v2\" compiler flag by default, which it viewed as \"forced obsolescence\" of older hardware, was the \"straw that broke the camel's back.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Sep 02, 2026 21:00",
-    "published_at": "2026-09-02T21:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
     "title": "Fedora 46 Proposal Wants To Provide Official Support For Crystal Programming Language",
-    "link": "https://www.phoronix.com/news/Fedora-46-Proposal-Crystal",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367249",
     "description": "A new change proposal that's been filed for evaluation with next year's Fedora 46 release is to provide official, native support for the Crystal programming language...",
-    "guid": "https://www.phoronix.com/news/Fedora-46-Proposal-Crystal",
-    "date": "Sep 02, 2026 20:32",
-    "published_at": "2026-09-02T20:32:09Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "How to Fix Logitech MX Master Scroll Problems on Linux Systems",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367222",
-    "description": "After years of using my first-generation MX Master, I finally found a simple way to fix the annoying reverse scrolling / “scroll bounce” that can occur on Linux, especially with Wayland.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367222",
-    "date": "Sep 02, 2026 19:32",
-    "published_at": "2026-09-02T19:32:55Z",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367249",
+    "date": "Sep 03, 2026 08:05",
+    "published_at": "2026-09-03T08:05:56Z",
     "source": "lxer.com",
     "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "NVIDIA-Started Open Secure AI Alliance Moves To The Linux Foundation",
-    "link": "https://www.phoronix.com/news/Open-Secure-AI-Alliance-LF",
-    "description": "Earlier this year NVIDIA led an effort with more than two dozen other companies to launch the Open Secure AI Alliance with a focus on keeping open-source AI models secure. The Open Secure AI Alliance today is transitioning from being stewarded by NVIDIA to becoming a Linux Foundation project...",
-    "guid": "https://www.phoronix.com/news/Open-Secure-AI-Alliance-LF",
-    "date": "Sep 02, 2026 18:42",
-    "published_at": "2026-09-02T18:42:04Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
   }
 ]
