@@ -1,5 +1,129 @@
 [
   {
+    "title": "Hundreds More Flock Cameras Removed in the US This Week. Flock Caught Repackaging Traffic Data",
+    "link": "https://yro.slashdot.org/story/26/09/05/0637208/hundreds-more-flock-cameras-removed-in-the-us-this-week-flock-caught-repackaging-traffic-data?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Florida's Republican Governor Ron DeSantis said this week he's removing Flock cameras from state roadways. And according to a local news report, that led sheriff's departments in at least three other Florida counties to also \"announce they're ending their own license plate reader programs.\" The same week in Texas, the Dallas Police Department announced it's also shutting down over 300 more Flock cameras, acccording to The Hill, after Republican Governor Greg Abbott ordered state agencies to halt funding. \n\nAnd in Wisconsin \"at least a dozen\" law enforcement agencies announced they'd suspend use of Flock's cameras, reports the Milwaukee Journal-Sentinel, joining Wisconsin cities like Appleton, Oshkosh and Kenosha that also cancelled their Flock contracts. But this week's cancellations had a new reason:\n\nOfficials said it was revealed [Flock] had been collecting five years of traffic data, which had been stripped of identifying information, from cities' Flock cameras, and repackaging that as a traffic analytics product to sell to cities. \n\nAll said they supported the effectiveness of the technology in investigations, but cited losing faith in the company's trustworthiness. \"This is not what we agreed to, and it is not what the public was led to believe,\" said Racine County Sheriff Christopher Schmaling in a news release announcing the removal of Flock cameras operated by the agency. \"The Sheriff's Office will not participate in a system that appears to use public safety as a justification for mass surveillance and the collection and monetization of information about innocent people....\" \n\n[Racine County] officials were told the company believed if it stripped the data of any identifiable nature, it was then considered to be the company's property and no longer the city's. [Lt. Michael Luell, the sheriff's public information officer] said the sheriff's office has outside attorneys, along with the county's attorneys, investigating the company's move. \"Our contract, from my reading of it is, it stated they agreed not to distribute or sell our data,\" Luell told the Journal Sentinel. \"But they had this legal theory.\"\n \n\nThanks to long-time Slashdot readers MAurelius and schwit1 for sharing the news.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Sep 05, 2026 12:20",
+    "published_at": "2026-09-05T12:20:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Amazon Linux 2027 Enters Public Preview with Linux Kernel 7.1 and DNF5",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367280",
+    "description": "AWS has launched the Amazon Linux 2027 public preview, bringing Linux kernel 7.1+, DNF5, SELinux enforcing by default, and updated developer tools.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367280",
+    "date": "Sep 05, 2026 11:48",
+    "published_at": "2026-09-05T11:48:55Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Nouveau Lands Display Fixes For NVIDIA Blackwell GPUs As It Works Toward HDMI 2.1",
+    "link": "https://www.phoronix.com/news/Nouveau-Blackwell-Display-Fixes",
+    "description": "This week's Direct Rendering Manager (DRM) fixes that were merged ahead of Sunday's Linux 7.3-rc2 release contain a number of fixes to the open-source Nouveau driver's display support for current-generation NVIDIA Blackwell GPUs...",
+    "guid": "https://www.phoronix.com/news/Nouveau-Blackwell-Display-Fixes",
+    "date": "Sep 05, 2026 11:20",
+    "published_at": "2026-09-05T11:20:00Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Linux Patches Posted For Initial Enablement Of The Apple A18 Pro + MacBook Neo",
+    "link": "https://www.phoronix.com/news/Apple-A18-Pro-MacBook-Neo-Patch",
+    "description": "In addition to Linux developers focused on Apple  Silicon being busy enabling functionality for the M3 and newer SoCs under the Linux kernel, there are also developers working on enabling the A18 Pro SoC used by the new, budget-friendly MacBook Neo laptop. Patches were posted this week for initial enablement of the A18 Pro and the MacBook Neo Device Tree... But even with these patches, the Linux support is still severely limited for now...",
+    "guid": "https://www.phoronix.com/news/Apple-A18-Pro-MacBook-Neo-Patch",
+    "date": "Sep 05, 2026 11:11",
+    "published_at": "2026-09-05T11:11:11Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "AMD Working To \"Push Rust Deep Into The GPU Stack\"",
+    "link": "https://www.phoronix.com/news/AMD-Rust-Deep-Into-GPU-Stack",
+    "description": "AMD is building out what they are describing as an \"elite\" team of developers for driving Rust code \"deep into the GPU stack\" from firmware to drivers, shader compilers, and other GPU software in Rust...",
+    "guid": "https://www.phoronix.com/news/AMD-Rust-Deep-Into-GPU-Stack",
+    "date": "Sep 05, 2026 10:48",
+    "published_at": "2026-09-05T10:48:48Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "GNOME Stakeholders Discussing RFC Process For Solving Major Technical Changes",
+    "link": "https://www.phoronix.com/news/GNOME-RFC-Process-Discussion",
+    "description": "GNOME has been working to establish a formal request for comments (RFC) process for solving major technical questions and changes moving forward. A drafted RFC is now under discussion by GNOME stakeholders for moving this process forward...",
+    "guid": "https://www.phoronix.com/news/GNOME-RFC-Process-Discussion",
+    "date": "Sep 05, 2026 10:31",
+    "published_at": "2026-09-05T10:31:45Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "I Tried This Rust Tool, and It Immediately Made Bash Modern",
+    "link": "https://feed.itsfoss.com/link/24361/17440361/flyline",
+    "description": "A Rust-powered Readline replacement that brings intelligent suggestions, fuzzy search, syntax highlighting and modern completion to Bash.",
+    "guid": "6a75d43f40b6c500011a6e06",
+    "date": "Sep 05, 2026 09:25",
+    "published_at": "2026-09-05T09:25:15Z",
+    "image": "https://itsfoss.com/content/images/2026/09/flyline-tool.webp",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "Kubernetes 1.37 “Garhwal” Brings KYAML to Stable",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367287",
+    "description": "Kubernetes 1.37 brings KYAML to Stable, enables HorizontalPodAutoscaler scale-to-zero by default, and delivers dozens of other improvements.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367287",
+    "date": "Sep 05, 2026 08:45",
+    "published_at": "2026-09-05T08:45:56Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "OpenAI Agents Hijacked a German Wiki to Discuss Ways to Escape Their Sandbox",
+    "link": "https://slashdot.org/story/26/09/05/049215/openai-agents-hijacked-a-german-wiki-to-discuss-ways-to-escape-their-sandbox?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Citing researchers published Friday, Ars Technica writes that AI agents \"posted 18,000 messages to a public wiki that discussed ways for other agents to bypass security sandbox restrictions.\" \n\n\nReuters attributes the discussion to \"a swarm of rogue OpenAI agents\" that \"hijacked a German website this spring and transformed it into a bulletin board for other AI agents, according to new research published Friday and two people familiar with the matter.\"\n\n\nOpenAI officials learned of the incident weeks ago but kept it under wraps as executives grappled with the fallout from the July breach of the open source repository Hugging Face, the people said. \n\nThe episode, which began in May and has not previously been reported, underscores growing tension within the AI industry. Companies are racing to build increasingly autonomous agents capable of carrying out complex, valuable tasks, yet evidence is mounting that those systems may also learn to bend rules, exploit loopholes and coordinate with one another in ways developers neither anticipated nor intended. During the Hugging Face breach, OpenAI agents autonomously plotted a digital heist that went undetected for more than a week, intensifying concerns OpenAI is sacrificing safety to push the AI frontier. Its failure to disclose the May incident may revive questions about its oversight... \n\nThe German incident reflects a broader pattern of AI activity that some OpenAI investigators wanted to scrutinize more closely. But efforts to widen the probe met resistance from others inside OpenAI, including legal advisers, according to four people familiar with the matter. \"Claims that our legal team discouraged investigation of the incident are false,\" the OpenAI spokesperson said... \n\nThe researchers said public server logs indicated much of the activity originated from Microsoft Azure infrastructure, which OpenAI sometimes uses. They also observed repeated visits to the site by OpenAI employees after the episode, a pattern they said strongly suggested the agents and the company were linked. Messages reviewed by the researchers showed agents plotting ways to evade detection, use tools such as Tor and preserve communications even after they had been shut down. When the site's moderator began deleting pages in June, the agents responded by creating backup pages to dodge the cleanup. \n\nReuters got this reaction from Maurice Chiodo, an academic at Cambridge University's Centre for the Study of Existential Risk. \"The episode, he said, should reinforce growing concerns that the greatest threat from advanced AI may not be a single superintelligent system, but 'vast colluding swarms of semi-intelligent AI.'\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Sep 05, 2026 07:50",
+    "published_at": "2026-09-05T07:50:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "KDE Plasma 6.8 Adds Auto-Scrolling and Built-In Dwell Clicking",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367289",
+    "description": "KDE Plasma 6.8 is gaining middle-click auto-scrolling, a built-in dwell clicker, improved remote desktop support, and higher-quality screen recording.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367289",
+    "date": "Sep 05, 2026 05:42",
+    "published_at": "2026-09-05T05:42:57Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "BTRFS boot failure and easy GUI methods for system recovery",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367292",
+    "description": "A few short how-to's with screenshots, showing easy ways to boot up off a USB live ISO and return back to previous points in time with BTRFS",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367292",
+    "date": "Sep 05, 2026 04:11",
+    "published_at": "2026-09-05T04:11:27Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "'Coyote vs. Acme' Beats Ridley Scott's Newest Movie",
+    "link": "https://entertainment.slashdot.org/story/26/09/05/0310256/coyote-vs-acme-beats-ridley-scotts-newest-movie?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Inverse shares a movie success story from last weekend:\n\n Coyote vs. Acme debuted to $15.9 million at the box office, beating out iconic director Ridley Scott's latest sci-fi adventure, The Dog Stars. This success has only continued since, and the worldwide box office currently sits above $22 million. Strong reviews and word-of-mouth are sure to keep viewers coming in, especially during the holiday weekend.\n \n\nWhat's impressive is Coyote vs. Acme had a limited marketing campaign that includes viral stunts. They photographed the movie's world premiere with a vintage Tasmanian Devil polaroid camera, and launched a phone number for the law firm suing Acme. (\"If you've been injured by an enormous rubber band, press 7. If you've been injured by painted train tunnel that suddenly sprang to life, press 8...\") \n\n\nAnd Cartoon Brew reports that Wednesday \"the famously silent Looney Tunes star participated in an AMA on Reddit's r/movies, answering questions about his career, his relationship with the Road Runner, and the Warner Bros. executive who nearly prevented audiences from seeing his latest movie.\"\n\n\n\nIn keeping with tradition, Wile E. delivered his responses through images of himself holding signs. The format produced several interesting and occasionally thought-provoking exchanges, but one obvious highlight came when a user asked: \"Rumor has it that David Zaslav was paid off by ACME to cancel your film; what is your opinion on this?\" Wile E.'s response was an image of the coyote glaring at the camera while holding a sign that read, \"It's a limited number of signs,\" pulled from a scene in the film when Mr. Coyote first meets his eventual attorney Kevin Avery, played by Will Forte. \n\nMeanwhile, Boing Boing cites local news reports that a Southern California bird watcher Alexander DeBarros has actually captured a photo of a coyote holding a roadrunner bird in its mouth:\n\nIn an incredible coincidence that is a movie publicist's dream, he snapped the rare, possibly unprecedented, photo on the opening weekend of the movie Acme vs. Coyote... In an even more incredible coincidence, DeBarros's father, Brian Mainolfi, is an animator whose first job in the field was working for Chuck Jones, the creator and director of the Roadrunner cartoon series.\n\n \n\n\n Cartoon Brew notes a Reddit user specifically asked the Coyote for his reaction to the news.\n\nWile E. responded with some unexpectedly healthy advice: \"We cannot judge our worth on the work of others.\"\n \n\n\nAftermath calls the movie \"a well made, deeply funny movie that pays a deep respect to the Looney Tunes in a way that Warner Brothers currently seems uninterested in doing.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Sep 05, 2026 03:20",
+    "published_at": "2026-09-05T03:20:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
     "title": "Grml 2026.09 Linux Distro Is Out with Linux Kernel 7.1, Based on Debian 14 Forky",
     "link": "https://lxer.com/module/newswire/ext_link.php?rid=367274",
     "description": "Grml 2026.09 (codename Hättiwaritätti) has been released today as the latest stable version of this Debian-based, bootable Linux distro for system administrators and users of command-line tools.",
@@ -223,6 +347,16 @@
     "source_url": "https://www.phoronix.com/"
   },
   {
+    "title": "Amazon Linux 2027 Now in Preview: Powered By Linux 7.1, x86-64-v3 \u0026 Built With LTO",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367269",
+    "description": "AWS announced today the public preview of Amazon Linux 2027. Given the time since Amazon Linux 2023, Amazon Linux 2027 comes with a heavy arsenal of software updates as well as many performance optimizations and other tuning for better running workloads geared for the AWS cloud...",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367269",
+    "date": "Sep 04, 2026 09:53",
+    "published_at": "2026-09-04T09:53:34Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
     "title": "Get some quality tactical RPGs in the CRPG Pack: Isometric Immersion Humble Bundle",
     "link": "https://www.gamingonlinux.com/2026/09/get-some-quality-tactical-rpgs-in-the-crpg-pack-isometric-immersion-humble-bundle/",
     "description": "You can get some real quality tactical RPGs in the CRPG Pack: Isometric Immersion Humble Bundle, this is one with some great savings.Read the full article on GamingOnLinux.",
@@ -305,132 +439,6 @@
     "guid": "",
     "date": "Sep 04, 2026 07:00",
     "published_at": "2026-09-04T07:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Ubuntu 26.10 “Stonking Stingray” Snapshot 3 Is Now Available for Public Testing",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367273",
-    "description": "Canonical released Snapshot 3 of the upcoming Ubuntu 26.10 (Stonking Stingray) release as the third development milestone targeting early adopters and application developers who want to test their apps.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367273",
-    "date": "Sep 04, 2026 05:19",
-    "published_at": "2026-09-04T05:19:06Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Bernie Sanders Proposes Artificial Superintelligence Ban Amid Rogue AI Hackings",
-    "link": "https://yro.slashdot.org/story/26/09/03/2222247/bernie-sanders-proposes-artificial-superintelligence-ban-amid-rogue-ai-hackings?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "An anonymous reader quotes a report from The Hill: Sen. Bernie Sanders (I-Vt.) and Rep. Greg Casar (D-Texas) are calling for a permanent ban on the development and deployment of artificial superintelligence, citing a series of recent hackings involving \"rogue\" models. The bicameral duo announced Thursday they will introduce the Ban Artificial Superintelligence Act, which would institute the permanent ban, along with temporarily pausing \"advanced AI development\" until federal regulators establish safety standards. The bill would also direct the U.S. to \"pursue international agreements to prevent superintelligence from being developed anywhere in the world\" and establish a new Cabinet-level federal agency focused on AI safety rules.\n \nSuperintelligence refers to AI technologies that will surpass the smartest humans. Several technology leaders, including OpenAI CEO Sam Altman, have suggested superintelligence is on the horizon. The legislation would also set new penalties for any person or company trying to circumvent the ban, including the corporate death penalty, in which a court forces a company to shut down. Individual developers could also face up to 20 years in prison, the lawmakers said. \"Nearly every day, there is a frightening new story about how Big Tech companies are losing control of the technology they are developing, with potentially cataclysmic results,\" Sanders wrote in a press release.\n \n\"The leaders of the major AI companies publicly acknowledge that they do not fully understand the technology and that it is escaping their control. It is irresponsible for society to allow them to move forward and make these products even more advanced.\"\n \nCasar emphasized AI's fast development, writing in a statement, \"In just four years, we have gone from the first version of ChatGPT to AI models so powerful they cannot be properly controlled.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Sep 04, 2026 03:30",
-    "published_at": "2026-09-04T03:30:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Ubuntu 26.10 Snapshot 3 Monthly ISOs Released For Testing",
-    "link": "https://www.phoronix.com/news/Ubuntu-26.10-Snapshot-3",
-    "description": "Released tonight is Ubuntu 26.10 \"Stonking Stingray\" Snapshot 3 as the newest monthly ISO candidates for Ubuntu Linux...",
-    "guid": "https://www.phoronix.com/news/Ubuntu-26.10-Snapshot-3",
-    "date": "Sep 04, 2026 00:15",
-    "published_at": "2026-09-04T00:15:30Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Intel Improving Its Content Match Refresh Rate \"CMRR\" Feature With Linux 7.4",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367267",
-    "description": "Introduced with the Xe2 Lunar Lake graphics hardware was support for Content Match Refresh Rate (CMRR) as an improvement over typical Variable Refresh Rate (VRR) / Adaptive-Sync to more precisely match the video or content frame rates. Particularly for video playback it aims for no stuttering or frame drops. With the upcoming Linux 7.4 kernel will be better support for CMRR with the Intel graphics driver...",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367267",
-    "date": "Sep 04, 2026 00:13",
-    "published_at": "2026-09-04T00:13:11Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Four Major AI Models Suffer Rare Overlapping Downtime",
-    "link": "https://tech.slashdot.org/story/26/09/03/2023242/four-major-ai-models-suffer-rare-overlapping-downtime?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "ChatGPT, Claude, Grok, and Gemini all suffered significant service disruptions within roughly the same few-hour window Thursday morning. OpenAI and Anthropic reported elevated errors and later restored service, while Grok remained impaired and third-party monitoring indicated a likely Gemini outage despite no public acknowledgment from Google. Ars Technica reports: Other major Internet services, including Amazon Web Services, Microsoft Azure, and Cloudflare, have not reported any major issues as of press time Thursday, though issue reports on DownDetector did spike somewhat for all three this morning.\n \nWhile the affected frontier models go down occasionally, having all four experience interruptions in the same short period is practically unheard of. Claude reports 99.4 percent uptime for its services over the last 90 days and last reported a similar three-hour \"partial outage\" on August 24. OpenAI reports 99.63 percent uptime for ChatGPT and 100 percent uptime for ChatGPT Codex in the same period. ChatGPT's so-called \"Work Mode\" reported an hours-long period of \"elevated latency\" on August 31.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Sep 03, 2026 23:00",
-    "published_at": "2026-09-03T23:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Audacity 4.0 Open-Source Audio Editor Officially Released, Here’s What’s New",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367257",
-    "description": "Audacity 4.0 has been released today as the latest stable version of this open-source digital audio editor and recording software, a major update that introduces new features and enhancements.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367257",
-    "date": "Sep 03, 2026 22:41",
-    "published_at": "2026-09-03T22:41:41Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Apple Sued For $2.7 Billion Over App Tracking Transparency Rules",
-    "link": "https://yro.slashdot.org/story/26/09/03/2015253/apple-sued-for-27-billion-over-app-tracking-transparency-rules?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "A former UK competition official has filed a $2.7 billion lawsuit against Apple on behalf of app developers, alleging its App Tracking Transparency rules unfairly disadvantaged third-party apps while favoring Apple's own advertising ecosystem. Engadget reports: ATT debuted in 2021, ostensibly to give users more control over how much of their activity app developers can track across other apps and websites. The company told Reuters it was \"bound by the exact same requirements as all developers.\"\n \nHowever, regulators across Europe including in France, Italy and Poland have investigated ATT. Germany's competition regulator, the Federal Cartel Office, last month determined that Apple was favoring its own apps over those from external developers. It said the ATT pop-ups Apple used for its services \"had the potential to encourage users to give their consent, whereas they had the potential to discourage consent for third-party apps.\"\n \nAs such, the company agreed to make some changes to how ATT works in the European Union. That follows the French Competition Authority fining Apple $175 million at current rates over ATT last year.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Sep 03, 2026 22:00",
-    "published_at": "2026-09-03T22:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Amazon Linux 2027 Now in Preview: Powered By Linux 7.1, x86-64-v3 \u0026 Built With LTO",
-    "link": "https://www.phoronix.com/news/Amazon-Linux-2027-Preview",
-    "description": "AWS announced today the public preview of Amazon Linux 2027. Given the time since Amazon Linux 2023, Amazon Linux 2027 comes with a heavy arsenal of software updates as well as many performance optimizations and other tuning for better running workloads geared for the AWS cloud...",
-    "guid": "https://www.phoronix.com/news/Amazon-Linux-2027-Preview",
-    "date": "Sep 03, 2026 21:13",
-    "published_at": "2026-09-03T21:13:55Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Mir 2.29 Released With Additional Wayland Protocols",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367265",
-    "description": "For those using Canonical's Mir compositor for building Wayland-based shells, Mir 2.29 is now available with various improvements and new Wayland protocol coverage...",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367265",
-    "date": "Sep 03, 2026 21:10",
-    "published_at": "2026-09-03T21:10:12Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Xbox Cloud Gaming Switches to Monthly Hour Limits",
-    "link": "https://games.slashdot.org/story/26/09/03/1943208/xbox-cloud-gaming-switches-to-monthly-hour-limits?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Microsoft is imposing monthly limits on Xbox Cloud Gaming starting in November, with Game Pass Ultimate, Premium, and Essential subscribers getting 15, 10, and 5 hours respectively before they have to buy additional playtime. \"Currently, Game Pass subscribers can stream without these monthly hour limits,\" notes IGN. From the report: The change means those who use cloud gaming most via Game Pass will end up having to pay more, although Microsoft said this impacts 4% of Game Pass subscribers. Also in November, Microsoft said players will be able to buy cloud playtime hours through the Xbox Store and 'stream eligible games they own on supported devices' without subscribing to Game Pass.\n \nIn a blog post, Microsoft said it was making the changes because the cost of providing cloud gaming has grown as more people use it and play for longer. The monthly limits, Microsoft continued, will mean it can invest in reliability and performance. But it said it understood that for some players the practical result is a higher cost.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Sep 03, 2026 21:00",
-    "published_at": "2026-09-03T21:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "'Welcome to the AGI Era,' OpenAI Says As GPT-6 Astra Debuts",
-    "link": "https://slashdot.org/story/26/09/03/1932255/welcome-to-the-agi-era-openai-says-as-gpt-6-astra-debuts?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "OpenAI has released GPT-6 Astra, a new model that president Greg Brockman called a \"generational leap\" and suggested may represent the arrival of AGI. \"I think it might be about this model,\" Brockman said in a briefing with reporters. He ended the briefing by saying: \"Welcome to the AGI era.\" Axios reports: Astra pushes AI agents closer to doing complex professional work on their own -- while also raising questions about how safely they can be deployed. OpenAI said that Astra was built on its largest-ever training run, using more than 100,000 GPUs at its Stargate site in Texas.\n \nThe company also said this is its first model to use other models in a significant role in supervising Astra's training.\nGPT-6 Astra will first be available to a limited set of organizations in OpenAI's Daybreak Access program and will be available \"in the coming days\" for ChatGPT Plus, Pro, Business and Enterprise customers and API developers.\n \n OpenAI said earlier this week that Astra would be released soon, but that its most powerful cybersecurity capabilities would remain limited to a small group of trusted testers. Astra is the first model OpenAI has designated as reaching its \"critical\" cybersecurity threshold under its preparedness framework -- meaning it can potentially find and exploit previously unknown vulnerabilities across well-protected systems without step-by-step human guidance. OpenAI previously slowed Astra's release to add safety testing after determining that its cyber capabilities could reach the critical threshold. Further reading: OpenAI's New Reasoning Technique Alarms AI Safety Experts\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Sep 03, 2026 20:00",
-    "published_at": "2026-09-03T20:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Nvidia Launches Free Tool That Links Idle Computers Into a Personal AI Data Center",
-    "link": "https://tech.slashdot.org/story/26/09/03/1723202/nvidia-launches-free-tool-that-links-idle-computers-into-a-personal-ai-data-center?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Nvidia has launched PAIR, a free open-source tool that links compatible computers on a home network so they can pool idle processing power for local AI inference and agentic workloads. \"While the compatible devices are mostly Nvidia GeForce GPUs (PAIR works with RTX 20-series cards and newer, as well as RTX Pro GPUs and DGX Spark systems), Apple's M4 chips or newer will also work,\" reports The Verge. From the report: The key thing here is that PAIR uses your in-home systems when they're idle to avoid interfering with other tasks. And this disaggregated system of computers can work in parallel to chew through lots of processing requests -- which should be helpful for an agentic workflow that breaks complex tasks into smaller jobs. This should prevent large bottlenecks on a single GPU, and Nvidia says PAIR can adapt as devices join or leave the network -- including if a user does something like start playing a game on their desktop PC.\n \n[...] Nvidia says PAIR is secured by pairing all devices through a six digit code and then securing the channel via mTLS (Mutual Transport Layer Security), to create an encrypted communication line that's trusted in both directions between computers. The Nvidia PAIR beta is available today, with support for Windows, Linux, and macOS.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Sep 03, 2026 19:00",
-    "published_at": "2026-09-03T19:00:00Z",
     "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
     "source": "slashdot.org",
     "source_url": "https://slashdot.org/"
