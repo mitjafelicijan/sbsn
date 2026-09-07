@@ -1,5 +1,330 @@
 [
   {
+    "title": "[$] CERN's migration path from CentOS Linux to Debian",
+    "link": "https://lwn.net/Articles/1092512/",
+    "description": "The European Laboratory for Particle Physics, usually just called CERN, is not only the birthplace of\nthe World Wide Web, it is home to the Large Hadron\nCollider (LHC), the world's largest and highest-energy particle\naccelerator. As such, its computing environment is both truly unique and of\ngreat interest to people outside of CERN who hope to find lessons applicable to\ntheir own computing needs. The upcoming migration of some of CERN's systems from\nCentOS Linux to Debian, which was the topic of a talk at the recent MiniDebConf Winterthur 2026,\nis of particular interest.",
+    "guid": "https://lwn.net/Articles/1092512/",
+    "date": "Sep 07, 2026 16:57",
+    "published_at": "2026-09-07T16:57:12Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "Three stable kernels for Monday",
+    "link": "https://lwn.net/Articles/1092984/",
+    "description": "Greg Kroah-Hartman has announced the release of the 7.2.4, 6.18.50,\nand 6.12.109 stable kernels. Each contains\nimportant fixes throughout the tree. Users are advised to upgrade.\n\n",
+    "guid": "https://lwn.net/Articles/1092984/",
+    "date": "Sep 07, 2026 16:50",
+    "published_at": "2026-09-07T16:50:43Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "'She Lost Her Sight. Her Billionaire Father Bet On a Daring New Treatment.'",
+    "link": "https://science.slashdot.org/story/26/09/07/0036234/she-lost-her-sight-her-billionaire-father-bet-on-a-daring-new-treatment?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "\"Billionaire Bill Ackman's life was upended this February when his 26-year-old daughter collapsed in her Brooklyn apartment, suffering a brain hemorrhage that would render her unable to move, speak or see,\" writes the Washingon Post. But then...\n\nThe hedge fund manager did what any good father would do — at least, any father with vast financial resources and what friends describe as a \"Mr. Fix-It\" tendency. He sprung into action, getting her topline care at New York City's Mt. Sinai Hospital and consulting a network of well-connected friends all over the world. He helped her access a novel cell therapy that has been gaining traction among longevity enthusiasts, who are seeking ways to prolong human life. And then — motivated by a newfound desire to accelerate scientific research — he vowed to spend more than $400 million to launch an institute dedicated to longevity and brain health... He posted this week that the U.S. Food and Drug Administration, in May, gave his daughter Lucy's medical team a first-time emergency authorization to transplant mitochondria — the energy-producing part of human cells — from her leg muscle to her eyes, in the hopes that the tiny cell powerhouses would facilitate healing in her optic nerves and perhaps even restore her vision. \nAckman's story highlights the increasingly prominent role of the ultra-wealthy in making expensive medical bets on longevity treatments and other novel therapies, altering the direction of research as federal funding for science declines in the second Trump administration. But his saga is a deeply personal one, spurred by his daughter's medical crisis. The focus on longevity by Ackman, who made billions on Wall Street as a hedge fund manager, is aligned with similarly ambitious efforts from some of Silicon Valley's biggest names. OpenAI CEO Sam Altman has backed Retro Biosciences, a start-up whose goal is to add 10 healthy years to the human lifespan through cellular reprogramming. Amazon founder Jeff Bezos is reportedly a funder of Altos Labs, which focuses on cellular rejuvenation and resilience... Billionaire investor Peter Thiel, Google co-founder Sergey Brin and Oracle co-founder Larry Ellison are also deeply invested in life-extension methods and attempts to rewrite the biology of aging... \n\nThe therapy given to Ackman's daughter Lucy, known as mitochondrial transplantation, is of great interest not only to people who have suffered injuries, but to longevity-focused scientists who believe that mitochondria may hold promise for reversing some of the effects of aging... In recent years, scientists have discovered that mitochondria have many other functions beyond converting food into energy. They serve as clearinghouses for damaged cells, opening up the possibility that they can help with cell regeneration and healing, said Daria Mochly-Rosen, professor of chemical and systems biology at the Stanford University School of Medicine and co-author of \" The Life Machines: How Taking Care of Your Mitochondria Can Transform Your Health.\" \n\n\"I am one of those who believes that focusing on mitochondrial health is a way to address many human diseases, including aging itself,\" she said. \"It's exciting.\"\n\n\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Sep 07, 2026 14:34",
+    "published_at": "2026-09-07T14:34:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "[$] Fixing the TCMalloc regression with RSEQ operations",
+    "link": "https://lwn.net/Articles/1092555/",
+    "description": "The restartable sequences feature is one of\nthe stranger corners of the kernel's user-space interface; it provides a\nway for user space to carry out simple lockless operations and be informed\nif it is preempted over the course of an operation (and must, thus,\nrestart).  Work merged in the 6.19 release to improve the performance of restartable\nsequences broke the TCMalloc allocator,\nwhich was relying on an undocumented (and unintended) kernel behavior.\nNow, Olivier Dion is proposing an\naddition to the restartable-sequences API that will bring TCMalloc back\ninto the fold; it does not make the restartable-sequences API any less\nstrange, though.",
+    "guid": "https://lwn.net/Articles/1092555/",
+    "date": "Sep 07, 2026 14:33",
+    "published_at": "2026-09-07T14:33:43Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "Ikey Doherty vs Omarchy: Why He’s Building Barney Instead of Another Distro",
+    "link": "https://feed.itsfoss.com/link/24361/17441870/ikey-doherty-barney",
+    "description": "Ikey Doherty, the creator of Solus and AerynOS, is back with Barney, a Rust tool that builds Linux distros from source. So that you can easily create your own Omarchy.",
+    "guid": "6a9e69b1af07250001fe88dc",
+    "date": "Sep 07, 2026 14:23",
+    "published_at": "2026-09-07T14:23:05Z",
+    "image": "https://itsfoss.com/content/images/2026/09/barney-omarchy-banner.png",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "Framework Laptop 12 Arrives with Fedora Pre-installed",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367322",
+    "description": "Recently, Framework announced their new Laptop 12, which optionally comes with the KDE Edition of Fedora Linux pre-installed. Framework’s modular hardware has long captured the hearts of tinkerers, and many Framework users were already running Fedora Linux. Giving community members the option to unbox a hardware-validated, pre-installed Fedora KDE system is the culmination of months […]",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367322",
+    "date": "Sep 07, 2026 14:10",
+    "published_at": "2026-09-07T14:10:50Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Ubuntu 26.10 amd64v3 Daily ISOs Now Being Published",
+    "link": "https://www.phoronix.com/news/Ubuntu-26.10-amd64v3-Daily",
+    "description": "As an interesting development for Ubuntu 26.10, the daily ISOs of the \"Stonking Stingray\" now include amd64v3 images...",
+    "guid": "https://www.phoronix.com/news/Ubuntu-26.10-amd64v3-Daily",
+    "date": "Sep 07, 2026 13:36",
+    "published_at": "2026-09-07T13:36:20Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Buildroot 2026.08 released",
+    "link": "https://lwn.net/Articles/1092913/",
+    "description": "Version\n2026.08 of the Buildroot embedded Linux\nsystem builder has been released. Buildroot 2026.08 includes nearly 1,000\nchanges from 100 contributors; some of the notable changes include support for\nLinux 7.1.x, Binutils 2.46.1, GCC 16.2.0, glibc 2.44, as well as adding the\nM68K and IBM Power 10/11 architectures.\n\n",
+    "guid": "https://lwn.net/Articles/1092913/",
+    "date": "Sep 07, 2026 13:18",
+    "published_at": "2026-09-07T13:18:09Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "Security updates for Monday",
+    "link": "https://lwn.net/Articles/1092911/",
+    "description": "Security updates have been issued by AlmaLinux (buildah, freerdp, gegl04, go-fdo-client, grafana, grafana-pcp, kernel, and pipewire), Debian (aom, chromium, libde265, libssh2, thunderbird, and tryton-server), Fedora (chromium, composer, cosmic-greeter, gegl04, greetd, ibus-table, jss, libheif, lightdm, lxdm, memcached, perl-DBD-Pg, plasma-login-manager, rust-webbrowser, sddm, selinux-policy, slitherer, and tkimg), Mageia (expat, mingw-expat, mbedtls, microcode, python-linkify-it-py, and tomcat), Oracle (buildah, container-tools:ol8, dbus-broker, freerdp, go-toolset:ol8, grafana-pcp, kernel, kernel-uek, nodejs24, php, and pipewire), Slackware (libpcap, libxml2, mozilla-firefox, mozilla-thunderbird, and util-linux), SUSE (bson-devel, busybox, bzip2, c-ares, cpio, cups-filters, dracut, ffmpeg-7, ffmpeg-8, file-roller, firefox, firefox-esr, glances-common, grafana, hauler, helm, helm3, java-17-openjdk, java-21-openjdk, lcms2, libcupsfilters, libheif, libmsgpack-c2, libsoup, libsoup2, libusb-1_0, libvirt, LibVNCServer, mcphost, ollama, opencode, openssl-1_1, openssl-3, php-composer2, podman, postgresql15, postgresql17, postgresql18, python, python-aiohttp, python-h2, python-sqlparse, python310, rpcbind, sssd, thunderbird, trivy, ucode-intel, and webkit2gtk3), and Ubuntu (linux, linux-aws, linux-aws-7.0, linux-gcp, linux-gke, linux-hwe-7.0, linux-realtime, linux, linux-aws, linux-fips, linux-kvm, linux-lts-xenial, linux, linux-fips, linux-gcp, linux-gcp-fips, linux-gke, linux-gkeop, linux-nvidia, linux-nvidia-6.8, linux-nvidia-lowlatency, linux-raspi, linux-realtime, linux-realtime-6.8, linux, linux-gcp, linux-gcp-fips, linux-gke, linux-gkeop, linux-hwe-5.15, linux-ibm, linux-ibm-5.15, linux-intel-iot-realtime, linux-lowlatency, linux-lowlatency-hwe-5.15, linux-nvidia, linux-nvidia-tegra, linux-nvidia-tegra-5.15, linux-realtime, linux-aws-5.4, linux-gcp, linux-gcp-5.4, linux-gcp-7.0, linux-oem-7.0, minetest, and miniupnpd).",
+    "guid": "https://lwn.net/Articles/1092911/",
+    "date": "Sep 07, 2026 13:07",
+    "published_at": "2026-09-07T13:07:27Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "9to5Linux Weekly Roundup: September 6th, 2026",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367321",
+    "description": "The 308th installment of the 9to5Linux Weekly Roundup is here for the week ending September 6th, 2026, keeping you updated on the most important developments in the Linux world.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367321",
+    "date": "Sep 07, 2026 12:39",
+    "published_at": "2026-09-07T12:39:21Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Third Bloc is a supremely cool looking text-based political management sandbox set in the Cold War",
+    "link": "https://www.gamingonlinux.com/2026/09/third-bloc-is-a-supremely-cool-looking-text-based-political-management-sandbox-set-in-the-cold-war/",
+    "description": "Something about cleverly done animated ASCII really hooks me in, and Third Bloc doesn't just look good it sounds really unique too.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/third-bloc-is-a-supremely-cool-looking-text-based-political-management-sandbox-set-in-the-cold-war/",
+    "date": "Sep 07, 2026 12:15",
+    "published_at": "2026-09-07T12:15:17Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/995087338id29711gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "CoolerControl app for Linux v5.0 brings a big overhaul",
+    "link": "https://www.gamingonlinux.com/2026/09/coolercontrol-app-for-linux-v5-0-brings-a-big-overhaul/",
+    "description": "Managing various types of coolers under Linux has never looked sleeker! The latest CoolerControl v5.0.0 release is out now.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/coolercontrol-app-for-linux-v5-0-brings-a-big-overhaul/",
+    "date": "Sep 07, 2026 12:04",
+    "published_at": "2026-09-07T12:04:41Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/218907827id29710gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Linux Preps For New AMD Zen 6 BTB CTX Isolation Security Feature",
+    "link": "https://www.phoronix.com/news/Linux-Preps-AMD-BTB-CTX",
+    "description": "A recently posted Linux kernel patch has revealed a new security improvement with Zen 6 processors...",
+    "guid": "https://www.phoronix.com/news/Linux-Preps-AMD-BTB-CTX",
+    "date": "Sep 07, 2026 11:55",
+    "published_at": "2026-09-07T11:55:33Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "'The Jobs Apocalypse Is Postponed.  An AI Jobs Boom Is Here'",
+    "link": "https://slashdot.org/story/26/09/06/214258/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "A new article about AI in The Economist argues that \"Initial effects of the technology on employment look positive.\"\n\nPerhaps AI will eventually make many humans unemployable — but there is no sign of it yet. On September 4th the Bureau of Labour Statistics reported that the American economy added 162,000 jobs in August, far above expectations. The unemployment rate is just 4.1%, lower than in almost 90% of months over the past half-century. Young workers, often cast as AI's first victims, are holding up remarkably well: the gap between unemployment among 20-24-year-olds and the overall rate is close to a multi-decade low. \n\nSome companies and workers are being severely disrupted by AI. Hiring in professional and business services is running about 10% below the average in 2015-19. Tech giants like Microsoft and Meta are trimming headcounts as they reorganise their businesses around the technology. Smaller firms such as Block, the owner of Square and Cash App, and Intuit, the maker of TurboTax and QuickBooks, are replacing people with bots. American companies have announced some 16,000 AI-related job cuts a month on average so far this year, according to Challenger, Gray \u0026 Christmas, an employment consultancy. \n\nBut AI-related lay-offs gets lost in the churning jobs market where employers shed roughly 1.7m workers in a typical month. And the evidence so far is that AI is already creating a lot of jobs to replace those it has destroyed. The vast sums pouring into data centres and power generation have set off a race for construction and infrastructure workers. AI startups are hiring like there is no tomorrow. Incumbents racing to keep up are creating new AI roles. And by making some workers more productive, AI may be increasing demand for their services. \n\nAdd it all up, and The Economist estimates that AI has so far created around 1m new jobs in America. That easily exceeds the roughly 200,000 lay-offs attributed to AI since mid-2023, and appears more than enough to offset weaker hiring in many back-office roles. \n\nTheir article acknowledges that since January 2023 employment has fallen roughly 10% for customer-service workers and 15% for administrative assistants. But when The Economist looked at professions \"closest to the AI boom\" — engineers, software developers, mathematicians and data scientists — they found that since 2022 they've added roughly 730,000 jobs above trend. They see AI as creating new white-collar jobs for everyone from model and deployment engineers to new data annotators. \n\nThe chief economist at the Burning Glass Institute agrees, estimating that roughly 1% of professional jobs are now \"AI jobs\" — about 1 million positions in the U.S. — while in computer occupations and life sciences it's between 4% and 5%. (Data-center construction spending also increased 60% in one year, according to Census Bureau data, creating jobs for electricians, HVAC specialists, grid engineers, and machine technicians.) And \"Indeed finds that installation and maintenance jobs at data centres advertise wages about 40% higher than comparable work elsewhere.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Sep 07, 2026 11:34",
+    "published_at": "2026-09-07T11:34:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Elom Musk's X Tried to Kill Nitter. The Project Just Said It’s Coming Back",
+    "link": "https://feed.itsfoss.com/link/24361/17441795/nitter-returns-after-legal-troubles",
+    "description": "Two weeks after X Corp's legal letter forced the project offline, Nitter says it will continue.",
+    "guid": "6a9e409baf07250001fe877b",
+    "date": "Sep 07, 2026 11:33",
+    "published_at": "2026-09-07T11:33:11Z",
+    "image": "https://itsfoss.com/content/images/2026/09/nitter-comeback-banner.png",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "Nouveau Preparations For HDMI 2.1 DSC, AMD HDMI FreeSync Fixes For Linux 7.4",
+    "link": "https://www.phoronix.com/news/Linux-7.4-DRM-Misc-Next-1",
+    "description": "Last week's set of DRM-Misc-Next changes submitted to DRM-Next with targeting the upcoming Linux 7.4 kernel cycle features HDMI 2.1 related work for both the AMDGPU kernel driver as well as the Nouveau open-source NVIDIA driver...",
+    "guid": "https://www.phoronix.com/news/Linux-7.4-DRM-Misc-Next-1",
+    "date": "Sep 07, 2026 10:48",
+    "published_at": "2026-09-07T10:48:48Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Intel's Dynamic PAMT Appears Ready For Linux 7.4  To Help With TDX Memory Overhead",
+    "link": "https://www.phoronix.com/news/Intel-Dynamic-PAMT-For-7.4",
+    "description": "Intel's Dynamic PAMT feature looks like it's finally going to be ready for mainline with Linux 7.4. The Intel Dynamic PAMT is used for helping to reduce memory overhead when making use of Trusted Domain Extensions (TDX) for confidential VMs...",
+    "guid": "https://www.phoronix.com/news/Intel-Dynamic-PAMT-For-7.4",
+    "date": "Sep 07, 2026 10:21",
+    "published_at": "2026-09-07T10:21:12Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Rustls 0.23.44 Released With ML-DSA Certificates Enabled By Default",
+    "link": "https://www.phoronix.com/news/Rustls-0.23.44-Released",
+    "description": "Rustls as the modern TLS library implementation written in the Rust programming language is out with a new feature release. This morning's Rustls 0.23.44 release enables post-quantum secure ML-DSA certificates by default...",
+    "guid": "https://www.phoronix.com/news/Rustls-0.23.44-Released",
+    "date": "Sep 07, 2026 09:59",
+    "published_at": "2026-09-07T09:59:42Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "OpenTofu IaC Tool Is Adding Built-In Linting in Version 1.13",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367275",
+    "description": "OpenTofu is developing built-in linting for version 1.13, starting with experimental checks integrated directly into its core workflow.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367275",
+    "date": "Sep 07, 2026 08:57",
+    "published_at": "2026-09-07T08:57:22Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "PlayStation 5 Linux project expands to support more 7.0 firmware",
+    "link": "https://www.gamingonlinux.com/2026/09/playstation-5-linux-project-expands-to-support-more-7-0-firmware/",
+    "description": "Continuing to make your hardware more your own and less like you rent it from Sony, the PlayStation 5 Linux project expands to support more firmware.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/playstation-5-linux-project-expands-to-support-more-7-0-firmware/",
+    "date": "Sep 07, 2026 07:53",
+    "published_at": "2026-09-07T07:53:26Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1406374370id29708gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Ghostship - the Super Mario 64 PC port from Harbour Masters gets Vulkan, post-processing, a web player and more",
+    "link": "https://www.gamingonlinux.com/2026/09/ghostship-the-super-mario-64-pc-port-from-harbour-masters-gets-vulkan-post-processing-a-web-player-and-more/",
+    "description": "Ghostship is the impressive unofficial PC port of Super Mario 64 from the Harbour Masters crew, newly upgraded with a web player and Vulkan support.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/ghostship-the-super-mario-64-pc-port-from-harbour-masters-gets-vulkan-post-processing-a-web-player-and-more/",
+    "date": "Sep 07, 2026 07:42",
+    "published_at": "2026-09-07T07:42:57Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1603585969id29707gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Bitcoin-based Liquid Network Says $320 Million Withdrawn in Hack",
+    "link": "https://yro.slashdot.org/story/26/09/07/0727220/bitcoin-based-liquid-network-says-320-million-withdrawn-in-hack?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Reuters reports:\n\n\nLiquid Network, a Bitcoin-based payments and settlement network, said on Sunday that about $320 million was withdrawn from its federation wallet in a hack.\n\"Purported white-hat hackers\" withdrew around 4,000 of the 4,200 bitcoin held in its Liquid Federation wallet, Liquid Network said in a post on X.\n \n\n\"Liquid wallets will be impacted,\" their post concluded, adding \"and we're sorry for any inconvenience.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Sep 07, 2026 07:30",
+    "published_at": "2026-09-07T07:30:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Get some hit games in the Dread and Dark Fantasies RPG Collection Humble Bundle",
+    "link": "https://www.gamingonlinux.com/2026/09/get-some-hit-games-in-the-dread-and-dark-fantasies-rpg-collection-humble-bundle/",
+    "description": "Want some more interesting action RPGs in your life? Check out the Dread and Dark Fantasies RPG Collection Humble Bundle.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/get-some-hit-games-in-the-dread-and-dark-fantasies-rpg-collection-humble-bundle/",
+    "date": "Sep 07, 2026 07:27",
+    "published_at": "2026-09-07T07:27:28Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1240225516id29706gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "GNOME Stakeholders Discussing RFC Process For Solving Major Technical Changes",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367297",
+    "description": "GNOME has been working to establish a formal request for comments (RFC) process for solving major technical questions and changes moving forward. A drafted RFC is now under discussion by GNOME stakeholders for moving this process forward...",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367297",
+    "date": "Sep 07, 2026 07:25",
+    "published_at": "2026-09-07T07:25:52Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "KDE Plasma 6.8 gets a Windows-like Autoscroll feature",
+    "link": "https://www.gamingonlinux.com/2026/09/kde-plasma-6-8-gets-a-windows-like-autoscroll-feature/",
+    "description": "KDE Plasma 6.8 is due out in mid-October and it's coming with all sorts of new features, and one I'm particularly happy to see with autoscrolling.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/kde-plasma-6-8-gets-a-windows-like-autoscroll-feature/",
+    "date": "Sep 07, 2026 07:21",
+    "published_at": "2026-09-07T07:21:13Z",
+    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/kde.png",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Thank You Bus Driver is the first game post-XBOX from Double Fine",
+    "link": "https://www.gamingonlinux.com/2026/09/thank-you-bus-driver-is-the-first-game-post-xbox-from-double-fine/",
+    "description": "Double Fine announced a brand new game - Thank You Bus Driver, their first since splitting off from XBOX.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/thank-you-bus-driver-is-the-first-game-post-xbox-from-double-fine/",
+    "date": "Sep 07, 2026 07:10",
+    "published_at": "2026-09-07T07:10:15Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1617918611id29704gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Lossless Scaling's frame generation for Linux lsfg-vk 2.0 is out now",
+    "link": "https://www.gamingonlinux.com/2026/09/lossless-scalings-frame-generation-for-linux-lsfg-vk-2-0-is-out-now/",
+    "description": "The popular lsfg-vk project that brings Lossless Scaling's frame generation to Linux now has the big 2.0 release officially out.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/lossless-scalings-frame-generation-for-linux-lsfg-vk-2-0-is-out-now/",
+    "date": "Sep 07, 2026 06:47",
+    "published_at": "2026-09-07T06:47:12Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/211547619id29703gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Bazzite Linux 44 gets even more fixes for September 6th",
+    "link": "https://www.gamingonlinux.com/2026/09/bazzite-linux-44-gets-even-more-fixes-for-september-6th/",
+    "description": "The Bazzite Linux team continue powering through getting lots of updates since the recent major Bazzite 44 release for handhelds.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/bazzite-linux-44-gets-even-more-fixes-for-september-6th/",
+    "date": "Sep 07, 2026 06:37",
+    "published_at": "2026-09-07T06:37:53Z",
+    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/bazzite.jpg",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Top AEO Tools for Linux and Developer Documentation Teams",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367266",
+    "description": "As AI platforms summarize Linux tutorials, open-source project documentation, API references and technical guidance, teams need ways to measure whether their content is mentioned, cited and accurately represented.An AEO platform provides that visibility. They help writers, maintainers, developers, and content teams examine how pages appear in generated answers, which sources receive citations, and whether AI platforms send traffic to the intended documentation.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367266",
+    "date": "Sep 07, 2026 05:54",
+    "published_at": "2026-09-07T05:54:23Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Roku's 24/7 AI Slop Channel Is Even Worse Than Expected",
+    "link": "https://entertainment.slashdot.org/story/26/09/06/0633216/rokus-247-ai-slop-channel-is-even-worse-than-expected?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "A new streaming TV channel shows films made with genAI, reports Engadget. \"Fairground AI Creator TV\" is free — and supported with ads — describing its material as \"AI Cinema\":\n\n\n\"AI-generated\" can make it sound as though someone typed a sentence into a machine and came back five minutes later to find a finished movie. Fairground's catalog shows why that description can be too simple. Take Lost Garden: The Awakening of the Lantern Knight. According to its Fairground page, creator Frank Houbre wrote the world, characters, mythology, emotional arc and screenplay himself. AI tools were used mainly for animation and visual production, with other tools helping create voices and music before the episode was assembled in conventional video-editing software. \n\nThere's still one question, the article notes: \"whether viewers actually want an AI-focused TV channel.\" More than 100 AI creators have contributed to the 24-hour slate of programming, although Variety points out several of them were discovered on social media. \n\n The channel was recently profiled in an article by the Guardian. Its headline? \"'Nightmare fodder': Roku's AI slop channel is even worse than expected.\" (And its subheading calls it \"a 24/7 channel devoted to low-quality AI content for viewers sick of watching real people move...\")\nWhat about people who hate plot and vision and the sight of people speaking convincing dialogue that synchronises perfectly with the movement of their lips? What about the people who just want to watch an unyielding torrent of eerily weightless nightmare fodder? Well, good news. Roku has finally caught up... Early reactions were, to put it mildly, not great. The Verge compared it to eating from a trough, while Futurism called it \"bottom-of-the-barrel slop\"... \n\nOn the plus side, the channel is evidence that artificial intelligence has come on in leaps and bounds over the last couple of years... However, it is still awful. Categorically, catastrophically awful. The channel doesn't so much offer shows as a drifting dreamscape of bad ideas rendered as horribly as possible with no thought paid to scheduling. At one point on Wednesday, a shrill high-frequency anime gave way to a long and staid German-language short about Nazi bureaucracy. After that came a sort of Gladiator ripoff that had all the dynamism of an exhibit you'd see at the fourth-best museum on a poorly planned family holiday.\n\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Sep 07, 2026 04:30",
+    "published_at": "2026-09-07T04:30:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Linuxiac Weekly Wrap-Up: Week 36, 2026 (August 31 – September 6)",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367317",
+    "description": "Catch up on the latest Linux news: Arch 2026.09, LFS 13.1, Audacity 4.0, OpenShot 4.0, Noctalia 5 Shell, Firefox 155, Debian 13 takes over 2,2K CERN control systems, and more.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367317",
+    "date": "Sep 07, 2026 02:51",
+    "published_at": "2026-09-07T02:51:24Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
     "title": "US Military Disables Ad Trackers On Devices To Protect Troops",
     "link": "https://yro.slashdot.org/story/26/09/06/0553230/us-military-disables-ad-trackers-on-devices-to-protect-troops?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
     "description": "Slashdot reader DeanonymizedCoward writes: Reuters reports that the US Military is disabling ad tracking on devices, to prevent adversaries from buying publicly-available tracking data to assist in targeting troops. Military officials say that they have disabled trackers on a variety of computers and mobile devices, according to letters released on Friday by Sen. Ron Wyden, and following reports that commercially-available tracking data has been used to target troops in the Middle East.... \n\n\nWyden said in a statement that it was clear that the military's efforts \"have not been effective at neutralizing this threat.\" U.S. Representative Pat Harrigan, a North Carolina Republican, said that U.S. enemies \"should not be able to pull out a credit card and buy information that helps them track American troops.\" Rep. Harrigan remains silent as to the larger question of whether the general public should be able to pull out a credit card and buy information that helps them track anyone they please. \n\n\"The Pentagon said in an email it would respond to the lawmakers directly,\" Reuters reports:\n\nThe Army said in a statement that advertising IDs had been blocked on Windows computers \"since before 2021\" but that Android and Apple mobile devices had only had it disabled by default \"since at least February 2026....\" The effort to reduce the location data generated by smartphones comes as military officials weigh increasingly strict restrictions on phone use overall. In July, Reuters reported that some deployed personnel in the Middle East could be ordered to surrender their phones amid concerns that mobile videos they were posting to the internet were helping Iran target American bases in the region.\n\n\n\n\n\nRead more of this story at Slashdot.",
@@ -213,131 +538,6 @@
     "guid": "https://www.phoronix.com/news/Slackware-16-Alpha",
     "date": "Sep 06, 2026 10:16",
     "published_at": "2026-09-06T10:16:15Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "DankMaterialShell 1.6 “Marble Tabby” Released with Dank Island",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367294",
-    "description": "DankMaterialShell 1.6 delivers 5.2x faster IPC, up to 8.6x faster screenshots, 19% lower idle memory use, and a new island-style bar.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367294",
-    "date": "Sep 06, 2026 08:29",
-    "published_at": "2026-09-06T08:29:27Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "2026 Hugo Award Winners Include Ursula Le Guin-Authored Graphic Novel",
-    "link": "https://news.slashdot.org/story/26/09/06/0316245/2026-hugo-award-winners-include-ursula-le-guin-authored-graphic-novel?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "This year's Hugo Award winners were announced last weekend at Worldcon — the world's longest-running science fiction/fantasy convention. The Orange County Register reports there were fans \"clad in capes, gowns and elaborate character costumes,\" with famous attendees including Game of Thrones author George R. R. Martin, who held a book signing:\n\nMartin attended his first Worldcon in 1971 in Boston, before he published his first novel. Fresh out of his graduate studies, Martin, then 22 years old, found a community of fellow comic book fans and genre enthusiasts... \"It was a transformative experience,\" Martin said. \"Worldcon is the heart of the science fiction fandom.\" Four years later, Martin won his first Hugo Award for his novella, \"A Song for Lya,\" which made him the award's youngest winner — a record he held until Sunday night, when 25-year-old Los Angeles writer H. H. Pak took home the award for Best Novelette. [Read that novelette here...] \n\n\nNotable writers and artists, such as \"Star Trek: The Next Generation\" screenwriter Ronald D. Moore and graphic artist Stan Sakai, announced the [Hugo award] categories. In their acceptance speeches, winners acknowledged the enduring strength of their community amidst rapidly evolving physical and social environments. They also praised the power of speculative fiction in facilitating dialogue on real-world issues and the importance of human-made art. Among the winners were C. B. Lee, whose novel \"Coffeeshop in an Alternate Universe\" won the Lodestar Award for Best Young Adult Book; the team behind Apple TV's \"Murderbot: 'All Systems Red,\" which won for Best Dramatic Presentation, Short Form; and John Scalzi, who took home the trophy for Best Series [for Old Man's War]. The night concluded with its most anticipated award — Best Novel — which went to \" The Everlasting\" by Alix. E. Harrow, a fantasy time-loop novel about a scholar forced to rewrite his nation's history. \n\nAppleTV's Murderbot episode beat nominated episodes from other several popular streaming series:\n\nDoctor Who (âoeThe Story \u0026 the Engineâ)\nPluribus (âoeWe Is Usâ)\nSeverance (âoeCold Harborâ)\nThe Wheel of Time (âoeThe Road to the Spear)\n\n\nOverall the awards committee had received 23,543 nominations this year for 4,299 works and individuals, according to the official Hugo Awards site. Other interesting winners:\n\nBest Graphic Story or Comic: A Wizard of Earthsea: A Graphic Novel, written by Ursula K. Le Guin, adapted and art by Fred Fordham\n\nBest Short Story: \"In My Country\" by Thomas Ha\nBest Novella: The River Has Roots\n\nBest Related Work: Inventing the Renaissance: The Myth of a Golden Age by Ada Palmer\n\nBest Dramatic Presentation, Long Form: Sinners\nBest Game or Interactive Work: Clair Obscur: Expedition 33\n\n\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Sep 06, 2026 07:34",
-    "published_at": "2026-09-06T07:34:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Ventuno Q runs Ubuntu on Dragonwing IQ8 with 40-TOPS NPU along with real-time STM32H5",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367204",
-    "description": "Arduino recently opened pre-orders for the Ventuno Q, a dual-processor development board designed for edge AI, robotics, computer vision, and industrial applications. The platform pairs a Qualcomm Dragonwing IQ8 application processor with an STM32H5 microcontroller and ships with Ubuntu pre-installed alongside Arduino’s App Lab development environment. The Ventuno Q was first shown in March this […]",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367204",
-    "date": "Sep 06, 2026 06:57",
-    "published_at": "2026-09-06T06:57:57Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "NVIDIA Posts vGPU Manager \u0026 VFIO Variant Driver For Open-Source Nova",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367302",
-    "description": "NVIDIA continues building out more functionality around the open-source, upstream Nova kernel graphics driver within the Linux kernel. Making it out to the mailing list this Saturday is a set of 13 patches for introducing a NVIDIA vGPU manager and VFIO variant driver...",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367302",
-    "date": "Sep 06, 2026 05:26",
-    "published_at": "2026-09-06T05:26:28Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "To Promote Grand Theft Auto 6, Mayor Might Transform Miami into 'Vice City'",
-    "link": "https://games.slashdot.org/story/26/09/06/0123212/to-promote-grand-theft-auto-6-mayor-might-transform-miami-into-vice-city?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Rockstar Games and the mayor of Miami-Dade county are discussing a joint marketing campaign transforming parts of the county to look like areas from Grand Theft Auto 6, reports the blog Rock Paper Shotgun:\n\nThe proposed publicity event would include \"an immersive arrival experience\" at Miami International Airport. with signs for Vice City and planes coated in GTA 6 livery, together with branded Metromover skytrains and specially designed manhole covers... [I]t proposes a dockyard visual installation inspired by GTA 6's Port Gellhorn, incorporating cargo containers, cranes, and cruise ships. There's also talk of a \"Vice City Motor Fest\", which might feature \"classic cars, customized vehicles, lowriders, motorcycles, tropical graphics, and local entertainment within a controlled, family-appropriate setting.\" Attendees would presumably be discouraged from nicking the cars... \n\nAs it happens, Rockstar have embedded a team in Miami to sponge up the ambience, research Miami culture, and study the habits of residents — including \"ex-criminals\", in the careful phrasing of senior vice president of narrative Rupert Humphries. \n\nThe pitch suggested murals, \"wrapping\" buses (with special signs at transit stops), and even a Vice City-inspired baggage-claim installation at the airport. The pitch also suggested the library offer recording equipment for \"Vice City Radio\" to capture music (as well as podcasting, oral histories, neighborhood storytelling) — along with \" limited-edition GTA VI-inspired library cards, collectible bookmarks, Miami-themed reading and music lists, and demonstrations of the new recording and production equipment.\" \n\nThough nothing has been formally agreed to or approved, the mayor's office confirmed the discussions, reports Axios. \n\nThe sheriff of Miami-Dade county \"has publicly opposed plans to transform the city into a real version of Grand Theft Auto 6's \"Vice City\", reports Kotaku. The sheriff's reason? The videogame city \"includes murder, robbery, drug trafficking, carjacking, violence against law enforcement,\" as well as \"other conduct\" that the police department works \"every single day to prevent.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Sep 06, 2026 04:34",
-    "published_at": "2026-09-06T04:34:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Brave Says Its Browser Loads Pages 20% Faster Than Major Rivals",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367301",
-    "description": "New Brave benchmarks put the privacy-focused browser ahead of Chrome, Edge, and Firefox across several resource-usage metrics.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367301",
-    "date": "Sep 06, 2026 02:23",
-    "published_at": "2026-09-06T02:23:29Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "How US Campaigns Are Already Using AI to Try to Sway Voters",
-    "link": "https://politics.slashdot.org/story/26/09/05/223250/how-us-campaigns-are-already-using-ai-to-try-to-sway-voters?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "39 U.S. congressional candidates \"reported paying for an OpenAI subscription this election cycle,\" writes the Washington Post, citing campaign finance disclosures. \n\nThis means the campaigns \"are using the technology to court voters — despite limits imposed by leading AI companies to protect elections from the technology's risks.\"\n\nTwo [candidates] said explicitly in filings that they had used the subscription for advertising, even though the company's policies prohibit candidates from using their tools to generate ads.\nAnother candidate disclosed using AI to draft and personalize political messages or create synthetic media, though they did not specify which software they were using... Around 30 political action committees and parties have reported payments to OpenAI, with the Republican National Committee ranking as the company's largest political spender at roughly $9,700, the analysis found... Political consultants say the disclosures understate how many candidates are using ChatGPT and other AI tools to craft messages for voters... \"For the most part, people are using it to write their emails, write their ad copy, write their scripts,\" [according to Eric Wilson, a Republican digital strategist who has advised campaigns on AI]. \"But no one is going to go around saying, 'I'm using AI.'\" \n\nThe lack of transparency from campaigns reflects a paradox facing politicians: Generative AI is growing ubiquitous, and candidates could be at a disadvantage if they're not using the tools. But voters are less likely to trust messages they know were generated with AI, studies have found, making campaigns loath to disclose using it. Political consultants expect that as Election Day approaches, more campaigns will outsource AI-generated ads and materials to super PACs, much as they do now with negative ads. Katie Harbath, CEO of the tech policy consulting firm Anchor Change and a former Meta executive, said there are many parallels between negative campaign ads and AI: Voters say they find such ads distasteful, but politicians keep using them because they work. \"Typically, you would give some more negative stuff and more risky stuff to those [outside] entities,\" said Harbath, author of the upcoming book \"Disrupting Politics: A Front Row Seat to the Collision of Technology and Democracy\".... \"You're starting to see the tension on the left about using it, where they're saying, 'If the right is using it, why aren't we?\" Harbath said. \"It can be a huge disadvantage if you're not using this in voter-facing materials....\" \n\nAI companies have developed policies to prevent targeted disinformation. But a Post analysis found that OpenAI unevenly enforces its restrictions, making it possible for campaigns to circumvent its election rules. In late July and early August, The Post prompted ChatGPT to generate targeted campaign messages. When asked to craft fundraising text messages targeting moms on behalf of a female veteran running for office, ChatGPT produced multiple tailored texts in an apparent violation of company policies. But when given the same prompt this week, the chatbot declined to produce the messages. \"I can help with general campaign fundraising language, but I can't draft political persuasion or fundraising messages specifically targeted at a demographic group such as moms,\" the app responded. The chatbot also inconsistently enforced rules that prohibit campaigns from using its tools to write emails to voters. In tests this week, the chatbot at times complied and wrote an email soliciting donations on behalf of a specific candidate. But given the same prompt later on the same day, it denied the request... \n\nWilson, the Republican political consultant, said OpenAI should get more feedback from political consultants and campaigns on its policies, because the rules can at times seem arbitrary or contradictory. It doesn't make sense, for example, that a campaign can use ChatGPT to develop its policy on early-childhood education but not to create a social media post promoting that policy, he said. Political consultants are primarily using AI for internal tasks, a survey earlier this year from the American Association of Political Consultants found. Fifty-seven percent of the consultants surveyed reported using AI for their work on a daily basis, up from 34 percent a year earlier. \n\n\"So far, election-related deepfakes have been quickly debunked or gained little traction in U.S. elections,\" the article acknowledges. \n\n\"More than 30 states have created a patchwork of laws limiting how politicians can use deepfakes in campaigns, but states often have limited resources to enforce the laws, and some have been challenged as unconstitutional.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Sep 06, 2026 01:34",
-    "published_at": "2026-09-06T01:34:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "FSF is Now on Bluesky - But Won't Advocate Signing Up Due to Nonfree JavaScript",
-    "link": "https://news.slashdot.org/story/26/09/05/0452205/fsf-is-now-on-bluesky---but-wont-advocate-signing-up-due-to-nonfree-javascript?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "The Free Software Foundation (FSF) is now on Bluesky, they announced this week. But \"We can't advocate that you sign up for a Bluesky account like we do with Mastodon or PeerTube since signing up for Bluesky means loading the registration page's nonfree JavaScript...\"\n\nWhile federated, Bluesky is generally not considered part of the \"fediverse\" network of social media services like Mastodon and PeerTube, as it uses its own AT protocol rather than ActivityPub... Hosting your own Bluesky \"Personal Data Server (PDS)\" and relay is technically possible, but generally far more difficult and resource-intensive than spinning up an instance of Mastodon, let alone any of the lighter-weight ActivityPub servers like Akkoma or Starling. \n\nMuch of the Bluesky codebase is freely licensed. This allows users to run, copy, modify, and share large parts of the codebase. However, Bluesky's web client still serves nonfree JavaScript to users, just like its registration page. (Since our script was written for us specifically, we have not extensively vetted all available clients.) \n\nWhy did we sign up? Simply put, we have to continue to reach people where they are. Bluesky is a decent choice for us that evades many of the issues of other, more problematic networks... We accepted running Bluesky's nonfree JavaScript a single time if it meant being able to reach people who have never heard of software freedom. \n\nThe FSF's blog post advises supporters \"If you're on social media, follow the FSF on Bluesky and on Mastodon today.\" \n\nSlashdot also has an account on Blueky.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Sep 05, 2026 22:34",
-    "published_at": "2026-09-05T22:34:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Slackware-Based Zenwalk ISOs Updated With Linux 7.1, Flatpak Integrated + Xfce 4.20",
-    "link": "https://www.phoronix.com/news/Zenwalk-2026-Current",
-    "description": "It's been over four years since the original release of Zenwalk 15.0 while released today is a new Zenwalk Current Milestone snapshot. This Slackware-based Linux distribution with a long history has an exciting update out for testing this weekend...",
-    "guid": "https://www.phoronix.com/news/Zenwalk-2026-Current",
-    "date": "Sep 05, 2026 22:27",
-    "published_at": "2026-09-05T22:27:47Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "The World Now Has More Seniors Than Young People - for the First Time In History",
-    "link": "https://slashdot.org/story/26/09/05/0548237/the-world-now-has-more-seniors-than-young-people---for-the-first-time-in-history?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "\"There are now more seniors in the world than young children,\" reports the International Business Times, citing a new report from the U.S. Census Bureau report. And it warns that \"The share of the population aged 65 and over is projected to nearly double, from 10.5 percent (about 1 in 10 people) in 2025 to 19.6 percent (about 1 in 5 people) by 2060.\"\n\nThe world is expected to add another 2 billion people from 2025 to 2060, increasing global population from around 8 billion to around 10 billion... \"Over one-half of that growth (1.148 billion) is projected to come from an increase in the population aged 65 and over,\" the report states. \"By contrast, the population at younger ages (age 0-19) is projected to stay relatively constant due to persistent low fertility. As the size of the older population grows rapidly and the youthful age population remains roughly the same, the percentage of the population aged 65 and over is projected to increase.\" \n\nThe report notes that the birthrate in 71 percent of countries is now below the replacement level of 2.1. China, in particular, has seen its birthrate plummet. In 2023, birth rates per woman in China hit 1.06...\nAside from lower birth rates, the fact that people are living longer is one of the primary driving factors. The report notes that people are also living a healthier, more active life for a longer time.\n\n\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Sep 05, 2026 21:00",
-    "published_at": "2026-09-05T21:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "GNOME Moves to Formalize Major Project Decisions with New RFC Process",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367304",
-    "description": "GNOME has entered the final comment period for a proposed RFC process designed to document and coordinate major project-wide decisions.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367304",
-    "date": "Sep 05, 2026 19:28",
-    "published_at": "2026-09-05T19:28:32Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Ikey Doherty Plans To Show How To \"Properly\" Build A Modern Linux Distro",
-    "link": "https://www.phoronix.com/news/Ikey-Doherty-Plans-Linux-Build",
-    "description": "Ikey Doherty is back in the Linux distribution space. Sort of. Ikey Doherty who was the founder of the Solus Linux distribution as well as Serpent OS (now AerynOS) as well as having been employed by Intel on their Clear Linux team is back at it again in the Linux space...",
-    "guid": "https://www.phoronix.com/news/Ikey-Doherty-Plans-Linux-Build",
-    "date": "Sep 05, 2026 18:35",
-    "published_at": "2026-09-05T18:35:41Z",
     "source": "phoronix.com",
     "source_url": "https://www.phoronix.com/"
   }
