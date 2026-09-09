@@ -1,13 +1,327 @@
 [
   {
-    "title": "AI Made A Lot Of \"Hideous\" Code But Found Major Bottlenecks For Faster Linux Compilation",
-    "link": "https://www.phoronix.com/news/AI-To-Faster-Linux-Kernel-Comp",
-    "description": "An ARM Linux engineer leveraged AI/LLMs to help uncover some improvements to \"significant speed up\" the Linux kernel build times. In the process the LLM used generated \"a lot of code, much of it hideous\" but in the end was used to find some very significant time savings for faster kernel builds via more task parallelization in different areas of the kernel build process...",
-    "guid": "https://www.phoronix.com/news/AI-To-Faster-Linux-Kernel-Comp",
-    "date": "Sep 09, 2026 00:49",
-    "published_at": "2026-09-09T00:49:03Z",
+    "title": "[$] Typst makes big strides",
+    "link": "https://lwn.net/Articles/1092993/",
+    "description": "Typst is a system for typesetting documents\ninto various formats: PDF, SVG, PNG, and, in progress, HTML. It is adept at\nhandling technical material, and is often considered to be an eventual LaTeX replacement. We last  looked\nin on Typst a year ago, when it had reached version 0.13.  A new version,\n0.15, was released in\nJune with lots of  new features, including support for variable fonts,\nMathML, multiple bibliographies, and more. Typst is free, Apache-2.0-licensed software, programmed in Rust.",
+    "guid": "https://lwn.net/Articles/1092993/",
+    "date": "Sep 09, 2026 15:37",
+    "published_at": "2026-09-09T15:37:55Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "GOG Brings Back 'Big Box' PC Games, One Printable Template At a Time",
+    "link": "https://hardware.slashdot.org/story/26/09/09/0618254/gog-brings-back-big-box-pc-games-one-printable-template-at-a-time?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from Ars Technica: Those who remember PC gaming in the days before Steam may have fond memories of the \"big box\" packaging that made those games stand out as shelf eye candy and sought-after in-home collectibles. Today, PC gaming platform GOG is hoping to reignite some of the nostalgia for those days by adding downloadable 3D models and printable, foldable high-res packaging scans for a handful of PC games on the platform.\n \nThus far, the \"Printable Big Box\" collection on GOG is limited to just five games: Armikrog, Descent, Hitman: Codename 47, Myst, and Star Trek: 25th Anniversary. Players browsing those games on the GOG store will now see \"3D Boxes\" listed among the included \"Goodies\" before purchase. Owners of those games on GOG can download a ZIP file containing a version of the box art as an animated 3D object file (in an easy-to-open GLB format) and a \"flat printable template\" in PDF, SVG, and Adobe Illustrator formats. Those downloads allow for what GOG calls \"a proper papercraft project for anyone who misses shelves full of PC game boxes.\"\n \nThe physically focused expansion of the existing GOG Preservation Program comes through a partnership with Benjamin Wimmer's Big Box Collection website, which has grown since 2015 to include over 1,000 3D scans from his private collection of physical PC games. In an interview with GOG, Wimmer said that while he appreciates the artistry of a good old-fashioned big box, he also appreciates their evolution into the \"interactive cards\" on modern digital storefronts that \"provid[e] us art, screenshots, gameplay videos and whatnot and that not shown as a box, [it] is just good UX.\" \"Physical media doesn't survive the way software can -- boxes get lost, crushed, thrown out,\" GOG writes in today's announcement. \"Scanning them, and letting you print your own, is preservation in a different shape: the same mission that keeps these games running on modern PCs, applied to the objects they used to come in.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Sep 09, 2026 15:00",
+    "published_at": "2026-09-09T15:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "System76 Launches The Thelio Mira AI With AMD Ryzen + NVIDIA Or AMD Graphics",
+    "link": "https://www.phoronix.com/news/System76-Thelio-Mira-AI",
+    "description": "System76 today unveiled their newest desktop computer as the Thelio Mira AI. The System76 Thelio Mira AI is designed for multi-GPU AI training, model fine-tuning, AI inferencing, computer vision and image generation tasks on tthe AI side. Or with its AMD Ryzen 9000 series CPU and NVIDIA/AMD GPU options is also a good candidate for simulations and other HPC-type workloads...",
+    "guid": "https://www.phoronix.com/news/System76-Thelio-Mira-AI",
+    "date": "Sep 09, 2026 14:57",
+    "published_at": "2026-09-09T14:57:09Z",
     "source": "phoronix.com",
     "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "OpenSSL 4.1 Alpha 1 Released With DTLS 1.3, GREASE \u0026 More AVX-512 Optimizations",
+    "link": "https://www.phoronix.com/news/OpenSSL-4.1-Alpha-1",
+    "description": "The first alpha release of the upcoming OpenSSL 4.1 release is now available for testing with some GREASE and DTLS 1.3 support along with more AVX-512 performance optimizations...",
+    "guid": "https://www.phoronix.com/news/OpenSSL-4.1-Alpha-1",
+    "date": "Sep 09, 2026 14:46",
+    "published_at": "2026-09-09T14:46:00Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "NVIDIA 615.71.09 Linux Driver Released With Vulkan Improvements",
+    "link": "https://www.phoronix.com/news/NVIDIA-615.71.09-Linux-Driver",
+    "description": "NVIDIA today debuted the 615.71.09 Linux driver that comes with a number of improvements, especially from the Vulkan API perspective...",
+    "guid": "https://www.phoronix.com/news/NVIDIA-615.71.09-Linux-Driver",
+    "date": "Sep 09, 2026 14:02",
+    "published_at": "2026-09-09T14:02:37Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Viking afterlife open-world survival game Valheim 1.0 is finally here",
+    "link": "https://www.gamingonlinux.com/2026/09/viking-afterlife-open-world-survival-game-valheim-1-0-is-finally-here/",
+    "description": "After ~5 years in Early Access, the viking inspired open-world survival game Valheim has now officially launched with the new Deep North biome to finish it up.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/viking-afterlife-open-world-survival-game-valheim-1-0-is-finally-here/",
+    "date": "Sep 09, 2026 13:46",
+    "published_at": "2026-09-09T13:46:19Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/562704844id29726gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Security updates for Wednesday",
+    "link": "https://lwn.net/Articles/1093342/",
+    "description": "Security updates have been issued by AlmaLinux (expat, glib2, microcode_ctl, mrtg, pam, redis, thunderbird, and valkey), Debian (fort-validator, gst-plugins-base1.0, kernel, and slurm-wlm), Fedora (complyctl, libevent, openvpn, and tar), Mageia (dovecot and spice-vdagent), Red Hat (ignition, opentelemetry-collector, and osbuild-composer), SUSE (amazon-ssm-agent, aws-nitro-enclaves-cli, bzip2, cadvisor, chromium, curl, distribution-registry, emacs, freeciv, fuse-overlayfs, gh, google-guest-agent, GraphicsMagick, hauler, insighttoolkit-devel, java-17-openjdk, libidn, libusb-1_0, libvirt, libvncserver, libzypp, zypper, lkl, lxd, multipath-tools, NetworkManager, perl-Net-DNS, perl-URI, python, python-authlib, python-sqlparse, python-tornado, python3, rpcbind, supergfxctl, systemd, terraform-provider-null, ucode-intel, wget, wireshark, and xen), and Ubuntu (curl, ffmpeg, glibc, hsqldb1.8.0, imagemagick, perl, and vim).",
+    "guid": "https://lwn.net/Articles/1093342/",
+    "date": "Sep 09, 2026 13:04",
+    "published_at": "2026-09-09T13:04:46Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "A Nice Improvement Coming For Faster Btrfs Zstd Decompression",
+    "link": "https://www.phoronix.com/news/Btrfs-Zstd-Faster-Decompress",
+    "description": "In addition to the still-pending kernel work for improving the in-kernel Zstd code, sepaarately the Btrfs file-system driver has an improvement on the way in its decompression code path for the Zstd transparent file-system compression...",
+    "guid": "https://www.phoronix.com/news/Btrfs-Zstd-Faster-Decompress",
+    "date": "Sep 09, 2026 12:52",
+    "published_at": "2026-09-09T12:52:22Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "AI Made A Lot Of \"Hideous\" Code But Found Major Bottlenecks For Faster Linux Compilation",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367355",
+    "description": "An ARM Linux engineer leveraged AI/LLMs to help uncover some improvements to \"significant speed up\" the Linux kernel build times. In the process the LLM used generated \"a lot of code, much of it hideous\" but in the end was used to find some very significant time savings for faster kernel builds via more task parallelization in different areas of the kernel build process...",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367355",
+    "date": "Sep 09, 2026 11:37",
+    "published_at": "2026-09-09T11:37:25Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "I love the chunky control panels in the spaceflight simulator In Control: Rocketry",
+    "link": "https://www.gamingonlinux.com/2026/09/i-love-the-chunky-control-panels-in-the-spaceflight-simulator-in-control-rocketry/",
+    "description": "In Control: Rocketry was revealed by Maximum Entertainment where you have to build and wire up control panels to control space rockets.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/i-love-the-chunky-control-panels-in-the-spaceflight-simulator-in-control-rocketry/",
+    "date": "Sep 09, 2026 11:11",
+    "published_at": "2026-09-09T11:11:21Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1456855113id29730gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Bad House fuses together auto-battling and dungeon-crawling beneath your new house",
+    "link": "https://www.gamingonlinux.com/2026/09/bad-house-fuses-together-auto-battling-and-dungeon-crawling-beneath-your-new-house/",
+    "description": "Developer Andrew Morrish (Kingsway) and publisher The Arcade Crew (Drop Duchy, Abyssus) announced Bad House, a genre-blending, auto-battling adventure.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/bad-house-fuses-together-auto-battling-and-dungeon-crawling-beneath-your-new-house/",
+    "date": "Sep 09, 2026 11:03",
+    "published_at": "2026-09-09T11:03:02Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1547459176id29729gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Google's Revived Nuclear Power Plant Gets $1.9 Billion Loan From US Government",
+    "link": "https://hardware.slashdot.org/story/26/09/09/0553205/googles-revived-nuclear-power-plant-gets-19-billion-loan-from-us-government?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "The U.S. Department of Energy has approved a $1.9 billion loan to NextEra Energy to restart Iowa's shuttered Duane Arnold nuclear plant, which Google has backed as a power source for its growing AI infrastructure. \"The sizable loan is the second of its kind, suggesting that the Trump administration views revived nuclear power as a key source of electricity for tech companies seeking to power their AI data centers,\" notes TechCrunch. From the report: James Danly, Deputy Secretary of Energy, said that the Iowa power plant's restart in 2029 will \"drive down electricity costs,\" though he did not explain how. Just 50 megawatts will be set aside for the local power cooperative, NextEra CEO John Ketchum said during an earnings call (PDF) last year. That capacity would cover 18% of Iowa's demand growth since 2021, the year before ChatGPT was released.\n \nGoogle is reportedly looking to build up to six data centers near the Duane Arnold Energy Center, which hasn't operated since 2020 when an intense rainstorm damaged the power plant. Rather than repair it, NextEra decided to mothball it. At the time, cheap natural gas was flooding the market, making nuclear power economically unappealing. A lot has changed in the last six years, though. After decades of little growth in demand, the sudden rise of AI coupled with broader electrification of the economy meant that utilities and power providers were suddenly scrambling to find new generating sources of electricity. New data centers are expected to nearly triple the sector's electricity demand by 2035.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Sep 09, 2026 11:00",
+    "published_at": "2026-09-09T11:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Check out 'I.T. Never Ends', a dark-comedy workplace horror game",
+    "link": "https://www.gamingonlinux.com/2026/09/check-out-i-t-never-ends-a-dark-comedy-workplace-horror-game/",
+    "description": "Some jobs feel quite hellish right? But I.T. Never Ends makes it literal in a darkly comedic blend of office grind and indie horror.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/check-out-i-t-never-ends-a-dark-comedy-workplace-horror-game/",
+    "date": "Sep 09, 2026 10:51",
+    "published_at": "2026-09-09T10:51:22Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1322362900id29728gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "In the horror roguelite 500 FINGER FILLET you have to save your fingers",
+    "link": "https://www.gamingonlinux.com/2026/09/in-the-horror-roguelite-500-finger-fillet-you-have-to-save-your-fingers/",
+    "description": "Giving me flashbacks to the scene in Aliens where the Android Bishop does a knife trick inbetween the fingers of Hudson - check out 500 FINGER FILLET.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/in-the-horror-roguelite-500-finger-fillet-you-have-to-save-your-fingers/",
+    "date": "Sep 09, 2026 10:43",
+    "published_at": "2026-09-09T10:43:03Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/2023691108id29727gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Privacy Notes: Markdown Editor With Built-in Encrypted Vault",
+    "link": "https://feed.itsfoss.com/link/24361/17443408/privacy-notes",
+    "description": "Privacy Notes offers different kinds of templates, secret vault, burn after reading and an optional zero-knowledge encrypted sync.",
+    "guid": "6a9e51ddaf07250001fe87d8",
+    "date": "Sep 09, 2026 10:32",
+    "published_at": "2026-09-09T10:32:55Z",
+    "image": "https://itsfoss.com/content/images/2026/09/privacy-notes-app.png",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "AMD Posts New GCC Compiler Patch For Extended Load Optimization",
+    "link": "https://www.phoronix.com/news/AMD-GCC-Extended-Load-Opt",
+    "description": "It's nice seeing a new GNU Compiler Collection (GCC) patch out of AMD today that is a general optimization for the x86_64 compiler code and not exclusively tied to their Zen processors. It's an Extended Load Optimization to benefit code where there is a narrower type and then an arithmetic type with a wider type...",
+    "guid": "https://www.phoronix.com/news/AMD-GCC-Extended-Load-Opt",
+    "date": "Sep 09, 2026 10:26",
+    "published_at": "2026-09-09T10:26:16Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Experimental Patches Get Nouveau+NVK Working On NVIDIA DGX Spark GB10",
+    "link": "https://www.phoronix.com/news/Experiment-Nouveau-NVIDIA-GB10",
+    "description": "Red Hat's David Airlie has managed another open-source graphics engineering feat... Getting the Nouveau reverse-engineered kernel graphics driver and Mesa NVK Vulkan driver running on the GB10 Grace Blackwell Superchip with the DGX Spark system...",
+    "guid": "https://www.phoronix.com/news/Experiment-Nouveau-NVIDIA-GB10",
+    "date": "Sep 09, 2026 10:13",
+    "published_at": "2026-09-09T10:13:00Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Slackware 16 Alpha 1 Released with Linux 6.18 LTS, GCC 16.2, and Plasma 6",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367354",
+    "description": "One of Linux's oldest surviving distributions is moving closer to its next major release. Slackware 16 Alpha 1 became available on September 5, 2026, marking the first formal alpha milestone on the road toward Slackware Linux 16. The release follows a major rebuild of Slackware-current using a substantially newer GNU toolchain and brings together several upgrades that have accumulated since Slackware 15.0 arrived more than four years ago.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367354",
+    "date": "Sep 09, 2026 10:05",
+    "published_at": "2026-09-09T10:05:55Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "YSERVER 1.5 Released With Reverse PRIME Support \u0026 Other New Features",
+    "link": "https://www.phoronix.com/news/YSERVER-1.5",
+    "description": "Announced a few months back was YSERVER as a modern X11 server written in the Rust programming language. In getting the project off the ground quickly and given the size of X11, it was largely vibe coded with Claude Code. The project continues and is attracting contributions from more users with today marking the YSERVER 1.5 release...",
+    "guid": "https://www.phoronix.com/news/YSERVER-1.5",
+    "date": "Sep 09, 2026 10:03",
+    "published_at": "2026-09-09T10:03:31Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "The Linux Kernel Planning To Remove Around ~55k Lines Of Old ARM Platform Code",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367347",
+    "description": "For the current Linux 7.3 kernel many older 32-bit ARM platforms are deprecated and in turn orphaning hundreds of drivers only relevant to those out-of-date ARM platforms. The removal of that now deprecated code is planned for the next kernel cycle or two...",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367347",
+    "date": "Sep 09, 2026 08:34",
+    "published_at": "2026-09-09T08:34:26Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Civilization VII charts a course to the future with the free Arc of Tomorrow update and Earthrise DLC",
+    "link": "https://www.gamingonlinux.com/2026/09/civilization-vii-charts-a-course-to-the-future-with-the-free-arc-of-tomorrow-update-and-earthrise-dlc/",
+    "description": "Some big upgrades are coming in future to Civilization VII, with Firaxis Games outlining their upcoming content plans including free and paid expansions.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/civilization-vii-charts-a-course-to-the-future-with-the-free-arc-of-tomorrow-update-and-earthrise-dlc/",
+    "date": "Sep 09, 2026 08:00",
+    "published_at": "2026-09-09T08:00:40Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/513711910id29725gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "The classic free No More Room in Hell gets a massive update with 64-bit, Vulkan, Steam Networking and more",
+    "link": "https://www.gamingonlinux.com/2026/09/the-classic-free-no-more-room-in-hell-gets-a-massive-update-with-64-bit-vulkan-steam-networking-and-more/",
+    "description": "Time to give No More Room in Hell another spin? This classic free first person survival horror just levelled up with a major upgrade.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/the-classic-free-no-more-room-in-hell-gets-a-massive-update-with-64-bit-vulkan-steam-networking-and-more/",
+    "date": "Sep 09, 2026 07:37",
+    "published_at": "2026-09-09T07:37:59Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/302463885id29724gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "The Ur-Quan Masters sequel 'Free Stars: Children of Infinity' gets a Combat Demo",
+    "link": "https://www.gamingonlinux.com/2026/09/the-ur-quan-masters-sequel-free-stars-children-of-infinity-gets-a-combat-demo/",
+    "description": "The upcoming The Ur-Quan Masters (based on Star Control II) sequel Free Stars: Children of Infinity has a first Combat Demo now available.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/the-ur-quan-masters-sequel-free-stars-children-of-infinity-gets-a-combat-demo/",
+    "date": "Sep 09, 2026 07:18",
+    "published_at": "2026-09-09T07:18:22Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/324550417id29723gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Age Verification for Steam rolls out in Australia requiring a Credit Card",
+    "link": "https://www.gamingonlinux.com/2026/09/age-verification-for-steam-rolls-out-in-australia-requiring-a-credit-card/",
+    "description": "Valve have rolled out Age Verification requirements on Steam in Australia for 18+ content, requiring users to keep a Credit Card on their account.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/age-verification-for-steam-rolls-out-in-australia-requiring-a-credit-card/",
+    "date": "Sep 09, 2026 07:08",
+    "published_at": "2026-09-09T07:08:22Z",
+    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/steam_plain_2025.jpg",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "BleachBit 6.0.4 Cleaner and Privacy Tool Released with Faster Scanning",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367348",
+    "description": "BleachBit 6.0.4 is out with faster startup and scanning, new cleaners for fish, Zsh, Android Studio, Gradle, and Python, plus major security fixes.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367348",
+    "date": "Sep 09, 2026 07:02",
+    "published_at": "2026-09-09T07:02:56Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "OpenAI Says It Has Cracked One of Math's 'Millennium Problems'",
+    "link": "https://science.slashdot.org/story/26/09/08/2228220/openai-says-it-has-cracked-one-of-maths-millennium-problems?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from The New York Times: OpenAIsaid on Tuesday that its newest artificial intelligence technology had solved one of the \"Millennium Problems,\" a collection of important unanswered math questions meant to push the world's leading mathematicians to new heights. The announcement is an another clear sign that A.I. is fundamentally changing the upper reaches of mathematics, which have long been viewed as a pinnacle of human achievement. The change has excited some mathematicians, while stirring concern among others.\n \nOver the past year, A.I. systems successfully solved a wide range of problems that have bedeviled mathematicians for decades. But these problems were not as complex, nor as closely watched, as the one that OpenAI's technology has solved over the past several days. The Millennium Problems are among the most heavily researched in the field. \"This is a spectacular culmination of the arc we have seen over the past twelve months,\" OpenAI researcher Sebastien Bubeck said of the company's new solution.\n \nThe company announced that one of its latest models, which has not yet been released to the public, needed just 88 hours to solve what mathematicians call \"the Navier-Stokes existence and smoothness problem.\" This problem involves a series of equations that are often used to predict the weather. The equations describe the movement of water and other fluids. The Navier-Stokes problem, which has no clear practical value, asks whether these equations completely break down in certain situations. OpenAI's proof claims to have defined just such a situation.\n \nThis would imply, at least theoretically, that the laws of physics themselves would break down under certain conditions: that, for example, water could be made to spontaneously explode. But mathematicians and physicists do not believe that this mathematical breakdown could really lead to such an outcome in the physical world. The Navier-Stokes problem was one of seven \"Millennium Problems\" selected by the Clay Mathematics Institute in the year 2000 as a way of tracking the progress of mathematics in the new millennium. The institute, founded by an American businessman named Landon T. Clay, offered a million dollars for the first correct solution to each problem. Before OpenAI's announcement, only one of the problems had been solved. OpenAI says it managed to solve the Navier-Stokes problem by coordinating as many as 10,000 AI agents, an extremely expensive process that may have cost millions of dollars in computing power.\n \nFor those curious about the findings, the company has released a paper (PDF) and formal Lean proof.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Sep 09, 2026 07:00",
+    "published_at": "2026-09-09T07:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "CHUWI UniBook With Intel Wildcat Lake For A $449 Linux-Friendly Laptop",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367344",
+    "description": "CHUWI recently launched the UniBook laptop powered by the Intel Core 3 304 \"Wildcat Lake\" SOC and priced at just $449 USD. Especially with today's high component pricing, a brand new sub-$500 laptop is extremely rare. Rather than using some dated SoC, it uses Wildcat Lake as Intel's new value option alternative to the Core 3 Series Ultra \"Panther Lake\" SoCs. This was our first time testing out Intel Wildcat Lake and that SoC plus the overall CHUWI UniBook has been working out well on Linux for those looking at a laptop in the sub-$500 space.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367344",
+    "date": "Sep 09, 2026 05:31",
+    "published_at": "2026-09-09T05:31:27Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "OpenPaper L Launches as a 13.3-Inch Open-Source Color E-Ink Frame",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367353",
+    "description": "OpenPaper L is a 13.3-inch color E-Ink picture frame with open-source hardware and software, Wi-Fi 6, Bluetooth, and offline operation.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367353",
+    "date": "Sep 09, 2026 03:59",
+    "published_at": "2026-09-09T03:59:57Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Star Trek Turns 60",
+    "link": "https://entertainment.slashdot.org/story/26/09/09/0113229/star-trek-turns-60?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "\"Star Trek\" marks its 60th anniversary today, September 8, six decades after the original series premiered in 1966 and went on to become one of the most successful science-fiction franchises in television history. Outlets across the web are commemorating the milestone with full health reports, hot takes, behind-the-scenes retrospectives, and reflections on the franchise's influence and what may lie ahead. The New York Times reports: As of 2026, the 60-year-old science fiction franchise boasts a fandom of carbon units -- sorry, humans -- that spans at least three generations. What began, in 1966, as a five-year space mission on the U.S.S. Enterprise to \"boldly go where no man has gone before\" now represents an anthology of space travel across more than 25 series and films in parts of two centuries. Where once it was James T. Kirk or bust, it's not unusual to find fans who prefer other captains, like Picard, Janeway or Sisko. There are so many series to keep track of that fans often communicate using country code-like abbreviations for each installment: TOS (the original series), TNG (\"The Next Generation\"), DS9 (\"Deep Space Nine\"), ENT (\"Enterprise\") and so on.\n \nOutside the Trekiverse, disparities in generational slang, politics and social mores are practically a foregone conclusion. But \"Star Trek\" functions as connective tissue between fans past and present. Some of that tissue is just shared references: There will always be captain's logs, timelines by stardate, warp factors one through 10, phasers and photon torpedoes and, every now and then, a doctor who insists, \"I'm a doctor, not a ____!\" The Vulcan salute has become a general symbol of geek-recognize-geek, but real Trekkies (or Trekkers, as some prefer) know that \"Live long and prosper\" is only half the message; the recipient is meant to say \"Peace and long life\" in response. But the series' staying power, and the ease with which each generation finds its way into them, is an indication that fans of all ages share not only language, but values, in common. Here are some of our favorite Slashdot stories from the early days. The 2004 \"Should Star Trek Die?\" is an especially good callback today because it features LeVar Burton (Geordi La Forge in Star Trek: The Next Generation) arguing that Trek needs to disappear for several years to become special again...\n \nStar Trek Lawsuit (1998)\n\nSalon Writes on The Troubles with \"Trek\" (1999)\n\nStar Trek's Next Series (2001)\n\nShould Star Trek Die? (2004)\n\nUPN Officially Cancels 'Star Trek: Enterprise' (2005)\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Sep 09, 2026 03:30",
+    "published_at": "2026-09-09T03:30:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "MocaccinoOS 26.09 Adds x86-64-v3 Optimized Builds for Improved Performance",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367351",
+    "description": "The development team behind the Gentoo-based, independently developed MocaccinoOS distribution released MocaccinoOS 26.09 today as the latest stable ISO snapshot with various improvements and updated components.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367351",
+    "date": "Sep 09, 2026 02:28",
+    "published_at": "2026-09-09T02:28:28Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "FEX 2609 Released With Speedier JIT Performance, JIT Disk Cache Option",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367337",
+    "description": "FEX 2609 was released overnight as the newest monthly feature release for this open-source emulator that allows running Linux x86_64 binaries on AArch64, including the likes of Steam and Steam Play (Proton) for enabling Windows games to run rather well on ARM64 Linux systems...",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367337",
+    "date": "Sep 08, 2026 23:23",
+    "published_at": "2026-09-08T23:23:34Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
   },
   {
     "title": "Google Will 'Degrade' Search In Europe to Avoid EU Fines",
@@ -63,6 +377,16 @@
     "source_url": "https://slashdot.org/"
   },
   {
+    "title": "New Patches Provide HDMI 1.4 3D Mode Support For AMD Radeon Graphics On Linux",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367343",
+    "description": "It turns out one of the feature limitations of the AMDGPU Linux graphics driver is HDMI 1.4 3D output support with frame packing, top-and-bottom, and side-by-side options for transmitting simultaneous video streams. I wasn't aware of this limitation for the lack of any 3D displays and many Linux enthusiasts/gamers as well, but if you happen to have a compatible HDMI 1.4 3D display, there are pending patches to finally make this a reality...",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367343",
+    "date": "Sep 08, 2026 20:20",
+    "published_at": "2026-09-08T20:20:34Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
     "title": "Australia To Let Social Media Users 'Opt Out' of Algorithm-Based Feeds",
     "link": "https://tech.slashdot.org/story/26/09/08/1959259/australia-to-let-social-media-users-opt-out-of-algorithm-based-feeds?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
     "description": "Australia is proposing the \"My Feed, My Way\" initiative that would force social media platforms to let users over 16 turn off algorithmic recommendations and instead see only posts from people and creators they follow. Platforms that fail to comply could face fines of up to $79 million. CNBC reports: The legislation, which is being drafted and released Tuesday for targeted consultation, would require platforms to send notifications to new and existing users so they can choose their default feed. [...] The measures, set to be introduced to the Parliament of Australia this year, will also require AI chatbots, online games and other digital services to take action to protect under-18s from addictive design features. \"This is not about giving government control. It's about giving people control. It's about putting choice back into the hands of Australians online,\" said Prime Minister Anthony at a press conference on Tuesday.\n \n\"This is sensible, pragmatic, practical reform. It gives users choice, and it will hold the big tech companies responsible for inaction.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
@@ -116,6 +440,16 @@
     "source_url": "https://slashdot.org/"
   },
   {
+    "title": "Linux 7.4 To Support Realtek RTL8127atf \u0026 RTL8116af Networking",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367339",
+    "description": "Queued this past week into the net-next development tree of the latest networking additions for the Linux kernel is enabling support for Realtek's newer RTL8127atf and RTL8116af wired networking ASICs...",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367339",
+    "date": "Sep 08, 2026 17:17",
+    "published_at": "2026-09-08T17:17:35Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
     "title": "FreeCORE is What Your TrueNAS CORE Box Should Have",
     "link": "https://feed.itsfoss.com/link/24361/17442852/freecore-truenas-core-fork",
     "description": "This independent fork carries FreeBSD, OpenZFS, and jails forward for users who never wanted Linux.",
@@ -144,16 +478,6 @@
     "guid": "https://www.phoronix.com/news/KDE-KWin-Wayland-Commit-Timing",
     "date": "Sep 08, 2026 16:55",
     "published_at": "2026-09-08T16:55:36Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "The Linux Kernel Planning To Remove Around ~55k Lines Of Old ARM Platform Code",
-    "link": "https://www.phoronix.com/news/Linux-Dropping-Old-ARM-Ahead",
-    "description": "For the current Linux 7.3 kernel many older 32-bit ARM platforms are deprecated and in turn orphaning hundreds of drivers only relevant to those out-of-date ARM platforms. The removal of that now deprecated code is planned for the next kernel cycle or two...",
-    "guid": "https://www.phoronix.com/news/Linux-Dropping-Old-ARM-Ahead",
-    "date": "Sep 08, 2026 16:06",
-    "published_at": "2026-09-08T16:06:16Z",
     "source": "phoronix.com",
     "source_url": "https://www.phoronix.com/"
   },
@@ -212,14 +536,14 @@
     "source_url": "https://www.gamingonlinux.com/"
   },
   {
-    "title": "CHUWI UniBook With Intel Wildcat Lake For A $449 Linux-Friendly Laptop",
-    "link": "https://www.phoronix.com/review/chuwi-unibook-wildcat-lake",
-    "description": "CHUWI recently launched the UniBook laptop powered by the Intel Core 3 304 \"Wildcat Lake\" SOC and priced at just $449 USD. Especially with today's high component pricing, a brand new sub-$500 laptop is extremely rare. Rather than using some dated SoC, it uses Wildcat Lake as Intel's new value option alternative to the Core 3 Series Ultra \"Panther Lake\" SoCs. This was our first time testing out Intel Wildcat Lake and that SoC plus the overall CHUWI UniBook has been working out well on Linux for those looking at a laptop in the sub-$500 space.",
-    "guid": "https://www.phoronix.com/review/chuwi-unibook-wildcat-lake",
-    "date": "Sep 08, 2026 14:05",
-    "published_at": "2026-09-08T14:05:00Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
+    "title": "Mysterious x86 CPU Already Has APX, x86S Where Intel Left Off For Legacy-Free x86",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367330",
+    "description": "The mystery deepens around an x86 implementation from a corporate entity other than AMD and Intel and has been making some very intriguing changes for coming from a seeming start-up. Beyond 16 tile and 32 tile AMX implementations that already surpass Intel's current Advanced Matrix Extensions (AMX) capabilities in shipping Xeon CPUs, new disclosures were made today concerning Advanced Performance Extensions (APX), Flexible Return and Event Delivery (FRED), and even x86S as the effort that Intel previously stopped for cleaning up the x86 baggage...",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367330",
+    "date": "Sep 08, 2026 14:14",
+    "published_at": "2026-09-08T14:14:36Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
   },
   {
     "title": "Bottles Brings Hope for Windows-only Software on ARM Devices",
@@ -273,16 +597,6 @@
     "source_url": "https://lwn.net"
   },
   {
-    "title": "New Patches Provide HDMI 1.4 3D Mode Support For AMD Radeon Graphics On Linux",
-    "link": "https://www.phoronix.com/news/AMDGPU-HDMI-1.4-3D-Mode",
-    "description": "It turns out one of the feature limitations of the AMDGPU Linux graphics driver is HDMI 1.4 3D output support with frame packing, top-and-bottom, and side-by-side options for transmitting simultaneous video streams. I wasn't aware of this limitation for the lack of any 3D displays and many Linux enthusiasts/gamers as well, but if you happen to have a compatible HDMI 1.4 3D display, there are pending patches to finally make this a reality...",
-    "guid": "https://www.phoronix.com/news/AMDGPU-HDMI-1.4-3D-Mode",
-    "date": "Sep 08, 2026 13:11",
-    "published_at": "2026-09-08T13:11:10Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
     "title": "The Best Arch-Based Linux Distros in 2026 (Ranked and Reviewed)",
     "link": "https://lxer.com/module/newswire/ext_link.php?rid=367340",
     "description": "Arch Linux is powerful but brutal to install. These 8 Arch-based distros give you the speed and AUR without the pain. See which one fits you.",
@@ -314,32 +628,12 @@
     "source_url": "https://lxer.com/"
   },
   {
-    "title": "Linux 7.4 To Support Realtek RTL8127atf \u0026 RTL8116af Networking",
-    "link": "https://www.phoronix.com/news/Linux-7.4-RTL8127atf-RTL8116af",
-    "description": "Queued this past week into the net-next development tree of the latest networking additions for the Linux kernel is enabling support for Realtek's newer RTL8127atf and RTL8116af wired networking ASICs...",
-    "guid": "https://www.phoronix.com/news/Linux-7.4-RTL8127atf-RTL8116af",
-    "date": "Sep 08, 2026 10:41",
-    "published_at": "2026-09-08T10:41:09Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
     "title": "DirectX Support Promoted To Official Target Within LLVM",
     "link": "https://www.phoronix.com/news/LLVM-DirectX-Backend-Official",
     "description": "Over the past four years there has been a lot of work on a DirectX back-end within the LLVM compiler stack. Microsoft has backed the initiative for being able to lower LLVM IR into the DirectX Intermediate Language (DXIL) for execution by Windows DirectX 12 graphics drivers. This back-end is now officially supported...",
     "guid": "https://www.phoronix.com/news/LLVM-DirectX-Backend-Official",
     "date": "Sep 08, 2026 10:21",
     "published_at": "2026-09-08T10:21:51Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "FEX 2609 Released With Speedier JIT Performance, JIT Disk Cache Option",
-    "link": "https://www.phoronix.com/news/FEX-2609-Released",
-    "description": "FEX 2609 was released overnight as the newest monthly feature release for this open-source emulator that allows running Linux x86_64 binaries on AArch64, including the likes of Steam and Steam Play (Proton) for enabling Windows games to run rather well on ARM64 Linux systems...",
-    "guid": "https://www.phoronix.com/news/FEX-2609-Released",
-    "date": "Sep 08, 2026 10:09",
-    "published_at": "2026-09-08T10:09:20Z",
     "source": "phoronix.com",
     "source_url": "https://www.phoronix.com/"
   },
@@ -416,174 +710,5 @@
     "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/576612132id29717gol.webp",
     "source": "gamingonlinux.com",
     "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "puzzlez is a mini-puzzle game spin-off from the factory building shapez series",
-    "link": "https://www.gamingonlinux.com/2026/09/puzzlez-is-a-mini-puzzle-game-spin-off-from-the-factory-building-shapez-series/",
-    "description": "If you enjoy puzzle games you'll want to keep an eye on puzzlez - a shapez game, a spin-off from the shapez series from tobspr Games.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/09/puzzlez-is-a-mini-puzzle-game-spin-off-from-the-factory-building-shapez-series/",
-    "date": "Sep 08, 2026 07:33",
-    "published_at": "2026-09-08T07:33:30Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/651100779id29716gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "With a fully destructible simulated world the factory automation game FluxWerks arrives soon",
-    "link": "https://www.gamingonlinux.com/2026/09/with-a-fully-destructible-simulated-world-the-factory-automation-game-fluxwerks-arrives-soon/",
-    "description": "A factory-building automation sim with a destructible world and simulated heat and fluids, FluxWerks sounds like it's going to stand out in the genre.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/09/with-a-fully-destructible-simulated-world-the-factory-automation-game-fluxwerks-arrives-soon/",
-    "date": "Sep 08, 2026 07:21",
-    "published_at": "2026-09-08T07:21:57Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1980423192id29715gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "The new teaser for retro horror shooter BLIGHTEN has me wanting more",
-    "link": "https://www.gamingonlinux.com/2026/09/the-new-teaser-for-retro-horror-shooter-blighten-has-me-wanting-more/",
-    "description": "BLIGHTEN was covered here on GamingOnLinux back in April, and recently it had a new teaser that really badly made me want to see a lot more.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/09/the-new-teaser-for-retro-horror-shooter-blighten-has-me-wanting-more/",
-    "date": "Sep 08, 2026 07:11",
-    "published_at": "2026-09-08T07:11:02Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/52486737id29714gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "2D souls-inspired roguelite Rogue Blight looks great and it's out now",
-    "link": "https://www.gamingonlinux.com/2026/09/2d-souls-inspired-roguelite-rogue-blight-looks-great-and-its-out-now/",
-    "description": "Rogue Blight recently released with Linux support - a great looking 2D action souls-inspired side-scroller that's getting some good user reviews.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/09/2d-souls-inspired-roguelite-rogue-blight-looks-great-and-its-out-now/",
-    "date": "Sep 08, 2026 07:05",
-    "published_at": "2026-09-08T07:05:36Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1460608847id29713gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Beam Eye Tracker gets Linux and macOS support",
-    "link": "https://www.gamingonlinux.com/2026/09/beam-eye-tracker-gets-linux-and-macos-support/",
-    "description": "After being in Beta for a while, Linux and macOS support has arrived for the clever Beam Eye Tracker app.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/09/beam-eye-tracker-gets-linux-and-macos-support/",
-    "date": "Sep 08, 2026 06:58",
-    "published_at": "2026-09-08T06:58:54Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1937979040id29712gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Bottles Pushes Windows App Support Further on ARM64 Linux",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367331",
-    "description": "Bottles pushes its ARM64 efforts forward with Soda 11.0-10, opening the door to running Windows software on more ARM64 Linux devices.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367331",
-    "date": "Sep 08, 2026 06:37",
-    "published_at": "2026-09-08T06:37:09Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Why Google Told Drivers to Drive a Longer Way On Purpose",
-    "link": "https://tech.slashdot.org/story/26/09/07/0653248/why-google-told-drivers-to-drive-a-longer-way-on-purpose?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "\"A team at Google's research arm used Google Maps to reroute a small portion of drivers in 10 U.S. cities,\" reports SFGate — including San Francisco and Los Angeles. \n\n\"Through their experiment, which was published in the journal Nature Cities in June, the researchers sought to evenly spread traffic down more corridors as the drivers head to similar destinations, in the hopes of reducing congestion.\"\nThe experiments nudged up vehicle speeds by 2% on average on the congested roads, and shortened travel times by a modest 0.7%. Scientists have long thought that traffic could be eased this way, and this now demonstrates how it could actually work in the real world. \n\nThe researchers collected data on weekdays in the 10 cities, which included Seattle, Salt Lake City, Chicago and Atlanta. While they studied a variety of types of roads, from city streets to highways, they found that in cities such as Los Angeles where they targeted highways, their diversions had the biggest effect, with driving speeds in those areas increasing by about 4.6%. Most cities, though, saw a smaller improvement with speeds across them increasing by just 0.5% during peak times. The Google study's findings confirm what other researchers have long suspected, said Michael Manville, a professor of urban planning at UCLA who was not involved in the study. \"This is a pretty nice empirical illustration of a longstanding idea,\" he said. If a clogged traffic artery is on the verge of a long delay, he said, rerouting a small number of vehicles away from the bottleneck produces a \"not gigantic but noticeable result....\" \n\nAs with other traffic interventions, there's a risk that Google's approach to spreading traffic could backfire. This concept, known as \"induced demand,\" also applies to efforts like adding a lane to a critical highway, which temporarily relieves congestion, until traffic rises again. \"You can do this, but you cannot be too successful, because if you are too successful, then more people will start driving, and essentially you'll be back to ground zero,\" [said Alexandre Bayen, a co-author of the study and director of UC Berkeley's Center for Information Technology Research in the Interest of Society]. \"That's why when we did the study, we only operated at the margin.\" The idea is to make minor improvements, enough to matter in the aggregate but not so significant that people notice and start driving more, canceling those improvements... \n The Google Research study also considered the potential environmental benefits of its traffic improvements. The paper highlights the carbon dioxide emission reductions resulting from the slightly smoother traffic flow and shortened travel times, which add up to a savings of about 1,000 metric tons annually. That's equivalent to the emissions of about 200 vehicles, a drop in the bucket for cities with millions of cars, the majority of which are still gas guzzlers, even in San Francisco and LA. Bayen acknowledges that while emphasizing the cumulative benefit if such efforts were sustained for a longer time. For Manville, the study is a useful proof of concept. \"It is a demonstration that if we managed roads better, air would probably be cleaner,\" he said. \nAccording to the article, \"Google's study might not just be a one-off, and city officials could decide to make use of the Google research findings, Bayen said, such as by trying to improve traffic congestion on a larger scale...\" \n\n\"Google declined SFGATE's requests for comment on whether the company informed city authorities or rerouted drivers about the study,\" the article points out.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Sep 08, 2026 05:34",
-    "published_at": "2026-09-08T05:34:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Rustls 0.23.44 Released With ML-DSA Certificates Enabled By Default",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367325",
-    "description": "Rustls as the modern TLS library implementation written in the Rust programming language is out with a new feature release. This morning's Rustls 0.23.44 release enables post-quantum secure ML-DSA certificates by default...",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367325",
-    "date": "Sep 08, 2026 05:05",
-    "published_at": "2026-09-08T05:05:40Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "GStreamer 1.28.7 Released with Security and Playback Fixes",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367332",
-    "description": "GStreamer 1.28.7 is now available with security updates, playback fixes, OpenCV 5 support, and stability improvements.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367332",
-    "date": "Sep 08, 2026 03:34",
-    "published_at": "2026-09-08T03:34:10Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Does Brave Browser Load Faster Than Chrome, Firefox, and Microsoft Edge?",
-    "link": "https://news.slashdot.org/story/26/09/07/0155210/does-brave-browser-load-faster-than-chrome-firefox-and-microsoft-edge?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "The Brave web browser published a new round of benchmarks claiming its desktop browser uses less system resources than Chrome, Microsoft Edge, and Firefox — and also loads pages faster.\nThe blog Linuxiac reports:\n\nAccording to Brave's testing, the browser used 44% less CPU, 28% less memory, and 10% less energy on average compared with the three competing browsers. It also completed page loads 20% faster while transferring 26% less inbound data and 39% less outbound data... \n\n- Brave averaged about 33% CPU usage, while Chrome used 47%, Edge 53%, and Firefox 78%. \n\n- For memory, Brave used about 1.2 GB, compared to 1.75 GB for Chrome, 1.62 GB for Edge, and 1.65 GB for Firefox. \nBy stopping ads, analytics scripts, tracking pixels, and other third-party requests from loading, the browser has less network traffic and less work to do. In page-loading tests, Brave took about 4.4 seconds to fully load a page. Chrome took 5.1 seconds, Firefox 5.3 seconds, and Edge 6 seconds. However, when measuring Largest Contentful Paint, which is when the main content appears, Brave and Chrome both averaged about 2.4 seconds, with Edge and Firefox just behind at 2.5 seconds. This means Brave's main advantage comes after the main content is visible, since there are fewer background ads, trackers, analytics requests, and delayed scripts to process.\n\n\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Sep 08, 2026 02:34",
-    "published_at": "2026-09-08T02:34:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "FreeBSD 14.5 Released With Hardware Support Improvements, Many Bug \u0026 Security Fixes",
-    "link": "https://www.phoronix.com/news/FreeBSD-14.5-RELEASE",
-    "description": "For those that haven't yet made the move to FreeBSD 15 with still relying on FreeBSD 14 in production, out today is FreeBSD 14.5-RELEASE...",
-    "guid": "https://www.phoronix.com/news/FreeBSD-14.5-RELEASE",
-    "date": "Sep 08, 2026 00:35",
-    "published_at": "2026-09-08T00:35:33Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Switzerland's Federal Government Tests Open-Source Alternatives to Microsoft on 3,000 Computers",
-    "link": "https://yro.slashdot.org/story/26/09/07/0128205/switzerlands-federal-government-tests-open-source-alternatives-to-microsoft-on-3000-computers?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Switzerland has a population of 9,154,242. And its federal government just launched a pilot program to test open source alternatives to Microsoft 365 on 3,000 workstations, reports the blog It's FOSS. \"That's about 7% of the federal workforce.\"\n\n The target is to complete the migration by end of 2027... On September 3, 2026, the Federal Council published results of \"PoC BOSS\", a feasibility proof-of-concept involving 172 federal employees who tested the openDesk suite, a German open-source collaboration platform. During the proof-of-concept phase, core office tasks like document processing and email received positive assessments, while large-scale video conferencing still showed technical limitations. Based on the 'success' of the PoC phase with 172 employees, the pilot is now launched for 3,000 employees... \n\n\nAccording to Matthias Stürmer, professor at the Bern University of Applied Sciences, Microsoft's supremacy in public institutions poses three problems that are driving this migration. First is the risk of foreign access. US cloud legislation could expose Swiss government data to foreign authorities. Second is the risk to service continuity, as dependency on a single foreign vendor creates operational risk. The third risk is the escalating costs as proprietary licensing fees are rising with no Swiss leverage. \nSwitzerland's military cybersecurity unit, Cyber Command, is not waiting for the civilian pilot. It is already poised to replace Microsoft 365 entirely with openDesk by October 2026. It is pretty much the same reason. Military doesn't want foreign governments accessing sensitive Swiss data. \nThe article notes that during the pilot phase, the new system runs in parallel with Microsoft 365 rather than replacing it. But the article's author speculates that \"If the pilot is successful, we might expect the migration to continue on all the 54,000 workstations owned by the federal administrations.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Sep 07, 2026 23:34",
-    "published_at": "2026-09-07T23:34:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Instead of Fighting AI, Some Teachers Work It Into Their Lessons",
-    "link": "https://news.slashdot.org/story/26/09/07/0021232/instead-of-fighting-ai-some-teachers-work-it-into-their-lessons?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Last year the writing program at the University of Baltimore used an app that tracks students while they're writing in Google Docs, offering teachers a video playing back revisions \"with a scoreboard of all the edits, pastes and minutes spent on it,\" writes the Washington Post. \"Is it surveillance? Yes, I think obviously,\" says the program's director. \n\nBut was there a better way?\n\nShe is one of a dozen educators around the country who told The Post that they're experimenting with a different approach to student use of generative artificial intelligence this school year. Teachers and professors are throwing out old assignments, installing new policies and protocols, and incorporating AI built for the classroom, rather than feeling forced to choose between returning to pencil and paper or acting like the AI police. \n\nHer new lesson plan even incorporates generative AI in a controlled way to let her evaluate students' critical thinking skills. She created chatbots using BoodleBox, the university's AI vendor, that allow instructors to see both sides of the conversation. For an assignment testing students' ability to make evidence-based arguments, they participate in a simulated school board meeting about banning books. It involves debating chatbots designed by Zeleny with names like the Confrontational Parent. Writing students usually turn in business proposals and research papers. This semester, instructors are starting to ask instead for transcripts of conversations a student had with a chatbot, a handwritten outline of their composition, and a video reflection of how they felt about the work. \"In a lot of ways, we have made these assignments harder, but writing should have always had more detailed checkpoints along the way,\" she said.\n\n\n\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Sep 07, 2026 20:34",
-    "published_at": "2026-09-07T20:34:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Shelly 3.1.3 GUI Package Manager for Arch Linux Improves AppImage Support",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367319",
-    "description": "Shelly 3.1.3 has been released today as a new stable update in the Shelly 3.1 series of this pacman alternative for Arch Linux distributions, introducing several new features and enhancements.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367319",
-    "date": "Sep 07, 2026 20:16",
-    "published_at": "2026-09-07T20:16:48Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Mysterious x86 CPU Already Has APX, x86S Where Intel Left Off For Legacy-Free x86",
-    "link": "https://www.phoronix.com/news/x86-CPU-With-APX-x86S",
-    "description": "The mystery deepens around an x86 implementation from a corporate entity other than AMD and Intel and has been making some very intriguing changes for coming from a seeming start-up. Beyond 16 tile and 32 tile AMX implementations that already surpass Intel's current Advanced Matrix Extensions (AMX) capabilities in shipping Xeon CPUs, new disclosures were made today concerning Advanced Performance Extensions (APX), Flexible Return and Event Delivery (FRED), and even x86S as the effort that Intel previously stopped for cleaning up the x86 baggage...",
-    "guid": "https://www.phoronix.com/news/x86-CPU-With-APX-x86S",
-    "date": "Sep 07, 2026 19:54",
-    "published_at": "2026-09-07T19:54:23Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Ubuntu 26.10 amd64v3 Daily ISOs Now Being Published",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367329",
-    "description": "As an interesting development for Ubuntu 26.10, the daily ISOs of the \"Stonking Stingray\" now include amd64v3 images...",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367329",
-    "date": "Sep 07, 2026 18:45",
-    "published_at": "2026-09-07T18:45:19Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
   }
 ]
