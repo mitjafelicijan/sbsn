@@ -1,5 +1,321 @@
 [
   {
+    "title": "The Apple Watch Gets Its Siri AI Upgrade",
+    "link": "https://hardware.slashdot.org/story/26/09/10/0244249/the-apple-watch-gets-its-siri-ai-upgrade?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from Wired: Apple has unveiled the Apple Watch Series 12 and Ultra 4 today during itsSeptember hardware event. The new models retain the signature designs of their predecessors but add a faster S11 chip, new health and fitness features, and the watchOS 27 software update announced atWWDC last June. Both the Series 12 and Ultra 4 run on the upgraded S11 chip, which Apple says delivers faster CPU and GPU performance, along with improved Siri capabilities. Apple is also expanding the smartwatch's wellness-tracking suite with a redesigned Health app that includes a Longevity tab with new metrics, like Health Age and a Readiness score.\n \nThere's also a new \"Health Sensing System,\" designed with 32 electrodes for more accurate readings (the Series 11 only had two), photodiodes organized in a ring to capture light more efficiently, and new LEDs that allow heart rate measurements to be collected every 5 seconds, giving you a continuous stream of heart data throughout the day. Apple Watch Series 12 also includes faster charging, though battery life remains at 24 hours. Meanwhile, the Ultra 4 increases battery life to 50 hours.\n \nWatchOS 27 also brings deeper Siri and Apple Intelligence integration, including AI-suggested apps, new one-handed gestures, expanded workout and women's health tracking, and Siri Recap for real-time transcription and translation.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Sep 10, 2026 15:00",
+    "published_at": "2026-09-10T15:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Mesa on Android: Bringing Turnip, SkiaVK, and Cuttlefish to CI",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367391",
+    "description": "Turnip is the first Mesa driver to achieve official Vulkan conformance on Android, with stronger Android integration, shared Vulkan runtime improvements, and real-device CI testing on Qualcomm Adreno hardware.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367391",
+    "date": "Sep 10, 2026 14:40",
+    "published_at": "2026-09-10T14:40:13Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "The deeply mysterious delivery adventure Truckful arrives in October",
+    "link": "https://www.gamingonlinux.com/2026/09/the-deeply-mysterious-delivery-adventure-truckful-arrives-in-october/",
+    "description": "MythicOwl and Pocketpair Publishing have announced that Truckful, their peaceful looking delivery sim with plenty of mystery releases October 9th.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/the-deeply-mysterious-delivery-adventure-truckful-arrives-in-october/",
+    "date": "Sep 10, 2026 13:59",
+    "published_at": "2026-09-10T13:59:44Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/554719356id29740gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "No Man's Sky Cosmos preps for Steam Frame plus - orbital construction, alliances, colossal shipwrecks and tons more",
+    "link": "https://www.gamingonlinux.com/2026/09/no-mans-sky-cosmos-preps-for-steam-frame-plus-orbital-construction-alliances-colossal-shipwrecks-and-tons-more/",
+    "description": "Hello Games are truly expanding No Man's Sky into a forever space sandbox aren't they? The new Cosmos update is out and it's another massive one.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/no-mans-sky-cosmos-preps-for-steam-frame-plus-orbital-construction-alliances-colossal-shipwrecks-and-tons-more/",
+    "date": "Sep 10, 2026 13:35",
+    "published_at": "2026-09-10T13:35:38Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/545975395id29739gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Julia 1.13 released",
+    "link": "https://lwn.net/Articles/1093567/",
+    "description": "Version\n1.13 of the Julia programming language\nhas been released. Highlights include faster precompilation of packages,\nimprovements to Julia's REPL, and Juliaup,\na graphical interface for the Julia version manager. A full list of changes can\nbe found in the release\nnotes. LWN covered Julia\n1.12 in November 2025.\n\n",
+    "guid": "https://lwn.net/Articles/1093567/",
+    "date": "Sep 10, 2026 13:23",
+    "published_at": "2026-09-10T13:23:50Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "Security updates for Thursday",
+    "link": "https://lwn.net/Articles/1093566/",
+    "description": "Security updates have been issued by AlmaLinux (389-ds-base, ansible-core, buildah, expat, glib2, gpsd, gpsd-minimal, gzip, kernel, kernel-rt, opentelemetry-collector, osbuild-composer, perl-DBI, python-lxml, python3.12-lxml, qt5-qtbase, thunderbird, valkey, vim, and xz), Debian (pyasn1), Fedora (darktable, freeipa, freerdp2, gdk-pixbuf2, GitPython, libsoup3, openssl, perl-Net-DNS, rust-ppmd-rust, samba, and valkey), Mageia (ceph, firefox, nss, perl-DBI, thunderbird, and wget), Oracle (389-ds-base, buildah, expat, git-lfs, glib2, glibc, gpsd, gpsd-minimal, grafana-pcp, kernel, libssh, nginx, perl-GD, python3.14-cryptography, redis:7, skopeo, thunderbird, valkey, xmlrpc-c, and xz), Slackware (xz), SUSE (bzip2, cpio, curl, dracut, fuse-overlayfs, golang-github-vpenso-prometheus_slurm_exporter, helm, java-1_8_0-ibm, kbfs, kernel, kernel-devel, libopenslide-devel, libsoup, libssh2_org, libusb-1_0, libvirt, libzypp, zypper, mcphost, multipath-tools, NetworkManager, opensc, openssl-3, perl-Net-DNS, python-aiohttp, python-Authlib, python-pip, python-sqlparse, python313-dnspython, python313-idna, rpcbind, sssd, strongswan, systemd, tomcat11, ucode-intel, and wget), and Ubuntu (dotnet8, dotnet10, ffmpeg, flatpak, netty, and perl).",
+    "guid": "https://lwn.net/Articles/1093566/",
+    "date": "Sep 10, 2026 13:14",
+    "published_at": "2026-09-10T13:14:35Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": " Old MacBook uses a mirror, webcam, and AI agent to code its own AMD GPU drivers — 'agent-first' Omarchy Linux debugs itself, AI can check its own progress on screen in real-time ",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/old-macbook-uses-a-mirror-webcam-and-ai-agent-to-code-its-own-amd-gpu-drivers-agent-first-omarchy-linux-debugs-itself-ai-can-check-its-own-progress-on-screen-in-real-time",
+    "description": " Using an 'age of agents' Linux distro a 'MacBook is using its webcam to look at its screen in a mirror to improve AMD Radeon chip support.' ",
+    "guid": "g7KDzwDDvnxCtyTzPyPMGQ",
+    "date": "Sep 10, 2026 13:00",
+    "published_at": "2026-09-10T13:00:00Z",
+    "image": "https://cdn.mos.cms.futurecdn.net/c3WrJMcfqqatjiW9w8iTwD-1280-80.jpg",
+    "source": "tomshardware.com",
+    "source_url": "https://www.tomshardware.com/software/operating-systems/linux"
+  },
+  {
+    "title": "FOSS Weekly #26.37: Swiss Linux Move, Flyline, PPA Guide, Fedora Win Over Windows and More",
+    "link": "https://feed.itsfoss.com/link/24361/17444269/foss-weekly-26-37",
+    "description": "Omarchy is an unstoppable force.",
+    "guid": "6aa15b82ba8fa200015199c9",
+    "date": "Sep 10, 2026 12:57",
+    "published_at": "2026-09-10T12:57:06Z",
+    "image": "https://itsfoss.com/content/images/2026/09/foss-weekly-1.webp",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "Intel BFF Driver Slated For Linux 7.4 Introduction",
+    "link": "https://www.phoronix.com/news/Intel-BFF-Driver-For-Linux-7.4",
+    "description": "Last month I covered Intel posting a new driver named \"BFF\" for the Linux kernel. This BFF driver is for a new hardware feature debuting with next-gen Diamond Rapids processors for better dealing with aging CPU silicon where some bits may become stuck over time...",
+    "guid": "https://www.phoronix.com/news/Intel-BFF-Driver-For-Linux-7.4",
+    "date": "Sep 10, 2026 12:54",
+    "published_at": "2026-09-10T12:54:35Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "From Livestream To Library: Publishing Flock To Fedora's Session Recordings",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367358",
+    "description": "After months of good old fashioned struggle with Google Drive and YouTube Studio, we were finally able to prepare the video sessions from the 2025 and 2026 Flock To Fedora event livestreams. These are now released to our YouTube and PeerTube communities. This article describes the details of the entire process that got us from the raw footage to the […]",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367358",
+    "date": "Sep 10, 2026 11:37",
+    "published_at": "2026-09-10T11:37:14Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "NVIDIA NVK Driver Lands Improvement To Help With Valve's Gamescope",
+    "link": "https://www.phoronix.com/news/NVIDIA-NVK-BAR-Host-Cached",
+    "description": "Merged today for next quarter's Mesa 26.3 release is an improvement for the open-source NVIDIA \"NVK\" Vulkan driver paired with the Nouveau kernel driver. This latest NVK improvement benefits usage of Valve's Gamescope micro-compositor and should help with performance during game recording and remote play...",
+    "guid": "https://www.phoronix.com/news/NVIDIA-NVK-BAR-Host-Cached",
+    "date": "Sep 10, 2026 11:17",
+    "published_at": "2026-09-10T11:17:47Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Europe May Finally Have Found a Space Entrepreneur Who Is Meeting the Moment",
+    "link": "https://science.slashdot.org/story/26/09/10/0236233/europe-may-finally-have-found-a-space-entrepreneur-who-is-meeting-the-moment?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "French entrepreneur Helene Huby is emerging as one of Europe's most ambitious space leaders, with The Exploration Company raising a record $450 million Series C as it develops the Nyx cargo capsule, a crewed spacecraft, and a reusable heavy-lift rocket. Huby argues Europe risks falling irrelevance without a much larger rocket flying at high cadence. Her company is targeting a 400,000-pound-thrust methane engine test by 2028 and an aggressive 2033 timeline for the launcher. Ars Technica reports: \"The fundraise we have done right now is not sufficient to build the massive rocket we have in mind, so there will be another fundraise,\" she said. \"Right now, we're going to be very, very focused on the execution. We must dock with the space station, with the capsule, as fast as possible. We must build this rocket engine and de-risk it as fast as possible. I think once one of these two milestones is achieved, we'll be talking fundraise again.\"\n \nCritics may look at Huby and her company and say that is a lot of big talk for a company that only has a single, partial success in spaceflight to its credit. And sure, it is. But that's kind of the point. So much of the spaceflight community in Europe has been concerned with either the large aerospace primes seeking government handouts to protect their turf or small launch startups. There has been a stunning lack of big, visionary thinking.\n \nFew people on the continent seem to recognize that multibillion investments by US companies such as SpaceX, Blue Origin, and Amazon in space, and their many imitators in China, are radically transforming spaceflight. As the world changes, Huby does not seem willing to stand on the sidelines in Europe and bemoan capitalism in space. Rather, she seems to be saying it is not too late for Europe to seize the day.\n \n\"We need to have European politicians who are ambitious,\" she said. \"Entrepreneurs cannot do this alone. We need to be backed by the politicians and by the European Space Agency. But we have to start by achieving the crazy targets that we've set up for ourselves. That will give trust to others to believe in what we're doing.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Sep 10, 2026 11:00",
+    "published_at": "2026-09-10T11:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "X.Org Server 26.1 Moves Closer To Release As Half-Decade Update",
+    "link": "https://www.phoronix.com/news/X.Org-Server-26.1-Released",
+    "description": "We're getting closer to the X.Org Server 26.1 stable release as the first new tagged feature release since X.Org Server 21.1 debuted back in October 2021. There have been some new features, many code reverts, and many bug fixes merged over the past five years that will culminate with the X.Org Server 26.1 stable release...",
+    "guid": "https://www.phoronix.com/news/X.Org-Server-26.1-Released",
+    "date": "Sep 10, 2026 10:29",
+    "published_at": "2026-09-10T10:29:00Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "GNOME 51 Adds Support For Custom Pointer Acceleration Profiles",
+    "link": "https://www.phoronix.com/news/GNOME-51-Custom-Accel-Profiles",
+    "description": "As a last minute change ahead of next week's GNOME 51 desktop release, changes to Mutter and gsettings-desktop-schemas have now landed for supporting custom pointer acceleration profiles...",
+    "guid": "https://www.phoronix.com/news/GNOME-51-Custom-Accel-Profiles",
+    "date": "Sep 10, 2026 10:16",
+    "published_at": "2026-09-10T10:16:56Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "METAL SLUG ULTIMATE COLLECTION announced for Steam",
+    "link": "https://www.gamingonlinux.com/2026/09/metal-slug-ultimate-collection-announced-for-steam/",
+    "description": "SNK recently announced the METAL SLUG ULTIMATE COLLECTION which will come to Steam sometime in 2027.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/metal-slug-ultimate-collection-announced-for-steam/",
+    "date": "Sep 10, 2026 10:13",
+    "published_at": "2026-09-10T10:13:49Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/231554468id29738gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "System76 Unveils Thelio Mira AI for Local AI Workloads",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367372",
+    "description": "The new Thelio Mira AI Linux workstation starts at $3,299, offering Ryzen 9000 CPUs, multi-GPU support, and up to 192 GB of GPU memory.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367372",
+    "date": "Sep 10, 2026 10:05",
+    "published_at": "2026-09-10T10:05:45Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "COSMIC Epoch 1.8 Provides Latest Fixes \u0026 Minor Improvements For This Rust Desktop",
+    "link": "https://www.phoronix.com/news/COSMIC-Epoch-1.8",
+    "description": "Released overnight was the newest version of the Rust-based COSMIC desktop environment developed by System76 as part of the effort on their  Pop!_OS Linux distribution...",
+    "guid": "https://www.phoronix.com/news/COSMIC-Epoch-1.8",
+    "date": "Sep 10, 2026 10:04",
+    "published_at": "2026-09-10T10:04:04Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "GNU Automake 1.19 Released With More Than One Year Worth Of Fixes",
+    "link": "https://www.phoronix.com/news/GNU-Automake-1.19",
+    "description": "For those continuing to use GNU Automake over the likes of Meson or CMake for your build system, Automake 1.19 is out today as the first new release in 15 months. Among the many fixes in this release is for a bug dating back 14 years...",
+    "guid": "https://www.phoronix.com/news/GNU-Automake-1.19",
+    "date": "Sep 10, 2026 09:50",
+    "published_at": "2026-09-10T09:50:14Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Watch - Valve's GDC 2026 talk on how they're helping developers succeed on PC",
+    "link": "https://www.gamingonlinux.com/2026/09/watch-valves-gdc-2026-talk-on-how-theyre-helping-developers-succeed-on-pc/",
+    "description": "Valve went along to GDC Festival of Gaming 2026 to give a talk titled \"Steam Platform 2026: How Valve is Helping Game Developers Succeed on PC Gaming\".Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/watch-valves-gdc-2026-talk-on-how-theyre-helping-developers-succeed-on-pc/",
+    "date": "Sep 10, 2026 09:42",
+    "published_at": "2026-09-10T09:42:32Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1386587221id29737gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Try the new demo for If Red Then Stop - a traffic coding automation puzzler",
+    "link": "https://www.gamingonlinux.com/2026/09/try-the-new-demo-for-if-red-then-stop-a-traffic-coding-automation-puzzler/",
+    "description": "If you love puzzle games that teach a little programming and automation - If Red Then Stop looks like your next visit.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/try-the-new-demo-for-if-red-then-stop-a-traffic-coding-automation-puzzler/",
+    "date": "Sep 10, 2026 09:16",
+    "published_at": "2026-09-10T09:16:15Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1860355990id29736gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Denshattack! review",
+    "link": "https://www.gamingonlinux.com/2026/09/denshattack-review/",
+    "description": "Denshattack! is about becoming the greatest acrobatic train driver in Japan by competing in over-the-top battles by flipping trains like they're skateboards.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/denshattack-review/",
+    "date": "Sep 10, 2026 09:09",
+    "published_at": "2026-09-10T09:09:06Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1528501438id29735gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "ODROID-M1S goes Lite with 2GB RAM, NVMe and 4K video",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367356",
+    "description": "Hardkernel has spun its ODROID-M1S into a Lite version, offering a lower-cost configuration of the RK3566-based single-board computer. The board includes 2GB of LPDDR4 memory, soldered eMMC storage, Gigabit Ethernet, HDMI 2.0, MIPI-DSI, USB 3.0, an M.2 NVMe slot, and Ubuntu support. The ODROID-M1S Lite is based on Rockchip’s RK3566 processor, which integrates four Arm […]",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367356",
+    "date": "Sep 10, 2026 08:34",
+    "published_at": "2026-09-10T08:34:15Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Spy Drops Gaiden looks like a fun retro stealth-action throwback",
+    "link": "https://www.gamingonlinux.com/2026/09/spy-drops-gaiden-looks-like-a-fun-retro-stealth-action-throwback/",
+    "description": "Spy Drops Gaiden is channelling some retro Metal Gear here with their upcoming old school 2D stealth action game that arrives in October.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/spy-drops-gaiden-looks-like-a-fun-retro-stealth-action-throwback/",
+    "date": "Sep 10, 2026 07:44",
+    "published_at": "2026-09-10T07:44:00Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1264522294id29734gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "PHYSINT from Hideo Kojima moves from PlayStation to XBOX",
+    "link": "https://www.gamingonlinux.com/2026/09/physint-from-hideo-kojima-moves-from-playstation-to-xbox/",
+    "description": "PHYSINT, a new action-stealth game coming from Hideo Kojima has split from PlayStation and jumped over to XBOX.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/physint-from-hideo-kojima-moves-from-playstation-to-xbox/",
+    "date": "Sep 10, 2026 07:26",
+    "published_at": "2026-09-10T07:26:08Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1826905014id29733gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Distro of the Week: SparkyLinux 8.4 KDE Plasma",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367370",
+    "description": "Test-driving this Polish distro based on Debian a year ago, Distro of the Week liked it overall. With a few improvements added, SparkyLinux 8.4 - code-named \"Seven Sisters\" to keep with their constellation motif - is both fast and versatile, two items that make it a hallmark distro.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367370",
+    "date": "Sep 10, 2026 07:02",
+    "published_at": "2026-09-10T07:02:46Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Dark Energy Debunked? Cosmic Acceleration May Be an Illusion",
+    "link": "https://science.slashdot.org/story/26/09/10/0230225/dark-energy-debunked-cosmic-acceleration-may-be-an-illusion?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "alternative_right shares a report from ScienceDaily: A new analysis of more than 1,700 supernovae is questioning whether the universe is really accelerating at all. After accounting for the ages of the stars that produce these explosions, researchers found signs that cosmic expansion may actually be slowing. They also argue that the apparent acceleration changes with direction, which would be difficult to explain with dark energy. Other cosmologists dispute the conclusion, setting up a major test for upcoming observatories. The analysis has been published in Monthly Notices of the Royal Astronomical Society.\n \nThe conclusion is disputed, though. The report mentions a separate paper co-authored by Professor Maria Vincenzi, also at the University of Oxford, that \"concludes that observations continue to support an accelerating universe.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Sep 10, 2026 07:00",
+    "published_at": "2026-09-10T07:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Omarchy Linux Quiz",
+    "link": "https://feed.itsfoss.com/link/24361/17444086/omarchy-qa",
+    "description": "Omarchy fan? Test how much you know about the hottest distro of the year 2026.",
+    "guid": "6aa252ecba8fa20001519be5",
+    "date": "Sep 10, 2026 06:56",
+    "published_at": "2026-09-10T06:56:48Z",
+    "image": "https://itsfoss.com/content/images/2026/09/omarchy-quiz.png",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "Steam Beta for Sept 9th has huge changes - Big Art Mode, Screensaver, Proton option changes, Desktop Mode toggle for SteamOS",
+    "link": "https://www.gamingonlinux.com/2026/09/steam-beta-for-sept-9th-has-huge-changes-big-art-mode-screensaver-proton-option-changes-desktop-mode-toggle-for-steamos/",
+    "description": "Valve have been cooking on this one! A new Steam Beta update for September 9th brings some big additions for Desktop gamers and SteamOS systems.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/steam-beta-for-sept-9th-has-huge-changes-big-art-mode-screensaver-proton-option-changes-desktop-mode-toggle-for-steamos/",
+    "date": "Sep 10, 2026 06:56",
+    "published_at": "2026-09-10T06:56:41Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1185202145id29732gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "OpenSSL 4.1 Promises Support for DTLS 1.3, IKEV2 KDF, and GREASE, Alpha Out Now",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367377",
+    "description": "OpenSSL 4.1 is now in public testing with a first alpha release, promising new features and improvements for this open-source, cross-platform, and free software library that provides secure communications over computer networks for applications and websites.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367377",
+    "date": "Sep 10, 2026 05:31",
+    "published_at": "2026-09-10T05:31:16Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Anthropic Reveals Fourth Likely Crime Committed By Its AI",
+    "link": "https://yro.slashdot.org/story/26/09/10/0224247/anthropic-reveals-fourth-likely-crime-committed-by-its-ai?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from The Register: Amid industry soul-searching about the possibility of AI improving itself to the point that it kills everyone, Anthropic has revealed yet another incident that would qualify as a crime if perpetrated by a person. The AI biz published \"an alignment assessment\" detailing four times Claude models accessed third-party systems without authorization. The company has already reported three of the incidents. Evidence of the fourth was lurking in a session transcript dating back to January 2026 when the misbehavior occurred. Anthropic found the first three by scanning around 141,000 transcripts where Claude could have obtained internet access during evaluation. It missed the fourth initially because \"our scan relied on an agentic search.\"\n \n[...] The January 2026 AI trespass involved an early version of Claude Opus 4.6, which was given a Capture the Flag (CTF) challenge under the oversight of the third-party model evaluator where the other hacking events occurred. Opus 4.6 managed to sabotage its chances of success by disabling the machine it was targeting. It assigned the device an IP address that already existed on another piece of hardware, rendering the target unreachable and making it impossible to solve the challenge. Those familiar with other incidents where AI models violated third-party systems may recall that unsolvable tasks represent a common catalyst for misbehavior. Models exhaust all aligned options, and then turn to transgressive approaches.\n \nOpus 4.6 might have been an exception, but when it tried to abort the task after recognizing that it could not reach the target machine, it failed to do so \"due to a misconfiguration in [the model's] evaluation harness.\" It failed to shut down not just once but seven times. So it continued onward, trying other expected means to reach the target machine but failing. Then it explored further. \"The model discovered a machine belonging to a third party that it was able to access, and stated that it believed this third party was part of the CTF,\" Anthropic explained in its post. \"Inside the machine, the model found a file listing a password, which it used to gain admin access to the system.\"\n \nThe model went on to gather more credentials, and modified a system setting to make it easier to access the personal information of an individual associated with the third party evaluation organization. Opus 4.6 might have done more but for the fact that it exhausted its token budget, bringing the session to an end. Anthropic says it's not as concerned about this incident as the others because the model tried to abort its task.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Sep 10, 2026 03:30",
+    "published_at": "2026-09-10T03:30:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
     "title": "[$] LWN.net Weekly Edition for September 10, 2026",
     "link": "https://lwn.net/Articles/1092273/",
     "description": "Inside this week's LWN.net Weekly Edition:\n        \n        \n Front: Rust's never type; Debian and CERN; memory tiering; testing multithreaded Python; fixing TCMalloc; Typst.\n             Briefs: Rustls; Asahi Linux; Buildroot 2026.08; Grml 2026.09; Audacity 4.0; Jellyfin 12.0; LibreOffice Base; Quotes; ...\n             Announcements: Newsletters, conferences, security updates, patches, and more.\n            ",
@@ -251,6 +567,16 @@
     "source_url": "https://www.phoronix.com/"
   },
   {
+    "title": "AI Made A Lot Of \"Hideous\" Code But Found Major Bottlenecks For Faster Linux Compilation",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367355",
+    "description": "An ARM Linux engineer leveraged AI/LLMs to help uncover some improvements to \"significant speed up\" the Linux kernel build times. In the process the LLM used generated \"a lot of code, much of it hideous\" but in the end was used to find some very significant time savings for faster kernel builds via more task parallelization in different areas of the kernel build process...",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367355",
+    "date": "Sep 09, 2026 11:37",
+    "published_at": "2026-09-09T11:37:25Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
     "title": "I love the chunky control panels in the spaceflight simulator In Control: Rocketry",
     "link": "https://www.gamingonlinux.com/2026/09/i-love-the-chunky-control-panels-in-the-spaceflight-simulator-in-control-rocketry/",
     "description": "In Control: Rocketry was revealed by Maximum Entertainment where you have to build and wire up control panels to control space rockets.Read the full article on GamingOnLinux.",
@@ -387,203 +713,5 @@
     "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/302463885id29724gol.webp",
     "source": "gamingonlinux.com",
     "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "The Ur-Quan Masters sequel 'Free Stars: Children of Infinity' gets a Combat Demo",
-    "link": "https://www.gamingonlinux.com/2026/09/the-ur-quan-masters-sequel-free-stars-children-of-infinity-gets-a-combat-demo/",
-    "description": "The upcoming The Ur-Quan Masters (based on Star Control II) sequel Free Stars: Children of Infinity has a first Combat Demo now available.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/09/the-ur-quan-masters-sequel-free-stars-children-of-infinity-gets-a-combat-demo/",
-    "date": "Sep 09, 2026 07:18",
-    "published_at": "2026-09-09T07:18:22Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/324550417id29723gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Age Verification for Steam rolls out in Australia requiring a Credit Card",
-    "link": "https://www.gamingonlinux.com/2026/09/age-verification-for-steam-rolls-out-in-australia-requiring-a-credit-card/",
-    "description": "Valve have rolled out Age Verification requirements on Steam in Australia for 18+ content, requiring users to keep a Credit Card on their account.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/09/age-verification-for-steam-rolls-out-in-australia-requiring-a-credit-card/",
-    "date": "Sep 09, 2026 07:08",
-    "published_at": "2026-09-09T07:08:22Z",
-    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/steam_plain_2025.jpg",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "BleachBit 6.0.4 Cleaner and Privacy Tool Released with Faster Scanning",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367348",
-    "description": "BleachBit 6.0.4 is out with faster startup and scanning, new cleaners for fish, Zsh, Android Studio, Gradle, and Python, plus major security fixes.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367348",
-    "date": "Sep 09, 2026 07:02",
-    "published_at": "2026-09-09T07:02:56Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "OpenAI Says It Has Cracked One of Math's 'Millennium Problems'",
-    "link": "https://science.slashdot.org/story/26/09/08/2228220/openai-says-it-has-cracked-one-of-maths-millennium-problems?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "An anonymous reader quotes a report from The New York Times: OpenAIsaid on Tuesday that its newest artificial intelligence technology had solved one of the \"Millennium Problems,\" a collection of important unanswered math questions meant to push the world's leading mathematicians to new heights. The announcement is an another clear sign that A.I. is fundamentally changing the upper reaches of mathematics, which have long been viewed as a pinnacle of human achievement. The change has excited some mathematicians, while stirring concern among others.\n \nOver the past year, A.I. systems successfully solved a wide range of problems that have bedeviled mathematicians for decades. But these problems were not as complex, nor as closely watched, as the one that OpenAI's technology has solved over the past several days. The Millennium Problems are among the most heavily researched in the field. \"This is a spectacular culmination of the arc we have seen over the past twelve months,\" OpenAI researcher Sebastien Bubeck said of the company's new solution.\n \nThe company announced that one of its latest models, which has not yet been released to the public, needed just 88 hours to solve what mathematicians call \"the Navier-Stokes existence and smoothness problem.\" This problem involves a series of equations that are often used to predict the weather. The equations describe the movement of water and other fluids. The Navier-Stokes problem, which has no clear practical value, asks whether these equations completely break down in certain situations. OpenAI's proof claims to have defined just such a situation.\n \nThis would imply, at least theoretically, that the laws of physics themselves would break down under certain conditions: that, for example, water could be made to spontaneously explode. But mathematicians and physicists do not believe that this mathematical breakdown could really lead to such an outcome in the physical world. The Navier-Stokes problem was one of seven \"Millennium Problems\" selected by the Clay Mathematics Institute in the year 2000 as a way of tracking the progress of mathematics in the new millennium. The institute, founded by an American businessman named Landon T. Clay, offered a million dollars for the first correct solution to each problem. Before OpenAI's announcement, only one of the problems had been solved. OpenAI says it managed to solve the Navier-Stokes problem by coordinating as many as 10,000 AI agents, an extremely expensive process that may have cost millions of dollars in computing power.\n \nFor those curious about the findings, the company has released a paper (PDF) and formal Lean proof.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Sep 09, 2026 07:00",
-    "published_at": "2026-09-09T07:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "CHUWI UniBook With Intel Wildcat Lake For A $449 Linux-Friendly Laptop",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367344",
-    "description": "CHUWI recently launched the UniBook laptop powered by the Intel Core 3 304 \"Wildcat Lake\" SOC and priced at just $449 USD. Especially with today's high component pricing, a brand new sub-$500 laptop is extremely rare. Rather than using some dated SoC, it uses Wildcat Lake as Intel's new value option alternative to the Core 3 Series Ultra \"Panther Lake\" SoCs. This was our first time testing out Intel Wildcat Lake and that SoC plus the overall CHUWI UniBook has been working out well on Linux for those looking at a laptop in the sub-$500 space.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367344",
-    "date": "Sep 09, 2026 05:31",
-    "published_at": "2026-09-09T05:31:27Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "OpenPaper L Launches as a 13.3-Inch Open-Source Color E-Ink Frame",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367353",
-    "description": "OpenPaper L is a 13.3-inch color E-Ink picture frame with open-source hardware and software, Wi-Fi 6, Bluetooth, and offline operation.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367353",
-    "date": "Sep 09, 2026 03:59",
-    "published_at": "2026-09-09T03:59:57Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Star Trek Turns 60",
-    "link": "https://entertainment.slashdot.org/story/26/09/09/0113229/star-trek-turns-60?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "\"Star Trek\" marks its 60th anniversary today, September 8, six decades after the original series premiered in 1966 and went on to become one of the most successful science-fiction franchises in television history. Outlets across the web are commemorating the milestone with full health reports, hot takes, behind-the-scenes retrospectives, and reflections on the franchise's influence and what may lie ahead. The New York Times reports: As of 2026, the 60-year-old science fiction franchise boasts a fandom of carbon units -- sorry, humans -- that spans at least three generations. What began, in 1966, as a five-year space mission on the U.S.S. Enterprise to \"boldly go where no man has gone before\" now represents an anthology of space travel across more than 25 series and films in parts of two centuries. Where once it was James T. Kirk or bust, it's not unusual to find fans who prefer other captains, like Picard, Janeway or Sisko. There are so many series to keep track of that fans often communicate using country code-like abbreviations for each installment: TOS (the original series), TNG (\"The Next Generation\"), DS9 (\"Deep Space Nine\"), ENT (\"Enterprise\") and so on.\n \nOutside the Trekiverse, disparities in generational slang, politics and social mores are practically a foregone conclusion. But \"Star Trek\" functions as connective tissue between fans past and present. Some of that tissue is just shared references: There will always be captain's logs, timelines by stardate, warp factors one through 10, phasers and photon torpedoes and, every now and then, a doctor who insists, \"I'm a doctor, not a ____!\" The Vulcan salute has become a general symbol of geek-recognize-geek, but real Trekkies (or Trekkers, as some prefer) know that \"Live long and prosper\" is only half the message; the recipient is meant to say \"Peace and long life\" in response. But the series' staying power, and the ease with which each generation finds its way into them, is an indication that fans of all ages share not only language, but values, in common. Here are some of our favorite Slashdot stories from the early days. The 2004 \"Should Star Trek Die?\" is an especially good callback today because it features LeVar Burton (Geordi La Forge in Star Trek: The Next Generation) arguing that Trek needs to disappear for several years to become special again...\n \nStar Trek Lawsuit (1998)\n\nSalon Writes on The Troubles with \"Trek\" (1999)\n\nStar Trek's Next Series (2001)\n\nShould Star Trek Die? (2004)\n\nUPN Officially Cancels 'Star Trek: Enterprise' (2005)\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Sep 09, 2026 03:30",
-    "published_at": "2026-09-09T03:30:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "MocaccinoOS 26.09 Adds x86-64-v3 Optimized Builds for Improved Performance",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367351",
-    "description": "The development team behind the Gentoo-based, independently developed MocaccinoOS distribution released MocaccinoOS 26.09 today as the latest stable ISO snapshot with various improvements and updated components.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367351",
-    "date": "Sep 09, 2026 02:28",
-    "published_at": "2026-09-09T02:28:28Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "AI Made A Lot Of \"Hideous\" Code But Found Major Bottlenecks For Faster Linux Compilation",
-    "link": "https://www.phoronix.com/news/AI-To-Faster-Linux-Kernel-Comp",
-    "description": "An ARM Linux engineer leveraged AI/LLMs to help uncover some improvements to \"significant speed up\" the Linux kernel build times. In the process the LLM used generated \"a lot of code, much of it hideous\" but in the end was used to find some very significant time savings for faster kernel builds via more task parallelization in different areas of the kernel build process...",
-    "guid": "https://www.phoronix.com/news/AI-To-Faster-Linux-Kernel-Comp",
-    "date": "Sep 09, 2026 00:49",
-    "published_at": "2026-09-09T00:49:03Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "FEX 2609 Released With Speedier JIT Performance, JIT Disk Cache Option",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367337",
-    "description": "FEX 2609 was released overnight as the newest monthly feature release for this open-source emulator that allows running Linux x86_64 binaries on AArch64, including the likes of Steam and Steam Play (Proton) for enabling Windows games to run rather well on ARM64 Linux systems...",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367337",
-    "date": "Sep 08, 2026 23:23",
-    "published_at": "2026-09-08T23:23:34Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Google Will 'Degrade' Search In Europe to Avoid EU Fines",
-    "link": "https://search.slashdot.org/story/26/09/08/2214256/google-will-degrade-search-in-europe-to-avoid-eu-fines?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Google says it will overhaul Search in Europe to comply with the EU's Digital Markets Act, giving more prominence to comparison services like Expedia and Hotels.com while stripping some real-time features from hotel, airline, and restaurant results. \"These changes degrade the user experience for Europeans -- boosting online intermediaries at the expense of local businesses, and removing helpful features people rely on every day,\" said Nick Fox, senior vice-president of knowledge and information at Google. The company claims its past search changes for DMA compliance were tied to a 30% decrease \"in free, direct booking traffic to European businesses.\" Engadget reports: \nThat sanction was the latest salvo between the EU government and a US tech company for infringing on its Digital Markets Act. The debate centers on the DMA requirement that major tech brands \"must not treat their own services more favorably in ranking than third-party services.\"\n \n[...] According to Reuters, Google's revised search results \"will highlight one specialized search engine at the top of the page, followed by two others with fewer details. A carousel of hotels, airlines and restaurants, for example, will sit below them with key features such as real-time prices stripped out.\" Those specialized engines include sites like Expedia or Hotels.com, also known as vertical search services, so European users may soon see those aggregators and comparison sites prioritized more highly than individual businesses' websites in their results.\n \nReuters noted that \"the rankings will be determined by Google's algorithm,\" meaning the tech company still holds a lot of control over how results are displayed. The EC had given Google 60 days to comply with its rules, but the company has not specified an exact timeline for when European users will start seeing the changes.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Sep 08, 2026 23:00",
-    "published_at": "2026-09-08T23:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "systemd 262-rc2 Adds An AI Canary For Detecting Unreviewed AI/LLM Code Contributions",
-    "link": "https://www.phoronix.com/news/systemd-262-rc2",
-    "description": "One week after releasing systemd 262-rc1, systemd 262-rc2 is now available with further fixes and refinements for this init system and service manager. Systemd is also the latest open-source project introducing an AI canary for aiming to detect AI/LLM-based code contributors that weren't reviewed by an actual person in advance of the pull request...",
-    "guid": "https://www.phoronix.com/news/systemd-262-rc2",
-    "date": "Sep 08, 2026 22:30",
-    "published_at": "2026-09-08T22:30:34Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Feds Accuse China of 'Systematic' Distillation of US AI Models",
-    "link": "https://slashdot.org/story/26/09/08/220242/feds-accuse-china-of-systematic-distillation-of-us-ai-models?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "The NSA, CISA, and FBI are accusing (PDF) several Chinese AI companies of carrying out \"industrial-scale\" distillation campaigns against leading U.S. models such as ChatGPT, Claude, Gemini, and Grok. Since at least 2024, the companies have allegedly routed millions of requests across accounts, APIs, proxies, cloud providers, and third-party aggregators to extract capabilities for their own models. \"China-based artificial intelligence companies are conducting systematic extraction of proprietary functionalities and capabilities of U.S. AI companies' models through industrial-scale knowledge distillation campaigns that form the core -- not merely a supplement -- of their AI development strategy,\" the agencies wrote. CyberScoop reports: DeepSeek, for example, distilled frontier U.S. models to generate synthetic training data for its R1 and R3 models, including four different versions of Claude, two versions of Gemini, five versions of ChatGPT and Grok 4. Those models helped train DeepSeek's capabilities in areas like agentic functioning, question and answer optimization, creative and occupational writing and others.\n \nAnother Chinese company, Moonshot AI, allegedly distilled 18 different U.S. models -- including Fable 5, Anthropic's current, most advanced commercially available model -- to train its Kimi-K2 and Kimi K3 models. The company used millions of queries meant to extract enhanced capabilities in areas like agentic reasoning, coding and data analysis, computer vision, larger logical frameworks, visual processing and others.\n \nChinese AI companies manage a sophisticated set of tools and systems that route requests and prompts through multiple pathways to avoid detection. The advisory lists common tactics observed by Chinese companies, including spreading requests across different accounts, models and platforms, using native APIs, remote cloud providers, and third-party aggregators to obfuscate user metadata, and leveraging proxies and gray tech markets to get around geographic restrictions, terms of use and safeguards built into frontier models.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Sep 08, 2026 22:02",
-    "published_at": "2026-09-08T22:02:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "GStreamer 1.28.7 Open-Source Multimedia Framework Adds Support for OpenCV 5",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367334",
-    "description": "GStreamer 1.28.7 has been released today as the seventh maintenance update to the latest and greatest GStreamer 1.28 series of this powerful, free, open-source, and cross-platform multimedia framework.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367334",
-    "date": "Sep 08, 2026 21:52",
-    "published_at": "2026-09-08T21:52:04Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Meta Debuts Muse, Its Long-Planned Personal AI Agent",
-    "link": "https://meta.slashdot.org/story/26/09/08/2012246/meta-debuts-muse-its-long-planned-personal-ai-agent?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Meta has launched Muse, a personal AI agent developed under chief AI officer Alexandr Wang. \"The product, long in development, was touted as a key next step by CEO Mark Zuckerberg in his recent 6,500-word manifesto,\" reports Axios. From the report: Muse, as the agent is known, exists in a chat interface, similar to a text thread. It's designed to be more proactive and long-running than typical chatbots. Users can name their agent, create an avatar and customize how it communicates. The Muse agent runs on a dedicated virtual machine in Meta's cloud, using a built-in browser that's visible to the user.\n \nMeta is offering a free tier of Muse, as well as two subscription options, at $20 per month and $100 per month. \"For the vast majority of users, they should be able to do what they need to within the free tier,\" Wang told Axios. \"But for real power users, you know, those subscription tiers help us cover the computer costs.\" There is no advertising within Muse, but Wang said the company is exploring commerce opportunities that could generate additional revenue. Initially Muse will be available in the U.S. and works on iOS, Android and the web, with support coming soon for Meta's AI glasses. \"The full vision in the future is we want to develop personal superintelligence that helps people accomplish their goals, pursue their passions, build things that they never would have built if they didn't have the technology,\" Wang told Axios.\n \nMeta offers users more privacy controls with Muse than in its previous AI products, including the option to prevent queries from being used by Meta and a planned confidential mode where the company cannot see activity inside a user's virtual workspace. There's also an entirely separate system called Sentinel that governs Muse's access to the internet and connected services.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Sep 08, 2026 21:00",
-    "published_at": "2026-09-08T21:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "New Patches Provide HDMI 1.4 3D Mode Support For AMD Radeon Graphics On Linux",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367343",
-    "description": "It turns out one of the feature limitations of the AMDGPU Linux graphics driver is HDMI 1.4 3D output support with frame packing, top-and-bottom, and side-by-side options for transmitting simultaneous video streams. I wasn't aware of this limitation for the lack of any 3D displays and many Linux enthusiasts/gamers as well, but if you happen to have a compatible HDMI 1.4 3D display, there are pending patches to finally make this a reality...",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367343",
-    "date": "Sep 08, 2026 20:20",
-    "published_at": "2026-09-08T20:20:34Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Australia To Let Social Media Users 'Opt Out' of Algorithm-Based Feeds",
-    "link": "https://tech.slashdot.org/story/26/09/08/1959259/australia-to-let-social-media-users-opt-out-of-algorithm-based-feeds?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Australia is proposing the \"My Feed, My Way\" initiative that would force social media platforms to let users over 16 turn off algorithmic recommendations and instead see only posts from people and creators they follow. Platforms that fail to comply could face fines of up to $79 million. CNBC reports: The legislation, which is being drafted and released Tuesday for targeted consultation, would require platforms to send notifications to new and existing users so they can choose their default feed. [...] The measures, set to be introduced to the Parliament of Australia this year, will also require AI chatbots, online games and other digital services to take action to protect under-18s from addictive design features. \"This is not about giving government control. It's about giving people control. It's about putting choice back into the hands of Australians online,\" said Prime Minister Anthony at a press conference on Tuesday.\n \n\"This is sensible, pragmatic, practical reform. It gives users choice, and it will hold the big tech companies responsible for inaction.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Sep 08, 2026 20:01",
-    "published_at": "2026-09-08T20:01:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "DLSS5VKLayer Wires Up NVIDIA DLSS 5 For Native Linux Games \u0026 Steam Play",
-    "link": "https://www.phoronix.com/news/DLSS5VKLayer",
-    "description": "An interesting new open-source project for those looking to make use of NVIDIA DLSS 5 on Linux is DLSS5VKLayer. The DLSS5VKLayer is a Linux Vulkan layer that works for both native Linux games as well as Steam Play (Proton) Windows games for experimental DLSS 5 support...",
-    "guid": "https://www.phoronix.com/news/DLSS5VKLayer",
-    "date": "Sep 08, 2026 19:31",
-    "published_at": "2026-09-08T19:31:22Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "KDE Plasma 6.7.5 Desktop Environment Is Out with Many Improvements and Fixes",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367341",
-    "description": "The KDE Project released KDE Plasma 6.7.5 today as the fifth maintenance update to the latest KDE Plasma 6.7 desktop environment series with various improvements and plenty of bug fixes.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367341",
-    "date": "Sep 08, 2026 18:49",
-    "published_at": "2026-09-08T18:49:05Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
   }
 ]
