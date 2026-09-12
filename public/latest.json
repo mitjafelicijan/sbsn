@@ -1,5 +1,140 @@
 [
   {
+    "title": "Intel Reverses Decision To Cancel Their Open-Source Font Project",
+    "link": "https://www.phoronix.com/news/Intel-One-Mono-Saved",
+    "description": "Amid Intel cutting back on open-source projects over the past two years as cost cutting measures at the company, their latest open-source project on the chopping block was the peculiar font they developed a few years back. The project was archived this week only to change course two days later...",
+    "guid": "https://www.phoronix.com/news/Intel-One-Mono-Saved",
+    "date": "Sep 12, 2026 13:45",
+    "published_at": "2026-09-12T13:45:00Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Scientists Create a New Form of Ice At 2,357 Degrees Celsius",
+    "link": "https://science.slashdot.org/story/26/09/11/2249242/scientists-create-a-new-form-of-ice-at-2357-degrees-celsius?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Longtime Slashdot reader fahrbot-bot shares a report from ScienceAlert: Scientists have now demonstrated one of the weirdest forms of ice yet -- under preposterous pressures up to 2.3 million atmospheres, and tremendous temperatures up to 2,630 kelvins (2,357 degrees Celsius, or 4,274 degrees Fahrenheit). [...] In their new experiments, a team led by physicist Alexis Forestier of the French Alternative Energies and Atomic Energy Commission subjected tiny samples of water to the sorts of extreme conditions expected in the interiors of ice giant planets.\n \nThey squeezed the samples between the tips of diamonds to pressures as high as 230 gigapascals, while using lasers to heat them to thousands of degrees. That's 2.3 million times Earth's atmospheric pressure at sea level â\" the pressure at the center of Earth, for context, is around 360 gigapascals. Then, using an extremely narrow beam of synchrotron X-rays, they probed for changes in the crystal structure of the ice.\n \nWhat emerged was a configuration predicted theoretically but never unambiguously observed in experiments: hexagonal close-packed, or hcp, ice. As the hcp crystal was heated, its expansion also showed a signature of superionic behavior, suggesting it entered the superionic state at around 1,700 kelvins. [Superionic ice is thought to exist deep inside Uranus and Neptune, where its unusual properties may play a role in generating the planets' equally unusual magnetic fields.] The findings have been published in Physical Review Letters.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Sep 12, 2026 13:00",
+    "published_at": "2026-09-12T13:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "This Tiny Fingerprint Key Unlocks Linux, Approves SSH and AI Agents",
+    "link": "https://feed.itsfoss.com/link/24361/17446441/immurok-review",
+    "description": "Immurok is a wireless fingerprint reader that wants to guard your sudo, your SSH logins, your TOTP codes, and even your AI coding agent. Here is how it held up on Linux over a week of daily use.",
+    "guid": "6aa4ed7cba8fa20001526048",
+    "date": "Sep 12, 2026 11:30",
+    "published_at": "2026-09-12T11:30:15Z",
+    "image": "https://itsfoss.com/content/images/2026/09/imurok-fp-device-thumbnail.webp",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "GTK 4.24 Released With Better Fractional Scaling, More Precise GDK Frame-Clock",
+    "link": "https://www.phoronix.com/news/GTK-4.24-Released",
+    "description": "GTK 4.24 released on Friday as the newest stable feature release to the GTK4 toolkit. It's quite a nice update to GTK4 for pairing with next week's GNOME 51 desktop release...",
+    "guid": "https://www.phoronix.com/news/GTK-4.24-Released",
+    "date": "Sep 12, 2026 10:52",
+    "published_at": "2026-09-12T10:52:32Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Intel Linux NPU Driver Only Now Officially Supports Ubuntu 26.04 LTS",
+    "link": "https://www.phoronix.com/news/Intel-Linux-NPU-Driver-1.38",
+    "description": "Releasing on Friday was the Intel Linux NPU Driver 1.38 as the user-space open-source driver components for leveraging the Core Ultra Neural Processing Unit (NPU) under Linux in conjunction with the upstream IVPU kernel accelerator driver...",
+    "guid": "https://www.phoronix.com/news/Intel-Linux-NPU-Driver-1.38",
+    "date": "Sep 12, 2026 10:34",
+    "published_at": "2026-09-12T10:34:25Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Ubuntu Developers Contemplate Linux Firmware HWE Package",
+    "link": "https://www.phoronix.com/news/Ubuntu-Considers-Linux-Firm-HWE",
+    "description": "A possible future enhancement being considered for Ubuntu Long Term Support \"LTS\" releases is the introduction of a linux-firmware-hwe package as part of their hardware enablement (HWE) stack...",
+    "guid": "https://www.phoronix.com/news/Ubuntu-Considers-Linux-Firm-HWE",
+    "date": "Sep 12, 2026 10:25",
+    "published_at": "2026-09-12T10:25:11Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "KDE Plasma 6.8 Remote Desktop To Enjoy Lower Latency Performance",
+    "link": "https://www.phoronix.com/news/KDE-Plasma-6.8-KRDP-Lower-Lat",
+    "description": "Along with KDE Plasma 6.8 beta releasing this week, there were some other interesting Plasma changes this week worthy of a shout-out...",
+    "guid": "https://www.phoronix.com/news/KDE-Plasma-6.8-KRDP-Lower-Lat",
+    "date": "Sep 12, 2026 10:07",
+    "published_at": "2026-09-12T10:07:48Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "openSUSE’s Agama Installer 24 Released with Improved Storage and AutoYaST Support",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367417",
+    "description": "Agama 24 improves storage device selection, regional settings, network configuration, accessibility, and AutoYaST compatibility.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367417",
+    "date": "Sep 12, 2026 09:11",
+    "published_at": "2026-09-12T09:11:18Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Little Mercury May Be Shrinking Faster Than Scientists Expected",
+    "link": "https://science.slashdot.org/story/26/09/11/2050204/little-mercury-may-be-shrinking-faster-than-scientists-expected?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "A new study suggests Mercury may have shrunk about 30% more than scientists previously thought, losing as much as 14 miles in diameter as its interior cooled and contracted over billions of years. \"That's significant for a planet barely 3,000 miles (4,900 kilometers) across,\" reports the Associated Press. From the report: Mercury's rough surface, continually reshaped by debris hurled from impact craters, may have hidden the true extent of the loss, according to the researchers whose findings appear in the journal Geophysical Research Letters. The news comes one week after a pair of European and Japanese spacecraft shed its cruising platform and advanced toward Mercury. Known as BepiColombo, the linked craft are expected to enter orbit around Mercury in November before splitting up for a fuller survey.\n \nBepiColombo's laser instrument should confirm how much Mercury is withering as a result of internal cooling, said Gaku Nishiyama, the study's lead author who is taking part in the space mission. The shrinkage could be even more than his team is estimating based on measurements from NASA's Messenger spacecraft in the 2010s. Only one other spacecraft has ever visited Mercury, NASA's Mariner 10 in the 1970s.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Sep 12, 2026 09:00",
+    "published_at": "2026-09-12T09:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Proton Experimental updated with fixes for STEINS;GATE RE:BOOT, EA App, Borderlands 4",
+    "link": "https://www.gamingonlinux.com/2026/09/proton-experimental-updated-with-fixes-for-steins-gate-re-boot-ea-app-borderlands-4/",
+    "description": "Valve released a small update for Proton Experimental - the compatibility layer to run Windows games on SteamOS / Linux for September 11th.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/proton-experimental-updated-with-fixes-for-steins-gate-re-boot-ea-app-borderlands-4/",
+    "date": "Sep 12, 2026 08:13",
+    "published_at": "2026-09-12T08:13:24Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1581965311id29752gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "openSUSE Releases Agama 24 Installer with Networking and Storage Improvements",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367418",
+    "description": "The openSUSE project released version 24 of its Agama web-based installer for Tumbleweed, Slowroll, and MicroOS distributions with various improvements across networking, theming, storage, and internationalization.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367418",
+    "date": "Sep 12, 2026 06:08",
+    "published_at": "2026-09-12T06:08:19Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Can Red-Light Therapy Treat Brain Injuries?",
+    "link": "https://science.slashdot.org/story/26/09/11/2037218/can-red-light-therapy-treat-brain-injuries?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "The Athletic reports that researchers at the University of Utah are studying itPBM, a medical-grade red-light therapy that has shown promising signs of reducing brain inflammation and improving cognition, mood, anxiety, motor performance and neural connectivity. The report centers in part on former BYU football star and University of Utah adjunct professor Larry Carr, who says the treatment helped him after years of brain damage from repeated head impacts. An anonymous reader shares an excerpt from the report: ... The knife, the call, the diagnosis in 2013, would lead [Carr] on a life-changing mission -- one in which he and a team of researchers at the University of Utah would eventually compile research that one of those researchers, Elisabeth Wilde, Ph.D, co-director of the Traumatic Brain Injury (TBI) and Concussion Center, calls \"striking.\" The treatment they are studying is called photobiomodulation therapy, or itPBM (intranasal transcranial PBM), also known as red-light therapy. It is different from the kind of superficial red-light usage one can find on social media skincare channels or at a wellness boutique, and its application is broader.\n \nThe research includes multiple studies, and is not just focused on ex-football players, but on women and men in various walks of life. The group recently published their latest results in the Journal of Neurotrauma, based on a study that followed 26 BYU football players throughout a season, suggesting the treatment could \"potentially safeguard neurological health without reduced playing time or contact exposure.\"\n \nDefinitive clinical trials haven't been run yet; broader research and validation is required, and some in the field are skeptical. Carr acknowledges some have told him that it could be \"too good to be true.\" Still, other outside experts who spoke with The Athletic call the findings promising. They make sure to caution: This is not a cure-all, and there is much more to be tested. But the findings have been compelling enough to justify more research and more speculation. Researchers say 14 peer-reviewed studies have linked itPBM with improvements in cognition, mood, anxiety, attention, executive function, motor performance, and other measures, while brain imaging has shown reduced inflammation and improved connectivity.\n \nOne of the most striking findings mentioned in the report came from a study of 26 BYU football players during the 2021 season. Players who did not receive treatment developed significant, widespread brain inflammation, while the treated group showed no comparable increase and even demonstrated reduced inflammation in some brain regions. As researcher Michael Carr put it, \"I believe our BYU data suggests the players' brains using itPBM are actually healthier after the season.\" He added: \"That is a first.\"\n \nCarr also said treated participants showed fewer symptoms of depression, anxiety, stress and PTSD, along with faster processing, better sustained attention and stronger executive function. Researchers have also observed improvements in balance, motor control and grip strength. Taken together, the findings suggest itPBM may have a neuroprotective effect.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Sep 12, 2026 05:00",
+    "published_at": "2026-09-12T05:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "First GNU Automake in 15 Months Adds New ‘Make Dist’ Feature",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367425",
+    "description": "GNU Automake’s first update in 15 months adds an optional archive-format feature and fixes a 14-year-old distribution bug.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367425",
+    "date": "Sep 12, 2026 03:05",
+    "published_at": "2026-09-12T03:05:20Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
     "title": "Male Fruit Fly Brain Trained to Play Doom",
     "link": "https://games.slashdot.org/story/26/09/11/2022239/male-fruit-fly-brain-trained-to-play-doom?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
     "description": "Last week, Google announced that it managed to produce a detailed 3D reconstruction of an adult male fruit fly's brain and central nervous system. A few days later a software engineer at Coinbase said the fly brain was being trained to play the original Doom. \"Each Doom frame stimulates sensory neurons,\" says Alex Wormuth. \"Neural activity is mapped to game controls. Damage triggers a stimulus to two PPL101 dopamine cells as reinforcement.\" Since then, the digital brain model has been repurposed to control other games like Beat Saber and Super Mario 64. PC Gamer reports: You can even watch the fruit fly play in real time via Wormuth's website, and it not only shows the point of view in Doom, but can also show a third-person render of the fly going around Doom maps. As of the time of writing, the fly is on round 6385 and, well, it's not very good. Sorry, fly.\n \nBut modders aren't done here. They have also somehow managed to make the fruit fly play Beat Saber, and play it pretty well. Lyra Bubbles on X has used the brain and replays of a song in Beat Saber to teach the fruit fly where to hit and why, via Reinforcement Learning. That does mean it's not organically reacting to the notes popping up on screen, but it is receiving input and responding to stimuli. Lyra says, \"Further training is to reduce reliance on external signals and allow it to play fully reactively with no input data.\"\n \nAnd, after \"pivoting to fly engineering in 2026\", Jessica Paquette also shared on X their experience running the digital fly brain through Super Mario 64. If you think that is all the game's modders made the fruit fly play, think again, as YouTuber Ro0oney even put it in Minecraft. But this time, Ro0oney used Flywire.AI, a similar project made in collaboration with Princeton University. The number of neurons are different (160,000+ vs 139,255), and Google analyzed a male brain whilst Flywire analyzed a female brain, but the basic idea is the same.\n\n\n\n\n\nRead more of this story at Slashdot.",
@@ -408,6 +543,16 @@
     "source_url": "https://www.gamingonlinux.com/"
   },
   {
+    "title": "BeOS-Inspired Haiku Now Supports Changing Audio Outputs Live, Other Improvements",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367408",
+    "description": "In addition to August bringing the long-awaited Haiku R1 Beta 6 release, there was also a lot of development progress on this BeOS-inspired operating system too during the course of the past month...",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367408",
+    "date": "Sep 11, 2026 07:15",
+    "published_at": "2026-09-11T07:15:57Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
     "title": "SteamVR 2.17 arrives - ready to go for the Steam Frame",
     "link": "https://www.gamingonlinux.com/2026/09/steamvr-2-17-arrives-ready-to-go-for-the-steam-frame/",
     "description": "With a whole lot of new features, improvements and fixes - Valve rolled out SteamVR 2.17 and it's looking ready for the Steam Frame release.Read the full article on GamingOnLinux.",
@@ -425,152 +570,6 @@
     "guid": "",
     "date": "Sep 11, 2026 07:00",
     "published_at": "2026-09-11T07:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Noctalia 5.1 Wayland Shell Adds a Built-In Screenshot Region Editor",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367398",
-    "description": "Noctalia 5.1 introduces a screenshot editor with annotations, alongside cellular connectivity, enterprise Wi-Fi support, and numerous fixes.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367398",
-    "date": "Sep 11, 2026 05:44",
-    "published_at": "2026-09-11T05:44:27Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Climate 'Feedback Loops' Could Worsen Global Warming By 30%, Study Finds",
-    "link": "https://news.slashdot.org/story/26/09/11/0014223/climate-feedback-loops-could-worsen-global-warming-by-30-study-finds?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "An anonymous reader quotes a report from The Guardian: Rising global temperatures caused by the burning of fossil fuels are transforming the world's forests, wetlands and tundra to the point they are releasing emissions that could further worsen global heating by as much as 30%, a new study has found. As the world heats up, permafrost in the high latitudes is thawing, fiercer wildfires are burning in drying forests and wetlands and lakes are warming. All of these changes are themselves causing the release of planet-heating methane and carbon dioxide locked in trees and soils, therefore worsening the climate crisis, the paper states.\n \nWhile scientists have long known of these \"feedback loops\" that amplify the impact of direct pollution from burning coal, oil and gas, the emissions from natural sources are largely unaccounted for in climate projections. This additional heating is however significant, researchers found, with emissions from natural sources set to amplify global heating by 20% to 30% by the end of this century. This would add an estimated 0.2C to 0.4C to the global average temperature by this time, depending on the overall action taken by countries to combat the climate crisis.\n \n[...] This latest paper makes clear that action by countries to cut fossil fuel pollution will still lessen the amount of additional emissions that come from landscapes. Under the most optimistic climate scenario where emissions are cut quickly, natural sources will add 0.2C of warming, the paper found. Under a worse case higher emissions scenario, 0.4C will likely be added. Current policies put in place by governments are likely to see the global temperature rise to 2.6C above pre-industrial times, according to Climate Action Tracker. This will likely cause severe disruption and hardship to billions of people through sea level rise, crop losses and other consequences. \"This hidden multiplier is missing from the models guiding climate policy, so those models are likely underestimating how much warming is coming -- and overestimating how much carbon we can still afford to emit,\" said Sam Abernethy, a scientist at Spark Climate Solutions who led the research, published in Environmental Research Letters.\n \nThe disruption of the worldâ(TM)s carbon cycles is now being seen in \"real time,\" said Rob Jackson, a Stanford University scientist and study co-author. \"The results are a wake-up call, and itâ(TM)s imperative that they be included in the next generation of climate policies,\" he added. \"Failure to do so will make meeting the worldâ(TM)s climate goals less and less likely.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Sep 11, 2026 03:30",
-    "published_at": "2026-09-11T03:30:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "COSMIC 1.8 Desktop Environment Is Officially Out, Improves Touchscreen Support",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367394",
-    "description": "Linux hardware vendor System76 officially released COSMIC 1.8 today after being tagged yesterday as a “pre-release” version with no release notes, so here’s what’s new in this update.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367394",
-    "date": "Sep 11, 2026 02:41",
-    "published_at": "2026-09-11T02:41:29Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Jason Perlow’s New NCZ-OS Scratches Several Itches in One Distro",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367402",
-    "description": "NCZ-OS begins as a Linux answer for new CIX Sky1 Arm systems, with plans down the line for T2-equipped Intel Macs and capable PCs that can't officially upgrade to Windows 11.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367402",
-    "date": "Sep 11, 2026 01:09",
-    "published_at": "2026-09-11T01:09:59Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "BeOS-Inspired Haiku Now Supports Changing Audio Outputs Live, Other Improvements",
-    "link": "https://www.phoronix.com/news/Haiku-OS-August-2026",
-    "description": "In addition to August bringing the long-awaited Haiku R1 Beta 6 release, there was also a lot of development progress on this BeOS-inspired operating system too during the course of the past month...",
-    "guid": "https://www.phoronix.com/news/Haiku-OS-August-2026",
-    "date": "Sep 11, 2026 00:55",
-    "published_at": "2026-09-11T00:55:29Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "GIMP 3.2.6 Released with UX Improvements, New Rotation Stylus Dynamics Input",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367406",
-    "description": "GIMP 3.2.6 is out now as the second maintenance update to the latest GIMP 3.2 series of this open-source, free, and cross-platform image editing software for GNU/Linux, macOS, and Windows.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367406",
-    "date": "Sep 10, 2026 23:38",
-    "published_at": "2026-09-10T23:38:30Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Latest Apple Watch Can Grab Snippets of Conversation Without Both Speakers' Consent",
-    "link": "https://apple.slashdot.org/story/26/09/10/2221244/latest-apple-watch-can-grab-snippets-of-conversation-without-both-speakers-consent?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Apple's new Audio Intelligence features for the Apple Watch Series 12 are drawing privacy concerns because they can process nearby conversations without explicit consent from everyone involved. \"Live Rewind lets you instantly see the last 15 seconds of a conversation as text,\" Apple explains in its technical summary (PDF). \"Siri Recap summarizes conversations throughout your day and produces high-level Apple Intelligence-generated notes so you can stay present in the moment and catch up later.\" The Register reports: The latest Apple Watch comes with Audio Intelligence, a set of AI audio processing capabilities tuned for the company's S11 chip. Its features include: Sound Recognition, Music Recognition with Shazam, Live Rewind, and Siri Recap. [...] With the double-press of the Digital Crown -- as Apple grandly refers to the button on its Watch -- Live Rewind takes in an audio stream from the Watch microphone, processes it in a Secure Exclave on the S11 chip, and routes the data to the user's nearby iPhone, which runs a speech-to-text algorithm on the 15-second audio segment. The resulting text is saved and the audio is discarded.\n \nThe wearer's Watch emits an audible tone, even in silent mode, to alert those in the vicinity and provides a visual cue for those able to see the face of the device. Nonetheless, bystanders alerted to the recording -- to the extent they recognize the meaning of the tone -- have not consented to being recorded, which is a legal requirement in 11 US states that have all-party consent laws.\n \nApple characterizes its implementation of brief eavesdropping as respectful of personal privacy. It makes that claim in a section titled, \"How Live Rewind respects those around you,\" citing the audible chime and visual on-screen animation. Siri Recap, meanwhile, \"summarizes conversations throughout your day and produces high-level Apple Intelligence-generated notes so you can stay present in the moment and catch up later.\"\n \nThis too, Apple describes as an act of respect. \"By design, Siri Recap does not create a recording, does not produce a verbatim transcript, and does not identify and attribute speakers,\" Apple's technical documentation explains. \"The output is a brief, high-level summary, comparable to notes a person might write after a conversation. There is no audible signal because no raw audio is retained, and there is no way to reconstruct the original audio from a Siri Recap or share raw audio with anyone.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Sep 10, 2026 23:00",
-    "published_at": "2026-09-10T23:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "GIMP 3.2.6 Released With Some Early Preparations Toward Eventual GTK4 Port",
-    "link": "https://www.phoronix.com/news/GIMP-3.2.6-Released",
-    "description": "The long-awaited GIMP 3.0 release for transitioning from GTK2 to GTK3 only saw its stable release last year. But with GTK4 already being out for years, GIMP developers have begun making some very early preparations toward an inevitable GTK4 port...",
-    "guid": "https://www.phoronix.com/news/GIMP-3.2.6-Released",
-    "date": "Sep 10, 2026 22:12",
-    "published_at": "2026-09-10T22:12:22Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Anthropic Says It Blocked Possible Efforts to Build Biological Weapons",
-    "link": "https://slashdot.org/story/26/09/10/2138203/anthropic-says-it-blocked-possible-efforts-to-build-biological-weapons?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Anthropic says it has disrupted several cases this year in which scientists used Claude for biological research that could potentially aid bioweapons development. \"In a report describing misuses of its A.I. models, Anthropic said it could not determine whether the research served a legitimate or nefarious purpose because valid biological inquiry -- the kind that can lead to breakthroughs like vaccines -- can also help engineer dangerous pathogens,\" reports The New York Times. \"In the face of that uncertainty, Anthropic said it erred on the side of caution because the consequences of missing malicious activity could be severe.\" From the report: The potential for cutting-edge A.I. models to facilitate the development of known or entirely new biological pathogens is among the gravest concerns experts have about a technology that is developing so rapidly that even its leading architects doubt whether humans will be able to fully control it. Andrew Weber, a senior fellow on the Council on Strategic Risks who reviewed Anthropic's report before its release, said the findings were \"chilling examples of state-sponsored biological weapons developers tapping into the rapidly advancing capabilities\" of leading A.I. models.\n \nThe lengthy report Anthropic published on Thursday cataloged a litany of misuses of its A.I. models, including the chatbot Claude, over the past eight months. Some examples were similar to past disclosures from Anthropic and other A.I. labs, including suspected Chinese and Iranian government-linked actors targeting dissident and diaspora communities for surveillance.\n \nThe report also highlighted cases of Russian state media using Claude to generate online propaganda masquerading as independent reporting, including fabricated claims about an election in Moldova. Anthropic documented another genre of abuse it said was new: attempts to use Claude to develop software for conventional weapons design and development, including firearms, missiles, armed drones and bombs. It detailed three cases in China, two in Russia and one in Yemen. The report does not identify by name which parties were involved in the Yemeni case, but the context makes clear that it is referring to the Iran-backed Houthi militia.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Sep 10, 2026 22:00",
-    "published_at": "2026-09-10T22:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Mesa 26.3 RADV + RadeonSI Ready With DRM Format Modifiers For Older AMD GPUs",
-    "link": "https://www.phoronix.com/news/Mesa-26.3-GFX6-GFX8-Modifiers",
-    "description": "Coming with Linux 7.3 is DRM format modifiers for GFX6 through GFX8 era GPUs covering the original Raddeon HD 7000 (GCN 1.0) graphics cards up through the Polaris and Fiji series. This work by Valve's Timur Kristóf is necessary for these older GPUs to support Vulkan-based Wayland compositors, better interoperability between OpenGL and Vulkan or other APis, compositors running on the Zink OpenGL-on-Vulkan driver implementation, and other benefits. Now merged for Mesa 26.3 is the RadeonSI and RADV user-space side support for making use of the format modifiers on these older GPUs...",
-    "guid": "https://www.phoronix.com/news/Mesa-26.3-GFX6-GFX8-Modifiers",
-    "date": "Sep 10, 2026 21:19",
-    "published_at": "2026-09-10T21:19:11Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Android Rolling Out Passkey Transfers Between Password Managers",
-    "link": "https://yro.slashdot.org/story/26/09/10/1922227/android-rolling-out-passkey-transfers-between-password-managers?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Android is rolling out a system-level way to securely transfer passwords and passkeys between credential managers, eliminating the need to export passwords as unencrypted text files or manually recreate passkeys. The feature initially supports Google Password Manager, 1Password, Bitwarden, and Dashlane, with other providers able to integrate through Android's Credentials Transfer API. 9to5Google reports on how to initiate the system-backed transfer method: 1. Start the move: Open your new password manager app and choose the option to import or copy your passwords and passkeys from another provider. The password manager will then hand the task over to Android.\n\n2. Let Android securely coordinate the data transfer: Android will automatically detect existing password managers on your device and show you which you can import from.\n\n3. Review and authorize: Once you tap \"Continue,\" Android will bring you to your existing password manager to select, review, and authorize the transfer. Then your data will be quickly and securely transferred between the apps in just a few seconds.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Sep 10, 2026 21:00",
-    "published_at": "2026-09-10T21:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Forgejo 16.0.4 and 15.0.8 address critical security vulnerability",
-    "link": "https://lwn.net/Articles/1093671/",
-    "description": "The Forgejo software-forge project has announced the\nrelease of versions 16.0.4\nand 15.0.8,\nwhich fixes two security vulnerabilities. One is a critical flaw that would\nallow remote-code execution (RCE):\n\n\nWhen generating a new repository from a template repository, Forgejo clones the\ntemplate repository, removes the .git folder, performs variable template\nexpansion on files listed in .forgejo/template, and initializes a new git\nrepository. During this process, variable template expansion could be misused in\norder to create a new .git folder, which git would adopt and incorporate during\nits initialization of a new git repository. A malicious template repository\ncould be used to read arbitrary data from the Forgejo host, and to execute\narbitrary processes on the Forgejo host, as a remote code execution attack. To\naddress this issue, after variable expansion is completed, any existing .git\nfolder is removed from the directory before the git repository is initialized.\n\n\nThe project recommends upgrading to the latest version as soon as\npossible.\n\n",
-    "guid": "https://lwn.net/Articles/1093671/",
-    "date": "Sep 10, 2026 20:05",
-    "published_at": "2026-09-10T20:05:50Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "ABC Show Won't Air Interview With Democrat Because of FCC Threats",
-    "link": "https://yro.slashdot.org/story/26/09/10/1914225/abc-show-wont-air-interview-with-democrat-because-of-fcc-threats?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "An anonymous reader quotes a report from Ars Technica: ABC's Jimmy Kimmel said he will be interviewing a Democratic candidate for Senate tonight, but the interview will be on YouTube only and not broadcast on TV because of threats made by the Federal Communications Commission. Kimmel has been a prime target in the Trump FCC's attacks on ABC and its owner, Disney. In his monologue last night, Kimmel said he'll be interviewing Democrat James Talarico, a state representative who is running against Texas Attorney General Ken Paxton for a seat in the US Senate.\n \nIn previous years, such an interview would have aired on the broadcast show via local stations throughout the country, Kimmel said. This time, it will only be on the Jimmy Kimmel Live YouTube channel in order to prevent further trouble for individual stations that hold FCC licenses, he said. \"I'll be interviewing James Talarico tomorrow night under unusual circumstances,\" Kimmel told the audience on Wednesday. \"For a lot of years, for the whole 20-plus years of our show, in fact, I've been interviewing Americans who are running for office with no problem at all, just like Letterman did, Leno did, Arsenio, et cetera, et cetera. I've interviewed a lot of political candidates, from Hillary Clinton to Ted Cruz to Donald Trump himself.\" But as Kimmel said, \"something has changed.\" Disney suspended Kimmel briefly last year after FCC Chairman Brendan Carr threatened to revoke the licenses of ABC stations for \"news distortion\" if they continued to air Kimmel's show. [...]\n \nKimmel said the decision to put the interview on YouTube was made out of consideration for local stations that could face FCC threats to their broadcast licenses. \"And so out of consideration for our local stations, especially our ABC affiliates in Texas who would have to deal with this nonsense, my interview tomorrow with James Talarico will not air on television,\" Kimmel said. \"It will be posted on YouTube instead. It will not be on TV. So if you want to learn about a candidate for the Senate tomorrow, you will have to go to the Jimmy Kimmel Live YouTube channel where you will see it in its entirety, and thank goodness we have that because in the America we live in right now, that is the best that we can do, until November, of course.\" \"Jimmy Kimmel's decision to keep his interview with a Senate candidate off the air shows just how far this administration's campaign of censorship and control has gone,\" FCC Commissioner Anna Gomez, the commission's only Democrat, said today. Gomez said the FCC \"has no lawful authority to threaten broadcast licenses over guest bookings or editorial decisions,\" and that \"no host, local affiliate, or network should have to weigh federal retaliation before booking a guest for a newsworthy interview. Any attempt to pressure broadcasters into self-censorship undermines both press freedom and the public's right to hear from candidates in their communities seeking public office.\"\n \nThe report notes a similar controversy that occurred in February when Stephen Colbert said CBS forbade him from interviewing Talarico. CBS denied prohibiting the interview but said it gave Colbert \"legal guidance that the broadcast could trigger the FCC equal-time rule for two other candidates [...] and presented options for how the equal time for other candidates could be fulfilled.\" That interview also ended up being published on YouTube.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Sep 10, 2026 20:00",
-    "published_at": "2026-09-10T20:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "OpenAI Targets Work of Wall Street Junior Bankers",
-    "link": "https://news.slashdot.org/story/26/09/10/191248/openai-targets-work-of-wall-street-junior-bankers?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "OpenAI has launched ChatGPT for Financial Services, a Wall Street-focused version of ChatGPT Work developed with Morgan Stanley and Evercore that can research companies, analyze financial data, and build presentations using the company's latest and most advanced model, GPT-6 Astra. \"We're effectively teaching ChatGPT to research like an analyst and back up its conclusions like an analyst as well,\" said OpenAI's Vice President of Product, Nick Turley. CNBC reports: The rollout puts OpenAI deeper into territory traditionally occupied by Wall Street's entry-level bankers, the recent college graduates called analysts and associates that the industry has employed for decades to research deals and create pitchbooks. It also showcases the company's continued push into enterprise offerings as it gears up for what is widely expected to be a blockbuster IPO.\n \nIn a live demonstration of the new offering, Turley showed the platform analyzing a potential M\u0026A target, pulling financial figures from industry-standard data sources and creating a formatted PowerPoint deck based on a bank's pre-formatted style guide. \"It's very easy to make slides that look good, but it's much harder to make slides [that] actually make sense,\" Turley said. \"To get here, ChatGPT had to choose the relevant peers. It had to pull the prices into a spreadsheet. It had to check the chart against the data, and it had to explain the selloff and the rebound.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Sep 10, 2026 19:02",
-    "published_at": "2026-09-10T19:02:00Z",
     "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
     "source": "slashdot.org",
     "source_url": "https://slashdot.org/"
