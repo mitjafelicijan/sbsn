@@ -1,5 +1,338 @@
 [
   {
+    "title": "Ubuntu 26.10 Set To Deliver Better Performance For Intel Core 3 Wildcat Lake",
+    "link": "https://www.phoronix.com/review/ubuntu-2610-wildcat-lake",
+    "description": "While Ubuntu 26.04 LTS is working fine out-of-the-box on new Intel Core 3 \"Wildcat Lake\" laptops like the CHUWI UniBook, next month's release of Ubuntu 26.10 will help deliver better performance out of these low-cost laptop options.",
+    "guid": "https://www.phoronix.com/review/ubuntu-2610-wildcat-lake",
+    "date": "Sep 15, 2026 15:34",
+    "published_at": "2026-09-15T15:34:07Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "[$] Adding BPF to blk-iocost",
+    "link": "https://lwn.net/Articles/1093661/",
+    "description": "The scheduling of block I/O requests has long\nbeen a challenge for operating-system kernels.  For many years, the\nperformance characteristics of rotating drives meant that putting\nconsiderable resources into request ordering was worthwhile.  In a world\nwith fast, solid-state drives, scheduling is more concerned with enforcing\nfairness between competing users while being fast enough to keep up with\ndrives that can perform millions of I/O\noperations per second.  The blk-iocost I/O\ncontroller was designed for the solid-state world and generally performs\nwell, but there is always a desire to do better.  This patch\nseries from Tao Cui aims to make blk-iocost more flexible by enabling\nthe loading of a BPF program to make cost decisions.",
+    "guid": "https://lwn.net/Articles/1093661/",
+    "date": "Sep 15, 2026 14:37",
+    "published_at": "2026-09-15T14:37:30Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "Cops Searched Thousands of Flock Cameras for Reasons of 'LMAO,' 'IDK,' 'Hehe,' And 'Asdfg'",
+    "link": "https://yro.slashdot.org/story/26/09/15/0032227/cops-searched-thousands-of-flock-cameras-for-reasons-of-lmao-idk-hehe-and-asdfg?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "404 Media reports:\n\n\n\nLast summer, a cop with the Lake County, Indiana Sheriff's Department used Flock's surveillance search engine to look for a license plate across more than 19,000 cameras in 1,558 cities and towns. The cop's stated reason for the search, according to a record of Flock's system, was \"LMAO.\" \n\nThe cop is one of dozens who put gibberish, jokes, or other nonsense into Flock's \"reason\" box, highlighting the casualness and lack of care some cops have when searching an incredibly powerful surveillance system. This is on top of the thousands upon thousands of cops who simply wrote something like \"investigation,\" \"test,\" or left the box blank as their search \"reason,\" according to a new analysis by the Electronic Frontier Foundation and shared with 404 Media.\n EFF's investigation found cops across dozens of jurisdictions writing \"LMAO,\" \"LOL,\" \"Hehe,\" \"Haha,\" \"idk,\" \"blah,\" \"TBD,\" and \"robbery I don't remember the case number leave me alone\" in Flock's \"reason\" box for searches. \n\n\nThey found cops writing \"idiot,\" \"fuck this new search engine,\" \"dickhead,\" \"shithead,\" and \"WEIRD KID\" in the reason box. And they found an entire class of police button mashers, who ran searches for reasons of \"asdfg,\" \"gyghkkghghjkghjk,\" \"jhjhjkhj,\" \"jkhhkjhjk,\" \"nmbvcbnm,\" and so on and so forth. The searches came from police departments across the country from 2023 through late 2025, when Flock changed how the \"reason\" box in its search system functions... \n\n\nEach time a search is performed, a record of it is saved in the Flock system, which can be obtained by the public using government records requests. These audit logs show hundreds of thousands of searches of the system; after 404 Media and other news outlets used these types of logs to show police using the Flock system to look for undocumented immigrants on behalf of ICE, a woman in Texas who had an abortion, and protesters, cops were warned by government surveillance centers to be \"as vague as permissible\" about the reasons for their searches... \n\nA police department said it investigated a cop who wrote \"driving around being weird\" in the reason field but found it was for \"legitimate public safety purposes.\" \n\n\n\n\n\nIf a police chief \"stood in front of a city council and asked for permission to install hundreds of cameras just so his officers could investigate the high crime of 'haha,' they would be laughed out of the room,\" argues the EFF blog post, calling this proof that agencies can't be trusted to oversee themselves. \n\nBut judges aren't being asked to authorize searches or review evidence, which the EFF post argues shows laws and courts haven't caught up yet with a new technology. Whatever auditing happens is clearly \"deficient,\" the EFF warns, and while many jurisdictions require by law an actual reason for searches, \"this keeps happening because police use automated license plate readers as a convenient shortcut around constitutional privacy safeguards.\" The EFF sees police officers \"making a mockery of our civil liberties\" by logging reasons like \"LOL\", \"LMAO\", \"sexy\", and \"idk\" while accessing sensitive location data. \n\n\nIn fact, they argue the warrant-less databases fostered a culture of abuse that \"allowed police to treat a mass surveillance network like their own personal search engine, permitting the tracking of the movements of everyday citizens for low-level complaints, personal whims, and sometimes, seemingly, for the lols.\"\n\n\nFlock Safety claims it has improved its system by requiring officers to select from a dropdown list of crimes before running a search-but that only makes it easier for officers to hide improper searches behind the veneer of uniformity. The system does not require proof that the dropdown reason actually matches the true purpose of the search... Since this update, officers are no longer required to type out why they are digging through a driver's movement history, and instead can select a pre-packaged option like \"Traffic infraction\" or \"Other\" in half a second... \n\n\nMass surveillance is incompatible with a free society, and especially so when the people with access to this data are treating it like a joke. This ALPR mass surveillance — the indiscriminate, continuous collection and retention of location data on every driver, regardless of suspicion — should not exist. But because it does, EFF continues to urge courts and state legislatures to immediately step in and impose strict, enforceable restrictions to rein in this abuse. At an absolute minimum, this means mandating rigid data deletion deadlines and an ironclad warrant requirement. \n\nIf police want the power to track a person's movements, they must be required to convince a judge with evidence and probable cause. They should not be able to bypass the Constitution with a search for \"haha.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Sep 15, 2026 14:34",
+    "published_at": "2026-09-15T14:34:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Fedora 45 Beta Released With KMSCON Console, GNOME 51 \u0026 Other Updates",
+    "link": "https://www.phoronix.com/news/Fedora-45-Beta",
+    "description": "The beta release of Fedora 45 is out today and right on schedule for this wonderful Linux distribution...",
+    "guid": "https://www.phoronix.com/news/Fedora-45-Beta",
+    "date": "Sep 15, 2026 14:30",
+    "published_at": "2026-09-15T14:30:08Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Latest Raspberry Pi OS Release Brings Dock Support and New Screenshot Tool",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367481",
+    "description": "The Raspberry Pi Foundation published today a new version of its Debian-based Raspberry Pi OS Linux distribution for Raspberry Pi computers with dock support, a new screenshot tool, and more.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367481",
+    "date": "Sep 15, 2026 13:41",
+    "published_at": "2026-09-15T13:41:17Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Java 27 Reaches GA With The G1 Garbage Collector By Default Everywhere",
+    "link": "https://www.phoronix.com/news/OpenJDK-27-Java-27",
+    "description": "Oracle christened Java 27 today with the OpenJDK 27 release reaching general availability (GA) status...",
+    "guid": "https://www.phoronix.com/news/OpenJDK-27-Java-27",
+    "date": "Sep 15, 2026 13:39",
+    "published_at": "2026-09-15T13:39:00Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Get more Steam Deck / Steam Machine Verified games in the Fanatical Play on the Go Bundle",
+    "link": "https://www.gamingonlinux.com/2026/09/get-more-steam-deck-steam-machine-verified-games-in-the-fanatical-play-on-the-go-bundle/",
+    "description": "New for September is the Fanatical \"Build your own Play on the Go BundleFest Edition\" bundle, with all games being rated Steam Deck / Steam Machine Verified.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/get-more-steam-deck-steam-machine-verified-games-in-the-fanatical-play-on-the-go-bundle/",
+    "date": "Sep 15, 2026 13:34",
+    "published_at": "2026-09-15T13:34:21Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1684739148id29773gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Vondra: PostgreSQL development activity",
+    "link": "https://lwn.net/Articles/1094470/",
+    "description": "PostgreSQL contributor Tomas Vondra has published a blog\npost looking at development activity in the project, with data from the late\n1990s to today.\n\n\nWe're doing ~50 commits per week, give or take. In ~2010 we were doing maybe\n25/week, and the trend seems to be a slow and consistent growth. The monthly\naverage makes the trend a bit easier to spot. Which is good, although there's a\nlot of other important details (size of commits, are they new features or fixes,\n...).\n\nIt however nicely aligns with the number of active committers, which also\ngrew ~2x between 2010 and today. So maybe that's working as expected.\n",
+    "guid": "https://lwn.net/Articles/1094470/",
+    "date": "Sep 15, 2026 13:20",
+    "published_at": "2026-09-15T13:20:30Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "Rune Goes Open Source, Looks to Share Revenue With Contributors",
+    "link": "https://feed.itsfoss.com/link/24361/17462499/rune-open-source-ide",
+    "description": "The Go-based IDE is now available under GPLv3, and contributors keep the rights to their work.",
+    "guid": "6aa8d555ba8fa20001526cdb",
+    "date": "Sep 15, 2026 13:11",
+    "published_at": "2026-09-15T13:11:07Z",
+    "image": "https://itsfoss.com/content/images/2026/09/rune-ide-banner.png",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "Security updates for Tuesday",
+    "link": "https://lwn.net/Articles/1094469/",
+    "description": "Security updates have been issued by Debian (network-manager-l2tp and urwid), Fedora (perl-Dancer2, perl-Data-Entropy, perl-DBI, perl-Protocol-HTTP2, podman-tui, rust-lru, and rust-lru0.16), Mageia (bzip2, cups-filters, libcupsfilters, libssh2, perl-Authen-SASL, perl-HTML-FormFu, tar, unzip, and zip), Red Hat (grafana and image-builder), SUSE (389-ds, acl, attr, apache2-mod_auth_openidc, apr-util, aws-nitro-enclaves-cli, bzip2, c-ares, clamav, cpio, curl, dhcpcd, dovecot23, dovecot24, dracut, emacs, fuse-overlayfs, go1.25-openssl, go1.26-openssl, google-cloud-sap-agent, google-osconfig-agent, govulncheck-vulndb, gstreamer-devtools, gzip, helm, java-17-openjdk, java-21-openjdk, java-25-openjdk, jq, libBasicUsageEnvironment2, libgpg-error, libidn, librest, libusb-1_0, libvirt, LibVNCServer, libzypp, zypper, lkl, mcphost, MozillaFirefox, mozilla-nspr, mozilla-nss, rust-cbindgen, MozillaFirefox, mozilla-nss, mozilla-nspr, rust-cbindgen, MozillaFirefox, MozillaFirefox-branding-SLE, mozilla-nspr, mozilla-nss, rust-cbindgen, msgpack-c, multipath-tools, NetworkManager, openexr, openssl-3, perl-Protocol-HTTP2, perl-URI, php-composer2, postgresql14, postgresql15, postgresql16, postgresql17, postgresql18, python-aiohttp, python-cryptography, python-h2, python-ruff, python-sqlparse, python311, python312, python39.SUSE_SLE-15-SP3_Update, rav1e, rpcbind, sssd, systemd, tomcat, tomcat11, ucode-intel, udisks2, vim, and wicked2nm), and Ubuntu (cgit, dracut, freeciv, konsole, libinput, linux-azure, linux-nvidia-7.0, nginx, vips, and yelp).",
+    "guid": "https://lwn.net/Articles/1094469/",
+    "date": "Sep 15, 2026 13:10",
+    "published_at": "2026-09-15T13:10:46Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "Sound Open Firmware 2.15 Released With AMD ACP 7.x Support, Intel UAOL",
+    "link": "https://www.phoronix.com/news/Sound-Open-Firmware-2.15",
+    "description": "Sound Open Firmware as the open-source, vendor-independent audio DSP firmware stack and driver framework is out today with a new feature update...",
+    "guid": "https://www.phoronix.com/news/Sound-Open-Firmware-2.15",
+    "date": "Sep 15, 2026 13:04",
+    "published_at": "2026-09-15T13:04:40Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Firefox 157 Beta Released With Latest Enhancements",
+    "link": "https://www.phoronix.com/news/Firefox-157-Beta",
+    "description": "The Firefox release train keeps on rolling. With Firefox 156 released, Firefox 157 is now in beta ahead of the planned release coming up at the end of September...",
+    "guid": "https://www.phoronix.com/news/Firefox-157-Beta",
+    "date": "Sep 15, 2026 12:31",
+    "published_at": "2026-09-15T12:31:03Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Mozilla Firefox 156 Is Now Available for Download, Here’s What’s New",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367463",
+    "description": "Mozilla has published the final builds of the Firefox 156 open-source web browser today, ahead of its official unveiling on September 15th, 2026, so it’s time to take a look at the new features and improvements.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367463",
+    "date": "Sep 15, 2026 12:09",
+    "published_at": "2026-09-15T12:09:48Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Zstd Improvement For Linux 7.4 To Avoid Redundant Initialization",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367452",
+    "description": "In addition to Usama Arif's recent Linux patches for addressing a major inefficiency within the Linux kernel's Zstd compression code, he also has a separate patch series destined for Linux 7.4 to further enhance the Zstd compression/decompression performance by avoiding redundant initialization...",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367452",
+    "date": "Sep 15, 2026 10:38",
+    "published_at": "2026-09-15T10:38:18Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "New Linux Patches Improving Hibernation Speed In 2026",
+    "link": "https://www.phoronix.com/news/Linux-Improv-Hibernation-2026",
+    "description": "A new patch series being worked on is enhancing the Linux kernel's hibernation allocator to allow for faster performance when hibernating the system...",
+    "guid": "https://www.phoronix.com/news/Linux-Improv-Hibernation-2026",
+    "date": "Sep 15, 2026 10:30",
+    "published_at": "2026-09-15T10:30:22Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Raspberry Pi Desktop Overhauled On Raspberry Pi OS, Adds Icon Dock",
+    "link": "https://www.phoronix.com/news/Raspberry-Pi-Desktop-2026",
+    "description": "The Raspberry Pi Desktop on Raspberry Pi OS has seen a major  overhaul to better modernize the desktop computing experience on the ARM64 single board computers...",
+    "guid": "https://www.phoronix.com/news/Raspberry-Pi-Desktop-2026",
+    "date": "Sep 15, 2026 10:14",
+    "published_at": "2026-09-15T10:14:58Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Khronos Group opens EU Entity to support European Projects with open standards",
+    "link": "https://www.gamingonlinux.com/2026/09/khronos-group-opens-eu-entity-to-support-european-projects-with-open-standards/",
+    "description": "Khronos Group, who oversee various open standards like Vulkan and OpenGL, have formally opened up a Brussels-based European entity.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/khronos-group-opens-eu-entity-to-support-european-projects-with-open-standards/",
+    "date": "Sep 15, 2026 10:07",
+    "published_at": "2026-09-15T10:07:41Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/57820368id29772gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Linux Patch Coming To Fix Under-Reported AMD Zen 5 TLB Sizes",
+    "link": "https://www.phoronix.com/news/Linux-Fix-AMD-Zen-5-TLB-Sizes",
+    "description": "A minor reporting issue on Linux that has gone unaddressed until now is for properly conveying the Translation Lookaside Buffer (TLB) sizes on AMD Zen 5 processors...",
+    "guid": "https://www.phoronix.com/news/Linux-Fix-AMD-Zen-5-TLB-Sizes",
+    "date": "Sep 15, 2026 10:05",
+    "published_at": "2026-09-15T10:05:51Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Math Professor Accuses OpenAI of Copying His Work, Says AI Compute Power Makes Racing to Publish 'Pointless'",
+    "link": "https://science.slashdot.org/story/26/09/14/2246218/math-professor-accuses-openai-of-copying-his-work-says-ai-compute-power-makes-racing-to-publish-pointless?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "The New York Post wrote that OpenAI \"stunned the mathematics world\" last week when it announced its AI model \"cracked a legendary math problem left unsolved for nearly a century in just 88 hours.\" \n\nBut a New York University professor \"has come forward alleging OpenAI may have copied his work after asking him to collaborate — with one of the company's scientists allegedly warning he might 'ruin his career' if he refused.\"\n\n\n[P]rofessor Tristan Buckmaster, a British-Australian researcher who trained in Germany... had been working with Long Island-raised math prodigy Levent Alpöge, a researcher with OpenAI rival Anthropic, on a different elusive fluid dynamics equation, known as the Euler problem, when he found a solution using AI tools from both Anthropic and ChatGPT. He said scientists from OpenAI approached him and tried to convince him to jointly announce the solution, claiming they had independently solved Navier-Stokes. Buckmaster questioned the timing of their finding the solution in a blog post, noting OpenAI had only done so \"in the past few days\" — after the company became aware of his work. He asked OpenAI experts whether its AI systems used to solve the equation had been \"trained on, or had access to\" his research, but said they declined to answer, prompting him to wonder how they had advanced toward the solution so quickly. The puzzle is \"not the direction one arrives at in a few days,\" Buckmaster wrote incredulously... \n\n In OpenAI's post on its website sharing the Navier-Stokes proof, which it credited to Astra, the company's latest AI bot, the firm insisted no user data was incorporated into its model to solve the problem. However, it noted that it \"cannot rule out\" that anonymized data was used to \"improve our models.\" \n\n\"We congratulate Levent Alpöge and Tristan Buckmaster on their remarkable mathematical work,\" OpenAI said in the announcement. \n\nBuckmaster shot back, \"Is it ethical to use customer's data to try to scoop their customer?\" \n\nAlpöge's affiliation with Anthropic \"seems to have been a sore point for OpenAI,\" writes TechCrunch.\n\nBuckmaster's public statement says the OpenAI's Sebastien \"twice asserted that he wanted Levent removed from authorship\" and also said that \"it was so annoying that Levent works at Anthropic\" — but that Buckmaster still refused to remove the Anthropic mathematician's credit.\n\nI said that if OpenAI released its result in the way proposed I would go\npublic with what happened. The reply was, \"Why would you ruin your career?\" [OpenAI's Bubeck said later on X that he'd meant unfounded accusations could damage Buckmaster's career.] I replied that I am an academic, and asked why he thought going public would ruin my career. The reply was, \"If you don't want me to be nice, then I don't have to be nice.\"\n \n\n\nBuckmaster later told Australia's public broadcaster ABC that the companies building AI \"have zero respect for the scientific community. I mean, it's appalling, honestly.\" But he went on to say AI has made the race to publish mathematical breakthroughs pointless.\n\n\"I think it's pointless. Like, I think the game is up....\" Professor Buckmaster said he and Dr Alpöge had more research they could publish but questioned the point of racing ahead with it when AI could perform work that had previously occupied researchers for years. \n\nHe said there needed to be a discussion about how mathematics should operate in this new environment. Professor Buckmaster said some mathematicians had stopped publicly sharing what they were working on to avoid tipping off AI companies about their plans. He has called on academics and people from OpenAI, Anthropic and DeepMind to discuss ground rules for how they worked together.\n He said the companies' power carried responsibilities that went beyond competing to solve problems before their rivals... \n\nBuilding on the work of mathematicians Diego Córdoba and Luis Martínez-Zoroa, the pair found a solution to the Euler problem, a stepping stone to the Navier-Stokes problem. Professor Buckmaster said he spent weeks checking and improving the \"slop\" proofs generated by AI... \n\nFor now, Professor Buckmaster said he wanted to finish existing work and support his PhD students and postdoctoral researchers, rather than chase another Millennium Prize. \"I think it's more important to re-evaluate what math is,\" he said. \n\n\"The New York University professor also warned Australia about the centralisation of resources into the hands of a small number of privately owned foreign companies...\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Sep 15, 2026 10:04",
+    "published_at": "2026-09-15T10:04:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "OpenAPV Sees Big Update For Advancing The Advanced Professional Video Codec",
+    "link": "https://www.phoronix.com/news/OpenAPV-1.1.1",
+    "description": "OpenAPV as the open-source reference implementation of the Advanced Professional Video (APV) codec today saw its v1.1.1 release, succeeding v0.3.0 as the prior release...",
+    "guid": "https://www.phoronix.com/news/OpenAPV-1.1.1",
+    "date": "Sep 15, 2026 09:56",
+    "published_at": "2026-09-15T09:56:41Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "JUJUTSU KAISEN RUMBLE: SURVIVATON delayed into 2027",
+    "link": "https://www.gamingonlinux.com/2026/09/jujutsu-kaisen-rumble-survivaton-delayed-into-2027/",
+    "description": "JUJUTSU KAISEN RUMBLE: SURVIVATON, from the creator of Vampire Survivors and Shueisha Games, has been delayed into 2027 so they can get it right.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/jujutsu-kaisen-rumble-survivaton-delayed-into-2027/",
+    "date": "Sep 15, 2026 09:25",
+    "published_at": "2026-09-15T09:25:34Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/989950111id29771gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "The Triple-i Initiative showcase returns October 8th",
+    "link": "https://www.gamingonlinux.com/2026/09/the-triple-i-initiative-showcase-returns-october-8th/",
+    "description": "Crammed full of what will no doubt be some really interesting looking games, The Triple-i Initiative showcase is back again on October 8th.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/the-triple-i-initiative-showcase-returns-october-8th/",
+    "date": "Sep 15, 2026 09:09",
+    "published_at": "2026-09-15T09:09:41Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1779611103id29770gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Linux Mint Is Getting New Calendar and Book Reader Apps",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367413",
+    "description": "Linux Mint previews a new Calendar app, EPUB reader, redesigned Library, and other XApp improvements planned for its next release.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367413",
+    "date": "Sep 15, 2026 09:06",
+    "published_at": "2026-09-15T09:06:48Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Digiphile's VR collection is back to celebrate the Steam Frame launch",
+    "link": "https://www.gamingonlinux.com/2026/09/digiphiles-vr-collection-is-back-to-celebrate-the-steam-frame-launch/",
+    "description": "Stock up on some quality VR games for the launch of the Steam Frame, or just bag a good deal for whatever headset you're using with Digiphile's VR collection.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/digiphiles-vr-collection-is-back-to-celebrate-the-steam-frame-launch/",
+    "date": "Sep 15, 2026 08:45",
+    "published_at": "2026-09-15T08:45:49Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1510119629id29769gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "DOOM: The Dark Ages gets a permanent price reduction",
+    "link": "https://www.gamingonlinux.com/2026/09/doom-the-dark-ages-gets-a-permanent-price-reduction/",
+    "description": "DOOM: The Dark Ages from Bethesda Softworks / id Software is now a fair bit cheaper to grab - permanently.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/doom-the-dark-ages-gets-a-permanent-price-reduction/",
+    "date": "Sep 15, 2026 07:44",
+    "published_at": "2026-09-15T07:44:31Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/339234725id29768gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "KDE Plasma 6.8 Beta Released With Many Great Improvements, Kup Backup Scheduler",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367397",
+    "description": "Ahead of the stable release of Plasma 6.8 due out on 14 October that also marks the 30th anniversary of the KDE project, out today is the much anticipated beta release...",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367397",
+    "date": "Sep 15, 2026 07:35",
+    "published_at": "2026-09-15T07:35:19Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Heroic Games Launcher v2.22.2 brings fixes for Rockstar, Ubisoft and more",
+    "link": "https://www.gamingonlinux.com/2026/09/heroic-games-launcher-v2-22-2-brings-fixes-for-rockstar-ubisoft-and-more/",
+    "description": "Heroic Games Launcher continues being an essential tool in the box for SteamOS / Linux gamers, with a fresh hotfix release out now.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/heroic-games-launcher-v2-22-2-brings-fixes-for-rockstar-ubisoft-and-more/",
+    "date": "Sep 15, 2026 07:34",
+    "published_at": "2026-09-15T07:34:21Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/600779285id29767gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Half-Life: Alyx ported to ARM64 for Steam Frame - update out now",
+    "link": "https://www.gamingonlinux.com/2026/09/half-life-alyx-ported-to-arm64-for-steam-frame-update-out-now/",
+    "description": "Valve officially released a new update for the incredible VR game Half-Life: Alyx, bringing support for the Steam Frame in standalone mode.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/half-life-alyx-ported-to-arm64-for-steam-frame-update-out-now/",
+    "date": "Sep 15, 2026 07:22",
+    "published_at": "2026-09-15T07:22:23Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/365501223id29766gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "SteamOS 3.8.27 Beta and SteamOS 3.9.1 Preview released - Valve continue working on NVIDIA support",
+    "link": "https://www.gamingonlinux.com/2026/09/steamos-3-8-27-beta-and-steamos-3-9-1-preview-released-valve-continue-working-on-nvidia-support/",
+    "description": "Valve released two new testing builds with SteamOS 3.8.27 Beta and the much bigger SteamOS 3.9.1 Preview.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/steamos-3-8-27-beta-and-steamos-3-9-1-preview-released-valve-continue-working-on-nvidia-support/",
+    "date": "Sep 15, 2026 07:15",
+    "published_at": "2026-09-15T07:15:01Z",
+    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/steam-hardware-family-steamos_gol2_4c8c9b9c.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Immich 3.2 Photo and Video Management Solution Released with Redesigned Search",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367447",
+    "description": "Immich 3.2 is out with a redesigned search experience, Search API v2, cross-user face clustering, improved workflows, and a new Memories page.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367447",
+    "date": "Sep 15, 2026 06:03",
+    "published_at": "2026-09-15T06:03:49Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "ChatGPT-Using Lawyer Cited Its Fake Witnesses and Police Testimony in Court",
+    "link": "https://slashdot.org/story/26/09/14/0611201/chatgpt-using-lawyer-cited-its-fake-witnesses-and-police-testimony-in-court?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Reuters reports:\n\n\nA defense lawyer appealing his client's murder conviction submitted a brief containing made-up police testimony and witnesses fabricated by OpenAI's ChatGPT, New Mexico's highest court said. The New Mexico Supreme Court on Wednesday fined the attorney, Stephen Aarons [for $5,000], and held him in contempt for failing to verify the accuracy of the court filing, which Aarons said he prepared with help from the AI program... and said they will refer him to an attorney disciplinary board for investigation. \n\nAarons in a statement to Reuters said he had used ChatGPT to summarize the trial proceedings when he agreed to take up the defendant's appeal last year, and did not understand the degree to which AI could \"hallucinate\" facts. \"I am remorseful but hopeful that the disciplinary board takes into account it was an honest mistake,\" he said.... Dozens of lawyers have been sanctioned for filing briefs where AI made up case citations or misquoted the law. Aarons' filing appears to have gone further, containing fabricated witness testimony in a criminal appeal... \n\nAarons told the court at an August 21 hearing that he fed a computer-generated transcript and other case materials to ChatGPT, presuming it would generate \"a bulletproof summary.\" The justices sounded incredulous that Aarons was not fully aware of how AI can make mistakes. \"Counsel, do you watch the news? Do you listen to the radio? Do you read anything about what's going on in the world?\" Justice C. Shannon Bacon said at the hearing. \"Because the problem with lawyers relying on AI hallucinations is an above-the-fold story every single day.\" \n\n\n\"OpenAI did not immediately respond to a request for comment.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Sep 15, 2026 05:34",
+    "published_at": "2026-09-15T05:34:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "OpenRGB 1.0 Released After Nearly Three Years of Development",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367428",
+    "description": "OpenRGB 1.0 is out with a redesigned profile system, background service support, Qt 6, PawnIO, hotplugging, and expanded hardware support.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367428",
+    "date": "Sep 15, 2026 03:00",
+    "published_at": "2026-09-15T03:00:50Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
     "title": "GNU Coreutils 9.12 Released with Faster sort, cut, and uniq Commands",
     "link": "https://lxer.com/module/newswire/ext_link.php?rid=367471",
     "description": "GNU Coreutils 9.12 is out with performance improvements for several widely used commands, a new env option, safer terminal output, and many bug fixes.",
@@ -352,192 +685,5 @@
     "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1944209190id29756gol.webp",
     "source": "gamingonlinux.com",
     "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Shotwell 0.33 Open-Source Image Viewer for GNOME Is Here with GTK4 Port",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367451",
-    "description": "Shotwell 0.33 open-source image viewer and organizer for the GNOME desktop environment has been officially released today after many years of work as the first version ported to GTK4.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367451",
-    "date": "Sep 14, 2026 07:52",
-    "published_at": "2026-09-14T07:52:34Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "High-tech future survival city-builder XIRI: Oasis Cities announced",
-    "link": "https://www.gamingonlinux.com/2026/09/high-tech-future-survival-city-builder-xiri-oasis-cities-announced/",
-    "description": "XIRI: Oasis Cities is a survival-driven city builder set in a high-tech future. You build up and defend your city from pretty much everything.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/09/high-tech-future-survival-city-builder-xiri-oasis-cities-announced/",
-    "date": "Sep 14, 2026 07:31",
-    "published_at": "2026-09-14T07:31:38Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/773988458id29755gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Godot game Worlds Upon the Wind source code released",
-    "link": "https://www.gamingonlinux.com/2026/09/godot-game-worlds-upon-the-wind-source-code-released/",
-    "description": "Always nice to see! The positively rated indie game made with Godot, Worlds Upon The Wind, has seen the full source code being released.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/09/godot-game-worlds-upon-the-wind-source-code-released/",
-    "date": "Sep 14, 2026 07:11",
-    "published_at": "2026-09-14T07:11:16Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/667068456id29754gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Should US Open-Weight AI Labs 'Distill' Frontier Models Too?",
-    "link": "https://news.slashdot.org/story/26/09/13/2334206/should-us-open-weight-ai-labs-distill-frontier-models-too?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Silicon Valley giants and national security experts \"are calling for action against Chinese companies engaged in model distillation,\" reports CNBC. But \"I would do nothing,\" says Y Combinator CEO Garry Tan. \"We could argue that there should be an American distillation regime.\"\n\n\n\nDistillation is the process of using the outputs of a more capable AI model to train a smaller or less capable one, sometimes illicitly... Anthropic has accused Chinese companies such as Moonshot AI, DeepSeek, and MiniMax of the practice, while OpenAI believes DeepSeek's V3 and R1 model architectures were distilled from its own GPT-4 and GPT-4o models. In the midst of this, the U.S.'s National Security Agency, Cybersecurity and Infrastructure Security Agency, and Federal Bureau of Investigation released an official cyber security advisory warning on the topic on Tuesday... \n\n\n\nBut Tan believes regulators should focus less on curbing distillation and more on creating an equilibrium between open weight models and frontier models — as long as frontier models retain a price premium that allows their business model to remain feasible. \"This is actually the ideal case. You want open weight models to give people freedom and access,\" he explained. \"If I were a regulator, that's what I would go after.\" Tan acknowledged that this is a hard balance to strike, calling it \"a tightrope.\" Nevertheless, he says it's a balance worth pursuing — saying it \"could result in the best possible outcome.\" \n\nTan later told TechCrunch he'd like to see America with more open-weight options that aren't Chinese, built by smaller U.S. open-weight AI labs using those same training techniques on products from America's frontier AI labs:\n\n\n Anthropic CEO Dario Amodei had previously publicly called on U.S. regulators to crack down on distillation. It's notable that the commander of Silicon Valley's prestigious and prolific startup accelerator doesn't agree. \n\nTo be clear, Tan isn't advocating for American AI labs to use stolen credentials to distill. He wants them to be free to come in the front door. In fact, his argument is twofold. He feels it's an overreach for AI labs to dictate what their customers can do with the information their models share with them. He also notes that the proprietary AI labs didn't ask permission when they vacuumed up as much human knowledge as they could to train their models. They famously ingested plenty of copyrighted material without the permission of those intellectual property holders. \"Controlling what users and customers do with API calls to closed weight models feels constraining, and there's a role government can play here to normalize the fact that access to intelligence that was trained on broad public access data should itself also be more a form of a public good than something locked away behind restrictive terms of service,\" he told TechCrunch when asked why American labs should be free to distill, too... \n\nTo him, the true AI doomer scenario is for all the immense power of frontier AI to wind up in the hands of a single powerful, proprietary provider. \"The nightmare scenario, the doomer scenario for AI is that there's just one company,\" he said. \"It has the best access to capital. It has the best AI researchers. It runs away with it and suddenly there's one company that's monolithic. And that would be bad.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Sep 14, 2026 07:04",
-    "published_at": "2026-09-14T07:04:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "StarCraft returns in 2030 - plus Diablo V, World of Warcraft: Forever and more from BlizzCon 2026",
-    "link": "https://www.gamingonlinux.com/2026/09/starcraft-returns-in-2030-plus-diablo-v-world-of-warcraft-forever-and-more-from-blizzcon-2026/",
-    "description": "BlizzCon 2026 just happened and with it we got some big announcements - here's your highlights of some of the big stuff coming.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/09/starcraft-returns-in-2030-plus-diablo-v-world-of-warcraft-forever-and-more-from-blizzcon-2026/",
-    "date": "Sep 14, 2026 07:03",
-    "published_at": "2026-09-14T07:03:25Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1291056790id29753gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Paperweight: An Open Source App to Clean Up Your Inbox and Digital Footprint",
-    "link": "https://feed.itsfoss.com/link/24361/17461303/paperweight",
-    "description": "Paperweight scans your inbox locally to find mailing lists, forgotten accounts and breach risks, with bulk unsubscribe and GDPR request tools.",
-    "guid": "6a27c2c2a14085000110e05b",
-    "date": "Sep 14, 2026 07:00",
-    "published_at": "2026-09-14T07:00:52Z",
-    "image": "https://itsfoss.com/content/images/2026/09/paperweight-1.webp",
-    "source": "itsfoss.com",
-    "source_url": "https://itsfoss.com/"
-  },
-  {
-    "title": "Rune Keyboard-Driven IDE Is Now Open Source Under GPLv3",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367453",
-    "description": "Rune, a GPU-rendered and keyboard-driven IDE for Linux and macOS built mainly in Go, is now open source under the GPLv3 license.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367453",
-    "date": "Sep 14, 2026 06:21",
-    "published_at": "2026-09-14T06:21:04Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Debian 13.7 Released with 107 Security Updates and 106 Bug Fixes",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367435",
-    "description": "Debian 13.7 is out with 107 security updates and 106 bug fixes, plus installer, kernel ABI, Cinnamon, glibc, and package updates.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367435",
-    "date": "Sep 14, 2026 03:18",
-    "published_at": "2026-09-14T03:18:05Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "220 Million Traveler Records Exposed In Vietnam-Linked APIS Leak",
-    "link": "https://yro.slashdot.org/story/26/09/12/1758204/220-million-traveler-records-exposed-in-vietnam-linked-apis-leak?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "A misconfigured Advance Passenger Information System (APIS) database linked to Vietnam exposed more than 220 million passenger and crew travel records spanning 2017 to 2026, including names, passport numbers, nationalities, flight details, seat assignments, and baggage references. Researchers said the database was reachable through a chain of security mistakes and default credentials. It was later secured after the disclosure, but it's unclear whether the data had already been copied or abused. BleepingComputer reports: Kinryu Labs discovered the Elasticsearch cluster on June 3 while surveying exposed databases as part of research into ransomware activity. The cluster, named 'pax-info', contained 29 indices and roughly 107 GB of data. Its two principal indices held 210,318,069 passenger records and 10,465,631 crew records, for a combined 220,783,700 entries. According to Kinryu Labs, the cluster was hosted in Viettel-assigned IP space in Hanoi. BleepingComputer could not confirm which Vietnamese organization operated the system.\n \nThe exposed information included passengers' and crew members' names, dates of birth, sex, nationalities, passport or travel-document numbers, document expiration dates, and issuing countries. Associated travel data included flight numbers and dates, airlines, departure, destination and transit airports, seat assignments, baggage references, and scheduled, estimated, and actual flight times, information typically carried by APIS and related airline systems.\n \nSample records reviewed by BleepingComputer included travelers of Korean, Chinese, Canadian, and New Zealand nationality, among others. While the researchers could not provide a complete breakdown by nationality, the data covered numerous international airlines across Asia-Pacific, Europe, and the Middle East. As a result, the exposed records could relate to people from virtually anywhere who visited or transited through Vietnam over the nine-year period. Kinryu Labs expects to publish additional details on its blog later this week.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Sep 14, 2026 02:34",
-    "published_at": "2026-09-14T02:34:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "9to5Linux Weekly Roundup: September 13th, 2026",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367458",
-    "description": "The 309th installment of the 9to5Linux Weekly Roundup is here for the week ending September 13th, 2026, keeping you updated on the most important developments in the Linux world.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367458",
-    "date": "Sep 14, 2026 01:46",
-    "published_at": "2026-09-14T01:46:36Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Debian 13.7 Released With Many Bug Fixes",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367440",
-    "description": "For those wanting the freshest Debian 13 \"Trixie\" install media, Debian 13.7 is out today in bundling up all the latest bug and security fixes...",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367440",
-    "date": "Sep 13, 2026 23:39",
-    "published_at": "2026-09-13T23:39:19Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Reminder: subscription price change coming",
-    "link": "https://lwn.net/Articles/1093929/",
-    "description": "Just a reminder that prices for LWN subscriptions will increase after\nSeptember 15.  Until then, the older rate still applies.  See this article for details on this change.\nThanks, yet again, to all of our subscribers for your support — that is\nwhat keeps LWN going.",
-    "guid": "https://lwn.net/Articles/1093929/",
-    "date": "Sep 13, 2026 22:34",
-    "published_at": "2026-09-13T22:34:53Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "Kernel prepatch 7.3-rc3",
-    "link": "https://lwn.net/Articles/1093962/",
-    "description": "The 7.3-rc3 kernel prepatch is out for\ntesting.  Linus said: \"Another fairly large rc release, and again one\nwith a bigger filesystem footprint that we usually see.\"",
-    "guid": "https://lwn.net/Articles/1093962/",
-    "date": "Sep 13, 2026 22:32",
-    "published_at": "2026-09-13T22:32:53Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "DietPi 10.7 Adds Support for Containers with Network and ARMv8 VMs",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367446",
-    "description": "DietPi 10.7 has been released today as a new stable version of this Linux distribution for single-board computers, adding support for new SBCs, new images, and updates to DietPi-Software.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367446",
-    "date": "Sep 13, 2026 22:07",
-    "published_at": "2026-09-13T22:07:49Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "NASA and IBM Open Source Lunar Mapping Tools",
-    "link": "https://science.slashdot.org/story/26/09/12/182253/nasa-and-ibm-open-source-lunar-mapping-tools?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "NASA and IBM have released an open-source AI model trained on a large collection of lunar observations to help scientists analyze the Moon at scale. \"The NASA-IBM Lunar Foundation Model gives scientists a foundation to explore the Moon at scale, connecting observations across instruments, revealing patterns that are difficult to see in isolation, and providing an open platform the global research community can build on,\" said IBM director of research for Europe, Juan Bernabe-Moreno. The Register reports: It is claimed as the first AI model to integrate observations captured in a range of modalities (data formats), and at different viewing angles and spatial scales. Instead of sifting through maps and images by hand or using low resolution machine learning models, scientists can use this to analyze geographic features, the pair say. In particular, NASA and IBM hope researchers will be able to discover previously unidentified lunar ice deposits, analyze volcanic features called Irregular Mare Patches, and identify and classify craters.\n \nLunar ice indicates the presence of water and oxygen, which may be useful for future manned missions. It is found in permanently shadowed regions, which are among the most difficult areas to observe. The NASA-IBM model combines multimodal and multi-resolution observations to better predict where ice may be present on the lunar surface. Alongside the model, IBM and NASA scientists compiled an open-source lunar dataset from over 30 spatially-aligned layers, using data from nine instruments across four missions. It combines tens of thousands of images and maps showing various geophysical properties of the lunar surface.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Sep 13, 2026 22:04",
-    "published_at": "2026-09-13T22:04:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Linux 7.3-rc3 Released: \"Another Fairly Large RC\"",
-    "link": "https://www.phoronix.com/news/Linux-7.3-rc3-Released",
-    "description": "Out today is the third weekly release candidate of Linux 7.3 as this next kernel version works its way toward  a stable release in the second half of October...",
-    "guid": "https://www.phoronix.com/news/Linux-7.3-rc3-Released",
-    "date": "Sep 13, 2026 22:00",
-    "published_at": "2026-09-13T22:00:23Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Linux Mint Debuts Xepub As New EPUB Reader, Clockenstein Calendar App",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367416",
-    "description": "The Linux Mint project today published their August 2026 development report, including some new applications added to their XApp collection...",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367416",
-    "date": "Sep 13, 2026 20:36",
-    "published_at": "2026-09-13T20:36:19Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Neo6502 gains keyboard form factor with four USB hosts",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367441",
-    "description": "Olimex has expanded its Neo6502 retro-computing platform with the Neo6502kbd, an all-in-one version that integrates the system into a USB keyboard enclosure. The design combines a real W65C02 processor with an RP2040 and adds four USB host ports, HDMI/DVI output, UEXT expansion, separate USB-C ports for power and programming, an integrated speaker, and a power […]",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367441",
-    "date": "Sep 13, 2026 19:04",
-    "published_at": "2026-09-13T19:04:50Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
   }
 ]
