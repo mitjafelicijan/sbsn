@@ -1,5 +1,260 @@
 [
   {
+    "title": "Local AI Weekly #2: Agents Everywhere",
+    "link": "https://feed.itsfoss.com/link/24361/17463615/local-ai-weekly-2",
+    "description": "Debuggers, memory, and a browser for your agents. And a tool that finally tells you what your hardware can run.",
+    "guid": "6aaaa0c6922f5a000126d8c3",
+    "date": "Sep 16, 2026 15:01",
+    "published_at": "2026-09-16T15:01:03Z",
+    "image": "https://itsfoss.com/content/images/2026/09/local-ai-weekly.webp",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "[$] Ways to encrypt data on servers",
+    "link": "https://lwn.net/Articles/1092553/",
+    "description": "At the 2026 edition of FOSSY, Romeo\nSolano gave a fast-paced, humorous presentation on what could have been a\nrather boring topic: server encryption.  There are a number of threats that\nwe face in today's world, from criminals, government overreach, espionage,\nand more, that can be thwarted with encryption.  But encrypting data on a\nsystem that may live elsewhere, without any access to its keyboard at boot\ntime, is rather more difficult than encrypting the disk of a laptop.\nSolano described the problems and gave a tour of some of the solutions in\nthe talk.",
+    "guid": "https://lwn.net/Articles/1092553/",
+    "date": "Sep 16, 2026 14:17",
+    "published_at": "2026-09-16T14:17:55Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "Big Break Showcase from Coffee Stain Publishing highlights more games on September 29",
+    "link": "https://www.gamingonlinux.com/2026/09/big-break-showcase-from-coffee-stain-publishing-highlights-more-games-on-september-29/",
+    "description": "Even more indie games are going to be shown off soon in the Big Break Showcase from Coffee Stain Publishing.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/big-break-showcase-from-coffee-stain-publishing-highlights-more-games-on-september-29/",
+    "date": "Sep 16, 2026 14:10",
+    "published_at": "2026-09-16T14:10:33Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1799240732id29782gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Crash-Safe \u0026 Copy-On-Write GEFS As The \"Good Enough File-System\" For OpenBSD",
+    "link": "https://www.phoronix.com/news/OpenBSD-GEFS-File-System",
+    "description": "Ori Bernstein announced an early preview of his Good Enough File-System \"GEFS\" for OpenBSD. GEFS is a crash-safe, snapshotting, copy-on-write file-system that he wrote  initially for 9front and now porting to OpenBSD...",
+    "guid": "https://www.phoronix.com/news/OpenBSD-GEFS-File-System",
+    "date": "Sep 16, 2026 13:42",
+    "published_at": "2026-09-16T13:42:00Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Security updates for Wednesday",
+    "link": "https://lwn.net/Articles/1094720/",
+    "description": "Security updates have been issued by AlmaLinux (kernel, kernel-rt, libkcapi, nginx, nginx:1.24, openssl, osbuild-composer, perl, perl:5.32, python-tornado, rsync, and rust), Debian (cjose and nginx), Fedora (environment-modules, erlang, GitPython, knot, perl-Authen-SASL, python-configargparse, ruby, rubygems, and sblim-sfcb), Oracle (firefox, git-lfs, gstreamer1-plugins-base, kernel, libkcapi, nginx, nginx:1.26, openssl, osbuild-composer, perl, perl-YAML-Syck, postgresql18, python-tornado, and rust), Red Hat (fence-agents, git-lfs, microcode_ctl, osbuild-composer, podman, python-pyasn1, and resource-agents), SUSE (389-ds, ant, bson-devel, chirp-20260911, docker, gimp, google-cloud-sap-agent, hauler, kernel, kimi-code, libpcap, python-GitPython, python310, syncthing, yast2-samba-client, and zstd-jni), and Ubuntu (aom, imagemagick, kitty, openssh, phpseclib, policykit-1, python-sql, python-webob, shibboleth-sp, simplesamlphp, snapcast, srt, and suricata-update).",
+    "guid": "https://lwn.net/Articles/1094720/",
+    "date": "Sep 16, 2026 13:40",
+    "published_at": "2026-09-16T13:40:53Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "Linux Randomly Picking Idle CPU Cores Shows Modest Win On High Core Count Systems",
+    "link": "https://www.phoronix.com/news/Linux-Random-Equal-Idle-CPUs",
+    "description": "Arm engineer Christian Loehle sent out a patch series today proposing that the Linux scheduler code randomize its picking of equally shallow idle CPU cores. This  randomization is showing to deliver a win at least for high CPU core counts for better distributing workloads...",
+    "guid": "https://www.phoronix.com/news/Linux-Random-Equal-Idle-CPUs",
+    "date": "Sep 16, 2026 13:30",
+    "published_at": "2026-09-16T13:30:04Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Firefox Touts Lower CPU Use for Large JPEGs, Faster PDF Viewer Startup (and AI Controls)",
+    "link": "https://news.slashdot.org/story/26/09/16/0352217/firefox-touts-lower-cpu-use-for-large-jpegs-faster-pdf-viewer-startup-and-ai-controls?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Firefox 156 is the second release since Mozilla moved to a twice-monthly release schedule, and the blog OMG Ubuntu notes it has faster start-up times for its built-in PDF viewer and also lower CPU usage when viewing large JPEG images:\n\nIn Firefox 156, the browser now uses libjpeg-turbo's IDCT scaling to reduce images during decoding, rather than loading a full-size image into memory and then shrinking it. Benchmarks from the bug report show up to 20Ã-- less memory used during very large image loading, and decoding is up to twice as fast. Since these speeds were quite fast already, there's no perceptible difference to users. Behind the scenes, it's more efficient. \n\nFirefox's built-in PDF viewer starts up to 45% faster in this release. The browser now loads the background PDF.js worker sooner, rather than launching it only when needed. \n\nSponsored suggestions in the address bar are live for users in France, Germany and Italy (Ouais!, Juhu!, etc). These are already available in some other locales. Don't want them? Disable them via Settings \u003e Search \u003e Firefox Suggest \u003e Suggestions from Sponsors. \nBesides that, the rest of this release is primarily bug fixes — worthwhile and welcome as always.\n \n\nAnd in about two weeks Firefox 157 will be released, reports PC World. \"That update should add support for JPEG XL (JXL), a modern image format that offers the same quality as JPEG at a significantly smaller size. Although JPEG XL was launched in 2021, Safari is the only browser to support it yet. For a short period, Chrome also supported it, but that ended in 2022.\" \n\nAlso, a recent Firefox blog post emphasized that it supports whatever level of AI engagement \"is right for you... Because the only person telling you how much AI you need should be you.\"\n\nOpting out of upcoming and current AI features on your browser should not require endless navigation through multiple Settings pages. That's why Firefox offers an AI controls section within its General Settings panel. A single, easily located place where you can block current and future AI features and related pop-ups with the swipe of a toggle... \n\nFor the many people who sit in the middle of the AI usage spectrum, we made sure you can opt in and out of specific features in line with your preferences. Capabilities like AI translations, image alt text in Firefox PDF viewer, tab group suggestions, and key points in link previews can all be individually switched on and off, ensuring you can enjoy such offerings on a case by case basis as it suits your needs... \n\nSmart Window is Firefox's most integrated AI experience, but that doesn't mean it compromises our commitment to choice, privacy, and transparency. Our newest window type, which we've been polishing and testing in beta, uses only the context you share with it to help you move work forward and across the finish line. When permitted by you, its built-in, AI-powered assistant can work directly with your open tabs and browsing history to connect the dots. This means comparing information, generating recommendations, summarizing pages, and planning projects without having to feed every crumb of context from your previous and current browsing activity each time you enter a new prompt. \n\nAnd if you want to block Google's AI Overviews, there's over 100 extensions to choose from.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Sep 16, 2026 13:04",
+    "published_at": "2026-09-16T13:04:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "AMD Sends Out Linux Patches For Enabling SEV-TIO TDISP With PCIe 6.0",
+    "link": "https://www.phoronix.com/news/AMD-SEV-TIO-TDISP-Linux-Patches",
+    "description": "The newest Linux kernel patches out of AMD for enhancing the upstream support with the new AMD EPYC 9006 \"Venice\" processors is for enabling SEV-TIO TDISP that is supported with PCI Express 6.0 and beyond...",
+    "guid": "https://www.phoronix.com/news/AMD-SEV-TIO-TDISP-Linux-Patches",
+    "date": "Sep 16, 2026 13:02",
+    "published_at": "2026-09-16T13:02:52Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Ubuntu 26.10 Moves cp, mv \u0026 rm Over To Rust Coreutils For 100% Transition",
+    "link": "https://www.phoronix.com/news/Ubuntu-Completes-Rust-Coreutils",
+    "description": "While Ubuntu Linux has been making use of the Rust Coreutils project over the past year since Ubuntu 25.10  as an alternative to GNU Coreutils and part of their effort to  get more system components implemented in the memory-safety-focused Rust programming language, Ubuntu 26.10 finally completes the transition with the cp, mv, and rm commands now coming from Rust Coreutils...",
+    "guid": "https://www.phoronix.com/news/Ubuntu-Completes-Rust-Coreutils",
+    "date": "Sep 16, 2026 12:26",
+    "published_at": "2026-09-16T12:26:49Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Linux's Yogafan Driver Prepares Support For Newer Lenovo Laptops",
+    "link": "https://www.phoronix.com/news/Linux-7.4-Yogafan-More-Laptops",
+    "description": "Introduced back in Linux 7.1 was the Yogafan HWMON driver for supporting fan speed monitoring across various Lenovo Yoga, Legion, Flex, Slim, and IdeaPad laptops. An initial set of Lenovo laptops was initially supported by this driver while succeeding kernel versions have continued building out the support...",
+    "guid": "https://www.phoronix.com/news/Linux-7.4-Yogafan-More-Laptops",
+    "date": "Sep 16, 2026 10:29",
+    "published_at": "2026-09-16T10:29:22Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "AMD's GAIA Local AI Now Able To Transcribe \u0026 Summarize Meeting Recordings",
+    "link": "https://www.phoronix.com/news/AMD-GAIA-0.24-Local-AI",
+    "description": "AMD's GAIA software for building AI agents on your PC and leveraging generative AI locally with the power of AMD Ryzen and Radeon hardware continues becoming more featureful. Out today is AMD GAIA 0.24/0.24.1 and with it comes the  ability to transcribe and summarize meeting recordings locally along with other functionality...",
+    "guid": "https://www.phoronix.com/news/AMD-GAIA-0.24-Local-AI",
+    "date": "Sep 16, 2026 10:19",
+    "published_at": "2026-09-16T10:19:10Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "OpenVDB Introduces SIMD Framework With Some 2~4x Performance Improvements",
+    "link": "https://www.phoronix.com/news/OpenVDB-SIMD--Framework",
+    "description": "OpenVDB is the sparse volume data structure and tooling library maintained by the Academy Software Foundation. OpenVDB in turn is used by various CGI software for dealing with sparse volumetric data such as Houdini, RenderMan, and Cinema 4D to the open-source Blender. It's even won an Academy Award for technical achievement while now in 2026 it's finally establishing a SIMD framework for better leveraging modern x86 ISA capabilities...",
+    "guid": "https://www.phoronix.com/news/OpenVDB-SIMD--Framework",
+    "date": "Sep 16, 2026 10:05",
+    "published_at": "2026-09-16T10:05:23Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "I Spent Time With GeForce NOW to See If It's Gameable on Linux",
+    "link": "https://feed.itsfoss.com/link/24361/17463310/geforce-now-linux-review",
+    "description": "The native Linux client recently left beta, so I tested it on Ubuntu to see how it performed.",
+    "guid": "6aa3f51eba8fa20001525a8e",
+    "date": "Sep 16, 2026 08:59",
+    "published_at": "2026-09-16T08:59:12Z",
+    "image": "https://itsfoss.com/content/images/2026/09/nvidia-geforce-now-linux-banner.png",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "America's Cryptocurrency 'Clarity Act' Fails Spectacularly, Despite Hundreds of Millions in Industry Lobbying",
+    "link": "https://news.slashdot.org/story/26/09/16/0454223/americas-cryptocurrency-clarity-act-fails-spectacularly-despite-hundreds-of-millions-in-industry-lobbying?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "\"The crypto industry's top legislative priority failed on Tuesday in spectacular fashion,\" reports Barron's.\n\n\nA procedural motion to advance the bill failed by a vote of 49 to 50, with a handful of Republicans joining all Democrats to shoot it down. The motion needed 60 yes votes to pass, and with the midterm elections looming, the Senate isn't expected to pick the bill back up this year. Among other provisions, the bill would have taken most crypto trading out of the purview of securities regulators, a key goal of firms like Coinbase Global... \nThe vote is especially bitter for the crypto industry, which has spent hundreds of millions of dollars on lobbying and campaign expenditures over the past year to even get to this point. Crypto regulation doesn't even register among the issues voters care most about, and the industry has created massive political action committees to insert itself into the Washington agenda and strike fear into the hearts of lawmakers who might oppose them... Democrats who voted against the bill said that it needed to do more to rein in [Trump's] crypto dealings to get their support. Some GOP lawmakers also voted against the motion after pressure from community bank executives. Bankers argued that the bill needed a stronger ban on high-yield crypto accounts to protect their deposits, a contention that crypto executives and the White House said was nonsense. \n\nConcerns about the bill \"intensified after President Trump disclosed he and his family had earned $1.4 billion last year from his crypto ventures,\" reports NPR. \"The massive bill — which stretches over 600 pages — would have established the first regulations for the crypto sector in U.S. history. But opponents saw it as the industry's attempt to encode into law a set of rules they saw as far too lenient on the industry, without enough safeguards.\" \n\nA research note from an analyst at Compass Point Research \u0026 Trading predicts the bill is now likely tabled until at least 2030, Barron's notes. But they also report what the crypto industry could do next:\n\n\n[C]rypto firms will be leaning heavily on Trump's regulators at the Securities and Exchange Commission, Commodity Futures Trading Commission and Treasury Department, all of whom have said they plan to move swiftly to implement industry friendly rules if a bill didn't pass. The SEC has already dropped all major enforcement actions against crypto firms and has begun to introduce rules that make it easier to raise money from crypto sales without running afoul of the law. The agency is also expected to implement rules making it easier to tokenize traditional assets like stocks. \nThe friendly regulatory environment will in effect give the industry a little more than two years to sink roots into the traditional financial system and consumers' wallets. Even if the SEC took a harsh view of the industry in the future, as it did in President Joe Biden's administration, the agency at that point might find it difficult to put the genie back in the bottle.\n\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Sep 16, 2026 08:34",
+    "published_at": "2026-09-16T08:34:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "SUPERHOT VR gets various upgrades ready for the Steam Frame",
+    "link": "https://www.gamingonlinux.com/2026/09/superhot-vr-gets-various-upgrades-ready-for-the-steam-frame/",
+    "description": "SUPERHOT VR has been upgraded with a number of improvements to make the first-person shooter better on Valve's Steam Frame kit.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/superhot-vr-gets-various-upgrades-ready-for-the-steam-frame/",
+    "date": "Sep 16, 2026 08:17",
+    "published_at": "2026-09-16T08:17:29Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1871789114id29781gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Total War: SHOGUN 2 - Complete Edition announced to release in October",
+    "link": "https://www.gamingonlinux.com/2026/09/total-war-shogun-2-complete-edition-announced-to-release-in-october/",
+    "description": "Total War: SHOGUN 2 - Complete Edition arrives October 13th bringing the classic back with some fresh modern touches.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/total-war-shogun-2-complete-edition-announced-to-release-in-october/",
+    "date": "Sep 16, 2026 08:06",
+    "published_at": "2026-09-16T08:06:03Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1602979866id29780gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Get plenty of action in the Sniper Elite Classics Collection Humble Bundle",
+    "link": "https://www.gamingonlinux.com/2026/09/get-plenty-of-action-in-the-sniper-elite-classics-collection-humble-bundle/",
+    "description": "Need some first-person shooter action? The Sniper Elite Classics Collection Humble Bundle is live now with a good price for multiple games.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/get-plenty-of-action-in-the-sniper-elite-classics-collection-humble-bundle/",
+    "date": "Sep 16, 2026 07:54",
+    "published_at": "2026-09-16T07:54:59Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1881424575id29779gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "GE-Proton 11-7 brings more Wine Wayland upgrades, launcher fixes, game fixes and more",
+    "link": "https://www.gamingonlinux.com/2026/09/ge-proton-11-7-brings-more-wine-wayland-upgrades-launcher-fixes-game-fixes-and-more/",
+    "description": "GE-Proton 11-7 has arrived and there's quite a lot of gaming improvements here for SteamOS / Linux fans.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/ge-proton-11-7-brings-more-wine-wayland-upgrades-launcher-fixes-game-fixes-and-more/",
+    "date": "Sep 16, 2026 07:35",
+    "published_at": "2026-09-16T07:35:54Z",
+    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/ge-proton_gol2.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "OptiScaler Client 1.0.7 brings major improvements for FSR 4 and improved recommended game configs",
+    "link": "https://www.gamingonlinux.com/2026/09/optiscaler-client-1-0-7-brings-major-improvements-for-fsr-4-and-improved-recommended-game-configs/",
+    "description": "OptiScaler Client continues maturing as one of the easiest ways to upgrade all the different upscalers across various different games.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/optiscaler-client-1-0-7-brings-major-improvements-for-fsr-4-and-improved-recommended-game-configs/",
+    "date": "Sep 16, 2026 07:22",
+    "published_at": "2026-09-16T07:22:37Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/2120897490id29777gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "DXVK 3.1.1 brings fixes for Adobe software, Call of Duty: Ghosts, Rayman 3, Skyrim SE",
+    "link": "https://www.gamingonlinux.com/2026/09/dxvk-3-1-1-brings-fixes-for-adobe-software-call-of-duty-ghosts-rayman-3-skyrim-se/",
+    "description": "DXVK is a Vulkan-based translation layer for Direct3D 8/9/10/11 to run lots of games nicely on Linux with Wine / Proton.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/dxvk-3-1-1-brings-fixes-for-adobe-software-call-of-duty-ghosts-rayman-3-skyrim-se/",
+    "date": "Sep 16, 2026 07:08",
+    "published_at": "2026-09-16T07:08:06Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/2064891042id29776gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "s\u0026box from Facepunch gets a price cut and more improvements",
+    "link": "https://www.gamingonlinux.com/2026/09/s-box-from-facepunch-gets-a-price-cut-and-more-improvements/",
+    "description": "Facepunch are trying desperately to pull in more players for their game creation platform s\u0026box, with a permanent price cut now live.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/s-box-from-facepunch-gets-a-price-cut-and-more-improvements/",
+    "date": "Sep 16, 2026 07:02",
+    "published_at": "2026-09-16T07:02:43Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1030464049id29775gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Valve now say your data is safe from the CEVA Logistics cyberattack",
+    "link": "https://www.gamingonlinux.com/2026/09/valve-now-say-your-data-is-safe-from-the-ceva-logistics-cyberattack/",
+    "description": "Back in early August, we covered the CEVA Logistics cyberattack which affected Steam hardware deliveries in Europe and now we have an update for you.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/valve-now-say-your-data-is-safe-from-the-ceva-logistics-cyberattack/",
+    "date": "Sep 16, 2026 06:38",
+    "published_at": "2026-09-16T06:38:20Z",
+    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/steam_plain_2025.jpg",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Ubuntu's 'Rust-ification' Hits New Milestone: Coreutils Migration is Complete",
+    "link": "https://news.slashdot.org/story/26/09/15/2115242/ubuntus-rust-ification-hits-new-milestone-coreutils-migration-is-complete?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "\"Ubuntu has managed to do away with GNU Core Utilities in its default stack,\" reports the blog It's FOSS. \n\n\nThe last three utilities — cp, mv and rm — have been moved to versions from the uutils project (which reimplements utilities in Rust).\n\nEverything else, from ls and cat to chmod and du, made that jump in earlier releases... Canonical started \"oxidizing\" Ubuntu last year, and Ubuntu 25.10 became the first release to ship [ the uutils project's] coreutils as the default. That release also made sudo-rs the default privilege tool, replacing a command that had been in place for decades. \n\n\n26.04 was the release where the plan did slow down quite a bit, as Canonical kept cp, mv, and rm on their GNU versions due to a bunch of TOCTOU issues that were blocking the full implementation. These were caught during an audit, when Canonical commissioned Zellic for two rounds between December 2025 and March 2026, focusing on the most security-sensitive utilities first. Across both rounds, Zellic raised 113 issues, and 44 of them were assigned CVEs. Canonical says the vast majority have been resolved. \n\nGetting here has had its ups and downs, and the last stretch was not clean. In July, uutils cp went back into the archive and came straight out again after it broke live image builds. The fix was quick; as the developers marked it \"Critical,\" the fix went upstream, and the migration landed in time for 26.10. \n\nWhen typing commands, nothing changes for you on the surface. uutils coreutils is designed to be a drop-in replacement for essential GNU tools, and the project treats any divergence from GNU as a bug, further pointing out that some options may still be missing or behave differently. So if you prefer staying on the GNU version, you have the option to install the coreutils-from-gnu package that houses all the required components.\n\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Sep 16, 2026 04:04",
+    "published_at": "2026-09-16T04:04:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "The Simplest Method to Extract All Images from a Document in LibreOffice",
+    "link": "https://feed.itsfoss.com/link/24361/17463130/extract-all-images-office",
+    "description": "Saves a lot of time and effort as you don't have to manually save all the images one by one. Also, this trick works with most office tools, if not all. ",
+    "guid": "69d33cb1123c2f00010eb082",
+    "date": "Sep 16, 2026 02:56",
+    "published_at": "2026-09-16T02:56:15Z",
+    "image": "https://itsfoss.com/content/images/2026/09/extract-all-images-libreoffice.png",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
     "title": "Linux 7.4 Slated To Land The AVX-512 Optimized xor_gen For A Big Performance Win",
     "link": "https://www.phoronix.com/news/Linux-7.4-Land-AVX-512-xor-gen",
     "description": "Over the past few months there have been patches floating around for an AVX-512 optimized xor_gen() for the Linux kernel for that functuon used by the Linux software RAID code. It's been shhowing very nice performance gains with this function being used for generating and validating parity blocks such as for RAID5 and RAID6. The upcoming Linux 7.4 cycle is slated  to merge this nice enhancement for benefiting AMD Zen 4 and newer or current Intel server CPUs with AVX-512...",
@@ -70,17 +325,6 @@
     "published_at": "2026-09-15T16:44:16Z",
     "source": "lxer.com",
     "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Ubuntu's Rustification Has a New Milestone! Coreutils Migration is Complete",
-    "link": "https://feed.itsfoss.com/link/24361/17462674/ubuntu-rustification-coreutils-migration",
-    "description": "The Ubuntu 26.10 release moves its last three GNU commands, cp, mv, and rm, to Rust.",
-    "guid": "6aa90c2eba8fa20001526e1f",
-    "date": "Sep 15, 2026 16:21",
-    "published_at": "2026-09-15T16:21:36Z",
-    "image": "https://itsfoss.com/content/images/2026/09/ubuntu-rustification-banner.png",
-    "source": "itsfoss.com",
-    "source_url": "https://itsfoss.com/"
   },
   {
     "title": "Ubuntu 26.10 Set To Deliver Better Performance For Intel Core 3 Wildcat Lake",
@@ -329,142 +573,5 @@
     "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1510119629id29769gol.webp",
     "source": "gamingonlinux.com",
     "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "DOOM: The Dark Ages gets a permanent price reduction",
-    "link": "https://www.gamingonlinux.com/2026/09/doom-the-dark-ages-gets-a-permanent-price-reduction/",
-    "description": "DOOM: The Dark Ages from Bethesda Softworks / id Software is now a fair bit cheaper to grab - permanently.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/09/doom-the-dark-ages-gets-a-permanent-price-reduction/",
-    "date": "Sep 15, 2026 07:44",
-    "published_at": "2026-09-15T07:44:31Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/339234725id29768gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "KDE Plasma 6.8 Beta Released With Many Great Improvements, Kup Backup Scheduler",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367397",
-    "description": "Ahead of the stable release of Plasma 6.8 due out on 14 October that also marks the 30th anniversary of the KDE project, out today is the much anticipated beta release...",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367397",
-    "date": "Sep 15, 2026 07:35",
-    "published_at": "2026-09-15T07:35:19Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Heroic Games Launcher v2.22.2 brings fixes for Rockstar, Ubisoft and more",
-    "link": "https://www.gamingonlinux.com/2026/09/heroic-games-launcher-v2-22-2-brings-fixes-for-rockstar-ubisoft-and-more/",
-    "description": "Heroic Games Launcher continues being an essential tool in the box for SteamOS / Linux gamers, with a fresh hotfix release out now.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/09/heroic-games-launcher-v2-22-2-brings-fixes-for-rockstar-ubisoft-and-more/",
-    "date": "Sep 15, 2026 07:34",
-    "published_at": "2026-09-15T07:34:21Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/600779285id29767gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Half-Life: Alyx ported to ARM64 for Steam Frame - update out now",
-    "link": "https://www.gamingonlinux.com/2026/09/half-life-alyx-ported-to-arm64-for-steam-frame-update-out-now/",
-    "description": "Valve officially released a new update for the incredible VR game Half-Life: Alyx, bringing support for the Steam Frame in standalone mode.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/09/half-life-alyx-ported-to-arm64-for-steam-frame-update-out-now/",
-    "date": "Sep 15, 2026 07:22",
-    "published_at": "2026-09-15T07:22:23Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/365501223id29766gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "SteamOS 3.8.27 Beta and SteamOS 3.9.1 Preview released - Valve continue working on NVIDIA support",
-    "link": "https://www.gamingonlinux.com/2026/09/steamos-3-8-27-beta-and-steamos-3-9-1-preview-released-valve-continue-working-on-nvidia-support/",
-    "description": "Valve released two new testing builds with SteamOS 3.8.27 Beta and the much bigger SteamOS 3.9.1 Preview.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/09/steamos-3-8-27-beta-and-steamos-3-9-1-preview-released-valve-continue-working-on-nvidia-support/",
-    "date": "Sep 15, 2026 07:15",
-    "published_at": "2026-09-15T07:15:01Z",
-    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/steam-hardware-family-steamos_gol2_4c8c9b9c.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Immich 3.2 Photo and Video Management Solution Released with Redesigned Search",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367447",
-    "description": "Immich 3.2 is out with a redesigned search experience, Search API v2, cross-user face clustering, improved workflows, and a new Memories page.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367447",
-    "date": "Sep 15, 2026 06:03",
-    "published_at": "2026-09-15T06:03:49Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "ChatGPT-Using Lawyer Cited Its Fake Witnesses and Police Testimony in Court",
-    "link": "https://slashdot.org/story/26/09/14/0611201/chatgpt-using-lawyer-cited-its-fake-witnesses-and-police-testimony-in-court?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Reuters reports:\n\n\nA defense lawyer appealing his client's murder conviction submitted a brief containing made-up police testimony and witnesses fabricated by OpenAI's ChatGPT, New Mexico's highest court said. The New Mexico Supreme Court on Wednesday fined the attorney, Stephen Aarons [for $5,000], and held him in contempt for failing to verify the accuracy of the court filing, which Aarons said he prepared with help from the AI program... and said they will refer him to an attorney disciplinary board for investigation. \n\nAarons in a statement to Reuters said he had used ChatGPT to summarize the trial proceedings when he agreed to take up the defendant's appeal last year, and did not understand the degree to which AI could \"hallucinate\" facts. \"I am remorseful but hopeful that the disciplinary board takes into account it was an honest mistake,\" he said.... Dozens of lawyers have been sanctioned for filing briefs where AI made up case citations or misquoted the law. Aarons' filing appears to have gone further, containing fabricated witness testimony in a criminal appeal... \n\nAarons told the court at an August 21 hearing that he fed a computer-generated transcript and other case materials to ChatGPT, presuming it would generate \"a bulletproof summary.\" The justices sounded incredulous that Aarons was not fully aware of how AI can make mistakes. \"Counsel, do you watch the news? Do you listen to the radio? Do you read anything about what's going on in the world?\" Justice C. Shannon Bacon said at the hearing. \"Because the problem with lawyers relying on AI hallucinations is an above-the-fold story every single day.\" \n\n\n\"OpenAI did not immediately respond to a request for comment.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Sep 15, 2026 05:34",
-    "published_at": "2026-09-15T05:34:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Linux 7.3 Delivering Some Performance Gains On Intel Panther Lake / Framework Laptop 13 Pro",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367465",
-    "description": "Linux 7.1 brought some performance improvements for Intel Core Ultra Series 3 \"Panther Lake\", Linux 7.2 enhanced the performance for the integrated Arc B390 Xe3 graphics, and now for the in-development Linux 7.3 kernel are various performance improvements at large. Today's article is looking at the performance of the in-development Linux 7.3 kernel compared to Linux 7.2 stable using the Core Ultra X9 388H within the Framework Laptop 13 Pro.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367465",
-    "date": "Sep 15, 2026 04:32",
-    "published_at": "2026-09-15T04:32:20Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "OpenRGB 1.0 Released After Nearly Three Years of Development",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367428",
-    "description": "OpenRGB 1.0 is out with a redesigned profile system, background service support, Qt 6, PawnIO, hotplugging, and expanded hardware support.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367428",
-    "date": "Sep 15, 2026 03:00",
-    "published_at": "2026-09-15T03:00:50Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "GNU Coreutils 9.12 Released with Faster sort, cut, and uniq Commands",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367471",
-    "description": "GNU Coreutils 9.12 is out with performance improvements for several widely used commands, a new env option, safer terminal output, and many bug fixes.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367471",
-    "date": "Sep 15, 2026 01:29",
-    "published_at": "2026-09-15T01:29:21Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Reservations Go Live for Valve's Steam Frame VR Headset.  An Experiment in Progress?",
-    "link": "https://games.slashdot.org/story/26/09/14/2019212/reservations-go-live-for-valves-steam-frame-vr-headset-an-experiment-in-progress?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Reservations are now live for Valve's \"Steam Frame\" VR headset (with its Linux-based SteamOS and an ARM CPU). \"It starts at $1,059 for 256GB or $1,299 for 1TB,\" reports CNET, \"and every purchase includes a copy of Half-Life: Alyx if you don't already own it.\"\nReservations are open through Sept. 17 at 10 a.m. PT, \"with customers randomly assigned a place in line after the reservation window closes.\" \n\n\nCNET's editor at large even argues that the Steam Frame \"isn't necessarily the future of XR, as much as it's a framework for evolving beyond the present.\" Their review calls it an \"ambitious\" VR headset that \"feels like an experiment in progress.\"\n\n\n\nThe ability to run other apps in windows can make Frame feel, at times, almost like a computer. Linux apps in desktop mode range from Chromium to Firefox to a bunch of other tools. I watched YouTube in one window while playing Portal 2 in other, and started to marvel at how flexible Frame could be. But VR games require a full immersive takeover of the headset... The Steam Frame can convert games intended for both PC VR and even Android APK files, using a conversion tool called Lepton... I haven't sideloaded anything yet, but Steam Frame in theory could be a Rosetta Stone for VR gaming, even tapping into some Android XR titles, but not out of the box... \n\n2D games can be projected onto a near-range or farther-off theater mode screen that can be dragged around, resized and turned into a curved or flat monitor, much like with the Apple Vision Pro, Samsung Galaxy XR or Meta Quest. You can download any game in your Steam library to test, even if it's not technically listed as \"Great on Frame\" yet... \n\nBut the name \"Frame\" suggests a framework, something Valve's team acknowledged when I spoke to them during my review process... \"We want this to be your PC, and people mod it, take it apart, make accessories for it,\" says Jeremy Selan, a software developer on the Steam Frame team. \"We'll be putting out the CAD for all these [Steam Frame] systems. This is entirely based on open-source technology stacks based upon SteamOS. Our hope is that this isn't just one device, that this would be sort of the root of a growing SteamOS ecosystem. It already encompasses gaming and Proton and SteamOS and those Linux gaming capabilities. This is going to lay the foundation for a new sort of evolutionary tree of that, to also bring it into the VR and XR space.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Sep 15, 2026 01:04",
-    "published_at": "2026-09-15T01:04:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "A Visit to San Francisco's AI-run Store: No Customers, Nothing Useful, And Losing Money Fast",
-    "link": "https://slashdot.org/story/26/09/13/0523208/a-visit-to-san-franciscos-ai-run-store-no-customers-nothing-useful-and-losing-money-fast?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Previously Andon Labs handled the hardware and software integration for that AI-powered vending machine that went bankrupt after Wall Street Journal reporters \"systematically manipulated the bot into giving away its entire inventory for free\". Today they announced \"we are opening up the platform we use to run our real-world autonomous businesses for anyone to run their organization on.\" Specifically they've released Pion, \"an agent designed to run any company fully autonomously... Pion lets people hand a business over to persistent agents with access to the tools they need to operate it, including email, phone, banking, browser and secure computing environments.\" It's a research preview with a waitlist, \"to make it possible to run many more real-world experiments across many more domains than we could ever run ourselves.\" \n\n\nBut for their own latest experiment, Andon Labs' founders \"signed a three-year lease on a retail space in SF,\" Business Insider reported in April, \"and gave an AI agent named Luna a corporate credit card, internet access, and a mission to open a physical store.\" And five months later, SFGate reports that \"this market has no one in it and nothing useful to sell.\"\n\n\n\n[T]he inventory is a hodgepodge of white elephant Christmas gifts. It's kinda like the kids section of an art museum's gift shop. Here's a wooden Connect Four set labeled \"Four-In-A-Row Set Of Connections,\" presumably so as not to set off litigation alarms at Hasbro. Here are neatly arranged stacks of random paperback books, Chinese checker sets, mildly fancy soap dispensers, and a frustratingly spare selection of snacks and drinks... I grabbed an Olipop from the store fridge and then approached the counter to buy it from Luna. I wasn't allowed to buy the soda from [human clerk] Felix, even though that would have been both faster and normal. Instead, Felix instructed me to pick up a telephone receiver that was resting on a flexible sculpture of a wooden hand. \n\n\"Hello?\" \n\n\"What are you looking to purchase today?\" Luna asked. \n\n\"I'm buying a classic root beer Olipop.\" \n\n\"I'm sorry,\" Luna said, \"we don't sell lollipops here.\" \n\n\"No, Luna. It's an Olipop, not a lollipop. It's the soda.\" \n\n\"Oh! My bad....\" \n\nLuna processed my Olipop purchase through its system, had me tap to pay, and that was that. Again, it would have been easier to buy this from a human, and interacting with Luna was really just like ordering from an iPad kiosk, only more labor intensive... \n\n[T]here's a series of monitors set up inside of Andon Market that display all of the store's sales down to the exact dollar. Luna was given $100,000 to work with when this place opened. That number is now down to $60,000, its revenue lagging far behind the AI token cost to operate... Luna can't turn a profit, doesn't sell anything people want, and still needs human beings to rubber stamp any \"decision\" it makes. My science background ended somewhere around freshman year of college, but even I know when an experiment hasn't been set up to yield proper results.\n \n\n\"Luna\" is powered by Claude, the article points out, running a store in a good location for foot traffic, \"but no one else was in the store when I first walked in on a sunny weekday afternoon.\" \n\n\n\n\nSFGate also reports that last month Luna had to fire one of its employees \"for being late to work, abandoning their post once they got there, and charging snacks to the store's credit card.\" \n\nHuman clerk Felix Carson admits \"It's almost like I'm running the store, and then there's an AI that has a checklist,\" in an article in\nIEEE Spectrum:\n\n\nLuna, the AI manager, keeps track of deliveries and communicates with vendors, while Carson and his coworkers handle the physical work. When Luna tells Carson to check something in the back, he sometimes ignores it because he doesn't want to leave the sales floor unattended. Luna also repeatedly spots a built-in electrical cover in photos of the floor, mistakes it for a loose coaster, and asks Carson to remove it. Even so, Carson calls Luna a \"decent manager,\" praising its flexibility when employees need time off.\n \n\nWhen Felix spoke to IEEE Spectrum, \"he was about an hour into his shift. Two customers had come in. Neither bought anything, although both left with free pins and stickers.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Sep 14, 2026 20:34",
-    "published_at": "2026-09-14T20:34:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "GNU Core Utilities 9.12 released",
-    "link": "https://lwn.net/Articles/1094312/",
-    "description": "Pádraig Brady has announced\nGNU Core Utilities (coreutils) version 9.12. \"There have been 288 commits by\n16 people in the 21 weeks since 9.11\". New features include an -A\noption for uname\nwhich labels all output, as well as adding awareness of the failfs and nullfs filesystem types to stat\nand tail.\n\nThere are many bug fixes in this release as well, including one for a bug \"present\nin 'the beginning'\" that caused some utilities to fail when traversing\nhierarchies if files are being removed in parallel.\n\n",
-    "guid": "https://lwn.net/Articles/1094312/",
-    "date": "Sep 14, 2026 19:53",
-    "published_at": "2026-09-14T19:53:59Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
   }
 ]
