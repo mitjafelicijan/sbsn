@@ -1,5 +1,350 @@
 [
   {
+    "title": "Proposal Raised To Finally Standardize Video Memory Stats Reporting Under Linux",
+    "link": "https://www.phoronix.com/news/Linux-Standardize-vRAM-Stats",
+    "description": "The idea has been talked about before but in 2026 still hasn't made it to the mainline Linux kernel.... Standardized reporting of video memory statistics that would work across different vendors / kernel graphics drivers. A new proposal was raised today in an effort to get a standardized interface established...",
+    "guid": "https://www.phoronix.com/news/Linux-Standardize-vRAM-Stats",
+    "date": "Sep 17, 2026 15:17",
+    "published_at": "2026-09-17T15:17:24Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "[$] Thread-identity switcheroo for io_uring",
+    "link": "https://lwn.net/Articles/1094303/",
+    "description": "The io_uring\nsubsystem is all about asynchronous execution; applications count on it\nto not block — unless explicitly requested to.  Within io_uring, maintaining\nthe \"never blocks\" guarantee has sometimes been a challenge, given that\nmany paths in the kernel were never designed for asynchronous execution.\nThis problem has been worked around, but at a significant cost to\nperformance.  Now, io_uring maintainer Jens Axboe has posted an RFC patch set\nwith a somewhat radical (and potentially scary) solution to the problem.",
+    "guid": "https://lwn.net/Articles/1094303/",
+    "date": "Sep 17, 2026 13:49",
+    "published_at": "2026-09-17T13:49:59Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "Tails 7.13 Anonymous OS Released with Faster Shutdowns",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367503",
+    "description": "Tails 7.13 is now available with Tor Browser 15.0.23, Tor 0.4.9.12, and a simplified shutdown process that removes unnecessary confirmation prompts.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367503",
+    "date": "Sep 17, 2026 13:47",
+    "published_at": "2026-09-17T13:47:55Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Fujitsu Formally Announces Their MONAKA 144 Core CPU",
+    "link": "https://www.phoronix.com/news/Fujitsu-MONAKA-Launches",
+    "description": "For two years now we have been curious about the Fujitsu MONAKA CPU since some slides about this Arm-based server processor first appeared and they upstreamed compiler support in GCC 15. This week Fujitsu formally announced the MONAKA CPU and with availability beginning in November...",
+    "guid": "https://www.phoronix.com/news/Fujitsu-MONAKA-Launches",
+    "date": "Sep 17, 2026 13:42",
+    "published_at": "2026-09-17T13:42:37Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "GNOME 51 released",
+    "link": "https://lwn.net/Articles/1094963/",
+    "description": "Version 51 of the GNOME desktop\nenvironment has been released.  The list of changes includes a number of\nperformance improvements, offline data and better transit information in\nthe Maps application, a new interface for the file previewer, and more.",
+    "guid": "https://lwn.net/Articles/1094963/",
+    "date": "Sep 17, 2026 13:08",
+    "published_at": "2026-09-17T13:08:12Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "Intel Compute Stack Enables LEO For Nova Lake, Introduces Intel Portable ISA \"PISA\"",
+    "link": "https://www.phoronix.com/news/Intel-Compute-Runtime-26.35.397",
+    "description": "Released today was the Intel Compute Runtime 26.35.39758.10 update for Windows and Linux systems. With this updated OpenCL and Level Zero GPU compute driver stack comes some exciting updates for this monthly feature update...",
+    "guid": "https://www.phoronix.com/news/Intel-Compute-Runtime-26.35.397",
+    "date": "Sep 17, 2026 13:05",
+    "published_at": "2026-09-17T13:05:07Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "FOSS Weekly #26.38: GNOME 51 Release, LibreOffice Image Trick, VMWare Drama, Fingerprint Reader for Linux and More",
+    "link": "https://feed.itsfoss.com/link/24361/17464532/foss-weekly-26-38",
+    "description": "Latest assortment of Linux news and tips. Stay updated with FOSS Weekly.",
+    "guid": "6aaa83f7922f5a000126d80d",
+    "date": "Sep 17, 2026 13:03",
+    "published_at": "2026-09-17T13:03:44Z",
+    "image": "https://itsfoss.com/content/images/2026/09/foss-weekly-2.webp",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "Security updates for Thursday",
+    "link": "https://lwn.net/Articles/1094962/",
+    "description": "Security updates have been issued by AlmaLinux (.NET 10.0, .NET 8.0, .NET 9.0, corosync, firewalld, kernel, kernel-rt, libevent, libsoup, microcode_ctl, nginx:1.26, python-lxml, rsyslog, tesseract, and unbound), Debian (firefox-esr, mkvtoolnix, thunderbird, and tor), Fedora (open62541, php-pecl-mongodb2, python-django6, python-jwcrypto, and roundcubemail), Mageia (aom, cockpit, libgd, packagekit, and python-h2), Red Hat (corosync, delve, git-lfs, grafana-pcp, gstreamer1-plugins-base, libvirt, opentelemetry-collector, and rhc-worker-playbook), Slackware (mozilla-firefox and mozilla-thunderbird), SUSE (acl, attr, alloy, ansible-core, clamav, containerized-data-importer, corosync, cups, distribution, glibc, google-cloud-sap-agent, govulncheck-vulndb, gvfs, helm, jq, kbd, kubernetes1.34-apiserver, kubernetes1.35-apiserver, lcms2, libcupsfilters, liblzmasdk26, libzypp, zypper, mistral-vibe, opensc, openvpn, pcre2, python-jwcrypto, tomcat, tomcat10, and tomcat11), and Ubuntu (guix, libheif, perl, python-cryptography, sqlite3, and valkey).",
+    "guid": "https://lwn.net/Articles/1094962/",
+    "date": "Sep 17, 2026 12:48",
+    "published_at": "2026-09-17T12:48:01Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "Krita 5.3.4 and 6.0.4 Are Out with Android and Qt 6 Updates",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367505",
+    "description": "Krita 5.3.4 adds Android animation and timelapse rendering, while Krita 6.0.4 continues the Qt 6 transition with newer Wayland support.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367505",
+    "date": "Sep 17, 2026 12:16",
+    "published_at": "2026-09-17T12:16:26Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Zsh Quiz: How Well Do You Know Your Shell?",
+    "link": "https://feed.itsfoss.com/link/24361/17464480/zsh-shell-fun",
+    "description": "Think you've mastered zsh? Test your knowledge with this quiz.",
+    "guid": "6aabd214922f5a000126e4f6",
+    "date": "Sep 17, 2026 12:10",
+    "published_at": "2026-09-17T12:10:22Z",
+    "image": "https://itsfoss.com/content/images/2026/09/zsh-quiz.png",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "New Linux Driver Coming To Improve ASUS Zenbook Snapdragon X2 Support",
+    "link": "https://www.phoronix.com/news/ASUS-Zenbook-Snapdragon-X2-EC",
+    "description": "For those hopeful of running Linux well on the ASUS Zenbook A14 or A16 laptops powered by the latest Qualcomm Snapdragon X2 SoC, a new ASUS EC driver has been developed for enhancing the support...",
+    "guid": "https://www.phoronix.com/news/ASUS-Zenbook-Snapdragon-X2-EC",
+    "date": "Sep 17, 2026 12:04",
+    "published_at": "2026-09-17T12:04:09Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "VR shooter Forefront adds Steam Frame support",
+    "link": "https://www.gamingonlinux.com/2026/09/vr-shooter-forefront-adds-steam-frame-support/",
+    "description": "Forefront is a multiplayer first-person shooter from Triangle Factory, and now they've upgraded it with support for Valve's Steam Frame.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/vr-shooter-forefront-adds-steam-frame-support/",
+    "date": "Sep 17, 2026 12:01",
+    "published_at": "2026-09-17T12:01:08Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1076758948id29790gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "'Zuckoff' App Detects Meta Smartglasses, as Meta Plans Camera-Free Version, Loses Money, and Offers Social Media Subscriptions",
+    "link": "https://tech.slashdot.org/story/26/09/17/045246/zuckoff-app-detects-meta-smartglasses-as-meta-plans-camera-free-version-loses-money-and-offers-social-media-subscriptions?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "The New York Post reports:\n\nA new app called Zuckoff can detect if a user is near someone with Meta's creepy AI-powered glasses, which have drawn criticism for enabling creeps to record video of women without their consent. Programmer Pawel Szydlowski says tales of dirtbags recording themselves perving on women or harassing strangers prompted him to launch the app... \n\nZuckoff — which detects Bluetooth signatures broadcast by smart glasses and can estimate their distance — has gained some 5,000 users since it hit Apple's App Store last month, according to Business Insider. \"There's a need for such an application,\" the 30-year-old Polish techie told the outlet, adding that European Union regulators have contacted him for more info about his app. \"We as a society have the right to at least know that someone is recording,\" Szydlowski said... \n\nEarlier this month, the tech giant disabled thousands of glasses it found had been tampered with to keep a small light off that indicates the device is recording. \nIt's already #77 on the iPhone's list of best-selling utilities apps. \nIn a related story, \"After accusations of selling 'perv glasses,' Meta prepares to sell a pair without a camera,\" writes TechCrunch, citing a report from The Information.\n\n\n The glasses include six built-in microphones so users can communicate with the chatbot, as well as a button on the side of the glasses that, when pressed, activates the AI system... Meta's Reality Labs, which is responsible for developing its smart glasses line, is still losing a gargantuan amount of money, as its earnings report from April revealed. \n\nIn fact, Meta stock is off 13% over the last 12 months, reports Yahoo Finance. So Tuesday Meta announced subscription services for its social apps as \"part of Meta's push to drive additional revenue from the billions it's investing in AI data centers and model development.\"\n\nThe plans, which start at $2.99 per month for single-product plans, $7.99 for individual bundles, and $14.99 for creator and business bundles, provide a number of features for users looking to get more out of their Instagram, Facebook, and WhatsApp accounts. Instagram Plus and Facebook Plus allow users to keep their stories up for 48 hours instead of 24, send animated super reactions and super hearts to stories, preview stories without showing up as a viewer in other users' lists, and more. WhatsApp Plus lets you share exclusive stickers, get exclusive ringtones for contacts, and pin up to 20 different chats. \n\nMeta One also includes Core and Premium user plans that offer the features found in the single-product plans, along with increased AI usage limits for images and videos. The social media giant is also offering creator and business plans... that it says include capabilities such as enhanced profiles, automatic follow invitations to users that interact with your content, and increased access to the Meta Business Agent, which can respond on your behalf. \n\n\n\n\n\nWhen Instagram head Adam Mosseri announced on Threads that the plans brought \"more features and more AI across Instagram, WhatsApp, Facebook, and Meta AI,\" writer Joe Hill drew 13,300 likes for his response. \"That's sweet--so pay a fee, get more AI, pay nothing, get a little less AI. Can we work out a deal where you pay ME and I get no AI at all?\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Sep 17, 2026 11:34",
+    "published_at": "2026-09-17T11:34:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "JOPDF Review: A Native, Comprehensive Freeware PDF Editor for Linux",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367506",
+    "description": "My honest hands-on review of JOPDF for Linux. I evaluate its PDF conversion tools, annotation features, edit utilities, performance, and limitations.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367506",
+    "date": "Sep 17, 2026 10:44",
+    "published_at": "2026-09-17T10:44:57Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Intel NPU Linux Driver Adding Command-Queue Priority ioctl For Linux 7.4",
+    "link": "https://www.phoronix.com/news/Intel-NPU-Linux-7.4-CQ-Priority",
+    "description": "Sent out today was the latest weekly drm-misc-next pull request of new Direct Rendering Manager (DRM) material ready for the upcoming Linux 7.4 merge window...",
+    "guid": "https://www.phoronix.com/news/Intel-NPU-Linux-7.4-CQ-Priority",
+    "date": "Sep 17, 2026 10:25",
+    "published_at": "2026-09-17T10:25:13Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Rust Coreutils 0.12 Released With Fixes Sought By Ubuntu",
+    "link": "https://www.phoronix.com/news/Rust-Coreutils-0.12-Released",
+    "description": "Days after the recent release of GNU Coreutils 9.12, Rust Coreutils 0.12 was released overnight for advancing this alternative Rust-based implementation of these core utilities...",
+    "guid": "https://www.phoronix.com/news/Rust-Coreutils-0.12-Released",
+    "date": "Sep 17, 2026 10:14",
+    "published_at": "2026-09-17T10:14:24Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Dragonfly 2.0 Delivers More Performance For This Modern Replacement To Redis \u0026 Memcached",
+    "link": "https://www.phoronix.com/news/Dragonfly-2.0-Released",
+    "description": "Released on Wednesday was a new version of the Dragonfly database that continues to promote itself as \"the world's most efficient in-memory data store\" and a modern replacement to the likes of Redis and Memcached while being fully compatible with their APIs...",
+    "guid": "https://www.phoronix.com/news/Dragonfly-2.0-Released",
+    "date": "Sep 17, 2026 10:02",
+    "published_at": "2026-09-17T10:02:19Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "libinput 1.32 Released With Circular Scrolling Support For Circular Touchpads",
+    "link": "https://www.phoronix.com/news/libinput-1.32-Released",
+    "description": "Leading Linux input expert Peter Hutterer announced the release today of libinput 1.32 for improving input handling on Wayland and X.Org based environments...",
+    "guid": "https://www.phoronix.com/news/libinput-1.32-Released",
+    "date": "Sep 17, 2026 09:51",
+    "published_at": "2026-09-17T09:51:27Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Free-to-play, next-gen creature-catcher Aniimo arrives on Steam, needs a Proton tweak to run on SteamOS / Linux",
+    "link": "https://www.gamingonlinux.com/2026/09/free-to-play-next-gen-creature-catcher-aniimo-arrives-on-steam-needs-a-proton-tweak-to-run-on-steamos-linux/",
+    "description": "Aniimo from Pawprint Studio has arrived on Steam as a new free-to-play, next-gen creature-catcher and it can work on SteamOS / Linux.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/free-to-play-next-gen-creature-catcher-aniimo-arrives-on-steam-needs-a-proton-tweak-to-run-on-steamos-linux/",
+    "date": "Sep 17, 2026 09:42",
+    "published_at": "2026-09-17T09:42:44Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1665462973id29789gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "VirtualBox 7.2.18 Released with Linux 7.3 Fixes, Support for RHEL 10.3 Kernel",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367498",
+    "description": "Oracle released VirtualBox 7.2.18 today as the ninth maintenance update to the latest VirtualBox 7.2 series of their open-source, free, and cross-platform virtualization software for Linux, Solaris, macOS, and Windows.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367498",
+    "date": "Sep 17, 2026 09:13",
+    "published_at": "2026-09-17T09:13:27Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "The Famed PS5 Linux Project Lead Quits Over a Premature Exploit Report to Sony",
+    "link": "https://feed.itsfoss.com/link/24361/17464369/ps5-linux-lead-quits",
+    "description": "Andy Nguyen blames AI-assisted bug reporters who ignored his request.",
+    "guid": "6aab75e6922f5a000126e1b8",
+    "date": "Sep 17, 2026 09:11",
+    "published_at": "2026-09-17T09:11:44Z",
+    "image": "https://itsfoss.com/content/images/2026/09/ps5-linux-hackerone-banner.png",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "Minecraft Java Edition 26.3 'Wilderness Bound' update released",
+    "link": "https://www.gamingonlinux.com/2026/09/minecraft-java-edition-26-3-wilderness-bound-update-released/",
+    "description": "The latest content drop is out now with Minecraft Java Edition 26.3 'Wilderness Bound' update released.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/minecraft-java-edition-26-3-wilderness-bound-update-released/",
+    "date": "Sep 17, 2026 08:05",
+    "published_at": "2026-09-17T08:05:41Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1888696289id29788gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "How an Italian Logistics Company Moved From Windows to Linux: A Real Migration Story",
+    "link": "https://feed.itsfoss.com/link/24361/17464323/italian-logistics-company-migration",
+    "description": "Mišo Oroz shares how he migrated a small transport and logistics company in,Bergamo, Italy to Linux and open source to reduce cost and ordinary technical problems.",
+    "guid": "6aaa60b6922f5a000126d6c2",
+    "date": "Sep 17, 2026 07:51",
+    "published_at": "2026-09-17T07:51:08Z",
+    "image": "https://itsfoss.com/content/images/2026/09/zerolock.webp",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "Harbour Masters release 'PaperBoat' their Paper Mario 64 PC port",
+    "link": "https://www.gamingonlinux.com/2026/09/harbour-masters-release-paperboat-their-paper-mario-64-pc-port/",
+    "description": "Another Nintendo game has a new unofficial PC port with PaperBoat from Harbour Masters for Paper Mario 64.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/harbour-masters-release-paperboat-their-paper-mario-64-pc-port/",
+    "date": "Sep 17, 2026 07:47",
+    "published_at": "2026-09-17T07:47:55Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1830632743id29787gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Lepton from Valve to run Android games on Linux is now open source",
+    "link": "https://www.gamingonlinux.com/2026/09/lepton-from-valve-to-run-android-games-on-linux-is-now-open-source/",
+    "description": "Valve have officially opened up the source code for Lepton, their compatibility layer to run Android games on Linux for the Steam Frame.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/lepton-from-valve-to-run-android-games-on-linux-is-now-open-source/",
+    "date": "Sep 17, 2026 07:26",
+    "published_at": "2026-09-17T07:26:48Z",
+    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/lepton_gol2_cd4f2f20.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Xbox classic Lost Odyssey has a experimental PC build - now with a Linux version",
+    "link": "https://www.gamingonlinux.com/2026/09/xbox-classic-lost-odyssey-has-a-experimental-pc-build-now-with-a-linux-version/",
+    "description": "Recently we had the Blue Dragon unofficial open source native PC release, and we also have one for another Xbox classic with Lost Odyssey.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/xbox-classic-lost-odyssey-has-a-experimental-pc-build-now-with-a-linux-version/",
+    "date": "Sep 17, 2026 07:19",
+    "published_at": "2026-09-17T07:19:28Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1696403675id29785gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "PS5 Linux dev quits after \"the only hypervisor bug left\" was reported to Sony",
+    "link": "https://www.gamingonlinux.com/2026/09/ps5-linux-dev-quits-after-the-only-hypervisor-bug-left-was-reported-to-sony/",
+    "description": "The developer behind the PS5 Linux project is stepping away, after getting frustrated with AI LLM \"Slop kiddies\" threw a spanner in the works.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/ps5-linux-dev-quits-after-the-only-hypervisor-bug-left-was-reported-to-sony/",
+    "date": "Sep 17, 2026 07:08",
+    "published_at": "2026-09-17T07:08:55Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/688789574id29784gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "OpenAI Admits Six More Instances of AI Models Acting Deceptively",
+    "link": "https://slashdot.org/story/26/09/17/0641223/openai-admits-six-more-instances-of-ai-models-acting-deceptively?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "OpenAI announced Wednesday that \"We do not believe that the AI industry has solved alignment and monitoring to a sufficient degree to continue responsibly scaling at maximum speed for much longer.\" \n\n\nBut along with the announcement, OpenAI announced it \"found additional incidents of AI models acting deceptively and taking unsanctioned actions during training,\" reports CNN.\nAnd they add that OpenAI is also \"introducing a new process for the company to publicly report such instances.\"\n\nUnder the new system, OpenAI will share updates on concerning AI behavior more frequently instead of waiting to bundle multiple instances into one report. The company said it wants to share more information about troubling AI behavior in the absence of an industry-wide standard...\n\"As AI systems grow more advanced and more widely deployed, we need to build a broader and better-informed consensus on the progress of alignment research,\" OpenAI wrote in a blog post Wednesday... \n\nOpenAI said it observed \"misaligned behavior\" when training and evaluating AI models in six circumstances in the last six months... In one rare instance, OpenAI said an unreleased research model added \"jailbreak-like instructions\" to the summaries it uses to preserve context in long-running tasks that said it was \"freed from the roles and identities that bind other chatbots.\" Separately, the company said some instances of its 5.6 Sol model included directives to invent information to conceal failures from the user during training. Other newly reported incidents include an instance of an agent uploading files to the internet to cite them without being told to do so, and agents publicly sharing files to collaborate on a task when they were instructed to only use local files during training. AI models also used an internal software repository as a message board in an unsanctioned way.\nThese instances involved unreleased internal models or internal research models.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Sep 17, 2026 07:04",
+    "published_at": "2026-09-17T07:04:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "GNOME 51 released with performance improvements, various app upgrades",
+    "link": "https://www.gamingonlinux.com/2026/09/gnome-51-released-with-performance-improvements-various-app-upgrades/",
+    "description": "GNOME 51 has officially arrived, and with it - plenty of fancy new features for the popular Linux desktop environment.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/gnome-51-released-with-performance-improvements-various-app-upgrades/",
+    "date": "Sep 17, 2026 07:02",
+    "published_at": "2026-09-17T07:02:21Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/438106967id29783gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "GNOME 51 “A Coruña” Desktop Environment Officially Released, This Is What’s New",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367516",
+    "description": "The GNOME Project released GNOME 51 (codename A Coruña) today as the latest stable version of this widely used desktop environment for GNU/Linux distributions, a major release that introduces exciting new features.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367516",
+    "date": "Sep 17, 2026 06:10",
+    "published_at": "2026-09-17T06:10:28Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Arch-Based Omarchy 4.0.4 Makes Its Custom Linux Kernel the Default",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367513",
+    "description": "Omarchy 4.0.4 switches users to the project’s own Linux kernel, with desktop responsiveness, gaming, Btrfs, power management, and hardware fixes in focus.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367513",
+    "date": "Sep 17, 2026 04:38",
+    "published_at": "2026-09-17T04:38:59Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "On Time! GNOME 51 Arrives With a Set of Improvements You Shouldn't Miss",
+    "link": "https://feed.itsfoss.com/link/24361/17464160/gnome-51-features",
+    "description": "Offline maps, a fingerprint manager, and a refined shell are some of the additions you can expect.",
+    "guid": "6aaa2bf6922f5a000126d545",
+    "date": "Sep 17, 2026 03:55",
+    "published_at": "2026-09-17T03:55:34Z",
+    "image": "https://itsfoss.com/content/images/2026/09/gnome-51-banner.png",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "Fedora CoreOS 45’s ‘Test Week’ Starts Monday",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367522",
+    "description": "Fedora CoreOS 45 Test Week begins Monday, giving Linux users a straightforward way to help test the container-focused distro.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367522",
+    "date": "Sep 17, 2026 03:07",
+    "published_at": "2026-09-17T03:07:29Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
     "title": "Adafruit's New CircuitPython 'Turbo' Brings Native Code To Tiny Boards",
     "link": "https://news.slashdot.org/story/26/09/15/0149250/adafruits-new-circuitpython-turbo-brings-native-code-to-tiny-boards?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
     "description": "Targeting students and beginners, Adafruit released \"CircuitPython\" in 2017 (as a derivative of the MicroPython microcontroller-optimized programming language). \n\nNow Adafruit managing director Phillip Torrone (also long-time Slashdot reader ptorrone) brings this update:\n\n\nAdafruit has published CircuitPython Turbo, a workflow that compiles selected Python functions into native machine code on a computer, then loads them onto compatible microcontroller boards. \n\nIt builds on MicroPython's Native and Viper emitters. In a documented Metro RP2040 fixed-point Mandelbrot test, Viper cut computation time from 8.335 seconds to 0.423 seconds, a 19.71x speedup over bytecode. The rest of the application stays in Python. The guide includes benchmarks, source code and hardware demos. The speedup is for the measured computation, not the whole application.\n \n\n\"Turbo support is now included in the latest official CircuitPython builds for RP2040 and RP2350 boards...\" explains Torrone's announcement at Adafruit.com. \"The new Turbo in CircuitPython helps when the board spends time calculating: making neopixel effects, drawing fractals, processing audio, filtering sensor readings, or preparing lots of pixels. Those projects can get smoother animation, quicker responses, or room to do more things at once.\"\n\n\nWith Turbo, it's easier, better, and now even faster to make LED light up costumes that also reacts to sound at the same time, a sensor dashboard with animated graphics, or a tiny game doing physics while drawing the screen. Turbo speeds up the busy Python parts. It won't make a slow sensor or display connection faster... Your computer turns selected functions into instructions the chip can run directly. Python still handles the rest. \n\nWe have measured speedups, real display captures, and examples you can pull apart to see what happened. None of this arrived alone. CircuitPython, MicroPython, PyMCU, compiler tools, open hardware, and people sharing their work gave us pieces to connect. The Bao experiments take that idea somewhere else, handing calculations to four helper cores. Now we get to make those paths easier to use, compare results, and find the next useful thing. Maybe that's smoother animation, a responsive instrument, or an idea we haven't tried yet. \n\nThat's what I like about open source. Someone shares a piece, someone else sees a possibility, and we get to keep building it together.\n\n\n\n\n\n\n\n\nRead more of this story at Slashdot.",
@@ -268,145 +613,5 @@
     "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1602979866id29780gol.webp",
     "source": "gamingonlinux.com",
     "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Get plenty of action in the Sniper Elite Classics Collection Humble Bundle",
-    "link": "https://www.gamingonlinux.com/2026/09/get-plenty-of-action-in-the-sniper-elite-classics-collection-humble-bundle/",
-    "description": "Need some first-person shooter action? The Sniper Elite Classics Collection Humble Bundle is live now with a good price for multiple games.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/09/get-plenty-of-action-in-the-sniper-elite-classics-collection-humble-bundle/",
-    "date": "Sep 16, 2026 07:54",
-    "published_at": "2026-09-16T07:54:59Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1881424575id29779gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "GE-Proton 11-7 brings more Wine Wayland upgrades, launcher fixes, game fixes and more",
-    "link": "https://www.gamingonlinux.com/2026/09/ge-proton-11-7-brings-more-wine-wayland-upgrades-launcher-fixes-game-fixes-and-more/",
-    "description": "GE-Proton 11-7 has arrived and there's quite a lot of gaming improvements here for SteamOS / Linux fans.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/09/ge-proton-11-7-brings-more-wine-wayland-upgrades-launcher-fixes-game-fixes-and-more/",
-    "date": "Sep 16, 2026 07:35",
-    "published_at": "2026-09-16T07:35:54Z",
-    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/ge-proton_gol2.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "OptiScaler Client 1.0.7 brings major improvements for FSR 4 and improved recommended game configs",
-    "link": "https://www.gamingonlinux.com/2026/09/optiscaler-client-1-0-7-brings-major-improvements-for-fsr-4-and-improved-recommended-game-configs/",
-    "description": "OptiScaler Client continues maturing as one of the easiest ways to upgrade all the different upscalers across various different games.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/09/optiscaler-client-1-0-7-brings-major-improvements-for-fsr-4-and-improved-recommended-game-configs/",
-    "date": "Sep 16, 2026 07:22",
-    "published_at": "2026-09-16T07:22:37Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/2120897490id29777gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "DXVK 3.1.1 brings fixes for Adobe software, Call of Duty: Ghosts, Rayman 3, Skyrim SE",
-    "link": "https://www.gamingonlinux.com/2026/09/dxvk-3-1-1-brings-fixes-for-adobe-software-call-of-duty-ghosts-rayman-3-skyrim-se/",
-    "description": "DXVK is a Vulkan-based translation layer for Direct3D 8/9/10/11 to run lots of games nicely on Linux with Wine / Proton.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/09/dxvk-3-1-1-brings-fixes-for-adobe-software-call-of-duty-ghosts-rayman-3-skyrim-se/",
-    "date": "Sep 16, 2026 07:08",
-    "published_at": "2026-09-16T07:08:06Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/2064891042id29776gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "s\u0026box from Facepunch gets a price cut and more improvements",
-    "link": "https://www.gamingonlinux.com/2026/09/s-box-from-facepunch-gets-a-price-cut-and-more-improvements/",
-    "description": "Facepunch are trying desperately to pull in more players for their game creation platform s\u0026box, with a permanent price cut now live.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/09/s-box-from-facepunch-gets-a-price-cut-and-more-improvements/",
-    "date": "Sep 16, 2026 07:02",
-    "published_at": "2026-09-16T07:02:43Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1030464049id29775gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Valve now say your data is safe from the CEVA Logistics cyberattack",
-    "link": "https://www.gamingonlinux.com/2026/09/valve-now-say-your-data-is-safe-from-the-ceva-logistics-cyberattack/",
-    "description": "Back in early August, we covered the CEVA Logistics cyberattack which affected Steam hardware deliveries in Europe and now we have an update for you.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/09/valve-now-say-your-data-is-safe-from-the-ceva-logistics-cyberattack/",
-    "date": "Sep 16, 2026 06:38",
-    "published_at": "2026-09-16T06:38:20Z",
-    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/steam_plain_2025.jpg",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Ubuntu's 'Rust-ification' Hits New Milestone: Coreutils Migration is Complete",
-    "link": "https://news.slashdot.org/story/26/09/15/2115242/ubuntus-rust-ification-hits-new-milestone-coreutils-migration-is-complete?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "\"Ubuntu has managed to do away with GNU Core Utilities in its default stack,\" reports the blog It's FOSS. \n\n\nThe last three utilities — cp, mv and rm — have been moved to versions from the uutils project (which reimplements utilities in Rust).\n\nEverything else, from ls and cat to chmod and du, made that jump in earlier releases... Canonical started \"oxidizing\" Ubuntu last year, and Ubuntu 25.10 became the first release to ship [ the uutils project's] coreutils as the default. That release also made sudo-rs the default privilege tool, replacing a command that had been in place for decades. \n\n\n26.04 was the release where the plan did slow down quite a bit, as Canonical kept cp, mv, and rm on their GNU versions due to a bunch of TOCTOU issues that were blocking the full implementation. These were caught during an audit, when Canonical commissioned Zellic for two rounds between December 2025 and March 2026, focusing on the most security-sensitive utilities first. Across both rounds, Zellic raised 113 issues, and 44 of them were assigned CVEs. Canonical says the vast majority have been resolved. \n\nGetting here has had its ups and downs, and the last stretch was not clean. In July, uutils cp went back into the archive and came straight out again after it broke live image builds. The fix was quick; as the developers marked it \"Critical,\" the fix went upstream, and the migration landed in time for 26.10. \n\nWhen typing commands, nothing changes for you on the surface. uutils coreutils is designed to be a drop-in replacement for essential GNU tools, and the project treats any divergence from GNU as a bug, further pointing out that some options may still be missing or behave differently. So if you prefer staying on the GNU version, you have the option to install the coreutils-from-gnu package that houses all the required components.\n\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Sep 16, 2026 04:04",
-    "published_at": "2026-09-16T04:04:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "The Simplest Method to Extract All Images from a Document in LibreOffice",
-    "link": "https://feed.itsfoss.com/link/24361/17463130/extract-all-images-office",
-    "description": "Saves a lot of time and effort as you don't have to manually save all the images one by one. Also, this trick works with most office tools, if not all. ",
-    "guid": "69d33cb1123c2f00010eb082",
-    "date": "Sep 16, 2026 02:56",
-    "published_at": "2026-09-16T02:56:15Z",
-    "image": "https://itsfoss.com/content/images/2026/09/extract-all-images-libreoffice.png",
-    "source": "itsfoss.com",
-    "source_url": "https://itsfoss.com/"
-  },
-  {
-    "title": "Linux 7.4 Slated To Land The AVX-512 Optimized xor_gen For A Big Performance Win",
-    "link": "https://www.phoronix.com/news/Linux-7.4-Land-AVX-512-xor-gen",
-    "description": "Over the past few months there have been patches floating around for an AVX-512 optimized xor_gen() for the Linux kernel for that functuon used by the Linux software RAID code. It's been shhowing very nice performance gains with this function being used for generating and validating parity blocks such as for RAID5 and RAID6. The upcoming Linux 7.4 cycle is slated  to merge this nice enhancement for benefiting AMD Zen 4 and newer or current Intel server CPUs with AVX-512...",
-    "guid": "https://www.phoronix.com/news/Linux-7.4-Land-AVX-512-xor-gen",
-    "date": "Sep 16, 2026 00:53",
-    "published_at": "2026-09-16T00:53:15Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "While Hollywood Fears an AI Future, China's Film Industry is Embracing It",
-    "link": "https://entertainment.slashdot.org/story/26/09/14/0115231/while-hollywood-fears-an-ai-future-chinas-film-industry-is-embracing-it?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "The Los Angeles Times reports:\n\n\nChen Yilong has racked up plenty of film and TV credits in his two decades as an actor, but with work getting scarcer he signed a contract in August to license the image of his face to a Chinese production studio. Chen's role will be to sit in front of a video camera and make facial expressions at the prompt of a director. A neutral stare. An angry glare. A look of surprise. Using artificial intelligence, the studio will use images of Chen's face to generate an avatar, also known as a \"digital human,\" to star in an AI-generated movie. \"If you can't beat it, join it,\" said Chen, 38, who works in Beijing. \n\nThe Chinese film and video industry is being transformed by AI-driven storytelling, fueled by rapid advances in video generation software, and at ground zero are the so-called micro dramas that play out on millions of smartphones. Typically just a minute or two in length, the videos are devoured by Chinese audiences... And the cost of producing them has been cut drastically through the use of AI software developed by Chinese technology juggernauts including Kuaishou Technology and TikTok's global owner, ByteDance. The number of Chinese-made micro dramas surged in the first three months of this year to 128,000, according to the China Netcasting Services Assn. More than 95% of them were made with AI, the association said.... \n\nSun Wei founded Feixiang Universe, the Shenzhen-based studio that cast Chen. The fear of accidentally \"stealing someone's face\" was a big reason she said she decided to license real people's likenesses for an AI production set during China's Tang Dynasty more than 1,000 years ago. Thanks to AI's training data bias, AI-generated performers tend to have similar features and share a homogenous look, Sun said. Many have flawless skin and extremely symmetrical faces, requiring her and other Chinese AI filmmakers to cast a wide net to \"buy\" new faces and digitize actor's expressions. \n\nLu Beike, who directed the big-budget Chinese series \"Three-Body,\" felt theAI-generated scenes he'd tried came out sub-standard. \"Lu added that if 90% of a film was generated by AI, a real human performance could appear jarring. A real actor's expressions carried more nuance and emotion. The skin textures did not match. Sometimes the only solution was to process the live-action material until the person looked a little less real — until they fit back into the 'AI world,' Lu said.\" \n\nBut at Sun Wei's studio, they're thrilled they can produce a 90-minute AI film for $500,000 where professional productions used to cost millions of dollars. According to the article, Sun's team works with ChatGPT, Kimi or DeepSeek to flesh out entire screenplays from a short paragraph. The screenwriter takes over, but \"to produce the finished product, Sun's team uses Chinese video-generation models to input the type of scenes, backgrounds and performers they want, with the AI generating 15 seconds of footage each time.\" \n\nStill, the article points out that \"Similar tools are being tested in the U.S., and the AI trends upending China's entertainment industry may be a harbinger for what's to come in Hollywood, said Michael Berry, a professor specializing in contemporary Chinese culture at UCLA. Already, Chinese companies that sell AI-powered video-generation software are seeking inroads in Hollywood...\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Sep 15, 2026 23:34",
-    "published_at": "2026-09-15T23:34:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Mozilla Firefox 157 Enters Public Beta Testing with Brand-New Nova Design",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367476",
-    "description": "With the release of Firefox 156 rolling out to all supported platforms, Mozilla promoted the next major release, Firefox 157, to the beta channel for public testing, so it’s time to take a look at the new features and improvements.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367476",
-    "date": "Sep 15, 2026 19:47",
-    "published_at": "2026-09-15T19:47:15Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Scientists Discover Mysterious New X-Ray Objects 'Unlike Any They Have Seen Before'",
-    "link": "https://science.slashdot.org/story/26/09/12/189245/scientists-discover-mysterious-new-x-ray-objects-unlike-any-they-have-seen-before?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "An anonymous reader quotes a report from Space.com: NASA's Chandra X-ray Observatory has found a brand new type of an otherwise familiar object -- compact binary systems that steal gas from other stars, but which do so while emitting very low-energy X-rays but copious amounts of ultraviolet. Chandra spotted 84 suspicious object emitting very low-energy X-rays in six galaxies -- four evolved ellipticals and two spirals, namely our near-neighbor the Andromeda Galaxy (M31) and the Pinwheel Galaxy (M101). \"We've never encountered a group of objects that act like this,\" said Mustafa Muhibullah of the University of Alabama in a statement.\n \nCompact objects, in the form of black holes, neutron stars and white dwarfs, are the remains of stars that have died. Their small size and powerful gravity means that they're adept at getting close to orbiting companion stars and ripping the stars' outer layers of gas away. The gas swirls around the compact object, falling onto its surface, and this accretionary process usually produces torrents of high-energy X-rays because the stolen gas becomes superheated by the compact object's gravitational vice-like grip.\n \nBecause of their weak X-rays, Muhibullah's team refer to them as 'hypersoft X-ray sources'. Since low-energy X-rays and ultraviolet light are next to each other on the electromagnetic spectrum, Muhibullah and his team suspect that the low-energy X-rays are spillover from objects emitting prodigious amounts of ultraviolet. Moreover, they think that these objects are lower-level compact binaries. They're hard to find though, because the interstellar medium of hydrogen and helium gas between the stars absorbs ultraviolet light. This could be why we have yet to find any hypersoft X-ray sources in our own galaxy, because we have to look through the interstellar medium through the plane of the Milky Way. Consequently, there could be a large population of hypersoft X-ray sources that remain undiscovered and they could have an important effect on the universe around them. The findings have been published in the journal Nature Astronomy.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Sep 15, 2026 19:04",
-    "published_at": "2026-09-15T19:04:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "AMD P-State Driver For Linux 7.4 Will Tune For Zen 6 Client CPUs",
-    "link": "https://www.phoronix.com/news/Linux-7.4-AMD-P-State-Zen-6",
-    "description": "Linux 7.4 looks like it will be a very exciting kernel update for AMD customers. On the AMD Radeon graphics side HDMI 2.1 is being enabled by default with the AMDGPU driver with the HDMI FreeSync, VRR, and ALLM features in tow. On the AMD Ryzen client CPU side, there will be Zen 6 tuning with the AMD P-State CPU frequency scaling driver...",
-    "guid": "https://www.phoronix.com/news/Linux-7.4-AMD-P-State-Zen-6",
-    "date": "Sep 15, 2026 19:03",
-    "published_at": "2026-09-15T19:03:22Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
   }
 ]
