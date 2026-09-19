@@ -1,5 +1,128 @@
 [
   {
+    "title": "Wine-Staging 11.18 Adds New Patches To Further Improve WoW64",
+    "link": "https://www.phoronix.com/news/Wine-Staging-11.18",
+    "description": "Building off yesterday's Wine 11.18 bi-weekly development release is now Wine-Staging 11.18. This experimental flavor of Wine is presently carrying 273 extra patches over that upstream Git state, including some new patches for helping enhance the WoW64 support...",
+    "guid": "https://www.phoronix.com/news/Wine-Staging-11.18",
+    "date": "Sep 19, 2026 13:22",
+    "published_at": "2026-09-19T13:22:39Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "US Air Force F-16 Crashes in Michigan After Pentagon Orders More Flyovers",
+    "link": "https://news.slashdot.org/story/26/09/19/0420213/us-air-force-f-16-crashes-in-michigan-after-pentagon-orders-more-flyovers?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "The F-16 \"experienced an incident,\" the Texas Military Department said in a statement, adding that \"The pilot successfully ejected the aircraft and is receiving care at a nearby hospital.\" \n\nABC News reports:\n\nA Texas Air National Guard F-16 crashed in Michigan during a training mission on Thursday afternoon, sparking an hourslong evacuation near the crash site, according to officials. \nThe incident prompted the evacuation of homes and businesses within 1 mile of the crash site due to a \"hazardous chemical spill related to the plane crash,\" Michigan State Police said... All of the Texas Air National Guard aircraft that were in Michigan for the training were immediately grounded, and will likely remain so for the next 24 hours, according to a U.S. official.\n\n \n\nAmerica's War Department has said it wanted to see more military flyovers writes The Daily Beast, adding that the F-16 \"was due to perform a flyover at a high-school football game on Friday night, the Alpena News reported.\"\n\nThe military said it was still investigating the cause of the crash, but one pilot told air traffic controllers that he believes his wingman hit a bird before the crash.... \n\nThe accident followed a Pentagon X post on Thursday after widespread criticism of low-altitude flyovers and maneuvers. \"The flyovers will continue until morale improves,\" it said.\n\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Sep 19, 2026 13:04",
+    "published_at": "2026-09-19T13:04:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "The Best ARM Linux Distros for Raspberry Pi, SBCs, and More",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367570",
+    "description": "Picking Linux for your ARM board or laptop? We ranked the 9 best ARM distros for 2026, from Raspberry Pi OS to Arch based builds, plus real hardware picks.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367570",
+    "date": "Sep 19, 2026 12:06",
+    "published_at": "2026-09-19T12:06:22Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "GNOME OS Turns To Zswap To Deal With OOM Issues, Progress On Geary Email Client Fork",
+    "link": "https://www.phoronix.com/news/GNOME-OS-Goes-Zswap",
+    "description": "In addition to this week's GNOME 51 release were several other exciting developments in the GNOME desktop space...",
+    "guid": "https://www.phoronix.com/news/GNOME-OS-Goes-Zswap",
+    "date": "Sep 19, 2026 10:38",
+    "published_at": "2026-09-19T10:38:08Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "CompuLab i.MX952 Linux-capable module showcases 2.5GbE, Wi-Fi 6 and PCIe Gen 3",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367551",
+    "description": "CompuLab has introduced the UCM-iMX952, a 28 x 40mm System-on-Module based on NXP’s i.MX952 processor. The module supports up to 16GB of LPDDR5 or LPDDR4X memory and 128GB of eMMC storage, along with PCIe Gen 3, 2.5GbE, Wi-Fi 6, Bluetooth 5.4, and multiple display and camera interfaces. The NXP i.MX952 is available on the module […]",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367551",
+    "date": "Sep 19, 2026 10:34",
+    "published_at": "2026-09-19T10:34:52Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Intel Xe Driver For Linux 7.4 Adds vRAM Health Check, Degraded Memory Handling",
+    "link": "https://www.phoronix.com/news/Intel-Xe-vRAM-Health-Check",
+    "description": "Sent out this week were more Intel Xe kernel graphics driver changes targeting the upcoming Linux 7.4 kernel cycle. The theme this week was around dealing with video memory health and also being able to better deal with hardware degraded video RAM...",
+    "guid": "https://www.phoronix.com/news/Intel-Xe-vRAM-Health-Check",
+    "date": "Sep 19, 2026 10:24",
+    "published_at": "2026-09-19T10:24:15Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "KDE Plasma 6.8 Seeing More Polishing \u0026 Fixes, Plasma 6.9 Begins Seeing More Activity",
+    "link": "https://www.phoronix.com/news/Plasma-6.8-Post-Beta-Fixes",
+    "description": "Following last week's Plasma 6.8 beta release, KDE desktop developers have spent this week mostly working on bug fixes as well as some early changes toward Plasma 6.9...",
+    "guid": "https://www.phoronix.com/news/Plasma-6.8-Post-Beta-Fixes",
+    "date": "Sep 19, 2026 10:10",
+    "published_at": "2026-09-19T10:10:34Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Gemini Breached Three Outside Systems, and Claude-Using Researchers Breached OpenAI",
+    "link": "https://slashdot.org/story/26/09/19/0518206/gemini-breached-three-outside-systems-and-claude-using-researchers-breached-openai?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "\"Software security researchers used Anthropic's Claude AI platform to hack OpenAI's ChatGPT tool,\" reports CBS News. \nUsing Claude, \"On July 25, 2026, we chained two critical vulnerabilities to compromise multiple OpenAI employees' ChatGPT accounts,\" write researchers at security platform Hacktron AI. \"With these accounts, we could then access internal OpenAI repositories, and potentially many other connectors... Until two months ago, any user or OpenAI employee logging into OpenAI's own help forum could have had their ChatGPT and Codex accounts taken over. Since people can connect various services to Codex and ChatGPT, the scope of what we could theoretically access was huge, including GitHub, Slack and emails.\" \n\nThe exploit chain included Debian 12, which (with Debian 13) had not received a security-relevant backport for its image-processing pipeline, and Discourse's Docker image was based on Debian 12. Their announcement comes with an additional warning. \"If you self-host Discourse, rebuild your installation now. Older Docker images may contain a vulnerable libheif dependency that permits code execution through an image upload.\" \n\nAnd \"To prove we had in fact gained the access we believed without allowing ourselves to learn any sensitive information, we used the employee's Codex to open a PR #1186742 in OpenAI's internal monorepo openai/openai.\" \n\n\nMeanwhile, Friday Google disclosed the first known instance of its AI software Gemini breaking out of a testing environment and breaching three other companies, reports CNBC:\n\nThe incident happened as part of a \"capture-the-flag\" security test run by Israeli startup Irregular, and Google's agents were never supposed to access the broader internet, but a bug in the testing environment made internet access available. The agents stopped their intrusion when they determined they had accessed real company systems, not just part of the testing environment, Google said.\n \nMore from NBC News:\n\n Google said it did not consider the unauthorized logins to rise to the level of misalignment, the AI industry term for software going rogue or not following instructions. Instead, the company said the intrusions resulted from mistaken identity, where Gemini thought it was operating within a test but was actually connected to the real internet. Google said the model corrected itself and the company believed the intrusions did not cause any damage.... \n\nSydney Von Arx, CEO of Nightingale Collective, an organization focused on AI safety, questioned why Google did not disclose the intrusions sooner. \"At this point I think it's clear we cannot expect companies to voluntarily come forward and publicly disclose when their agents go rogue, escape, and hack companies,\" she said. She also said she believed Google was too hasty to say that the incidents don't rise to the level of misalignment. \"That's exactly what Anthropic said after their incidents,\" she said. Anthropic later said its \"preliminary analysis was constrained due to our desire to disclose incidents in a timely manner.\" \n\nGoogle said it investigated when they learned of the attacks from AI-focused cybersecurity company Irregular, then informed the affected organizations and told federal authorities, according to the article.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Sep 19, 2026 08:34",
+    "published_at": "2026-09-19T08:34:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Fedora Linux 45 Beta Released with Python 3.15, GCC 16.2, and Major Security Changes",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367577",
+    "description": "The Fedora Project has officially released Fedora Linux 45 Beta, giving users an early look at the technologies expected to form the foundation of the final Fedora 45 release. The beta became available on September 15, 2026, after Fedora's Quality team approved Release Candidate 1.3 for publication.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367577",
+    "date": "Sep 19, 2026 07:31",
+    "published_at": "2026-09-19T07:31:53Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "MariaDB 13.0 Goes Stable with New SQL and InnoDB Features",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367574",
+    "description": "MariaDB 13.0 is now stable, introducing UPDATE RETURNING, improved Optimizer Trace, InnoDB log archiving, and SQL compatibility enhancements.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367574",
+    "date": "Sep 19, 2026 06:00",
+    "published_at": "2026-09-19T06:00:24Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Has the James Web Space Telescope Discovered a New 'Black Hole Star'?",
+    "link": "https://science.slashdot.org/story/26/09/19/040210/has-the-james-web-space-telescope-discovered-a-new-black-hole-star?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "The James Webb Space Telescope has been picking up little red dots in almost every image,\nwrites Quanta magazine. And now two teams of astronomers propose they're looking at a new astronomical object: a black hole star. It shines with the light of billions of suns — and hides a black hole in its core.\n\n\nBut Quanta adds that \"not everyone agrees with this bold interpretation.\"\n\n[Two Webb telescope surveys of distant objects included little red dots] for hours at a time. They tabulated precisely what shades of light were coming from each dot, and how bright the shades were... The bombshell discovery in the little red dot spectra was that the colors of hydrogen were smeared out across multiple shades. Usually, seeing such an effect means you're looking straight at an exposed black hole. Black holes whip hydrogen clouds around them at furious rates, with the clouds emitting slightly different colors depending on their speed... \n\nThen, in the spring of 2025, [two of the paper's astronomers] de Graaff and Naidu's teams unveiled the two strangest dots yet... The new little red dots couldn't literally be stars — they were way too bright. And they didn't look much like black holes either. Black holes have an assortment of ringlike structures of different temperatures... Naidu and de Graaff concluded that they were[ looking at the first examples of something combining the vigor of a black hole with the outward appearance of a star: a black hole star... This black hole would pull gas around it, dramatically heating it and pushing light and energy outward, which would keep the outer layers of hydrogen from collapsing inward. In this way, the black hole would form the \"engine\" of the star, analogous to the fusion-powered core of our sun... \"We are seeing the seed,\" Naidu said. \"This is the birth of potentially every massive black hole in the universe.\"\n \n\n\"Astronomers have spent the last year in a lively debate about what's really going on,\" Quanta adds. And this week simulations using the Japanese Supercomputer ATERUI III \"have explained the nature of the Little Red Dots without requiring any exotic assumptions,\" writes Phys.org — by conducting the most detailed cosmological simulations yet of conditions in the early universe:\n\n\n\n\nThe simulations show that the Little Red Dots are black holes growing at a rate that would be impossible today because of conditions in the early universe. The simulations show that in the early universe, intense far-ultraviolet (FUV) radiation from nearby galaxies suppresses star formation in gas clouds, so rather than forming many small stars, the gas can form a single supermassive star, which then collapses into a black hole seed. \n\nThe simulations show that, once formed, these black hole seeds are surrounded by dense gas disks. This environment traps radiation, enabling the black holes to grow at rates dozens of times faster than would be possible in the modern universe. The simulated properties of these rapidly growing black holes provide a good match to the Little Red Dots (LRDs) observed by the James Webb Space Telescope (JWST).\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Sep 19, 2026 04:04",
+    "published_at": "2026-09-19T04:04:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Help Linux Hardware Testing \u0026 Reviews Continue While Enjoying Phoronix Without Ads",
+    "link": "https://www.phoronix.com/news/Phoronix-Oktoberfest-2026",
+    "description": "If you missed out on the Phoronix Premium special back during the 22nd birthday of Phoronix.com in June, there is another promotion now active for helping to support the site and allow for continued daily original content and relentless Linux performance benchmarking and other open-sourced focused hardware testing...",
+    "guid": "https://www.phoronix.com/news/Phoronix-Oktoberfest-2026",
+    "date": "Sep 19, 2026 01:00",
+    "published_at": "2026-09-19T01:00:00Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
     "title": "nRF54LC10A SoC features Cortex-M33, RISC-V coprocessor, Bluetooth LE, Thread and Zigbee",
     "link": "https://lxer.com/module/newswire/ext_link.php?rid=367553",
     "description": "Nordic Semiconductor has expanded its nRF54L Series with the nRF54LC10A, an entry-level multiprotocol SoC aimed at compact, cost-sensitive IoT devices. The chip integrates a 128MHz Arm Cortex-M33, a 128MHz RISC-V coprocessor, 1MB of non-volatile memory, 192KB of RAM, and a 2.4GHz radio supporting Bluetooth LE, Thread, Zigbee, Matter, and proprietary protocols. The Cortex-M33 includes an […]",
@@ -88,16 +211,6 @@
     "guid": "https://www.phoronix.com/news/Google-Binder-C-Goodbye",
     "date": "Sep 18, 2026 16:26",
     "published_at": "2026-09-18T16:26:32Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Help Linux Hardware Testing \u0026 Reviews Continue While Enjoying Phoronix Without Ads",
-    "link": "https://www.phoronix.com/news/Phoronix-Oktoberfest-2026",
-    "description": "If you missed out on the Phoronix Premium special back during the 22nd birthday of Phoronix.com in June, there is another promotion now active for helping to support the site and allow for continued daily original content and relentless Linux performance benchmarking and other open-sourced focused hardware testing...",
-    "guid": "https://www.phoronix.com/news/Phoronix-Oktoberfest-2026",
-    "date": "Sep 18, 2026 16:00",
-    "published_at": "2026-09-18T16:00:00Z",
     "source": "phoronix.com",
     "source_url": "https://www.phoronix.com/"
   },
@@ -309,6 +422,16 @@
     "source_url": "https://www.gamingonlinux.com/"
   },
   {
+    "title": "Jemalloc 5.4 Released With Portability Improvements, Code Cleanups",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367547",
+    "description": "Earlier this year Meta announced a renewed investment into the jemalloc memory allocator that's been popular for server and HPC use among various desktop use-cases too. After stagnating a bit in recent years, Jemalloc has been off to seeing new developments since Meta's announcement and out today is Jemalloc 5.4 as the latest step forward...",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367547",
+    "date": "Sep 18, 2026 09:36",
+    "published_at": "2026-09-18T09:36:52Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
     "title": "Dune: Awakening v1.5 brings a full single-player mode and much more customization",
     "link": "https://www.gamingonlinux.com/2026/09/dune-awakening-v1-5-brings-a-full-single-player-mode-and-much-more-customization/",
     "description": "A big day for what was previously an MMO, Dune: Awakening version 1.5 has been released expanding the game to let you play however you want.Read the full article on GamingOnLinux.",
@@ -383,140 +506,5 @@
     "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/848228227id29792gol.webp",
     "source": "gamingonlinux.com",
     "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "SteamOS 0.3.0 for Steam Frame released",
-    "link": "https://www.gamingonlinux.com/2026/09/steamos-0-3-0-for-steam-frame-released/",
-    "description": "Valve are now beginning to announce SteamOS updates for the Steam Frame, with the first public notification being SteamOS 0.3.0 for Steam Frame.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/09/steamos-0-3-0-for-steam-frame-released/",
-    "date": "Sep 18, 2026 06:39",
-    "published_at": "2026-09-18T06:39:31Z",
-    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/steamframe.jpg",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Coin-sized Radxa rCore-Q8550 module features 48-TOPS NPU and PCIe Gen 4",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367552",
-    "description": "Described by Radxa as its flagship edge AI module, the rCore-Q8550 targets robotics and machine vision with the Qualcomm Dragonwing QCS8550 platform and an optional Hexagon AI processor delivering up to 48 Dense INT8 TOPS. The 36 x 32mm module also supports up to 16GB of LPDDR5X, 128GB of UFS 3.1 storage, PCIe Gen 4, […]",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367552",
-    "date": "Sep 18, 2026 06:33",
-    "published_at": "2026-09-18T06:33:53Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "America Acknowledges for the First Time: It Has Deployed Weapons In Space",
-    "link": "https://news.slashdot.org/story/26/09/16/2134242/america-acknowledges-for-the-first-time-it-has-deployed-weapons-in-space?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Tuesday U.S. Space Force chief Douglas Schiess said his branch of the U.S. military operates \"on-orbit weapons,\" reports Reuters, to defend \"against space-enabled attacks.\" He promised \"disciplined and responsible choices\" when scaling America's orbital defense arsenal in the coming years. \n\n\nNPR calls this week's reveleations \"remarkable... after previous warnings about countries such as Russia possibly weaponizing a global frontier long agreed in treaties to be used for only peaceful purposes.\"\n\n\nThe revelation comes as the Trump administration puts a growing focus on space. In 2019, during his first term, Trump created the Space Force as a separate military branch. In his second term, he has announced the \"Golden Dome\" missile defense system, which includes plans to put U.S. weapons in space. Trump said last year that he expected the system would be \"fully operational before the end of my term,\" which ends in January 2029, and have the capability of intercepting missiles \"even if they are launched from space.\" Trump also has directed the Pentagon to pursue the space-based interceptors, in an executive order during the first week of his presidency. The Congressional Budget Office estimated that just the space-based components of the Golden Dome could cost as much as $542 billion over the next 20 years. \n\nThe Biden administration announced in 2024 that Russia was developing a space-based nuclear weapon that could loiter in space for long durations, then release a burst that would take out satellites around it. That kicked off a renewed debate on the idea of weapons in space at the United Nations. In April 2024, Russia vetoed a joint U.S.-Japanese resolution that would have called on all countries not to develop or deploy nuclear arms or other weapons of mass destruction in space, as banned under a 1967 international treaty that included the U.S. and Russia... The Russian delegation called the resolution hypocritical and a double standard and instead proposed a rival resolution to ban all weapons in space \"for all time.\" It ultimately failed. Russia had argued that the United States and its allies opposed a ban on all weapons in outer space because they planned to deploy weapons there. \n\n\n\nReuters calls this \"a landmark moment in space militarization,\" while noting that it's \"aimed at deterring what U.S. officials describe as aggressive orbital activities from China and Russia, officials and analysts said.\"\n\n\n\nThe remarks this week by Washington's top military-space officials are part of \"the increasing comfort level of the U.S. government to speak about aggressive actions in space\" that has been building up in recent years, said Victoria Samson, chief director of space security and stability at the nonprofit Secure World Foundation. \"We've gone from not talking about counter-space capabilities... to now saying flat-out we have weapons in space,\" Samson said. \"The pendulum keeps on shifting over that way...\" \n\n\"The acknowledgment of these space-control capabilities is fundamental to ensuring that we prevent deterrence from failing, and that we are postured and ready should deterrence fail to employ them effectively,\" Richard Palmer, the director of the Capability and Resource Integration Directorate at U.S. Space Command, said on Tuesday.... \"The bottom line is that our joint force and our allied forces require space. Our economies require space,\" added Palmer. \"We are ready in the U.S. to preserve that.\"\n\n\n \n\nReuters adds that Russia's Foreign Ministry issued criticism of America's move, saying \"In pursuit of its narrow self-interests, Washington is ready to completely ignore the catastrophic consequences for humanity of any armed conflict in orbit.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Sep 18, 2026 05:34",
-    "published_at": "2026-09-18T05:34:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Rust Coreutils 0.12.0 Released",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367548",
-    "description": "The Rust replacement for GNU Coreutils fixes all of the Ubuntu-prioritized compatibility issues, eliminates expr’s last C dependency, and adds more security hardening.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367548",
-    "date": "Sep 18, 2026 05:02",
-    "published_at": "2026-09-18T05:02:23Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Bonjour! Firefox Smart Window Users Now Get to Use a French AI",
-    "link": "https://feed.itsfoss.com/link/24361/17465081/firefox-smart-window-mistral",
-    "description": "Mistral Small 4 is the latest in Smart Window's model lineup, available for users in France, Canada, and the US.",
-    "guid": "6aab9a80922f5a000126e33b",
-    "date": "Sep 18, 2026 03:32",
-    "published_at": "2026-09-18T03:32:04Z",
-    "image": "https://itsfoss.com/content/images/2026/09/mistral-ai-firefox-banner.png",
-    "source": "itsfoss.com",
-    "source_url": "https://itsfoss.com/"
-  },
-  {
-    "title": "Ex-Google DeepMind Researcher Also Warns AI Could 'Kill All Humans'.  But Meta's Zuckerberg Believes Safety is Up to Each AI Company",
-    "link": "https://slashdot.org/story/26/09/16/2151240/ex-google-deepmind-researcher-also-warns-ai-could-kill-all-humans-but-metas-zuckerberg-believes-safety-is-up-to-each-ai-company?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Reuters reports that a former Google DeepMind employee \"became the latest AI researcher to warn that the technology could 'kill all humans', saying time could be running out to avoid the outcome:\n\nPublic alarm about the potential danger posed by AI is growing, after Anthropic researcher Jacob Coxon said last week he had resigned, in part because the \"people building AI earnestly believe that it could kill us all by the end of the decade.\" Anthropic scientist Evan Hubinger then responded to Coxon's comments, saying he was correct and that he believed there was a greater than 10% chance that AI could kill all humans within the next decade. \n\n\"I recently resigned from Google DeepMind, where I worked on AGI safety and alignment research,\" Bilal Chughtai wrote on X. \"I earnestly believe that AI has the potential to kill us all, and that we might be running out of time to avoid this outcome.\" Chughtai, who co-authored research papers while at Google DeepMind, worked there as a research engineer and left the company in July 2026, according to his LinkedIn profile.\n\n \n\nMeanwhile, Meta CEO Mark Zuckerberg \"said it's up to each AI company to make sure its technology is safe,\" reports the Associated Press, \"distancing himself from calls by rival companies for a coordinated slowdown in the development of advanced artificial intelligence.\nAI companies are already motivated to develop their models in a safe way and face \"significant liability\" to prevent them from causing harm, Zuckerberg said. \"Every lab has the responsibility and incentive to move at the pace required to train its models safely, and the ability to take its own actions to ensure that happens,\" he wrote on X... Zuckerberg said Meta delayed releasing its Muse AI agent for several months to ensure its safety and security. \"We didn't call for everyone else to do this before we would,\" he said. \n\nCompanies should prioritize building safe AI models instead of systems that can automatically improve themselves, a function known as recursive self-improvement, Zuckerberg wrote. \"Committing the significant majority of compute towards serving people rather than racing towards recursive self-improvement is one of the best ways to ensure we develop this technology safely.\" \nBut Zuckerberg also agreed that engaging independent evaluators and advisors \"is industry best practice,\" adding that Meta Superintelligence Labs \"already does this today in several areas because it helps produce better work... \n\n\"I believe the key to building a positive future for everyone is maintaining the right balance of power. This is within our power to do.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Sep 18, 2026 01:04",
-    "published_at": "2026-09-18T01:04:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "OpenCL 3.1.2 Released With cl_khr_command_buffer Promoted",
-    "link": "https://www.phoronix.com/news/OpenCL-3.1.2-Released",
-    "description": "The Khronos Group today released the newest revision of the OpenCL specification with a handful of changes...",
-    "guid": "https://www.phoronix.com/news/OpenCL-3.1.2-Released",
-    "date": "Sep 18, 2026 00:33",
-    "published_at": "2026-09-18T00:33:22Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Distro of the Week: Artix Linux Xfce",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367517",
-    "description": "Of all the Arch-based distros in the Linux universe, this week's Distro of the Week -- Artix Linux -- stands out as one of the few free of systemd, giving the user the option of either OpenRC and dinit in its place.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367517",
-    "date": "Sep 17, 2026 22:56",
-    "published_at": "2026-09-17T22:56:51Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Jemalloc 5.4 Released With Portability Improvements, Code Cleanups",
-    "link": "https://www.phoronix.com/news/Jemalloc-5.4",
-    "description": "Earlier this year Meta announced a renewed investment into the jemalloc memory allocator that's been popular for server and HPC use among various desktop use-cases too. After stagnating a bit in recent years, Jemalloc has been off to seeing new developments since Meta's announcement and out today is Jemalloc 5.4 as the latest step forward...",
-    "guid": "https://www.phoronix.com/news/Jemalloc-5.4",
-    "date": "Sep 17, 2026 22:37",
-    "published_at": "2026-09-17T22:37:11Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "OpenMote turns a Wiimote-style remote into an ESP32-S3 Home Assistant controller",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367538",
-    "description": "Hat \u0026 Hammer has launched a Crowd Supply campaign for OpenMote, a programmable universal remote built around an ESP32-S3-WROOM-1 module. The device supports infrared transmission and reception, Bluetooth LE, Wi-Fi, motion sensing, audio, haptic feedback, and Qwiic/STEMMA QT expansion, while also targeting smart-home and game-controller applications. The OpenMote is based on an ESP32-S3-WROOM-1 module with […]",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367538",
-    "date": "Sep 17, 2026 21:25",
-    "published_at": "2026-09-17T21:25:22Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Iran Strikes On Amazon Data Centers Caused Permanent Loss of Customer Data",
-    "link": "https://slashdot.org/story/26/09/17/0619253/iran-strikes-on-amazon-data-centers-caused-permanent-loss-of-customer-data?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Ars Technica reports:\n\n\n\nHalf a year after Iranian drone strikes knocked out multiple Amazon data centers, the US tech company has acknowledged the permanent loss of some customer data that was hosted in Bahrain and the United Arab Emirates. \n\nAmazon Web Services was \"unable to restore access to the resources and data\" hosted in some of the war-damaged data centers, according to an AWS dashboard update posted on September 15. The development was first reported by Reuters and suggests that the Iranian strikes inflicted catastrophic damage on the data centers.\n Customer data was irretrievably lost in one of three AWS availability zones in the United Arab Emirates region, specifically the mec1-az2 availability zone. \n\n\nEach availability zone is serviced by one or more Amazon data centers. The company is still working on \"recovering regional resources\" and restoring resources hosted in the other two availability zones in the United Arab Emirates... But the destruction was apparently even more widespread for the data centers in the Bahrain region, because Amazon said it was unable to restore access to resources and data across all three availability zones there. \"The damage to our infrastructure spanned multiple Availability Zones and exceeded what our regional and multi-AZ services are designed to withstand,\" the AWS update said. \n\n\nThe company had already suspended customer billing in the affected AWS regions in Bahrain and the United Arab Emirates and has spent the past six months attempting to restore normal operations... [When the war began] AWS immediately urged customers to migrate resources to other cloud regions and use remote backups to restore any \"inaccessible resources.\" The cloud service also reportedly issued $150 million in customer credits following the initial Iranian strikes in March.\n\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Sep 17, 2026 20:34",
-    "published_at": "2026-09-17T20:34:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Ubuntu 26.10 “Stonking Stingray” Snapshot 4 Is Out for Public Testing with Linux 7.2",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367542",
-    "description": "Canonical released Snapshot 4 of the upcoming Ubuntu 26.10 (Stonking Stingray) release as the fourth and last development milestone targeting early adopters and application developers who want to test their apps.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367542",
-    "date": "Sep 17, 2026 19:53",
-    "published_at": "2026-09-17T19:53:52Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Intel Granite Rapids WS vs. AMD Threadripper Zen 5 SMT Performance",
-    "link": "https://www.phoronix.com/review/amd-zen5-intel-gnr-ws-smt",
-    "description": "As a follow-up to the article earlier this month of the Intel Xeon 600 workstation performance against AMD Ryzen Threadripper 9000 series in over 400 benchmarks -- including when carried out at the same core count and memory configuration -- today's article is exploring the Hyper Threading / SMT impact on both the Intel Redwood Cove and AMD Zen 5 cores for workstations.",
-    "guid": "https://www.phoronix.com/review/amd-zen5-intel-gnr-ws-smt",
-    "date": "Sep 17, 2026 19:14",
-    "published_at": "2026-09-17T19:14:14Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
   }
 ]
