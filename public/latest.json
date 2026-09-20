@@ -1,5 +1,77 @@
 [
   {
+    "title": "Gzip 1.15 Released With Many Bug Fixes For Issues Present Since Its Inception",
+    "link": "https://www.phoronix.com/news/Gzip-1.15-Released",
+    "description": "Gzip 1.15 is out today for succeeding the Gzip 1.14 release from April 2025. With this release comes a number of fixes for bugs present since the beginning of Gzip...",
+    "guid": "https://www.phoronix.com/news/Gzip-1.15-Released",
+    "date": "Sep 20, 2026 14:32",
+    "published_at": "2026-09-20T14:32:12Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "KDE To Focus On Next-Gen Styling, Better Documentation \u0026 KDE For Enterprise",
+    "link": "https://www.phoronix.com/news/KDE-Goals-To-2028",
+    "description": "At the KDE Akademy 2026 conference going on right now in Graz, Austria the three KDE goals for the next two years were unveiled...",
+    "guid": "https://www.phoronix.com/news/KDE-Goals-To-2028",
+    "date": "Sep 20, 2026 12:32",
+    "published_at": "2026-09-20T12:32:29Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "To Enforce Its Proposed Social Media Ban for 450 Million Pre-Teens, EU Builds an Open Source App",
+    "link": "https://yro.slashdot.org/story/26/09/20/0712211/to-enforce-its-proposed-social-media-ban-for-450-million-pre-teens-eu-builds-an-open-source-app?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "The European Commission \"proposed on Thursday banning children under 13 from social media, with parent-supervised accounts until 15,\" reports Reuters. \n\n\"Enforcement would rely on a tool Brussels built itself\" — a free, open-source age verification smartphone app \"that tells a platform whether a user meets an age threshold without revealing their identity...\"\n\nIf passed, the proposed Kids Act would create the world's largest social media access restriction, covering 450 million people across 27 countries... [The EU-built age-verification app] is being rolled out through member states, with seven pilot countries: Cyprus, Denmark, France, Greece, Ireland, Italy and Spain. The Commission expects EU-wide availability by the end of 2026. \n\nIt will also be used to prove users are over 18 when accessing adult sites, a restriction already implemented under the Digital Services Act... \n\n[T]he system itself is decentralised. Member states run it through issuers they designate, and the proofs live on the user's phone. There is no central EU database of ages or of who verified whom... A user proves their age once to a nationally designated issuer — a body vetted by the member state, which can be a digital ID provider, a bank or a post office. At a restricted site, the app certifies that the user is above the required age threshold. The platform receives only a yes-or-no response. Issuance and verification are handled by separate entities. The proof provider is not told which service the proof was used for. Each proof works only once, preventing cross-service tracking. No identity documents or biometric data are retained. The code is open-source, allowing independent scrutiny. \n\nThe significance of the EU approach is that it provides a common age-verification mechanism rather than leaving individual platforms to develop and enforce their own systems.\n\"Online platforms can easily rely on our age verification app. So there are no more excuses,\" [EU Commission President Ursula] von der Leyen said... \n\nThe proposal must be approved by EU member states and the European Parliament before becoming law.\n \nNon-compliance would risk fines of up to 6% of a tech company's global annual sales, plus supervisory fees, Reuters reported earlier.\n\nThe EU's plan follows similar initiatives in Australia, Britain, China, India, Turkey and several European Union countries.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Sep 20, 2026 11:34",
+    "published_at": "2026-09-20T11:34:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "AI-Assisted Starling Desktop Introduces 3D View With \"Walkable 3D Waterfront City\"",
+    "link": "https://www.phoronix.com/news/Starling-0.5-3D-Desktop",
+    "description": "From a few months ago you may recall Starling as the new Linux desktop written with its own Wayland compositor, using the Swift programming language, and written in large part via AI with Claude Code. Out today is Starling 0.5 with this desktop now gaining an optional 3D desktop mode...",
+    "guid": "https://www.phoronix.com/news/Starling-0.5-3D-Desktop",
+    "date": "Sep 20, 2026 10:49",
+    "published_at": "2026-09-20T10:49:28Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Vulkan 1.4.363 Released With New VK_INTEL_device_info Extension",
+    "link": "https://www.phoronix.com/news/Vulkan-1.4.363",
+    "description": "Vulkan 1.4.363 is out as the latest routine update to the Vulkan API specification and also introduces a new Intel vendor extension...",
+    "guid": "https://www.phoronix.com/news/Vulkan-1.4.363",
+    "date": "Sep 20, 2026 10:33",
+    "published_at": "2026-09-20T10:33:48Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Linux 7.3 Adds Support For Victrix Pro BFG \u0026 Azeron Controllers",
+    "link": "https://www.phoronix.com/news/Linux-7.3-rc4-Input",
+    "description": "Sent out this morning were a big batch of input subsystem fixes ahead of the Linux 7.3-rc4 kernel releasing later today. Alongside many bug fixes to different drivers is also expanding the range of supported gaming controllers by the XPad driver...",
+    "guid": "https://www.phoronix.com/news/Linux-7.3-rc4-Input",
+    "date": "Sep 20, 2026 10:21",
+    "published_at": "2026-09-20T10:21:51Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Tech Industry Scratches Its Head Over Trump's 'AI Force' Proposal",
+    "link": "https://politics.slashdot.org/story/26/09/19/2250231/tech-industry-scratches-its-head-over-trumps-ai-force-proposal?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Saturday morning President Trump announced he's creating an AI task force and appointing an AI czar, reports Politico.\n \n\n\"I am forming the AI Force, much like I did Space Force, which has been a tremendous SUCCESS,\" Trump wrote Saturday in what Politico earlier described as \"a lengthy Truth Social post on Saturday morning.\"\n\n\n\nTRUMP: Over the years, there have been many Hoaxes, all generated by the Radical Left Dumocrats, for purposes of destroying our Country. RUSSIA, RUSSIA, RUSSIA, UKRAINE, UKRAINE, UKRAINE, Global Warming, Impeachment Hoax #1, Impeachment Hoax #2 [...] and now, the decimation, or destruction, of AI, commonly known as Artificial Intelligence — And I, as President of the United States, will not stand by and let this happen. \n\nIt all began with an attack on our Data Centers, until people realized how wealthy and prestigious they were for the Communities in which they were built. Higher Salaries, Lower Taxes, and Safer Streets, was the result, and the crazed Data Center attack has largely failed, so now [...] they are going straight at AI. We will not in any way hinder or stifle the Growth of this incredible Industry. Rather, we will cherish it, help it, and watch over it, as it grows! \n\nHowever, we will also be looking for BAD, and we can do that, very easily, with our already existing Criminal and Civil Justice System. For this purpose, I am forming the AI Force, much like I did Space Force, which has been a tremendous SUCCESS, in my First Term. To that end, I will be announcing, in the near future, the AI \"Czar\" — Only High I.Q. individuals need apply!\n \n\nTrump concluded by saying AI \"is the next Industrial Revolution, or Internet, but will be even larger and more impactful... We are leading China, and the rest of the World, and I intend to keep it that way!\"\n\n\nBut what exactly is AI Force? \"The White House did not immediately respond to a request to clarify whether the agency would be military or civilian,\" notes the Washington Post. So now \"The tech industry is struggling to make sense of President Donald Trump's surprise announcement,\" Politico reported Saturday afternoon:\n\n\n\nFour representatives for the sector, who were granted anonymity because they were not authorized to speak publicly, told POLITICO that the industry was not widely informed of Trump's decision prior to the Truth Social post. \"Nobody knows what the idea even is,\" one of the people said. Another said that feedback on the idea was not widely solicited within the industry. The White House did not immediately respond to a request for comment... \n\n\"I think that he clearly feels pressure to say something, but he's torn because he's just spent the last few days saying that the whole thing is a hoax,\" Adam Kovacevich, CEO of the progressive tech industry coalition Chamber of Progress, said of Trump and his prior dismissal of AI doomsday scenarios. Since the departure of David Sacks, who stepped down as the Trump administration's previous AI czar earlier this year, the White House has been \"making up AI policy as it goes,\" Kovacevich added. \"I think it's clear they've really missed the presence of an organized leader like David Sacks was.\" \n\n\n\nOne of the tech industry representatives said they were confused about whether the task force would be charged with formulating more AI regulations or recommending policies that would further stimulate the tech's development. Taylor Barkley, director of federal government affairs at the industry-aligned Abundance Institute, is eyeing it as a way to solidify a light-touch government approach to the technology he says will foster innovation. \"Any AI Force or AI Czar should have one job: keep the field open so entrepreneurs at every scale can compete, free from onerous regulation,\" he told POLITICO. \"Existing criminal and civil law can handle bad actors. New permission regimes will stifle the very activity America needs most.\"\n \n\nIt's worth noting that the day before, California's governor made an announcement. \"With Donald Trump and Congress asleep at the wheel, Governor Gavin Newsom is once again taking the lead to strengthen AI safety for all Americans,\" the governor's office announced Friday. Newsom issued a strong executive order convening experts to help California create new AI safety laws and reporting rules, possibly even requiring safety auditors embedded in labs and emergency \"kill switches\" in frontier models.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Sep 20, 2026 07:04",
+    "published_at": "2026-09-20T07:04:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
     "title": "Customer-Losing Flock Now Offers Buyouts to Avoid Laying Off Employees",
     "link": "https://yro.slashdot.org/story/26/09/19/2349229/customer-losing-flock-now-offers-buyouts-to-avoid-laying-off-employees?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
     "description": "Mashable writes:\n\n\nFlock Safety offered employees voluntary buyouts on Friday, WIRED reported... Without the buyouts, those familiar with the situation suspect the company would have to lay off some of its 1,500 employees. \n\nWIRED writes that people familiar with the program \"say they believe that a significant number of the startup's roughly 1,500 employees may try to depart.\"\n\n\nFlock is making the severance offers as it continues to lose customers... The company has had many of its contracts either not extended or dropped this year, which could leave it short of revenue goals, according to two of the people. A wave of vandalism targeting its cameras has unexpectedly increased expenses. Without buyouts, Flock almost certainly would have to lay off some staff, one of the people believes... People familiar with Flock's severance plan tell WIRED that some employees may take the offer amid speculation that the company, which has raised about $1.2 billion in venture capital, might resort to selling off parts or all of its business to stay afloat... One advocacy group identified 93 city and county governments that cut ties with Flock in August alone. Overall in 2026, roughly three times as many local governments have dropped Flock compared to the previous five years. \n\nFlock has recently been building products that extend the company beyond its core license plate reader offering. WIRED reported last month that the company has developed AI-powered investigative software to identify drivers, find potential associates based on patterns of movement, and search across police records and other data. A separate WIRED analysis of Flock's software found tools designed to continuously search camera feeds for people matching written descriptions. WIRED's analysis of Flock's code also found potential integrations with drones and other surveillance systems. \n\nFlock's financial scrambles might explain an incident in Syracuse, New York. The nonprofit news site\nCentral Current discovered the city's contract said its license plate data wouldn't be shared outside the police department, reports Mashable:\n\nBut the department had granted access to other agencies, which police said was an accident. Over roughly a year, searches by officers around the country reached Syracuse's data nearly 4.4 million times. And that wasn't the only surprise in the paperwork. Central Current also found that Flock could keep using Syracuse data after the contract ended. When the city approved cameras from Axon to replace Flock's, Flock said Syracuse couldn't simply end its agreement early. It warned that the city might have to pay for both systems; so even as officials moved to replace the cameras, they faced questions about what Flock could do with the data and what the city might still owe. \n\n\nMeanwhile, the Texas Department of Transportation \"has stopped issuing permits allowing Flock cameras and other automated license plate readers to be installed along state roads...\" reports the Texas Tribune. \"There were an estimated 13,000 Flock cameras across Texas in August, but hundreds of the devices have been shut down after [governor] Abbott's funding freeze.\" \n\nAnd in August Florida's Republican Governor \"ordered his state's transportation department to remove the cameras from state roads, saying he didn't want 'a surveillance state.'\"\n\n\n\n\n\nRead more of this story at Slashdot.",
@@ -192,139 +264,6 @@
     "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367577",
     "date": "Sep 19, 2026 07:31",
     "published_at": "2026-09-19T07:31:53Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "MariaDB 13.0 Goes Stable with New SQL and InnoDB Features",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367574",
-    "description": "MariaDB 13.0 is now stable, introducing UPDATE RETURNING, improved Optimizer Trace, InnoDB log archiving, and SQL compatibility enhancements.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367574",
-    "date": "Sep 19, 2026 06:00",
-    "published_at": "2026-09-19T06:00:24Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Has the James Web Space Telescope Discovered a New 'Black Hole Star'?",
-    "link": "https://science.slashdot.org/story/26/09/19/040210/has-the-james-web-space-telescope-discovered-a-new-black-hole-star?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "The James Webb Space Telescope has been picking up little red dots in almost every image,\nwrites Quanta magazine. And now two teams of astronomers propose they're looking at a new astronomical object: a black hole star. It shines with the light of billions of suns — and hides a black hole in its core.\n\n\nBut Quanta adds that \"not everyone agrees with this bold interpretation.\"\n\n[Two Webb telescope surveys of distant objects included little red dots] for hours at a time. They tabulated precisely what shades of light were coming from each dot, and how bright the shades were... The bombshell discovery in the little red dot spectra was that the colors of hydrogen were smeared out across multiple shades. Usually, seeing such an effect means you're looking straight at an exposed black hole. Black holes whip hydrogen clouds around them at furious rates, with the clouds emitting slightly different colors depending on their speed... \n\nThen, in the spring of 2025, [two of the paper's astronomers] de Graaff and Naidu's teams unveiled the two strangest dots yet... The new little red dots couldn't literally be stars — they were way too bright. And they didn't look much like black holes either. Black holes have an assortment of ringlike structures of different temperatures... Naidu and de Graaff concluded that they were[ looking at the first examples of something combining the vigor of a black hole with the outward appearance of a star: a black hole star... This black hole would pull gas around it, dramatically heating it and pushing light and energy outward, which would keep the outer layers of hydrogen from collapsing inward. In this way, the black hole would form the \"engine\" of the star, analogous to the fusion-powered core of our sun... \"We are seeing the seed,\" Naidu said. \"This is the birth of potentially every massive black hole in the universe.\"\n \n\n\"Astronomers have spent the last year in a lively debate about what's really going on,\" Quanta adds. And this week simulations using the Japanese Supercomputer ATERUI III \"have explained the nature of the Little Red Dots without requiring any exotic assumptions,\" writes Phys.org — by conducting the most detailed cosmological simulations yet of conditions in the early universe:\n\n\n\n\nThe simulations show that the Little Red Dots are black holes growing at a rate that would be impossible today because of conditions in the early universe. The simulations show that in the early universe, intense far-ultraviolet (FUV) radiation from nearby galaxies suppresses star formation in gas clouds, so rather than forming many small stars, the gas can form a single supermassive star, which then collapses into a black hole seed. \n\nThe simulations show that, once formed, these black hole seeds are surrounded by dense gas disks. This environment traps radiation, enabling the black holes to grow at rates dozens of times faster than would be possible in the modern universe. The simulated properties of these rapidly growing black holes provide a good match to the Little Red Dots (LRDs) observed by the James Webb Space Telescope (JWST).\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Sep 19, 2026 04:04",
-    "published_at": "2026-09-19T04:04:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Help Linux Hardware Testing \u0026 Reviews Continue While Enjoying Phoronix Without Ads",
-    "link": "https://www.phoronix.com/news/Phoronix-Oktoberfest-2026",
-    "description": "If you missed out on the Phoronix Premium special back during the 22nd birthday of Phoronix.com in June, there is another promotion now active for helping to support the site and allow for continued daily original content and relentless Linux performance benchmarking and other open-sourced focused hardware testing...",
-    "guid": "https://www.phoronix.com/news/Phoronix-Oktoberfest-2026",
-    "date": "Sep 19, 2026 01:00",
-    "published_at": "2026-09-19T01:00:00Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "nRF54LC10A SoC features Cortex-M33, RISC-V coprocessor, Bluetooth LE, Thread and Zigbee",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367553",
-    "description": "Nordic Semiconductor has expanded its nRF54L Series with the nRF54LC10A, an entry-level multiprotocol SoC aimed at compact, cost-sensitive IoT devices. The chip integrates a 128MHz Arm Cortex-M33, a 128MHz RISC-V coprocessor, 1MB of non-volatile memory, 192KB of RAM, and a 2.4GHz radio supporting Bluetooth LE, Thread, Zigbee, Matter, and proprietary protocols. The Cortex-M33 includes an […]",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367553",
-    "date": "Sep 19, 2026 00:51",
-    "published_at": "2026-09-19T00:51:46Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Ubuntu 26.10 Switches To The Linux 7.3 Kernel",
-    "link": "https://www.phoronix.com/news/Ubuntu-26.10-With-Linux-7.3",
-    "description": "As a very pleasant surprise, the upcoming Ubuntu 26.10 release will now be powered by the Linux 7.3 kernel rather than their original plans and switch over to the Linux 7.2 kernel...",
-    "guid": "https://www.phoronix.com/news/Ubuntu-26.10-With-Linux-7.3",
-    "date": "Sep 19, 2026 00:50",
-    "published_at": "2026-09-19T00:50:25Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "AI Insiders Issue New Warnings - Including Former Anthropic Engineer Jacob Coxon",
-    "link": "https://slashdot.org/story/26/09/17/2042242/ai-insiders-issue-new-warnings---including-former-anthropic-engineer-jacob-coxon?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Neither OpenAI or Anthropic is acting responsibly, warned AI researcher Jacob Coxon when resigning last week from Anthropic. But just hours earlier, OpenAI VP of Research Aidan Clark had posted \"For the first time, I am asking myself if things are moving too fast. I'm honestly not sure, but I am sure that it would be good for us to have an answer to 'What would a successful pace look like?'\" \n\nCNN noted Wednesday they're just some of the many AI insiders who are now concerned about the speed of research. Coxon even wrote that \"The people building AI earnestly believe that it could kill us all by the end of the decade. This is not a marketing stunt. If anything, many executives and senior researchers will couch their phrasing in the press to sound sensible — but I hear the same people express fear privately.\" \n\nIn 10 days since, Coxon's post has been viewed more than 170 million times, warning that OpenAI and Anthropic are \"racing straight to self-improving superintelligence and gambling with our lives.\" It's part of what CNN now calls \"pressure on AI companies and governments to do something about the pace of development and safety,\" where \"much of that pressure is coming from staffers inside the companies.\"\n\n\nOne staffer at a top AI company told CNN the fears of how AI could hurt humanity keeps them up at night. Another researcher who recently left a different AI company said it's a common subject of conversation at parties and social events in Silicon Valley. \"You can't spend more than a few hours in this community without realizing that a very substantial number of people are really pretty worried about these sorts of outcomes,\" said the researcher. \"A majority would say there's some chance of it killing everyone....\" Dozens of Coxon's colleagues in the AI industry publicly supported his statements, with some making even more dire predictions... OpenAI CEO Sam Altman and SpaceXAI CEO Elon Musk agreed to Amodei's proposal to embed independent watchdogs at the AI companies... \n\n\"I would burn my equity to the ground in a heartbeat for a 1% higher chance we make it out of this situation alive. I expect a great many of my colleagues across the industry would as well,\" wrote Drake Thomas, who works on AI safety at Anthropic. \"I promise you, we are actually just f**king scared, it's not galaxy brained marketing...\" AI staffers told CNN that they fear that as AI gets better at training and improving itself, their leverage goes down, prompting today's urgency. \"As we get into this recursive self-improvement loop, I think that might substantially reduce staff's bargaining power, because frankly, you'll be able to replace many of the staff with models that can do as good a job,\" the researcher who recently left a top AI company said. \n\nCoxon posted Tuesday on X that Anthropic \"largely initiated\" the race to recursively self-improving AI, justifying it with \"a belief in its inevitability.\" And then OpenAI \"had to shed a bunch of dead weight like Sora,\" as he sees it, \"because Anthropic was going for the jugular.\" (In fact, his specific disagreement with Anthropic's leadership was whether China and the U.S. could ever negotiate an alternative to their current race towards self-improving AI...) \n\nIn an informal \"Ask Me Anything\", Coxon responded to a question about when we'd see a Terminator-like malevolent AI by saying that \"Skynet could go live in the 2030s if we aren't careful. ai-2027.com is a modern skynet story written a year ago and it's on track so far.\" Yet while AI development risks an end to humankind, \"I do think that if we go slower we can take risk to 0%... But this requires radical action.\" He acknowledged there was still a possibility that the steady increases to model intelligence could suddenly plateau, but \"They haven't so far, and it's just a few more steps up the ladder to hit the finish line.\" \n\n\nTo avoid stifling innovation, he recommends \"prioritizing applications that actually improve people's lives [like healthcare discoveries], rather than immediately going for raw economic value or intelligence.\" But isn't mass unemployment a more pressing threat? \"Things are coming so fast that unemployment would be a brief preliminary to deadly superintelligence.\" \n\nTo people who feel disempowered, Coxon offered his solidarity. \"I also feel disempowered. Part of resigning was a feeling of hopelessness about the future. I would say — keep your eyes open as things get crazier and advocate for increased transparency into AI companies.\" \n\n\nWhen asked if he'd start his own company now, Coxon said he had \"No idea what I'm doing next.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Sep 18, 2026 23:34",
-    "published_at": "2026-09-18T23:34:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Google's \"Painful To Maintain\" Binder C Linux Driver Being Removed In Favor Of Rust",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367569",
-    "description": "Google's Binder driver written in the C programming language has long been part of the mainline kernel as the inter-process communication (IPC) mechanism used on Android. The past few years the Binder driver was rewritten in Rust as one of the first \"real\" drivers in the Rust programming language. The Rust Binder driver was upstreamed in Linux 6.18 and now for the upcoming Linux 7.4 kernel cycle, the old Binder C-based driver is set to be retired...",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367569",
-    "date": "Sep 18, 2026 23:20",
-    "published_at": "2026-09-18T23:20:16Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "LibreOffice 26.8 Sets Download Record as TDF Says “No AI” Is a Feature",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367571",
-    "description": "LibreOffice 26.8 recorded the strongest first-week download numbers in project history, while TDF outlined why built-in AI is still off the table.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367571",
-    "date": "Sep 18, 2026 21:48",
-    "published_at": "2026-09-18T21:48:47Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Wine 11.18 Continues Building Out Its NTOSKRNL Implementation",
-    "link": "https://www.phoronix.com/news/Wine-11.18-Released",
-    "description": "Wine 11.18 is out today as the newest bi-weekly development release of this open-source software for running Windows games and apps on Linux, macOS, and other platforms...",
-    "guid": "https://www.phoronix.com/news/Wine-11.18-Released",
-    "date": "Sep 18, 2026 21:24",
-    "published_at": "2026-09-18T21:24:50Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Linux Kernel Build Times Ready To Be Significantly Reduced With Latest Patches",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367562",
-    "description": "The past few weeks we have eagerly been following a Linux kernel patch series after AI found some major bottlenecks in the Linux kernel build code. With AI helping to address these bottlenecks, Linux kernel build times are substantially reduced. These optimizations might be ready in time for Linux 7.4 for reducing incremental kernel build times as much as around 70%. This week the latest iteration of these patches were posted by Arm engineer Lorenzo Stoakes...",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367562",
-    "date": "Sep 18, 2026 20:17",
-    "published_at": "2026-09-18T20:17:17Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Steam Frame Making Use Of Zink For OpenGL On Vulkan",
-    "link": "https://www.phoronix.com/news/Steam-Frame-Uses-Zink",
-    "description": "Valve's Steam Frame VR headset that makes use of a Qualcomm Snapdragon 8 Gen 3 SoC with Adreno graphics is using the open-source \"Turnip\" Vulkan driver from Mesa as reported last year. For OpenGL it turns out that the Mesa Zink driver is being used on the Steam Frame for OpenGL atop the Vulkan API...",
-    "guid": "https://www.phoronix.com/news/Steam-Frame-Uses-Zink",
-    "date": "Sep 18, 2026 20:13",
-    "published_at": "2026-09-18T20:13:08Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Will California Gut Its Net Neutrality Law to Comply with Trump Admin Demands?",
-    "link": "https://yro.slashdot.org/story/26/09/18/0023251/will-california-gut-its-net-neutrality-law-to-comply-with-trump-admin-demands?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "In 2021, America approved $65 billion to fund broadband internet services as part of President Biden's Bipartisan Infrastructure Law. But Trump's administration announced they'd withhold funds from states with net neutrality protections...\n\n States could object and sue the government, Ars Technica reported last October, \"but even a successful lawsuit could take years and leave unserved homes without broadband for the foreseeable future.\" So where does that leave California's net neutrality laws? Ars Technica asks. California expect to spend about $1.4 billion to deploy broadband to 270,571 locations...\n\nSimilar to federal net neutrality rules repealed during the first Trump administration, California's law prohibits ISPs from blocking or throttling lawful traffic and says ISPs may not require fees from websites or online services to deliver or prioritize their traffic to Internet users. While the first Trump administration lost its attempt to preempt state net neutrality laws, the second Trump administration is trying to achieve a similar result by making federal broadband money conditional on whether states agree not to enforce net neutrality... \n\nCalifornia and Illinois are the only states that haven't finalized their funding, according to the BEAD progress dashboard maintained by the National Telecommunications and Information Administration (NTIA)... California could try to continue enforcing its net neutrality law even while accepting the federal funding, a strategy that would involve another long court battle over its right to regulate broadband providers. This would be difficult, as the Trump administration is requiring states that accept grant funding to commit that they won't enforce net neutrality rules... [N]early 30 advocacy groups that focus on access to technology are treating the vote as a significant milestone and urged state leaders to defend California's net neutrality law in a letter yesterday... \n\n Winning a court battle would become much more difficult after the state accepts the money [according to Paul Goodman, legal counsel for the Center for Accessible Technology]. Goodman said the CPUC should delay the vote and that California should file a lawsuit arguing that the NTIA-imposed condition is illegal. In addition to net neutrality, Goodman said California may be giving up other regulatory authority over companies, like AT\u0026T and Verizon, because the NTIA requirement forbids rate regulation and \"utility-style rules on broadband Internet service\" in general... Goodman said the exemption from state laws would last for up to 14 years. This is because ISPs receiving grants would have four years to deploy the required broadband networks, and the extended period of performance lasts another 10 years... AT\u0026T is already trying to get out of state obligations related to its basic phone service in California, as we've reported... [Also at stake is whether \"ISPs themselves get to pick the price of the mandated low-cost broadband offerings,\" the article points out.] \n\nThe letter from 30 advocacy groups to California state leaders argues accepting the money \"would set a dangerous precedent for the federal government to use federal funding as a cudgel that forces states in line with its agenda... If California were to allow this funding to be used as leverage, there is no telling what other resources the administration would confidently seek to exploit.\" \n\nThursday California's Public Utility Commission did vote to approve the plan, but a spokesperson earlier told Ars Technica their vote \"does not address subgrantee agreements, or the conditions the NTIA requires be included in subgrantee agreements.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Sep 18, 2026 19:04",
-    "published_at": "2026-09-18T19:04:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Mojo 1.1 Programming Language Opens Its Compiler to External Contributions",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367563",
-    "description": "Mojo 1.1 now accepts external compiler contributions, while Modular has also moved internal compiler issues to public GitHub trackers.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367563",
-    "date": "Sep 18, 2026 18:45",
-    "published_at": "2026-09-18T18:45:48Z",
     "source": "lxer.com",
     "source_url": "https://lxer.com/"
   }
