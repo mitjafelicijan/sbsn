@@ -1,5 +1,321 @@
 [
   {
+    "title": "Nebula Matrix Network Driver Queued Ahead Of Linux 7.4",
+    "link": "https://www.phoronix.com/news/Nebula-Matrix-NIC-Linux-7.4",
+    "description": "NBL is a new Ethernet networking driver destined to premiere in the upcoming Linux 6.4 kernel for supporting Nebula Matrix NICs...",
+    "guid": "https://www.phoronix.com/news/Nebula-Matrix-NIC-Linux-7.4",
+    "date": "Sep 21, 2026 17:23",
+    "published_at": "2026-09-21T17:23:27Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "GNU Wget 2.3 Released with New Features, Improvements, and Bug Fixes",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367616",
+    "description": "GNU Wget 2.3 is out today as the latest version of this free and open-source, multithreaded successor to the GNU Wget command-line downloader, bringing security hardening, bug fixes, and improved Wget1.x compatibility.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367616",
+    "date": "Sep 21, 2026 17:08",
+    "published_at": "2026-09-21T17:08:50Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Proton Experimental gets fixes for ARM64, EA App, Modern Warfare 2 (2009), Ragnarok: The New World and more",
+    "link": "https://www.gamingonlinux.com/2026/09/proton-experimental-gets-fixes-for-arm64-ea-app-modern-warfare-2-2009-ragnarok-the-new-world-and-more/",
+    "description": "A fresh update is here for Proton Experimental to get even more Windows games working on SteamOS / Linux.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/proton-experimental-gets-fixes-for-arm64-ea-app-modern-warfare-2-2009-ragnarok-the-new-world-and-more/",
+    "date": "Sep 21, 2026 17:05",
+    "published_at": "2026-09-21T17:05:56Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1670890649id29811gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Igalia celebrates \"Twenty-Five Years Upstream\"",
+    "link": "https://lwn.net/Articles/1095723/",
+    "description": "The open-source consulting firm Igalia has put out an\nannouncement celebrating 25 years of working on upstream FOSS projects\nfor its clients.  The list of projects the company has worked on is rather\neye-opening: WebKit, mobile-browser rendering (on Maemo, Moblin, MeeGo, and\nTizen), the Linux kernel (CPU and GPU scheduling), 3D graphics drivers, the\nOrca screen reader, \nGStreamer, and lots more.  Beyond that, the company, which is a\nworker-owned cooperative, does its work in ways that benefit the community\nas well as its clients:\n\n\nNone of this is charity. Igalia is a consultancy, and most of the work above was paid for by someone with a product to ship: a device maker who needs the web to run well on their hardware, a platform that needs a feature its users keep asking for, a company whose roadmap depends on something deep in the stack working better than it does today. What they get from us is not a patch to carry forever. We do the work upstream, in the project itself, so it arrives in the next release and keeps working long after the contract ends. Our customers ship products built on code that nobody has to maintain alone, and everyone else gets the same code. That has been the arrangement from the start.\n",
+    "guid": "https://lwn.net/Articles/1095723/",
+    "date": "Sep 21, 2026 16:35",
+    "published_at": "2026-09-21T16:35:32Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "The most highly rated Steam Deck Verified games for August 2026",
+    "link": "https://www.gamingonlinux.com/2026/09/the-most-highly-rated-steam-deck-verified-games-for-august-2026/",
+    "description": "Here's some of the highest-rated Steam Deck Verified games released on Steam during August 2026. Helping you find something great to play on the go!Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/the-most-highly-rated-steam-deck-verified-games-for-august-2026/",
+    "date": "Sep 21, 2026 16:18",
+    "published_at": "2026-09-21T16:18:40Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1269486979id29810gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "AMD EPYC Server Performance Up ~8% Geo Mean For 2026 With Linux Kernel Improvements",
+    "link": "https://www.phoronix.com/review/linux-618-73-amd-epyc",
+    "description": "With the in-development Linux 7.3 kernel showing some nice performance improvements over Linux 7.2 in different areas, Linux 7.2 also having brought some nice gains especially for I/O, and the preceding kernels also having seen some nice performance optimizations this year, I wanted to measure how far the Linux kernel performance has evolved so far in 2026. Today's article is looking at that with how the Linux kernel performance has evolved since the Linux 6.18 LTS kernel at the end of 2025 to the current Linux 7.3 kernel.",
+    "guid": "https://www.phoronix.com/review/linux-618-73-amd-epyc",
+    "date": "Sep 21, 2026 15:00",
+    "published_at": "2026-09-21T15:00:00Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Three new stable kernels",
+    "link": "https://lwn.net/Articles/1095703/",
+    "description": "Greg Kroah-Hartman has released the 7.2.7,\n6.18.53, and 6.12.111 stable kernels. As is usual these days, they are\nquite large; also no surprise is that they provide many important fixes\nthroughout the kernel tree.  Users of those kernels are advised to update.",
+    "guid": "https://lwn.net/Articles/1095703/",
+    "date": "Sep 21, 2026 14:43",
+    "published_at": "2026-09-21T14:43:18Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "Are Book Publishers Warming Up to the AI Industry?",
+    "link": "https://news.slashdot.org/story/26/09/21/0551218/are-book-publishers-warming-up-to-the-ai-industry?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "There's at least 15 author-driven lawsuits underway against AI companies, while publishers have filed roughly 10 more coordinated suits of their own, notes Publisher's Weekly.\n\nYet \"While the lawsuits play out, some publishers are building bridges.\"\n\nGoogle recently announced a partnership with Bloomsbury, De Gruyter Brill, Johns Hopkins University Press, Macmillan, O'Reilly Media, and Penguin Random House to enhance e-books from its Google Play store with AI, allowing readers to interact with the text of the books directly, ask questions and get answers, and develop tools such as quizzes and slideshows... [The CEO of the Author's Guild called the partnership \"a positive step forward in the legitimized use of books in the AI ecosystem to the benefit of readers, publishers, and authors alike.\"] \n\nOf even more significance is the growing number of licensing deals publishers are striking with AI companies. In 2024, HarperCollins became the first of the Big Five to publicly reveal that it had signed a deal to license its content for AI training. The three-year agreement paid $5,000 per participating title, split equally between HarperCollins and the authors. Wiley announced its first AI licensing deal in 2024 and has since made several more. For fiscal year 2026, it reported earning $49 million in revenue from the deals. The company also has a number of strategic collaborations with companies including Amazon Web Services, Microsoft, Anthropic, Perplexity, IQVIA, OpenEvidence, and others. \n\n\nAnd publishers are even building in-house AI tools for producing royalty statements, proofreading, and providing customer service:\n\nIn its 2025 Salary and Jobs Report, Publisher's Weekly reported that 63% of industry professionals surveyed said their organizations were using AI... Keith Riegert, president of the Stable Book Group and CEO of Perfect Bound, has been a vocal advocate for the use of AI in publishing — despite calling himself a \"hardcore techno-pessimist.\" He tells PW, \"I do this because you use AI or you die at this point....\" Like many in the industry, he maintains any use of AI must \"start with a human and end with a human,\" and he draws a clear line, avoiding AI for core creative work, such as selecting titles, designing covers, or creating illustrations — reserving it for developmental editing, formatting, and admin instead... What is known is that each of the Big Five is developing proprietary AI systems for internal use, as proven by the numerous AI-related job openings the companies have posted... [And the parent company of Penguin Random House said in 2025 they used AI for marketing and to forecast demand.] \n\nThere've been a few high-profile controversies about prominent authors accused of using AI. But Princeton University Press CEO Christie Henry \"is less concerned about authors secretly using AI to write than about the time spent policing the situation.\"\n\n\"It pulls us away from having focused time to think,\" she says. Princeton University Press is currently vetting companies that promise to be able to certify that a given book was written by a human, including Created by Humans, Human Authored, and Verify My Writing. Henry adds that the proliferation of plagiarized, copycat, and pirated books online, now supercharged by AI agents mass producing and reproducing content, is further draining resources, as it demands constant vigilance and takedown requests sent to Amazon, YouTube, and others.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Sep 21, 2026 14:34",
+    "published_at": "2026-09-21T14:34:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Portainer Cuts the Cord Between Its Free and Paid Editions",
+    "link": "https://feed.itsfoss.com/link/24361/17468552/portainer-community-edition-freeze",
+    "description": "The free CE build is frozen on 2.x, while all new development goes into a Kubernetes-first, closed-source implementation.",
+    "guid": "6ab0f575922f5a000127ab83",
+    "date": "Sep 21, 2026 14:26",
+    "published_at": "2026-09-21T14:26:58Z",
+    "image": "https://itsfoss.com/content/images/2026/09/portainer-docker-kubernetes-banner-2.png",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "[$] Testing compat_linux on NetBSD with the Linux Test Project",
+    "link": "https://lwn.net/Articles/1094310/",
+    "description": "NetBSD has long had support for\nrunning Linux binaries via its kernel-level compat_linux\nfeature, but test coverage for it was less complete than some might\nhope. In order to provide better testing for compat_linux,\nGoogle Summer of Code (GSoC) participant Henrique Brito opted to work\non enabling the Linux Test\nProject (LTP) test suite to compile and run on NetBSD. At EuroBSDCon 2026, Brito's\nmentor, Stephen Borrill, provided a report on the project, and the\nstatus of LTP on NetBSD. The work has already resulted in some minor\nfixes, and a good list of additional problems to solve.",
+    "guid": "https://lwn.net/Articles/1094310/",
+    "date": "Sep 21, 2026 14:22",
+    "published_at": "2026-09-21T14:22:55Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "Security updates for Monday",
+    "link": "https://lwn.net/Articles/1095702/",
+    "description": "Security updates have been issued by AlmaLinux (kernel, perl-Net-DNS, sudo, tomcat, and tomcat9), Debian (chromium, gimp, libde265, libevent, linux-6.12, ruby-jwt, and unbound), Fedora (asterisk, chromium, doctl, dovecot, evolution, firefox, forgejo, freeciv, freeipa, gegl04, gimp, libheif, nss, opkssh, parted, ruby, stb, thunderbird, unbound, and webkitgtk), Mageia (bind, gawk, gdk-pixbuf2.0, graphicsmagick, gstreamer1.0-plugins-base, libde265, libpcap, libssh, mpg123, ntfs-3g, ntpsec, patch, perl-YAML, postfix, python-configargparse, and python-httplib2), Oracle (.NET 10.0, .NET 8.0, .NET 9.0, firefox, image-builder, kernel, libevent, libsoup, libsoup3, perl-Net-DNS, python-lxml, sudo, tomcat, tomcat9, and unbound), Slackware (stunnel), SUSE (alloy, dovecot22, ffmpeg-8, firefox, firefox-esr, freeipmi, glibc, google-guest-agent, google-osconfig-agent, helm, ImageMagick, jq, kbd, kernel-devel, libpcap, libsoup, libzypp, zypper, NetworkManager-applet-l2tp, nginx, openCryptoki, pcre2, python311, python313-aiosmtplib, python313-litellm, rpm, and thunderbird), and Ubuntu (linux-aws, linux-aws-fips, linux-azure-5.15, linux-azure-fde-5.15, linux-azure-fips, linux-azure-5.4, linux-gcp-fips, linux-azure-fips, linux-nvidia-tegra, linux-raspi, linux-raspi-realtime, and rclone).",
+    "guid": "https://lwn.net/Articles/1095702/",
+    "date": "Sep 21, 2026 14:13",
+    "published_at": "2026-09-21T14:13:08Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "Rsync 3.5.1 Fixes Path Regressions, Adds Protocol 33",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367612",
+    "description": "Rsync 3.5.1 addresses several regressions from version 3.5 while introducing protocol 33 and new 4 KiB logical block statistics.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367612",
+    "date": "Sep 21, 2026 14:05",
+    "published_at": "2026-09-21T14:05:51Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Garuda Linux Begins Nixification By Promoting Its Sybsystem",
+    "link": "https://feed.itsfoss.com/link/24361/17468553/garuda-linux-nixification",
+    "description": "The Nix subsystem now installs as a standalone distro and is available in the Dr460nized and Mokka flavors.",
+    "guid": "6ab117a3922f5a000127acbc",
+    "date": "Sep 21, 2026 13:16",
+    "published_at": "2026-09-21T13:16:46Z",
+    "image": "https://itsfoss.com/content/images/2026/09/garuda-nix-banner.png",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "Patches Posted With Aim To Mainline Linux Kernel Support For The Amazon Kindle 4",
+    "link": "https://www.phoronix.com/news/Amazon-Kindle-4-Linux-Patches",
+    "description": "Amazon released the Kindle 4 back in 2011 with a 6-inch E-ink display, 2GB internal storage, and running a modified version of Linux. In the years since the Amazon Kindle 4 has been jail-broken and there are some customized Linux distributions with a patched kernel to run on the Kindle 4. Now in 2026 there are patches on the Linux kernel mailing list looking to mainline support for that fifteen year old e-reader device...",
+    "guid": "https://www.phoronix.com/news/Amazon-Kindle-4-Linux-Patches",
+    "date": "Sep 21, 2026 13:05",
+    "published_at": "2026-09-21T13:05:33Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Orphaned VMs: Running VMs Uninterrupted While Host Kernel Is Offline For Reboots/Updates",
+    "link": "https://www.phoronix.com/news/Orphaned-VMs-Linux-Patches",
+    "description": "Here's some very intriguing work taking place by a Google engineer... With the hyperscalers and other cloud providers pushing for zero-downtime, a set of experimental patches for \"Orphaned VMs\" allow for the virtual machines to continue to run while the host kernel is offline for security updates or rebooting with the Live Update Orchestrator. The experimental patches and request for feedback from other Linux kernel stakeholders was sent out this weekend on Orphaned VMs...",
+    "guid": "https://www.phoronix.com/news/Orphaned-VMs-Linux-Patches",
+    "date": "Sep 21, 2026 11:38",
+    "published_at": "2026-09-21T11:38:44Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "GNU Wget 2.3 Released With --progress=dot, OS/2 Improvements",
+    "link": "https://www.phoronix.com/news/GNU-Wget-2.3-Released",
+    "description": "GNU Wget2 is up to version 2.3 today with the first new release of 2026 for this popular command-line tool for non-interactive file downloading and being able to easily fetch website contents...",
+    "guid": "https://www.phoronix.com/news/GNU-Wget-2.3-Released",
+    "date": "Sep 21, 2026 11:26",
+    "published_at": "2026-09-21T11:26:18Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "AMD BC-250 Continues Being Improved Under Linux With Patches Now Enabling The PSP",
+    "link": "https://www.phoronix.com/news/AMD-BC-250-Linux-PSP-Support",
+    "description": "The AMD BC-250 as the product designed at the time for cryptocurrency mining and based on a cut-down Sony PlayStation 5 APU continues having an interesting second-life being re-tasked for Linux use from general purpose workloads to AI. Sent out this weekend were the latest Linux kernel patches for continuing to enable more of the BC-250...",
+    "guid": "https://www.phoronix.com/news/AMD-BC-250-Linux-PSP-Support",
+    "date": "Sep 21, 2026 10:22",
+    "published_at": "2026-09-21T10:22:16Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Igalia Celebrates 25 Years Of Advancing Linux \u0026 Open-Source",
+    "link": "https://www.phoronix.com/news/Igalia-Turns-25",
+    "description": "The Igalia Linux/open-source consulting firm based out of A Coruña, Spain is celebrating twenty five years of contributions to upstream open-soure projects...",
+    "guid": "https://www.phoronix.com/news/Igalia-Turns-25",
+    "date": "Sep 21, 2026 10:07",
+    "published_at": "2026-09-21T10:07:11Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Really Illegal Golf sounds hilarious that's basically \"Metal Gear Golf With Friends\"",
+    "link": "https://www.gamingonlinux.com/2026/09/really-illegal-golf-sounds-hilarious-thats-basically-metal-gear-golf-with-friends/",
+    "description": "I love the silly idea of Really Illegal Golf that the publisher tells us is basically \"Metal Gear Golf With Friends\".Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/really-illegal-golf-sounds-hilarious-thats-basically-metal-gear-golf-with-friends/",
+    "date": "Sep 21, 2026 10:06",
+    "published_at": "2026-09-21T10:06:15Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/222882556id29808gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Ubuntu Would Rather Kill Your Apps Before It Takes Down The Session",
+    "link": "https://feed.itsfoss.com/link/24361/17468373/ubuntu-26-10-oom-policy",
+    "description": "Ubuntu 26.10 is shipping a change that should keep the desktop standing when your memory runs out.",
+    "guid": "6ab0ab21922f5a000127a961",
+    "date": "Sep 21, 2026 10:04",
+    "published_at": "2026-09-21T10:04:56Z",
+    "image": "https://itsfoss.com/content/images/2026/09/ubuntu-low-memory-banner.png",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "Australia Considers Smart Glasses Ban in Government Workplaces, While 70 People Sue Meta Over Unknowing Data Collection",
+    "link": "https://yro.slashdot.org/story/26/09/21/0243250/australia-considers-smart-glasses-ban-in-government-workplaces-while-70-people-sue-meta-over-unknowing-data-collection?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "\"Australia is considering barring the use of camera-equipped smart glasses in government workplaces...\" reports Reuters, \"in what it said could be the first ban of its kind.\" \n\nBut meanwhile \"more than 70 people who bought, used or were recorded with Meta's smart glasses have sued the social media giant,\" reports the Los Angeles Times, \"claiming their intimate and sensitive images were exposed to workers abroad who are paid to review and label photos and videos.\"\n\nThe contractors in Kenya work for companies that help train Meta's artificial intelligence, according to a proposed class-action lawsuit amended in late August. The smart glasses users, some in California, allege the gadget captured footage of themselves and family members undressing, going to the bathroom, having sex and entering passwords. In some cases, the people said they weren't aware the camera-equipped glasses were recording. One California user, referred to as PL18 in the lawsuit, alleges his glasses were unknowingly recording after he placed the smart glasses on the bathroom counter. \"He noticed that at times photos of his family members using the bathroom and bathing began appearing in his gallery — footage no one in his household intended to take,\" the lawsuit said.... \n\nThe 230-page lawsuit, filed in a federal court in Northern California, accuses Meta of fraud and false advertising, along with violating other consumer protection laws in various states. Tina Wolfson, one of the lawyers representing the plaintiffs, said the case also centers on Meta's surveillance of people's lives without their consent and the exploitation of their image and likeness. \"People who bought these glasses and thought that they were cool gadgets weren't aware that every time they activated AI, video was sent to train Meta's AI,\" said Wolfson, a principal at law firm Ahdoot \u0026 Wolfson in Burbank. Meta disagrees with the allegations and intends to fight them. \n\"If you use Meta AI, we may review that data to help improve our products and people's experiences — this works the same way as many other companies. We take steps to filter this data to help remove identifying information and to protect people's privacy,\" a Meta spokesperson said in a statement... \n\nThe lawsuit alleges people wearing the smart glasses were unwittingly transmitting data to Meta whenever they used Meta AI by saying \"Hey Meta,\" or sometimes accidentally when adjusting the glasses. \"Every activation of the AI features, intentional or accidental, captures video and audio that is transmitted to Meta's servers, routed overseas, and reviewed by low-paid human workers who watch, label, and embed these moments into Meta's AI models,\" the lawsuit said... \n\nThe lawsuit also seeks to block Meta from deploying biometric tools through its glasses. The company has been exploring a controversial feature called \"NameTag\" that would allow people to identify others... A separate lawsuit, filed in September in a federal court in Illinois, alleges Meta has been using images of people's faces uploaded to their public Facebook and Instagram accounts to train AI that powers NameTag and other AI tools.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Sep 21, 2026 10:04",
+    "published_at": "2026-09-21T10:04:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Linux's Perf Script Command Much Faster With Overhaul As Python Module",
+    "link": "https://www.phoronix.com/news/Linux-Perf-Python-Module",
+    "description": "A big patch series sent out this weekend for the Linux kernel's perf subsystem removes the embedded Python and Perl scripting in favor of standalone Python scripts with a new Python perf module. This perf module for Python written in C is much faster than the status quo...",
+    "guid": "https://www.phoronix.com/news/Linux-Perf-Python-Module",
+    "date": "Sep 21, 2026 09:57",
+    "published_at": "2026-09-21T09:57:16Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Oozing with deadly sludge, reclaim the world in the roguelike survival city builder Toxic Frontier",
+    "link": "https://www.gamingonlinux.com/2026/09/oozing-with-deadly-sludge-reclaim-the-world-in-the-roguelike-survival-city-builder-toxic-frontier/",
+    "description": "Toxic Frontier was announced at the PC Gaming Show Tokyo Direct, bringing some interesting ideas for fans of turn-based roguelike city-builders.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/oozing-with-deadly-sludge-reclaim-the-world-in-the-roguelike-survival-city-builder-toxic-frontier/",
+    "date": "Sep 21, 2026 08:34",
+    "published_at": "2026-09-21T08:34:31Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1978846556id29807gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Check out the demo for the narrative-driven bullet-heaven roguelite Spaceborn Awakening",
+    "link": "https://www.gamingonlinux.com/2026/09/check-out-the-demo-for-the-narrative-driven-bullet-heaven-roguelite-spaceborn-awakening/",
+    "description": "Spaceborn Awakening is a narrative-driven bullet-heaven roguelite made in the spirit of Deep Rock Galactic: Survivor, Death Must Die and Soulstone Survivors.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/check-out-the-demo-for-the-narrative-driven-bullet-heaven-roguelite-spaceborn-awakening/",
+    "date": "Sep 21, 2026 08:21",
+    "published_at": "2026-09-21T08:21:45Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/945761463id29806gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Inspired by 1930s \u0026 1940s animations, Moylo looks supremely cool",
+    "link": "https://www.gamingonlinux.com/2026/09/inspired-by-1930s-1940s-animations-moylo-looks-supremely-cool/",
+    "description": "Moylo is a hand-drawn action game featuring melee combat and challenging boss battles inspired by 1930s \u0026 1940s animations.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/inspired-by-1930s-1940s-animations-moylo-looks-supremely-cool/",
+    "date": "Sep 21, 2026 08:16",
+    "published_at": "2026-09-21T08:16:08Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/789937982id29805gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Thief: The Dark Project Remastered from Nightdive gets a new trailer",
+    "link": "https://www.gamingonlinux.com/2026/09/thief-the-dark-project-remastered-from-nightdive-gets-a-new-trailer/",
+    "description": "Thief: The Dark Project Remastered from Nightdive Studios has a new trailer that was shown off during the PC Gaming Show Tokyo Direct 2026.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/thief-the-dark-project-remastered-from-nightdive-gets-a-new-trailer/",
+    "date": "Sep 21, 2026 08:10",
+    "published_at": "2026-09-21T08:10:17Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/530576659id29804gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "The Legend of Zelda: Twilight Princess PC port Dusklight 2.0 brings modding, a randomizer and more",
+    "link": "https://www.gamingonlinux.com/2026/09/the-legend-of-zelda-twilight-princess-pc-port-dusklight-2-0-brings-modding-a-randomizer-and-more/",
+    "description": "More retro Nintendo goodies for you with The Legend of Zelda: Twilight Princess reimplementation Dusklight version 2.0 bringing major new features.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/the-legend-of-zelda-twilight-princess-pc-port-dusklight-2-0-brings-modding-a-randomizer-and-more/",
+    "date": "Sep 21, 2026 07:57",
+    "published_at": "2026-09-21T07:57:15Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/101001639id29803gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "dwproton-11.0-13 brings fixes for Goddess of Victory: NIKKE, Aniimo and more on SteamOS / Linux",
+    "link": "https://www.gamingonlinux.com/2026/09/dwproton-11-0-13-brings-fixes-for-goddess-of-victory-nikke-aniimo-and-more-on-steamos-linux/",
+    "description": "A fresh release is here of the community Proton build dwproton-11.0-13, which focuses on keeping various Anime games working on SteamOS / Linux.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/dwproton-11-0-13-brings-fixes-for-goddess-of-victory-nikke-aniimo-and-more-on-steamos-linux/",
+    "date": "Sep 21, 2026 07:43",
+    "published_at": "2026-09-21T07:43:47Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1114321642id29802gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Wine 11.18 released with more NTOSKRNL support for kernel drivers",
+    "link": "https://www.gamingonlinux.com/2026/09/wine-11-18-released-with-more-ntoskrnl-support-for-kernel-drivers/",
+    "description": "The Windows compatibility layer Wine 11.18 development release is out now with an assortment of feature additions and bug fixes.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/wine-11-18-released-with-more-ntoskrnl-support-for-kernel-drivers/",
+    "date": "Sep 21, 2026 07:09",
+    "published_at": "2026-09-21T07:09:23Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/378867829id29801gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "North Korean Hackers Posed as Recruiters. They Infected 30,000 Devices Worldwide",
+    "link": "https://yro.slashdot.org/story/26/09/20/2349221/north-korean-hackers-posed-as-recruiters-they-infected-30000-devices-worldwide?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "\"I would like to verify your technical abilities, so please download the specified file and complete the assigned task...\" \n\nFake job listings aimed at software developers and IT professionals led to 30,000 infected devices in over 100 countries — and 7,000 compromised cryptocurrency wallets, leading to over $10 million (USD) transferred to North Korea. Inc. reports:\n\n\nThe hacks occurred from December 2025 through July 2026, according to a joint cybersecurity advisory issued Friday by Japanese, Australian, German, and U.S. authorities, including the Federal Bureau of Investigation and the Defense Department's Cyber Crime Center... The group reportedly has been active since 2023, carrying out both financially motivated attacks and cyberespionage... \n\nThe hackers lure job seekers through social media, online job platforms, gig-work sites and freelance marketplaces. WaterPlum asks responders to take part in virtual technical interviews or complete coding assignments. The attackers then instruct targets to download and run malicious files, sometimes under the guise of completing an assignment or troubleshooting a problem with videoconferencing software. Once the group gains access to a device or network, it uses malware to steal information, including browser passwords, screenshots, files, and cryptocurrency-wallet data. An infected computer can also provide an avenue into the network of the target's employer, opening the door to intellectual-property theft and espionage, authorities said. \nThe operation overlaps with a separate scheme in which North Korean nationals conceal their identities and locations to obtain remote IT work with companies abroad, officials said.\n\n\n \n\nThe malicious files are \"hosted on multiple online collaboration software developer platforms and code repositories,\" the advisory points out, and includes malicious Node Package Manager (NPM) packages..\" \n\nStolen ID images can also be used by North Korean IT workers to impersonate victims to obtain contracts and receive payment in foreign currency, but \"The actors can also use stolen sensitive information for extortion.\" In one case, a North Korean IT worker \"extorted a company over payment and published its proprietary source code online. In another case, an IT Worker hired for website maintenance defaced the hiring company's website and rendered the site inaccessible.\" \n\n The advisory provides clues for employers. It warns these malicious IT workers \"tend to favor payment in cryptocurrency, and they may request that remuneration be sent to an account in another person's name.\" During interviews they'd sometimes used Al face-swapping software, then claimed network issues and disabled their video. And \"On holidays celebrated in North Korea, the actors played games and watched soccer videos instead of conducting their usual malicious activities.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Sep 21, 2026 05:34",
+    "published_at": "2026-09-21T05:34:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
     "title": "Clicks Communicator brings 4.03-inch AMOLED display and physical keyboard to Android 17",
     "link": "https://lxer.com/module/newswire/ext_link.php?rid=367589",
     "description": "Clicks is preparing the Communicator, a compact Android smartphone built around a physical keyboard and a 4.03-inch AMOLED touchscreen. The device uses MediaTek’s 4nm Dimensity 8300 platform, includes 12GB of RAM and 256GB of storage, and is designed to operate either as a standalone phone or alongside another smartphone. The MediaTek Dimensity 8300, identified by […]",
@@ -182,78 +498,5 @@
     "published_at": "2026-09-20T10:21:51Z",
     "source": "phoronix.com",
     "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Tech Industry Scratches Its Head Over Trump's 'AI Force' Proposal",
-    "link": "https://politics.slashdot.org/story/26/09/19/2250231/tech-industry-scratches-its-head-over-trumps-ai-force-proposal?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Saturday morning President Trump announced he's creating an AI task force and appointing an AI czar, reports Politico.\n \n\n\"I am forming the AI Force, much like I did Space Force, which has been a tremendous SUCCESS,\" Trump wrote Saturday in what Politico earlier described as \"a lengthy Truth Social post on Saturday morning.\"\n\n\n\nTRUMP: Over the years, there have been many Hoaxes, all generated by the Radical Left Dumocrats, for purposes of destroying our Country. RUSSIA, RUSSIA, RUSSIA, UKRAINE, UKRAINE, UKRAINE, Global Warming, Impeachment Hoax #1, Impeachment Hoax #2 [...] and now, the decimation, or destruction, of AI, commonly known as Artificial Intelligence — And I, as President of the United States, will not stand by and let this happen. \n\nIt all began with an attack on our Data Centers, until people realized how wealthy and prestigious they were for the Communities in which they were built. Higher Salaries, Lower Taxes, and Safer Streets, was the result, and the crazed Data Center attack has largely failed, so now [...] they are going straight at AI. We will not in any way hinder or stifle the Growth of this incredible Industry. Rather, we will cherish it, help it, and watch over it, as it grows! \n\nHowever, we will also be looking for BAD, and we can do that, very easily, with our already existing Criminal and Civil Justice System. For this purpose, I am forming the AI Force, much like I did Space Force, which has been a tremendous SUCCESS, in my First Term. To that end, I will be announcing, in the near future, the AI \"Czar\" — Only High I.Q. individuals need apply!\n \n\nTrump concluded by saying AI \"is the next Industrial Revolution, or Internet, but will be even larger and more impactful... We are leading China, and the rest of the World, and I intend to keep it that way!\"\n\n\nBut what exactly is AI Force? \"The White House did not immediately respond to a request to clarify whether the agency would be military or civilian,\" notes the Washington Post. So now \"The tech industry is struggling to make sense of President Donald Trump's surprise announcement,\" Politico reported Saturday afternoon:\n\n\n\nFour representatives for the sector, who were granted anonymity because they were not authorized to speak publicly, told POLITICO that the industry was not widely informed of Trump's decision prior to the Truth Social post. \"Nobody knows what the idea even is,\" one of the people said. Another said that feedback on the idea was not widely solicited within the industry. The White House did not immediately respond to a request for comment... \n\n\"I think that he clearly feels pressure to say something, but he's torn because he's just spent the last few days saying that the whole thing is a hoax,\" Adam Kovacevich, CEO of the progressive tech industry coalition Chamber of Progress, said of Trump and his prior dismissal of AI doomsday scenarios. Since the departure of David Sacks, who stepped down as the Trump administration's previous AI czar earlier this year, the White House has been \"making up AI policy as it goes,\" Kovacevich added. \"I think it's clear they've really missed the presence of an organized leader like David Sacks was.\" \n\n\n\nOne of the tech industry representatives said they were confused about whether the task force would be charged with formulating more AI regulations or recommending policies that would further stimulate the tech's development. Taylor Barkley, director of federal government affairs at the industry-aligned Abundance Institute, is eyeing it as a way to solidify a light-touch government approach to the technology he says will foster innovation. \"Any AI Force or AI Czar should have one job: keep the field open so entrepreneurs at every scale can compete, free from onerous regulation,\" he told POLITICO. \"Existing criminal and civil law can handle bad actors. New permission regimes will stifle the very activity America needs most.\"\n \n\nIt's worth noting that the day before, California's governor made an announcement. \"With Donald Trump and Congress asleep at the wheel, Governor Gavin Newsom is once again taking the lead to strengthen AI safety for all Americans,\" the governor's office announced Friday. Newsom issued a strong executive order convening experts to help California create new AI safety laws and reporting rules, possibly even requiring safety auditors embedded in labs and emergency \"kill switches\" in frontier models.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Sep 20, 2026 07:04",
-    "published_at": "2026-09-20T07:04:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Customer-Losing Flock Now Offers Buyouts to Avoid Laying Off Employees",
-    "link": "https://yro.slashdot.org/story/26/09/19/2349229/customer-losing-flock-now-offers-buyouts-to-avoid-laying-off-employees?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Mashable writes:\n\n\nFlock Safety offered employees voluntary buyouts on Friday, WIRED reported... Without the buyouts, those familiar with the situation suspect the company would have to lay off some of its 1,500 employees. \n\nWIRED writes that people familiar with the program \"say they believe that a significant number of the startup's roughly 1,500 employees may try to depart.\"\n\n\nFlock is making the severance offers as it continues to lose customers... The company has had many of its contracts either not extended or dropped this year, which could leave it short of revenue goals, according to two of the people. A wave of vandalism targeting its cameras has unexpectedly increased expenses. Without buyouts, Flock almost certainly would have to lay off some staff, one of the people believes... People familiar with Flock's severance plan tell WIRED that some employees may take the offer amid speculation that the company, which has raised about $1.2 billion in venture capital, might resort to selling off parts or all of its business to stay afloat... One advocacy group identified 93 city and county governments that cut ties with Flock in August alone. Overall in 2026, roughly three times as many local governments have dropped Flock compared to the previous five years. \n\nFlock has recently been building products that extend the company beyond its core license plate reader offering. WIRED reported last month that the company has developed AI-powered investigative software to identify drivers, find potential associates based on patterns of movement, and search across police records and other data. A separate WIRED analysis of Flock's software found tools designed to continuously search camera feeds for people matching written descriptions. WIRED's analysis of Flock's code also found potential integrations with drones and other surveillance systems. \n\nFlock's financial scrambles might explain an incident in Syracuse, New York. The nonprofit news site\nCentral Current discovered the city's contract said its license plate data wouldn't be shared outside the police department, reports Mashable:\n\nBut the department had granted access to other agencies, which police said was an accident. Over roughly a year, searches by officers around the country reached Syracuse's data nearly 4.4 million times. And that wasn't the only surprise in the paperwork. Central Current also found that Flock could keep using Syracuse data after the contract ended. When the city approved cameras from Axon to replace Flock's, Flock said Syracuse couldn't simply end its agreement early. It warned that the city might have to pay for both systems; so even as officials moved to replace the cameras, they faced questions about what Flock could do with the data and what the city might still owe. \n\n\nMeanwhile, the Texas Department of Transportation \"has stopped issuing permits allowing Flock cameras and other automated license plate readers to be installed along state roads...\" reports the Texas Tribune. \"There were an estimated 13,000 Flock cameras across Texas in August, but hundreds of the devices have been shut down after [governor] Abbott's funding freeze.\" \n\nAnd in August Florida's Republican Governor \"ordered his state's transportation department to remove the cameras from state roads, saying he didn't want 'a surveillance state.'\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Sep 20, 2026 02:34",
-    "published_at": "2026-09-20T02:34:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Linux 7.3-rc4 To Address Two Unfortunate Bugs With Btrfs",
-    "link": "https://www.phoronix.com/news/Btrfs-Fixes-For-Linux-7.3-rc4",
-    "description": "Merged today were this week's set of Btrfs file-system fixes for the Linux 7.3-rc4 kernel, which include two notable bug fixes...",
-    "guid": "https://www.phoronix.com/news/Btrfs-Fixes-For-Linux-7.3-rc4",
-    "date": "Sep 20, 2026 00:26",
-    "published_at": "2026-09-20T00:26:58Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Developer Abandons 'PS5 Linux' Project After Sony Patches AI-Discovered Exploit",
-    "link": "https://games.slashdot.org/story/26/09/19/222229/developer-abandons-ps5-linux-project-after-sony-patches-ai-discovered-exploit?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "\"In April this year, we saw Andy Nguyen turning the PS5 into a Linux-powered gaming PC,\"\nwrites the blog It's FOSS. \n\nIt ran Steam games and emulators using the PS5's on-board hardware. But this week Andy announced he's \"stopping all my work on PS5 Linux\" and \"stepping away from the PS5 scene.\"\n stopping work on porting the project to the PS5 Pro, which would've shipped sometime in 2027.\n\n\n\nAndy Nguyen: After pouring my heart and months of my life into it, including plans to finish PS5 Pro support and release in 2027, it's all down the sink. \n\nThe scene used to be a group of highly talented researchers, but now it is just a bunch of noobs using LLMs and writing hacks they don't even understand. Slop kiddies found the only hypervisor bug left, which I had also found a while ago, and decided to report to Sony. I asked them to at least wait for GTA 6 to come out so that people would have the opportunity to legally purchase the game and also enjoy Linux. They agreed to wait, but not a day passed and they decided to waste it instead.\n\n \n\nOr, as It's FOSS tells it:\n\nRunning Linux on a PlayStation console is possible because the PS5 Linux project was able to find a way past the hypervisor using exploits Sony had already patched, covering firmware 3.00 through 7.61. .. \n\n[The bug's discoverer writes it was] found with what he calls his \"trusty ai clanker machine\" and no help from anyone else. He had even agreed to Andy's request to not disclose the findings. Unexpectedly, a third person, still unnamed, found the same bug using AI a few hours later. Anticipating that there would be more people finding the same bug, [he] decided to post the flaw on HackerOne. \nThe project's GitHub page and all the related repositories are still there. Nothing has been archived as of today, and if you wanted to, you could start contributing to the PS5 Linux project by taking over any pending work or cooking up new improvements... The PS5 Pro support Andy was building never reached the repository, so you would have to start from scratch... While Andy's departure is a blow to the plan for supporting newer PS5 firmware and the PS5 Pro, other contributors have shown that they can deliver work on the loader without him, and I am hopeful more will follow.\n\n\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Sep 19, 2026 22:05",
-    "published_at": "2026-09-19T22:05:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Best Password Managers for Linux in 2026",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367579",
-    "description": "We compared password managers with real Linux apps, from Bitwarden to self-hosted Vaultwarden. See features, pricing, and honest pros and cons.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367579",
-    "date": "Sep 19, 2026 21:54",
-    "published_at": "2026-09-19T21:54:19Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Red Hat Lost 2,000 Staff (Net Loss)",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367578",
-    "description": "There's more coming in the next few weeks, with some people already knowing their last date/day.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367578",
-    "date": "Sep 19, 2026 20:22",
-    "published_at": "2026-09-19T20:22:50Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "KDE Plasma 6.8 Enters Final Polishing Ahead of October 14 Release",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367583",
-    "description": "KDE Plasma 6.8 is now firmly in the polishing stage, with developers focusing on bug fixes and refinements ahead of its October 14, 2026 release.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367583",
-    "date": "Sep 19, 2026 18:51",
-    "published_at": "2026-09-19T18:51:20Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
   }
 ]
