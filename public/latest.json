@@ -1,5 +1,277 @@
 [
   {
+    "title": "Variable Refresh Rate \"VRR\" Target Limiter Proposed For Linux Graphics Drivers",
+    "link": "https://www.phoronix.com/news/VRR-Target-Rate-Limiter-uAPI",
+    "description": "A new proposal being discussed is introducing a Linux user-space API to be able to specify frame rate targets for Variable Refresh Rate (VRR) handling on the Linux desktop...",
+    "guid": "https://www.phoronix.com/news/VRR-Target-Rate-Limiter-uAPI",
+    "date": "Sep 22, 2026 15:29",
+    "published_at": "2026-09-22T15:29:30Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "[$] Compiling the kernel with gccrs",
+    "link": "https://lwn.net/Articles/1095553/",
+    "description": "\nPierre-Emmanuel Patry and Arthur Cohen gave a talk at\n\nRustConf 2026 on the\nstatus of the Rust frontend for GCC (gccrs), with a particular eye toward the\ngoal of\n\ncompiling the Linux kernel. Patry gave a follow-up talk for a more\nkernel-focused audience at\n\nKangrejos the next week, which Cohen could not attend. The\n\ngccrs project is\nmaking good progress overall, but it will still be some time until the compiler\nis usable.\n",
+    "guid": "https://lwn.net/Articles/1095553/",
+    "date": "Sep 22, 2026 15:27",
+    "published_at": "2026-09-22T15:27:35Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "Security updates for Tuesday",
+    "link": "https://lwn.net/Articles/1096022/",
+    "description": "Security updates have been issued by AlmaLinux (apr-util, corosync, curl, freerdp, gstreamer1-plugins-base, libarchive, libtiff, libxml2, openexr, openssh, rsyslog, sudo, tomcat, unbound, webkit2gtk3, yggdrasil, and yggdrasil-worker-package-manager), Debian (chromium), Fedora (alsa-plugins, amarok, aqualung, atomes, attract-mode, audacious-plugins, audacity, baresip, blender, calibre, cantata, cef, chromaprint, chromium, digikam, doctl, dragon, ffmpeg, ffmpegthumbnailer, ffmpegthumbs, ffms2, fooyin, glaxnimate, goldendict-ng, gpac, gstreamer1-plugin-libav, guacamole-server, guvcview, haruna, hedgewars, icecat, janus, k3b, kdenlive, kf5-kfilemetadata, kf6-kfilemetadata, kpipewire, lazygal, lego, libcamera-apps, libheif, libopenshot, libopenshot-audio, libvncserver, localsearch, mat2, minidlna, mivisionx, mixxx, mlt, monado, mpd, mpv, mpv-mpris, neatvnc, notcurses, nv-codec-headers13.0, obs-studio, obs-studio-plugin-droidcam, obs-studio-plugin-pwvideo, obs-studio-plugin-vaapi, obs-studio-plugin-vkcapture, obs-studio-plugin-webkitgtk, olive, openal-soft, OpenBoard, opencv, openmw, opustags, os-autoinst, patool, Pencil2D, perl-HTML-FormHandler, pianobar, prometheus-podman-exporter, python-audioread, python-torchaudio, python-torchvision, qmmp, qmmp-plugin-pack, qmplay2, qt5-qtwebengine, qt6-qtmultimedia, qt6-qtwebengine, qtox, retroarch, rocdecode, rocdecode7.2, rsgain, siril, squeezelite, swayimg, tigervnc, timg, unpaper, vlc, vtk, waypipe, wf-recorder, wivrn, wxsvg, xine-lib, xmms2, xpra, xscreensaver, yle-dl, znc, and znc-clientbuffer), Mageia (nmap, pcre2, and vim), Oracle (curl, openssl-fips-provider, sudo, tomcat, webkit2gtk3, yggdrasil, and yggdrasil-worker-package-manager), Slackware (util-linux), SUSE (cadvisor, chromium, coredns, fake-gcs-server, freeciv, gh, glibc, google-guest-agent, google-osconfig-agent, hugo, kbd, kbfs, keybase-client, libheif, libpcap, mbedtls, pcre2, python-asteval, python-jwcrypto, python311, python313-ansi2html, shadowsocks-rust, sofia-sip, and trivy), and Ubuntu (clamav, expat, ghostscript, glib2.0, gst-plugins-base1.0, gst-plugins-good1.0, libsoup2.4, libsoup3, libssh2, libxml2, linux-azure-6.8, linux-azure-fde, linux-azure-fde, linux-azure-fde-7.0, linux-azure-fde, linux-intel-iotg, linux-kvm, linux-oracle, linux-xilinx-zynqmp, linux-gcp-6.8, linux-ibm, linux-xilinx, linux-ibm, linux-nvidia-bos, linux-raspi, memcached, openjdk-17, openjdk-21, openjdk-25, openjdk-8, openjdk-lts, rsyslog, and strongswan).",
+    "guid": "https://lwn.net/Articles/1096022/",
+    "date": "Sep 22, 2026 15:10",
+    "published_at": "2026-09-22T15:10:11Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "SPEC Releases SPECviewperf 15.0.1 For Linux",
+    "link": "https://www.phoronix.com/news/SPECviewperf-15.0.1-Linux",
+    "description": "SPEC back in May 2025 introduced SPECViewPerf 15 as the newest major release of this industry-standard workstation graphics benchmark. Sadly, the Linux support once again fell behind with SPECViewPerf 15 only debuting on Microsoft Windows. Today though Linux has caught up with SPEC releasing a Linux-native build of SPECViewPerf 15.0.1...",
+    "guid": "https://www.phoronix.com/news/SPECviewperf-15.0.1-Linux",
+    "date": "Sep 22, 2026 14:36",
+    "published_at": "2026-09-22T14:36:00Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "systemd 262 Released With AI/LLM Canary For Unreviewed Code, LUO Integration",
+    "link": "https://www.phoronix.com/news/systemd-262",
+    "description": "Systemd 262 made it out today as the newest feature update to this Linux init system and service manager. As with most systemd releases, it's heavy on new features and functionality...",
+    "guid": "https://www.phoronix.com/news/systemd-262",
+    "date": "Sep 22, 2026 13:35",
+    "published_at": "2026-09-22T13:35:05Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Vibe Coded YSERVER Adds XDMCP Support For Multi-User Shared Desktops",
+    "link": "https://www.phoronix.com/news/YSERVER-1.6-Released",
+    "description": "The open-source YSERVER project as a modern X11 sever written in the Rust programming language with the help of Claude Code is out today with a new feature release. Most notable for this AI Rust X11 server is X Display Manager Control Protocol (XDMCP) support for multi-user shared desktops...",
+    "guid": "https://www.phoronix.com/news/YSERVER-1.6-Released",
+    "date": "Sep 22, 2026 13:28",
+    "published_at": "2026-09-22T13:28:11Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Pentagon Investigators Say Overreliance on Palantir AI Contributed to US Strike That Killed 123 Iranian Children",
+    "link": "https://news.slashdot.org/story/26/09/22/0614238/pentagon-investigators-say-overreliance-on-palantir-ai-contributed-to-us-strike-that-killed-123-iranian-children?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Two U.S. missiles hit an elementary school in Iran, killing over 150 people including 123 children on the first day of the Iran War. But Gizmodo notes that a new Bloomberg investigation cites U.S. officials involved in an unreleased internal Pentagon review who blame \"a cascade of preventable failures that included an overreliance on an AI tool built by Palantir.\"\n\nAccording to the officials who spoke to Bloomberg, some personnel inside U.S. Central Command leaned too hard on the AI inside the Maven Smart System, an AI-powered data integration and targeting platform developed by Palantir to accelerate intelligence analysis and decision-making. The Defense Department has reportedly made the software tool a cornerstone of military operations over the past year... Officials said some users expected Maven to flag stale records or contradictions in the intelligence assembled for potential targets, though it is not clear why they thought the system would do that. The Minab [elementary school] site, which was cataloged as an Islamic Revolutionary Guard Corps facility due to outdated data, was fed into Maven with other candidates and came out as a recommended day-one target. Target-list work that once took hours was condensed into minutes. \n\nA Palantir spokesperson told Bloomberg the company \"is not responsible for the underlying data nor identifying intelligence deficiencies\" and that there is no evidence its software was at fault. Two people familiar with Palantir's Pentagon contracts said the government keeps primary responsibility for the quality of the information that's fed into Maven. After the strike, Palantir added features that \"re-review underlying intelligence to identify factors that would disqualify a target and flag inconsistencies and inaccuracies that human review may have missed,\" a person familiar with the work said. That new functionality is said to have already caught some anomalies... \n\nMore than 1,000 Iranian targets were hit in the first 24 hours, and according to Bloomberg's sources, that pace compressed the time available for additional confirmations. Staffing on civilian harm mitigation teams across the U.S. Department of Defense had also fallen by roughly 90% over recent years, shrinking to fewer than 20 people overall. The U.S. Central Command's group shrank from 10 people to one. No member of those teams reviewed the Minab site before the missiles were up in the air. \n\nA separate inquiry by the United Nations' Independent International Fact-Finding Mission on Iran this week reached the conclusion that there were reasonable grounds to believe the United States committed the war crime of launching an indiscriminate attack.\n\n\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Sep 22, 2026 13:04",
+    "published_at": "2026-09-22T13:04:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Alibaba Contributing $3M USD To Omarchy To Work On Making \"Ideal\" Agentic OS",
+    "link": "https://www.phoronix.com/news/Omarchy-Alibaba-3M",
+    "description": "The Omarchy project announced today that Alibaba Cloud will be contributing a total of three million USD to their foundation for helping development of this Linux distribution and working to make it an \"ideal agentic operating system\"...",
+    "guid": "https://www.phoronix.com/news/Omarchy-Alibaba-3M",
+    "date": "Sep 22, 2026 12:24",
+    "published_at": "2026-09-22T12:24:11Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Raspberry Pi Disallows RAM Upgrades to Fight Fraud, Does it Make Sense?",
+    "link": "https://feed.itsfoss.com/link/24361/17469532/raspberry-pi-blocks-ram-upgrades",
+    "description": "A resurfacing firmware lock is catching out new buyers and tinkerers who want to revive dead hardware.",
+    "guid": "6ab22ff3922f5a000127aff4",
+    "date": "Sep 22, 2026 12:18",
+    "published_at": "2026-09-22T12:18:09Z",
+    "image": "https://itsfoss.com/content/images/2026/09/raspberry-pi-ram-upgrade-banner.png",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "Promotion Reminder For Ad-Free Viewing, Multi-Page Articles On A Single Page",
+    "link": "https://www.phoronix.com/news/September-2026-Phoronix-Ad-Free",
+    "description": "As a friendly reminder in case you missed it from over the weekend, the Phoronix autumn \"Oktoberfest\" premium sale is taking place through the rest of this week for those wishing to help support the site while enjoying ad-free viewing, multi-page articles rendered on a single page, and other benefits while helping for the site to survive and continue producing daily original content...",
+    "guid": "https://www.phoronix.com/news/September-2026-Phoronix-Ad-Free",
+    "date": "Sep 22, 2026 12:15",
+    "published_at": "2026-09-22T12:15:16Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Linux 7.3 Adding Logitech G502 X Lightspeed USB Support, ELECOM M-XT4DRBK",
+    "link": "https://www.phoronix.com/news/Linux-7.3-HID-G502X-USB",
+    "description": "Sent out today was a new HID subsystem pull request of fixes for the week to the Linux 7.3 kernel. Besides some conventional bug fixes are also supporting some additional devices via quirks and new IDs...",
+    "guid": "https://www.phoronix.com/news/Linux-7.3-HID-G502X-USB",
+    "date": "Sep 22, 2026 12:10",
+    "published_at": "2026-09-22T12:10:33Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Signal Will Let You Sign Up Without a Phone Number — For $3",
+    "link": "https://feed.itsfoss.com/link/24361/17469533/signal-numberless-registration",
+    "description": "The feature is currently in testing on Android, with iOS support still a bit far away.",
+    "guid": "6ab21dea922f5a000127af13",
+    "date": "Sep 22, 2026 11:49",
+    "published_at": "2026-09-22T11:49:07Z",
+    "image": "https://itsfoss.com/content/images/2026/09/signal-android-numberless-registrations-banner.png",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "First-person horror flight sim 'The Hollowing' revealed by the Lorn's Lure developer",
+    "link": "https://www.gamingonlinux.com/2026/09/first-person-horror-flight-sim-the-hollowing-revealed-by-the-lorns-lure-developer/",
+    "description": "The Hollowing is an atmospheric first-person horror flight sim where you fly alone across a mist-shrouded Megastructure, from the Lorn's Lure developer.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/first-person-horror-flight-sim-the-hollowing-revealed-by-the-lorns-lure-developer/",
+    "date": "Sep 22, 2026 11:38",
+    "published_at": "2026-09-22T11:38:35Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1607839172id29817gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Classic physics-based browser game Happy Wheels gets revived on Steam",
+    "link": "https://www.gamingonlinux.com/2026/09/classic-physics-based-browser-game-happy-wheels-gets-revived-on-steam/",
+    "description": "Happy Wheels is a game all about getting from A to B, and failing constantly while creating a rather amusing bloody mess.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/classic-physics-based-browser-game-happy-wheels-gets-revived-on-steam/",
+    "date": "Sep 22, 2026 11:19",
+    "published_at": "2026-09-22T11:19:49Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/793090238id29816gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Cache Aware Scheduling Fixes Queued For Submission To Linux 7.3, Backporting To 7.2",
+    "link": "https://www.phoronix.com/news/Linux-7.3-CAS-Fixes-Coming",
+    "description": "Later this week it looks like the latest round of Cache Aware Scheduling fixes will be merged for enhancing this kernel scheduler functionality  for grouping related tasks together on CPU cores that share the same last level cache (LLC). Cache Aware Scheduling can lead to better cache locality and lower latency by avoiding the costs of potential cache bouncing -- that is when bugs don't get in the way...",
+    "guid": "https://www.phoronix.com/news/Linux-7.3-CAS-Fixes-Coming",
+    "date": "Sep 22, 2026 10:32",
+    "published_at": "2026-09-22T10:32:45Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Linux Adding New Interface For Reporting AMD SEV Status",
+    "link": "https://www.phoronix.com/news/Linux-sysfs-AMD-SEV-Status",
+    "description": "A convenient addition that surprisingly hasn't been added to the Linux kernel until now is /sys/devices/system/cpu/sev/sev_status as a new sysfs interface for reporting the AMD Secure Encrypted Virtualization (SEV) status...",
+    "guid": "https://www.phoronix.com/news/Linux-sysfs-AMD-SEV-Status",
+    "date": "Sep 22, 2026 10:21",
+    "published_at": "2026-09-22T10:21:43Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "ZLUDA Now Implements Some NVIDIA cuFFT APIs With hipFFT",
+    "link": "https://www.phoronix.com/news/ZLUDA-cuFFT-APIs-hipFFT",
+    "description": "ZLUDA as the open-source project working on CUDA for non-NVIDIA GPUs like AMD Radeon graphics cards now has implemented support for some of NVIDIA's core cuFFT APIs...",
+    "guid": "https://www.phoronix.com/news/ZLUDA-cuFFT-APIs-hipFFT",
+    "date": "Sep 22, 2026 10:03",
+    "published_at": "2026-09-22T10:03:38Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "KDE developers' attempts at creating LLM guidelines are not going well",
+    "link": "https://www.gamingonlinux.com/2026/09/kde-developers-attempts-at-creating-llm-guidelines-are-not-going-well/",
+    "description": "It seems the KDE developers want to allow some use of generative AI / LLMs, as they're working on a policy of guidelines for it.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/kde-developers-attempts-at-creating-llm-guidelines-are-not-going-well/",
+    "date": "Sep 22, 2026 09:45",
+    "published_at": "2026-09-22T09:45:22Z",
+    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/kde.png",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "18 Programming eBooks, 1 Bundle, and Your Purchase Also Fights Surveillance",
+    "link": "https://feed.itsfoss.com/link/24361/17469430/think-like-programmer-humble",
+    "description": "DRM-free ebooks on programming from the prestigious No Starch Press. Part of your purchase gets donated to EFF.",
+    "guid": "6ab20fe8922f5a000127aee6",
+    "date": "Sep 22, 2026 09:33",
+    "published_at": "2026-09-22T09:33:57Z",
+    "image": "https://itsfoss.com/content/images/2026/09/think-like-programmer-ebook-bundle.webp",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "You absolutely have to play Mechabellum as it now has a free edition",
+    "link": "https://www.gamingonlinux.com/2026/09/you-absolutely-have-to-play-mechabellum-as-it-now-has-a-free-edition/",
+    "description": "Mechabellum is an auto-battler that's a bit like future space chess in a way, it has some truly epic battles and just had a massive upgrade with a free edition.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/you-absolutely-have-to-play-mechabellum-as-it-now-has-a-free-edition/",
+    "date": "Sep 22, 2026 09:07",
+    "published_at": "2026-09-22T09:07:51Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/83453110id29814gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Google Opens Preorders for Its $899 Gemini-Enhanced 'Googlebook' Laptops",
+    "link": "https://tech.slashdot.org/story/26/09/22/031256/google-opens-preorders-for-its-899-gemini-enhanced-googlebook-laptops?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Monday Google opened preorders for its \"Googlebook\" laptops, pricing them at $899. A Google's blog post added that \"At launch, you can choose between Intel Core Ultra Series 3 and Snapdragon X Elite processors\" (paired with NPUs to power AI features). \n\n\"Devices will hit shelves on October 4 in the U.S. and on October 5 in Canada, the U.K., Ireland, France, Germany, and Australia,\" TechCrunch points out. But \"the real pull for the new devices is that they'll prominently feature Gemini's latest capabilities in a new format: the laptop.\"\n\nGoogle is trying to offer a laptop with unique features like an AI-powered cursor, vibe-coded widgets, and support for AI-enhanced dictation. The latter is a feature called Rambler, which cleans up messy, rambling brain dumps into readable text. The move is a bet that AI, specifically Google's Gemini, could be enough of a draw to get people to buy a new laptop that bakes in AI instead of running them via desktop apps you install or access through the browser... On the Googlebook, Google is trying to reinvent the \"point-and-click\" experience of desktop computing to now include an AI element: The cursor serves as a conduit to Gemini. The company suggests various ways this could be used, like highlighting content on a web page for Gemini to work with, asking Gemini to see if an email you've hovered your cursor over is suspicious, or selecting images and then asking Gemini to visualize them together... \n\nWhat's more interesting about the Googlebook is how it's seemingly part of Google's longer-term plan to capture a large part of the K-12 market that currently relies on Chromebooks and push them toward the company's Gemini AI. There are somewhere around 50 million Chromebooks in schools, used by students and educators, Google has said. In May, the company told TechCrunch that its current Chromebooks would continue to be supported, though many would become eligible to transition to the new Googlebook experience in the future... \n\nFlagship devices in the new range are being built by Acer, ASUS, Dell, HP, and Lenovo, with materials like aluminum, magnesium alloy, and carbon fiber... Google says the device will offer up to 14 hours of battery life. \n\n\nGooglebooks will be decorated with an exterior Glowbar \"which dances when you boot up, sweeps to show battery level, and supports other playful patterns,\" according to Google's blog post. \"We're also opening Glowbar access to developers to build custom, interactive animations.\" \nAfter testing actual Googlebooks, The Verge's reviewer first acknowledges that \"it might be just another Trojan horse for Gemini.\" Still, \"The hardware is polished (since it's based on current laptops). The OS is familiar (if you've ever used a Chromebook). But most impressive, it integrates your Android phone with your PC so they feel more like one device. It's the culmination of a series of new ideas that blur the two devices together. \n\n\"After my first look, I went from doubtful to excited by the prospect of Google pulling it all off...\"\n\nThe Asus was incredibly lightweight; the Lenovo has plenty of ports and an optional mouse with a matching Glowbar light; the Acer's convertible form factor allows some tablet-like use (and it's pretty affordable for a Panther Lake laptop). The HP had a great-looking screen and a latticeless keyboard I surprisingly didn't hate, and the Dell is basically a gold XPS 13 (which is excellent) but with a different chip... \n\nBut everything really special about Googlebooks comes down to software... You can cast apps from an Android phone directly to a Googlebook, even without touching your phone. Googlebooks essentially have two app drawers: a G-logo start menu for installed Googlebook apps and a second one beside it that pulls up mobile apps from your phone. Click a phone app and you can fully use that app with the mouse and keyboard or the Googlebook's touchscreen. It's a bit like iPhone Mirroring on macOS, but the apps are individually extracted to the desktop OS instead of showing your whole phone interface. \n\nGooglebooks also have a nifty feature called Continue On where the icons of apps you're currently using on your phone appear in the bottom bar — allowing you to click it on the laptop and hand it off to the Googlebook. These app handoffs can transition to a native app or a web app, depending on how developers have programmed it... The other big way Googlebooks interact with an Android phone is Quick Access, allowing you to see and access all the files stored on your phone right in the desktop Files app... If you have an iPhone then you're limited to a Link to iOS app that just does some message syncing and replying... [W]hen it comes to mainline gaming, Nvidia's GeForce Now service is also coming to Googlebooks, and the first year is free with one of Google's new laptops. \n\n\"It's not every day we get a new player in the desktop operating system and laptop spaces,\" the reviewer points out. \"There seems to be a higher ceiling of potential with Googlebooks than there was with Chromebooks, along with some cool features, but Google has a lot to prove at higher prices than people are used to paying for its laptops.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Sep 22, 2026 08:34",
+    "published_at": "2026-09-22T08:34:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "DavMail 7.0 Exchange Gateway Released With Faster Microsoft 365 Sync",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367622",
+    "description": "DavMail 7.0 improves Microsoft 365 and Exchange connectivity with faster IMAP synchronization, better Graph API stability, and calendar enhancements.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367622",
+    "date": "Sep 22, 2026 08:23",
+    "published_at": "2026-09-22T08:23:44Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Here's some of the best VR games released on Steam in 2026 so far",
+    "link": "https://www.gamingonlinux.com/2026/09/heres-some-of-the-best-vr-games-released-on-steam-in-2026-so-far/",
+    "description": "Here's some of the highest-rated VR games released on Steam in 2026. Helping you get ready for the SteamOS Linux powered Steam Frame.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/heres-some-of-the-best-vr-games-released-on-steam-in-2026-so-far/",
+    "date": "Sep 22, 2026 08:06",
+    "published_at": "2026-09-22T08:06:04Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/120490763id29813gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Steam Beta adds experimental new Pyrowave video codec for Remote Play",
+    "link": "https://www.gamingonlinux.com/2026/09/steam-beta-adds-experimental-new-pyrowave-video-codec-for-remote-play/",
+    "description": "Valve released a fresh Steam Beta for all platforms which now includes their own experimental new Pyrowave video codec for Remote Play.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/steam-beta-adds-experimental-new-pyrowave-video-codec-for-remote-play/",
+    "date": "Sep 22, 2026 07:06",
+    "published_at": "2026-09-22T07:06:16Z",
+    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/steam_plain_2025.jpg",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Valve Unveils Lepton for Running Android Games on Linux",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367625",
+    "description": "Lepton is Valve’s new open-source project for bringing Android games to Linux, with Steam Frame as its main target.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367625",
+    "date": "Sep 22, 2026 05:20",
+    "published_at": "2026-09-22T05:20:45Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Meta's New 'Personal AI Agent' Muse Beats ChatGPT in Downloads - and Get Blocked by Amazon",
+    "link": "https://tech.slashdot.org/story/26/09/22/0116233/metas-new-personal-ai-agent-muse-beats-chatgpt-in-downloads---and-get-blocked-by-amazon?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Meta's AI \"personal agent\" Muse overtook ChatGPT as the #1 iOS free app in the U.S. on Friday, reports CNBC — and it's still showing more downloads as of Monday night. \n\nMuse now has over 2.5 million downloads since its debut less than two weeks ago, according to analytics firm Sensor Tower...\n\n[Muse] is currently ahead of popular services like OpenAI's ChatGPT, Polymarket and Kashi... It's also ahead of rival AI apps like Anthropic's Claude and SpaceXAI's Grok AI, in addition to the Facebook-parent's own Meta AI app... Meta pitched the app as a way for consumers to manage and direct supercharged digital assistants that can perform a number of tasks across the web, like filling out electronic forms and organizing email inboxes... \"I think up to this point most of the agentic use cases have not really been for normal people,\" Bernstein analyst Stacy Rasgon told CNBC in a \"Squawk on the Street\" interview on Monday. \"Now you've got Meta's Muse and other agents out there that are starting to maybe get more potential for more broad-based adoption.\" The buzz around Meta was also reflected in the stock, which surged more than 11% on Monday. \n\nAmazon is already blocking Muse, reports GeekWire. Amazon first tried to get Meta to voluntarily exclude Amazon, but they were unsuccessful:\n\nThe problem, Amazon says, is that it never agreed to any of it. Meta didn't tell Amazon that Muse would access its store, the agent doesn't identify itself when it browses, and it appears to capture and store customer credentials, which the company says could create privacy and security risks. As of Sunday night, people trying to use Muse to shop on Amazon were seeing the popup, \"Continued access by an unauthorized AI agent violates Amazon's Conditions of Use, to which our customers have agreed...\" \n\nAmazon has spent the past year trying to keep outside agents off its site, suing Perplexity over its Comet browser and moving to block shopping agents from Google and OpenAI. [Amazon won a preliminary injunction against Perplexity in March, the article poitns out, \"then lost it on Aug. 4, when the Ninth Circuit ruled that the user — not the AI company — was the one accessing Amazon's computers under federal anti-hacking law. The court denied Amazon's petition for rehearing on Sept. 10.\"]\n\n \n\nOn Sunday night, Amazon said it is in direct conversation with Meta about the issue. Asked whether it would consider taking legal action, the company declined to comment. The business stakes are high for Amazon. In addition to operating its flagship e-commerce site, Amazon generated more than $68 billion in ad revenue last year — a business that depends on people browsing its pages and seeing sponsored products.\n \n\nMuse also appears to scrape account data, reports CNBC. But Shopify, however, \"is working with Meta on Muse access. Shopify CEO Tobias Lütke announced Monday that the e-commerce site was partnering with Muse to allow agentic checkout in its online stores.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Sep 22, 2026 04:04",
+    "published_at": "2026-09-22T04:04:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
     "title": "Rspamd 4.2 Spam Filtering System Adds Deeper Office and SVG Attachment Analysis",
     "link": "https://lxer.com/module/newswire/ext_link.php?rid=367621",
     "description": "Rspamd 4.2 expands attachment inspection, redesigns symbol scheduling, speeds up public suffix lookups, and improves the WebUI.",
@@ -226,7 +498,7 @@
     "source_url": "https://lxer.com/"
   },
   {
-    "title": "Garuda Linux Begins Nixification By Promoting Its Sybsystem",
+    "title": "Garuda Linux Begins Nixification By Promoting Its Subsystem",
     "link": "https://feed.itsfoss.com/link/24361/17468553/garuda-linux-nixification",
     "description": "The Nix subsystem now installs as a standalone distro and is available in the Dr460nized and Mokka flavors.",
     "guid": "6ab117a3922f5a000127acbc",
@@ -372,151 +644,5 @@
     "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/530576659id29804gol.webp",
     "source": "gamingonlinux.com",
     "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "The Legend of Zelda: Twilight Princess PC port Dusklight 2.0 brings modding, a randomizer and more",
-    "link": "https://www.gamingonlinux.com/2026/09/the-legend-of-zelda-twilight-princess-pc-port-dusklight-2-0-brings-modding-a-randomizer-and-more/",
-    "description": "More retro Nintendo goodies for you with The Legend of Zelda: Twilight Princess reimplementation Dusklight version 2.0 bringing major new features.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/09/the-legend-of-zelda-twilight-princess-pc-port-dusklight-2-0-brings-modding-a-randomizer-and-more/",
-    "date": "Sep 21, 2026 07:57",
-    "published_at": "2026-09-21T07:57:15Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/101001639id29803gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "dwproton-11.0-13 brings fixes for Goddess of Victory: NIKKE, Aniimo and more on SteamOS / Linux",
-    "link": "https://www.gamingonlinux.com/2026/09/dwproton-11-0-13-brings-fixes-for-goddess-of-victory-nikke-aniimo-and-more-on-steamos-linux/",
-    "description": "A fresh release is here of the community Proton build dwproton-11.0-13, which focuses on keeping various Anime games working on SteamOS / Linux.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/09/dwproton-11-0-13-brings-fixes-for-goddess-of-victory-nikke-aniimo-and-more-on-steamos-linux/",
-    "date": "Sep 21, 2026 07:43",
-    "published_at": "2026-09-21T07:43:47Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1114321642id29802gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Wine 11.18 released with more NTOSKRNL support for kernel drivers",
-    "link": "https://www.gamingonlinux.com/2026/09/wine-11-18-released-with-more-ntoskrnl-support-for-kernel-drivers/",
-    "description": "The Windows compatibility layer Wine 11.18 development release is out now with an assortment of feature additions and bug fixes.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/09/wine-11-18-released-with-more-ntoskrnl-support-for-kernel-drivers/",
-    "date": "Sep 21, 2026 07:09",
-    "published_at": "2026-09-21T07:09:23Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/378867829id29801gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "North Korean Hackers Posed as Recruiters. They Infected 30,000 Devices Worldwide",
-    "link": "https://yro.slashdot.org/story/26/09/20/2349221/north-korean-hackers-posed-as-recruiters-they-infected-30000-devices-worldwide?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "\"I would like to verify your technical abilities, so please download the specified file and complete the assigned task...\" \n\nFake job listings aimed at software developers and IT professionals led to 30,000 infected devices in over 100 countries — and 7,000 compromised cryptocurrency wallets, leading to over $10 million (USD) transferred to North Korea. Inc. reports:\n\n\nThe hacks occurred from December 2025 through July 2026, according to a joint cybersecurity advisory issued Friday by Japanese, Australian, German, and U.S. authorities, including the Federal Bureau of Investigation and the Defense Department's Cyber Crime Center... The group reportedly has been active since 2023, carrying out both financially motivated attacks and cyberespionage... \n\nThe hackers lure job seekers through social media, online job platforms, gig-work sites and freelance marketplaces. WaterPlum asks responders to take part in virtual technical interviews or complete coding assignments. The attackers then instruct targets to download and run malicious files, sometimes under the guise of completing an assignment or troubleshooting a problem with videoconferencing software. Once the group gains access to a device or network, it uses malware to steal information, including browser passwords, screenshots, files, and cryptocurrency-wallet data. An infected computer can also provide an avenue into the network of the target's employer, opening the door to intellectual-property theft and espionage, authorities said. \nThe operation overlaps with a separate scheme in which North Korean nationals conceal their identities and locations to obtain remote IT work with companies abroad, officials said.\n\n\n \n\nThe malicious files are \"hosted on multiple online collaboration software developer platforms and code repositories,\" the advisory points out, and includes malicious Node Package Manager (NPM) packages..\" \n\nStolen ID images can also be used by North Korean IT workers to impersonate victims to obtain contracts and receive payment in foreign currency, but \"The actors can also use stolen sensitive information for extortion.\" In one case, a North Korean IT worker \"extorted a company over payment and published its proprietary source code online. In another case, an IT Worker hired for website maintenance defaced the hiring company's website and rendered the site inaccessible.\" \n\n The advisory provides clues for employers. It warns these malicious IT workers \"tend to favor payment in cryptocurrency, and they may request that remuneration be sent to an account in another person's name.\" During interviews they'd sometimes used Al face-swapping software, then claimed network issues and disabled their video. And \"On holidays celebrated in North Korea, the actors played games and watched soccer videos instead of conducting their usual malicious activities.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Sep 21, 2026 05:34",
-    "published_at": "2026-09-21T05:34:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Clicks Communicator brings 4.03-inch AMOLED display and physical keyboard to Android 17",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367589",
-    "description": "Clicks is preparing the Communicator, a compact Android smartphone built around a physical keyboard and a 4.03-inch AMOLED touchscreen. The device uses MediaTek’s 4nm Dimensity 8300 platform, includes 12GB of RAM and 256GB of storage, and is designed to operate either as a standalone phone or alongside another smartphone. The MediaTek Dimensity 8300, identified by […]",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367589",
-    "date": "Sep 21, 2026 02:34",
-    "published_at": "2026-09-21T02:34:31Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Lawsuit Says Anthropic, OpenAI, SpaceXAI And Google Made Illegal Agreement On AI Slowdown",
-    "link": "https://yro.slashdot.org/story/26/09/20/2152215/lawsuit-says-anthropic-openai-spacexai-and-google-made-illegal-agreement-on-ai-slowdown?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Tom's Hardware reports:\n\n\nFour plaintiffs subscribed to ChatGPT, Claude, Grok, or Gemini filed a proposed class-action lawsuit alleging that the developers of these AI models violated antitrust laws when they agreed to slow AI development. According to the Associated Press, the lawsuit argues that this agreement would \"reduce the value consumers get for paid AI subscriptions\" and that this coordination started in July 2026 after the leading AI labs signed a statement admitting there is \"intense competitive pressure not to unilaterally slow\" development. \n\nThe plaintiffs recognize the need for AI development to slow for the sake of safety, but they say that Anthropic founder Dario Amodei's cooperation proposal is a \"shortcut\" that \"substitutes collective restraint for individual accountability.\" Attorney Nick Rowley, the lead counsel for the plaintiffs, says, \"AI will quickly spin out of human control and could kill us all if we allow AI safety and protocol ... to be controlled by private self-serving agreements between the world's most powerful 'for profit' technology companies.\" \n\n\n\"Representatives for Anthropic, OpenAI, Google and SpaceXAI did not immediately respond...\"\nreports the Associated Press:\n\n\nThe coordination largely took place on Sept. 12, the lawsuit argues, when Anthropic CEO Dario Amodei published an essay urging for industrywide cooperation on decelerating advancements in favor of enhanced safety measures. That same day, OpenAI CEO Sam Altman, SpaceXAI CEO Elon Musk and Google DeepMind's co-founder and chair Demis Hassabis each publicly responded to Amodei's proposals in agreement. But the lawsuit also alleges that the coordination began to take shape months earlier. It points to a statement from July 2026 that high-ranking employees from several of the leading AI labs signed that acknowledged the \"intense competitive pressure not to unilaterally slow\" development. That statement called on the government to support a global effort to slow automated AI development. \nSam Altman even specificially said \"we do not believe we need to wait for an antitrust exemption or legislation to begin the work of providing this confidence,\" notes Tom's Hardware.\n\n However, the Trump administration shot down this idea... Chinese state media also criticized this announcement, saying that the call to put the brakes on AI development is nothing but a response to Chinese competition, especially as Amodei's essay explicitly mentioned the desire to slow China's progress and widen the U.S.'s gap over Beijing\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Sep 21, 2026 01:04",
-    "published_at": "2026-09-21T01:04:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Clonezilla Live 3.3.3-37 Disk Imaging Tool Released with Linux Kernel 7.1",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367594",
-    "description": "Clonezilla Live maintainer Steven Shiau released Clonezilla Live 3.3.3-37 today as the latest stable version of this partition and disk imaging/cloning live Linux system based on Debian GNU/Linux.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367594",
-    "date": "Sep 21, 2026 01:03",
-    "published_at": "2026-09-21T01:03:02Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Garuda Linux Launches Garuda Nix for NixOS Users",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367600",
-    "description": "Garuda Nix is now available, offering NixOS installations with Garuda Dr460nized and Mokka desktop environments.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367600",
-    "date": "Sep 20, 2026 23:31",
-    "published_at": "2026-09-20T23:31:32Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Kernel prepatch 7.3-rc4",
-    "link": "https://lwn.net/Articles/1095491/",
-    "description": "Linus Torvalds has released the 7.3-rc4\nkernel prepatch.  It is, unsurprisingly at this point, large: \"We all know the drill by now: 'it's big, yadda yadda'\".",
-    "guid": "https://lwn.net/Articles/1095491/",
-    "date": "Sep 20, 2026 22:52",
-    "published_at": "2026-09-20T22:52:25Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "5-inch HMI and 47 x 114mm SBC run on Dragonwing IQ-2390",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367596",
-    "description": "SECO has added two compact industrial platforms based on Qualcomm’s Dragonwing IQ-2390 processor: the Compact Vision 5 Dragonwing IQ-2390, a 5-inch panel-mounted HMI, and the SBC-Dragonwing-IQ-2390, a 47 × 114mm single-board computer for custom embedded systems. Both platforms support on-device AI, industrial connectivity and SECO’s Yocto Linux-based Clea OS. The Dragonwing IQ-2390 integrates application processing, […]",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367596",
-    "date": "Sep 20, 2026 22:00",
-    "published_at": "2026-09-20T22:00:03Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Linux 7.3-rc4 Released: More Fixes Caught By LLMs, But Nothing Too Scary",
-    "link": "https://www.phoronix.com/news/Linux-7.3-rc4",
-    "description": "Linus Torvalds announced the release today of Linux 7.3-rc4. As usual for recent months, the fixes continue to be quite heavy and scattered all over the place driven in large part by AI/LLMs spotting various code defects. Overall though Linus Torvalds isn't too worried about Linux 7.3-rc4...",
-    "guid": "https://www.phoronix.com/news/Linux-7.3-rc4",
-    "date": "Sep 20, 2026 21:25",
-    "published_at": "2026-09-20T21:25:38Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Democracy vs Digital Infrastructure: Pulitzer-Winning Journalist Charts 'The Rise and Fall of the Artificial State'",
-    "link": "https://news.slashdot.org/story/26/09/20/2023252/democracy-vs-digital-infrastructure-pulitzer-winning-journalist-charts-the-rise-and-fall-of-the-artificial-state?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "The Rise and Fall of the Artificial State ultimately asks the question, \"How did we cede control of our democracy to the machines, and can we get it back?\" according to the Harvard's Arts and Sciences site, FAS Current:\n\nThe new title finds Lepore, who used to teach a course at the College titled \"The Rise and Fall of the Machine,\" charting the ascent of what she calls the artificial state: the digital communication infrastructure by which governments and private corporations automate and ultimately control public discourse. Following her Pulitzer Prize win for \"We the People: A History of the U.S. Constitution\" (2025), \"I wanted to think about whether liberal constitutional democracies can survive this moment in time,\" Lepore shared in a phone interview... \n\n[In the \"current ChatGPT moment\"] Lepore found herself asking: \"Who are the people who are clamoring to be replaced by machines, to have movies made by machines, and novels written by machines?\" And who, she continued, is pushing for our government to be determined by these machines? In the book, Lepore notes that technological tools are increasingly influencing elections around the world...\n\nHowever, she sees the 2026 U.S. midterms as an inflection point. In a recent piece in the Financial Times, Lepore wrote, \"This year marks the first AI election. Voters are asking chatbots how they should vote. Campaigns and activists are using AI to analyze the electorate, send micro-targeted messages, produce tailored ads and even deepfakes....\" \n\nLepore stresses in the book that \"nobody should trust historians to make predictions,\" but she believes it's possible for democratic citizens to wrest back control. Referencing proposals such as New York's data center moratorium law, Lepore ends by describing a \"growing and increasingly noisy tech backlash.\" \n\"It's not foreordained. This isn't inevitable,\" she said during the interview.\n \n\n\"In the book's epilogue Lepore predicts, as her title suggests, a fall of the Artificial State,\" writes the California Review of Books. \"That argument turns out to be speculative, much more of a hope than a certainty.\"\n\n[Lepore] does support her prediction by positing that the Artificial State is \"poorly designed and badly built,\" that it has not given people safety and happiness but rather a prison of glowing screens, and that a majority of Americans want more control over AI. To escape the Artificial State we will have to imagine a different future by gaining more knowledge of the past in a search for meaning. Of course, powerful forces want to deny that and turn us into servile automatons. \n\n\nThe Guardian adds that \"While Lepore interprets much classic sci-fi, such as Isaac Asimov, as cautionary, she observes that \"the architects of the Artificial State seem to have read these stories, unironically, as instruction manuals, guides for how to build robots that would one day rule the world\". (The Atlantic writes that \"What one gathers from these misreadings is not so much that science fiction itself is nefarious, but that arrested development might be...\") \nBut The Indian Express writes that despite the author's bleak conclusion, \"Lepore is not a pessimist. Because the Artificial State is a construct, neither alive, nor truly indestructible, she argues it is still possible to take it apart... [T]his is a clear-eyed reckoning rather than a doomsday tract. It is not an easy read, but an essential one for anyone unsettled by the pace of the AI wave.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Sep 20, 2026 20:34",
-    "published_at": "2026-09-20T20:34:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "TUXEDO OS Debian Receives New Beta ISO with Key Improvements",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367597",
-    "description": "TUXEDO OS is switching its base to Debian, and the team just released a new Beta ISO. I tested it, and here is a breakdown of the key improvements.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367597",
-    "date": "Sep 20, 2026 20:28",
-    "published_at": "2026-09-20T20:28:33Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Gzip 1.15 Released With Many Longtime Bugs Fixed",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367598",
-    "description": "More than 30 years after its debut, GNU gzip receives fixes for bugs that have existed since the project’s earliest releases.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367598",
-    "date": "Sep 20, 2026 18:57",
-    "published_at": "2026-09-20T18:57:04Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
   }
 ]
