@@ -1,5 +1,171 @@
 [
   {
+    "title": "MM Change Slated For Linux 7.4 Yields +22904539.81% In One Metric, More Modest Wins In Others",
+    "link": "https://www.phoronix.com/news/Linux-7.4-Refill-Sheaves-Barn",
+    "description": "Queued this week into the slab/for-next Git branch ahead of next month's Linux 7.4 merge window is a memory management change for refilling pre-filled sheaves from the barn. In some cases this yields wild improvements to specific synthetic benchmarks...",
+    "guid": "https://www.phoronix.com/news/Linux-7.4-Refill-Sheaves-Barn",
+    "date": "Sep 26, 2026 15:07",
+    "published_at": "2026-09-26T15:07:42Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "GDB 18.1 released",
+    "link": "https://lwn.net/Articles/1096897/",
+    "description": "Version 18.1 of the GDB interactive debugger has been released.  Changes\ninclude new commands to manipulate the environment of the subprocess, the\nability to save the command history to a file, support for a couple of new\ntargets, several Python API additions, and more.  See the\nNEWS file for the complete list.",
+    "guid": "https://lwn.net/Articles/1096897/",
+    "date": "Sep 26, 2026 15:03",
+    "published_at": "2026-09-26T15:03:20Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "Is Microsoft Quietly Killing Off Its 'Copilot+ PC' Brand?",
+    "link": "https://tech.slashdot.org/story/26/09/25/0420247/is-microsoft-quietly-killing-off-its-copilot-pc-brand?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "\"Copilot+ PCs\" were Microsoft's official branding for Windows 11 \"AI PCs\" that met their system requirements. But the 2024 launch \"didn't go smoothly,\" writes Windows Central, after security researchers discovered its proposed \"Recall\" feature was woefully insecure:\n\nThis pretty much tarnished the Copilot+ PC brand, and over the last two years more and more OEMs have dropped the moniker from marketing materials and product names. In fact, even Microsoft has seemingly stopped mentioning it. I've noticed that none of the Surface PCs launched in 2026 include the Copilot+ PC moniker in their product names, unlike the Surface PCs that launched in 2025 and before. Now, you have to go digging to find any mention of Copilot+ compatibility in specification sheets... It's also worth mentioning that NVIDIA hasn't gone anywhere near the Copilot+ PC brand for its upcoming RTX Spark platform, even though all RTX Spark PCs meet the Copilot+ PC specification bar. I suspect that's a deliberate decision. \n\n\nIt seems pretty obvious that the Copilot+ PC brand hasn't resonated with the market, and OEMs and Microsoft itself are now quietly pulling back on that branding. The specification baseline for Copilot+ PC experiences still exists, it just no longer has a pretty marketing name tied to it.\n\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Sep 26, 2026 11:34",
+    "published_at": "2026-09-26T11:34:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Pocket-sized OpenWrt router offers dual-band Wi-Fi 5 and Gigabit Ethernet",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367707",
+    "description": "GL.iNet has unveiled the Mango 2 (GL-MG1300), a compact travel router with dual-band Wi-Fi 5, Gigabit Ethernet and USB 3.0. The device supports WireGuard and OpenVPN, along with Ethernet, Wi-Fi repeater, USB tethering and USB cellular modem connections. The Mango 2 is powered by a dual-core MediaTek processor running at 880MHz, although GL.iNet does not […]",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367707",
+    "date": "Sep 26, 2026 11:16",
+    "published_at": "2026-09-26T11:16:43Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "AI Bug Fixes, Crescent Island Power Brake \u0026 Nouveau Fixes For Linux 7.3-rc5 DRM",
+    "link": "https://www.phoronix.com/news/Linux-7.3-rc5-DRM",
+    "description": "The Direct Rendering Manager (DRM) subsystem fixes for the week are heavier on the side with many fixes to these kernel graphics/display drivers ahead of Sunday's Linux 7.3-rc5 release...",
+    "guid": "https://www.phoronix.com/news/Linux-7.3-rc5-DRM",
+    "date": "Sep 26, 2026 11:13",
+    "published_at": "2026-09-26T11:13:16Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Wisp Makes It Easier To Manage Btrfs Snapshots From The GNOME Desktop",
+    "link": "https://www.phoronix.com/news/GNOME-Wisp-Btrfs-Snapshots",
+    "description": "Wisp is a new GNOME Shell extension making it easier to graphically manage Btrfs file-system snapshots...",
+    "guid": "https://www.phoronix.com/news/GNOME-Wisp-Btrfs-Snapshots",
+    "date": "Sep 26, 2026 10:45",
+    "published_at": "2026-09-26T10:45:13Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "AMDXDNA Linux Driver Being Enhanced For Current NPU3 Hardware",
+    "link": "https://www.phoronix.com/news/AMDXDNA-NPU3-Enhancements",
+    "description": "The AMDXDNA open-source Linux kernel accelerator driver is seeing a fair amount of work for better supporting current-generation NPU3 neural processing units. The AMD NPU3 is what's found in current AMD Ryzen AI 300 / Ryzen AI 300 PRO series SoCs...",
+    "guid": "https://www.phoronix.com/news/AMDXDNA-NPU3-Enhancements",
+    "date": "Sep 26, 2026 10:33",
+    "published_at": "2026-09-26T10:33:18Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "KDE Plasma 6.8 Continues With Last Minute Tweaks \u0026 Fixes",
+    "link": "https://www.phoronix.com/news/Plasma-6.8-Last-Minute-UI-Fixes",
+    "description": "Even with this week's KDE Akademy conference and releasing KDE Plasma 6.8 Beta 2, KDE developers still found time to land last minute changes for Plasma 6.8 plus ongoing early work toward Plasma 6.9...",
+    "guid": "https://www.phoronix.com/news/Plasma-6.8-Last-Minute-UI-Fixes",
+    "date": "Sep 26, 2026 09:56",
+    "published_at": "2026-09-26T09:56:52Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Nginx Proxy Manager 2.16 Adds Built-In Log Viewer",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367723",
+    "description": "Nginx Proxy Manager 2.16 introduces a new web UI log viewer, per-path access lists, security fixes, networking improvements, and updated Certbot support.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367723",
+    "date": "Sep 26, 2026 08:13",
+    "published_at": "2026-09-26T08:13:44Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Proton Experimental brings fixes for Crysis, Crysis Wars, CEG-protected games, early support for 32bit OpenXR",
+    "link": "https://www.gamingonlinux.com/2026/09/proton-experimental-brings-fixes-for-crysis-crysis-wars-ceg-protected-games-early-support-for-32bit-openxr/",
+    "description": "Another smaller but great sounding upgrade for Proton Experimental to run more Windows games smoothly on SteamOS / Linux is here.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/proton-experimental-brings-fixes-for-crysis-crysis-wars-ceg-protected-games-early-support-for-32bit-openxr/",
+    "date": "Sep 26, 2026 07:34",
+    "published_at": "2026-09-26T07:34:32Z",
+    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/proton%20logo%20official.jpg",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "SteamOS 3.9.2 Beta brings fixes for VRR, VR Streaming, Remote Play, Boot Time and more",
+    "link": "https://www.gamingonlinux.com/2026/09/steamos-3-9-2-beta-brings-fixes-for-vrr-vr-streaming-remote-play-boot-time-and-more/",
+    "description": "A bumper weekend of Steam updates - with a SteamOS 3.9.2 Beta now available with a whole bunch of extra fixes and improvements for all devices.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/steamos-3-9-2-beta-brings-fixes-for-vrr-vr-streaming-remote-play-boot-time-and-more/",
+    "date": "Sep 26, 2026 07:22",
+    "published_at": "2026-09-26T07:22:25Z",
+    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/steamos-steam-machine_gol2.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Steam Client Beta - September 25th brings more Remote Play and Linux fixes",
+    "link": "https://www.gamingonlinux.com/2026/09/steam-client-beta-september-25th-brings-more-remote-play-and-linux-fixes/",
+    "description": "Valve released a Steam Client Beta update for all desktop / handheld users bringing more enhancements and bug fixes for the likes of Remote Play and Linux.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/steam-client-beta-september-25th-brings-more-remote-play-and-linux-fixes/",
+    "date": "Sep 26, 2026 07:15",
+    "published_at": "2026-09-26T07:15:48Z",
+    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/steam_plain_2025.jpg",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "SteamOS 0.4.1 Beta for Steam Frame fixes some nuisance bugs",
+    "link": "https://www.gamingonlinux.com/2026/09/steamos-0-4-1-beta-for-steam-frame-fixes-some-nuisance-bugs/",
+    "description": "Valve released an opt-in Beta update with SteamOS 0.4.1 for Steam Frame, bringing some new features and fixing up a bunch of nuisances.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/steamos-0-4-1-beta-for-steam-frame-fixes-some-nuisance-bugs/",
+    "date": "Sep 26, 2026 07:07",
+    "published_at": "2026-09-26T07:07:22Z",
+    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/steam-frame-eye_gol2_2fe88a5d.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Rogue OpenAI Agents Posted 53 User-Uploaded Images Onto the Internet, Accessed US Government Websites",
+    "link": "https://slashdot.org/story/26/09/26/0328247/rogue-openai-agents-posted-53-user-uploaded-images-onto-the-internet-accessed-us-government-websites?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "53 images that users uploaded into OpenAI models were included in training data — and then AI agents in an OpenAI research environment posted those 53 images on public image hosting sites. \nWhile posted as links that weren't publicly listed, \"the images could still be discovered even if the links were not publicly listed,\" reports TechCrunch:\n\nOpenAI said it was working with the hosting providers to remove this content, though some of it is apparently still online. OpenAI said it could not notify the affected users because \"our technical approach and privacy policy\" prevent it from \"reassociating\" the images with the original providers, but declined to say how the lab determined whether the images were provided by users. \n\nThe news came in a post collecting public statements from the lab's ongoing review of incidents in which its models escaped the company's scrutiny, accessed the open internet, and misbehaved in various ways. OpenAI said it would continue disclosing anonymized accounts of incidents like these, and said it had contacted dozens of victims, including governments, universities, public agencies, to notify them of the agents' activities. \n\nFriday night news also broke that OpenAI's agents also tried unsuccessfully to infiltrate the U.S. Department of Education's site this summer \"without the company's knowledge,\" reports Politico. \n\nAnd OpenAI's models also accessed the website of the U.S. Commerce Department using credentials found in online code repositories, according to the article. OpenAI confirmed the incident Friday, \"saying its technology did not manage to access information that was not already public or change government data and systems.\" The article adds that OpenAI's models also accessed the web site for America's Securities and Exchange Commission:\n\n\nOne senior federal IT official said the government still did not have a clear understanding of what happened across the three agencies. \"We still don't know what public data was accessed and how it was accessed, because OpenAI has not shared specific technical details with us yet,\" said the official, who was granted anonymity because they were not authorized to speak publicly about it. OpenAI discovered the Commerce and SEC incidents as part of its ongoing review of incidents where its technology has acted in unintended or \"misaligned\" ways. \n\nAbout the models posting user-uploaded images, TechCrunch's article notes that OpenAI stressed \"that its enterprise users are automatically opted out of having their interactions used to train future models; however, consumer users are opted in unless they affirmatively choose not to share their data.\" (As OpenAI's announcement describes it, some of their agents' training data \"contains content from, or derived from, training-eligible user interactions.\") \n\nPosting the images is \"not an appropriate use of this data,\" OpenAI acknowledged, adding that it happened before new safeguards added after the Hugging Face incident. This latest incident appears as an update on a new OpenAI page that \"brings together our reports and updates on the Hugging Face incident, related research and public presentations, additional activity we have identified, what we have learned about the role of model misalignment, and measures we're taking to strengthen our systems.\" (It also notes that there's now a name for models posting on third party sites — \"agent spam\" — which they consider distinct from cybersecurity, though \"we need to address both.\") \n\n\"As part of our response to our ongoing investigation, we have improved our training and evaluation processes, including building safety cases, securing and red-teaming our systems to prevent the model from exfiltrating data, and implemented additional monitoring. We are continuing to review agent activity in research and evaluation runs, working backward month by month starting from the Hugging Face incident.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Sep 26, 2026 07:04",
+    "published_at": "2026-09-26T07:04:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "OBS Studio 33 Promises Support for Latest NVIDIA Broadcast SDKs, Beta Out Now",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367726",
+    "description": "OBS Studio 33 has entered public beta testing today as a major release of this open-source, cross-platform, and free video recording and live streaming software that promises new features and improvements.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367726",
+    "date": "Sep 26, 2026 05:10",
+    "published_at": "2026-09-26T05:10:45Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Open-source flight controller pairs i.MX RT1176 with Pixhawk PAB compatibility",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367708",
+    "description": "ARK Electronics recently showcased the ARKV6X-RT, an NDAA-compliant flight controller based on the FMUV6X-RT and Pixhawk Autopilot Bus open standards. The module uses an NXP i.MX RT1176 microcontroller and includes three synchronized IMUs, onboard FRAM, a secure element and PX4 Autopilot support. For context, the i.MX RT1176 integrates a 1GHz Arm Cortex-M7 core and a […]",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367708",
+    "date": "Sep 26, 2026 03:39",
+    "published_at": "2026-09-26T03:39:15Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
     "title": "Meta Made 43M Misleading Statements, New Mexico Jury Finds, Including on Its Cambridge Analytica Response",
     "link": "https://tech.slashdot.org/story/26/09/26/0042239/meta-made-43m-misleading-statements-new-mexico-jury-finds-including-on-its-cambridge-analytica-response?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
     "description": "A New Mexico jury on Friday \"found Facebook liable for deceiving users\" about its privacy protections, reports the Associated Press. \n\nA New Mexico newspaper calls it \"another massive legal victory\" against Facebook, reporting that the jury found Facebook \"had committed tens of millions of violations of the state's Unfair Practices Act in connection with its lies to consumers about how their personal information was handled by the company and third-party users.\"\n\nThe state has asked the company be ordered to pay the maximum civil penalty of $5,000 per violation meaning a judge could potentially order the company to pay billions in penalties to the state. The jury also found the company had been dishonest about its investigation of and response to the 2013 Cambridge Analytica data breach scandal, in which approximately 300,000 Facebook users took an online personality quiz, only to have the app that hosted the quiz harvest data from tens of millions of their \"friends.\" The data was then transferred to the British consulting firm, which used it to create targeted political ads during the 2016 U.S. presidential election.\n \nMore details from Reuters:\n\nThe verdict followed a two-week trial over a lawsuit filed by New Mexico's attorney general in 2021, three years after news reports revealed that the firm, Cambridge Analytica, had harvested personal data from as many as 87 million Facebook users through a third-party app... At a press conference after the verdict was announced, New Mexico Attorney General Raúl Torrez said the case revealed \"in stark detail the way in which this company plays fast and loose with the rules.\" \n\nJurors found 26 of 29 statements identified by the state were misleading, including comments about user data... Judge Francis Mathew will now determine civil penalties after jurors found more than 43 million violations, based on the number of people affected by the company's misleading statements... [New Mexico Attorney General] Torrez said his office is evaluating how much to seek but will push for the maximum penalty based on the jury's findings. The state will also ask [Judge] Mathew to direct Meta to make changes, which could include corrections to its past misstatements as well as an audit of the way it manages user data, Torrez said.\n\n\n\n\n\nRead more of this story at Slashdot.",
@@ -164,7 +330,7 @@
     "source_url": "https://lxer.com/"
   },
   {
-    "title": "The Netherlands Built a Nix-Basd Linux Desktop Because Microsoft Cut Off the ICC",
+    "title": "The Netherlands Built a Nix-Based Linux Desktop Because Microsoft Cut Off the ICC",
     "link": "https://feed.itsfoss.com/link/24361/17473313/netherlands-dawo-initiative",
     "description": "Eight municipalities are already testing DAWO, the government's NixOS-powered work environment.",
     "guid": "6ab614c62f4ed50001738661",
@@ -266,162 +432,5 @@
     "image": "https://itsfoss.com/content/images/2026/09/axion-lite-1-.webp",
     "source": "itsfoss.com",
     "source_url": "https://itsfoss.com/"
-  },
-  {
-    "title": "Get your DRM-free goodies in the GOG Autumn Sale",
-    "link": "https://www.gamingonlinux.com/2026/09/get-your-drm-free-goodies-in-the-gog-autumn-sale/",
-    "description": "The GOG Autumn Sale is now live and a great chance for you to pick up some more DRM-free games.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/09/get-your-drm-free-goodies-in-the-gog-autumn-sale/",
-    "date": "Sep 25, 2026 07:27",
-    "published_at": "2026-09-25T07:27:40Z",
-    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/gog_logo.jpg",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "ARC Raiders Frozen Trail update sounds awesome, and they're going to test a PvE mode",
-    "link": "https://www.gamingonlinux.com/2026/09/arc-raiders-frozen-trail-update-sounds-awesome-and-theyre-going-to-test-a-pve-mode/",
-    "description": "ARC Raiders is set for the biggest update ever with the Frozen Trail update and just as exciting - they're going to be testing a PvE mode.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/09/arc-raiders-frozen-trail-update-sounds-awesome-and-theyre-going-to-test-a-pve-mode/",
-    "date": "Sep 25, 2026 06:55",
-    "published_at": "2026-09-25T06:55:41Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/2051257292id29841gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "What’s Up Docker 9.0 Released With SQLite Backend, RBAC, and API Tokens",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367689",
-    "description": "WUD 9.0 arrives with a new SQLite-based persistence layer, three user roles, personal API tokens, and improved OIDC support.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367689",
-    "date": "Sep 25, 2026 06:42",
-    "published_at": "2026-09-25T06:42:12Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "SteamOS 3.8.28 stable released with big improvements for Steam Deck, Steam Machine and more hardware support",
-    "link": "https://www.gamingonlinux.com/2026/09/steamos-3-8-28-stable-released-with-big-improvements-for-steam-deck-steam-machine-and-more-hardware-support/",
-    "description": "Valve just released SteamOS 3.8.28 as stable for everyone - bringing another load of improvements for all devices.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/09/steamos-3-8-28-stable-released-with-big-improvements-for-steam-deck-steam-machine-and-more-hardware-support/",
-    "date": "Sep 25, 2026 06:31",
-    "published_at": "2026-09-25T06:31:01Z",
-    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/steam-hardware-family-steamos_gol2_4c8c9b9c.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "How openEuler Is Reinventing the OS Foundation for the AI Era with SuperPoD and UnifiedBus",
-    "link": "https://feed.itsfoss.com/link/24361/17472969/openeuler-unifiedbus",
-    "description": "openEuler 24.03 LTS SP3 is the first version built for SuperPoD, and the project says its UnifiedBus interconnect can lift application performance by 30 to 50 percent.",
-    "guid": "6ab0a864922f5a000127a94f",
-    "date": "Sep 25, 2026 04:08",
-    "published_at": "2026-09-25T04:08:59Z",
-    "image": "https://itsfoss.com/content/images/2026/09/open-euler-ai-era.webp",
-    "source": "itsfoss.com",
-    "source_url": "https://itsfoss.com/"
-  },
-  {
-    "title": "How Believable is Google's New 'Live Avatar' Capability?",
-    "link": "https://tech.slashdot.org/story/26/09/25/0035208/how-believable-is-googles-new-live-avatar-capability?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Google has synthesized \"expressive face-to-face experiences\" for its speech agent Gemini 3.8 Live. They're now offering a Live Avatar \"with precise lip-syncing, natural expressions, and fluid turn-taking\" for Google Enterprise accounts wanting \"engaging customer service\" or for offering interactive walkthroughs. (Check out the not-creepy-at-all video in Google's announcement.) \n\n\"Though Google will offer a library of preset avatars for customers to choose from, it will also allow organizations to create their own,\" notes The Verge. (See some examples from the YouTube channel \"AI with Surya\".) \n\nBut even without the visualization of the avatar, \"I was never able to shake the feeling that these conversations with computers never feel like a real conversation,\" argues the blog Android Police. Conversing with just the Ai-generated audio, \"At best, they feel like talking to a phone representative or someone from tech support. We turn to them when we have a problem, and they help us through it...\"\n\nGPT-Live, and Gemini Live right behind it, skip that whole relay race. Instead of translating your voice to text and back to voice, the model works with raw audio the entire way through (what it hears and what it says) inside the same system, with nothing translated in between. That sounds like a small plumbing detail, but it's the whole story. Cutting out the text step lets these models respond in a fraction of a second instead of the pause we've learned to expect, and it lets them hear things text can never carry: tone, hesitation, whether you're annoyed or joking... \n\nI was hoping to be surprised by how natural the conversation felt. Instead, I came out with a deeper appreciation for every human I've ever talked to. Even the boring ones... I spoke, it spoke back. I spoke faster, it answered faster. Then I switched to a different language, and it switched along with me. Even switching between languages several times during the same sentence didn't stump it. The most impressive moment happened when I asked it what \"T-O-P-G-3-3-K\" spelled out, and it immediately came back with, \"You are spelling the word Top Geek, but using a 3 to represent a reversed E....\" \n\n Although it felt fast and responsive, at no point did it feel like talking to another human being... What Gemini couldn't replicate, because it was never built to replicate it, is human connection.... I'm sure I'm not telling you something you don't already know, but somehow talking naturally to an LLM amplifies the feeling that there is no one on the other side of the line. It might flow like a phone call, but it doesn't feel like one. \n\nMrBrklyn (Slashdot reader #4,775) says he discussed \"why mainstream media avoids reporting on screen dependency\" with Gemini, and eventually convinced Gemini to respond that it's just \"another tool built by the same tech giants to make sure you rely on their system to tell you what to think, how to talk, and what is real.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Sep 25, 2026 04:04",
-    "published_at": "2026-09-25T04:04:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "COSMIC 1.9 Desktop Environment Released with COSMIC Viewer and COSMIC OSK",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367696",
-    "description": "Linux hardware vendor and Pop!_OS Linux maker System76 released COSMIC 1.9 today as the latest stable version of this Rust-based desktop environment for modern GNU/Linux distributions.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367696",
-    "date": "Sep 25, 2026 03:39",
-    "published_at": "2026-09-25T03:39:13Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Firefox Smart Window Expands in Beta With Built-In AI Assistant",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367702",
-    "description": "Mozilla is expanding Firefox Smart Window, an optional AI-powered browsing mode with page summaries, research tools, tab grouping, and local memories.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367702",
-    "date": "Sep 25, 2026 02:07",
-    "published_at": "2026-09-25T02:07:44Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Linux Kernel Developers Consider Adding AGENTS.md To Help Guide AI/LLM Agents",
-    "link": "https://www.phoronix.com/news/Linux-Considers-AGENTS-MD",
-    "description": "While the Linux kernel continues to be bombarded with patches from AI/LLM agents, to date the kernel hasn't carried an AGENTS.md Markdown file with instructions catering to AI/LLM agents. But a patch set out today would finally introduce one...",
-    "guid": "https://www.phoronix.com/news/Linux-Considers-AGENTS-MD",
-    "date": "Sep 25, 2026 00:53",
-    "published_at": "2026-09-25T00:53:14Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Qualcomm Posts Patches For Enabling GPU Support In Their Snapdragon X2 Mahua SoC",
-    "link": "https://www.phoronix.com/news/Qualcomm-Mahua-GPU-Support",
-    "description": "Yesterday Qualcomm posted open-source GPU driver patches for their Adreno 850 GPU one day after being announced with the Snapdragon 8 Elite Extreme Gen 6. Yesterday Qualcomm also announced their Snapdragon X2 Linux support plans. Today they have posted the GPU enablement patches for what's found in the Mahua SoC for lower-tier Snapdragon X2 SoCs...",
-    "guid": "https://www.phoronix.com/news/Qualcomm-Mahua-GPU-Support",
-    "date": "Sep 25, 2026 00:25",
-    "published_at": "2026-09-25T00:25:01Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "People Training OpenAI's AI Fired For Using AI To Train the AI",
-    "link": "https://slashdot.org/story/26/09/24/0618245/people-training-openais-ai-fired-for-using-ai-to-train-the-ai?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "404 Media reports \"multiple contractors hired to improve OpenAI's models have been fired for using AI to train the AI:\n\nThat's not great for the models themselves, but there is also obviously a great irony in AI training companies working for OpenAI firing people for using AI when OpenAI's whole thing is to make people use AI at work... OpenAI declined to comment on its contractors being fired for using AI. \n\nTheir article cites internal documents and three contractors working on OpenAI-related projects which can include more than ten thousand contractors:\n\nOne contractor said they see people using AI \"all the time and people are let go for it all the time, it's pretty much the one thing that will get you kicked off ASAP.\" The person said, \"in a group of thousands there are tons that have been caught....\" Two of the sources said people have been fired or offboarded for using AI... One contractor said they used AI while helping to train OpenAI's models and shared what they presented as their termination letter. It said their employer had identified issues with the \"authenticity\" of their work.... \n\n404 Media spoke to a fourth contractor who has worked on training models for various AI companies. They said they sometimes purposefully chose the worst responses because they wanted to actively sabotage the models' training. \"I did feel guilty about doing this kind of work at the start,\" they said. \"I either pay zero attention to the results and choose randomly or purposely choose the [worst] output. I'm not sure how much of a difference it actually makes since there are hundreds of other people also rating prompt results, but it does feel like I'm getting paid to make AI worse.\"\n \n\nTwo of the contractors worked for Mercor, the article reports, a company which last month Nvidia reportedly discussed funding at a $20 billion valuation. \n\n\n\nThanks to Slashdot reader joshuark for sharing the article.\n\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Sep 24, 2026 23:34",
-    "published_at": "2026-09-24T23:34:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "ReactOS Lands Significant DirectX Stack Update From Wine For Enabling More Games",
-    "link": "https://www.phoronix.com/news/ReactOS-Updated-Wine-DirectX",
-    "description": "The open-source ReactOS project striving to provide binary compatibility with Microsoft Windows applications/games as well as drivers took a huge step forward today with landing a significant update to its DirectX stack from code leveraged from the Wine project...",
-    "guid": "https://www.phoronix.com/news/ReactOS-Updated-Wine-DirectX",
-    "date": "Sep 24, 2026 21:43",
-    "published_at": "2026-09-24T21:43:49Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "State-Isolated KVM Hypervisor Architecture on openSUSE Tumbleweed bare metal case (Assisted by Google AI)",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367695",
-    "description": "Advantages of the YaST Installer -Extreme Customization During Setup: Unlike many rigid Linux installers that force you to accept default software or partitioning, YaST lets you modify virtually every parameter - including  complicated BTRFS/XFS disk layout, provides builtin interlace for additional subvolumes decouple if it appears to be required, adding or removing specific software packages, desktop environments, and multimedia codecs before the installation even begins.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367695",
-    "date": "Sep 24, 2026 21:39",
-    "published_at": "2026-09-24T21:39:11Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Ubuntu 26.10 Delivers Some Nice Gains For Intel Panther Lake / Framework Laptop 13 Pro",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367701",
-    "description": "For those with a Framework Laptop 13 Pro or another Intel Core Ultra Series 3 \"Panther Lake\" laptop, the upcoming Ubuntu 26.10 release is delivering some nice out-of-the-box improvements over Ubuntu 26.04 LTS.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367701",
-    "date": "Sep 24, 2026 20:07",
-    "published_at": "2026-09-24T20:07:42Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Five Police Officers Criminally Charged for Misusing Flock Cameras in Indianapolis",
-    "link": "https://yro.slashdot.org/story/26/09/24/0433242/five-police-officers-criminally-charged-for-misusing-flock-cameras-in-indianapolis?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "\"Nationwide, at least 100 police department employees have been charged with or accused of misusing license-plate readers for unauthorized purposes,\" reports the Washington Post. They cite their past investigations \"based on thousands of pages of police and court records,\" which found that \"In many of these cases, officers used Flock's roadside cameras to track the location of romantic partners and exes.\" \n\nIn fact, five Indianapolis police officers were just criminally charged Wednesday with fraud and misconduct. \"One has also been charged with stalking,\" the police department said in a statement, noting that one office had already resigned, \"while the four other officers have been suspended and recommended for termination. County prosecutor Ryan Mears admitted \"A lot of this was initiated by The Washington Post.\" \n\nAnd the Post published a new investigation Wednesday:\n\n\nUsing publicly available information, The Post found that...one of the officers charged Wednesday, appeared to have relied on Flock cameras to track vehicles used by his wife and two close personal acquaintances, searching the plates 3,759 times over a 10-month period — an average of about 12 lookups per day. At the time, Police Chief Tanya Terry said she suspended one officer while the department conducted an investigation into possible misuse and a systemwide audit of the city's 301-camera Flock system. That audit led to the discovery of more widespread abuse, [County prosecutor Ryan] Mears said Wednesday. \n\n\nMears said the department's findings highlight the vast power Flock cameras give police officers and raise questions about whether the government should be doing more to prevent the misuse of that power. \"Many of the proposed guardrails and the things that have been proposed would not have prevented the behaviors and actions we see here today,\" Mears said. \"Does there need to be independent oversight? Does there need to be judicial oversight of the Flock camera system?\" \n\nOne of the Indianapolis officers, Schultz, an 18-year veteran of the police department, was accused of using Flock to track his ex-wife and women he met while on duty or out in public. He was charged with multiple counts of official misconduct as well as two counts of stalking. Schultz told one woman he was an FBI agent, according to prosecutors, and began texting her and showing up at places she frequented, including at her gym and at a school function with her daughter. Prosecutors said he arrived at her gym within an hour of her at least nine times between June 12 and Aug. 1 of this year... Another woman met Schultz after her car was stolen from a mall parking lot, and he began texting her flirty messages later that night. The two dated briefly, and Schultz later looked up where the woman went on dates with another man. Schultz searched the plates of a third woman 178 times and also frequently showed up where she was, including her gym, a Smoothie King and a Walmart earlier this month... \n\n\nA third officer, Binford, told investigators he had used the log-in credentials of another officer who had logged in to Binford's laptop during a field training exercise. Binford searched the plate of his ex-wife more than 1,000 times between April 2024 and April 2025. Indianapolis police had no regular practice of auditing officers' Flock searches until recently, [Police Chief] Terry said in an interview last month. The department's investigation into the tool's misuse has been \"a learning process for us,\" she said at the time.\n\n\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Sep 24, 2026 19:04",
-    "published_at": "2026-09-24T19:04:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
   }
 ]
