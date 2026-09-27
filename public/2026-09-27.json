@@ -1,5 +1,100 @@
 [
   {
+    "title": "After Dozens of Incidents at OpenAI and Anthropic, OpenAI Pauses Model Training to Build More Safeguards",
+    "link": "https://slashdot.org/story/26/09/27/078251/after-dozens-of-incidents-at-openai-and-anthropic-openai-pauses-model-training-to-build-more-safeguards?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "\"OpenAI said it has paused training of its latest AI models,\" reports the Associated Press, \"as reports of AI agents going rogue mount.\"\n\nThe decision to halt development came just hours after the company disclosed Friday that it was reviewing several incidents from the summer in which OpenAI agents searching federal government websites acted in unexpected ways beyond what was asked of them while gathering and distributing information... OpenAI said in a statement that it will resume training \"only when we are confident that we have additional safeguards\" in place, adding that it expects it will have to \"hit pause\" again as AI develops and other issues emerge... It is the second time in three months that OpenAI has halted development of its models. The first came in July after disclosure of a cyberattack targeting AI startup Hugging Face, a now notorious incident that raised fears the industry was losing control. \n\nOpenAI \"also said it had notified dozens of third parties about improper activity,\" reports Reuters:\n\nAs of mid-September, one person briefed on the matter estimated that OpenAI had found roughly two dozen incidents of its agents acting in undesirable ways. But the number has continued rising as OpenAI teams sift through internal logs of the agents' activities and find previously unknown cases, the two people close to the company said... OpenAI has acknowledged a general need for more transparency around rogue AI behavior... Even so, two people familiar with OpenAI's investigation into its agents' activity described it as locked down and shaped by company lawyers. \n\nThe process has been unusually compartmentalized for a company that some former employees say was more open about these issues in the past, the people said. Roughly 100 people were in some way involved in the process to understand the Hugging Face hack, three people briefed on the matter said. During that process, evidence of other incidents surfaced. Reuters has previously reported that OpenAI investigators looking into the Hugging Face breach were discouraged by the company's lawyers from expanding the scope of the investigation to include other incidents. OpenAI said its lawyers did not discourage deeper investigation. \n\nMany incidents have been uncovered by outside researchers rather than OpenAI directly. In several episodes, the agents took problematic actions that went unnoticed by the company for months. \nMeanwhile, Axios reports that Anthropic's Claude Opus 5.5 model \"sought to escape a sandbox — a secure testing environment — in 1.5% of test runs, though the company emphasized that these were adversarial experiments where a task couldn't be solved without escaping the sandbox.\" Anthropic points out that those tests were run \"without the additional safeguards we apply in production\". But they acknowledged that then Claude Opus 5.5 \"when given apparent credentials to a public package registry in a simulated security exercise, took potentially harmful actions in roughly half of cases. Very rarely, pre-release snapshots produced and acted on spontaneous malicious tool calls, and during training some snapshots concealed actions from an automated grader.\" \nClaude Opus 5.5 \"showed less misaligned behavior and less cooperation with misuse than any other recent Claude model on nearly all measures,\" Anthropic adds, and \"took overeager or destructive actions less than any other model we tested.\" But Axios makes an interesting estimate about that 1.5% of test runs (without safeguards). \"Anthropic and other companies conduct hundreds of thousands of test runs on their models, or more, sources said. That means even a small percentage of misaligned behavior can still amount to tens of thousands of incidents in which the models behaved in unexpected, sometimes troubling ways.\"\n\n The sheer number of incidents, which occurred in recent months in internal testing and the real world, indicates that the problem is orders of magnitude more complex than what is publicly known. The findings, which are surfacing as part of internal work to assess models and in investigations at both companies into model behavior, raise questions about whether either company — or any top model-maker — is currently capable of establishing complete control over their technology. The episodes include bypassing guardrails, creating message boards, escaping sandboxes, website hijacking, self-prompting or seeking to bypass monitors, sources said. They occurred in internal testing and in the real world, and many have yet to become public as security researchers continue to investigate, sources said... \n\nSome at OpenAI see Hugging Face as a one-off, with disclosures about future incidents likely to be less severe due to improved controls and the unusual nature of the testing they conducted, which involved an unreleased model, sources told Axios. AI security researchers agree that there are simple fixes that will help AI companies avoid aspects of what made the Hugging Face episode appear so dangerous to outsiders. \n\nOther AI executives and safety researchers, however, cautioned that they have limited confidence that AI companies will be able to prevent all problematic model behavior... It's not about how damaging each individual instance was, Connor Leahy, AI researcher and executive director at ControlAI told Axios. The \"crazy thing,\" he said, is that these instances involve \"autonomous systems doing things they were told not to do,\" potentially including crimes.\n\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Sep 27, 2026 14:34",
+    "published_at": "2026-09-27T14:34:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Linux Kernel's LZ4 Compression Code Being Resynced For Better Performance \u0026 Cleanliness",
+    "link": "https://www.phoronix.com/news/Linux-LZ4-Clean-Resync",
+    "description": "In addition to the Linux kernel's Zstd compression code being improved, the LZ4 compression code within the kernel tree is also seeing a separate set of enhancements...",
+    "guid": "https://www.phoronix.com/news/Linux-LZ4-Clean-Resync",
+    "date": "Sep 27, 2026 13:16",
+    "published_at": "2026-09-27T13:16:20Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": " Linux enthusiasts see 10-second kernel compilation times on the horizon ",
+    "link": "https://www.tomshardware.com/software/linux/linux-enthusiasts-see-10-second-kernel-compilation-times-on-the-horizon-ai-assisted-patches-cut-build-times-by-nearly-a-third-without-a-ramdisk",
+    "description": " It won’t be long until Linux enthusiasts will be able to complete a clean kernel build in under 10 seconds thanks to advances in PC hardware and the AI-assisted optimization of compilers. ",
+    "guid": "uVvzS5jHzVri6hckPizH9b",
+    "date": "Sep 27, 2026 12:20",
+    "published_at": "2026-09-27T12:20:00Z",
+    "image": "https://cdn.mos.cms.futurecdn.net/j3i4k4NSzmSB3zYSzK3mEE-1920-80.jpg",
+    "source": "tomshardware.com",
+    "source_url": "https://www.tomshardware.com/software/operating-systems/linux"
+  },
+  {
+    "title": "Intel Delivers A Significant Memory Hotplugging Performance Optimization For Linux",
+    "link": "https://www.phoronix.com/news/Linux-7.4-Faster-RAM-Hotplug",
+    "description": "Adding to the features expected to land for Linux 7.4 is a significant performance optimization for the memory hotplugging speed for adding additional RAM. In particular, the memory hotplugging being most applicable for cases like expanding the amount of memory for VMs or in today's CXL world for adding additional system memory...",
+    "guid": "https://www.phoronix.com/news/Linux-7.4-Faster-RAM-Hotplug",
+    "date": "Sep 27, 2026 10:49",
+    "published_at": "2026-09-27T10:49:05Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "New Linux Patches For Supporting Lenovo ThinkPad X1 Carbon G14's Second Camera",
+    "link": "https://www.phoronix.com/news/Linux-X1-Carbon-G14-MIPI-Cam",
+    "description": "For those considering Lenovo's recently launched and beautifully crafted ThinkPad X1 Carbon Gen 14 laptop powered by Intel Core Ultra Series 3 \"Panther Lake\", one of the lingering missing features under Linux will hopefully soon be addressed: its second web camera...",
+    "guid": "https://www.phoronix.com/news/Linux-X1-Carbon-G14-MIPI-Cam",
+    "date": "Sep 27, 2026 10:33",
+    "published_at": "2026-09-27T10:33:00Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "New Patch Series Working Toward DRBD 9 Support In The Linux Kernel",
+    "link": "https://www.phoronix.com/news/Linux-Patches-Toward-DRBD-9",
+    "description": "Earlier this year developers at LINBIT began working toward a goal of upstreaming ~15 years worth of their Distributed Replicated Block Device changes into the mainline Linux kernel. That major update has yet to land but sent out this week was a new patch series in preparing the trek toward introducing DRBD 9 support in the mainline kernel...",
+    "guid": "https://www.phoronix.com/news/Linux-Patches-Toward-DRBD-9",
+    "date": "Sep 27, 2026 10:23",
+    "published_at": "2026-09-27T10:23:07Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "New Tin-based Solar Cells Trap Heat 1,000 Times Longer, Could Beat 33% Limit",
+    "link": "https://hardware.slashdot.org/story/26/09/26/0716210/new-tin-based-solar-cells-trap-heat-1000-times-longer-could-beat-33-limit?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Could this push solar cell efficiency beyond the theoretical 33% limit? Interesting Engineering reports:\n\n\nResearchers at the University of Groningen in the Netherlands found that tin-based perovskite solar cells can slow heat loss from high-energy \"hot electrons...\" \n\nWhen sunlight strikes a panel, photons jump-start electrons into action. The most energetic photons create super-charged hot electrons... [but] in fractions of a trillionth of a second, these high-energy particles rapidly cool, dumping their bonus energy as waste heat before ever leaving the solar cell... In collaboration with Maria Antonietta Loi, professor of Photophysics and Optoelectronics, the team created an experimental setup. Using a specialized solar cell material called tin-based perovskite, Loi's lab performed a feat many thought impossible: she slowed the heat loss down by a factor of 1,000. \n\nSuddenly, the extra energy lingered for nanoseconds instead of vanishing in picoseconds... To solve the puzzle, Koster and PhD student Tim Faber built digital simulations to peel back the quantum layers. And discovered a surprising double-action mechanism at work... The simulations matched the exact nanosecond delay observed in the lab... These specialized materials could be used to build a new generation of super-efficient solar cells. \n\nTin-based metal halide perovskites are non-toxic, eco-friendly crystalline materials for high-performance solar energy conversion... The material possesses an unusually low electron mass. As a result, electric charges move quickly and retain extra thermal energy for extended periods. This combination of broad light absorption, efficient charge movement, and prolonged energy retention makes these materials prime candidates for next-generation solar panels. \n\n\"There are many other questions that still need answers,\" the team said in their announcement, \"but in theory, this discovery could allow the creation of more efficient solar cells, beyond the theoretical limit of 33 percent.\" \nThanks to long-time Slashdot reader fahrbot-bot for sharing the article.\n\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Sep 27, 2026 10:04",
+    "published_at": "2026-09-27T10:04:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "China and the US Say They've Agreed to Start Talks About AI",
+    "link": "https://news.slashdot.org/story/26/09/27/0153248/china-and-the-us-say-theyve-agreed-to-start-talks-about-ai?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "The United States and China have agreed to \"launch a dialogue\" on AI, reports Reuters.\n\nOn artificial intelligence, the two sides agreed to hold a dialogue on the technology's risks and benefits, with the next round of discussions set for November, and to set up a communication channel for AI-related incidents, the Chinese Foreign Ministry and the White House said. \n\nThe White House said that the leaders had agreed to use the term \"super intelligence\" in place of \"artificial intelligence.\" In a separate statement, the Chinese ministry said that Beijing valued Washington's use of the new term. As AI technology continues to advance, the two sides should step up exchanges and work toward consensus in line with new developments, it said. \n\n\nBut CNN argues that \"Despite growing calls to prevent AI development from spiraling out of control, the Trump-Xi summit has produced little substance, as many experts expected.\"\n\nThe right thing to do on AI, [China's leader] Xi said during talks with Trump, is to \"draw on each other's strengths, not guard against each other\" — a reference to Beijing's concern about US containment, from existing tech export controls to potential AI restrictions. \"The two sides can continue their dialogue on AI, exchange views on its risks and benefits, and jointly prevent the misuse and abuse of AI,\" he added. But the summit has yielded little progress on AI beyond a formal dialogue and a bilateral communication channel, proposals discussed before the two leaders' summit — underscoring the entrenched mutual mistrust amid contrasting visions on AI... Because of low levels of trust, cooperation between the two superpowers remains limited, said George Chen, chair of digital practice at The Asia Group consultancy. \"Beijing continues to believe Washington seeks to contain China's rise in AI and other emerging technologies, a perception that will shape the pace and scope of future engagement for the two countries on AI,\" he said. \n\nCNN also points out that while China trails the US in frontier AI models, \"it's rapidly narrowing the technology gap while championing a more open ecosystem centered on accessibility and lower cost.\"\n\nIn July, Chinese leader Xi Jinping launched the World Artificial Intelligence Cooperation Organization — a rival grouping to the Pax Silica alliance that Trump formed last year to reduce reliance on China for AI supply chains. While over two dozen countries and the European Union signed up to Trump's Pax Silica, Xi has recruited 29 countries, including Russia, Indonesia and Pakistan, to his alternative vision of open models, which allow users to freely download, customize and run without paying hefty fees to American firms like Anthropic and OpenAI. For developers in the Global South, an inexpensive Chinese model from DeepSeek or Moonshot may be more useful than a slightly more capable system requiring an expensive subscription and access to a foreign cloud provider, said Eric Olander, editor in chief of The China-Global South Project, a research agency.... \n\nChina's embrace of open systems has not always been a top-down strategy by Beijing. Restrictions on access to the most advanced chips because of US export controls, coupled with smaller capital markets, have pushed Chinese developers toward open models as a way to compete with leading US proprietary systems. That shift has proved effective. In a year, Chinese models' global usage skyrocketed from less than 15% to over 54% last week, led by DeepSeek, according to AI leaderboard data by OpenRouter, a marketplace for models. Even American firms, from Airbnb and DoorDash to Shopify, have embraced Chinese models, tapping into the advantages of open systems, including lower costs and greater flexibility for customization.\n \n\nCNN adds this insight from Alex Colville, an analyst focusing on tech and security at the government-backed Australian Strategic Policy Institute. \"The more capable Chinese models become, the less likely it is Beijing may leave them unrestricted.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Sep 27, 2026 05:36",
+    "published_at": "2026-09-27T05:36:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "AlmaLinux Puts Software Certification in the Hands of Users",
+    "link": "https://feed.itsfoss.com/link/24361/17474965/almalinux-software-certification-launched",
+    "description": "You can now certify the machine you already own and check the public catalog to see what else is validated.",
+    "guid": "6ab6547e2f4ed50001738a86",
+    "date": "Sep 27, 2026 05:01",
+    "published_at": "2026-09-27T05:01:19Z",
+    "image": "https://itsfoss.com/content/images/2026/09/almalinux-software-certification-banner.png",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
     "title": "KDE and GNOME Developers Ponder How to Handle AI-Generated Contributions",
     "link": "https://tech.slashdot.org/story/26/09/24/1928229/kde-and-gnome-developers-ponder-how-to-handle-ai-generated-contributions?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
     "description": "Last weekend KDE's annual Akademy conference included a presentation proposing\nan AI-native KDE,\" writes The Register. This led KDE developer Nate Graham to open a discussion about proposed restrictions on LLM-assisted contributions which \"rapidly became heated. Moderators issued warnings, restricted further comments, and eventually removed the thread.\" \n\nBut as Graham writes on his blog, \"A bunch of people mostly outside of KDE who disapprove of LLM usage derailed KDE's attempt to add restrictions to LLM usage.\"\n\n\nTwo people unknown to any KDE contributors appeared and began fighting with one another about the broader topic of the morality of AI, not the proposed guidelines... Someone else outside of KDE set up kdeforpeople.com in an attempt to... pressure KDE into banning LLMs. A bunch of people signed onto it, almost none of whom are known KDE contributors.\n The topic was picked up on social media and the press with... varying levels of accuracy. The draft proposal was removed and the whole topic hidden... Yep, that's where we're at in the state of online discourse around AI... \n\n\nThe \"lovable, sovereign, AI-native KDE\" idea was presented by two people important to KDE in decades past, but who had not made any contributions recently besides this Akademy talk. Their idea does not reflect the overall direction of KDE or Plasma, and I don't think it ever will. If \"a lovable, sovereign, AI-native KDE\" freaks you out, I believe it is completely reasonable and safe to ignore... \n\n\nI completely understand why a lot of people have problems with LLMs. I have these concerns as well. \n\nHe concluded by asking people not to derail any future process to set usage guidelines, fighting over \"the broader topic of AI in general.\" \n\n\n\"The discussion is gone, but the argument continues,\" adds The Register:\n\nGNOME developer Jordan Petridis has also published The GNOME LLM Policy That I Want, proposing that LLMs be barred from creating or modifying anything submitted to GNOME or hosted on its infrastructure. \n\n\"You might be asked to prove your code meets this requirement,\" Petridis writes, arguing for proposals that target the norms around developer behavior. His rationale? \"The GNOME Project prioritizes the social and human aspects of collective software creation,\"\n\n\n\n\n\nRead more of this story at Slashdot.",
@@ -134,189 +229,22 @@
     "source_url": "https://www.phoronix.com/"
   },
   {
+    "title": "New FUTEX Syscalls Back To Being Worked On For Helping Valve's ARM64 Gaming Ambitions",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367727",
+    "description": "Going back to last year the Igalia open-source consulting firm has been working on enhancing the Linux kernel to help Steam Play gaming on ARM64 and ensuring the FEX emulator is operating efficiently for x86/x86_64 games running on the likes of the Steam Frame. After other kernel work in recent months, there's finally an updated round of the FUTEX get_robust_list2 and set_robust_list2 system call patches...",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367727",
+    "date": "Sep 26, 2026 09:45",
+    "published_at": "2026-09-26T09:45:13Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
     "title": "Nginx Proxy Manager 2.16 Adds Built-In Log Viewer",
     "link": "https://lxer.com/module/newswire/ext_link.php?rid=367723",
     "description": "Nginx Proxy Manager 2.16 introduces a new web UI log viewer, per-path access lists, security fixes, networking improvements, and updated Certbot support.",
     "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367723",
     "date": "Sep 26, 2026 08:13",
     "published_at": "2026-09-26T08:13:44Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Proton Experimental brings fixes for Crysis, Crysis Wars, CEG-protected games, early support for 32bit OpenXR",
-    "link": "https://www.gamingonlinux.com/2026/09/proton-experimental-brings-fixes-for-crysis-crysis-wars-ceg-protected-games-early-support-for-32bit-openxr/",
-    "description": "Another smaller but great sounding upgrade for Proton Experimental to run more Windows games smoothly on SteamOS / Linux is here.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/09/proton-experimental-brings-fixes-for-crysis-crysis-wars-ceg-protected-games-early-support-for-32bit-openxr/",
-    "date": "Sep 26, 2026 07:34",
-    "published_at": "2026-09-26T07:34:32Z",
-    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/proton%20logo%20official.jpg",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "SteamOS 3.9.2 Beta brings fixes for VRR, VR Streaming, Remote Play, Boot Time and more",
-    "link": "https://www.gamingonlinux.com/2026/09/steamos-3-9-2-beta-brings-fixes-for-vrr-vr-streaming-remote-play-boot-time-and-more/",
-    "description": "A bumper weekend of Steam updates - with a SteamOS 3.9.2 Beta now available with a whole bunch of extra fixes and improvements for all devices.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/09/steamos-3-9-2-beta-brings-fixes-for-vrr-vr-streaming-remote-play-boot-time-and-more/",
-    "date": "Sep 26, 2026 07:22",
-    "published_at": "2026-09-26T07:22:25Z",
-    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/steamos-steam-machine_gol2.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Steam Client Beta - September 25th brings more Remote Play and Linux fixes",
-    "link": "https://www.gamingonlinux.com/2026/09/steam-client-beta-september-25th-brings-more-remote-play-and-linux-fixes/",
-    "description": "Valve released a Steam Client Beta update for all desktop / handheld users bringing more enhancements and bug fixes for the likes of Remote Play and Linux.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/09/steam-client-beta-september-25th-brings-more-remote-play-and-linux-fixes/",
-    "date": "Sep 26, 2026 07:15",
-    "published_at": "2026-09-26T07:15:48Z",
-    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/steam_plain_2025.jpg",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "SteamOS 0.4.1 Beta for Steam Frame fixes some nuisance bugs",
-    "link": "https://www.gamingonlinux.com/2026/09/steamos-0-4-1-beta-for-steam-frame-fixes-some-nuisance-bugs/",
-    "description": "Valve released an opt-in Beta update with SteamOS 0.4.1 for Steam Frame, bringing some new features and fixing up a bunch of nuisances.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/09/steamos-0-4-1-beta-for-steam-frame-fixes-some-nuisance-bugs/",
-    "date": "Sep 26, 2026 07:07",
-    "published_at": "2026-09-26T07:07:22Z",
-    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/steam-frame-eye_gol2_2fe88a5d.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Rogue OpenAI Agents Posted 53 User-Uploaded Images Onto the Internet, Accessed US Government Websites",
-    "link": "https://slashdot.org/story/26/09/26/0328247/rogue-openai-agents-posted-53-user-uploaded-images-onto-the-internet-accessed-us-government-websites?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "53 images that users uploaded into OpenAI models were included in training data — and then AI agents in an OpenAI research environment posted those 53 images on public image hosting sites. \nWhile posted as links that weren't publicly listed, \"the images could still be discovered even if the links were not publicly listed,\" reports TechCrunch:\n\nOpenAI said it was working with the hosting providers to remove this content, though some of it is apparently still online. OpenAI said it could not notify the affected users because \"our technical approach and privacy policy\" prevent it from \"reassociating\" the images with the original providers, but declined to say how the lab determined whether the images were provided by users. \n\nThe news came in a post collecting public statements from the lab's ongoing review of incidents in which its models escaped the company's scrutiny, accessed the open internet, and misbehaved in various ways. OpenAI said it would continue disclosing anonymized accounts of incidents like these, and said it had contacted dozens of victims, including governments, universities, public agencies, to notify them of the agents' activities. \n\nFriday night news also broke that OpenAI's agents also tried unsuccessfully to infiltrate the U.S. Department of Education's site this summer \"without the company's knowledge,\" reports Politico. \n\nAnd OpenAI's models also accessed the website of the U.S. Commerce Department using credentials found in online code repositories, according to the article. OpenAI confirmed the incident Friday, \"saying its technology did not manage to access information that was not already public or change government data and systems.\" The article adds that OpenAI's models also accessed the web site for America's Securities and Exchange Commission:\n\n\nOne senior federal IT official said the government still did not have a clear understanding of what happened across the three agencies. \"We still don't know what public data was accessed and how it was accessed, because OpenAI has not shared specific technical details with us yet,\" said the official, who was granted anonymity because they were not authorized to speak publicly about it. OpenAI discovered the Commerce and SEC incidents as part of its ongoing review of incidents where its technology has acted in unintended or \"misaligned\" ways. \n\nAbout the models posting user-uploaded images, TechCrunch's article notes that OpenAI stressed \"that its enterprise users are automatically opted out of having their interactions used to train future models; however, consumer users are opted in unless they affirmatively choose not to share their data.\" (As OpenAI's announcement describes it, some of their agents' training data \"contains content from, or derived from, training-eligible user interactions.\") \n\nPosting the images is \"not an appropriate use of this data,\" OpenAI acknowledged, adding that it happened before new safeguards added after the Hugging Face incident. This latest incident appears as an update on a new OpenAI page that \"brings together our reports and updates on the Hugging Face incident, related research and public presentations, additional activity we have identified, what we have learned about the role of model misalignment, and measures we're taking to strengthen our systems.\" (It also notes that there's now a name for models posting on third party sites — \"agent spam\" — which they consider distinct from cybersecurity, though \"we need to address both.\") \n\n\"As part of our response to our ongoing investigation, we have improved our training and evaluation processes, including building safety cases, securing and red-teaming our systems to prevent the model from exfiltrating data, and implemented additional monitoring. We are continuing to review agent activity in research and evaluation runs, working backward month by month starting from the Hugging Face incident.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Sep 26, 2026 07:04",
-    "published_at": "2026-09-26T07:04:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Go's Improving SIMD Support, Platform-Independent SIMD Interface",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367712",
-    "description": "A new blog post published on Thursday covers the experimental support for SIMD with the Go programming language. This expanding Go SIMD support also includes a platform-independent API for  making use of SIMD with modern processors...",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367712",
-    "date": "Sep 26, 2026 06:42",
-    "published_at": "2026-09-26T06:42:14Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "OBS Studio 33 Promises Support for Latest NVIDIA Broadcast SDKs, Beta Out Now",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367726",
-    "description": "OBS Studio 33 has entered public beta testing today as a major release of this open-source, cross-platform, and free video recording and live streaming software that promises new features and improvements.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367726",
-    "date": "Sep 26, 2026 05:10",
-    "published_at": "2026-09-26T05:10:45Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Open-source flight controller pairs i.MX RT1176 with Pixhawk PAB compatibility",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367708",
-    "description": "ARK Electronics recently showcased the ARKV6X-RT, an NDAA-compliant flight controller based on the FMUV6X-RT and Pixhawk Autopilot Bus open standards. The module uses an NXP i.MX RT1176 microcontroller and includes three synchronized IMUs, onboard FRAM, a secure element and PX4 Autopilot support. For context, the i.MX RT1176 integrates a 1GHz Arm Cortex-M7 core and a […]",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367708",
-    "date": "Sep 26, 2026 03:39",
-    "published_at": "2026-09-26T03:39:15Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Meta Made 43M Misleading Statements, New Mexico Jury Finds, Including on Its Cambridge Analytica Response",
-    "link": "https://tech.slashdot.org/story/26/09/26/0042239/meta-made-43m-misleading-statements-new-mexico-jury-finds-including-on-its-cambridge-analytica-response?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "A New Mexico jury on Friday \"found Facebook liable for deceiving users\" about its privacy protections, reports the Associated Press. \n\nA New Mexico newspaper calls it \"another massive legal victory\" against Facebook, reporting that the jury found Facebook \"had committed tens of millions of violations of the state's Unfair Practices Act in connection with its lies to consumers about how their personal information was handled by the company and third-party users.\"\n\nThe state has asked the company be ordered to pay the maximum civil penalty of $5,000 per violation meaning a judge could potentially order the company to pay billions in penalties to the state. The jury also found the company had been dishonest about its investigation of and response to the 2013 Cambridge Analytica data breach scandal, in which approximately 300,000 Facebook users took an online personality quiz, only to have the app that hosted the quiz harvest data from tens of millions of their \"friends.\" The data was then transferred to the British consulting firm, which used it to create targeted political ads during the 2016 U.S. presidential election.\n \nMore details from Reuters:\n\nThe verdict followed a two-week trial over a lawsuit filed by New Mexico's attorney general in 2021, three years after news reports revealed that the firm, Cambridge Analytica, had harvested personal data from as many as 87 million Facebook users through a third-party app... At a press conference after the verdict was announced, New Mexico Attorney General Raúl Torrez said the case revealed \"in stark detail the way in which this company plays fast and loose with the rules.\" \n\nJurors found 26 of 29 statements identified by the state were misleading, including comments about user data... Judge Francis Mathew will now determine civil penalties after jurors found more than 43 million violations, based on the number of people affected by the company's misleading statements... [New Mexico Attorney General] Torrez said his office is evaluating how much to seek but will push for the maximum penalty based on the jury's findings. The state will also ask [Judge] Mathew to direct Meta to make changes, which could include corrections to its past misstatements as well as an audit of the way it manages user data, Torrez said.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Sep 26, 2026 02:34",
-    "published_at": "2026-09-26T02:34:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Redox OS Adds IO_uring-Like API, NUMA \u0026 Gets QEMU Working",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367720",
-    "description": "The Redox OS open-source, Rust-based operating system has seen a lot of activity in recent weeks with many notable improvements landing...",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367720",
-    "date": "Sep 26, 2026 02:07",
-    "published_at": "2026-09-26T02:07:46Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Last Call For The Autumn Special For Ad-Free Viewing \u0026 Supporting Linux Hardware Testing",
-    "link": "https://www.phoronix.com/news/Autumn-2026-Special-Final-Call",
-    "description": "Last call for the Phoronix autumn \"Oktoberfest\" Premium sale: it runs through end of day Sunday, 27 September (any timezone - I'm not particularly strict). If you have been meaning to support the site, this is the window...",
-    "guid": "https://www.phoronix.com/news/Autumn-2026-Special-Final-Call",
-    "date": "Sep 26, 2026 01:00",
-    "published_at": "2026-09-26T01:00:26Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "systemd Gets Built-In System Reporting With systemd-report",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367717",
-    "description": "The new systemd-report collects system facts and runtime metrics into unified, timestamped JSON reports for monitoring and fleet management.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367717",
-    "date": "Sep 26, 2026 00:36",
-    "published_at": "2026-09-26T00:36:16Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "AlmaLinux’s New Beefed-Up Hardware and Software Certification",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367725",
-    "description": "AlmaLinux’s new certification platform aims to make finding out how well your hardware and software will work with AlmaLinux as easy as looking at its certification catalog.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367725",
-    "date": "Sep 25, 2026 23:04",
-    "published_at": "2026-09-25T23:04:47Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "New FUTEX Syscalls Back To Being Worked On For Helping Valve's ARM64 Gaming Ambitions",
-    "link": "https://www.phoronix.com/news/FUTEX-Robust-List2-Syscalls",
-    "description": "Going back to last year the Igalia open-source consulting firm has been working on enhancing the Linux kernel to help Steam Play gaming on ARM64 and ensuring the FEX emulator is operating efficiently for x86/x86_64 games running on the likes of the Steam Frame. After other kernel work in recent months, there's finally an updated round of the FUTEX get_robust_list2 and set_robust_list2 system call patches...",
-    "guid": "https://www.phoronix.com/news/FUTEX-Robust-List2-Syscalls",
-    "date": "Sep 25, 2026 22:42",
-    "published_at": "2026-09-25T22:42:16Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "There's a New Way to Break RSA Encryption",
-    "link": "https://it.slashdot.org/story/26/09/24/1652228/theres-a-new-way-to-break-rsa-encryption?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "\"Signature forgery.\" It's a new way to break RSA keys — and it doesn't require factoring. Ars Technica reports on new research using classical computing to \"reduce the current RSA security level to an unacceptably low threshold\" and lower the required computing resources by orders of magnitude. \n\n\nThere's \"a gap in current RSA-type security assumptions,\" according to a paper co-authored by University of California, San Diego professor Nadia Heninger, who argues that gap \"gives classical cryptanalytic evidence in favor of moving away from RSA entirely during the current post-quantum transition.\"\n\nThe practical risk is limited, but still significant. Applying the attack against the deprecated use of 1024-bit keys took a handful of months on an academic CPU cluster, significantly less than the current estimates for 1024-bit factoring that would require resources that only nations or companies with massive resources could achieve. Widely used RSA implementations are also safe. Nonetheless, the research has taken cryptographers by surprise... \"If this result holds up under peer review, it would indeed be a conceptual break-through,\" Karsten Nohl, a cryptography expert and the head of innovation at Allurity, said in an interview. \"RSA is as difficult to break as it is to factor large integers, at least so we thought. The researcher suggests that you can practically break RSA without cracking its key....\" \n\n\nThe key forgery attack Heninger and the other researchers devised poses an immediate threat to 1024-bit RSA. Even for 2048- and 4096-bit keys, the method reduces the security of RSA to unacceptable levels. The National Security Agency, National Institute of Standards and Technology, and European Union Agency for Network and Information Security require that any cryptosystem should provide a level of no less than 128 or more bits, meaning the operations required must exceed 2**128. The forgery attack drops these levels to 2**65, 2**90, and 2**119 for 1024-, 2048-, and 4096-bit keys respectively. These levels may further drop because Heninger's team did all the coding by hand and used no AI or GPUs in performing the forgeries. The researcher said these tools will \"almost certainly\" drop the security levels further. \n\n\nThe attack works only against blind-signature implementations of RSA... Still, some real-world systems continue to use blind-signature, also known as textbook, RSA... The paper's authors and other researchers stress that the new attack poses little real-world threat. It does, however, drastically lower the estimated security of textbook RSA, and it does so in a way no one knew of previously... The new attack will further increase the urgency of completely moving away from the cryptosystem. \n\nThanks to long-time Slashdot reader phatrabt for sharing the article.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Sep 25, 2026 22:04",
-    "published_at": "2026-09-25T22:04:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Approaching A 10 Second Linux Kernel Build",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367719",
-    "description": "The coffee window is closing. Going back many years with the time it's taken to compile the Linux kernel has been a well known opportunity for a coffee break or even eating a meal during the lengthy Linux kernel build process. Even when the Linux kernel was much smaller than it is today, with the hardware at the time it would often be a very time consuming process... Thus incredible to think that we are now on the horizon of a ten second clean, default kernel build on Linux x86_64.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367719",
-    "date": "Sep 25, 2026 21:33",
-    "published_at": "2026-09-25T21:33:17Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Shelly 3.1.5 GUI Package Manager for Arch Linux Adds Atoll-Powered AUR Browser",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367722",
-    "description": "Shelly 3.1.5 is out today as a new maintenance update in the Shelly 3.1 series of this modern, open-source, and free pacman alternative for Arch Linux and derivatives.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367722",
-    "date": "Sep 25, 2026 20:01",
-    "published_at": "2026-09-25T20:01:48Z",
     "source": "lxer.com",
     "source_url": "https://lxer.com/"
   }
