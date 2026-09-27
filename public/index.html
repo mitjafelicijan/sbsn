@@ -322,7 +322,7 @@
                             
                         </td>
                         
-                        <td class="today">
+                        <td class="">
                             
                                 <a href="2026-09-26.html">26</a>
                             
@@ -332,9 +332,9 @@
                     
                     <tr>
                         
-                        <td class="">
+                        <td class="today">
                             
-                                27
+                                <a href="2026-09-27.html">27</a>
                             
                         </td>
                         
@@ -424,6 +424,129 @@
         <main class="main-content">
             <h2 class="view-title">Latest Stories</h2>
             <div class="grid">
+                
+                <article>
+                    <h2><a href="https://tech.slashdot.org/story/26/09/24/1928229/kde-and-gnome-developers-ponder-how-to-handle-ai-generated-contributions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" target="_blank">KDE and GNOME Developers Ponder How to Handle AI-Generated Contributions</a></h2>
+                    <div class="meta">
+                        Sep 27, 2026 01:04 | 
+                        Source: <a href="https://slashdot.org/" target="_blank">slashdot.org</a>
+                    </div>
+                    
+                    <img src="https://a.fsdn.com/sd/twitter_icon_large.png">
+                    
+                    <p>Last weekend KDE&#39;s annual Akademy conference included a presentation proposing
+an AI-native KDE,&#34; writes The Register. This led KDE developer Nate Graham to open a discussion about proposed restrictions on LLM-assisted contributions which &#34;rapidly became heated. Moderators issued warnings, restricted further comments, and eventually removed the thread.&#34; 
+
+But as Graham writes on his blog, &#34;A bunch of people mostly outside of KDE who disapprove of LLM usage derailed KDE&#39;s attempt to add restrictions to LLM usage.&#34;
+
+
+Two people unknown to any KDE contributors appeared and began fighting with one another about the broader topic of the morality of AI, not the proposed guidelines... Someone else outside of KDE set up kdeforpeople.com in an attempt to... pressure KDE into banning LLMs. A bunch of people signed onto it, almost none of whom are known KDE contributors.
+ The topic was picked up on social media and the press with... varying levels of accuracy. The draft proposal was removed and the whole topic hidden... Yep, that&#39;s where we&#39;re at in the state of online discourse around AI... 
+
+
+The &#34;lovable, sovereign, AI-native KDE&#34; idea was presented by two people important to KDE in decades past, but who had not made any contributions recently besides this Akademy talk. Their idea does not reflect the overall direction of KDE or Plasma, and I don&#39;t think it ever will. If &#34;a lovable, sovereign, AI-native KDE&#34; freaks you out, I believe it is completely reasonable and safe to ignore... 
+
+
+I completely understand why a lot of people have problems with LLMs. I have these concerns as well. 
+
+He concluded by asking people not to derail any future process to set usage guidelines, fighting over &#34;the broader topic of AI in general.&#34; 
+
+
+&#34;The discussion is gone, but the argument continues,&#34; adds The Register:
+
+GNOME developer Jordan Petridis has also published The GNOME LLM Policy That I Want, proposing that LLMs be barred from creating or modifying anything submitted to GNOME or hosted on its infrastructure. 
+
+&#34;You might be asked to prove your code meets this requirement,&#34; Petridis writes, arguing for proposals that target the norms around developer behavior. His rationale? &#34;The GNOME Project prioritizes the social and human aspects of collective software creation,&#34;
+
+
+
+
+
+Read more of this story at Slashdot.</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://www.phoronix.com/news/Linux-7.4-Better-RPI-GPU-Reset" target="_blank">Improved GPU Reset Coming For Raspberry Pi Boards With Linux 7.4</a></h2>
+                    <div class="meta">
+                        Sep 27, 2026 00:45 | 
+                        Source: <a href="https://www.phoronix.com/" target="_blank">phoronix.com</a>
+                    </div>
+                    
+                    <p>In addition to this week&#39;s DRM-Misc-Next pull request introducing some new HDMI 2.0 helpers for the DRM drivers, the pull request also introduced improved GPU reset support for the Broadcom V3D GPU with the VC4 kernel driver...</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://slashdot.org/story/26/09/26/0227226/after-40-years-microsoft-excel-will-add-single-cell-lists-and-arrays?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" target="_blank">After 40 Years, Microsoft Excel Will Add Single-Cell Lists and Arrays</a></h2>
+                    <div class="meta">
+                        Sep 26, 2026 20:34 | 
+                        Source: <a href="https://slashdot.org/" target="_blank">slashdot.org</a>
+                    </div>
+                    
+                    <img src="https://a.fsdn.com/sd/twitter_icon_large.png">
+                    
+                    <p>Microsoft&#39;s senior product manager for Excel acknowledges that &#34;Throughout Excel&#39;s 40-year history, you&#39;ve only been able to put one value per cell.&#34; But that&#39;s now changing with arrays in cells (as well as nested arrays) and lists.
+
+&#34;You can create a list by selecting Insert &gt; List or pressing Ctrl&#43;J, then typing or pasting items separated by commas or semicolons, depending on your regional settings. Selecting the icon in the cell shows the individual values...&#34; 
+&#34;With lists, you can filter by one or more individual items instead of whole text entries. Referencing a list returns all its values for calculations. For example, =B2 spills those values into separate cells...&#34;
+
+&#34;For the first time in Excel, arrays can exist natively in cells as values or as formula results. They can be any size or shape and can even contain other arrays. You can now keep the result of any spilling formula in a single cell by &#34;wrapping&#34; the formula body with braces { }.&#34;
+
+ &#34;Since the introduction of dynamic arrays, array results have spilled across cells — for example ={1;2;3}. Wrapping the original array with braces creates a 1x1 array around it, so instead of spilling to multiple cells, the array stays in a single cell. Braces have long been used to describe arrays in Excel and this extends that behavior by allowing multiple layers of braces. This gives you more flexibility when building spreadsheets. Instead of leaving room for a formula to spill, you can keep the result in one cell.&#34;
+&#34;Arrays can now also &#39;nest&#39; inside other arrays... Previously, a formula that produced an array of arrays would return a truncated result or #CALC! error. Now, supported formulas return the complete nested result... FLATTEN(array, [pad_value], [levels]) simplifies nested arrays by removing one or more levels of nesting...&#34;
+
+Three HAS functions check whether values are in an array: 
+ — HAS(array, value) returns TRUE if value appears anywhere in array, and FALSE otherwise. 
+ — HASANY(array, values) returns TRUE if any of the values appear anywhere in array, and FALSE otherwise. 
+ — HASALL(array, values) returns TRUE if all of the values appear anywhere in array, and FALSE otherwise.
+
+
+
+
+
+Read more of this story at Slashdot.</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://www.phoronix.com/news/Toolpak" target="_blank">&#34;Toolpak&#34; Being Devised By GNOME OS Developers, Akin To Flatpak For Tools</a></h2>
+                    <div class="meta">
+                        Sep 26, 2026 16:50 | 
+                        Source: <a href="https://www.phoronix.com/" target="_blank">phoronix.com</a>
+                    </div>
+                    
+                    <p>GNOME developer Jordan Petridis published a blog post today to introduce the world to the Toolpak plans for GNOME OS...</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://news.slashdot.org/story/26/09/26/0559227/ai-finds-so-many-linux-bugs-canonical-changes-to-a-two-week-stable-release-update-cycle?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" target="_blank">AI Finds So Many Linux Bugs, Canonical Changes to a Two-Week Stable Release Update Cycle</a></h2>
+                    <div class="meta">
+                        Sep 26, 2026 16:04 | 
+                        Source: <a href="https://slashdot.org/" target="_blank">slashdot.org</a>
+                    </div>
+                    
+                    <img src="https://a.fsdn.com/sd/twitter_icon_large.png">
+                    
+                    <p>&#34;Finding vulnerabilities faster also puts pressure on Linux distributions to fix and deliver patches faster,&#34; writes Slashdot reader BrianFagioli 
+
+AI has transformed bug discovery from &#34;a manual, time-intensive process into a highly automated engine,&#34; notes Canonical&#39;s blog, leading to a &#34;recent explosion in the volume of CVEs&#34;.
+
+
+Additionally, the upstream kernel community became its own CVE Numbering Authority (CNA) and assigned CVE (Common Vulnerabilities and Exposures) identifiers to thousands of bugs, arguing that at the kernel level, almost any type of bug that can affect a running system, could potentially be classified as a vulnerability. As a result, the volume of CVEs has skyrocketed exponentially, creating a massive backlog of alerts and forcing defenders to drastically increase the speed of their fixes to close the window of risk. 
+
+To address the growing volume of CVEs and the demand for faster security fixes, we are transitioning to a unified, 2-week release cycle... 
+
+While a patch is being prepared, Canonical aims to provide safe workarounds where applicable, so users aren&#39;t left exposed in the meantime. Where no safe workaround exists, Canonical will say so clearly and point users toward general hardening steps instead. The goal is to get environments into a defensible, safer state within 24 to 48 hours of public disclosure — well before a patch ships. This doesn&#39;t replace the patch; it buys the time needed to fix the vulnerability properly, without sacrificing security. 
+
+&#34;Linux did not suddenly become wildly insecure overnight,&#34; notes the blog Nerds.xyz. &#34;We are getting much better at finding and cataloging problems that may have previously gone unnoticed.&#34;
+
+There is something almost ironic about all of this. AI is routinely pitched as a tool that will make software development faster, but it is also making vulnerability discovery faster. That means maintainers now have to accelerate the other side of the equation too. 
+For Ubuntu users, that should ultimately be good news. More bugs being discovered is preferable to vulnerabilities sitting unnoticed in the Linux kernel.
+
+
+
+
+
+Read more of this story at Slashdot.</p>
+                </article>
                 
                 <article>
                     <h2><a href="https://www.phoronix.com/news/Linux-7.4-Refill-Sheaves-Barn" target="_blank">MM Change Slated For Linux 7.4 Yields &#43;22904539.81% In One Metric, More Modest Wins In Others</a></h2>
@@ -618,6 +741,16 @@ Read more of this story at Slashdot.</p>
                 </article>
                 
                 <article>
+                    <h2><a href="https://lxer.com/module/newswire/ext_link.php?rid=367712" target="_blank">Go&#39;s Improving SIMD Support, Platform-Independent SIMD Interface</a></h2>
+                    <div class="meta">
+                        Sep 26, 2026 06:42 | 
+                        Source: <a href="https://lxer.com/" target="_blank">lxer.com</a>
+                    </div>
+                    
+                    <p>A new blog post published on Thursday covers the experimental support for SIMD with the Go programming language. This expanding Go SIMD support also includes a platform-independent API for  making use of SIMD with modern processors...</p>
+                </article>
+                
+                <article>
                     <h2><a href="https://lxer.com/module/newswire/ext_link.php?rid=367726" target="_blank">OBS Studio 33 Promises Support for Latest NVIDIA Broadcast SDKs, Beta Out Now</a></h2>
                     <div class="meta">
                         Sep 26, 2026 05:10 | 
@@ -663,6 +796,26 @@ Jurors found 26 of 29 statements identified by the state were misleading, includ
 
 
 Read more of this story at Slashdot.</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://lxer.com/module/newswire/ext_link.php?rid=367720" target="_blank">Redox OS Adds IO_uring-Like API, NUMA &amp; Gets QEMU Working</a></h2>
+                    <div class="meta">
+                        Sep 26, 2026 02:07 | 
+                        Source: <a href="https://lxer.com/" target="_blank">lxer.com</a>
+                    </div>
+                    
+                    <p>The Redox OS open-source, Rust-based operating system has seen a lot of activity in recent weeks with many notable improvements landing...</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://www.phoronix.com/news/Autumn-2026-Special-Final-Call" target="_blank">Last Call For The Autumn Special For Ad-Free Viewing &amp; Supporting Linux Hardware Testing</a></h2>
+                    <div class="meta">
+                        Sep 26, 2026 01:00 | 
+                        Source: <a href="https://www.phoronix.com/" target="_blank">phoronix.com</a>
+                    </div>
+                    
+                    <p>Last call for the Phoronix autumn &#34;Oktoberfest&#34; Premium sale: it runs through end of day Sunday, 27 September (any timezone - I&#39;m not particularly strict). If you have been meaning to support the site, this is the window...</p>
                 </article>
                 
                 <article>
@@ -727,6 +880,16 @@ Read more of this story at Slashdot.</p>
                 </article>
                 
                 <article>
+                    <h2><a href="https://lxer.com/module/newswire/ext_link.php?rid=367719" target="_blank">Approaching A 10 Second Linux Kernel Build</a></h2>
+                    <div class="meta">
+                        Sep 25, 2026 21:33 | 
+                        Source: <a href="https://lxer.com/" target="_blank">lxer.com</a>
+                    </div>
+                    
+                    <p>The coffee window is closing. Going back many years with the time it&#39;s taken to compile the Linux kernel has been a well known opportunity for a coffee break or even eating a meal during the lengthy Linux kernel build process. Even when the Linux kernel was much smaller than it is today, with the hardware at the time it would often be a very time consuming process... Thus incredible to think that we are now on the horizon of a ten second clean, default kernel build on Linux x86_64.</p>
+                </article>
+                
+                <article>
                     <h2><a href="https://lxer.com/module/newswire/ext_link.php?rid=367722" target="_blank">Shelly 3.1.5 GUI Package Manager for Arch Linux Adds Atoll-Powered AUR Browser</a></h2>
                     <div class="meta">
                         Sep 25, 2026 20:01 | 
@@ -734,322 +897,6 @@ Read more of this story at Slashdot.</p>
                     </div>
                     
                     <p>Shelly 3.1.5 is out today as a new maintenance update in the Shelly 3.1 series of this modern, open-source, and free pacman alternative for Arch Linux and derivatives.</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://science.slashdot.org/story/26/09/24/009238/asteroids-named-after-tom-lehrer-and-weird-al-yankovic?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" target="_blank">Asteroids Named After Tom Lehrer and &#39;Weird Al&#39; Yankovic</a></h2>
-                    <div class="meta">
-                        Sep 25, 2026 17:34 | 
-                        Source: <a href="https://slashdot.org/" target="_blank">slashdot.org</a>
-                    </div>
-                    
-                    <img src="https://a.fsdn.com/sd/twitter_icon_large.png">
-                    
-                    <p>&#34;Weird Al&#34; Yankovic&#39;s name has just been approved for a new asteroid — (14331) Alyankovic = 1981 EC26 — by the International Astronomical Union, reports Space.com. 
-
-Yankovic&#39;s asteroid was championed by planetary scientist Allison McGraw joined by &#34;several heavy hitters in the planetary science field, according to the Tucson Star. (Astrophysicist Steve Desch from the School of Earth and Space Exploration at Arizona State University; Tim McCoy, one of the main curators of meteorites at the Smithsonian Institution; and University of Arizona research scientist Melissa Brucker, leader of the Spacewatch program, which has discovered more than 179,000 asteroids.)
-
-
-The scientists also convinced the International Astronomical Union to name an asteroid after one of Yankovic&#39;s major influences, famous musical humorist and political satirist Tom Lehrer, who died last year at age 97. Lehrer&#39;s work includes &#34;The Elements,&#34; a 1959 song in which he recites the entire periodic table to the tune of Gilbert and Sullivan&#39;s &#34;Major-General&#39;s Song.&#34; &#34;He was a mathematician and teacher and also wrote math- and science-themed songs,&#34; McGraw said. &#34;We felt that someone who had that kind of science enthusiasm really deserved to have their name up in the sky....&#34; McGraw is hoping that naming space rocks after stars like Lehrer and &#34;Weird Al&#34; will cast some reflected light on two things she&#39;s passionate about: asteroid research and science communication. 
-
-Six years ago a 92-year-old Tom Lehrer released all his lyrics into the public domain. (Wikipedia notes he&#39;d &#34;largely retired&#34; by the 1970s to become a mathematics teacher at the University of California, Santa Cruz.) Slashdot ran a brief career retrospective when Lehrer died last year at age 97. 
-
-And the IAU writes that &#34;Generations of scientists have been inspired&#34; by Weird Al Yankovic&#39;s &#34;comedic musical works, including &#39;It&#39;s All About the Pentiums&#39; and &#39;White and Nerdy&#39;.&#34; (&#34;I&#39;m fluent in JavaScript as well as Klingon,&#34; Yankovic sings in the latter.) He appears in a song envisioning a rap battle between Bill Nye the Science Guy and Sir Isaac Newton... And in 1999 he recorded a five-minute summation of Star Wars: Phantom Menace, sung to the wistful tune of Don McLean&#39;s American Pie. Performing it last month in a NPR Tiny Desk concert, &#34;most of the audience was singing along,&#34; remembers an interviewer at NPR. &#34;It felt like something that was very personal to them.&#34;
-
-
-
-Weird Al: It&#39;s one of those songs that means a lot to people, particularly &#34;Star Wars&#34; fans, of course. But I mean, I see a lot of people in the audience cosplaying as Jedi Knights and waving their light sabers... I&#39;ve even heard that, you know, they play that song at &#34;Star Wars&#34; conventions, and people get weepy... [I]t really hits people in a tender place somehow... 
-
-&#34;Oh my, my, this here Anakin guy
-may be Vader someday later, now he&#39;s just a small fry. 
-And he left his home and kissed his mommy goodbye, 
-sayin&#39; soon, I&#39;m gonna be a Jedi.&#34;
-
- 
-
-Yankovic has led a geek-friendly career. In the heyday of Napster, he released an anthem-style parody mocking the arguments of the Recording Industry Association of America, titled &#34;Don&#39;t Download This Song. (&#34;Even Lars Ulrich knows it&#39;s wrong...&#34;) 
-
-&#34;Once in a while maybe you will feel the urge
-To break international copyright law...
-you start out stealing songs, then you&#39;re robbing liquor stores
-And selling crack and running over school kids with your car...&#34; 
-
-As a student at Cal Poly, San Luis Obispo, Yankovic bootstrapped a career in 1979 by recording his first novelty song &#34;My Bologna&#34; (a parody of &#34;My Sharona&#34; by the Knack) while playing his accordion in a bathroom for its acoustics. And even the IAU acknowledged the geeky themes in his 1999 song &#34;It&#39;s All About the Pentiums&#34; (a filk on Puff Daddy&#39;s &#34;It&#39;s All About the Benjamins&#34;). 
-
-&#34;You&#39;re usin&#39; a 286? Don&#39;t make me laugh
-Your Windows boots up in what, a day and a half?
-You could back up your whole hard drive on a floppy diskette
-You&#39;re the biggest joke on the Internet...&#34;
-
-
-
-
-
-Read more of this story at Slashdot.</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://www.phoronix.com/news/GNU-Debugger-GDB-18.1" target="_blank">GDB 18.1 Debugger Brings Better Windows Support</a></h2>
-                    <div class="meta">
-                        Sep 25, 2026 16:47 | 
-                        Source: <a href="https://www.phoronix.com/" target="_blank">phoronix.com</a>
-                    </div>
-                    
-                    <p>GDB 18.1 is out today as the newest version of the GNU Debugger that works across C/C&#43;&#43;, Fortran, Rust, and other languages like Go, Ada, and more...</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://lwn.net/Articles/1096245/" target="_blank">[$] How KDE got funding to add enterprise features</a></h2>
-                    <div class="meta">
-                        Sep 25, 2026 15:59 | 
-                        Source: <a href="https://lwn.net" target="_blank">lwn.net</a>
-                    </div>
-                    
-                    <p>The Sovereign Tech Agency (STA) is
-investing nearly €1.3 million
-in KDE through 2027. At Akademy 2026
-in Graz, Austria, Nate Graham and Kevin Ottens, two of the contributors who
-helped bring in the investment, explained how the funding was secured, provided
-tips on how projects should approach organizations like STA, and talked about
-how that money will be improving KDE for everyone. In addition to keeping the
-community informed about the work, the pair hoped to pass on what they have learned
-to encourage others to help raise funds for development as well.</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://www.phoronix.com/news/Redox-OS-August-2026" target="_blank">Redox OS Adds IO_uring-Like API, NUMA &amp; Gets QEMU Working</a></h2>
-                    <div class="meta">
-                        Sep 25, 2026 15:51 | 
-                        Source: <a href="https://www.phoronix.com/" target="_blank">phoronix.com</a>
-                    </div>
-                    
-                    <p>The Redox OS open-source, Rust-based operating system has seen a lot of activity in recent weeks with many notable improvements landing...</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://lwn.net/Articles/1096818/" target="_blank">Two stable kernels for Friday</a></h2>
-                    <div class="meta">
-                        Sep 25, 2026 15:13 | 
-                        Source: <a href="https://lwn.net" target="_blank">lwn.net</a>
-                    </div>
-                    
-                    <p>Greg Kroah-Hartman has announced the release of the 7.2.8 and 6.18.54
-stable kernels. Each contains a number of important fixes throughout the tree;
-users are advised to upgrade.
-
-</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://lwn.net/Articles/1096819/" target="_blank">A summary from the 2026 Git Contributors&#39; Summit</a></h2>
-                    <div class="meta">
-                        Sep 25, 2026 15:12 | 
-                        Source: <a href="https://lwn.net" target="_blank">lwn.net</a>
-                    </div>
-                    
-                    <p>Johannes Schindelin has posted a detailed
-summary of the discussions held at the 2026 Git Contributors&#39; Summit.
-Topics covered include Git 3.0, security process, documentation, the
-pluggable object database, use of LLMs, and more.</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://www.phoronix.com/review/near-10-sec-kernel-build" target="_blank">Approaching A 10 Second Linux Kernel Build</a></h2>
-                    <div class="meta">
-                        Sep 25, 2026 14:46 | 
-                        Source: <a href="https://www.phoronix.com/" target="_blank">phoronix.com</a>
-                    </div>
-                    
-                    <p>The coffee window is closing. Going back many years with the time it&#39;s taken to compile the Linux kernel has been a well known opportunity for a coffee break or even eating a meal during the lengthy Linux kernel build process. Even when the Linux kernel was much smaller than it is today, with the hardware at the time it would often be a very time consuming process... Thus incredible to think that we are now on the horizon of a ten second clean, default kernel build on Linux x86_64.</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://lwn.net/Articles/1096637/" target="_blank">Security updates for Friday</a></h2>
-                    <div class="meta">
-                        Sep 25, 2026 13:17 | 
-                        Source: <a href="https://lwn.net" target="_blank">lwn.net</a>
-                    </div>
-                    
-                    <p>Security updates have been issued by AlmaLinux (kernel, kernel-rt, perl-DBI:1.641, and unbound), Debian (jq, libreoffice, openssl, and redis), Fedora (389-ds-base, bcm283x-firmware, cockpit, flatpak-builder, mingw-gdk-pixbuf, openssl3, pcs, rust-cryptoki, squid, uboot-tools, and webkitgtk), Mageia (fuse3, perl-Net-DNS, python-gitpython, python-webob, thunderbird, thunderbird-l10n, and unbound), Oracle (postgresql:12, postgresql:15, postgresql:16, and skopeo), Slackware (php), SUSE (alloy, amazon-ssm-agent, ant, apptainer, chromium, corosync, cyrus-imapd, distribution, exiv2, ffmpeg-7, freeipmi, gdb, gnome-remote-desktop, google-osconfig-agent, govulncheck-vulndb, gvfs, hplip, ImageMagick, imagemagick, java-11-openjdk, jsoup, re2j, kernel, keybase-client, libsoup, libx11, libxrender, mcphost, memcached, opensc, perl-DBI, python-gitpython, python-weasyprint, rabbitmq-server, ruby3.4, util-linux, and zstd-jni), and Ubuntu (curl, expat, gdal, libass, libpcap, linux, linux-aws, linux-aws-7.0, linux-hwe-7.0, linux-ibm, linux-oracle, linux-raspi, linux-realtime, linux, linux-azure, linux-azure-6.8, linux-azure-fde, linux-azure-fde-6.8, linux-azure-fips, linux-fips, linux-gcp, linux-gcp-6.8, linux-gcp-fips, linux-gke, linux-gkeop, linux-ibm, linux-lowlatency, linux-lowlatency-hwe-6.8, linux-oracle, linux-oracle-6.8, linux-raspi, linux-raspi-realtime, linux-realtime, linux-realtime-6.8, linux, linux-hwe, linux-kvm, linux-aws, linux-aws-fips, linux-azure, linux-azure-fde, linux-azure-fips, linux-gcp, linux-gcp-fips, linux-gke, linux-gkeop, linux-hwe-5.15, linux-ibm, linux-intel-iot-realtime, linux-intel-iotg, linux-kvm, linux-lowlatency, linux-lowlatency-hwe-5.15, linux-oracle, linux-realtime, linux-xilinx-zynqmp, linux-aws, linux-gcp, linux-gcp-4.15, linux-gcp-fips, linux-aws-fips, linux-ibm-5.15, linux-intel-iotg-5.15, octavia, and swift).</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://hardware.slashdot.org/story/26/09/25/0554208/raspberry-pi-stock-jumps-30-as-demand-surges-and-boards-now-locked-to-their-original-ram-size?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" target="_blank">Raspberry Pi Stock Jumps 30% as Demand Surges. (And Boards Now Locked to Their Original RAM Size)</a></h2>
-                    <div class="meta">
-                        Sep 25, 2026 13:04 | 
-                        Source: <a href="https://slashdot.org/" target="_blank">slashdot.org</a>
-                    </div>
-                    
-                    <img src="https://a.fsdn.com/sd/twitter_icon_large.png">
-                    
-                    <p>Raspberry Pi&#39;s stock shot up over 30% in the last week. Why are investors so excited? For the six months ending June 30, revenue for Raspberry Pi Holdings &#34;jumped 90% to $256.9 million,&#34; reports Investing.com, &#34;while adjusted EBITDA more than doubled to $40.3 million, and profit before tax leapt 216% to $19.6 million.&#34;
-
-
-Underpinning the strong numbers was an acceleration in OEM adoption: direct unit shipments rose 26% to 3.4 million, total unit shipments climbed 17% to 4.2 million, and the customer order backlog doubled during the half to 2.6 million units. Demand was particularly robust in the Smart Home and Aerospace and Defence segments, and the company launched the AI HAT&#43; 2 for Raspberry Pi 5, extending its edge-AI product line.
- 
-
-DRAM prices have been increasing everywhere,
-notes The Times of London, and Raspberry Pi co-founder Eben Upton &#34;said new customers, who required computers or microcontrollers to manufacture other technologies, were choosing Raspberry Pi&#39;s computers because they had a better inventory of components than competitors.&#34;
-
-&#34;There&#39;s always that choice for an original equipment manufacturer as to whether they should &#39;make&#39; or &#39;buy&#39; the computer elements of their platforms,&#34; Upton said. &#34;The supply chain disruption is making &#39;make&#39; a much harder choice and it&#39;s making the cost of repair a much harder choice. So we&#39;re seeing strength there.&#34; Raspberry Pi has already increased its suppliers of Dram more than threefold... 
-
-Upton said the increased demand had led to its backlog for units doubling to 2.6 million, which meant production rates would need to increase to prevent the numbers from getting &#34;unhealthy&#34;. New production capacity at the manufacturing facility in Pencoed, Wales was expected to come online this week... Exports were almost evenly split between North America, Europe and the rest of the world, which was primarily China, where demand was growing... Analysts at Peel Hunt said the company was &#34;well positioned for rapid growth in unit shipments in 2027 and beyond&#34; with demand expected from enthusiasts as well as the AI and security sectors. 
-
-In other news, Hackaday notes the Raspberry Pi Foundation has &#34;pushed binary-blob bootloader changes that limit your ability to upgrade RAM...&#34;
-
-This change restricts upgrading the RAM chip on your Pi 4 and Pi 5, as well as Compute Modules. By the looks of it, it does not restrict replacing the RAM chip with a chip of a similar size, quote, &#34;locking devices to their original RAM size&#34;. As such, this does not prevent repair of your Raspberry Pi board, but does somewhat limit your repair part choice, at most. 
-
-This restriction is easily bypassable. The bootloader is stored in the SPI flash chip, which can be reflashed using the built-in mask ROM over USB and rpiboot, and you are not prevented from flashing older versions of the bootloader, so far. This means even if you manually swap the RAM chip, all you need to do is to also downgrade the bootloader to the last known good release — 2024-09-10 — and then your Pi board or Compute Module will function with upgraded RAM. If you have the skills to upgrade your RAM, you most certainly have the skills to downgrade the Raspberry Pi bootloader. For most regular use, having a two-year old bootloader version won&#39;t really matter... 
-
-For the reference, this bootloader change happened almost exactly two years ago, at some point between September 10 and September 23, 2024... The Raspberry Pi Foundation (RPF) justifies this as follows: they saw third-party resellers sourcing low-RAM Compute Modules, upgrading them with RAM from unknown source and unknown stability. My observation is that they&#39;d also be reselling the modules at a markup for purely commercial gain, while undercutting RPF who would otherwise direct that money into RnD, something I much enjoy to see them do. This creates perverse incentives and risk for people buying Raspberry Pi boards online, and RPF decided to limit this primarily for their users&#39; benefit, plus, if you ask me, some of theirs... The related GitHub issues have a fair few pingbacks, and exploring them makes the problem look grim to me.... 
-
-My advice: don&#39;t lament Raspberry Pi RAM upgrades, especially given they&#39;re only slightly harder to perform now. Very few hackers ever performed them, the main audience for them turned out to be dodgy hardware resellers online, and in most cases, repair doesn&#39;t seem to be impeded at all, either. Think of the users that will no longer be fooled by a shady seller on Amazon, especially now that the perverse incentives for board mods and reusing harvested RAM chips are at their highest. 
-
-
-Raspberry Pi co-founder Eben Upton answered questions from Slashdot readers in 2011 and 2016.
-
-
-
-
-
-Read more of this story at Slashdot.</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://lxer.com/module/newswire/ext_link.php?rid=367710" target="_blank">Installing Navidrome on Fedora Linux using Podman</a></h2>
-                    <div class="meta">
-                        Sep 25, 2026 12:20 | 
-                        Source: <a href="https://lxer.com/" target="_blank">lxer.com</a>
-                    </div>
-                    
-                    <p>Navidrome is an open-source music server that lets you stream your personal audio collection anywhere. It gives you freedom to listen to your music collection from any browser or mobile device. It’s like your personal Spotify! In this guide, we will explore how to get Navidrome up and running securely using Podman on Fedora Linux. […]</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://feed.itsfoss.com/link/24361/17473313/netherlands-dawo-initiative" target="_blank">The Netherlands Built a Nix-Based Linux Desktop Because Microsoft Cut Off the ICC</a></h2>
-                    <div class="meta">
-                        Sep 25, 2026 11:38 | 
-                        Source: <a href="https://itsfoss.com/" target="_blank">itsfoss.com</a>
-                    </div>
-                    
-                    <img src="https://itsfoss.com/content/images/2026/09/netherlands-dawo-banner.png">
-                    
-                    <p>Eight municipalities are already testing DAWO, the government&#39;s NixOS-powered work environment.</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://www.phoronix.com/news/NVMe-Apple-M3-Linux-Patches" target="_blank">Patches Posted For Enabling NVMe On All Apple M3 Based SoCs With Linux</a></h2>
-                    <div class="meta">
-                        Sep 25, 2026 10:27 | 
-                        Source: <a href="https://www.phoronix.com/" target="_blank">phoronix.com</a>
-                    </div>
-                    
-                    <p>While Linux 7.2 brought initial Apple M3 support and Linux 7.3 brought M3 Pro / Max / Ultra support, the mainline Linux kernel support for the M3 series hardware remains very basic and not yet ready for daily driving. But more work continues to be upstreamed and today the patches were posted for getting NVMe storage up and running across all Apple M3 hardware...</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://www.phoronix.com/news/AMDGPU-HDMI-2.1-Reliability" target="_blank">AMD Sends Out New Linux Patches Further Enhancing HDMI 2.1 Reliability</a></h2>
-                    <div class="meta">
-                        Sep 25, 2026 10:12 | 
-                        Source: <a href="https://www.phoronix.com/" target="_blank">phoronix.com</a>
-                    </div>
-                    
-                    <p>Linux 7.4 is going to be the big kernel release where the AMD graphics driver will finally expose HDMI 2.1 by default and comes with features including HDMI FreeSync, VRR, and ALLM. Ahead of that milestone there have been various other last minute tweaks and improvements to its HDMI 2.1 support. Sent out on Thursday was the latest round of AMDGPU DC patches that includes a few more patches for improving the HDMI 2.1 reliability...</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://www.phoronix.com/news/Autumn-2026-Special-Final-Call" target="_blank">Last Call For The Autumn Special For Ad-Free Viewing &amp; Supporting Linux Hardware Testing</a></h2>
-                    <div class="meta">
-                        Sep 25, 2026 10:00 | 
-                        Source: <a href="https://www.phoronix.com/" target="_blank">phoronix.com</a>
-                    </div>
-                    
-                    <p>Last call for the Phoronix autumn &#34;Oktoberfest&#34; Premium sale: it runs through end of day Sunday, 27 September (any timezone - I&#39;m not particularly strict). If you have been meaning to support the site, this is the window...</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://www.phoronix.com/news/Go-SIMD-2026" target="_blank">Go&#39;s Improving SIMD Support, Platform-Independent SIMD Interface</a></h2>
-                    <div class="meta">
-                        Sep 25, 2026 09:50 | 
-                        Source: <a href="https://www.phoronix.com/" target="_blank">phoronix.com</a>
-                    </div>
-                    
-                    <p>A new blog post published on Thursday covers the experimental support for SIMD with the Go programming language. This expanding Go SIMD support also includes a platform-independent API for  making use of SIMD with modern processors...</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://www.phoronix.com/news/Samba-4.25-Released" target="_blank">Samba 4.25 Released With Experimental SMB3 Persistent Handles</a></h2>
-                    <div class="meta">
-                        Sep 25, 2026 09:38 | 
-                        Source: <a href="https://www.phoronix.com/" target="_blank">phoronix.com</a>
-                    </div>
-                    
-                    <p>Samba 4.25 is out as the newest stable release for this open-source software enabling file and print services sharing between Linux servers and Windows systems...</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://news.slashdot.org/story/26/09/25/0344225/f-droid-20-foss-android-appstore-continues-updating-despite-googles-pending-developer-verification-plan?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" target="_blank">F-Droid 2.0: FOSS Android Appstore Continues Updating Despite Google&#39;s Pending &#39;Developer Verification&#39; Plan</a></h2>
-                    <div class="meta">
-                        Sep 25, 2026 08:34 | 
-                        Source: <a href="https://slashdot.org/" target="_blank">slashdot.org</a>
-                    </div>
-                    
-                    <img src="https://a.fsdn.com/sd/twitter_icon_large.png">
-                    
-                    <p>&#34;F-Droid, a third-party app repository that only distributes free and open-source software packages for Google&#39;s Android mobile platform, on Thursday announced version 2.0 of its Android app,&#34; reports The Register. 
-
-Though they also note &#34;a big banner across the top of the F-Droid site&#34; pointing to a site describing pending changes from Google that threaten the future of F-Droid...
-
-[D]evelopers who want their apps broadly distributed outside the official Google Play Store will need to register with Google and verify their identities. Google&#39;s Full Distribution option includes paying a one-time $25 fee, handing over a copy of a government-issued ID to verify one&#39;s identity, and conforming to Google&#39;s terms of service. Google also offers a free Limited Distribution option that doesn&#39;t require government ID verification but restricts distribution to 20 authorized devices, while apps from unverified developers can still be installed by users who enable Android&#39;s advanced installation flow. 
-
-The potential death warrant hanging over its head hasn&#39;t stopped the F-Droid team from rolling out a bunch of new features for an app it says it intends to keep working on for years to come... The team also credited the EU&#39;s many Digital Markets Act decisions against Google for making the installation experience smoother for users. F-Droid can now use a unified installation service for its apps thanks to the availability of a pre-approval API that allows users to approve an installation when they request it, rather than waiting until the app has finished downloading. That, said the F-Droid team, &#34;brings the F-Droid install experience on official Android devices much closer to what the built-in app store can provide.&#34; Additionally, F-Droid 2.0 can fetch and install app updates automatically, which it now does by default. 
-
-All of those changes, however, won&#39;t matter much if Google pushes ahead undeterred with its plans to force registration onto non-Play Store developers. F-Droid&#39;s announcement on Thursday makes it seem that the team isn&#39;t going to go quietly. 
-F-Droid has gone 10 years without a major update, notes Ars Technica — and spent over a year developing F-Droid 2.0:
-The new F-Droid client was redesigned from scratch in Kotlin Compose, which is the standard for modern Android apps. This makes the store much more responsive, and there&#39;s optional support for Android&#39;s Material theming. The interface has also been cleaned up considerably, making the most important functions easier to access and hiding some others in overflow menus... Unlike the Play Store, F-Droid doesn&#39;t track your taps and installs to push ads and suggestions — it helps you find things and gets out of the way. 
-F-Droid now includes a huge number of categories, drilling down to specialized niches like firewalls, password managers, and VPNs. You can see all these groups in the search tab. There are also higher-level categories listed on the main Discover page. When searching for apps, F-Droid will now be able to return results based on app descriptions rather than just names. 
-
-&#34;One of the goals of the rewrite was to lower the barrier for new contributors,&#34; F-Droid said in their announcement. &#34;We are excited to begin rolling out F-Droid 2.0 to users over the coming weeks after 14 test releases.&#34; (And if you want the 2.0 release right now, it&#39;s available on the versions page.)
-
-
-
-
-
-Read more of this story at Slashdot.</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://lxer.com/module/newswire/ext_link.php?rid=367680" target="_blank">16-TOPS AI SBC with SATA 3.0 runs on octa-core Sophgo BM1688</a></h2>
-                    <div class="meta">
-                        Sep 25, 2026 08:13 | 
-                        Source: <a href="https://lxer.com/" target="_blank">lxer.com</a>
-                    </div>
-                    
-                    <p>Orange Pi has published hardware details for the OrangePi O1, a 90 × 70mm SBC based on the Sophgo BM1688 processor. It pairs eight Arm Cortex-A53 cores with a RISC-V C906 coprocessor and a 16-TOPS INT8 TPU, along with up to 16GB of LPDDR4/LPDDR4X memory. The BM1688 integrates eight Arm Cortex-A53 cores operating at up […]</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://www.gamingonlinux.com/2026/09/get-some-spooky-games-god-games-and-more-across-some-great-humble-bundles/" target="_blank">Get some spooky games, god games and more across some great Humble Bundles</a></h2>
-                    <div class="meta">
-                        Sep 25, 2026 08:11 | 
-                        Source: <a href="https://www.gamingonlinux.com/" target="_blank">gamingonlinux.com</a>
-                    </div>
-                    
-                    <img src="https://www.gamingonlinux.com/uploads/articles/tagline_images/1748007922id29843gol.webp">
-                    
-                    <p>Humble Bundle have recently launched multiple new interesting game bundles, giving you some great picks across different genres.Read the full article on GamingOnLinux.</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://feed.itsfoss.com/link/24361/17473150/vicharak-axon-lite" target="_blank">This Tiny SBC Lets You Swap Interface Modules for Voice, Vision or Sensing</a></h2>
-                    <div class="meta">
-                        Sep 25, 2026 07:32 | 
-                        Source: <a href="https://itsfoss.com/" target="_blank">itsfoss.com</a>
-                    </div>
-                    
-                    <img src="https://itsfoss.com/content/images/2026/09/axion-lite-1-.webp">
-                    
-                    <p>Vicharak&#39;s Axon-Lite packs a Rockchip RK3576, a 6 TOPS NPU and swappable modules into a tiny SBC.</p>
                 </article>
                 
             </div>
