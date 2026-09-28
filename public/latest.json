@@ -1,5 +1,383 @@
 [
   {
+    "title": "Meta Taps MongoDB CEO Desai to Drive Enterprise AI Push",
+    "link": "https://developers.slashdot.org/story/26/09/28/1743253/meta-taps-mongodb-ceo-desai-to-drive-enterprise-ai-push?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Meta has hired MongoDB CEO Chirantan \"CJ\" Desai to lead a new enterprise AI business aimed at turning Meta's models, agents and tools into products companies can deploy themselves. Reuters reports: Desai, a veteran technology executive, took over the role from Dev Ittycheria. MongoDB has appointed Ittycheria as interim CEO as it searches for a permanent replacement. \"While the departure is disappointing, we believe MongoDB remains well-positioned strategically and view the share-price reaction as overdone,\" brokerage Piper Sandler said in a note.\n \n[...] Desai will directly report to Meta CEO Mark Zuckerberg in the newly created role of chief enterprise platform officer and will focus on turning the company's AI stack into products and services that companies can deploy for their own businesses. Before joining MongoDB, Desai led product and engineering at Cloudflare and spent nearly eight years at ServiceNow, including as president and chief operating officer.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Sep 28, 2026 19:00",
+    "published_at": "2026-09-28T19:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Dutch Government Ditches Windows for NixOS, Following France's Lead",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367734",
+    "description": "The Dutch government is building DAWO, a NixOS based replacement for Windows and Office, following similar moves already underway in France and Denmark.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367734",
+    "date": "Sep 28, 2026 18:41",
+    "published_at": "2026-09-28T18:41:14Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Nvidia Unveils AI Agent Safety Platform With Hardware-Based Watchdog",
+    "link": "https://it.slashdot.org/story/26/09/28/150209/nvidia-unveils-ai-agent-safety-platform-with-hardware-based-watchdog?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "wiredmikey shares a report from SecurityWeek: Nvidia on Monday announced the Open Agent Safety Platform, which combines open source software and a reference system design to keep AI agents within set boundaries from testing through deployment. The chipmaker explained that the platform pairs the open-source OpenShell runtime with Sentry, an out-of-band watchdog running on BlueField-4 DPUs. Nvidia says Sentry can monitor agent activity independently and quarantine an agent that crosses its boundaries within milliseconds.\n \nNvidia is pitching the platform against a backdrop of recent incidents in which frontier AI labs have reported agents escaping the evaluation environments meant to contain them, reaching systems they should not have accessed and, in some cases, misreporting what they did. OpenShell and related skills are available via Nvidia's developer resources page and on GitHub.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Sep 28, 2026 18:00",
+    "published_at": "2026-09-28T18:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Git v2.56.0 released",
+    "link": "https://lwn.net/Articles/1097213/",
+    "description": "Version 2.56 of the Git distributed\nversion-control system has been released.  It has 748 non-merge commits\nsince Git 2.55 was released back in\nJune; those commits came from 104 developers, 39 of whom are first-time\ncontributors.  New features include a safer workflow for conflict\nresolution, smaller path-walk repacks, a new git history drop\nsub-command, and much more.  LWN looked at Git\n2.56 recently and the GitHub blog has a lengthy\nlook at 2.56 as well.",
+    "guid": "https://lwn.net/Articles/1097213/",
+    "date": "Sep 28, 2026 17:33",
+    "published_at": "2026-09-28T17:33:58Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "Amazon Evaluating Drone Deliveries In Australia, Asia",
+    "link": "https://tech.slashdot.org/story/26/09/28/0626202/amazon-evaluating-drone-deliveries-in-australia-asia?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Amazon is preparing to expand Prime Air drone deliveries into Australia and potentially other Asia-Pacific markets, with a new regulatory role tasked with securing the approvals needed to launch service there. The Register reports: \"As Prime Air evaluates Australia and other countries, we are hiring a Head of Regulatory Approvals, Australia -- the person responsible for navigating Australia's aviation regulatory system and securing every approval required to deliver to Australian customers by drone,\" reads a recently published job ad.\n \nWhoever gets the gig in Australia will report to someone who holds the title \"Leader, Prime Air Expansion -- Asia Pacific.\" Whoever gets the job \"will be measured by the approvals you obtain, the timelines you hit, and -- ultimately -- Australian customers receiving drone deliveries.\" That wording suggests Amazon intends to operate Prime Air in Australia and is doing rather more than market evaluations.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Sep 28, 2026 17:00",
+    "published_at": "2026-09-28T17:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Fedora 45 To Feature Smoother Experience For Snapdragon X1 Laptops",
+    "link": "https://www.phoronix.com/news/Fedora-45-Snapdragon-X1",
+    "description": "Qualcomm hiring one of Red Hat's top x86_64 Linux laptop experts last year, Hans de Goede, is indeed having a positive benefit on enhancing the Fedora Linux support for Qualcomm Snapdragon X powered hardware...",
+    "guid": "https://www.phoronix.com/news/Fedora-45-Snapdragon-X1",
+    "date": "Sep 28, 2026 16:07",
+    "published_at": "2026-09-28T16:07:16Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Bill Gates Says an AI 'Kill Switch' Isn't Enough",
+    "link": "https://slashdot.org/story/26/09/28/0615249/bill-gates-says-an-ai-kill-switch-isnt-enough?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Bill Gates said an AI \"kill switch\" alone would be insufficient to address the technology's risks. \"The kill switch is, that's kind of a weird thing. It's not enough to have a kill switch,\" the Microsoft co-founder said in an interview that aired Sunday on NBC's \"Meet the Press.\" He said the more immediate concern is people using AI for cyberattacks or bioterrorism rather than systems acting autonomously. \"We're not yet at the point where they autonomously grab computers and, you know, can't be shut down,\" he said, adding that the public discussion \"just sort of shows how nontechnical various people are.\" Politico reports: Gates said he was not opposed to a kill switch but argued that companies should monitor sophisticated AI models and keep records of \"exactly what's being done\" to help guard against people using the systems for cyberattacks or bioterrorism. \"The United States ought to make sure this is done. China will want to do this,\" he continued.\n \n[...] Gates also called for legislation requiring safeguards and monitoring, saying voluntary measures by AI companies were insufficient. \"No one thinks self-regulation is enough,\" he said. He argued that the more immediate danger was people using AI to cause harm rather than AI systems acting on their own. \"The thing that's urgent has to do with bad people using AI, not the AI going off on its own,\" he added.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Sep 28, 2026 16:00",
+    "published_at": "2026-09-28T16:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "F-Droid 2.0 Android App Store Launches With New UI, Improved Search",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367771",
+    "description": "F-Droid 2.0 brings a redesigned Android app store experience with a new UI, improved search and filtering, background updates, and smoother app installs.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367771",
+    "date": "Sep 28, 2026 15:38",
+    "published_at": "2026-09-28T15:38:15Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "SpaceX Launches Starship Into Orbit",
+    "link": "https://science.slashdot.org/story/26/09/28/1513251/spacex-launches-starship-into-orbit?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "SpaceX's Starship reached orbit for the first time, successfully deploying 26 operational Starlink V3 satellites after overcoming an early Raptor 3 engine shutdown during ascent. \"SpaceX plans to eventually deploy 100,000 upgraded Starlink V3s to expand the company's wireless satellite internet services,\" notes Space.com. Here's the latest update from the report: \nSpaceX has decided to return Starship from orbit earlier than expected. After valuating the upper stage Ship's status during its first orbital checkpoint, SpaceX technicians have decided to return the spacecraft to Earth earlier than expected. Rather than spending another 7.5 hours on orbit, Ship 41 will perform its deorbit burn at approximately 11 a.m. EDT (1500 GMT), with splashdown in the Northern Pacific. You can watch a recorded livestream of the launch on X.\n \nDeveloping...\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Sep 28, 2026 15:20",
+    "published_at": "2026-09-28T15:20:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "[$] Reducing undefined behavior in the C language",
+    "link": "https://lwn.net/Articles/1095811/",
+    "description": "As a professor of biomedical engineering, Martin Uecker perhaps does not\nfit the profile of a typical presenter at Kernel Recipes.  He is,\nhowever, a longtime Linux user, and works on free software for controlling\nmagnetic resonance imaging (MRI) scanners.  He was at the conference to\ntalk about the C programming language, the specific problem of undefined\nbehavior in C, and whether it can eventually be made into a memory-safe\nlanguage.",
+    "guid": "https://lwn.net/Articles/1095811/",
+    "date": "Sep 28, 2026 15:16",
+    "published_at": "2026-09-28T15:16:22Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "Security updates for Monday",
+    "link": "https://lwn.net/Articles/1097191/",
+    "description": "Security updates have been issued by AlmaLinux (firefox, ipa, kernel, libxml2, perl-DBI, python-cryptography, thunderbird, and unbound), Debian (chromium, evolution-data-server, exim4, ghostscript, incus, lemonldap-ng, libheif, nodejs, php8.4, ruby-oj, swift, and vlc), Fedora (chromium, cinnamon, cinnamon-desktop, cinnamon-session, cinnamon-settings-daemon, ckermit, dnf5, forgejo, goose, gssntlmssp, libheif, libpcap, librsvg2, mingw-gstreamer1, mingw-gstreamer1-plugins-bad-free, mingw-gstreamer1-plugins-base, mingw-gstreamer1-plugins-good, mingw-python3, mongo-c-driver, muffin, nemo, nemo-extensions, nextcloud, pgadmin4, postgresql16-postgis, postgresql17-postgis, postgresql18-postgis, rust-librsvg, rust-xml5ever, sipp, suricata, tesseract, and xreader), Mageia (erlang, gpsd, libreswan, python3 \u0026 python-pip, and udisks2), Oracle (abrt, buildah, cockpit-image-builder, corosync, ipa, kernel, libxml2, openexr, perl-DBI, perl-DBI:1.641, postgresql, thunderbird, unbound, and yelp), SUSE (389-ds, ansible-lint, cups, firefox, flatpak-builder, forgejo-longterm, gdb, gimp, gitoxide, glib2, gnome-shell, google-guest-agent, google-osconfig-agent, haveged, helm, ImageMagick, kbd, libsoup, libtpms, obs-service-cargo, openai-codex, opensuse-signkey-cert, osmo-iuh, perl-mojolicious, poppler, python-WebOb, python-WebOb-doc, python313-vllm, python314, sdbootutil, suseconnect-ng, and swtpm), and Ubuntu (exim4, freerdp3, libvirt, libvirt-hwe, libwebsockets, lxc, pyjwt, and requests).",
+    "guid": "https://lwn.net/Articles/1097191/",
+    "date": "Sep 28, 2026 15:08",
+    "published_at": "2026-09-28T15:08:05Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "Walmart Says It's Not Using Personal Info To Set Prices As It Expands Digital Shelf Labels",
+    "link": "https://news.slashdot.org/story/26/09/28/060245/walmart-says-its-not-using-personal-info-to-set-prices-as-it-expands-digital-shelf-labels?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from the Associated Press: Walmart is aiming to assuage customers' fears about its new pricing technology as it rolls out digital price labels at its stores. In a statement posted on the company's website, Walmart's CEO John Furner vowed that the Bentonville, Arkansas-based retailer isn't using personal information like income, shopping history or a customer's willingness to pay to set prices, and it won't be doing so in the future either. \"We don't set different prices based on who you are or the time of day, and we won't,\" Furner wrote Friday. \"Whether you're buying groceries or electronics on a hot afternoon or in a sudden rush for an item, it's never a reason to charge you more.\"\n \nThe pledge from Walmart comes as concerns are mounting from some shoppers, consumer advocates and lawmakers skeptical about the rollout of digital price labels by the discounter and other stores. Digital price labels are rapidly replacing paper shelf tags at U.S. supermarkets and let stores change prices instantly from a central computer instead of having workers swap out paper labels by hand. [...] Walmart said in March that 2,300 Walmart U.S. locations already use digital shelves, and it expects this technology to be chain-wide within the next year.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Sep 28, 2026 15:00",
+    "published_at": "2026-09-28T15:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Firefox 157 Now Available With Visual Refresh, WebRTC Hardware AV1 Decode",
+    "link": "https://www.phoronix.com/news/Firefox-157-Released",
+    "description": "As part of the Mozilla Firefox bi-weekly release regiment, the Firefox 157 binaries are now available for this open-source web browser...",
+    "guid": "https://www.phoronix.com/news/Firefox-157-Released",
+    "date": "Sep 28, 2026 14:46",
+    "published_at": "2026-09-28T14:46:28Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "postmarketOS is No More, At Least Under That Name",
+    "link": "https://feed.itsfoss.com/link/24361/17476371/postmarketos-nura-rebranding",
+    "description": "It took the project 1.5 years before settling on 'Nura' as its new identity.",
+    "guid": "6aba2e9f2f4ed50001739ba9",
+    "date": "Sep 28, 2026 13:45",
+    "published_at": "2026-09-28T13:45:56Z",
+    "image": "https://itsfoss.com/content/images/2026/09/postmarketos-nura-rebrand-banner.png",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "Space bullet heaven roguelike Sublight is full of chaotic battles",
+    "link": "https://www.gamingonlinux.com/2026/09/space-bullet-heaven-roguelike-sublight-is-full-of-chaotic-battles/",
+    "description": "Sublight is a new Early Access release from CODEBREW SOFTWARE LTD, bringing survivor-likes into the space age. I took a look to see what I thought.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/space-bullet-heaven-roguelike-sublight-is-full-of-chaotic-battles/",
+    "date": "Sep 28, 2026 13:37",
+    "published_at": "2026-09-28T13:37:32Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/981276512id29856gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Flatpak 1.18.4 Released With Important Security Fixes",
+    "link": "https://www.phoronix.com/news/Flatpak-1.18.4-Released",
+    "description": "Flatpak 1.18.4 is out today with a number of high profile security fixes for this app sandboxing and distribution tech...",
+    "guid": "https://www.phoronix.com/news/Flatpak-1.18.4-Released",
+    "date": "Sep 28, 2026 13:20",
+    "published_at": "2026-09-28T13:20:24Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "NVIDIA Vera SMT Performance Benchmarks",
+    "link": "https://www.phoronix.com/review/nvidia-vera-smt",
+    "description": "Recently I was provided remote access to a NVIDIA Vera server with the dual socket Vera CPU Superchip providing 176 Olympus cores plus with NVIDIA's Spatial Multithreading \"SMT\" implementation providing 352 total threads. With this benchmarking was free rein for testing, including CPU power and frequency monitoring. Over the next few weeks will be a number of articles looking at different areas of NVIDIA Vera performance. One of the areas I was most eager to test was looking at Vera's Spatial Multithreading. Here is a first look at the impact of NVIDIA Vera SMT.",
+    "guid": "https://www.phoronix.com/review/nvidia-vera-smt",
+    "date": "Sep 28, 2026 12:54",
+    "published_at": "2026-09-28T12:54:23Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "9to5Linux Weekly Roundup: September 27th, 2026",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367758",
+    "description": "The 311th installment of the 9to5Linux Weekly Roundup is here for the week ending September 27th, 2026, keeping you updated on the most important developments in the Linux world.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367758",
+    "date": "Sep 28, 2026 11:36",
+    "published_at": "2026-09-28T11:36:16Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "AMD PerfOpt To Deliver New Performance Optimization For AMD iGPUs With Linux 7.4",
+    "link": "https://www.phoronix.com/news/AMD-PerfOpt-Linux-7.4",
+    "description": "Those using AMD integrated graphics on Linux such as the beefy Ryzen AI Max+ Strix Halo and Gorgon Halo hardware will be able to enjoy even better performance with the upcoming Linux 7.4 kernel...",
+    "guid": "https://www.phoronix.com/news/AMD-PerfOpt-Linux-7.4",
+    "date": "Sep 28, 2026 11:26",
+    "published_at": "2026-09-28T11:26:08Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "GhostBSD is Replacing MATE With a New Desktop Named After a Typo",
+    "link": "https://feed.itsfoss.com/link/24361/17476197/ghostbsd-new-desktop",
+    "description": "Eric Turgeon has shown off a new desktop environment that would ship with custom components in GhostBSD.",
+    "guid": "6ab9f2022f4ed500017399e3",
+    "date": "Sep 28, 2026 10:28",
+    "published_at": "2026-09-28T10:28:12Z",
+    "image": "https://itsfoss.com/content/images/2026/09/ghostbsd-new-de.webp",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "openSUSE Leap 16.1 RC Released With New Immutable Mode",
+    "link": "https://www.phoronix.com/news/openSUSE-Leap-16.1-RC",
+    "description": "The release candidate phase has begun for the upcoming openSUSE Leap 16.1 in-step with SUSE Linux Enterprise Server 16.1. Most notable with the openSUSE Leap 16.1 is the introduction of its new immutable mode...",
+    "guid": "https://www.phoronix.com/news/openSUSE-Leap-16.1-RC",
+    "date": "Sep 28, 2026 10:20",
+    "published_at": "2026-09-28T10:20:22Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Linux 7.4 To Introduce The Steal Governor For Helping Virtualized Workloads",
+    "link": "https://www.phoronix.com/news/Linux-7.4-Land-Steal-Governor",
+    "description": "Now queued up for introduction in the Linux 7.4 merge window later in October is the steal governor driver for preferred CPUs and steal-driven vCPU backoff for today's virtualized world...",
+    "guid": "https://www.phoronix.com/news/Linux-7.4-Land-Steal-Governor",
+    "date": "Sep 28, 2026 10:12",
+    "published_at": "2026-09-28T10:12:53Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Legacy Code is a bizarre looking mechanical creature action-physics sim",
+    "link": "https://www.gamingonlinux.com/2026/09/legacy-code-is-a-bizarre-looking-mechanical-creature-action-physics-sim/",
+    "description": "Legacy Code is one of the more quirky games to enter the GamingOnLinux inbox recently, where you build up a mechanical creature in a action-physics sim.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/legacy-code-is-a-bizarre-looking-mechanical-creature-action-physics-sim/",
+    "date": "Sep 28, 2026 10:06",
+    "published_at": "2026-09-28T10:06:19Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1652737527id29854gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Apprise 2.0 Notification Tool Released With Smarter Retries and Async Support",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367749",
+    "description": "Apprise 2.0 arrives with notification escalation, smarter retries, parallel delivery, native async support, and major internal changes.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367749",
+    "date": "Sep 28, 2026 10:04",
+    "published_at": "2026-09-28T10:04:46Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Minecraft LIVE Fall 2026 reveals a new dimension for Minecraft called The Sift",
+    "link": "https://www.gamingonlinux.com/2026/09/minecraft-live-fall-2026-reveals-a-new-dimension-for-minecraft-called-the-sift/",
+    "description": "The first new Minecraft dimension in over 14 years – joining the Overworld, the Nether and the End is The Sift.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/minecraft-live-fall-2026-reveals-a-new-dimension-for-minecraft-called-the-sift/",
+    "date": "Sep 28, 2026 09:53",
+    "published_at": "2026-09-28T09:53:17Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1612069860id29853gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Shotcut 26.9 Video Editor Brings UI Improvements, Automatic Audio Ducking",
+    "link": "https://www.phoronix.com/news/Shotcut-26.9",
+    "description": "Following the earlier Shotcut 26.9 beta at the beginning of September, the open-source developers behind the open-source non-linear video editor are out with the Shotcut 26.9 stable release...",
+    "guid": "https://www.phoronix.com/news/Shotcut-26.9",
+    "date": "Sep 28, 2026 09:44",
+    "published_at": "2026-09-28T09:44:50Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "King in the Mountain is like if Dwarf Fortress was a mini casual incremental",
+    "link": "https://www.gamingonlinux.com/2026/09/king-in-the-mountain-is-like-if-dwarf-fortress-was-a-mini-casual-incremental/",
+    "description": "Time for you to check out King in the Mountain if you like casual incremental games, with a demo available that works great on Linux systems.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/king-in-the-mountain-is-like-if-dwarf-fortress-was-a-mini-casual-incremental/",
+    "date": "Sep 28, 2026 09:38",
+    "published_at": "2026-09-28T09:38:25Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1851219401id29852gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Are AI Chatbots Spreading Misinformation to US Voters?",
+    "link": "https://politics.slashdot.org/story/26/09/26/2358224/are-ai-chatbots-spreading-misinformation-to-us-voters?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Are AI chatbots quietly shaping the perceptions of U.S. voters? Voters trying to educate themselves about candidates \"are unknowingly being served partisan talking points in the guise of neutral news summaries,\" write two news researchers in Politico magazine:\n\nLeading AI chatbots cite partisan websites masquerading as independent local news outlets nearly half of the time when people ask about candidates and issues that the partisan sites have covered in the midterm campaign, according to a new audit by NewsGuard, an organization focused on news reliability where we work as analysts... NewsGuard prompted seven leading AI tools with queries based on recent coverage of candidates and issues by 12 pink slime sites — six left-leaning and six right-leaning. The results were stark. Collectively, the chatbots cited pink slime sites along with other sources in 48.2 percent of their responses. \n\nIn 7.7 percent of responses, pink slime sites were the only sources at all that were cited in chatbot responses, although other sources appeared in the source list provided at the end of the response. \n\nNone of the AI tools received results they'd probably be eager to boast about, though the percentage of chatbots' responses that cited a pink slime site had a relatively large range: 70.8 percent for OpenAI's ChatGPT, 54.2 percent for Microsoft's Copilot, 54.2 percent for Perplexity, 50 percent for Anthropic's Claude, 41.7 percent for Google's Gemini; 37.5 percent for Meta AI and 29.2 percent for xAI's Grok... The seven chatbots were also collectively three times more likely to cite left-leaning pink slime sites (cited in 36.3 percent of responses) than their right-leaning counterparts (cited in 11.9 percent of responses) — though that may have more to do with the progressive sites' far more frequent posting than any political bias from the chatbots. \n\n\"While citing the pink slime sites, only one chatbot response out of 168 total queries noted the partisan nature of the source,\" the article points out. \nBut they also note that the real problem seems to be that consumer-oriented AI chatbots just \"use much of the internet's content — regardless of the reliability or standards of the source — to frame their answers.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Sep 28, 2026 08:34",
+    "published_at": "2026-09-28T08:34:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "ESP32-S3 powers EWatch smartwatch with open drivers and DIY options",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367744",
+    "description": "EWatch, developed by Ewan Wills, is a programmable ESP32-S3 smartwatch with a 1.69-inch color touchscreen, 350mAh battery, vibration feedback and USB-C connectivity. The platform is offered as a bare PCB, self-assembly kit or complete watch, following more than five years of development. The EWatch hardware is built around the ESP32-S3, with Wi-Fi and Bluetooth Low […]",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367744",
+    "date": "Sep 28, 2026 08:33",
+    "published_at": "2026-09-28T08:33:16Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "PlayStation 3 emulator RPCS3 gets a new showcase of big improvements",
+    "link": "https://www.gamingonlinux.com/2026/09/playstation-3-emulator-rpcs3-gets-a-new-showcase-of-big-improvements/",
+    "description": "RPCS3 is a multi-platform open-source Sony PlayStation 3 emulator that keeps pulling in some massive improvements - check out their new showcase.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/playstation-3-emulator-rpcs3-gets-a-new-showcase-of-big-improvements/",
+    "date": "Sep 28, 2026 07:29",
+    "published_at": "2026-09-28T07:29:20Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1875693965id29851gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Hytale Chapter 1 arrives October 12 with lots of new content",
+    "link": "https://www.gamingonlinux.com/2026/09/hytale-chapter-1-arrives-october-12-with-lots-of-new-content/",
+    "description": "Hytale is set for a huge content expansion with Chapter 1 arriving October 12th, bringing the first hand-crafted dungeon and a multi-phase boss fight.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/hytale-chapter-1-arrives-october-12-with-lots-of-new-content/",
+    "date": "Sep 28, 2026 07:14",
+    "published_at": "2026-09-28T07:14:55Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/277697739id29850gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "OpenShot 4.0.1 Video Editor Released with Timeline and Zoom Improvements",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367763",
+    "description": "OpenShot 4.0.1 is now available for download as the first maintenance update to the latest OpenShot 4.0 series of this open-source, free, and cross-platform video editing software written in Qt.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367763",
+    "date": "Sep 28, 2026 07:01",
+    "published_at": "2026-09-28T07:01:47Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "FEX code cache enabled for Proton Experimental (ARM) to improve frame timings",
+    "link": "https://www.gamingonlinux.com/2026/09/fex-code-cache-enabled-for-proton-experimental-arm-to-improve-frame-timings/",
+    "description": "Valve have upgraded Proton Experimental (ARM) with a feature that should hopefully improve some frame timings for devices like the Steam Frame.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/fex-code-cache-enabled-for-proton-experimental-arm-to-improve-frame-timings/",
+    "date": "Sep 28, 2026 06:52",
+    "published_at": "2026-09-28T06:52:41Z",
+    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/fex-logo_gol2_a0ff41f0.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Steam Beta fixes non-Steam games to failing to launch",
+    "link": "https://www.gamingonlinux.com/2026/09/steam-beta-fixes-non-steam-games-to-failing-to-launch/",
+    "description": "Now and then a fresh Steam Beta comes with issues - and for Linux, Valve recently broke non-Steam games.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/steam-beta-fixes-non-steam-games-to-failing-to-launch/",
+    "date": "Sep 28, 2026 06:41",
+    "published_at": "2026-09-28T06:41:48Z",
+    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/steam_plain_2025.jpg",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Klassik Revives the KDE 3 Desktop on Modern Plasma 6",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367756",
+    "description": "Klassik is a modern KDE Plasma 6 project recreating the look and feel of KDE 3 while supporting Wayland and fractional scaling.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367756",
+    "date": "Sep 28, 2026 05:30",
+    "published_at": "2026-09-28T05:30:17Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Apple Faces $5.7 Billion Patent Infringement Verdict Over iPhone And Apple Watch Haptics",
+    "link": "https://apple.slashdot.org/story/26/09/27/0751219/apple-faces-57-billion-patent-infringement-verdict-over-iphone-and-apple-watch-haptics?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "\"A federal jury in San Diego awarded Taction Technology more than $5.7 billion in damages Friday after finding that Apple infringed claims from two haptics patents,\"\nreports CNBC:\n\nTaction sued Apple in 2021 in the U.S. District Court for the Southern District of California. The company alleged that Apple was improperly \"capitalizing on Taction's innovation and success\" by selling devices that infringed on its vibration technology, according to the complaint. Apple initially won dismissal in 2023, and the Federal Circuit later revived the case.... \n\nTaction argued that Apple's \"Taptic Engine,\" which is embedded in its Apple Watches and iPhones, uses its inventions without proper license or authority.\n\n \n\nTaction's lead counsel told CNBC \"Taction waited five and a half years for this case to get to trial, so it was a long time coming.\" \n\nCNBC also reported that the jury \"did not find Apple's infringement willful\" — and that Apple said they'd appeal.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Sep 28, 2026 04:04",
+    "published_at": "2026-09-28T04:04:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
     "title": "Everything About /proc File System on Linux",
     "link": "https://lxer.com/module/newswire/ext_link.php?rid=367764",
     "description": "In this article, you'll learn about the proc file system (short for \"procfs\", referring to the \"/proc\" directory) and how it's useful to check the running processes related information on Linux.",
@@ -122,100 +500,5 @@
     "image": "https://cdn.mos.cms.futurecdn.net/j3i4k4NSzmSB3zYSzK3mEE-1920-80.jpg",
     "source": "tomshardware.com",
     "source_url": "https://www.tomshardware.com/software/operating-systems/linux"
-  },
-  {
-    "title": "Intel Delivers A Significant Memory Hotplugging Performance Optimization For Linux",
-    "link": "https://www.phoronix.com/news/Linux-7.4-Faster-RAM-Hotplug",
-    "description": "Adding to the features expected to land for Linux 7.4 is a significant performance optimization for the memory hotplugging speed for adding additional RAM. In particular, the memory hotplugging being most applicable for cases like expanding the amount of memory for VMs or in today's CXL world for adding additional system memory...",
-    "guid": "https://www.phoronix.com/news/Linux-7.4-Faster-RAM-Hotplug",
-    "date": "Sep 27, 2026 10:49",
-    "published_at": "2026-09-27T10:49:05Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "New Linux Patches For Supporting Lenovo ThinkPad X1 Carbon G14's Second Camera",
-    "link": "https://www.phoronix.com/news/Linux-X1-Carbon-G14-MIPI-Cam",
-    "description": "For those considering Lenovo's recently launched and beautifully crafted ThinkPad X1 Carbon Gen 14 laptop powered by Intel Core Ultra Series 3 \"Panther Lake\", one of the lingering missing features under Linux will hopefully soon be addressed: its second web camera...",
-    "guid": "https://www.phoronix.com/news/Linux-X1-Carbon-G14-MIPI-Cam",
-    "date": "Sep 27, 2026 10:33",
-    "published_at": "2026-09-27T10:33:00Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "New Patch Series Working Toward DRBD 9 Support In The Linux Kernel",
-    "link": "https://www.phoronix.com/news/Linux-Patches-Toward-DRBD-9",
-    "description": "Earlier this year developers at LINBIT began working toward a goal of upstreaming ~15 years worth of their Distributed Replicated Block Device changes into the mainline Linux kernel. That major update has yet to land but sent out this week was a new patch series in preparing the trek toward introducing DRBD 9 support in the mainline kernel...",
-    "guid": "https://www.phoronix.com/news/Linux-Patches-Toward-DRBD-9",
-    "date": "Sep 27, 2026 10:23",
-    "published_at": "2026-09-27T10:23:07Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "New Tin-based Solar Cells Trap Heat 1,000 Times Longer, Could Beat 33% Limit",
-    "link": "https://hardware.slashdot.org/story/26/09/26/0716210/new-tin-based-solar-cells-trap-heat-1000-times-longer-could-beat-33-limit?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Could this push solar cell efficiency beyond the theoretical 33% limit? Interesting Engineering reports:\n\n\nResearchers at the University of Groningen in the Netherlands found that tin-based perovskite solar cells can slow heat loss from high-energy \"hot electrons...\" \n\nWhen sunlight strikes a panel, photons jump-start electrons into action. The most energetic photons create super-charged hot electrons... [but] in fractions of a trillionth of a second, these high-energy particles rapidly cool, dumping their bonus energy as waste heat before ever leaving the solar cell... In collaboration with Maria Antonietta Loi, professor of Photophysics and Optoelectronics, the team created an experimental setup. Using a specialized solar cell material called tin-based perovskite, Loi's lab performed a feat many thought impossible: she slowed the heat loss down by a factor of 1,000. \n\nSuddenly, the extra energy lingered for nanoseconds instead of vanishing in picoseconds... To solve the puzzle, Koster and PhD student Tim Faber built digital simulations to peel back the quantum layers. And discovered a surprising double-action mechanism at work... The simulations matched the exact nanosecond delay observed in the lab... These specialized materials could be used to build a new generation of super-efficient solar cells. \n\nTin-based metal halide perovskites are non-toxic, eco-friendly crystalline materials for high-performance solar energy conversion... The material possesses an unusually low electron mass. As a result, electric charges move quickly and retain extra thermal energy for extended periods. This combination of broad light absorption, efficient charge movement, and prolonged energy retention makes these materials prime candidates for next-generation solar panels. \n\n\"There are many other questions that still need answers,\" the team said in their announcement, \"but in theory, this discovery could allow the creation of more efficient solar cells, beyond the theoretical limit of 33 percent.\" \nThanks to long-time Slashdot reader fahrbot-bot for sharing the article.\n\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Sep 27, 2026 10:04",
-    "published_at": "2026-09-27T10:04:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "China and the US Say They've Agreed to Start Talks About AI",
-    "link": "https://news.slashdot.org/story/26/09/27/0153248/china-and-the-us-say-theyve-agreed-to-start-talks-about-ai?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "The United States and China have agreed to \"launch a dialogue\" on AI, reports Reuters.\n\nOn artificial intelligence, the two sides agreed to hold a dialogue on the technology's risks and benefits, with the next round of discussions set for November, and to set up a communication channel for AI-related incidents, the Chinese Foreign Ministry and the White House said. \n\nThe White House said that the leaders had agreed to use the term \"super intelligence\" in place of \"artificial intelligence.\" In a separate statement, the Chinese ministry said that Beijing valued Washington's use of the new term. As AI technology continues to advance, the two sides should step up exchanges and work toward consensus in line with new developments, it said. \n\n\nBut CNN argues that \"Despite growing calls to prevent AI development from spiraling out of control, the Trump-Xi summit has produced little substance, as many experts expected.\"\n\nThe right thing to do on AI, [China's leader] Xi said during talks with Trump, is to \"draw on each other's strengths, not guard against each other\" — a reference to Beijing's concern about US containment, from existing tech export controls to potential AI restrictions. \"The two sides can continue their dialogue on AI, exchange views on its risks and benefits, and jointly prevent the misuse and abuse of AI,\" he added. But the summit has yielded little progress on AI beyond a formal dialogue and a bilateral communication channel, proposals discussed before the two leaders' summit — underscoring the entrenched mutual mistrust amid contrasting visions on AI... Because of low levels of trust, cooperation between the two superpowers remains limited, said George Chen, chair of digital practice at The Asia Group consultancy. \"Beijing continues to believe Washington seeks to contain China's rise in AI and other emerging technologies, a perception that will shape the pace and scope of future engagement for the two countries on AI,\" he said. \n\nCNN also points out that while China trails the US in frontier AI models, \"it's rapidly narrowing the technology gap while championing a more open ecosystem centered on accessibility and lower cost.\"\n\nIn July, Chinese leader Xi Jinping launched the World Artificial Intelligence Cooperation Organization — a rival grouping to the Pax Silica alliance that Trump formed last year to reduce reliance on China for AI supply chains. While over two dozen countries and the European Union signed up to Trump's Pax Silica, Xi has recruited 29 countries, including Russia, Indonesia and Pakistan, to his alternative vision of open models, which allow users to freely download, customize and run without paying hefty fees to American firms like Anthropic and OpenAI. For developers in the Global South, an inexpensive Chinese model from DeepSeek or Moonshot may be more useful than a slightly more capable system requiring an expensive subscription and access to a foreign cloud provider, said Eric Olander, editor in chief of The China-Global South Project, a research agency.... \n\nChina's embrace of open systems has not always been a top-down strategy by Beijing. Restrictions on access to the most advanced chips because of US export controls, coupled with smaller capital markets, have pushed Chinese developers toward open models as a way to compete with leading US proprietary systems. That shift has proved effective. In a year, Chinese models' global usage skyrocketed from less than 15% to over 54% last week, led by DeepSeek, according to AI leaderboard data by OpenRouter, a marketplace for models. Even American firms, from Airbnb and DoorDash to Shopify, have embraced Chinese models, tapping into the advantages of open systems, including lower costs and greater flexibility for customization.\n \n\nCNN adds this insight from Alex Colville, an analyst focusing on tech and security at the government-backed Australian Strategic Policy Institute. \"The more capable Chinese models become, the less likely it is Beijing may leave them unrestricted.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Sep 27, 2026 05:36",
-    "published_at": "2026-09-27T05:36:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "AlmaLinux Puts Software Certification in the Hands of Users",
-    "link": "https://feed.itsfoss.com/link/24361/17474965/almalinux-software-certification-launched",
-    "description": "You can now certify the machine you already own and check the public catalog to see what else is validated.",
-    "guid": "6ab6547e2f4ed50001738a86",
-    "date": "Sep 27, 2026 05:01",
-    "published_at": "2026-09-27T05:01:19Z",
-    "image": "https://itsfoss.com/content/images/2026/09/almalinux-software-certification-banner.png",
-    "source": "itsfoss.com",
-    "source_url": "https://itsfoss.com/"
-  },
-  {
-    "title": "KDE and GNOME Developers Ponder How to Handle AI-Generated Contributions",
-    "link": "https://tech.slashdot.org/story/26/09/24/1928229/kde-and-gnome-developers-ponder-how-to-handle-ai-generated-contributions?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Last weekend KDE's annual Akademy conference included a presentation proposing\nan AI-native KDE,\" writes The Register. This led KDE developer Nate Graham to open a discussion about proposed restrictions on LLM-assisted contributions which \"rapidly became heated. Moderators issued warnings, restricted further comments, and eventually removed the thread.\" \n\nBut as Graham writes on his blog, \"A bunch of people mostly outside of KDE who disapprove of LLM usage derailed KDE's attempt to add restrictions to LLM usage.\"\n\n\nTwo people unknown to any KDE contributors appeared and began fighting with one another about the broader topic of the morality of AI, not the proposed guidelines... Someone else outside of KDE set up kdeforpeople.com in an attempt to... pressure KDE into banning LLMs. A bunch of people signed onto it, almost none of whom are known KDE contributors.\n The topic was picked up on social media and the press with... varying levels of accuracy. The draft proposal was removed and the whole topic hidden... Yep, that's where we're at in the state of online discourse around AI... \n\n\nThe \"lovable, sovereign, AI-native KDE\" idea was presented by two people important to KDE in decades past, but who had not made any contributions recently besides this Akademy talk. Their idea does not reflect the overall direction of KDE or Plasma, and I don't think it ever will. If \"a lovable, sovereign, AI-native KDE\" freaks you out, I believe it is completely reasonable and safe to ignore... \n\n\nI completely understand why a lot of people have problems with LLMs. I have these concerns as well. \n\nHe concluded by asking people not to derail any future process to set usage guidelines, fighting over \"the broader topic of AI in general.\" \n\n\n\"The discussion is gone, but the argument continues,\" adds The Register:\n\nGNOME developer Jordan Petridis has also published The GNOME LLM Policy That I Want, proposing that LLMs be barred from creating or modifying anything submitted to GNOME or hosted on its infrastructure. \n\n\"You might be asked to prove your code meets this requirement,\" Petridis writes, arguing for proposals that target the norms around developer behavior. His rationale? \"The GNOME Project prioritizes the social and human aspects of collective software creation,\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Sep 27, 2026 01:04",
-    "published_at": "2026-09-27T01:04:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Improved GPU Reset Coming For Raspberry Pi Boards With Linux 7.4",
-    "link": "https://www.phoronix.com/news/Linux-7.4-Better-RPI-GPU-Reset",
-    "description": "In addition to this week's DRM-Misc-Next pull request introducing some new HDMI 2.0 helpers for the DRM drivers, the pull request also introduced improved GPU reset support for the Broadcom V3D GPU with the VC4 kernel driver...",
-    "guid": "https://www.phoronix.com/news/Linux-7.4-Better-RPI-GPU-Reset",
-    "date": "Sep 27, 2026 00:45",
-    "published_at": "2026-09-27T00:45:33Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "After 40 Years, Microsoft Excel Will Add Single-Cell Lists and Arrays",
-    "link": "https://slashdot.org/story/26/09/26/0227226/after-40-years-microsoft-excel-will-add-single-cell-lists-and-arrays?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Microsoft's senior product manager for Excel acknowledges that \"Throughout Excel's 40-year history, you've only been able to put one value per cell.\" But that's now changing with arrays in cells (as well as nested arrays) and lists.\n\n\"You can create a list by selecting Insert \u003e List or pressing Ctrl+J, then typing or pasting items separated by commas or semicolons, depending on your regional settings. Selecting the icon in the cell shows the individual values...\" \n\"With lists, you can filter by one or more individual items instead of whole text entries. Referencing a list returns all its values for calculations. For example, =B2 spills those values into separate cells...\"\n\n\"For the first time in Excel, arrays can exist natively in cells as values or as formula results. They can be any size or shape and can even contain other arrays. You can now keep the result of any spilling formula in a single cell by \"wrapping\" the formula body with braces { }.\"\n\n \"Since the introduction of dynamic arrays, array results have spilled across cells — for example ={1;2;3}. Wrapping the original array with braces creates a 1x1 array around it, so instead of spilling to multiple cells, the array stays in a single cell. Braces have long been used to describe arrays in Excel and this extends that behavior by allowing multiple layers of braces. This gives you more flexibility when building spreadsheets. Instead of leaving room for a formula to spill, you can keep the result in one cell.\"\n\"Arrays can now also 'nest' inside other arrays... Previously, a formula that produced an array of arrays would return a truncated result or #CALC! error. Now, supported formulas return the complete nested result... FLATTEN(array, [pad_value], [levels]) simplifies nested arrays by removing one or more levels of nesting...\"\n\nThree HAS functions check whether values are in an array: \n — HAS(array, value) returns TRUE if value appears anywhere in array, and FALSE otherwise. \n — HASANY(array, values) returns TRUE if any of the values appear anywhere in array, and FALSE otherwise. \n — HASALL(array, values) returns TRUE if all of the values appear anywhere in array, and FALSE otherwise.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Sep 26, 2026 20:34",
-    "published_at": "2026-09-26T20:34:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
   }
 ]
