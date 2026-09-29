@@ -1,5 +1,384 @@
 [
   {
+    "title": "Microsoft Announces General Availability Of WSLC: Linux Containers On Windows",
+    "link": "https://www.phoronix.com/news/Microsoft-WSLC-Linux-Containers",
+    "description": "Following the public preview of Linux containers on WSL, Microsoft today announced the general availability of WSLC for supporting Linux containers on Windows...",
+    "guid": "https://www.phoronix.com/news/Microsoft-WSLC-Linux-Containers",
+    "date": "Sep 29, 2026 17:09",
+    "published_at": "2026-09-29T17:09:12Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Google Says Chromebook Updates End In 2034, 'Many' Models Move to Googlebook OS",
+    "link": "https://tech.slashdot.org/story/26/09/29/0538225/google-says-chromebook-updates-end-in-2034-many-models-move-to-googlebook-os?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Google says ChromeOS will keep receiving regular updates and security patches through mid-2034, after which qualifying newer Chromebooks will be able to migrate to the new Googlebook OS. 9to5Google reports: Starting with Chromebook updates, Google says that \"Chromebooks you have today will continue to receive updates through their supported lifetime,\" with all Enterprise and Education management capabilities remaining in place as well: \"We will maintain support for current Chromebook devices running ChromeOS as outlined in our Auto Update policy and the Chromebooks you have today will continue to receive updates through their supported lifetime...\"\n \nGoogle adds that similar management tools will be coming to Googlebook, but they're not available yet. Apparently they're planned for the second half of 2027. Meanwhile, Google says that \"many\" existing Chromebook models will be eligible to transition from ChromeOS to Googlebook OS. More details are coming \"soon.\" A later note specifies that Google is referring to \"newer commercial Chromebook models.\"\n \nNotably, Google specifies a year when ChromeOS updates will come to an end in a later note -- 2034. Chromebooks with a 10-year update policy that extends past 2034 will be eligible to move to Googlebook OS. [...] Finally, in regards to apps, Google says that it is \"committed\" to web developers despite an increased focus on Android apps on Googlebooks.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Sep 29, 2026 17:00",
+    "published_at": "2026-09-29T17:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Branch Target Reuse, BTR: New Spectre V2 Attack Targeting JIT Compilers",
+    "link": "https://www.phoronix.com/news/Branch-Target-Reuse-BTR",
+    "description": "It's been a while since any new Spectre vulnerabilities have come to light but that's changing today. The embargo has now lifted on BTR, Branch Target Reuse as a new Spectre-V2 attack affecting just-in-time (JIT) compilers...",
+    "guid": "https://www.phoronix.com/news/Branch-Target-Reuse-BTR",
+    "date": "Sep 29, 2026 17:00",
+    "published_at": "2026-09-29T17:00:00Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "SteamOS 0.4.2 Beta for Steam Frame brings streaming improvements",
+    "link": "https://www.gamingonlinux.com/2026/09/steamos-0-4-2-beta-for-steam-frame-brings-streaming-improvements/",
+    "description": "Valve just put out SteamOS 0.4.2 Beta for Steam Frame, quickly fixing up more issues to hopefully give the early adopters a nicer streaming experience.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/steamos-0-4-2-beta-for-steam-frame-brings-streaming-improvements/",
+    "date": "Sep 29, 2026 16:54",
+    "published_at": "2026-09-29T16:54:45Z",
+    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/steam-frame-eye_gol2_2fe88a5d.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "New Ubuntu Concept ISO For Snapdragon Laptops Brings First X2 Laptop Support",
+    "link": "https://www.phoronix.com/news/Ubuntu-26.10-Snapdragon-Concept",
+    "description": "It's been a while since Canonical announced any new ISOs of their Ubuntu builds targeting Qualcomm Snapdragon X series laptops. But ahead of this week's Ubuntu 26.10 beta release, they shipped new Ubuntu 26.10 Snapdragon Concept images today with improved Snapdragon X1 laptop support as well as the initial Snapdragon X2 laptop support...",
+    "guid": "https://www.phoronix.com/news/Ubuntu-26.10-Snapdragon-Concept",
+    "date": "Sep 29, 2026 16:15",
+    "published_at": "2026-09-29T16:15:36Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Meta Releases OpenZL 0.3 With Decompression Speed 144% Faster Than Zstd",
+    "link": "https://www.phoronix.com/news/OpenZL-0.3-Released",
+    "description": "Just shy of one year ago Meta announced OpenZL as a format-ware compression framework focused on delivering both high compression ratios and high speed compression/decompression. OpenZL has continued making more optimizations and out today is OpenZL v0.3 and advertising some huge gains over Zstandard (Zstd) that is also worked on by Meta engineers...",
+    "guid": "https://www.phoronix.com/news/OpenZL-0.3-Released",
+    "date": "Sep 29, 2026 16:06",
+    "published_at": "2026-09-29T16:06:44Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "openSUSE Leap is The Immutable Distro Now, Leap Micro is Out",
+    "link": "https://feed.itsfoss.com/link/24361/17477655/opensuse-leap-immutable",
+    "description": "Starting with Leap 16.1, the separate immutable flavor will cease to exist.",
+    "guid": "6abb8e812f4ed5000173a199",
+    "date": "Sep 29, 2026 16:05",
+    "published_at": "2026-09-29T16:05:38Z",
+    "image": "https://itsfoss.com/content/images/2026/09/opensuse-leap-immutable-banner.png",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "California Is Banning Public Officials From Making Memecoins",
+    "link": "https://slashdot.org/story/26/09/29/0527255/california-is-banning-public-officials-from-making-memecoins?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "California Gov. Gavin Newsom has signed AB 2409, barring California public officials from issuing memecoins and prohibiting companies from listing memecoins that use a public official's image or likeness. Engadget reports: The governor's office pointed to reports that about a million investors lost an alleged $3.8 billion on their purchases of the memecoin released by President Donald Trump in 2025 as a the motivation behind the new rule.\n \n\"No official should profit off their office -- and we're putting stronger protections in place to ensure it doesn't happen in our state,\" Newsom said. The bill also prohibits a company, related or not, from making a memecoin using \"the likeness or image\" of a public official.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Sep 29, 2026 16:00",
+    "published_at": "2026-09-29T16:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "[$] The kernel from a PostgreSQL point of view",
+    "link": "https://lwn.net/Articles/1096827/",
+    "description": "Andres Freund has a few claims to fame, but\nchief among them is his many years of work to improve the performance of\nthe PostgreSQL relational database\nmanagement system.  That work requires working with — or around — many\nLinux kernel features and behaviors.  He put in an appearance at the 2026\nedition of Kernel Recipes\nto talk about his experience working with the kernel project, how the\nkernel could better support applications like PostgreSQL, and some\ninteresting developments in the PostgreSQL world.",
+    "guid": "https://lwn.net/Articles/1096827/",
+    "date": "Sep 29, 2026 15:42",
+    "published_at": "2026-09-29T15:42:30Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "Security updates for Tuesday",
+    "link": "https://lwn.net/Articles/1097466/",
+    "description": "Security updates have been issued by AlmaLinux (cockpit-image-builder, expat, ipa, kernel, kernel-rt, resteasy, ruby, ruby4.0, ruby:3.3, and ruby:4.0), Debian (dovecot, flatpak, glance, kernel, libdbi-perl, lxml, rsync, swift, and wordpress), Fedora (chromium, freeipa, freerdp, grub2, NetworkManager-iodine, NetworkManager-l2tp, perl-Catalyst-Plugin-Static-Simple, perl-Dancer2, perl-HTML-FormFu, python-quart-trio, python-streamlink, python-urllib3, and vlc), Mageia (libxml2, p11-kit, pam, and php), Slackware (groff and pcre2), SUSE (389-ds, amazon-ssm-agent, erlang27, exiv2, glib2, gnome-shell, hplip, ImageMagick, kernel, libheif, libsodium, libtpms, nodejs16, perl-DBI, python-soupsieve, redis, redis7, swtpm, and wireshark), and Ubuntu (curl, libevent, linux-aws, linux-aws-6.8, linux-aws-5.15, linux-azure-5.15, linux-azure-fde-5.15, linux-intel-iotg-5.15, linux-aws-hwe, linux-azure, linux-azure-4.15, linux-gcp, linux-gcp-7.0, linux-oem-7.0, linux-nvidia, linux-nvidia-6.8, linux-nvidia-lowlatency, and linux-oracle-7.0).",
+    "guid": "https://lwn.net/Articles/1097466/",
+    "date": "Sep 29, 2026 15:38",
+    "published_at": "2026-09-29T15:38:42Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "Florida Invokes Extinction Fears In Legal Bid To Halt OpenAI Development",
+    "link": "https://yro.slashdot.org/story/26/09/29/0514206/florida-invokes-extinction-fears-in-legal-bid-to-halt-openai-development?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from Ars Technica: The state of Florida is seeking a temporary injunction to stop OpenAI from continuing to develop what it calls a \"reckless, unacceptably risky product\" without the deployment of \"third-party approved safety guardrails.\" The new legal motion (PDF), filed Monday morning, is part of a civil lawsuit the state of Florida originally filed in June, arguing that ChatGPT represented \"a threat to the public safety of Floridians,\" specifically by preying on vulnerable populations like children and violent or delusional adults. [...] In arguing for this injunction, the state points to the Hugging Face incident as well as recent high-profile misalignment cases involving unintended and unauthorized attempts to access Australian and US government servers. Florida also cites AI industry leaders, including many from OpenAI, in arguing that the AI industry is literally asking for this kind of outside regulation.\n \nThe motion points to statements from Paul Christiano, who said on joining the company's board this month that he believes \"there is a meaningful risk that rapid acceleration in AI capabilities leads to catastrophic and irreversible loss of control in the very near term.\" The motion also points to OpenAI's own \"An Alien Mind\" essay and an open letter from 1,300 AI industry employees, both of which call for enforced slowdowns on frontier AI development, if necessary. Citing laws that allow the state to exercise control over companies that are a \"public nuisance,\" Florida argues that OpenAI is \"the greatest public nuisance ever created by the hand of man, capable of laying waste to global civilization.\" \"It is only by the grace of the Almighty that one of Defendants' AI agents hasn't compromised a water supply or shut down a power grid -- yet,\" the state writes in the motion.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Sep 29, 2026 15:00",
+    "published_at": "2026-09-29T15:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "hw-monitor 0.6 Released With Per-Process GPU Usage \u0026 Memory Reporting",
+    "link": "https://www.phoronix.com/news/hw-monitor-0.6",
+    "description": "For those after in-depth hardware and system monitoring support from the Linux desktop, hw-monitor continues to advance as one of the modern options. Released on Monday was hw-monitor 0.6 with per-process GPU reporting metrics when using capable DRM drivers like the AMDGPU, Intel i915 and Xe, and Nouveau drivers...",
+    "guid": "https://www.phoronix.com/news/hw-monitor-0.6",
+    "date": "Sep 29, 2026 14:23",
+    "published_at": "2026-09-29T14:23:58Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Firefox in a New Skin! Nova Redesign Has Become The Default",
+    "link": "https://feed.itsfoss.com/link/24361/17477496/firefox-nova-redesign",
+    "description": "Six months after the mockups leaked, the Firefox 157 release is the one that got it done.",
+    "guid": "6abb5d3c2f4ed50001739f44",
+    "date": "Sep 29, 2026 13:54",
+    "published_at": "2026-09-29T13:54:55Z",
+    "image": "https://itsfoss.com/content/images/2026/09/firefox-nova-banner.png",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "NOCL Making Progress As Mesa Gallium/OpenCL Atop NVIDIA CUDA",
+    "link": "https://www.phoronix.com/news/NOCL-OpenCL-CUDA",
+    "description": "In development the past year has been the Mesa Gallium3D API implemented atop NVIDIA's CUDA driver API. Initially named \"CLUDA\" and now going by \"NOCL\", this Mesa code paired with Rusticl is working well for OpenCL atop the NVIDIA proprietary driver as a new compute option...",
+    "guid": "https://www.phoronix.com/news/NOCL-OpenCL-CUDA",
+    "date": "Sep 29, 2026 13:53",
+    "published_at": "2026-09-29T13:53:05Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Mesa 26.3 Enables Intel's New Jay Shader Compiler By Default, Compile Times 55% Faster Or 66% Faster Than Windows",
+    "link": "https://www.phoronix.com/news/Mesa-26.3-Intel-Jay-Compiler",
+    "description": "Over the past year  Jay has been in development as a new open-source shader compiler for Intel GPUs. Alyssa Rosenzweig has been leading its development since joining Intel in 2025. For Mesa 26.3 the Jay shader compiler is being enabled by default for modern Intel graphics hardware and is around ~10% faster than the existing BRW compiler code...",
+    "guid": "https://www.phoronix.com/news/Mesa-26.3-Intel-Jay-Compiler",
+    "date": "Sep 29, 2026 12:31",
+    "published_at": "2026-09-29T12:31:30Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "D7VK version 2.3 released and mature enough to now be in maintenance mode",
+    "link": "https://www.gamingonlinux.com/2026/09/d7vk-version-2-3-released-and-mature-enough-to-now-be-in-maintenance-mode/",
+    "description": "D7VK is a Vulkan-based translation layer for Direct3D 7, 6, 5 and 3 for use with Wine / Proton, and with version 2.3 out now it's entering maintenance mode.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/d7vk-version-2-3-released-and-mature-enough-to-now-be-in-maintenance-mode/",
+    "date": "Sep 29, 2026 12:16",
+    "published_at": "2026-09-29T12:16:14Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/205899533id29867gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "BPF-Based Display Panel Drivers Being Explored For Linux",
+    "link": "https://www.phoronix.com/news/Linux-BPF-Panel-Drivers",
+    "description": "BPF-based HID drivers have helped to deliver quirks/fixes for different HID devices more quickly than being bound by the conventional kernel cycle. Loading these eBPF programs from user-space have shown a lot of potential for innovating and iterating more quickly with BPF drivers for different subsystems. The latest area now seeing the BPF treatment are display panel drivers...",
+    "guid": "https://www.phoronix.com/news/Linux-BPF-Panel-Drivers",
+    "date": "Sep 29, 2026 12:10",
+    "published_at": "2026-09-29T12:10:26Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Valve made a Steam Frame Dongle troubleshooting script for Linux gamers",
+    "link": "https://www.gamingonlinux.com/2026/09/valve-made-a-steam-frame-dongle-troubleshooting-script-for-linux-gamers/",
+    "description": "Are you one of the lucky people who got the new Steam Frame? Having issues streaming with the wireless Dongle? Valve are doing something about it.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/valve-made-a-steam-frame-dongle-troubleshooting-script-for-linux-gamers/",
+    "date": "Sep 29, 2026 11:58",
+    "published_at": "2026-09-29T11:58:59Z",
+    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/steamframe.jpg",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "D7VK Reaches Maturity For Older Direct3D APIs Atop Vulkan",
+    "link": "https://www.phoronix.com/news/D7VK-2.3-Released",
+    "description": "D7VK as a Vulkan-based implementation of the Microsoft Direct3D 7 / 6 / 5 / 3 APIs for Linux/Wine (Steam Play) usage is out with version 2.3 and the developer now believing its marking the point that the project is rather mature...",
+    "guid": "https://www.phoronix.com/news/D7VK-2.3-Released",
+    "date": "Sep 29, 2026 11:43",
+    "published_at": "2026-09-29T11:43:30Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Check out Jarred Defense, a challenging maze-building tower defense game",
+    "link": "https://www.gamingonlinux.com/2026/09/check-out-jarred-defense-a-challenging-maze-building-tower-defense-game/",
+    "description": "If you're a fan of challenging tower defense games that are a bit puzzling, Jarred Defense is one to stick onto that Steam wishlist you've got growing.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/check-out-jarred-defense-a-challenging-maze-building-tower-defense-game/",
+    "date": "Sep 29, 2026 11:27",
+    "published_at": "2026-09-29T11:27:33Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/921483741id29865gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "El Nino Bursts Through Temperature Record Months Before Peak",
+    "link": "https://news.slashdot.org/story/26/09/29/054253/el-nino-bursts-through-temperature-record-months-before-peak?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "The current El Nino has already surpassed the highest Pacific temperature anomaly recorded in the modern era, reaching 3.05C above the 1991-2020 average months before its expected peak. The commonly used ONI measure is also on the verge of breaking the 2015 record. Forecasts cited by The Guardian suggest the event could reach about 4.0C later this year. From the report: The latest data shows the temperature rise at the heart of El Nino in the Pacific Ocean has now reached 3.05C. That is higher than the 3.02C set in late November 2015, the previous high set in the 150 years of modern records. This temperature is measured against the average of 1991-2020. The preferred measure of most meteorologists uses a 30-year rolling average as a reference and so takes account of human-caused global heating. This metric, called ONI (Nino3.4), is on the brink of breaking the record, just one-hundredth of a degree below the 2015 record. Both metrics are underpinned by data from the US National Oceanic and Atmospheric Administration (NOAA).\n \nThe most recent forecasts predict a peak of 4.0C in November and December, according to the average of 14 different models assessed by climate scientist Zeke Hausfather. That is a level so far above previous events that Hausfather called it \"mind-blowing,\" while others have described it as \"Godzilla-level.\" Any temperature rise above 0.5C is deemed an El Nino; above 2C is officially called a \"very strong\" El Nino -- often referred to as a \"super\" El Nino. The current El Nino is likely to be the largest in at least 1,000 years and will pile extra heat into an atmosphere in which temperatures are already rising rapidly due to human-caused global heating. This double whammy means 2027 is expected to \"blow apart\" previous records and become the hottest year ever recorded.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Sep 29, 2026 11:00",
+    "published_at": "2026-09-29T11:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Git 2.56 Adds New Options for Cleaning Up Branches and Resolving Conflicts",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367780",
+    "description": "Git 2.56 has been released today as the latest stable update to this free and open-source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367780",
+    "date": "Sep 29, 2026 10:55",
+    "published_at": "2026-09-29T10:55:45Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Large Folios Able To Deliver Big Performance Gains For FUSE With Linux 7.4",
+    "link": "https://www.phoronix.com/news/FUSE-Large-Folios",
+    "description": "Following the FUSE improvements in Linux 7.3 for file-systems in user-space, it looks like the upcoming Linux 7.4 kernel will be ready to enable the large folios feature...",
+    "guid": "https://www.phoronix.com/news/FUSE-Large-Folios",
+    "date": "Sep 29, 2026 10:30",
+    "published_at": "2026-09-29T10:30:23Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "The Witcher 3: Wild Hunt — Remastered is out now",
+    "link": "https://www.gamingonlinux.com/2026/09/the-witcher-3-wild-hunt-remastered-is-out-now/",
+    "description": "The Witcher 3: Wild Hunt — Remastered from CD PROJEKT RED (developed in collaboration with Yigsoft) has now been officially released.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/the-witcher-3-wild-hunt-remastered-is-out-now/",
+    "date": "Sep 29, 2026 10:15",
+    "published_at": "2026-09-29T10:15:51Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/467830153id29864gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Igalia Improving The Firefox Experience For Valve's Steam Deck",
+    "link": "https://www.phoronix.com/news/Steam-Deck-Better-Firefox",
+    "description": "The Igalia consulting firm working with Valve is aiming to improve the Firefox web browsing experience when running on the Steam Deck handheld Linux-powered device...",
+    "guid": "https://www.phoronix.com/news/Steam-Deck-Better-Firefox",
+    "date": "Sep 29, 2026 10:15",
+    "published_at": "2026-09-29T10:15:26Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "AMD Ryzen Zen 6 CPU Power Values Being Further Tuned For Linux",
+    "link": "https://www.phoronix.com/news/AMD-Zen-6-More-Client-Tuning",
+    "description": "AMD engineers continue to prepare for upcoming Zen 6 powered Ryzen client processors on Linux...",
+    "guid": "https://www.phoronix.com/news/AMD-Zen-6-More-Client-Tuning",
+    "date": "Sep 29, 2026 09:59",
+    "published_at": "2026-09-29T09:59:57Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "PS1-inspired retro horror Bleach \u0026 Blood has you try to survive a night shift in a laundromat",
+    "link": "https://www.gamingonlinux.com/2026/09/ps1-inspired-retro-horror-bleach-blood-has-you-try-to-survive-a-night-shift-in-a-laundromat/",
+    "description": "Bleach \u0026 Blood is another interesting retro horror slayer for fans of the PS1 era style, with a demo available to play it right now.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/ps1-inspired-retro-horror-bleach-blood-has-you-try-to-survive-a-night-shift-in-a-laundromat/",
+    "date": "Sep 29, 2026 09:45",
+    "published_at": "2026-09-29T09:45:10Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1272618124id29863gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Devil May Cry HD Collection will now work properly on SteamOS / Linux",
+    "link": "https://www.gamingonlinux.com/2026/09/devil-may-cry-hd-collection-will-now-work-properly-on-steamos-linux/",
+    "description": "Capcom recently gave Devil May Cry HD Collection a small update, and as a result it will now work properly on SteamOS / Linux systems.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/devil-may-cry-hd-collection-will-now-work-properly-on-steamos-linux/",
+    "date": "Sep 29, 2026 08:58",
+    "published_at": "2026-09-29T08:58:27Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/127448824id29862gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "The deeper you go the darker it gets in the roguelike shoot 'em up Earth Atlantis Abyss",
+    "link": "https://www.gamingonlinux.com/2026/09/the-deeper-you-go-the-darker-it-gets-in-the-roguelike-shoot-em-up-earth-atlantis-abyss/",
+    "description": "Earth Atlantis Abyss is a shoot 'em up roguelike about going deeper than is sensible, the dark depths look a bit spooky.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/the-deeper-you-go-the-darker-it-gets-in-the-roguelike-shoot-em-up-earth-atlantis-abyss/",
+    "date": "Sep 29, 2026 08:05",
+    "published_at": "2026-09-29T08:05:21Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1868780134id29861gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Mozilla Firefox 158 Enters Public Beta Testing with Better PDF Handling",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367785",
+    "description": "With the release of Firefox 157 rolling out to all supported platforms, Mozilla promoted the next major release, Firefox 158, to the beta channel for public testing, so it’s time to take a look at the new features and improvements.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367785",
+    "date": "Sep 29, 2026 07:52",
+    "published_at": "2026-09-29T07:52:46Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Test your brain with the Programming Puzzles Humble Bundle",
+    "link": "https://www.gamingonlinux.com/2026/09/test-your-brain-with-the-programming-puzzles-humble-bundle/",
+    "description": "Ready to test your brain and make something cool? The Programming Puzzles Humble Bundle is live with 7 highly rated games included.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/test-your-brain-with-the-programming-puzzles-humble-bundle/",
+    "date": "Sep 29, 2026 07:38",
+    "published_at": "2026-09-29T07:38:40Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/977595092id29860gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "The truly hilarious co-op game How to Fish gets a first content update",
+    "link": "https://www.gamingonlinux.com/2026/09/the-truly-hilarious-co-op-game-how-to-fish-gets-a-first-content-update/",
+    "description": "How to Fish is a co-op game about fishing in the most ridiculous way with explosive weapons, it's hilarious and now bigger and better.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/the-truly-hilarious-co-op-game-how-to-fish-gets-a-first-content-update/",
+    "date": "Sep 29, 2026 07:18",
+    "published_at": "2026-09-29T07:18:05Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1101037836id29859gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Minecraft Dungeons II doesn't seem to run on SteamOS / Linux",
+    "link": "https://www.gamingonlinux.com/2026/09/minecraft-dungeons-ii-doesnt-seem-to-run-on-steamos-linux/",
+    "description": "Minecraft Dungeons II is about to release today and while the first game works, it currently appears that there's issues running the sequel on SteamOS / Linux.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/minecraft-dungeons-ii-doesnt-seem-to-run-on-steamos-linux/",
+    "date": "Sep 29, 2026 07:11",
+    "published_at": "2026-09-29T07:11:03Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1694954075id29858gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "ACE COMBAT 8: WINGS OF THEVE shows online play not working on SteamOS / Linux",
+    "link": "https://www.gamingonlinux.com/2026/09/ace-combat-8-wings-of-theve-shows-online-play-not-working-on-steamos-linux/",
+    "description": "ACE COMBAT 8: WINGS OF THEVE is now in Advanced Access, and while the single-player works the online play appears blocked on SteamOS / Linux.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/ace-combat-8-wings-of-theve-shows-online-play-not-working-on-steamos-linux/",
+    "date": "Sep 29, 2026 07:02",
+    "published_at": "2026-09-29T07:02:04Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1188815950id29857gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Microbes Could Survive On Saturn's Moon Enceladus",
+    "link": "https://science.slashdot.org/story/26/09/28/2140251/microbes-could-survive-on-saturns-moon-enceladus?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "New research suggests Enceladus may be an especially promising place to search for extraterrestrial life: microbes similar to those found near Earth's hydrothermal vents survived in lab conditions designed to mimic the Saturnian moon's subsurface ocean. A separate study also found that material blasted from Enceladus' plumes may naturally separate and concentrate salts, organics and potential biosignatures into individual ice grains, potentially making them easier for future spacecraft to detect.\n \n\"That is great news in the search for life,\" Frank Postberg, lead author of one and co-author of the other of these new studies and professor at Freie Universitat Berlin, said in a statement. \"Future spacecraft will have to analyze many individual ice particles in the plume. But if they come across one with microbial material in it, they could identify biosignatures in the particle relatively easy with already available technology.\" Space.com reports: Enceladus isn't the only place in our solar system with water -- so, why is it so exciting in the search for life? Well, it has to do with the seafloor of its extensive, liquid ocean. Down deep at the bottom of this body of water, scientists think hydrothermal processes, or movement or reactions with hot water under the surface, are taking place. The plumes shooting upward from the ocean also contain trace amounts of salts and organic compounds. NASA's Cassini spacecraft found these traces when it flew through the plumes over a decade ago. Between the hydrothermal activity and the organics and minerals in the water, this moon's ocean has a number of aspects that could be involved in supporting life.\n \nWhat's more, using a combination of Cassini data, theoretical models and laboratory experimentation, in Postberg's new study the team found that the plume's water droplets blasting out into space at up to 621 miles per hour (1,000 kilometers per hour) don't freeze as quickly as expected. Before, scientists thought the freeze would happen instantaneously once the droplets reached space, but Postberg and fellow researchers say they found the freezing would actually happen much slower.\n \nThey also found that during this freezing process, the salt, organic compounds (and maybe possible signs of life) in the water droplets separate from one another. Not only that, but the team says that as the particles are blasted out into space, they should often collide with the icy cracks of the planet's surface. This ultimately would leave behind tiny shards of frozen droplets with individually separated out components. Essentially, it's like the planet has organized its oceanic ingredients into tiny, frozen particle fragments. This work is described in two new studies published in the journal Science Advances here and here.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Sep 29, 2026 07:00",
+    "published_at": "2026-09-29T07:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Git 2.56 Released With Safer Conflict Resolution and Performance Gains",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367779",
+    "description": "The latest Git release brings a dedicated resolved-files staging mode, new maintenance commands, and substantial scalability improvements.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367779",
+    "date": "Sep 29, 2026 06:21",
+    "published_at": "2026-09-29T06:21:16Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
     "title": "Bananas That Don't Go Brown To Hit Supermarkets Thanks to DNA Editing",
     "link": "https://science.slashdot.org/story/26/09/28/210256/bananas-that-dont-go-brown-to-hit-supermarkets-thanks-to-dna-editing?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
     "description": "An anonymous reader quotes a report from The Guardian: It is the bane of every fruit bowl: sliced banana that turns brown before it has reached the table. But such woes could soon be a thing of the past, with gene-edited bananas that keep their freshly peeled color now one step closer to reaching British shoppers. According to Tropic, the Norwich-based agricultural-biotechnology company that developed the fruit, the bananas have the same taste and texture but stay \"fresh, yellow and appetizing long after peeling and slicing.\"\n \nGilad Gershon, the chief executive of Tropic, said the flesh of the new banana resisted browning for an extra day or two -- and longer if chilled. He added that the innovation could make it easier to add bananas to prepackaged products such as fruit salads and breakfast pots, as well as reducing waste. [...] Tropic developed the bananas by using a gene-editing technology called Crispr-Cas9 to alter all three copies of a single gene within the fruit. As a result, they were able to reduce the production of polyphenol oxidase, an enzyme that causes browning. A similar approach has been effective in reducing browning in other produce, including mushrooms.\n \nTropic said the non-browning bananas could reduce food waste and CO2-equivalent emissions along the supply chain by more than 25%. \"This could support an annual reduction in CO2 emissions of over 9m tonnes in the banana export market alone,\" the company said. [...] Gershon said Tropic had gained regulatory approval for the non-browning bananas in 10 other countries including Japan, Brazil and the Philippines. The fruit is already being grown in Latin America.\n\n\n\n\n\nRead more of this story at Slashdot.",
@@ -230,17 +609,6 @@
     "source_url": "https://lwn.net"
   },
   {
-    "title": "Walmart Says It's Not Using Personal Info To Set Prices As It Expands Digital Shelf Labels",
-    "link": "https://news.slashdot.org/story/26/09/28/060245/walmart-says-its-not-using-personal-info-to-set-prices-as-it-expands-digital-shelf-labels?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "An anonymous reader quotes a report from the Associated Press: Walmart is aiming to assuage customers' fears about its new pricing technology as it rolls out digital price labels at its stores. In a statement posted on the company's website, Walmart's CEO John Furner vowed that the Bentonville, Arkansas-based retailer isn't using personal information like income, shopping history or a customer's willingness to pay to set prices, and it won't be doing so in the future either. \"We don't set different prices based on who you are or the time of day, and we won't,\" Furner wrote Friday. \"Whether you're buying groceries or electronics on a hot afternoon or in a sudden rush for an item, it's never a reason to charge you more.\"\n \nThe pledge from Walmart comes as concerns are mounting from some shoppers, consumer advocates and lawmakers skeptical about the rollout of digital price labels by the discounter and other stores. Digital price labels are rapidly replacing paper shelf tags at U.S. supermarkets and let stores change prices instantly from a central computer instead of having workers swap out paper labels by hand. [...] Walmart said in March that 2,300 Walmart U.S. locations already use digital shelves, and it expects this technology to be chain-wide within the next year.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Sep 28, 2026 15:00",
-    "published_at": "2026-09-28T15:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
     "title": "Firefox 157 Now Available With Visual Refresh, WebRTC Hardware AV1 Decode",
     "link": "https://www.phoronix.com/news/Firefox-157-Released",
     "description": "As part of the Mozilla Firefox bi-weekly release regiment, the Firefox 157 binaries are now available for this open-source web browser...",
@@ -395,182 +763,5 @@
     "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1851219401id29852gol.webp",
     "source": "gamingonlinux.com",
     "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Are AI Chatbots Spreading Misinformation to US Voters?",
-    "link": "https://politics.slashdot.org/story/26/09/26/2358224/are-ai-chatbots-spreading-misinformation-to-us-voters?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Are AI chatbots quietly shaping the perceptions of U.S. voters? Voters trying to educate themselves about candidates \"are unknowingly being served partisan talking points in the guise of neutral news summaries,\" write two news researchers in Politico magazine:\n\nLeading AI chatbots cite partisan websites masquerading as independent local news outlets nearly half of the time when people ask about candidates and issues that the partisan sites have covered in the midterm campaign, according to a new audit by NewsGuard, an organization focused on news reliability where we work as analysts... NewsGuard prompted seven leading AI tools with queries based on recent coverage of candidates and issues by 12 pink slime sites — six left-leaning and six right-leaning. The results were stark. Collectively, the chatbots cited pink slime sites along with other sources in 48.2 percent of their responses. \n\nIn 7.7 percent of responses, pink slime sites were the only sources at all that were cited in chatbot responses, although other sources appeared in the source list provided at the end of the response. \n\nNone of the AI tools received results they'd probably be eager to boast about, though the percentage of chatbots' responses that cited a pink slime site had a relatively large range: 70.8 percent for OpenAI's ChatGPT, 54.2 percent for Microsoft's Copilot, 54.2 percent for Perplexity, 50 percent for Anthropic's Claude, 41.7 percent for Google's Gemini; 37.5 percent for Meta AI and 29.2 percent for xAI's Grok... The seven chatbots were also collectively three times more likely to cite left-leaning pink slime sites (cited in 36.3 percent of responses) than their right-leaning counterparts (cited in 11.9 percent of responses) — though that may have more to do with the progressive sites' far more frequent posting than any political bias from the chatbots. \n\n\"While citing the pink slime sites, only one chatbot response out of 168 total queries noted the partisan nature of the source,\" the article points out. \nBut they also note that the real problem seems to be that consumer-oriented AI chatbots just \"use much of the internet's content — regardless of the reliability or standards of the source — to frame their answers.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Sep 28, 2026 08:34",
-    "published_at": "2026-09-28T08:34:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "ESP32-S3 powers EWatch smartwatch with open drivers and DIY options",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367744",
-    "description": "EWatch, developed by Ewan Wills, is a programmable ESP32-S3 smartwatch with a 1.69-inch color touchscreen, 350mAh battery, vibration feedback and USB-C connectivity. The platform is offered as a bare PCB, self-assembly kit or complete watch, following more than five years of development. The EWatch hardware is built around the ESP32-S3, with Wi-Fi and Bluetooth Low […]",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367744",
-    "date": "Sep 28, 2026 08:33",
-    "published_at": "2026-09-28T08:33:16Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "PlayStation 3 emulator RPCS3 gets a new showcase of big improvements",
-    "link": "https://www.gamingonlinux.com/2026/09/playstation-3-emulator-rpcs3-gets-a-new-showcase-of-big-improvements/",
-    "description": "RPCS3 is a multi-platform open-source Sony PlayStation 3 emulator that keeps pulling in some massive improvements - check out their new showcase.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/09/playstation-3-emulator-rpcs3-gets-a-new-showcase-of-big-improvements/",
-    "date": "Sep 28, 2026 07:29",
-    "published_at": "2026-09-28T07:29:20Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1875693965id29851gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Hytale Chapter 1 arrives October 12 with lots of new content",
-    "link": "https://www.gamingonlinux.com/2026/09/hytale-chapter-1-arrives-october-12-with-lots-of-new-content/",
-    "description": "Hytale is set for a huge content expansion with Chapter 1 arriving October 12th, bringing the first hand-crafted dungeon and a multi-phase boss fight.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/09/hytale-chapter-1-arrives-october-12-with-lots-of-new-content/",
-    "date": "Sep 28, 2026 07:14",
-    "published_at": "2026-09-28T07:14:55Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/277697739id29850gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "OpenShot 4.0.1 Video Editor Released with Timeline and Zoom Improvements",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367763",
-    "description": "OpenShot 4.0.1 is now available for download as the first maintenance update to the latest OpenShot 4.0 series of this open-source, free, and cross-platform video editing software written in Qt.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367763",
-    "date": "Sep 28, 2026 07:01",
-    "published_at": "2026-09-28T07:01:47Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "FEX code cache enabled for Proton Experimental (ARM) to improve frame timings",
-    "link": "https://www.gamingonlinux.com/2026/09/fex-code-cache-enabled-for-proton-experimental-arm-to-improve-frame-timings/",
-    "description": "Valve have upgraded Proton Experimental (ARM) with a feature that should hopefully improve some frame timings for devices like the Steam Frame.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/09/fex-code-cache-enabled-for-proton-experimental-arm-to-improve-frame-timings/",
-    "date": "Sep 28, 2026 06:52",
-    "published_at": "2026-09-28T06:52:41Z",
-    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/fex-logo_gol2_a0ff41f0.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Steam Beta fixes non-Steam games to failing to launch",
-    "link": "https://www.gamingonlinux.com/2026/09/steam-beta-fixes-non-steam-games-to-failing-to-launch/",
-    "description": "Now and then a fresh Steam Beta comes with issues - and for Linux, Valve recently broke non-Steam games.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/09/steam-beta-fixes-non-steam-games-to-failing-to-launch/",
-    "date": "Sep 28, 2026 06:41",
-    "published_at": "2026-09-28T06:41:48Z",
-    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/steam_plain_2025.jpg",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Klassik Revives the KDE 3 Desktop on Modern Plasma 6",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367756",
-    "description": "Klassik is a modern KDE Plasma 6 project recreating the look and feel of KDE 3 while supporting Wayland and fractional scaling.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367756",
-    "date": "Sep 28, 2026 05:30",
-    "published_at": "2026-09-28T05:30:17Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Apple Faces $5.7 Billion Patent Infringement Verdict Over iPhone And Apple Watch Haptics",
-    "link": "https://apple.slashdot.org/story/26/09/27/0751219/apple-faces-57-billion-patent-infringement-verdict-over-iphone-and-apple-watch-haptics?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "\"A federal jury in San Diego awarded Taction Technology more than $5.7 billion in damages Friday after finding that Apple infringed claims from two haptics patents,\"\nreports CNBC:\n\nTaction sued Apple in 2021 in the U.S. District Court for the Southern District of California. The company alleged that Apple was improperly \"capitalizing on Taction's innovation and success\" by selling devices that infringed on its vibration technology, according to the complaint. Apple initially won dismissal in 2023, and the Federal Circuit later revived the case.... \n\nTaction argued that Apple's \"Taptic Engine,\" which is embedded in its Apple Watches and iPhones, uses its inventions without proper license or authority.\n\n \n\nTaction's lead counsel told CNBC \"Taction waited five and a half years for this case to get to trial, so it was a long time coming.\" \n\nCNBC also reported that the jury \"did not find Apple's infringement willful\" — and that Apple said they'd appeal.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Sep 28, 2026 04:04",
-    "published_at": "2026-09-28T04:04:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Everything About /proc File System on Linux",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367764",
-    "description": "In this article, you'll learn about the proc file system (short for \"procfs\", referring to the \"/proc\" directory) and how it's useful to check the running processes related information on Linux.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367764",
-    "date": "Sep 28, 2026 02:27",
-    "published_at": "2026-09-28T02:27:18Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Linux Kernel's LZ4 Compression Code Being Resynced For Better Performance \u0026 Cleanliness",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367750",
-    "description": "In addition to the Linux kernel's Zstd compression code being improved, the LZ4 compression code within the kernel tree is also seeing a separate set of enhancements...",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367750",
-    "date": "Sep 28, 2026 00:55",
-    "published_at": "2026-09-28T00:55:49Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Just How Big is the AI Buildout - and How Risky?",
-    "link": "https://slashdot.org/story/26/09/25/230252/just-how-big-is-the-ai-buildout---and-how-risky?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "A new Brookings Institution study notes the \"strikingly physical\" economic footprint of AI's buildout, from specialized chips and electricity to purpose-built data centers. (Two-thirds of a data center's costs are IT equipment, with one-third going to real estate and its associated power infrastructure.) \"At an average of 3.63 percent of GDP per year, the projected buildout would be larger relative to the economy than the major U.S. canal, railroad, electrification, highway, and telecommunications investment booms.\" \n\nThis is pushing up prices for workers, electricity, and even commercial real estate (as well as consumer products that use chips), notes the Wall Street Journal, and reducing the construction on new houses and apartment buildings. And in addition, the paper points out, projections for this buildout \"would double the electricity consumption of the entire U.S. residential sector.\" \n\nThe calculations come from Columbia Business School finance/real estate professor Stijn van Nieuwerburgh — and Reuters explains their significance:\n\nJust as the rail and telecoms expansions led to notable bubbles and busts, Van Nieuwerburgh wrote that the extent of the buildout, the still-untested revenue streams, and the intricate financing structure emerging around AI mean it could be primed for a fall. \"This is freaking complicated,\" he said in a briefing with reporters of the arrangements emerging between AI firms, major tech hyperscalers, banks, private credit lenders, real estate firms, and a host of other players involved in building what he conservatively estimated at 183 gigawatts worth of new data-center capacity over the next seven years, compared with about 57 gigawatts currently installed.... The investment underway already has outstripped what the major players can fund from their own cash flows. The shift to outside financing has increased leverage, redistributed risks across the economy, and made the venture dependent on revenue streams that have yet to be proven, Van Nieuwerburgh noted in the paper, which will be presented on Friday... \n\n\"These developments do not imply that financial distress is imminent. Strong growth in AI applications, high utilization, and continued improvements in model capability could support the projected infrastructure and generate stable cash flows,\" he wrote. \"But the combination of uncertain demand, rapid technological change, execution bottlenecks, and high leverage creates meaningful downside risk if expectations are revised.\" As an example, he wrote that the AI industry will need to be earning about $3.7 trillion in annual revenue by 2032 to achieve the expected return on the investment, and \"given current estimates of annual combined revenues of OpenAI and Anthropic of around $100 billion, revenues would need to grow at roughly 80% per year.\"\n \n\nThe paper suggests policies that \"improve measurement and transparency\" for financing.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Sep 27, 2026 23:34",
-    "published_at": "2026-09-27T23:34:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Linuxiac Weekly Wrap-Up: Week 39, 2026 (September 21 – 27)",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367760",
-    "description": "Catch up on the latest Linux news: MX Linux 25.3, Systemd 262, COSMIC Desktop 1.9, Kitty 0.49, Samba 4.25, Ubuntu kernels move to weekly releases, and more.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367760",
-    "date": "Sep 27, 2026 23:24",
-    "published_at": "2026-09-27T23:24:19Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Ubuntu 26.10: Release Date \u0026 Every New Feature",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367745",
-    "description": "Ubuntu 26.10 brings AI dictation, a smarter memory manager and Windows-style window snapping. Here’s the release date and every confirmed feature.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367745",
-    "date": "Sep 27, 2026 21:52",
-    "published_at": "2026-09-27T21:52:50Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Kernel prepatch 7.3-rc5",
-    "link": "https://lwn.net/Articles/1096959/",
-    "description": "The 7.3-rc5 kernel prepatch is out for\ntesting.  Linus said: \"I don't think there's any real pattern to it\nother than 'big'.  But nothing looks particularly alarming, I think that\ndespite the diffstat it's just the same old, same old.\"",
-    "guid": "https://lwn.net/Articles/1096959/",
-    "date": "Sep 27, 2026 21:40",
-    "published_at": "2026-09-27T21:40:51Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "Linux 7.3-rc5 Released: \"Another Week, Another Large RC\"",
-    "link": "https://www.phoronix.com/news/Linux-7.3-rc5-Released",
-    "description": "In working toward the stable Linux 7.3 kernel release hopefully on 18 October, out today is Linux 7.3-rc5 as the newest weekly test candidate...",
-    "guid": "https://www.phoronix.com/news/Linux-7.3-rc5-Released",
-    "date": "Sep 27, 2026 21:17",
-    "published_at": "2026-09-27T21:17:21Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "postmarketOS Is Now Nura After Major Project Rebrand",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367752",
-    "description": "The Linux-based mobile operating system postmarketOS has officially changed its name to Nura after a year-and-a-half selection process.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367752",
-    "date": "Sep 27, 2026 20:21",
-    "published_at": "2026-09-27T20:21:21Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
   }
 ]
