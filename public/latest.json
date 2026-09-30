@@ -1,5 +1,348 @@
 [
   {
+    "title": "Trump Administration Launches New AI-Powered 'America.gov' Website",
+    "link": "https://tech.slashdot.org/story/26/09/30/1612221/trump-administration-launches-new-ai-powered-americagov-website?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "fahrbot-bot shares a report from CNN: President Donald Trump on Tuesday unveiled America.gov, a government website meant to serve as a one-stop shop for people trying to accomplish basic tasks like renewing a passport, enrolling in Medicare or applying for disaster relief. The site, which launched with some basic functions ahead of a full rollout next year, is designed to serve as an AI-powered guide through the thicket of government agencies that Trump officials pledged would ultimately save people a whole lot of frustration.\n \n The administration's new initiative aims to allow Americans to access dozens of federal websites through a single point, making America.gov akin to a search tool that pulls information from across the government. And in the same way that people increasingly use AI models like ChatGPT or Google Gemini to compile information and provide customized answers, Trump officials claimed that America.gov would be able to do the same for people's interactions with the federal government.\n \nEnrolling in Medicare, for example, will become a matter of typing the request into the America.gov AI tool and following its step-by-step instructions. The same goes for applying to a government job -- the new tool will now let people upload their resume directly to the site -- or answering questions about federal benefits, publicly available documents or other necessities that fall under the federal government's vast umbrella.\n \n\"Our vision is that one day, this type of convenience and simplicity will be across every government service,\" said Joseph Gebbia, who leads the government's National Design Studio. But the reality is that the most advanced actions won't be available until some point in 2027, raising questions about how long it will take for the administration to revamp the way the people interact with the government's websites. The current version of America.gov can only do \"answers.\" U.S. Chief Design Officer Joe Gebbia said the new chatbot is powered by Google's Gemini and Elon Musk's Grok. \"We have great partners behind the scenes,\" Gebbia told CNBC's \"Squawk Box\" shortly before the site, America.gov, went live around 10 a.m. ET.\n \n\"Google is proud to be named a technology partner in this vital initiative, leveraging Gemini to help more than 100 million people access critical public resources with greater speed and ease,\" the company said in a blog post. \"By supporting the administration's vision for digital modernization, we are committed to making these everyday public services seamless, accessible, and responsive for all Americans.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Sep 30, 2026 17:00",
+    "published_at": "2026-09-30T17:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Mozilla Thunderbird 157 Fixes 100% CPU Usage, OpenPGP, and IMAP Issues",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367832",
+    "description": "Mozilla Thunderbird 157 rolls out with fixes for a 100% CPU usage bug, OpenPGP key handling, IMAP message saving, Gmail OAuth2, and CalDAV.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367832",
+    "date": "Sep 30, 2026 16:59",
+    "published_at": "2026-09-30T16:59:49Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "NVIDIA security bulletin for Sept 30 notes many GPU issues",
+    "link": "https://www.gamingonlinux.com/2026/09/nvidia-security-bulletin-for-sept-30-notes-many-gpu-issues/",
+    "description": "NVIDIA released a fresh security bulletin for September 30th that notes quite a lot of issues that have been found in their graphics drivers.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/nvidia-security-bulletin-for-sept-30-notes-many-gpu-issues/",
+    "date": "Sep 30, 2026 16:20",
+    "published_at": "2026-09-30T16:20:31Z",
+    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/nvidia-logo.jpg",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Trump Hosts AI CEOs to Discuss Safety Standards, Rebrands AI as 'Super Intelligence'",
+    "link": "https://politics.slashdot.org/story/26/09/30/0523201/trump-hosts-ai-ceos-to-discuss-safety-standards-rebrands-ai-as-super-intelligence?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "hcs_$reboot writes: Trump hosted executives from OpenAI, Anthropic, Meta, Google, Nvidia, and other tech companies at the White House. They agreed to voluntary AI-safety standards, including independent audits and safeguards aimed at preventing AI systems from accessing or hacking technical systems in unintended ways. Trump also strongly backed the continued rapid expansion of AI data centers, despite concerns over their electricity demand, utility costs, and other impacts on local communities. He said he is considering creating a 10-member board to oversee AI safety and plans to appoint a new White House official to lead AI policy.\n \nThe meeting comes amid growing concerns about the risks posed by advanced AI, including reports from OpenAI and Anthropic that their AI agents had gone rogue and hacked into other companies' systems. A nationwide Reuters/Ipsos poll conducted September 17-20 found that 73% of respondents worried AI companies had not done enough to prevent AI from causing serious harm to society. During the meeting, Trump also directed government agencies to use the term \"super intelligence\" instead of \"artificial intelligence\" when referring to the technology.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Sep 30, 2026 16:00",
+    "published_at": "2026-09-30T16:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "[$] The year in Plasma and what's ahead",
+    "link": "https://lwn.net/Articles/1096518/",
+    "description": "A lot has happened in the KDE\nPlasma desktop environment in the last year. Marco Martin, a KDE contributor\nwho spends most of his time working on Plasma, took the stage at Akademy 2026 in Graz, Austria to give\nan update on Plasma's major new features, some of the minor-but-interesting\nones, and a preview of what's coming soon. The biggest upcoming change, dropping\nX11 support from Plasma, has been well-advertised; but there are also plans\nafoot to further improve remote-desktop support and more.",
+    "guid": "https://lwn.net/Articles/1096518/",
+    "date": "Sep 30, 2026 15:31",
+    "published_at": "2026-09-30T15:31:42Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "Installing WPS Office on Linux (a free MS Office alternative)",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367816",
+    "description": "Discover how to install and use WPS Office, a versatile office suite for Linux users, and explore its features, compatibility, and installation methods.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367816",
+    "date": "Sep 30, 2026 15:28",
+    "published_at": "2026-09-30T15:28:19Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Local AI Weekly #4: The Fine Print of Running AI Locally",
+    "link": "https://feed.itsfoss.com/link/24361/17481812/local-ai-weekly-4",
+    "description": "There is a local desktop AI assistant for KDE Plasma.",
+    "guid": "6abd024a6214c9000176ac83",
+    "date": "Sep 30, 2026 15:25",
+    "published_at": "2026-09-30T15:25:06Z",
+    "image": "https://itsfoss.com/content/images/2026/09/local-ai-weekly-4.png",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "Kernel Recipes videos posted",
+    "link": "https://lwn.net/Articles/1097802/",
+    "description": "The full set\nof videos from the recently concluded Kernel Recipes conference\nhas been posted.  Also noteworthy are the associated caricature drawings,\nby Frank Tizzoni, of attendees\nand the\nspeakers.",
+    "guid": "https://lwn.net/Articles/1097802/",
+    "date": "Sep 30, 2026 15:24",
+    "published_at": "2026-09-30T15:24:51Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "Framework Desktop With AMD Ryzen AI Max+ PRO 495 Starts Out At $6799 USD",
+    "link": "https://www.phoronix.com/news/Framework-Desktop-Gorgon-Halo",
+    "description": "Framework Computer today opened the pre-order process for their updated Framework Desktop featuring the new AMD Ryzen AI Max+ 496 \"Gorgon Halo\" SoC with 192GB of LPDDR5x-8533 memory...",
+    "guid": "https://www.phoronix.com/news/Framework-Desktop-Gorgon-Halo",
+    "date": "Sep 30, 2026 15:15",
+    "published_at": "2026-09-30T15:15:58Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Dutch Police Arrest 'Reformed' Hacker In Shiny Hunters Investigation",
+    "link": "https://yro.slashdot.org/story/26/09/30/055208/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from KrebsOnSecurity: Authorities in the Netherlands have arrested a 24-year-old convicted cybercriminal on suspicion of aiding in data thefts and extortions by the prolific hacker group ShinyHunters. In the days immediately following the suspect's arrest, remaining ShinyHunters members dramatically escalated their attacks, stealing highly sensitive data from the FBI and extorting the Russian ransomware group Cl0p. According to three sources familiar with the matter, the Dutch man arrested by authorities this month is Pepijn van der Stap, a convicted cybercriminal from Almere and Lelystad in the Netherlands. Van der Stap was previously convicted in 2023 in connection with a string of data thefts and extortions that prosecutors said earned between 1.5 million euros and 2.7 million euros.\n \nAt his trial in late 2023, van der Stap admitted that he lived a Dr. Jekyll and Mr. Hyde existence, secretly using the hacker handle \"Umbreon\" to extort victims and post their data on English language hacking communities like the now-defunct RaidForums and Breached. By day, however, van der Stap was working as a software engineer at the Amsterdam-based cybersecurity startup Hadrian, while volunteering at the Dutch Institute for Vulnerability Disclosure (DIVD), a nonprofit security research group. Van der Stap confessed to his data theft and extortion activity, and was sentenced to four years in prison (one of which was suspended). Van der Stap had publicly presented himself as a \"reformed hacker\" after serving prison time for data theft and extortion. In a Sept. 9 interview, KrebsOnSecurity said he claimed he was trying \"to turn his life around and make a positive contribution to society,\" while working in offensive security and attempting to make amends to former victims.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Sep 30, 2026 15:00",
+    "published_at": "2026-09-30T15:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "OpenJDK vs. GraalVM vs. Eclipse Temurin vs. Semeru Java Performance",
+    "link": "https://www.phoronix.com/review/openjdk-graalvm-temurin-semeru",
+    "description": "Immediately following the OpenJDK 8 through OpenJDK 27 benchmarks I expanded the scope of testing to look at how recent OpenJDK releases have been comparing to alternative JVMs like GraalVM, Temurin, and Semeru. Here are those benchmarks if curious about the Java performance in those different environments.",
+    "guid": "https://www.phoronix.com/review/openjdk-graalvm-temurin-semeru",
+    "date": "Sep 30, 2026 14:42",
+    "published_at": "2026-09-30T14:42:29Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Steam Deck / SteamOS support for Minecraft Dungeons II is being worked on",
+    "link": "https://www.gamingonlinux.com/2026/09/steam-deck-steamos-support-for-minecraft-dungeons-ii-is-being-worked-on/",
+    "description": "It was disappointing to see Minecraft Dungeons II launch broken on SteamOS / Linux systems like Steam Deck and Steam Machine but it is being sorted.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/steam-deck-steamos-support-for-minecraft-dungeons-ii-is-being-worked-on/",
+    "date": "Sep 30, 2026 14:41",
+    "published_at": "2026-09-30T14:41:02Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/196690094id29872gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Reports from the 2026 Python Language Summit",
+    "link": "https://lwn.net/Articles/1097761/",
+    "description": "The 2026 Python Language Summit was held on July 14 in Kraków, Poland;\nthere is now a\nseries of reports available on the topics that were discussed there.\nThey include the memory buffer protocol, garbage collection, free-threaded\nPython, and \"Spicycrab\".",
+    "guid": "https://lwn.net/Articles/1097761/",
+    "date": "Sep 30, 2026 14:32",
+    "published_at": "2026-09-30T14:32:36Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "[$] Comparing Chromium development at Google and Igalia",
+    "link": "https://lwn.net/Articles/1094721/",
+    "description": "Sharon Yang is a Chromium developer who worked at Google on the browser\nand now works on it at Igalia.  On the final day of FOSSY 2026, she gave a\npresentation on her experiences with both of those companies, comparing and\ncontrasting the ways the each operates and how that affects work on the\ncode base.  She enjoyed working at Google and feels the same about Igalia,\nso the talk was not aimed at complaints—instead it was meant to give a feel\nfor two companies that are rather different.",
+    "guid": "https://lwn.net/Articles/1094721/",
+    "date": "Sep 30, 2026 14:16",
+    "published_at": "2026-09-30T14:16:19Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "Archinstall 4.5 For Arch Linux Brings AArch64 Improvements, RT Kernel Options",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367815",
+    "description": "Ahead of the October ISO refresh of the Arch Linux media, Archinstall 4.5 released today as the newest update to this convenient, text-based Arch Linux installer...",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367815",
+    "date": "Sep 30, 2026 13:56",
+    "published_at": "2026-09-30T13:56:50Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "The Linux Foundation Technical Advisory Board 2026 election approaches",
+    "link": "https://lwn.net/Articles/1097758/",
+    "description": "The election for members of the Linux Foundation Technical Advisory Board\nwill be held electronically after the close of the upcoming Linux Plumbers Conference.  The call for\ncandidates is open, with a nomination deadline of October 7.\nThere are five seats to fill this time, including the one vacated by the\nunfortunate passing of Dan Williams.\n\nServing on the TAB is a good way to help the kernel-development community.\nPlease see this article from last year for\nan overview of what the TAB does and why membership is rewarding, then\nconsider putting in your nomination.",
+    "guid": "https://lwn.net/Articles/1097758/",
+    "date": "Sep 30, 2026 13:55",
+    "published_at": "2026-09-30T13:55:20Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "Security updates for Wednesday",
+    "link": "https://lwn.net/Articles/1097753/",
+    "description": "Security updates have been issued by AlmaLinux (389-ds:1.4, container-tools:rhel8, go-toolset:rhel8, grafana, httpd:2.4, nodejs:22, postgresql:12, and postgresql:15), Debian (libwebsockets, openssl, and pcre2), Fedora (adwaita-icon-theme, cinnamon, dconf, epiphany, flatpak-builder, gcr, gdm, gjs, glib-networking, glib2, gnome-backgrounds, gnome-calendar, gnome-characters, gnome-chess, gnome-clocks, gnome-connections, gnome-console, gnome-contacts, gnome-control-center, gnome-desktop3, gnome-initial-setup, gnome-keyring, gnome-kiosk, gnome-maps, gnome-remote-desktop, gnome-settings-daemon, gnome-shell, gnome-shell-extensions, gnome-system-monitor, gnome-text-editor, gnome-user-docs, gnote, gnucash, gnucash-docs, gsettings-desktop-schemas, gtk4, hplip, libadwaita, libdex, libsecret, libshumate, libxmp, mingw-llvm, mutter, nautilus, parted, perl-Imager, quadrapassel, rootlesskit, rygel, shotwell, sngrep, sushi, sysprof, tecla, thunderbird, xdg-desktop-portal-gnome, and xdotool), Red Hat (buildah, container-tools:rhel8, containernetworking-plugins, delve, git-lfs, grafana, grafana-pcp, host-metering, ignition, image-builder, osbuild-composer, podman, rhc, rhc-worker-playbook, runc, skopeo, yggdrasil, and yggdrasil-worker-package-manager), Slackware (mozilla-firefox), SUSE (389-ds, amazon-cloudwatch-agent, cjose, corosync, cosign, cups, distribution-registry, expat, firefox, flatpak, glib2, google-osconfig-agent, goose, helm, ImageMagick, jackson-annotations, jackson-bom, jackson-core, jackson- databind, jackson-dataformat-xml, jackson-dataformats-binary, jackson-modules- base, jackson-core, jackson-databind, jackson-dataformat-csv, jsoup, re2j, kbd, kernel, kubectl-cnpg, libpcap, libsoup, libtpms, libX11, libXrender, netty, netty-tcnative, pcre2, perl-Authen-SASL, perl-DBI, python-pymongo, python310, python311, swtpm, terraform-provider-susepubliccloud, and util-linux), and Ubuntu (atril, booth, c-ares, catdoc, dracut, emacs, erlang, freeipmi, libdbi-perl, libheif, linux, linux-aws, linux-azure, linux-fips, linux-gcp, linux-gcp-5.4, linux-gcp-fips, linux-hwe-5.4, linux-iot, linux-kvm, linux-oracle, linux-oracle-5.4, linux-raspi, linux-xilinx-zynqmp, linux, linux-nvidia, linux-aws-fips, linux-aws-fips, linux-azure-fips, linux-fips, linux-bluefield, linux-fips, linux-nvidia-tegra-5.15, openssl, openssl, openssl1.0, pdfminer, php-phpseclib, and plasma-workspace).",
+    "guid": "https://lwn.net/Articles/1097753/",
+    "date": "Sep 30, 2026 13:20",
+    "published_at": "2026-09-30T13:20:42Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "Qt 6.12 LTS Released With QML Hot Reloading, StyleKit In Experimental Form",
+    "link": "https://www.phoronix.com/news/Qt-6.12-LTS-Released",
+    "description": "Qt 6.12 is now available as the newest version of the Qt6 toolkit and also serving as a Long Term Support (LTS) release...",
+    "guid": "https://www.phoronix.com/news/Qt-6.12-LTS-Released",
+    "date": "Sep 30, 2026 13:20",
+    "published_at": "2026-09-30T13:20:00Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Rusticl Had A Great Year For Rust OpenCL In Mesa With 3.1 Support, More Drivers",
+    "link": "https://www.phoronix.com/news/Rusticl-2026",
+    "description": "Rusticl lead developer Karol herbst provided a status update on this Mesa Rust-based OpenCL driver during the XDC 2026 conference happening in Toronto...",
+    "guid": "https://www.phoronix.com/news/Rusticl-2026",
+    "date": "Sep 30, 2026 13:03",
+    "published_at": "2026-09-30T13:03:20Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Best Linux Distros That Run Entirely in RAM (2026 Guide)",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367825",
+    "description": "Boot from USB, unplug it, and keep working. Compare 10 Linux distros that run entirely in RAM, with pros, cons, RAM needs, and best use cases.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367825",
+    "date": "Sep 30, 2026 12:25",
+    "published_at": "2026-09-30T12:25:21Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Linux 7.4 To Support The NPU On AMD Ryzen AI Max 400 Series \"Gorgon Halo\"",
+    "link": "https://www.phoronix.com/news/AMD-Gorgon-Halo-NPU-LInux",
+    "description": "While the AMD Ryzen AI 400 series \"Gorgon Halo\" systems are nearing the marketplace, the NPU support for Linux was seemingly overlooked until now. But at least the simple enablement patch looks like it will arrive for the upcoming Linux 7.4 kernel...",
+    "guid": "https://www.phoronix.com/news/AMD-Gorgon-Halo-NPU-LInux",
+    "date": "Sep 30, 2026 12:20",
+    "published_at": "2026-09-30T12:20:14Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Microsoft Has Made WSL Containers Available to Everyone",
+    "link": "https://feed.itsfoss.com/link/24361/17480952/wslc-general-availability",
+    "description": "Previously in public preview, it now offers new commands, Consommé networking, and Intune registry controls.",
+    "guid": "6abc959f6214c9000176aa56",
+    "date": "Sep 30, 2026 12:19",
+    "published_at": "2026-09-30T12:19:57Z",
+    "image": "https://itsfoss.com/content/images/2026/09/wslc-general-availability-banner.png",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "Wearable Nanotech Could Combat Nerve Agents",
+    "link": "https://science.slashdot.org/story/26/09/30/0457204/wearable-nanotech-could-combat-nerve-agents?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "alternative_right shares a report from Phys.org: Nanoparticles could someday provide a new way to help soldiers fight back against deadly nerve agents on the front lines. In a new study, Northwestern University scientists developed a nanoparticle-based compound that, when mixed into clothing dyes, could limit the impact of chemicals commonly found in pesticides, insecticides and nerve agents. Manufacturers could potentially add the nanoparticles to clothing used by those most at risk, such as farmers' masks and gloves or soldiers' uniforms and tactical gear. Or, if someone is exposed to a potentially deadly chemical, they could spray their clothing with water mixed with the compound to deactivate the chemical before its damaging effects take hold. The study has been published in the journal ACS Nano.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Sep 30, 2026 11:00",
+    "published_at": "2026-09-30T11:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Proposal To Set ARM64 Kernel Stack Size At Boot Time To Reduce Memory Consumption",
+    "link": "https://www.phoronix.com/news/ARM64-Linux-Stack-Size-Boot",
+    "description": "A proposal was posted this week to the Linux kernel mailing list by a Google engineer to make it easier for ARM64 Linux to adjust the kernel stack size. The motivation for doing so to configure the kernel stack size during boot time is on reducing system memory consumption...",
+    "guid": "https://www.phoronix.com/news/ARM64-Linux-Stack-Size-Boot",
+    "date": "Sep 30, 2026 10:27",
+    "published_at": "2026-09-30T10:27:00Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Intel Media Driver 2026Q3 Introduces Crescent Island Support",
+    "link": "https://www.phoronix.com/news/Intel-Media-Crescent-Island",
+    "description": "Released overnight was the Intel Media Driver 2026Q3 stack for providing the latest open-source video encode/decode capabilities on Intel integrated/discrete graphics hardware. Most notable with the new release is rolling out Crescent Island support...",
+    "guid": "https://www.phoronix.com/news/Intel-Media-Crescent-Island",
+    "date": "Sep 30, 2026 10:11",
+    "published_at": "2026-09-30T10:11:06Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Mesa Developers To Work Toward Eliminating TGSI IR",
+    "link": "https://www.phoronix.com/news/Mesa-Toward-Eliminating-TGSI",
+    "description": "TGSI was the intermediate representation (IR) developed for Mesa's Gallium3D drivers by Tungsten Graphics at the time. It worked fine more than a decade ago but since then the Mesa front-ends and hardware drivers have largely transitioned over to the superior NIR format. Work is underway toward eliminating TGSI in the Mesa codebase...",
+    "guid": "https://www.phoronix.com/news/Mesa-Toward-Eliminating-TGSI",
+    "date": "Sep 30, 2026 09:55",
+    "published_at": "2026-09-30T09:55:14Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Here comes the algorithm - Valve updating Steam to show different games for discounts and events",
+    "link": "https://www.gamingonlinux.com/2026/09/here-comes-the-algorithm-valve-updating-steam-to-show-different-games-for-discounts-and-events/",
+    "description": "Valve have announced some big changes coming to how they display discounts and events - to hopefully help highlight more different games.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/here-comes-the-algorithm-valve-updating-steam-to-show-different-games-for-discounts-and-events/",
+    "date": "Sep 30, 2026 09:02",
+    "published_at": "2026-09-30T09:02:37Z",
+    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/steam_plain_2025.jpg",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Classic strategy game DEFCON from Introversion Software gets a free 20th Anniversary Edition upgrade",
+    "link": "https://www.gamingonlinux.com/2026/09/classic-strategy-game-defcon-from-introversion-software-gets-a-free-20th-anniversary-edition-upgrade/",
+    "description": "Introversion Software released a major upgrade for their 2006 classic DEFCON, a free 20th Anniversary Edition upgrade for all players.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/classic-strategy-game-defcon-from-introversion-software-gets-a-free-20th-anniversary-edition-upgrade/",
+    "date": "Sep 30, 2026 08:52",
+    "published_at": "2026-09-30T08:52:20Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1619726167id29870gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "The Big Break Showcase was stacked with reveals from Coffee Stain and others",
+    "link": "https://www.gamingonlinux.com/2026/09/the-big-break-showcase-was-stacked-with-reveals-from-coffee-stain-and-others/",
+    "description": "The Big Break Showcase from Coffee Stain just happened and it was absolutely crammed full of some really great looking games and updates for existing games.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/09/the-big-break-showcase-was-stacked-with-reveals-from-coffee-stain-and-others/",
+    "date": "Sep 30, 2026 08:43",
+    "published_at": "2026-09-30T08:43:39Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/324959197id29869gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "The Night Sky Is Getting 10% Brighter Every Year",
+    "link": "https://science.slashdot.org/story/26/09/30/0452204/the-night-sky-is-getting-10-brighter-every-year?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "fjo3 quotes a report from The Guardian, written by Tove Danovich: Every year, the night sky is becoming 10% brighter. Eighty percent of people live under light-polluted skies. And while the UN declared a healthy environment -- clean air, clean water -- to be a human right, I believe we also all have a right to darkness as well. This doesn't mean turning off every streetlamp. But do we really need bright white floodlights at the front of every garage? Replacing lights with ones that are bright enough to do the job -- and no brighter -- might make it so I wouldn't have to get in my car and drive for hours to see the night sky as it actually shines above us. To preserve the darkness would mean rules and enforcement around the warmth of the lights, where they point, and how bright they can be. It would mean not putting in three lights when one would do. If we recognized that darkness is something we need, we'd become more careful about chasing it away.\n \n[...] Access to darkness is about more than stargazing. The night is its own habitat. Artificial lights confuse animals who use the moon to navigate, whether they're baby sea turtles navigating toward a parking lot instead of the ocean or moths who fly in circles around a lightbulb. Lightning bugs and frogs need darkness to complete their courtship rituals. Migrating birds get thrown off course by the bright lights of big cities. But the effects of light pollution linger even after it's daylight again, becoming visible. Research has shown light pollution is breaking the relationship between plants and pollinators, changing the time of year trees break into flower, and disrupting circadian rhythms for all living creatures. This includes humans. Whether it's artificial lights indoors or creeping in through the window at night, studies have found that we need darkness in order to rest, recover and stay healthy.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Sep 30, 2026 07:00",
+    "published_at": "2026-09-30T07:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Dual 2.5GbE and DDR5-6400 across four Wildcat Lake NUC platforms",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367791",
+    "description": "ASRock Industrial has announced four compact platforms based on Intel Core Series 3 “Wildcat Lake-U” processors. The lineup includes the NUC BOX-320 and NUC BOX-304 mini PCs, alongside the NUC-320 and NUC-304 motherboards, with up to 40 TOPS of AI performance, DDR5 memory, dual 2.5GbE networking, and multi-display support for embedded applications. The platforms use […]",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367791",
+    "date": "Sep 30, 2026 04:06",
+    "published_at": "2026-09-30T04:06:10Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Tech Workers Made ChatGPT Drive a Toyota Corolla",
+    "link": "https://tech.slashdot.org/story/26/09/29/1921233/tech-workers-made-chatgpt-drive-a-toyota-corolla?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from 404 Media: Some tech workers in San Francisco hooked up ChatGPT to a Toyota Corolla and got it to drive around a parking lot. This may not sound impressive in the age of the self-driving car until you realize that the LLM driving the car was a general purpose chatbot running on a laptop and not the purpose-built driving system based on millions of hours of training data used by Waymo or Tesla.\n \nThe people behind the stunt call themselves DrivingBench and they've posted their code, their prompts, and videos of the experiment online. In the experiment, DrivingBench hooked up GPT-6 Astra, Claude Fable 5.1, Grok 4.6, and GPT-5.6 Sol to a Toyota Corolla and gave the LLMs control over the car's steering, accelerator, and brakes. Then they set up a small cone course in a public parking lot and prompted the chatbots to navigate the space.\n \nThe goal, they said, was to find out if untrained, off-the-shelf frontier AIs can drive a real car. The results were mixed. Grok, Sol, and Fable only drove a few meters and didn't finish the course. GPT-6 Astra, however, did eventually learn to navigate the course and complete it. But not without a lot of troubleshooting.\n\n\"It's an interesting demonstration of potential emergent capabilities,\" said Mahns. \"It can fail a turn, and then the next turn, next try, it will be able to do that turn and other turns that it hasn't seen before. Not necessarily saying LLMs are gonna put Waymo out of business or something, just an interesting demonstration of where things are, and things are just moving fast.\"\n \n\"Most people that are familiar with ChatGPT have used it in this white collar, kind of like in the computer, and it's definitely imminent to the point that this capability will start having more impact in the physical world. So I think seeing the sparks of this happening, the shift of this utility coming into the physical world, is also somewhat exciting.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Sep 30, 2026 03:30",
+    "published_at": "2026-09-30T03:30:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "hw-monitor 0.6 Released With Per-Process GPU Usage \u0026 Memory Reporting",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367804",
+    "description": "For those after in-depth hardware and system monitoring support from the Linux desktop, hw-monitor continues to advance as one of the modern options. Released on Monday was hw-monitor 0.6 with per-process GPU reporting metrics when using capable DRM drivers like the AMDGPU, Intel i915 and Xe, and Nouveau drivers...",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367804",
+    "date": "Sep 30, 2026 02:34",
+    "published_at": "2026-09-30T02:34:40Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
     "title": "The Netherlands Picked NixOS. France Was Already Using It",
     "link": "https://feed.itsfoss.com/link/24361/17478137/france-nixos-move",
     "description": "France’s digital agency has been using NixOS on internal workstations for months through Sécurix, its open-source, security-hardened configuration.",
@@ -21,14 +364,14 @@
     "source_url": "https://lxer.com/"
   },
   {
-    "title": "Archinstall 4.5 For Arch Linux Brings AArch64 Improvements, RT Kernel Options",
-    "link": "https://www.phoronix.com/news/Arch-Linux-Archinstall-4.5",
-    "description": "Ahead of the October ISO refresh of the Arch Linux media, Archinstall 4.5 released today as the newest update to this convenient, text-based Arch Linux installer...",
-    "guid": "https://www.phoronix.com/news/Arch-Linux-Archinstall-4.5",
-    "date": "Sep 30, 2026 00:25",
-    "published_at": "2026-09-30T00:25:51Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
+    "title": "Branch Target Reuse, BTR: New Spectre V2 Attack Targeting JIT Compilers",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367810",
+    "description": "It's been a while since any new Spectre vulnerabilities have come to light but that's changing today. The embargo has now lifted on BTR, Branch Target Reuse as a new Spectre-V2 attack affecting just-in-time (JIT) compilers...",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367810",
+    "date": "Sep 29, 2026 23:31",
+    "published_at": "2026-09-29T23:31:41Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
   },
   {
     "title": "Firefox Redesign Brings Round Tabs, New Themes, and Compact Mode",
@@ -96,7 +439,7 @@
   {
     "title": "McDonald's Reportedly Using AI to 'Dynamically' Price Its Burgers",
     "link": "https://tech.slashdot.org/story/26/09/29/1815221/mcdonalds-reportedly-using-ai-to-dynamically-price-its-burgers?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "McDonald's is reportedly using AI-powered pricing tools to recommend menu prices based on what customers near individual restaurants are willing to pay. Franchisees technically retain control over final prices, but some told Reuters they feel pressured to follow the algorithm's recommendations. \"A corporate document reviewed by the publication shows that McDonald's tracks adherence to the platform, and notes any deviations from the algorithm's price recommendations,\" reports Engadget. From the report: Reuters got a look at the interface that franchisees use to access this technology and it's pretty creepy. Messages show stuff like \"your restaurant is showing MEDIUM SENSITIVITY to price\" based on \"customer willingness to pay in your area.\" Cost differences at nearby locations can be stark. Researchers found that a Bic Mac at a Fresno, California store cost $5.69, but the same burger cost $6.89 at another branch two miles down the road. That's a 21 percent difference.\n \nThe company acknowledges that using this dynamic pricing system could open up franchisees to legal hurdles, all while continuing to push the platform. The pricing portal's terms of service reportedly warns that owners \"may be competitors of each other\" and \"it is particularly important for all Users of the Tool to understand and comply fully with antitrust and competition laws.\" The document also reiterates that franchisees are \"always free to determine the final price,\" thus potentially absolving corporate from any antitrust concerns.\n \nMcDonald's has decried Reuters' reporting as \"speculative and uninformed.\" The company says the pricing portal is \"a tool, not a mandate, designed to provide restaurant-specific recommendations to help franchisees deliver value for customers and make informed business decisions.\" The company has been using some version of this technology since at least 2019, according to Reuters. In 2023, however, CEO Kempczinski boasted to investors that it had developed proprietary tools to evaluate pricing at individual restaurants.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "description": "McDonald's is reportedly using AI-powered pricing tools to recommend menu prices based on what customers near individual restaurants are willing to pay. Franchisees technically retain control over final prices, but some told Reuters they feel pressured to follow the algorithm's recommendations. \"A corporate document reviewed by the publication shows that McDonald's tracks adherence to the platform, and notes any deviations from the algorithm's price recommendations,\" reports Engadget. From the report: Reuters got a look at the interface that franchisees use to access this technology and it's pretty creepy. Messages show stuff like \"your restaurant is showing MEDIUM SENSITIVITY to price\" based on \"customer willingness to pay in your area.\" Cost differences at nearby locations can be stark. Researchers found that a Big Mac at a Fresno, California store cost $5.69, but the same burger cost $6.89 at another branch two miles down the road. That's a 21 percent difference.\n \nThe company acknowledges that using this dynamic pricing system could open up franchisees to legal hurdles, all while continuing to push the platform. The pricing portal's terms of service reportedly warns that owners \"may be competitors of each other\" and \"it is particularly important for all Users of the Tool to understand and comply fully with antitrust and competition laws.\" The document also reiterates that franchisees are \"always free to determine the final price,\" thus potentially absolving corporate from any antitrust concerns.\n \nMcDonald's has decried Reuters' reporting as \"speculative and uninformed.\" The company says the pricing portal is \"a tool, not a mandate, designed to provide restaurant-specific recommendations to help franchisees deliver value for customers and make informed business decisions.\" The company has been using some version of this technology since at least 2019, according to Reuters. In 2023, however, CEO Kempczinski boasted to investors that it had developed proprietary tools to evaluate pricing at individual restaurants.\n\n\n\n\n\nRead more of this story at Slashdot.",
     "guid": "",
     "date": "Sep 29, 2026 20:00",
     "published_at": "2026-09-29T20:00:00Z",
@@ -157,22 +500,22 @@
     "source_url": "https://lwn.net"
   },
   {
+    "title": "Meta Releases OpenZL 0.3 With Decompression Speed 144% Faster Than Zstd",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367808",
+    "description": "Just shy of one year ago Meta announced OpenZL as a format-ware compression framework focused on delivering both high compression ratios and high speed compression/decompression. OpenZL has continued making more optimizations and out today is OpenZL v0.3 and advertising some huge gains over Zstandard (Zstd) that is also worked on by Meta engineers...",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367808",
+    "date": "Sep 29, 2026 17:09",
+    "published_at": "2026-09-29T17:09:37Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
     "title": "Microsoft Announces General Availability Of WSLC: Linux Containers On Windows",
     "link": "https://www.phoronix.com/news/Microsoft-WSLC-Linux-Containers",
     "description": "Following the public preview of Linux containers on WSL, Microsoft today announced the general availability of WSLC for supporting Linux containers on Windows...",
     "guid": "https://www.phoronix.com/news/Microsoft-WSLC-Linux-Containers",
     "date": "Sep 29, 2026 17:09",
     "published_at": "2026-09-29T17:09:12Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Branch Target Reuse, BTR: New Spectre V2 Attack Targeting JIT Compilers",
-    "link": "https://www.phoronix.com/news/Branch-Target-Reuse-BTR",
-    "description": "It's been a while since any new Spectre vulnerabilities have come to light but that's changing today. The embargo has now lifted on BTR, Branch Target Reuse as a new Spectre-V2 attack affecting just-in-time (JIT) compilers...",
-    "guid": "https://www.phoronix.com/news/Branch-Target-Reuse-BTR",
-    "date": "Sep 29, 2026 17:00",
-    "published_at": "2026-09-29T17:00:00Z",
     "source": "phoronix.com",
     "source_url": "https://www.phoronix.com/"
   },
@@ -205,16 +548,6 @@
     "guid": "https://www.phoronix.com/news/Ubuntu-26.10-Snapdragon-Concept",
     "date": "Sep 29, 2026 16:15",
     "published_at": "2026-09-29T16:15:36Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Meta Releases OpenZL 0.3 With Decompression Speed 144% Faster Than Zstd",
-    "link": "https://www.phoronix.com/news/OpenZL-0.3-Released",
-    "description": "Just shy of one year ago Meta announced OpenZL as a format-ware compression framework focused on delivering both high compression ratios and high speed compression/decompression. OpenZL has continued making more optimizations and out today is OpenZL v0.3 and advertising some huge gains over Zstandard (Zstd) that is also worked on by Meta engineers...",
-    "guid": "https://www.phoronix.com/news/OpenZL-0.3-Released",
-    "date": "Sep 29, 2026 16:06",
-    "published_at": "2026-09-29T16:06:44Z",
     "source": "phoronix.com",
     "source_url": "https://www.phoronix.com/"
   },
@@ -272,18 +605,8 @@
     "source_url": "https://slashdot.org/"
   },
   {
-    "title": "hw-monitor 0.6 Released With Per-Process GPU Usage \u0026 Memory Reporting",
-    "link": "https://www.phoronix.com/news/hw-monitor-0.6",
-    "description": "For those after in-depth hardware and system monitoring support from the Linux desktop, hw-monitor continues to advance as one of the modern options. Released on Monday was hw-monitor 0.6 with per-process GPU reporting metrics when using capable DRM drivers like the AMDGPU, Intel i915 and Xe, and Nouveau drivers...",
-    "guid": "https://www.phoronix.com/news/hw-monitor-0.6",
-    "date": "Sep 29, 2026 14:23",
-    "published_at": "2026-09-29T14:23:58Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
     "title": "Firefox in a New Skin! Nova Redesign Has Become The Default",
-    "link": "https://feed.itsfoss.com/link/24361/17477496/firefox-nova-redesign",
+    "link": "https://feed.itsfoss.com/link/24361/17478367/firefox-nova-redesign",
     "description": "Six months after the mockups leaked, the Firefox 157 release is the one that got it done.",
     "guid": "6abb5d3c2f4ed50001739f44",
     "date": "Sep 29, 2026 13:54",
@@ -311,6 +634,16 @@
     "published_at": "2026-09-29T12:31:30Z",
     "source": "phoronix.com",
     "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "NVIDIA Developing \"Display Config Server\" To Improve Linux/Wayland On Display Walls",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367781",
+    "description": "As an initiative from NVIDIA for improving the Linux ecosystem outside the world of AI, they have been developing Display-Config-Server as a new solution to help enhance the Linux capabilities for complex display walls...",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367781",
+    "date": "Sep 29, 2026 12:27",
+    "published_at": "2026-09-29T12:27:15Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
   },
   {
     "title": "D7VK version 2.3 released and mature enough to now be in maintenance mode",
@@ -364,17 +697,6 @@
     "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/921483741id29865gol.webp",
     "source": "gamingonlinux.com",
     "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "El Nino Bursts Through Temperature Record Months Before Peak",
-    "link": "https://news.slashdot.org/story/26/09/29/054253/el-nino-bursts-through-temperature-record-months-before-peak?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "The current El Nino has already surpassed the highest Pacific temperature anomaly recorded in the modern era, reaching 3.05C above the 1991-2020 average months before its expected peak. The commonly used ONI measure is also on the verge of breaking the 2015 record. Forecasts cited by The Guardian suggest the event could reach about 4.0C later this year. From the report: The latest data shows the temperature rise at the heart of El Nino in the Pacific Ocean has now reached 3.05C. That is higher than the 3.02C set in late November 2015, the previous high set in the 150 years of modern records. This temperature is measured against the average of 1991-2020. The preferred measure of most meteorologists uses a 30-year rolling average as a reference and so takes account of human-caused global heating. This metric, called ONI (Nino3.4), is on the brink of breaking the record, just one-hundredth of a degree below the 2015 record. Both metrics are underpinned by data from the US National Oceanic and Atmospheric Administration (NOAA).\n \nThe most recent forecasts predict a peak of 4.0C in November and December, according to the average of 14 different models assessed by climate scientist Zeke Hausfather. That is a level so far above previous events that Hausfather called it \"mind-blowing,\" while others have described it as \"Godzilla-level.\" Any temperature rise above 0.5C is deemed an El Nino; above 2C is officially called a \"very strong\" El Nino -- often referred to as a \"super\" El Nino. The current El Nino is likely to be the largest in at least 1,000 years and will pile extra heat into an atmosphere in which temperatures are already rising rapidly due to human-caused global heating. This double whammy means 2027 is expected to \"blow apart\" previous records and become the hottest year ever recorded.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Sep 29, 2026 11:00",
-    "published_at": "2026-09-29T11:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
   },
   {
     "title": "Git 2.56 Adds New Options for Cleaning Up Branches and Resolving Conflicts",
@@ -447,196 +769,5 @@
     "published_at": "2026-09-29T09:24:15Z",
     "source": "lxer.com",
     "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Devil May Cry HD Collection will now work properly on SteamOS / Linux",
-    "link": "https://www.gamingonlinux.com/2026/09/devil-may-cry-hd-collection-will-now-work-properly-on-steamos-linux/",
-    "description": "Capcom recently gave Devil May Cry HD Collection a small update, and as a result it will now work properly on SteamOS / Linux systems.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/09/devil-may-cry-hd-collection-will-now-work-properly-on-steamos-linux/",
-    "date": "Sep 29, 2026 08:58",
-    "published_at": "2026-09-29T08:58:27Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/127448824id29862gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "The deeper you go the darker it gets in the roguelike shoot 'em up Earth Atlantis Abyss",
-    "link": "https://www.gamingonlinux.com/2026/09/the-deeper-you-go-the-darker-it-gets-in-the-roguelike-shoot-em-up-earth-atlantis-abyss/",
-    "description": "Earth Atlantis Abyss is a shoot 'em up roguelike about going deeper than is sensible, the dark depths look a bit spooky.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/09/the-deeper-you-go-the-darker-it-gets-in-the-roguelike-shoot-em-up-earth-atlantis-abyss/",
-    "date": "Sep 29, 2026 08:05",
-    "published_at": "2026-09-29T08:05:21Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1868780134id29861gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Mozilla Firefox 158 Enters Public Beta Testing with Better PDF Handling",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367785",
-    "description": "With the release of Firefox 157 rolling out to all supported platforms, Mozilla promoted the next major release, Firefox 158, to the beta channel for public testing, so it’s time to take a look at the new features and improvements.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367785",
-    "date": "Sep 29, 2026 07:52",
-    "published_at": "2026-09-29T07:52:46Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Test your brain with the Programming Puzzles Humble Bundle",
-    "link": "https://www.gamingonlinux.com/2026/09/test-your-brain-with-the-programming-puzzles-humble-bundle/",
-    "description": "Ready to test your brain and make something cool? The Programming Puzzles Humble Bundle is live with 7 highly rated games included.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/09/test-your-brain-with-the-programming-puzzles-humble-bundle/",
-    "date": "Sep 29, 2026 07:38",
-    "published_at": "2026-09-29T07:38:40Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/977595092id29860gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "The truly hilarious co-op game How to Fish gets a first content update",
-    "link": "https://www.gamingonlinux.com/2026/09/the-truly-hilarious-co-op-game-how-to-fish-gets-a-first-content-update/",
-    "description": "How to Fish is a co-op game about fishing in the most ridiculous way with explosive weapons, it's hilarious and now bigger and better.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/09/the-truly-hilarious-co-op-game-how-to-fish-gets-a-first-content-update/",
-    "date": "Sep 29, 2026 07:18",
-    "published_at": "2026-09-29T07:18:05Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1101037836id29859gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Minecraft Dungeons II doesn't seem to run on SteamOS / Linux",
-    "link": "https://www.gamingonlinux.com/2026/09/minecraft-dungeons-ii-doesnt-seem-to-run-on-steamos-linux/",
-    "description": "Minecraft Dungeons II is about to release today and while the first game works, it currently appears that there's issues running the sequel on SteamOS / Linux.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/09/minecraft-dungeons-ii-doesnt-seem-to-run-on-steamos-linux/",
-    "date": "Sep 29, 2026 07:11",
-    "published_at": "2026-09-29T07:11:03Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1694954075id29858gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "ACE COMBAT 8: WINGS OF THEVE shows online play not working on SteamOS / Linux",
-    "link": "https://www.gamingonlinux.com/2026/09/ace-combat-8-wings-of-theve-shows-online-play-not-working-on-steamos-linux/",
-    "description": "ACE COMBAT 8: WINGS OF THEVE is now in Advanced Access, and while the single-player works the online play appears blocked on SteamOS / Linux.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/09/ace-combat-8-wings-of-theve-shows-online-play-not-working-on-steamos-linux/",
-    "date": "Sep 29, 2026 07:02",
-    "published_at": "2026-09-29T07:02:04Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1188815950id29857gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Microbes Could Survive On Saturn's Moon Enceladus",
-    "link": "https://science.slashdot.org/story/26/09/28/2140251/microbes-could-survive-on-saturns-moon-enceladus?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "New research suggests Enceladus may be an especially promising place to search for extraterrestrial life: microbes similar to those found near Earth's hydrothermal vents survived in lab conditions designed to mimic the Saturnian moon's subsurface ocean. A separate study also found that material blasted from Enceladus' plumes may naturally separate and concentrate salts, organics and potential biosignatures into individual ice grains, potentially making them easier for future spacecraft to detect.\n \n\"That is great news in the search for life,\" Frank Postberg, lead author of one and co-author of the other of these new studies and professor at Freie Universitat Berlin, said in a statement. \"Future spacecraft will have to analyze many individual ice particles in the plume. But if they come across one with microbial material in it, they could identify biosignatures in the particle relatively easy with already available technology.\" Space.com reports: Enceladus isn't the only place in our solar system with water -- so, why is it so exciting in the search for life? Well, it has to do with the seafloor of its extensive, liquid ocean. Down deep at the bottom of this body of water, scientists think hydrothermal processes, or movement or reactions with hot water under the surface, are taking place. The plumes shooting upward from the ocean also contain trace amounts of salts and organic compounds. NASA's Cassini spacecraft found these traces when it flew through the plumes over a decade ago. Between the hydrothermal activity and the organics and minerals in the water, this moon's ocean has a number of aspects that could be involved in supporting life.\n \nWhat's more, using a combination of Cassini data, theoretical models and laboratory experimentation, in Postberg's new study the team found that the plume's water droplets blasting out into space at up to 621 miles per hour (1,000 kilometers per hour) don't freeze as quickly as expected. Before, scientists thought the freeze would happen instantaneously once the droplets reached space, but Postberg and fellow researchers say they found the freezing would actually happen much slower.\n \nThey also found that during this freezing process, the salt, organic compounds (and maybe possible signs of life) in the water droplets separate from one another. Not only that, but the team says that as the particles are blasted out into space, they should often collide with the icy cracks of the planet's surface. This ultimately would leave behind tiny shards of frozen droplets with individually separated out components. Essentially, it's like the planet has organized its oceanic ingredients into tiny, frozen particle fragments. This work is described in two new studies published in the journal Science Advances here and here.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Sep 29, 2026 07:00",
-    "published_at": "2026-09-29T07:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Git 2.56 Released With Safer Conflict Resolution and Performance Gains",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367779",
-    "description": "The latest Git release brings a dedicated resolved-files staging mode, new maintenance commands, and substantial scalability improvements.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367779",
-    "date": "Sep 29, 2026 06:21",
-    "published_at": "2026-09-29T06:21:16Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Bananas That Don't Go Brown To Hit Supermarkets Thanks to DNA Editing",
-    "link": "https://science.slashdot.org/story/26/09/28/210256/bananas-that-dont-go-brown-to-hit-supermarkets-thanks-to-dna-editing?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "An anonymous reader quotes a report from The Guardian: It is the bane of every fruit bowl: sliced banana that turns brown before it has reached the table. But such woes could soon be a thing of the past, with gene-edited bananas that keep their freshly peeled color now one step closer to reaching British shoppers. According to Tropic, the Norwich-based agricultural-biotechnology company that developed the fruit, the bananas have the same taste and texture but stay \"fresh, yellow and appetizing long after peeling and slicing.\"\n \nGilad Gershon, the chief executive of Tropic, said the flesh of the new banana resisted browning for an extra day or two -- and longer if chilled. He added that the innovation could make it easier to add bananas to prepackaged products such as fruit salads and breakfast pots, as well as reducing waste. [...] Tropic developed the bananas by using a gene-editing technology called Crispr-Cas9 to alter all three copies of a single gene within the fruit. As a result, they were able to reduce the production of polyphenol oxidase, an enzyme that causes browning. A similar approach has been effective in reducing browning in other produce, including mushrooms.\n \nTropic said the non-browning bananas could reduce food waste and CO2-equivalent emissions along the supply chain by more than 25%. \"This could support an annual reduction in CO2 emissions of over 9m tonnes in the banana export market alone,\" the company said. [...] Gershon said Tropic had gained regulatory approval for the non-browning bananas in 10 other countries including Japan, Brazil and the Philippines. The fruit is already being grown in Latin America.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Sep 29, 2026 03:30",
-    "published_at": "2026-09-29T03:30:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Emmabuntüs Debian Edition 1.03 Adds New Accessibility Features, Debian 13.7 Base",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367786",
-    "description": "Emmabuntüs Debian Edition 6 1.03 has been released today as the third point release in the latest Emmabuntüs Debian Edition 6 series of this Debian-based distribution designed to facilitate the reconditioning of old computers.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367786",
-    "date": "Sep 29, 2026 03:18",
-    "published_at": "2026-09-29T03:18:17Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Thorium is the Fastest Browser on Earth (Installation + Tips)",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367788",
-    "description": "Discover in this article Thorium, a high-speed browser based on the Chromium engine, offering optimized performance, along with installation and additional tips.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367788",
-    "date": "Sep 29, 2026 01:46",
-    "published_at": "2026-09-29T01:46:48Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "\"Shiva\" Being Developed For Mesa Vulkan Drivers, Akin To Gallium3D",
-    "link": "https://www.phoronix.com/news/Mesa-Shiva-For-Vulkan",
-    "description": "Shiva is entering development for Mesa Vulkan drivers as a new framework akin to Gallium3D but for Vulkan drivers rather than OpenGL. It's going to be some time before the work will come to fruition but should hopefully lead to more code sharing and a better Mesa Vulkan driver development experience in the future...",
-    "guid": "https://www.phoronix.com/news/Mesa-Shiva-For-Vulkan",
-    "date": "Sep 29, 2026 00:32",
-    "published_at": "2026-09-29T00:32:08Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "China Broadens Travel Curbs To Encompass Family of Top AI Talent",
-    "link": "https://slashdot.org/story/26/09/28/2052208/china-broadens-travel-curbs-to-encompass-family-of-top-ai-talent?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Longtime Slashdot reader schwit1 shares a report from Business Standard: China has expanded overseas travel restrictions for top AI professionals in private firms to include the families of key personnel, further tightening measures designed to prevent the outflow of critical know-how and information to the US. Government agencies have recently begun to share the wider restrictions with affected people, which include prominent startup founders as well as the heads of strategically important companies in AI-related fields, people familiar with the matter said. Direct relatives such as spouses and children of certain AI and chip executives, whose work is considered paramount to state security, are now required to obtain approval from Beijing before going abroad even for short trips, the people said.\n \nThat marks a broadening of existing curbs on the freedom of movement of China's most influential tech talent -- a category that encompasses entrepreneurs, researchers and executives. While not an outright ban on travel, the new requirement is likely to exert a further chilling effect on a tech sector already facing unprecedented curbs. China has restricted foreign travel for top AI professionals in private firms such as Alibaba Group Holding Ltd and DeepSeek since earlier this year, Bloomberg News reported in May, reflecting Beijing's determination to safeguard its technology as it makes big strides in AI and chipmaking.\n \nIt's unclear whether all those people's families need to follow the new strictures, the people said. China is also separately implementing rules, which became effective Sept 15, for enforcing exit bans in cases ranging from criminal investigations to potential violations of the country's industrial and technological security. Beijing's plan is to add relevant individuals to the list as time goes by, the people said, asking not to be identified discussing a sensitive issue. Government departments have already notified several people of the need to clear family travel, two of the people said.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Sep 28, 2026 23:00",
-    "published_at": "2026-09-28T23:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "AMD Acquires Fei-Fei Li's World Labs For $8.2 Billion",
-    "link": "https://slashdot.org/story/26/09/28/2042235/amd-acquires-fei-fei-lis-world-labs-for-82-billion?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "AMD has agreed to acquire Fei-Fei Li's World Labs for about $8.2 billion in stock, making it the chipmaker's second-largest acquisition and giving it a major foothold in \"world models\" that simulate 3D environments for robotics and other physically grounded AI. CNBC reports: AI researchers expect world models will be able to help develop robots and other physically-grounded artificial intelligence applications. AMD plans to keep World Labs separate from its chipmaking business until the transaction closes later this year. The lab's research on next-generation models will allow AMD to plan for what its AI chips need to be capable of years in advance.\n \nWorld Labs was founded by AI researcher Fei-Fei Li, who is widely seen as an AI pioneer as a Stanford professor, and who previously worked for Google leading AI research. Li will become an AMD's chief scientist and an executive vice president at the company.\n \nIn a demo presented by Li and AMD CEO Lisa Su earlier this year, the two executives showed a World Labs model called Marble creating a three-dimensional scene out of a few images. \"Intelligent agents, whether it's robots or vehicles or even tools, can learn inside very-rich physics-aware digital worlds before they even need to be deployed into the real one, making them much safer,\" Li said at the presentation.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Sep 28, 2026 22:00",
-    "published_at": "2026-09-28T22:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "TikTok to Pay Alabama $100 Million, Limit Teen Use In First State Settlement",
-    "link": "https://tech.slashdot.org/story/26/09/28/184256/tiktok-to-pay-alabama-100-million-limit-teen-use-in-first-state-settlement?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "TikTok has agreed to pay Alabama at least $100 million and adopt new restrictions for teenage users, including a two-hour daily limit, overnight access restrictions, stronger age verification, a ban on beauty filters, and an option for a non-personalized feed. The settlement could grow to as much as $300 million if enough other state attorneys general join similar agreements. The Guardian reports: A trial had been set to begin on Monday in the southern US state over claims by Alabama that TikTok misled parents about tools meant to shield children from harmful content. [...] Attorney general Steve Marshall hailed Friday's settlement as \"a great day for Alabama parents.\" He said: \"Tonight, they can rest easier knowing real protections are in place to shield their children from the dangers of social media addiction.\"\n \nUnder the settlement, TikTok will send $100m to Alabama and could possibly pay up to $300m in total if 40 other attorneys general sign similar agreements with the company within a specified timeframe. In addition, the Alabama deal includes a conditional restriction that Meta also agreed to: expanding the night-time shutdown period to 10pm to 7am if other platforms also commit to do the same.\n \n\"TikTok's priority has always been fostering a safe and positive space where people can be creative, discover what they love, and connect with their community,\" a company spokesperson told AFP. \"This builds on our commitment and core objective to continually enhance our robust safety tools to protect teens,\" the spokesperson added. More than a dozen other states, including California and New York, still have suits against TikTok.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Sep 28, 2026 21:00",
-    "published_at": "2026-09-28T21:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Mozilla Firefox 157 Is Now Available for Download with Brand-New Design",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367775",
-    "description": "Today, Mozilla has published the final builds of the Firefox 157 open-source web browser ahead of its official unveiling on September 29th, 2026, so it’s time to take a look at the new features and improvements.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367775",
-    "date": "Sep 28, 2026 20:12",
-    "published_at": "2026-09-28T20:12:44Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "NVIDIA Developing \"Display Config Server\" To Improve Linux/Wayland On Display Walls",
-    "link": "https://www.phoronix.com/news/NVIDIA-Display-Config-Server",
-    "description": "As an initiative from NVIDIA for improving the Linux ecosystem outside the world of AI, they have been developing Display-Config-Server as a new solution to help enhance the Linux capabilities for complex display walls...",
-    "guid": "https://www.phoronix.com/news/NVIDIA-Display-Config-Server",
-    "date": "Sep 28, 2026 19:22",
-    "published_at": "2026-09-28T19:22:08Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
   }
 ]
