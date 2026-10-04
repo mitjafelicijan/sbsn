@@ -1,5 +1,131 @@
 [
   {
+    "title": "Efinix Sapphire RV64 brings 64-bit RISC-V and Linux to FPGAs",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367923",
+    "description": "Efinix announced this week the Sapphire RV64, a configurable 64-bit RISC-V soft SoC intended for embedded Linux, edge AI and other applications requiring more memory and processing capability than the company’s existing 32-bit Sapphire architecture. The processor can be implemented across Efinix Titanium and Topaz FPGAs, as well as Trion devices from the T20 upward. […]",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367923",
+    "date": "Oct 04, 2026 15:37",
+    "published_at": "2026-10-04T15:37:27Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "FSF Sponsors 'GNU Boot', a Libre, Ethical Replacement for Nonfree BIOS Or UEFI",
+    "link": "https://news.slashdot.org/story/26/10/03/1713227/fsf-sponsors-gnu-boot-a-libre-ethical-replacement-for-nonfree-bios-or-uefi?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "\"Free your BIOS today!\" urges the web page for GNU Boot, calling it \"a 100% free software project aimed at replacing the nonfree boot software (like BIOS or UEFI) of computers with free boot software.\n\nGNU Boot is only a distribution: it reuses existing software projects like Coreboot, GRUB, SeaBIOS, etc. So it's not very different from 100% free GNU/Linux distributions like Trisquel or Guix.\n \n\n\nLast month the Free Software Foundation announced they'd fiscally sponsor the project:\n\n\n\"The BIOS is a delicate but essential part of software freedom for computing today,\" said Zoë Kooyman, executive director of the FSF. \"GNU Boot aims to make sure that we can continue using our computers in freedom. With the way it builds on the work of others to replace UEFI, we know it can remain firm in the free software philosophy and stay vital to digital autonomy and user freedom.\" Free boot firmware, such as GNU Boot, is responsible for loading the computer's operating system. \n\nThe work done by GNU Boot contributors has similarities to work done by GNU/Linux distributions: they package software like Coreboot or GNU GRUB, contribute to the upstream repositories of these projects, and assist them with documentation, among other tasks... When asked about their project joining the FSF's fiscal sponsorship program, co-maintainer Adrien Bourmault stated: \"Making this decision with the FSF allows us to focus more on what we do best: writing and debugging code that keeps our machines fully free.\" Projects whose scope and purpose align with the FSF's mission and further mission-related activities can become fiscally sponsored by joining the FSF's Working Together for Free Software Fund.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 04, 2026 15:34",
+    "published_at": "2026-10-04T15:34:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "MGLRU-FG Delivering Up To 10~40% Higher Performance For Linux In Some Tests",
+    "link": "https://www.phoronix.com/news/Linux-MGLRU-FG-Patches",
+    "description": "Linux's Multi-Gen LRU \"MGLRU\" has already achieved nice performance gains for Linux in recent years by optimizing page reclaims and improves performance under memory pressure. The new MGLRU-FG patches aim to take things further...",
+    "guid": "https://www.phoronix.com/news/Linux-MGLRU-FG-Patches",
+    "date": "Oct 04, 2026 15:16",
+    "published_at": "2026-10-04T15:16:26Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "US Bank Regulator Sued Over Crypto Firm Charters by Community Bank Advocates",
+    "link": "https://news.slashdot.org/story/26/10/04/0656228/us-bank-regulator-sued-over-crypto-firm-charters-by-community-bank-advocates?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "A U.S. banking group just sued the government agency that issues America's federal bank charters, reports CoinDesk, \"accusing it of exceeding its legal powers in granting national trust-bank status to crypto firms.\" \n\nThe agency's move \"creates a gaping hole in financial regulation,\" according to the lawsuit by The Independent Community Bankers of America, one of America's largest banking advocacy organizations. It argues the move will \"perversely allow entities engaged in highly risky cryptocurrency and digital assets activities to enter the banking system under lightly regulated national charters\" which actually preempt many state regulations, including consumer protection laws.\nBut the move would also \"place community banks at a severe competitive disadvantage,\" the lawsuit argues, \"by allowing the national trust banks to offer many of the same services as community banks without complying with the same costly banking laws and regulations that apply to the community banks.\" This competitive advantage could \"siphon deposits out of community banks and into deposit alternatives like cryptocurrency,\" which they describe as \"highly volatile, prone to market crashes, cybercrime, and fraud\" and lacking protections like deposit insurance. \n\nThey also warn that America's Office of the Comptroller of the Currency \"has not managed an uninsured bank receivership in nearly one hundred years. But failures of risky uninsured national\ntrust banks could spread instability throughout the nation's financial system, including by spreading contagion risks to other traditional banks like community banks.\" \n\nCoinDesk reports:\n\n[The Independent Community Bankers of America] also played a significant role in pushing back against the Digital Asset Market Clarity Act that failed to advance in the U.S. Senate last month — in part due to the bankers' objections that its stablecoin provisions didn't protect them against direct competition with the deposit accounts that are core to their businesses. \n\nNow, the group is targeting the trust charters crypto firms are pursuing as an entry point into the U.S. banking and payments system.\n\"Congress did not create the national trust charter as a side door into the banking system for crypto firms seeking the credibility of a federal bank charter,\" ICBA President and CEO Rebeca Romero Rainey said in a statement..\n\n\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 04, 2026 14:34",
+    "published_at": "2026-10-04T14:34:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "ORICO X50 Review: A Sleek Thunderbolt 5 SSD Enclosure",
+    "link": "https://feed.itsfoss.com/link/24361/17486309/orico-x50-review",
+    "description": "A slim, silver NVMe enclosure that turns your spare SSD into fast external storage. Excellent if you have Thunderbolt 5 on your machine.",
+    "guid": "6ac2264b7834300001c577eb",
+    "date": "Oct 04, 2026 12:03",
+    "published_at": "2026-10-04T12:03:33Z",
+    "image": "https://itsfoss.com/content/images/2026/10/orico-x50.jpg",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "Long-Time Slashdot Reader Announces New Open Source Web Browser 'Northstar'",
+    "link": "https://news.slashdot.org/story/26/10/04/0127201/long-time-slashdot-reader-announces-new-open-source-web-browser-northstar?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Long-time Slashdot reader Andreas(R) announces Northstar, a \"minimalist\" web browser written entirely from scratch in C — now available in version 1.0.11:\n\n One window, one page, one process — about 160,000 lines of original C, small enough for one person to read and audit end-to-end. It carries no upstream browser engine: no Gecko, no WebKit, no Blink. It is free software under the GNU General Public License, version 3 or later, and it runs on Linux, macOS and Windows... \nCompliance is not inherited from an upstream engine; it is measured, section by section, against the specification text... Private by construction. No telemetry, no update pings, and no AI assistant or AI-style web APIs. Safe browsing checks a top-level navigation's host against a local SHA-256 blocklist before it is fetched — the check never leaves your machine. Cookies, storage and the cache are partitioned by origin. \n\nIt's logo reminds me of the old Netscape logo. (And I love the \"Best viewed in...\" GIF at the upper-right of its web site.)\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 04, 2026 11:21",
+    "published_at": "2026-10-04T11:21:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "NVIDIA's Results Of Conducting Wayland vs. X.Org Latency Testing",
+    "link": "https://www.phoronix.com/news/NVIDIA-Wayland-Xorg-Latency",
+    "description": "In addition to NVIDIA announcing their Display Config Server project at XDC 2026 in Toronto, at this annual developer's conference they also presented their findings on scientific testing of X.Org vs. Wayland latency...",
+    "guid": "https://www.phoronix.com/news/NVIDIA-Wayland-Xorg-Latency",
+    "date": "Oct 04, 2026 11:03",
+    "published_at": "2026-10-04T11:03:20Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Linux Begins Seeing Workarounds For Fujitsu MONAKA CPU Bugs",
+    "link": "https://www.phoronix.com/news/Linux-MONAKA-CPU-Workarounds",
+    "description": "Last month Fujitsu formally announced their MONAKA CPU as a 144 core Arm-based server processor geared for AI infrastructure. This comes after two years of seeing various Monaka patches to the GCC compiler and other open-source components. Now that MONAKA is announced, we are seeing more patches surface for the Linux kernel with this week seeing several workarounds for MONAKA CPU bugs...",
+    "guid": "https://www.phoronix.com/news/Linux-MONAKA-CPU-Workarounds",
+    "date": "Oct 04, 2026 10:31",
+    "published_at": "2026-10-04T10:31:23Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "AMD Sends In More New GPU Hardware Enablement For Linux 7.4, Bug Fixes",
+    "link": "https://www.phoronix.com/news/More-AMDGPU-Linux-7.4",
+    "description": "We are nearing the cut-off of new Direct Rendering Manager (DRM) subsystem material for the upcoming Linux 7.4 cycle. AMD this week sent in another feature pull to DRM-Next that is moving over to mostly bug fixing but does contain the enablement of some new GPU intellectual property blocks for upcoming graphics hardware...",
+    "guid": "https://www.phoronix.com/news/More-AMDGPU-Linux-7.4",
+    "date": "Oct 04, 2026 10:14",
+    "published_at": "2026-10-04T10:14:12Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "openSUSE Turns To ZUPT For Post-Quantum Backups",
+    "link": "https://www.phoronix.com/news/openSUSE-ZUPT-Backups",
+    "description": "OpenSUSE developers have announced they are making ZUPT available on their Linux distribution as a solution for providing post-quantum backups. ZUPT combines backup creation, compression, integrity verification, and encryption all via this single open-source utility...",
+    "guid": "https://www.phoronix.com/news/openSUSE-ZUPT-Backups",
+    "date": "Oct 04, 2026 09:59",
+    "published_at": "2026-10-04T09:59:30Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Three EU Officials Not Sold on Europe's Homegrown Alternative to Microsoft Teams",
+    "link": "https://yro.slashdot.org/story/26/10/04/061207/three-eu-officials-not-sold-on-europes-homegrown-alternative-to-microsoft-teams?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Politico EU reports:\n\n\nThe European Commission has rolled out an alternative to Microsoft Teams — but officials using it aren't impressed, with one describing the tool as \"absolute shit.\" \n\nThe Commission introduced Element Pro over the summer as a \"sovereign back-up to Teams,\" according to an internal staff memo seen by POLITICO. The platform is intended to provide a fallback for Commission communications if U.S.-based Teams becomes unavailable.... But three officials have questioned why the Commission needs the new system — and whether it works well enough to serve as a genuine backup. \"I don't understand the added value here,\" one official wrote on an internal staff message board, seen by POLITICO. Another described the tool as \"absolute shit.\" A third official said that, judging matters on how well Element Pro works compared to Teams, the U.S. would \"instantly win the war\" if it ever decided to switch off its technology... \n\nThe Commission hosts the Element system on its own infrastructure rather than relying on Microsoft's cloud. That gives the institution greater control over its communications data and systems... Element is a U.K. company whose software is used by governments and public-sector organizations in Europe... Element CEO Matthew Hodgson told POLITICO in a call using Element software that the Commission is still trialing it. \"Obviously there are going to be some teething issues,\" he said, adding there will always be \"cognitive dissonance\" when switching to a new app, if only because the \"buttons\" are in a different place. He noted that the United Nations and NATO also use Element Pro. \n\nThe article adds that earlier this year, France announced millions of civil servants will switch to home-grown alternatives to American video-conferencing tools including Microsoft Teams and Zoom by 2027, while Austria's military also replaced Microsoft Office with the German-made LibreOffice last year.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 04, 2026 07:21",
+    "published_at": "2026-10-04T07:21:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "DigitalOcean Quietly Ends Open Source Credits Program",
+    "link": "https://feed.itsfoss.com/link/24361/17486227/digitalocean-open-source-credits-end",
+    "description": "Some project maintainers have received emails that they will no longer get any more free credits from Digital Ocean.",
+    "guid": "6ac1c5547834300001c57643",
+    "date": "Oct 04, 2026 07:11",
+    "published_at": "2026-10-04T07:11:37Z",
+    "image": "https://itsfoss.com/content/images/2026/10/do-end-open-source-credit-program.webp",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
     "title": "KDE Plasma 6.8 Beta 2 Brings More Polish Ahead of October 14 Release",
     "link": "https://lxer.com/module/newswire/ext_link.php?rid=367910",
     "description": "KDE Plasma 6.8 Beta 2 adds more polish and bug fixes, improving tiled windows, Spectacle, GPU monitoring, remote desktop support, and more.",
@@ -221,6 +347,17 @@
     "source_url": "https://www.gamingonlinux.com/"
   },
   {
+    "title": "Wine 11.19 released with Wayland Colour Management, Unicode upgrades, DNS query cache",
+    "link": "https://www.gamingonlinux.com/2026/10/wine-11-19-released-with-wayland-colour-management-unicode-upgrades-dns-query-cache/",
+    "description": "The Wine 11.19 release is now available for this open source Windows compatibility layer, bringing an assortment of new features and fixes.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/10/wine-11-19-released-with-wayland-colour-management-unicode-upgrades-dns-query-cache/",
+    "date": "Oct 03, 2026 12:34",
+    "published_at": "2026-10-03T12:34:11Z",
+    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/wine-generic.jpg",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
     "title": "COSMIC Stops Accepting LLM-Generated Content in Pull Requests",
     "link": "https://lxer.com/module/newswire/ext_link.php?rid=367903",
     "description": "System76’s COSMIC project now requires contributors to confirm that pull requests contain no LLM-generated code, comments, or descriptions.",
@@ -328,151 +465,6 @@
     "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367897",
     "date": "Oct 03, 2026 09:06",
     "published_at": "2026-10-03T09:06:23Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "We View Consumer Data as Toxic Waste",
-    "link": "https://feed.itsfoss.com/link/24361/17484548/obscura-carl-dong",
-    "description": "Obscura VPN splits your identity from your browsing across two independent companies so neither can see both. Founder Carl Dong on trust, QUIC, reproducible builds, and why the no-logs promise stopped being enough.",
-    "guid": "6ac09a607834300001c57212",
-    "date": "Oct 03, 2026 07:47",
-    "published_at": "2026-10-03T07:47:16Z",
-    "image": "https://itsfoss.com/content/images/2026/10/obscura-carl-dong-1-.webp",
-    "source": "itsfoss.com",
-    "source_url": "https://itsfoss.com/"
-  },
-  {
-    "title": "aerynOS Could Soon Welcome Budgie Desktop",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367888",
-    "description": "Joshua Strobl has opened a pull request to bring Budgie Desktop 10.10.3, related apps, and required dependencies into aerynOS.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367888",
-    "date": "Oct 03, 2026 07:34",
-    "published_at": "2026-10-03T07:34:54Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Google Tests AI Data Center In Space",
-    "link": "https://science.slashdot.org/story/26/10/03/0113206/google-tests-ai-data-center-in-space?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Longtime Slashdot reader Geoffrey.landis shares a report from NPR: Google just put a refrigerator-sized satellite into space, part of a research project the company hopes can pave the way for orbiting AI data centers powered by the sun. The prototype satellite has four specialty chips in it called Tensor Processing Units, or TPUs, that Google designed for machine learning and has already deployed in data centers on Earth. The chips will run a version of the company's Gemma AI model for 15 minutes at a time due to heat management constraints, using the open weight model to answer simple queries.\n \nIn a blog post, Google said the mission will gauge how the TPUs handle \"the physical stress of spaceflight and the radiation and thermal extremes of space.\" The satellite launched October 1 is a prototype that Travis Beals, senior director and lead of Project Suncatcher, called \"a very minimal test\" to make sure the chips can run in space. A SpaceX rocket carried it into orbit, and Planet will get it up and running. Beal said Google will then fire up and test the TPUs. The goal is for the mission to be operational for a year.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 03, 2026 07:00",
-    "published_at": "2026-10-03T07:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Intel Ready With A Big Improvement For Battlemage With Linux 7.4",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367902",
-    "description": "Sent out on Thursday was the last round of planned Intel Xe kernel driver improvements targeting the upcoming Linux 7.4 cycle. There is one big improvement that is set to benefit Intel discrete GPUs with at least Battlemage benefiting nicely...",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367902",
-    "date": "Oct 03, 2026 06:03",
-    "published_at": "2026-10-03T06:03:24Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Four-port IO-Link module for Raspberry Pi and embedded Linux systems",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367885",
-    "description": "Pinetek Networks has developed the IOL Core4, a compact IO-Link-compatible master module for embedded systems. It connects up to four industrial sensors or actuators over IEC 61131-9 SDCI and is intended for integration into custom control, monitoring and IIoT hardware. The module uses two Analog Devices MAX14819 dual IO-Link master transceivers. The standard PT-1204 version […]",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367885",
-    "date": "Oct 03, 2026 04:31",
-    "published_at": "2026-10-03T04:31:55Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "New Mexico Wants Meta To Pay $40 Billion In Penalties For Cambridge Analytica Scandal",
-    "link": "https://yro.slashdot.org/story/26/10/02/2152218/new-mexico-wants-meta-to-pay-40-billion-in-penalties-for-cambridge-analytica-scandal?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "An anonymous reader quotes a report from Reuters: The state of New Mexico asked a judge on Thursday to order Meta Platforms to pay between $35 billion and $40 billion in penalties after a jury found the company had misled consumers about the privacy of their data on Facebook in a case that came out of the Cambridge Analytica scandal.\n \nAttorneys for New Mexico made the request at a hearing in a lawsuit brought following revelations that the British political consulting firm, which worked on Donald Trump's 2016 presidential campaign, harvested personal data from as many as 87 million Facebook users through a third-party app without their consent. The jury returned its verdict on September 25. Judge Francis Mathew, who oversaw the trial in Santa Fe, will decide how much Meta must pay in financial penalties. [...] State law allows the judge to decide how much to fine Meta per violation, up to $5,000. At the hearing on Thursday, Randi McGinn, a lawyer for New Mexico, said applying the full $5,000 penalty to the number of violations would create too large of a penalty under the US Constitution's protections on due process. But the judge should order a significant payment that will impact the company, McGinn said.\n \n\"This court should speak to Meta in the only language it understands, which is money, and the value of its stock price,\" McGinn said. She said $35 billion to $40 billion, which represents about 20% of the possible penalties that could be awarded under state law from the verdict, would impact the stock price while complying with Meta's right to due process under the Constitution. At the hearing on Thursday, Matt Nicholson, a lawyer for Meta, called the state's request an \"astronomical penalty that would obviously violate a host of constitutional provisions.\" In court filings, Meta urged Mathew to cap the penalties at $3.45 billion. The jury may have said it found Meta's statements misleading, but the evidence shows that Meta does not sell user data and New Mexico did not prove that any consumer had actually been misled, the company said in court filings. The judge said he expected to issue a ruling later this month.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 03, 2026 03:30",
-    "published_at": "2026-10-03T03:30:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "systemd-appd Out For Review To Centralize Tracking Of User's Apps",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367896",
-    "description": "The newest systemd component being worked on and drafted for an initial pull request is systemd-appd as a new mechanism to centralizing the tracking of user's apps...",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367896",
-    "date": "Oct 03, 2026 03:00",
-    "published_at": "2026-10-03T03:00:25Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Wine 11.19 Adds DNS Caching, Unicode 18 Support, Fixes 23 Bugs",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367905",
-    "description": "Wine 11.19 introduces DNS query caching, Unicode 18.0 character tables, GDIPlus vertical text support, VBScript improvements, and 23 bug fixes.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367905",
-    "date": "Oct 03, 2026 01:28",
-    "published_at": "2026-10-03T01:28:56Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Wine 11.19 Released With Wayland Color Management For Vulkan, DNS Query Caching",
-    "link": "https://www.phoronix.com/news/Wine-11.19-Released",
-    "description": "We are nearing the point of the Wine 12.0 stable release coming up in early 2027 while for now the Wine 11.xx bi-weekly development releases continue. Out today is Wine 11.19 with a few new features and plenty of fixes...",
-    "guid": "https://www.phoronix.com/news/Wine-11.19-Released",
-    "date": "Oct 03, 2026 00:29",
-    "published_at": "2026-10-03T00:29:10Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "AI Has Finally Learned To Play Stratego",
-    "link": "https://games.slashdot.org/story/26/10/02/2129251/ai-has-finally-learned-to-play-stratego?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Researchers from Carnegie Mellon, MIT, NYU, and Stanford have built an AI called Ataraxos that finally cracked Stratego, beating four-time world champion Pim Niemeijer 15 games to one with four draws. Its key advantage was a second neural network that estimates the identities of hidden enemy pieces, letting the system search plausible game states rather than brute-force a massive hidden-information space. Ars Technica reports: Just like [DeepMind's DeepNash, introduced in 2022], Ataraxos learned by playing against itself -- 163 million games in total. In these self-play sessions, moves that led to wins were reinforced and played more often in future matches, while moves that led to losses were played less, which was the same simple training idea. The difference was in how much Ataraxos adjusted after each game, because hidden information tends to send self-play learning algorithms around in circles. The team addressed this by making big, bold changes in strategy early in training and small, careful ones later.\n \nThe even bigger innovation was something DeepNash never had: thinking ahead before each move. AIs like AlphaGo refine their general strategy with a search just before acting. DeepMind couldn't make that work in Stratego because the search space was too large, leaving it an open question whether it was worth trying. \"This is one of the things that we did figure out how to do,\" Farina said. The solution was a second neural network, a belief model, trained to guess the opponent's hidden pieces based on how they had been moving. This way, instead of iterating through every possible arrangement, Ataraxos samples plausible ones, plays out candidate moves in each, and picks based on how they turned out. And it shows in its playstyle.\n \n[...] DeepNash was trained for two to three months on 1,024 of Google's specialized chips, a run the Ataraxos team estimates would cost $3 million to $4.5 million at 2025 prices. Ataraxos, in contrast, needed 16 GPUs for a week, plus an additional four GPUs for four days to train the belief model. Farina and lead author Samuel Sokota achieved this efficiency by writing a simulator that runs millions of moves per second on graphics cards. \"At the scale that we are in academia, we don't really have access to an entire field of GPUs,\" Farina said. The algorithm also learned far faster -- it played about 34 times fewer games than DeepNash, and still ended up much stronger. The findings have been published in the journal Nature.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 02, 2026 23:00",
-    "published_at": "2026-10-02T23:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "The University of Washington Is Moving a Graduate Program to Microsoft's Campus",
-    "link": "https://news.slashdot.org/story/26/10/02/215238/the-university-of-washington-is-moving-a-graduate-program-to-microsofts-campus?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Longtime Slashdot submitter theodp writes: GeekWire reports that the University of Washington has moved its Global Innovation Exchange {GIX) program to Microsoft's campus in a rent-free deal (UW News release). GIX, an institute supporting tech leaders that offers an MS in Technology Innovation, is the first UW program to set up full-time operations at Microsoft, whose headquarters are just across Lake Washington from the university's main campus. Microsoft provided a $42 million in-kind donation to establish the embedded facility; the UW is leasing the new 48,500-square-foot GIX space in Microsoft's Building 92 rent-free. GIX debuted in 2015 as a partnership of the UW and China's Tsinghua University and received $70 million in Microsoft support at the now-abandoned GIX location in Bellevue (the Steve Ballmer Building), although indications are that a long-term arrangement did not come together as intended. In a Thursday LinkedIn post, Microsoft President Brad Smith wrote: \"Last night we opened a door unlike any other. At the heart of Microsoft's campus, step into the new home of the UW's Global Innovation Exchange (GIX) and you cross from Microsoft into the University of Washington. No one has ever put a great research university and a leading technology company under the same roof quite like this. As far as I know, no one has even tried. The timing matters. Artificial intelligence is advancing fast. The question is whether the people building it understand the world it's changing. This calls for a new style of education and leadership. We need leaders who understand the technology deeply and see things through other people's eyes. Leaders who learn by collaborating on real projects with people from different countries and disciplines. That's what GIX is built for. Students will learn from faculty across the UW, take classes taught by Microsoft employees, and be mentored by people from across our industry here in the Pacific Northwest.\" Interestingly, Smith's contention that UW GIX students will benefit from a 'new style' of Microsoft and industry-influenced education sounds a lot like Smith's contention that K-12 school children are better off thanks to a new style of Microsoft and industry-influenced education. In an interview last month, Coding Kids: Big Tech's Battle to Remake Public Schools author Natasha Singer told NPR (podcast, transcript), \"For my book, I spoke to Brad Smith, who's the president of Microsoft, and he has been one of the leaders in the tech industry pushing for [K-12] computer science [and now AI literacy] in schools. [...] And Brad Smith said, philanthropy in the private sector is doing this work because public schools have failed to do what they were supposed to do. And his view is that public schools should be teaching modern subjects like computer science, and they were not equipped to do it fast enough and the tech industry stepped in to help. And is it better than if schools were able to do this themselves? He said, no, but it's certainly better than nothing. And he said to me, you know, think about where we would be on computer science if the tech industry hadn't stepped up. [...] Well, I've been having this conversation with him for 10 years, and when we started having it 10 years ago, I said to him, I get that, but when big tech companies put their finger on the scale, it tips education in certain ways that not only favor the tech industry but can obscure equally or more important things.\" So, is \"The University of Washington at Microsoft\" a good or bad idea?\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 02, 2026 22:00",
-    "published_at": "2026-10-02T22:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Latest Debian 13 “Trixie” Kernel Security Update Patches More Than 1300 CVEs",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367886",
-    "description": "The Debian Project released a new Linux kernel security update on September 29th, 2026, for its Debian 13 “Trixie” stable operating system series to address more than 1300 security vulnerabilities.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367886",
-    "date": "Oct 02, 2026 21:50",
-    "published_at": "2026-10-02T21:50:59Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Linux 7.4 To Introduce Initial Device Trees For Apple M4, A18 Pro For MacBook Neo",
-    "link": "https://www.phoronix.com/news/Linux-7.4-Apple-Device-Trees",
-    "description": "Asahi Linux developer Sven Peter today sent out the pull requests of the Apple SoC Device Tree changes they are ready to upstream for the Linux 7.4 merge window happening later this month. Most notable is the initial Device Tree for Apple systems using the base M4 SoC model as well as for the MacBook Neo with the A18 Pro SoC...",
-    "guid": "https://www.phoronix.com/news/Linux-7.4-Apple-Device-Trees",
-    "date": "Oct 02, 2026 20:32",
-    "published_at": "2026-10-02T20:32:41Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Ubuntu's Next Rust Effort May See OpenPGP Replaced By Sequoia PGP",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367892",
-    "description": "Canonical engineer Richard Scott McNew published a status update surrounding the Rust programming language efforts in the upcoming Ubuntu 26.10 release. Sequoia PGP is being rolled out to Ubuntu Linux and in a future release may end up replacing OpenPGP...",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367892",
-    "date": "Oct 02, 2026 20:19",
-    "published_at": "2026-10-02T20:19:30Z",
     "source": "lxer.com",
     "source_url": "https://lxer.com/"
   }
