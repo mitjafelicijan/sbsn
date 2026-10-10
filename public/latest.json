@@ -1,5 +1,172 @@
 [
   {
+    "title": "Rolling Release Distros Superior To LTS Distros In The Patch-Heavy GenAI Era?",
+    "link": "https://www.phoronix.com/news/Rolling-Releases-GenAI-Era",
+    "description": "As some interesting food for thought and weekend forum discussions, this week at the Linux Plumbers Conference in Prague, Qualcomm engineer Khem Raj questioned the relevance of Linux Long Term Support (LTS) distributions in the era of generative AI with the constantly heavy patch flow and bug reports. Khem Raj argued the benefits of rolling release distributions in the GenAI era and the benefits it provides staying up-to-date with mainline...",
+    "guid": "https://www.phoronix.com/news/Rolling-Releases-GenAI-Era",
+    "date": "Oct 10, 2026 15:27",
+    "published_at": "2026-10-10T15:27:12Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Many Laptop \u0026 Gaming Handheld Support Improvements Coming For Linux 7.4",
+    "link": "https://www.phoronix.com/news/Linux-7.4-Laptops-Handhelds",
+    "description": "Many x86 platform driver improvements have been queuing ahead of the upcoming Linux 7.4 merge window to offer a variety of laptop and gaming handheld device improvements with this next kernel version...",
+    "guid": "https://www.phoronix.com/news/Linux-7.4-Laptops-Handhelds",
+    "date": "Oct 10, 2026 13:40",
+    "published_at": "2026-10-10T13:40:51Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Woodpecker CI 3.19 Adds Server-Enforced Agent Labels",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368074",
+    "description": "Woodpecker CI 3.19 fixes a security issue involving matrix variables, adds server-enforced agent labels, and improves pipeline reliability.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368074",
+    "date": "Oct 10, 2026 12:23",
+    "published_at": "2026-10-10T12:23:01Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Meta Developing Compressed RAM 'CRAM' For Linux: Better Than ZRAM and Zswap?",
+    "link": "https://hardware.slashdot.org/story/26/10/10/0631257/meta-developing-compressed-ram-cram-for-linux-better-than-zram-and-zswap?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Phoronix reports on a presentation this week by Meta engineer Gregory Price at the Linux Plumbers Conference in Prague:\n\n\nWith today's memory shortages, high prices, and ever increasing memory capacity needs, Meta engineers have been working on Compressed RAM (\"CRAM\") for Linux. \n\nThis hardware-offloaded compression still allows cacheline/byte access to compressed memory and in turn a better implementation than the likes of ZRAM and Zswap. Very promising is that there is near-native performance to raw DRAM speeds with CRAM... For end-users that may already be relying on the likes of Zswap or ZRAM, CRAM is offering near-native DRAM speeds. Read-only data is shown to be as fast as the raw DRAM performance. And for memory writes, CRAM is much faster than ZRAM or Zswap or plain swap. \n\n\"Most of the individual pieces needed to support CRAM are already mainline,\" the article points out.\n Tom's Hardware writes that \"It uses a private NUMA node (essentially, a ghost CPU) instead of pretending to be a block device, and this lets Linux continue using all of its memory semantics, including migration and ballooning, to manage CRAM.\"\n\nBecause CRAM is stored in RAM and treated as RAM, with full cacheline/byte access, it can be accessed in a read-only fashion with little delay; just the cost of hardware-offloaded compression...\nEven when you enable writes, CRAM is still much faster than ZRAM; 5.4x in the worst tested case of 20% writes. That's a huge drop from the 452x read-only case, but keep your context; a 5.4x speedup is still titanic. The massive performance cliff when writes are involved comes down to the need to page fault and migrate folios back to the original NUMA domain, as you can't write directly to compressed data; you'd corrupt everything... \n\nWhile the obvious target of the work here (given its origin at Meta Platforms) is big Linux servers, ZRAM and Zswap are used all over the Linux ecosystem, even on machines as constrained as the Steam Deck. Many distributions enable one or the other by default. CRAM seems like it could offer a considerable speed-up for some of these machines, so hopefully it finds its way into the kernel once the remaining implementation questions are answered.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 10, 2026 12:04",
+    "published_at": "2026-10-10T12:04:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "KNOD Progressing For Linux In-Kernel GPU Offloading For Network Packet Processing",
+    "link": "https://www.phoronix.com/news/KNOD-2026-GPU-Network-Process",
+    "description": "A while back we covered KNOD as an experimental solution for in-kernel network offloading to AMD GPUs. The open-source KNOD project allows leveraging GPUs to handle packet processing in a very performant and energy efficient manner without needing any specialized hardware. KNOD has continued and a development update was shared this week at the Linux Plumbers Conference in Prague...",
+    "guid": "https://www.phoronix.com/news/KNOD-2026-GPU-Network-Process",
+    "date": "Oct 10, 2026 10:25",
+    "published_at": "2026-10-10T10:25:00Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Linux Networking Diverts 50+ Fixes To Next Kernel, Still Bombarded With AI Fueled Churn",
+    "link": "https://www.phoronix.com/news/Linux-7.3-rc7-Networking",
+    "description": "Ahead of the Linux 7.3-rc7 kernel due for release on Sunday, this week's batch of networking fixes were submitted and merged. The vast networking subsystem of wired and wireless drivers plus the various other networking features continues to see a lot of activity due to AI-driven bug reports and patches...",
+    "guid": "https://www.phoronix.com/news/Linux-7.3-rc7-Networking",
+    "date": "Oct 10, 2026 10:11",
+    "published_at": "2026-10-10T10:11:36Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "KDE Plasma 6.8 Ready For Release Next Week, Sees Last Minute NVIDIA Fix",
+    "link": "https://www.phoronix.com/news/KDE-Plasma-6.8-Next-Week",
+    "description": "KDE Plasma 6.8 is gearing up for its official debut next week in coinciding with the 30th anniversary since the KDE project began...",
+    "guid": "https://www.phoronix.com/news/KDE-Plasma-6.8-Next-Week",
+    "date": "Oct 10, 2026 10:00",
+    "published_at": "2026-10-10T10:00:51Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Intel Twin Lake-Based Helix 320 Industrial Gateway with Quad 2.5GbE",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368053",
+    "description": "OnLogic’s newest industrial edge gateway, the Helix 320, features a fanless design powered by Intel N-Series Twin Lake processors. The compact system includes four 2.5GbE ports, two configurable serial ports, M.2 expansion, and support for up to three displays. OnLogic offers the Helix 320 with two Intel N-Series “Twin Lake” processors: N250 – 4-core/4-thread architecture, […]",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368053",
+    "date": "Oct 10, 2026 09:20",
+    "published_at": "2026-10-10T09:20:01Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Frame of Suffering is like if Diablo was about mechs and I need it now",
+    "link": "https://www.gamingonlinux.com/2026/10/frame-of-suffering-is-like-if-diablo-was-about-mechs-and-i-need-it-now/",
+    "description": "Frame of Suffering is an upcoming ARPG rogue-lite that combines Diablo with customizable mechs and I really do need it now.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/10/frame-of-suffering-is-like-if-diablo-was-about-mechs-and-i-need-it-now/",
+    "date": "Oct 10, 2026 08:07",
+    "published_at": "2026-10-10T08:07:43Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1995794406id29947gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "BentoPDF Handles PDFs Locally, So You Don’t Have to Upload Them to Websites",
+    "link": "https://feed.itsfoss.com/link/24361/17493291/bentopdf",
+    "description": "This open source, browser-based PDF toolkit is free to use and ships with a surprisingly long list of tools.",
+    "guid": "6ac873ca2df9a50001a2e72f",
+    "date": "Oct 10, 2026 08:01",
+    "published_at": "2026-10-10T08:01:21Z",
+    "image": "https://itsfoss.com/content/images/2026/10/bentopdf-banner.png",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "Secretive Rosaic Labs Hires Legendary Linux x86 Developer",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368033",
+    "description": "The curiosity into secretive semiconductor startup Rosaic Labs builds. Earlier this year it was noted that Intel was providing Rosaic Labs with access to its Atom technology with RTL code. There have also been rather mysterious x86 additions not from Intel or AMD (or Zhaoxin / Hygon) that given the timing may pertain to Rosaic Labs. News today is that Rosaic recently hired a long-time, Linux x86 developer veteran...",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368033",
+    "date": "Oct 10, 2026 07:48",
+    "published_at": "2026-10-10T07:48:32Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Steam Client Beta - October 9th brings more Remote Play improvements",
+    "link": "https://www.gamingonlinux.com/2026/10/steam-client-beta-october-9th-brings-more-remote-play-improvements/",
+    "description": "Valve have another release ready for testing, with the Steam Client Beta - October 9th update now available bringing Remote Play updates.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/10/steam-client-beta-october-9th-brings-more-remote-play-improvements/",
+    "date": "Oct 10, 2026 07:42",
+    "published_at": "2026-10-10T07:42:12Z",
+    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/steam-remote-play_gol2_faf150c4.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "First Thorium Nuclear Clocks Begin to Tick",
+    "link": "https://science.slashdot.org/story/26/10/08/1913209/first-thorium-nuclear-clocks-begin-to-tick?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Researchers in Vienna and Beijing have independently built the first nuclear clocks based on oscillations inside thorium nuclei, marking a major milestone for a field that could eventually produce highly portable, ultra-precise timekeepers. The clocks are already precise enough to lose only about a second over millions of years. The New York Times reports: The first nuclear clocks are not going to immediately supplant the worldwide network of atomic clocks, whose steady ticking we rely on for GPS and the definition of a second. Nor have they captured the record for most precise timepiece; the best atomic clocks are about 10,000 times more reliable and would take more than 100 billion years to lose one second.\n \nBut nuclear clocks hold a bevy of potential advantages over existing atomic clocks. One day, they could be more reliable than the leading atomic versions, and nuclear clocks could be made more portable. They even hold the ability to search for certain kinds of dark matter -- the invisible stuff whose clumps make up 83 percent of the matter in the universe. If a particle of dark matter passed through the thorium nuclei, it could register as a wobble in the nuclear clock's otherwise steady ticktock. The findings have been published in the journal Nature.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 10, 2026 07:34",
+    "published_at": "2026-10-10T07:34:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Proton 11.0-2e brings EA App fixes, and there's a much bigger Proton 11.0-3 Release Candidate",
+    "link": "https://www.gamingonlinux.com/2026/10/proton-11-0-2e-brings-ea-app-fixes-and-theres-a-much-bigger-proton-11-0-3-release-candidate/",
+    "description": "Valve released two Proton updates to bring more Windows game compatibility to SteamOS / Linux. A small Proton 11.0-2e and a Proton 11.0-3 Release Candidate.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/10/proton-11-0-2e-brings-ea-app-fixes-and-theres-a-much-bigger-proton-11-0-3-release-candidate/",
+    "date": "Oct 10, 2026 07:31",
+    "published_at": "2026-10-10T07:31:56Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/657183690id29945gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Steam Frame CAD files released, plus an update on reservation waiting times",
+    "link": "https://www.gamingonlinux.com/2026/10/steam-frame-cad-files-released-plus-an-update-on-reservation-waiting-times/",
+    "description": "Valve have released an update that should give you just a little bit more clarity on when you can expect to get a Steam Frame, plus the CAD files are out now.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/10/steam-frame-cad-files-released-plus-an-update-on-reservation-waiting-times/",
+    "date": "Oct 10, 2026 07:24",
+    "published_at": "2026-10-10T07:24:39Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1512857730id29944gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Ventoy 1.1.18 Adds Experimental SteamOS Support, Linux Boot Fixes",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368056",
+    "description": "Ventoy 1.1.18 introduces experimental SteamOS recovery support, improves ISO partition mounting on Linux, and fixes several boot issues.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368056",
+    "date": "Oct 10, 2026 06:17",
+    "published_at": "2026-10-10T06:17:02Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
     "title": "KDE Releases KDE Frameworks 6.31 with Various Improvements and Bug Fixes",
     "link": "https://lxer.com/module/newswire/ext_link.php?rid=368070",
     "description": "The KDE Project released KDE Frameworks 6.31 today as the latest stable update to this open-source collection of more than 80 add-on libraries to Qt and a companion to the KDE Plasma desktop environment and KDE Gear software suite.",
@@ -99,16 +266,6 @@
     "published_at": "2026-10-09T17:06:12Z",
     "source": "lwn.net",
     "source_url": "https://lwn.net"
-  },
-  {
-    "title": "Ventoy 1.1.18 Adds Experimental Support for SteamOS Recovery Images",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368055",
-    "description": "Ventoy 1.1.18 has been released today as a maintenance and feature update to this open-source bootable USB solution that introduces support for new systems and improves support for existing distributions.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368055",
-    "date": "Oct 09, 2026 16:33",
-    "published_at": "2026-10-09T16:33:38Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
   },
   {
     "title": "Cloudflare Keeps 1.1.1.1 Out of Piracy Blocking, Escapes Penalties In France",
@@ -325,162 +482,5 @@
     "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1650860605id29939gol.webp",
     "source": "gamingonlinux.com",
     "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Get more top quality games for cheap in The Triple-i Initiative Showcase Bundle",
-    "link": "https://www.gamingonlinux.com/2026/10/get-more-top-quality-games-for-cheap-in-the-triple-i-initiative-showcase-bundle/",
-    "description": "The Triple-i Initiative Showcase Bundle has arrived and with it you can fill up your Steam Library with even more interesting games.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/10/get-more-top-quality-games-for-cheap-in-the-triple-i-initiative-showcase-bundle/",
-    "date": "Oct 09, 2026 07:57",
-    "published_at": "2026-10-09T07:57:30Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1604365794id29938gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Check out the demo for Of Dice and Minions, a pixel-art dice-rolling auto-battler roguelite",
-    "link": "https://www.gamingonlinux.com/2026/10/check-out-the-demo-for-of-dice-and-minions-a-pixel-art-dice-rolling-auto-battler-roguelite/",
-    "description": "Another demo that looks to be worthy of your time is Of Dice and Minions, a pixel-art dice-rolling auto-battler roguelite.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/10/check-out-the-demo-for-of-dice-and-minions-a-pixel-art-dice-rolling-auto-battler-roguelite/",
-    "date": "Oct 09, 2026 07:41",
-    "published_at": "2026-10-09T07:41:45Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1671854629id29937gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "COSMIC 1.10 Adds Support for Mapping Drawing Tablets to Specific Displays",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368037",
-    "description": "Linux hardware vendor System76 released COSMIC 1.10 today as the latest stable version of this Rust-based desktop environment for modern GNU/Linux distributions.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368037",
-    "date": "Oct 09, 2026 07:38",
-    "published_at": "2026-10-09T07:38:45Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "DXVK-Sarek 1.14.0 released for gaming on older GPUs",
-    "link": "https://www.gamingonlinux.com/2026/10/dxvk-sarek-1-14-0-released-for-gaming-on-older-gpus/",
-    "description": "DXVK-Sarek version 1.14.0 has arrived, keeping Wine / Proton gaming alive for those of you with older GPUs that don't have modern Vulkan support.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/10/dxvk-sarek-1-14-0-released-for-gaming-on-older-gpus/",
-    "date": "Oct 09, 2026 07:28",
-    "published_at": "2026-10-09T07:28:41Z",
-    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/dxvk-sarek_gol2_31ee42bf.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "The awesome Deadly Days: Roadtrip has set an October 29 release date",
-    "link": "https://www.gamingonlinux.com/2026/10/the-awesome-deadly-days-roadtrip-has-set-an-october-29-release-date/",
-    "description": "The brilliant bullet heaven inventory management zombie shooter Deadly Days: Roadtrip hits the big 1.0 on October 29th.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/10/the-awesome-deadly-days-roadtrip-has-set-an-october-29-release-date/",
-    "date": "Oct 09, 2026 07:16",
-    "published_at": "2026-10-09T07:16:24Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1876731532id29935gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "SteamOS 0.4 for Steam Frame is out now with better power efficiency and battery lifetime",
-    "link": "https://www.gamingonlinux.com/2026/10/steamos-0-4-for-steam-frame-is-out-now-with-better-power-efficiency-and-battery-lifetime/",
-    "description": "Valve just released a major stable update for all Steam Frame owners, bringing some great sounding improvements.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/10/steamos-0-4-for-steam-frame-is-out-now-with-better-power-efficiency-and-battery-lifetime/",
-    "date": "Oct 09, 2026 07:05",
-    "published_at": "2026-10-09T07:05:58Z",
-    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/steam-frame-in-box_gol2_098d19e6.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Apollo Software Pioneer Margaret Hamilton Dies at 90",
-    "link": "https://science.slashdot.org/story/26/10/08/1923206/apollo-software-pioneer-margaret-hamilton-dies-at-90?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "\"Margaret Hamilton, the groundbreaking researcher who helped create the field of software engineering and whose code helped land NASA's Apollo astronauts on the moon to win the 20th century space race, has died,\" writes longtime Slashdot reader Veeru. \"She was 90.\" MIT News reports: A computing pioneer who authored over 130 publications, Hamilton helped to establish software engineering as a dedicated discipline. She worked at MIT from 1959 until the mid-1970s, after which she became a successful computing entrepreneur and CEO. Her life's work was recognized with many awards and honors, including the 2016 Presidential Medal of Freedom from President Barack Obama, whose citation noted: \"Hamilton defined new forms of software engineering and helped launch an industry that would forever change human history. Her software architecture led to giant leaps for humankind, writing the code that helped America set foot on the moon.\" \"To say Margaret Hamilton was a pioneer -- to say she was ahead of her time -- would be a dramatic understatement. She was a software engineer at a time when that field was in its infancy, and she not only developed advanced code herself but also led a team in using that nascent technology to develop one of the most complex systems humanity had ever achieved,\" says Olivier de Weck, the Apollo Program Professor and interim head of the MIT Department Aeronautics and Astronautics.\n \n\"The Apollo program still stands as one of our greatest testaments to the power of collaboration, ingenuity, and engineering, and Margaret Hamilton was a fundamental contributor to that program's success. And for her that was just the beginning! She went on to become an entrepreneur and remained on the cutting edge of systems software throughout an extraordinary career, while acting as an advocate, mentor, and inspiration to millions.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 09, 2026 07:00",
-    "published_at": "2026-10-09T07:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Distro of the Week: VailuxOS 1.6.1.4",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367992",
-    "description": "After a day or two of false alarms, Distro of the Week finally settled on a German distro based on Debian, specifically VailuxOS 1.6.1.4. The distro, aimed specifically at Windows refugees, has much to offer the wide spectrum of Linux users choosing it, and overall it was a pleasant surprise. .",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367992",
-    "date": "Oct 09, 2026 04:35",
-    "published_at": "2026-10-09T04:35:46Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Beginners Guide for locate Command on Linux",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368051",
-    "description": "The locate command is used to quickly search for files or directories within the indexes in the database file known as updatedb.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368051",
-    "date": "Oct 09, 2026 03:04",
-    "published_at": "2026-10-09T03:04:17Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "New AI Agent Resources Proposed For The Linux Kernel, AI Skills To Help Developers",
-    "link": "https://www.phoronix.com/news/Linux-AI-Agent-Resources",
-    "description": "The latest proposal for the upstream Linux kernel is introducing infrastructure for AI agent resources. Initially these agent resources would be for a skill so AI agents can automatically add a \"Fixes: \" tag on relevant patches for noting the first problematic Git commit automatically that a patch fixes...",
-    "guid": "https://www.phoronix.com/news/Linux-AI-Agent-Resources",
-    "date": "Oct 09, 2026 00:41",
-    "published_at": "2026-10-09T00:41:17Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Valve Lands VK_AMD_anti_lag Support For AMD RADV Driver In Mesa 26.3",
-    "link": "https://www.phoronix.com/news/Mesa-26.3-RADV-VK_AMD_anti_lag",
-    "description": "There is yet another feature to get excited about for this quarter's Mesa 26.3 release. Months in the making, the Valve-contributed VK_AMD_anti_lag support for the Radeon RADV driver was merged today for benefiting AMD Linux gamers as a nice improvement over the former implementation...",
-    "guid": "https://www.phoronix.com/news/Mesa-26.3-RADV-VK_AMD_anti_lag",
-    "date": "Oct 09, 2026 00:23",
-    "published_at": "2026-10-09T00:23:33Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "GStreamer 1.28.8 Multimedia Framework Gets Security Fixes",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368041",
-    "description": "GStreamer 1.28.8 brings security fixes, resolves HLS and DASH playback regressions, and improves FLAC seeking, video encoding, and stability.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368041",
-    "date": "Oct 09, 2026 00:18",
-    "published_at": "2026-10-09T00:18:31Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "US Bars Microsoft, Adobe, and Major IT Firms From Green Card Program",
-    "link": "https://yro.slashdot.org/story/26/10/08/194218/us-bars-microsoft-adobe-and-major-it-firms-from-green-card-program?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "An anonymous reader quotes a report from TechCrunch: The Trump administration is suspending Microsoft, Adobe, and several other technology companies from a program that helps skilled foreign workers obtain permanent residency in the United States, accusing the companies of fraud. \"Our message to Microsoft is: You're a great American company, but you've got to hire great American workers,\" U.S. Vice President JD Vance said in a news conference on Thursday, Reuters reported.\n \nThe other firms being suspended from the program include Capgemini, Cognizant, HCL, Infosys, Tata, and Wipro. Secretary of Labor Keith Sonderling said the government would not accept any new or pending permanent labor certification applications involving these companies. H-1B visas are designed for highly skilled positions that employers may struggle to fill with qualified U.S. workers. Tech companies are among the largest users of the program, with nearly three-quarters of approved visas going to workers from India, according to The Associated Press.\n \nVance also said during the news conference that the administration would investigate nine universities, including Harvard, Yale, and Stanford, over allegations they're abusing a program that allows international students to come to the U.S. and were using the program to undermine wages for American workers. \"We believe in the strength and talent of the American workforce,\" a Microsoft spokesperson said in a statement. \"That is why the vast majority of Microsoft employees in the United States are Americans. We look forward to providing the Administration with additional information. For example, of the approximately 6,000 H-1B visa applications we submitted in the last fiscal year, 80% percent were to extend or change the status of existing Microsoft employees.\"\n \n\"These were not to hire new people. The remaining filings for new employees were for individuals already legally in the United States who decided to come work for us, and they equal only 1% of our U.S. workforce. They are not new arrivals to our country.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 08, 2026 23:00",
-    "published_at": "2026-10-08T23:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Raspberry Pi Imager 2.0.12 Released with Sequential Writes via io_uring on Linux",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368039",
-    "description": "Raspberry Pi Imager 2.0.12 has been released today as the latest stable version of this open-source, free, and user-friendly tool for creating bootable media for Raspberry Pi devices.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368039",
-    "date": "Oct 08, 2026 22:47",
-    "published_at": "2026-10-08T22:47:01Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "EXT4 Deprecates Its Journaled \"data=journal\" Mode",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368040",
-    "description": "The EXT4 file-system today deprecated its journaled mode of the \"data=journal\" mount option. Following its deprecation, this mode is planned for removal in the year 2028...",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368040",
-    "date": "Oct 08, 2026 21:15",
-    "published_at": "2026-10-08T21:15:32Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
   }
 ]
