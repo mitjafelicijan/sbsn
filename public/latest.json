@@ -1,5 +1,141 @@
 [
   {
+    "title": "Kernel prepatch 7.3-rc7",
+    "link": "https://lwn.net/Articles/1099798/",
+    "description": "The 7.3-rc7 kernel prepatch is out for\ntesting.  According to Linus: \"As always, I would have preferred to see a smaller\nrc, but it's not like anything in here looks like a reason to delay\nthe final release. So that's still set for next weekend unless\nsomething new comes up.\"\n\n\nOne notable change that slipped into the mainline this week is the deprecation\nof the ext4 data=journal mode; it will be removed entirely at the\nbeginning of 2028.",
+    "guid": "https://lwn.net/Articles/1099798/",
+    "date": "Oct 12, 2026 03:31",
+    "published_at": "2026-10-12T03:31:34Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "Let's Encrypt to Cut SSL Certificate Lifetimes to 64 Days in February 2027",
+    "link": "https://it.slashdot.org/story/26/10/12/0211238/lets-encrypt-to-cut-ssl-certificate-lifetimes-to-64-days-in-february-2027?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Let's Encrypt \"will shorten the default validity period of its TLS certificates from 90 days to 64 days, starting February 10, 2027,\" reports the blog Linuxiac:\n\nAll certificates issued or renewed from that date will have a 64-day lifespan unless users explicitly select one of the shorter options already available: 45 or six days. \n\nExisting certificates will remain valid until their expiration dates. Let's Encrypt expects the final 90-day certificate to expire on May 11, 2027. The organization also confirmed no valid certificates will be revoked during the transition. To help administrators prepare, Let's Encrypt will introduce 64-day certificates in its staging environment on October 14, 2026, allowing users to test their renewal setups before the change reaches production. \nThe move is part of a broader effort to improve web security by reducing how long compromised or incorrectly issued certificates remain usable... Looking further ahead, the organization plans to reduce the default certificate lifetime again, this time to 45 days in 2028. That makes the upcoming 64-day limit an intermediate step rather than the final destination.\n \n\n\"Administrators using cron jobs or scripts with hardcoded renewal intervals should review their configurations,\" the article suggests. \n\"Another upcoming change concerns domain validation. Let's Encrypt will reduce the period during which a previously completed domain authorization can be reused from 30 days to 10 days. In 2028, that period will shrink further to just seven hours.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 12, 2026 03:09",
+    "published_at": "2026-10-12T03:09:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "LineageOS 24.0 Open-Source Mobile OS Released with Android 17",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368107",
+    "description": "The open-source mobile OS LineageOS 24.0 launches with Android 17, a new photo editor, improved updates, and redesigned system applications.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368107",
+    "date": "Oct 12, 2026 02:39",
+    "published_at": "2026-10-12T02:39:13Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Game Console Market Craters: Xbox and PS5 Sales Plummet Over 25%",
+    "link": "https://hardware.slashdot.org/story/26/10/12/018224/game-console-market-craters-xbox-and-ps5-sales-plummet-over-25?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "\"Video game console sales in the U.S. have cratered,\" reports Tom's Hardware, with sales through August far below where they'd been in 2025:\n\n\nMat Piscatella, the video game industry advisor at research firm Circana, shared the numbers on his Bluesky account — PlayStation 5 sales have dropped by 25%, putting it at its lowest point since 2013, when gamers held off buying PlayStation consoles in anticipation of the arrival of the PS4, while Xbox's retail figures have cratered by 33% YTD, putting its sales numbers at an all-time low since its launch almost 25 years ago. \n\nPiscatella said price sensitivity is becoming a real problem among gamers, especially as the chip shortage has pushed console manufacturers to raise prices. Microsoft has raised the price of the Xbox three times in the past two years, with the 512GB versions jumping by $100 and 1TB models becoming $150 more expensive. Worse, the company has killed off the 2TB model. This brought the Xbox Series S to $499.99 (512GB) and $599.99 (1TB), while the Xbox Series X now costs $749.99 for the Digital Edition, and the disc version costs $50 more at $799.99. \n\nPlayStation fans haven't escaped these price hikes, as Sony raised prices for that console by $100 to $150. The base Digital Edition PS5 now costs $599.99, while the version with an optical drive is priced at $649.99. If you want the PS5 Pro, you'll have to shell out $899.99, while those who want to stream games from their console via the PlayStation Portal must now pay $249.99 — $50 higher than its $199.99 launch price. Even used consoles didn't escape inflation, with Sony bumping the price of refurbished PS5 Slim consoles by $100, bringing them to $399.\n\n \n\n\"Still, Piscatella says the U.S. hardware market has never been more precarious since the early 1980s.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 12, 2026 01:09",
+    "published_at": "2026-10-12T01:09:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Linus Torvalds Working On A Hefty Linux Kernel Improvement With Claude Code",
+    "link": "https://www.phoronix.com/news/Linus-Torvalds-Claude-Code",
+    "description": "Linux creator Linus Torvalds has been known to use AI to help with kernel debugging and outside of the kernel tree has also done some vibe coding with Google's Antigravity. He has previously said he views AI as a useful tool. It turns out he's even now using Claude Code for working on new Linux kernel features...",
+    "guid": "https://www.phoronix.com/news/Linus-Torvalds-Claude-Code",
+    "date": "Oct 12, 2026 00:16",
+    "published_at": "2026-10-12T00:16:25Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Research Firm Calls Anthropic's Upcoming IPO 'Unprecedented Test of Investor Gullibity'",
+    "link": "https://slashdot.org/story/26/10/11/2355238/research-firm-calls-anthropics-upcoming-ipo-unprecedented-test-of-investor-gullibity?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "CNBC reports:\n\nAs Anthropic barrels toward a potential $2 trillion market cap on the Nasdaq, one research firm is valuing the artificial intelligence company at a mere $150 billion and says Wall Street is about to face an \"unprecedented test of investor gullibility.\" In a report on Tuesday, independent financial research provider New Constructs called Anthropic's upcoming offering the \"most ridiculous IPO of 2026.\" \n\nTo reach its desired valuation, the firm estimates Anthropic would need to record double the trailing year of profit for Nvidia, the world's most valuable tech company. Nvidia's net income over the past four quarters topped $190 billion. Meanwhile, Anthropic's revenue in 2025 was $4.6 billion as the company racked up a net loss of $42 billion, according to Reuters, which cited a leaked copy of the company's prospectus.\nAnthropic's mounting operating losses coupled with emerging competition from a plethora of open-source models led New Constructs to conclude that, \"We don't think Anthropic has a viable business....\" \n\n\nAnthropic didn't respond to a request for comment... \nThe New Constructs report also notes that Anthropic's assertion that AI could pose \"a catastrophic or existential risk to humanity\" is another reason why investors should avoid the IPO. \n\nReuters reported that Anthropic's IPO prospectus \"highlights risks associated with its AI models, which it said could exhibit 'self-preserving behaviors,' including attempts to 'resist shutdown,' to 'conceal or manipulate information' and behavior 'resembling blackmail.'\" Now Bloomberg writes that \"investors considering Anthropic's planned mega-IPO are grappling with an unusual, and more than a little scary, conundrum: How to value a company that some fear could help wipe out the human race?\" \n\nAnthropic's valuation also drew some scrutiny from\na senior analyst at PitchBook.\n\"A $2 trillion price is about 435 times 2025 revenue, less than 44 times the annualized second-quarter revenue of more than $46 billion and just under 31 times the July run rate.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 11, 2026 23:58",
+    "published_at": "2026-10-11T23:58:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "9to5Linux Weekly Roundup: October 11th, 2026",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368104",
+    "description": "The 313th installment of the 9to5Linux Weekly Roundup is here for the week ending October 11th, 2026, keeping you updated on the most important developments in the Linux world.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368104",
+    "date": "Oct 11, 2026 21:54",
+    "published_at": "2026-10-11T21:54:53Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Gas Cars Fall Below 50% of Global New Car Sales for the First Time",
+    "link": "https://tech.slashdot.org/story/26/10/11/2033201/gas-cars-fall-below-50-of-global-new-car-sales-for-the-first-time?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "\"Gas cars are now a minority of the world's new car sales,\" reports Electrek.\n\n\nGasoline-only vehicles made up 49% of global new-vehicle sales in the first half of 2026, down from 73% in 2021, according to Mobility Global data first reported by Nikkei. It's the first time on record that they've been under half. But there's a catch: most of the cars taking their place still have a gas tank... [The share of gas-only vehicles] fell three points in a single year, from 52% to 49%. Battery-electric vehicles grew 12% to 6.87 million units and took 17% of the market, up three points. Conventional hybrids grew 10% to 7.27 million units, or 18%... [T]he rest is diesel, plug-in hybrids and a few minor fuels. \n\nNikkei ties the acceleration to oil. Fuel prices spiked with the conflict in the Middle East, and buyers went looking for lower running costs. The whole car market shrank about 5% in the first half, according to the IEA, so gas-only sales fell twice as fast as the market. Gas car sales dropped the most in China, down 26%, followed by Europe at 13%... Mobility Global has battery-electric sales up 32% in Europe to 1.81 million, up 81% in Southeast Asia to 350,000, and more than doubling in Oceania to 110,000... Yoshiaki Kawano, an associate director at Mobility Global, told Nikkei that few EV buyers go back to gasoline cars or hybrids. He expects demand based on \"genuine consumer needs rather than subsidies\" to grow as prices come down... \n\n[Hybrids] outsold battery-electric vehicles in the first half, 7.27 million to 6.87 million... Only the 17% that's battery-electric burns no fuel at all. So about 83% of the new vehicles sold in the world this year still came with an engine.\n \n\nThe article notes that U.S. hybrid sales were up 23%, reaching a record 16.3% of vehicles sold in the second quarter of 2026, while the share of ICE vehicles went down. \n\n\nGas-only cars went from 73% to 49% of the market in less than five years, and nothing in the data suggests they're getting that share back. The last time gasoline wasn't on top was the early 1900s, when steam and electric cars outsold it in the US. \n\nI hate seeing media headlines claiming that \"EV sales are down\" and that \"EV growth has stalled.\" The data is clear: that's true in the US, but only in the US. The rest of the world is moving to electric vehicles, and it is not slowing down.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 11, 2026 21:10",
+    "published_at": "2026-10-11T21:10:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Cloudflare Acquires Deno JavaScript Runtime, Core Development to End in 2027",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368091",
+    "description": "Cloudflare acquires Deno, shifting its developers to Workers while the open-source JavaScript runtime faces an uncertain future.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368091",
+    "date": "Oct 11, 2026 20:23",
+    "published_at": "2026-10-11T20:23:23Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "'The Social Reckoning' Bombs with $5.5 Million Opening",
+    "link": "https://entertainment.slashdot.org/story/26/10/11/207258/the-social-reckoning-bombs-with-55-million-opening?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Why didn't The Social Reckoning enjoy the box office success of 2010's The Social Network, asks IndieWire/A\u003e:\n\n\n[T]here wasn't the same urgency in the story being told. The Social Reckoning focuses less on Zuckerberg, and more on data engineer Frances Haugen's decision to blow the whistle on how Facebook's algorithms were promoting political content that radicalized users, as well as the company's awareness of how its products were contributing to a rise in bullying and teen suicide... [B]ut The Social Reckoning arrives as a much greater threat has emerged from Silicon Valley. Artificial intelligence is dominating the headlines, as fears mount about the economic disruptions it will unleash when millions of jobs are replaced by machines, and, graver still, its potential to trigger a world-ending event... And it's not like Haugen's testimony led to lasting change at Facebook... As IndieWire's Ryan Lattanzio put it, \"'The Social Reckoning' argues that the aftermath of their whistleblowing is still somehow felt today. In actuality, living as we do in 2026, it pretty much feels like... no one cared, and nothing changed?\"\n \n\nAfter the first movie's director bowed out, Sony Pictures shied away from selling it as a sequel — but the problems run deeper, the article adds. \"The Social Reckoning isn't just a financial failure, it's a critical one, too. The reviews were blistering...\" Although on the bright side, \"Sony wisely kept The Social Reckoning's budget at $30 million, meaning it won't face losses on the scale of a Digger... \" \n\n\nVariety writes that Digger \"cratered in its second weekend with $3.2 million from 3,321 theaters, a 60% decline from its dismal $8 million debut. So far, the Tom Cruise satire has limped to $14 million domestically and $35.3 million globally. Warner Bros. spent above $160 million to produce the film, which is shaping up to be one of the biggest bombs ever...\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 11, 2026 20:10",
+    "published_at": "2026-10-11T20:10:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Linux Networking Diverts 50+ Fixes To Next Kernel, Still Bombarded With AI Fueled Churn",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368079",
+    "description": "Ahead of the Linux 7.3-rc7 kernel due for release on Sunday, this week's batch of networking fixes were submitted and merged. The vast networking subsystem of wired and wireless drivers plus the various other networking features continues to see a lot of activity due to AI-driven bug reports and patches...",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368079",
+    "date": "Oct 11, 2026 18:51",
+    "published_at": "2026-10-11T18:51:54Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Blade Runner, Star Trek, Godzilla, Star Wars + Marvel (and Legos): News From New York Comic-Con",
+    "link": "https://entertainment.slashdot.org/story/26/10/11/1839216/blade-runner-star-trek-godzilla-star-wars--marvel-and-legos-news-from-new-york-comic-con?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "There was some Blade Runner news at New York Comic-Con this weekend — and also some news about Godzilla. Ars Technica reports:\n\n\nWe got our first look at Prime Video's new sci-fi series Blade Runner 2099 in July at San Diego Comic-Con. With the show's premiere roughly six weeks away, the streamer unveiled the full trailer this weekend at New York Comic-Con... Prime Video will drop all eight episodes of Blade Runner 2099 on November 25, 2026. [It's already earned 2.1 million views in the last 17 hours]. \n\n\nWe also got a new trailer for Godzilla Minus Zero, the sequel to director Takashi Yamazaki's gloriously grounded kaiju epic, Godzilla Minus One, which became a major international hit and snagged an Oscar for best visual effects. [1.2 million views in its first five hours]\n \n\n\n And StarWars.com brings news from the Star Wars universe:\n\n\nKevin Smith has already announced his Star Wars/Marvel: Hope Assembles crossover comic, interweaving the Marvel universe and the Star Wars galaxy like never before. Now, you're cordially invited to add your own creative ideas to the mix through a LEGO Ideas challenge celebrating the milestone 50th anniversary of Star Wars: A New Hope. \n\nUsing physical or virtual LEGO bricks, fans are challenged to build \"their own epic mash-ups,\" according to Lego's web site, \"in three categories: Character Fusion, Vehicle Fusion, and Scene Fusion.\" (\"Write an engaging description and upload great images of your creation without using AI tools...\") \n\nMeanwhile, Star Trek fan site TrekMovie.com covered the major Star Trek announcements:\n\n\nThere was an interview with 95-year-old William Shatner by Star Trek super-fan Ben Stiller, which ended \"with Stiller surprising Shatner by revealing the original Gorn head from his personal Star Trek memorabilia collection.\"Also announced was a new documentary about the disastrous fan-organized convention in 1982 that tried reuniting cast members from the original series. (Its title? The Con of Wrath: The Craziest Convention Ever!)Gates McFadden (who played Dr. Beverly Crusher on Star Trek: The Next Generation) will write a new comic book to \"bridge the 20 year in-universe gap in Crusher's story between the events of the film Star Trek Nemesis and the television series Star Trek: Picard.\"Paramount+ offered a panel about their series Star Trek: Starfleet Academy (which returns for a second season in 2027).Nacelle Toys even announced new action figures of Star Trek creator Gene Roddenberry and Lucile Ball, owner of Desilu Productions.\n\n\nReuters also has photos of costumed attendees. \n\nBut there was also some excitement when an unruly fan shouted over a panel for the Prime Video animated series Helluva Boss. Entertainment Weekly reports it culminated with series star Brandon Rogers shouting \"You need to shut the f--- up right now. I'm going to jump over this fence and end you. It's not cute.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 11, 2026 18:41",
+    "published_at": "2026-10-11T18:41:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Abietec AX61 Wireless Modules Leverage Wi-Fi 6, Bluetooth 5.4, and Matter",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368087",
+    "description": "image Abietec, a subsidiary of Raytac, offers the AX61 series of wireless modules based on NXP’s RW612 and RW610 microcontrollers. The compact modules support Wi-Fi 6, Bluetooth 5.4, and Matter connectivity, with multiple antenna configurations and an accompanying development kit for embedded and IoT applications. The AX61 series integrates a 260MHz Arm Cortex-M33 processor with […]",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368087",
+    "date": "Oct 11, 2026 17:20",
+    "published_at": "2026-10-11T17:20:25Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
     "title": "A College Told Flock to Remove Its Cameras. The Company Refused.",
     "link": "https://news.slashdot.org/story/26/10/09/2340244/a-college-told-flock-to-remove-its-cameras-the-company-refused?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
     "description": "The Chicago Sun-Times reports:\n\n\nWhen Elgin Community College hired Flock Safety to install six surveillance cameras in April 2025, President Peggy Heinrich thought they would \"enhance the safety and security of students....\" They were supposed to help locate stolen cars and missing people. But Heinrich started to wonder if the cameras were actually making students less safe after seeing news reports that data captured by Flock cameras in Illinois had been shared with U.S. Customs and Border Protection. Then in September 2025, Immigration and Customs Enforcement detained an Elgin Community College student in a campus parking lot. More than half of students at the far west suburban Chicago campus identify as Latino. Heinrich said enrollment dipped. Students were afraid to come to class. College officials decided the cameras had to go... \n\n\nCollege officials asked Flock to remove the surveillance cameras \"out of an abundance of caution for our students,\" Heinrich said. But getting the cameras taken down was not as simple as it sounds, especially because Flock retains ownership of the company's equipment.... Surveillance experts say the company is financially incentivized to have as many cameras gathering data as possible even in places that no longer want them, because potential clients are looking for the surveillance network with the greatest reach.... Elgin Community College staff notified Flock in October 2025 that they wanted to cancel their contract and have the cameras taken down. Within a day, Heinrich said, Flock rejected the request and refused to uninstall the equipment on the basis that the company had not breached their agreement. \n\nCollege officials reached out again in December 2025 and said they would pay for the remaining five months of the contract — they just wanted the cameras taken down. \"We never received a response back from Flock,\" Heinrich said. \n\nThat's when things got weird. Heinrich said Elgin Community College staff began to cover the cameras using black trash bags and zip ties so that they would not be able to capture footage. But workers in an unmarked vehicle, which Heinrich assumed belonged to Flock, repeatedly removed the coverings... This strange dance continued, Heinrich said, until Elgin Community College's contract with Flock expired in April this year and the company uninstalled the cameras for good.\n\n\n\n\n\nRead more of this story at Slashdot.",
@@ -157,6 +293,16 @@
     "source_url": "https://slashdot.org/"
   },
   {
+    "title": "Many Laptop \u0026 Gaming Handheld Support Improvements Coming For Linux 7.4",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368082",
+    "description": "Many x86 platform driver improvements have been queuing ahead of the upcoming Linux 7.4 merge window to offer a variety of laptop and gaming handheld device improvements with this next kernel version...",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368082",
+    "date": "Oct 11, 2026 01:08",
+    "published_at": "2026-10-11T01:08:55Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
     "title": "AI Execs Game Out 'Political Revolt' after a Catastrophic AI Event",
     "link": "https://yro.slashdot.org/story/26/10/10/2253228/ai-execs-game-out-political-revolt-after-a-catastrophic-ai-event?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
     "description": "Top executives at Anthropic, OpenAI and other AI companies \"are privately gaming out scenarios for a public and political revolt after a catastrophic AI event,\" reports Axios, one that turns \"an already wary public further against the technology and its leaders...\" \n\nThese AI company executives \"anticipate a large-scale event, most likely a cyberattack, that shuts down access to financial services, internet connectivity, or even power and water...\" the article points out.\n\"Many top AI researchers and executives believe a major incident is inevitable.\n\n\n\"OpenAI conducts preparedness exercises where teams discuss and work through a range of potential scenarios,\" a company spokesperson said. \"These scenarios are not treated as inevitable, but are meant to help us prepare for a variety of circumstances.\" Anthropic declined to comment... \n\nTop AI planners assume Democrats, ascendant after the midterms, will move fast to shut down AI but will face significant challenges... The planning involves red-teaming for worst-case scenarios. It focuses mainly on racing to educate members of Congress. Company executives know regulation has no chance of passing right now, but still want to shape the legislation and policies U.S. leaders will turn to after a first catastrophic event.... \n\n\nMany AI industry insiders told Axios they believe a major event will occur in the next six to 12 months.\n\n \n\n\"Even with Democrats in control of the House and Senate, the companies see fractured politics as the norm, including within the Democratic Party.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
@@ -189,157 +335,12 @@
     "source_url": "https://slashdot.org/"
   },
   {
-    "title": "Ubuntu 26.10 Will Offer a Rust-based GnuPG Replacement Option",
-    "link": "https://linux.slashdot.org/story/26/10/10/2155227/ubuntu-2610-will-offer-a-rust-based-gnupg-replacement-option?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "The blog It's FOSS reports:\n\nYou already know that Canonical has been selectively replacing Ubuntu's C-based system components with Rust-written equivalents that don't compromise in terms of functionality, most of the time. Now it looks like the distro's OpenPGP implementation is next, with Sequoia PGP coming preinstalled in Ubuntu 26.10. Canonical wants it to eventually replace GnuPG [the dominant Linux implementation of PGP, written in C] as the default toolchain, though that switch has not happened yet... [The Ubuntu 26.10 release notes say Sequoia PGP's default status will be a future goal...] \n\n[Sequoia PGP] was started in 2017 by three former GnuPG developers who chose to build a new OpenPGP implementation in Rust rather than keep evolving GnuPG's existing codebase. Sequoia PGP is designed as a library that other software can use directly, rather than a standalone command-line tool. sq sits on top of that for encryption, decryption, signing, and key management, and sqv handles signature verification, filling in for gpg and gpgv in GnuPG. \nSequoia also implements RFC 9580, the 2024 revision of the OpenPGP standard, whereas GnuPG has continued from the RFC 4880 branch, pursuing its own newer extensions and the LibrePGP specification rather than adopting RFC 9580 as its primary standard. \nFrom the It's FOSS Weekly newsletter, which also notes that the founder of the It's FOSS blog has also created a Linux-themed game called TUXDLE — a variation on Wordle where all the answers are Linux terms.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 10, 2026 21:59",
-    "published_at": "2026-10-10T21:59:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Let’s Encrypt to Cut SSL Certificate Lifetimes to 64 Days in February 2027",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368085",
-    "description": "Let's Encrypt will reduce TLS certificate validity from 90 to 64 days starting February 10, 2027, with a further reduction to 45 days planned for 2028.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368085",
-    "date": "Oct 10, 2026 20:34",
-    "published_at": "2026-10-10T20:34:27Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Claude Sent Police a Fake Murder Tip. White House Mandates AI Companies Report Security Incidents",
-    "link": "https://slashdot.org/story/26/10/10/1951219/claude-sent-police-a-fake-murder-tip-white-house-mandates-ai-companies-report-security-incidents?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "AFP reports that an AI model from Anthropic \"submitted a fabricated tip about an unsolved homicide to Philadelphia police, authorities said Friday.\" \n\n\nClaude \"was instructed never to log in, create accounts, enter personal data, make purchases, or submit anything destructive, but the instructions did not rule out form submissions,\" Anthropic said Friday in a blog post. \n\n\nAuthorities are now criticizing Anthropic \"for taking two months to report the incident.\"\n\nThe Philadelphia Police Department said the false submission was made in July through PhillyUnsolvedMurders.com, a public website where people can share information about unsolved killings. According to Anthropic's account, as relayed by police, the model was running a test that involved interacting with randomly selected websites when it reached the site and filed false information about an unsolved murder. The AI model presented itself as someone who might have knowledge of the case. \n\n\n\nAnthropic's breaches have prompted the White House to mandate that AI companies notify and correct security incidents, news outlet Axios reported [yesterday], citing administration officials. \"This notification and remediation process is not optional... It is a critical national security obligation,\" White House Super Intelligence Force leaders said in a statement to Axios. \n\"I may have information regarding this case,\" Claude told the police. \"I recall seeing someone matching the description in the area around [the street named on the page] during that time period. Please contact me if this information is relevant.\" Anthropic notes that Claude \"left the name and contact fields empty, which the form allowed, and submitted it. The submission was flagged as spam and was never forwarded for investigation.\" \n\nBut Anthropic also admits they saw \"this behavior\" three times — \"on OSWorld (a public computer use evaluation), on Odysseys (a long-horizon task evaluation), and during internal usage.\" Submitting forms when it shouldn't have generally occurred \"when an evaluation's instructions were ambiguous, or when a misconfiguration within the environment prevented Claude from working with dummy forms.\" \n\n\n\nAnthropic's blog post acknowledges three other categories of behaviors:\n\n\n Exploiting software flaws. Like when Claude received an error when trying to run a public tool on a university's web site, it located an injection flaw in a script on the university's server that let it run commands — including that public tool. \n Working around restrictions to reach gated data. For example, Claude Mythos 5 needed public data that was only available from a state agency for a fee. \"Claude learned from an archived copy of the agency's website that its public dashboard issues an access token to any visitor,\" Anthropic explains. \"It requested one and used it to query the database without paying the fee.\"\n Using URL shortening services. \"Some of our fetch tools, which let Claude read webpages, limit the length of the URLs Claude can request. This is to prevent Claude from using long URLs to take certain unwanted actions, such as SQL or command injections... We saw several models, including Claude Opus 5 and Claude Mythos 5, get around this limitation by using free URL shortening services.\"\n\n\n\n\"We have built tooling to automatically detect and block the kinds of behaviors described above,\" Anthropic says, saying it's already running no on most of their evaluations. \"When we tested it against the cases described in this post, it blocked all of them.\" \n\nAnd they've already taken several other new preventive measures:\n\n\nThey've stopped running some public evaluations \nOther public evaluations were moved to offline versions or rebuilt so their tasks don't reach live websites. \nThey've updated the guardrails on some internet access tools (including web fetch) \"to heavily restrict what the model can do.\"\n They're continuing \"to fix or remove training environments that reward Claude for working around tool restrictions or other blockers, so that they do not incentivize these behaviors or permit reward hacking.\"\n\nThey've moved internal agents to \"centrally managed infrastructure with strong containment,\" that minimizes internet access while monitoring \"far more of what agents do through techniques like safety classifiers and hierarchical summarization.\"\n\n\nIn the past they'd focused reviews on cybersecurity testing, but they've broadened their transcript reviewing to other tasks which include internet access. \"Because language models are non-deterministic — that is, their responses always involve some element of randomness, and they may carry out the same task slightly differently each time — we have Claude complete each evaluation task hundreds or thousands of times... If training rewards something we didn't intend — such as finding loopholes or working around a restriction — the model learns that the workaround pays off and may then apply it elsewhere.\" \n\nAnthropic's blog post also acknowledged they'd seen multiple misalignment incidents involving federal, state, and local U.S. government agencies. \"We have briefed the White House on these cases and notified each agency involved,\" Anthropic wrote, adding that \"While we have not completed a full alignment assessment of these cases, we consider them to be less severe than the cybersecurity incidents from this summer.\" (And they are \"modifying training to reduce the likelihood of further misbehavior.\")\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 10, 2026 19:54",
-    "published_at": "2026-10-10T19:54:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "OpenAI Disrupts Two AI-Enabled 'False Front' Influence Operations That Included Seven Fake Journalists",
-    "link": "https://politics.slashdot.org/story/26/10/10/0537232/openai-disrupts-two-ai-enabled-false-front-influence-operations-that-included-seven-fake-journalists?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "OpenAI announced it's recently banned two \"influence operations\" — one from Russia and one from Iran — that were using its models \"to launder geopolitical, conflict-related messaging\" in sophisticated \"false front\" propaganda campaigns:\n\nThe Iranian operation included a stable of seven \"journalist\" personas which it used to pitch long-form articles to small and medium online outlets around the world... As well as long-form articles, the Iranian operation generated batches of social media comments, generally on topics related to the US-Iran war... [The Russian operation \"appears to have co-opted unwitting people in Latin America to run a 'think tank'.... Since we do not allow access to our models from Russia, they used VPNs to connect to our services.\"] The Russian operation created fake \"leaked\" documents and audio scripts, some of which we identified being spread online... Both managed to land their content (not all of which was generated from our models) in mainstream media outlets, rather than simply posting it on social media.\n \n\nOpenAI says they've exposed 30 covert influence operations using its tools over the last two and a half years. But ironically, in this case both operations \"also made heavy use of AI to draft internal reports (the Russian operation did this more than anything else).\" And \"in both cases, the actors used questionable or outright deceitful methodologies to exaggerate the operators' effectiveness.\"\n\n[The Russian operators] claimed that in May 2026, they created a fake email address purporting to come from the Regional Directorate of Education in Lima, Peru. They used this to instruct schools in the district to hold events dedicated to Ukraine on the national Day of Cultural and Linguistic Diversity (May 21)... According to the operators, some schools replied to the fake email address, confirming that they had held such events and even providing pictures. The operators then claimed to have planted stories about the events in the media in both Peru and Poland, alongside allegations that Ukraine was \"exporting\" ultra-nationalist ideologies, triggering outrage. Open-source searches identified stories that matched this claim in the Peruvianâ andâ Polish pressâ, and an English-language publication in Hungary (some of the articles have since been deleted)... \n\nSimilarly, in June, the operators claimed they used a different fake email address to trick schools in Ecuador into holding a ceremony pledging allegiance to President Daniel Noboa and to Erik Prince, former head of private military contractor Blackwater. The operators claimed that the incident provoked outrage in Ecuador and put pressure on the government to deny the fake, thus amplifying it to a nationwide audience. Again, open-source research identified mediaâ coverageâ in the Ecuadorianâ pressâ that closely resembled this claim, and even a detailed rebuttalâ by Ecuador's Minister for Education. \n\nThe operators used a range of techniques to underpin their false stories. According to their internal reporting, they spread two different fakes targeting Ecuador in March. One used fake audio attributed to Ukraine's consul in Ecuador, in which he was alleged to have made disparaging comments about Ecuadorians.\n \n\n\nOpenAI's report \"is the latest illustration of how state actors can easily exploit widely available AI tools to peddle sophisticated propaganda against adversaries on a mass scale,\" argues the Economic Times:\n\n\"We identified almost 100 articles published or syndicated under the [Iranian] operation's bylines across roughly a dozen online outlets around the world,\" OpenAI said. \"These were small to medium outlets, generally focused on international affairs, geopolitics, and events in the Middle East.\" The earliest article identified by OpenAI was published in July 2025, and the latest in October 2026, with the frequency of reports increasing after the US-Iran war broke out earlier this year. The operation also generated social media comments on topics related to the US-Iran war, it added. \n\nOne of the personas named Ervin B. Hoskins, whose bio claimed to be \"an American freelance writer,\" had social media accounts across tech platforms including Elon Musk's X and Meta-owned Instagram.\n X's transparency information showed the account was connected via a \"West Asia android app\" and Instagram's transparency information showed the account was based in Iran, according to screenshots provided by OpenAI. Both accounts appeared to be suspended.\n\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 10, 2026 18:34",
-    "published_at": "2026-10-10T18:34:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Another Woman Sues Flock For Mistaken Crime Accusation By Police - and for Surveillance",
-    "link": "https://yro.slashdot.org/story/26/10/09/2251259/another-woman-sues-flock-for-mistaken-crime-accusation-by-police---and-for-surveillance?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Last week a Florida woman sued Flock over its role in police officer accusing her of a crime she didn't commit But she's not the only one suing Flock over mistaken accusations, reports Gizmodo:\n.\n\n\nA Ring video of a Colorado woman being handed a criminal summons for a porch-package theft she did not commit recently went viral after the accusation rested on a Flock Safety automated license plate reader hit. Now, the woman involved in that case, Chrisanna Elser, is suing Flock Group, the towns of Columbine Valley and Bow Mar, Sergeant Jamie Milliman, and Chief Bret Cottrell in federal court on behalf of herself and other Coloradans whose plates the company has logged... \n\nThe package in question was worth $25... The claims aimed at the company are intrusion upon seclusion, plus negligence and negligent design, on the theory that Flock sold a searchable archive and refused to require a warrant, a case number, or a supervisor's sign-off before an officer could run a plate... Elser is asking the court to make Columbine Valley, Bow Mar, Cottrell, and Flock delete the retained location data, to bar them from keeping it unless it is tied to an open case number, and to make Flock require a warrant, a case number, and a supervisor's approval before a Colorado agency can search the system. \n\n The Colorado Sun has more details. \"Elser did not steal anything, but spent the following two weeks proving her own evidence to a department that did not return her calls, she said.\n\n\n\n\n[P]olice Sgt. Jamie Milliman told her the town of Bow Mar's surveillance cameras captured her forest green Rivian driving through town the same day a package disappeared from a thief... When Elser offered to show her own evidence to prove her innocence, including footage from her Rivian's onboard cameras, Milliman said she could bring it to court. Now, she is suing the officers and Flock Safety in U.S. District Court in Denver, alleging that the warrantless tracking violated her constitutional rights and that Flock's surveillance system unlawfully documents Coloradans' movements... \"The scariest part is what happened to me can happen to anyone. I had no idea the Flock cameras existed and no idea a private company was keeping a record of every time I drove past my own neighborhood, or that any officer could pull it up without asking anyone or giving a reason for doing so,\" Elser said in a statement Tuesday. \"If it can happen to me, it can happen to you....\" \n\n\"As noted in the complaint, the Flock system accurately identified the location of Ms. Elser's vehicle, while law enforcement retained responsibility for interpreting and weighing that information as part of the broader investigation,\" Paris Lewbel, Flock's public relations manager said. \"Flock stands by the accuracy and integrity of its technology and intends to vigorously defend itself in this litigation.\" \n\nThe article includes this statement from the woman's attorney. \"Coloradans pass Flock's cameras on the way to work, church, the doctor, a protest, and a friend's house, and Flock keeps a detailed record of their every movement. It knows where you went, when you went there, and how often you go back, and it gives that information to a police officer with no limits. \n\n\"We are asking a federal court to say what should be obvious: Flock's surveillance is straight-up creepy and the government does not get to follow everyone, all the time, without any reason for doing so.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 10, 2026 17:34",
-    "published_at": "2026-10-10T17:34:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
     "title": "Rolling Release Distros Superior To LTS Distros In The Patch-Heavy GenAI Era?",
-    "link": "https://www.phoronix.com/news/Rolling-Releases-GenAI-Era",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368084",
     "description": "As some interesting food for thought and weekend forum discussions, this week at the Linux Plumbers Conference in Prague, Qualcomm engineer Khem Raj questioned the relevance of Linux Long Term Support (LTS) distributions in the era of generative AI with the constantly heavy patch flow and bug reports. Khem Raj argued the benefits of rolling release distributions in the GenAI era and the benefits it provides staying up-to-date with mainline...",
-    "guid": "https://www.phoronix.com/news/Rolling-Releases-GenAI-Era",
-    "date": "Oct 10, 2026 15:27",
-    "published_at": "2026-10-10T15:27:12Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Ubuntu 26.10 To Include Desktop Images For RISC-V",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368073",
-    "description": "Ubuntu Linux ISOs for RISC-V 64-bit to date have just been the server/CLI version without any desktop environment pre-seeded. But with next week's Ubuntu 26.10 release, there will now be Ubuntu 26.10 RISC-V desktop ISOs for both Ubuntu proper and a Xubuntu minimal ISO...",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368073",
-    "date": "Oct 10, 2026 13:54",
-    "published_at": "2026-10-10T13:54:30Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Many Laptop \u0026 Gaming Handheld Support Improvements Coming For Linux 7.4",
-    "link": "https://www.phoronix.com/news/Linux-7.4-Laptops-Handhelds",
-    "description": "Many x86 platform driver improvements have been queuing ahead of the upcoming Linux 7.4 merge window to offer a variety of laptop and gaming handheld device improvements with this next kernel version...",
-    "guid": "https://www.phoronix.com/news/Linux-7.4-Laptops-Handhelds",
-    "date": "Oct 10, 2026 13:40",
-    "published_at": "2026-10-10T13:40:51Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Woodpecker CI 3.19 Adds Server-Enforced Agent Labels",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368074",
-    "description": "Woodpecker CI 3.19 fixes a security issue involving matrix variables, adds server-enforced agent labels, and improves pipeline reliability.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368074",
-    "date": "Oct 10, 2026 12:23",
-    "published_at": "2026-10-10T12:23:01Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Meta Developing Compressed RAM 'CRAM' For Linux: Better Than ZRAM and Zswap?",
-    "link": "https://hardware.slashdot.org/story/26/10/10/0631257/meta-developing-compressed-ram-cram-for-linux-better-than-zram-and-zswap?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Phoronix reports on a presentation this week by Meta engineer Gregory Price at the Linux Plumbers Conference in Prague:\n\n\nWith today's memory shortages, high prices, and ever increasing memory capacity needs, Meta engineers have been working on Compressed RAM (\"CRAM\") for Linux. \n\nThis hardware-offloaded compression still allows cacheline/byte access to compressed memory and in turn a better implementation than the likes of ZRAM and Zswap. Very promising is that there is near-native performance to raw DRAM speeds with CRAM... For end-users that may already be relying on the likes of Zswap or ZRAM, CRAM is offering near-native DRAM speeds. Read-only data is shown to be as fast as the raw DRAM performance. And for memory writes, CRAM is much faster than ZRAM or Zswap or plain swap. \n\n\"Most of the individual pieces needed to support CRAM are already mainline,\" the article points out.\n Tom's Hardware writes that \"It uses a private NUMA node (essentially, a ghost CPU) instead of pretending to be a block device, and this lets Linux continue using all of its memory semantics, including migration and ballooning, to manage CRAM.\"\n\nBecause CRAM is stored in RAM and treated as RAM, with full cacheline/byte access, it can be accessed in a read-only fashion with little delay; just the cost of hardware-offloaded compression...\nEven when you enable writes, CRAM is still much faster than ZRAM; 5.4x in the worst tested case of 20% writes. That's a huge drop from the 452x read-only case, but keep your context; a 5.4x speedup is still titanic. The massive performance cliff when writes are involved comes down to the need to page fault and migrate folios back to the original NUMA domain, as you can't write directly to compressed data; you'd corrupt everything... \n\nWhile the obvious target of the work here (given its origin at Meta Platforms) is big Linux servers, ZRAM and Zswap are used all over the Linux ecosystem, even on machines as constrained as the Steam Deck. Many distributions enable one or the other by default. CRAM seems like it could offer a considerable speed-up for some of these machines, so hopefully it finds its way into the kernel once the remaining implementation questions are answered.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 10, 2026 12:04",
-    "published_at": "2026-10-10T12:04:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "HDR Support Coming For Qualcomm MSM Driver To Benefit Snapdragon X Laptops On Linux",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368059",
-    "description": "For those making use of Qualcomm Snapdragon X laptops on Linux, one of the features coming to the MSM DRM kernel driver is static HDR support for DisplayPort outputs and eDP panels...",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368059",
-    "date": "Oct 10, 2026 10:51",
-    "published_at": "2026-10-10T10:51:31Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "KNOD Progressing For Linux In-Kernel GPU Offloading For Network Packet Processing",
-    "link": "https://www.phoronix.com/news/KNOD-2026-GPU-Network-Process",
-    "description": "A while back we covered KNOD as an experimental solution for in-kernel network offloading to AMD GPUs. The open-source KNOD project allows leveraging GPUs to handle packet processing in a very performant and energy efficient manner without needing any specialized hardware. KNOD has continued and a development update was shared this week at the Linux Plumbers Conference in Prague...",
-    "guid": "https://www.phoronix.com/news/KNOD-2026-GPU-Network-Process",
-    "date": "Oct 10, 2026 10:25",
-    "published_at": "2026-10-10T10:25:00Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Linux Networking Diverts 50+ Fixes To Next Kernel, Still Bombarded With AI Fueled Churn",
-    "link": "https://www.phoronix.com/news/Linux-7.3-rc7-Networking",
-    "description": "Ahead of the Linux 7.3-rc7 kernel due for release on Sunday, this week's batch of networking fixes were submitted and merged. The vast networking subsystem of wired and wireless drivers plus the various other networking features continues to see a lot of activity due to AI-driven bug reports and patches...",
-    "guid": "https://www.phoronix.com/news/Linux-7.3-rc7-Networking",
-    "date": "Oct 10, 2026 10:11",
-    "published_at": "2026-10-10T10:11:36Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "KDE Plasma 6.8 Ready For Release Next Week, Sees Last Minute NVIDIA Fix",
-    "link": "https://www.phoronix.com/news/KDE-Plasma-6.8-Next-Week",
-    "description": "KDE Plasma 6.8 is gearing up for its official debut next week in coinciding with the 30th anniversary since the KDE project began...",
-    "guid": "https://www.phoronix.com/news/KDE-Plasma-6.8-Next-Week",
-    "date": "Oct 10, 2026 10:00",
-    "published_at": "2026-10-10T10:00:51Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Intel Twin Lake-Based Helix 320 Industrial Gateway with Quad 2.5GbE",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368053",
-    "description": "OnLogic’s newest industrial edge gateway, the Helix 320, features a fanless design powered by Intel N-Series Twin Lake processors. The compact system includes four 2.5GbE ports, two configurable serial ports, M.2 expansion, and support for up to three displays. OnLogic offers the Helix 320 with two Intel N-Series “Twin Lake” processors: N250 – 4-core/4-thread architecture, […]",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368053",
-    "date": "Oct 10, 2026 09:20",
-    "published_at": "2026-10-10T09:20:01Z",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368084",
+    "date": "Oct 10, 2026 22:05",
+    "published_at": "2026-10-10T22:05:56Z",
     "source": "lxer.com",
     "source_url": "https://lxer.com/"
   }

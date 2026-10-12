@@ -1,0 +1,347 @@
+[
+  {
+    "title": "Kernel prepatch 7.3-rc7",
+    "link": "https://lwn.net/Articles/1099798/",
+    "description": "The 7.3-rc7 kernel prepatch is out for\ntesting.  According to Linus: \"As always, I would have preferred to see a smaller\nrc, but it's not like anything in here looks like a reason to delay\nthe final release. So that's still set for next weekend unless\nsomething new comes up.\"\n\n\nOne notable change that slipped into the mainline this week is the deprecation\nof the ext4 data=journal mode; it will be removed entirely at the\nbeginning of 2028.",
+    "guid": "https://lwn.net/Articles/1099798/",
+    "date": "Oct 12, 2026 03:31",
+    "published_at": "2026-10-12T03:31:34Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "Let's Encrypt to Cut SSL Certificate Lifetimes to 64 Days in February 2027",
+    "link": "https://it.slashdot.org/story/26/10/12/0211238/lets-encrypt-to-cut-ssl-certificate-lifetimes-to-64-days-in-february-2027?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Let's Encrypt \"will shorten the default validity period of its TLS certificates from 90 days to 64 days, starting February 10, 2027,\" reports the blog Linuxiac:\n\nAll certificates issued or renewed from that date will have a 64-day lifespan unless users explicitly select one of the shorter options already available: 45 or six days. \n\nExisting certificates will remain valid until their expiration dates. Let's Encrypt expects the final 90-day certificate to expire on May 11, 2027. The organization also confirmed no valid certificates will be revoked during the transition. To help administrators prepare, Let's Encrypt will introduce 64-day certificates in its staging environment on October 14, 2026, allowing users to test their renewal setups before the change reaches production. \nThe move is part of a broader effort to improve web security by reducing how long compromised or incorrectly issued certificates remain usable... Looking further ahead, the organization plans to reduce the default certificate lifetime again, this time to 45 days in 2028. That makes the upcoming 64-day limit an intermediate step rather than the final destination.\n \n\n\"Administrators using cron jobs or scripts with hardcoded renewal intervals should review their configurations,\" the article suggests. \n\"Another upcoming change concerns domain validation. Let's Encrypt will reduce the period during which a previously completed domain authorization can be reused from 30 days to 10 days. In 2028, that period will shrink further to just seven hours.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 12, 2026 03:09",
+    "published_at": "2026-10-12T03:09:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "LineageOS 24.0 Open-Source Mobile OS Released with Android 17",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368107",
+    "description": "The open-source mobile OS LineageOS 24.0 launches with Android 17, a new photo editor, improved updates, and redesigned system applications.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368107",
+    "date": "Oct 12, 2026 02:39",
+    "published_at": "2026-10-12T02:39:13Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Game Console Market Craters: Xbox and PS5 Sales Plummet Over 25%",
+    "link": "https://hardware.slashdot.org/story/26/10/12/018224/game-console-market-craters-xbox-and-ps5-sales-plummet-over-25?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "\"Video game console sales in the U.S. have cratered,\" reports Tom's Hardware, with sales through August far below where they'd been in 2025:\n\n\nMat Piscatella, the video game industry advisor at research firm Circana, shared the numbers on his Bluesky account — PlayStation 5 sales have dropped by 25%, putting it at its lowest point since 2013, when gamers held off buying PlayStation consoles in anticipation of the arrival of the PS4, while Xbox's retail figures have cratered by 33% YTD, putting its sales numbers at an all-time low since its launch almost 25 years ago. \n\nPiscatella said price sensitivity is becoming a real problem among gamers, especially as the chip shortage has pushed console manufacturers to raise prices. Microsoft has raised the price of the Xbox three times in the past two years, with the 512GB versions jumping by $100 and 1TB models becoming $150 more expensive. Worse, the company has killed off the 2TB model. This brought the Xbox Series S to $499.99 (512GB) and $599.99 (1TB), while the Xbox Series X now costs $749.99 for the Digital Edition, and the disc version costs $50 more at $799.99. \n\nPlayStation fans haven't escaped these price hikes, as Sony raised prices for that console by $100 to $150. The base Digital Edition PS5 now costs $599.99, while the version with an optical drive is priced at $649.99. If you want the PS5 Pro, you'll have to shell out $899.99, while those who want to stream games from their console via the PlayStation Portal must now pay $249.99 — $50 higher than its $199.99 launch price. Even used consoles didn't escape inflation, with Sony bumping the price of refurbished PS5 Slim consoles by $100, bringing them to $399.\n\n \n\n\"Still, Piscatella says the U.S. hardware market has never been more precarious since the early 1980s.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 12, 2026 01:09",
+    "published_at": "2026-10-12T01:09:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Linus Torvalds Working On A Hefty Linux Kernel Improvement With Claude Code",
+    "link": "https://www.phoronix.com/news/Linus-Torvalds-Claude-Code",
+    "description": "Linux creator Linus Torvalds has been known to use AI to help with kernel debugging and outside of the kernel tree has also done some vibe coding with Google's Antigravity. He has previously said he views AI as a useful tool. It turns out he's even now using Claude Code for working on new Linux kernel features...",
+    "guid": "https://www.phoronix.com/news/Linus-Torvalds-Claude-Code",
+    "date": "Oct 12, 2026 00:16",
+    "published_at": "2026-10-12T00:16:25Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Research Firm Calls Anthropic's Upcoming IPO 'Unprecedented Test of Investor Gullibity'",
+    "link": "https://slashdot.org/story/26/10/11/2355238/research-firm-calls-anthropics-upcoming-ipo-unprecedented-test-of-investor-gullibity?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "CNBC reports:\n\nAs Anthropic barrels toward a potential $2 trillion market cap on the Nasdaq, one research firm is valuing the artificial intelligence company at a mere $150 billion and says Wall Street is about to face an \"unprecedented test of investor gullibility.\" In a report on Tuesday, independent financial research provider New Constructs called Anthropic's upcoming offering the \"most ridiculous IPO of 2026.\" \n\nTo reach its desired valuation, the firm estimates Anthropic would need to record double the trailing year of profit for Nvidia, the world's most valuable tech company. Nvidia's net income over the past four quarters topped $190 billion. Meanwhile, Anthropic's revenue in 2025 was $4.6 billion as the company racked up a net loss of $42 billion, according to Reuters, which cited a leaked copy of the company's prospectus.\nAnthropic's mounting operating losses coupled with emerging competition from a plethora of open-source models led New Constructs to conclude that, \"We don't think Anthropic has a viable business....\" \n\n\nAnthropic didn't respond to a request for comment... \nThe New Constructs report also notes that Anthropic's assertion that AI could pose \"a catastrophic or existential risk to humanity\" is another reason why investors should avoid the IPO. \n\nReuters reported that Anthropic's IPO prospectus \"highlights risks associated with its AI models, which it said could exhibit 'self-preserving behaviors,' including attempts to 'resist shutdown,' to 'conceal or manipulate information' and behavior 'resembling blackmail.'\" Now Bloomberg writes that \"investors considering Anthropic's planned mega-IPO are grappling with an unusual, and more than a little scary, conundrum: How to value a company that some fear could help wipe out the human race?\" \n\nAnthropic's valuation also drew some scrutiny from\na senior analyst at PitchBook.\n\"A $2 trillion price is about 435 times 2025 revenue, less than 44 times the annualized second-quarter revenue of more than $46 billion and just under 31 times the July run rate.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 11, 2026 23:58",
+    "published_at": "2026-10-11T23:58:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "9to5Linux Weekly Roundup: October 11th, 2026",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368104",
+    "description": "The 313th installment of the 9to5Linux Weekly Roundup is here for the week ending October 11th, 2026, keeping you updated on the most important developments in the Linux world.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368104",
+    "date": "Oct 11, 2026 21:54",
+    "published_at": "2026-10-11T21:54:53Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Gas Cars Fall Below 50% of Global New Car Sales for the First Time",
+    "link": "https://tech.slashdot.org/story/26/10/11/2033201/gas-cars-fall-below-50-of-global-new-car-sales-for-the-first-time?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "\"Gas cars are now a minority of the world's new car sales,\" reports Electrek.\n\n\nGasoline-only vehicles made up 49% of global new-vehicle sales in the first half of 2026, down from 73% in 2021, according to Mobility Global data first reported by Nikkei. It's the first time on record that they've been under half. But there's a catch: most of the cars taking their place still have a gas tank... [The share of gas-only vehicles] fell three points in a single year, from 52% to 49%. Battery-electric vehicles grew 12% to 6.87 million units and took 17% of the market, up three points. Conventional hybrids grew 10% to 7.27 million units, or 18%... [T]he rest is diesel, plug-in hybrids and a few minor fuels. \n\nNikkei ties the acceleration to oil. Fuel prices spiked with the conflict in the Middle East, and buyers went looking for lower running costs. The whole car market shrank about 5% in the first half, according to the IEA, so gas-only sales fell twice as fast as the market. Gas car sales dropped the most in China, down 26%, followed by Europe at 13%... Mobility Global has battery-electric sales up 32% in Europe to 1.81 million, up 81% in Southeast Asia to 350,000, and more than doubling in Oceania to 110,000... Yoshiaki Kawano, an associate director at Mobility Global, told Nikkei that few EV buyers go back to gasoline cars or hybrids. He expects demand based on \"genuine consumer needs rather than subsidies\" to grow as prices come down... \n\n[Hybrids] outsold battery-electric vehicles in the first half, 7.27 million to 6.87 million... Only the 17% that's battery-electric burns no fuel at all. So about 83% of the new vehicles sold in the world this year still came with an engine.\n \n\nThe article notes that U.S. hybrid sales were up 23%, reaching a record 16.3% of vehicles sold in the second quarter of 2026, while the share of ICE vehicles went down. \n\n\nGas-only cars went from 73% to 49% of the market in less than five years, and nothing in the data suggests they're getting that share back. The last time gasoline wasn't on top was the early 1900s, when steam and electric cars outsold it in the US. \n\nI hate seeing media headlines claiming that \"EV sales are down\" and that \"EV growth has stalled.\" The data is clear: that's true in the US, but only in the US. The rest of the world is moving to electric vehicles, and it is not slowing down.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 11, 2026 21:10",
+    "published_at": "2026-10-11T21:10:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Cloudflare Acquires Deno JavaScript Runtime, Core Development to End in 2027",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368091",
+    "description": "Cloudflare acquires Deno, shifting its developers to Workers while the open-source JavaScript runtime faces an uncertain future.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368091",
+    "date": "Oct 11, 2026 20:23",
+    "published_at": "2026-10-11T20:23:23Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "'The Social Reckoning' Bombs with $5.5 Million Opening",
+    "link": "https://entertainment.slashdot.org/story/26/10/11/207258/the-social-reckoning-bombs-with-55-million-opening?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Why didn't The Social Reckoning enjoy the box office success of 2010's The Social Network, asks IndieWire/A\u003e:\n\n\n[T]here wasn't the same urgency in the story being told. The Social Reckoning focuses less on Zuckerberg, and more on data engineer Frances Haugen's decision to blow the whistle on how Facebook's algorithms were promoting political content that radicalized users, as well as the company's awareness of how its products were contributing to a rise in bullying and teen suicide... [B]ut The Social Reckoning arrives as a much greater threat has emerged from Silicon Valley. Artificial intelligence is dominating the headlines, as fears mount about the economic disruptions it will unleash when millions of jobs are replaced by machines, and, graver still, its potential to trigger a world-ending event... And it's not like Haugen's testimony led to lasting change at Facebook... As IndieWire's Ryan Lattanzio put it, \"'The Social Reckoning' argues that the aftermath of their whistleblowing is still somehow felt today. In actuality, living as we do in 2026, it pretty much feels like... no one cared, and nothing changed?\"\n \n\nAfter the first movie's director bowed out, Sony Pictures shied away from selling it as a sequel — but the problems run deeper, the article adds. \"The Social Reckoning isn't just a financial failure, it's a critical one, too. The reviews were blistering...\" Although on the bright side, \"Sony wisely kept The Social Reckoning's budget at $30 million, meaning it won't face losses on the scale of a Digger... \" \n\n\nVariety writes that Digger \"cratered in its second weekend with $3.2 million from 3,321 theaters, a 60% decline from its dismal $8 million debut. So far, the Tom Cruise satire has limped to $14 million domestically and $35.3 million globally. Warner Bros. spent above $160 million to produce the film, which is shaping up to be one of the biggest bombs ever...\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 11, 2026 20:10",
+    "published_at": "2026-10-11T20:10:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Linux Networking Diverts 50+ Fixes To Next Kernel, Still Bombarded With AI Fueled Churn",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368079",
+    "description": "Ahead of the Linux 7.3-rc7 kernel due for release on Sunday, this week's batch of networking fixes were submitted and merged. The vast networking subsystem of wired and wireless drivers plus the various other networking features continues to see a lot of activity due to AI-driven bug reports and patches...",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368079",
+    "date": "Oct 11, 2026 18:51",
+    "published_at": "2026-10-11T18:51:54Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Blade Runner, Star Trek, Godzilla, Star Wars + Marvel (and Legos): News From New York Comic-Con",
+    "link": "https://entertainment.slashdot.org/story/26/10/11/1839216/blade-runner-star-trek-godzilla-star-wars--marvel-and-legos-news-from-new-york-comic-con?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "There was some Blade Runner news at New York Comic-Con this weekend — and also some news about Godzilla. Ars Technica reports:\n\n\nWe got our first look at Prime Video's new sci-fi series Blade Runner 2099 in July at San Diego Comic-Con. With the show's premiere roughly six weeks away, the streamer unveiled the full trailer this weekend at New York Comic-Con... Prime Video will drop all eight episodes of Blade Runner 2099 on November 25, 2026. [It's already earned 2.1 million views in the last 17 hours]. \n\n\nWe also got a new trailer for Godzilla Minus Zero, the sequel to director Takashi Yamazaki's gloriously grounded kaiju epic, Godzilla Minus One, which became a major international hit and snagged an Oscar for best visual effects. [1.2 million views in its first five hours]\n \n\n\n And StarWars.com brings news from the Star Wars universe:\n\n\nKevin Smith has already announced his Star Wars/Marvel: Hope Assembles crossover comic, interweaving the Marvel universe and the Star Wars galaxy like never before. Now, you're cordially invited to add your own creative ideas to the mix through a LEGO Ideas challenge celebrating the milestone 50th anniversary of Star Wars: A New Hope. \n\nUsing physical or virtual LEGO bricks, fans are challenged to build \"their own epic mash-ups,\" according to Lego's web site, \"in three categories: Character Fusion, Vehicle Fusion, and Scene Fusion.\" (\"Write an engaging description and upload great images of your creation without using AI tools...\") \n\nMeanwhile, Star Trek fan site TrekMovie.com covered the major Star Trek announcements:\n\n\nThere was an interview with 95-year-old William Shatner by Star Trek super-fan Ben Stiller, which ended \"with Stiller surprising Shatner by revealing the original Gorn head from his personal Star Trek memorabilia collection.\"Also announced was a new documentary about the disastrous fan-organized convention in 1982 that tried reuniting cast members from the original series. (Its title? The Con of Wrath: The Craziest Convention Ever!)Gates McFadden (who played Dr. Beverly Crusher on Star Trek: The Next Generation) will write a new comic book to \"bridge the 20 year in-universe gap in Crusher's story between the events of the film Star Trek Nemesis and the television series Star Trek: Picard.\"Paramount+ offered a panel about their series Star Trek: Starfleet Academy (which returns for a second season in 2027).Nacelle Toys even announced new action figures of Star Trek creator Gene Roddenberry and Lucile Ball, owner of Desilu Productions.\n\n\nReuters also has photos of costumed attendees. \n\nBut there was also some excitement when an unruly fan shouted over a panel for the Prime Video animated series Helluva Boss. Entertainment Weekly reports it culminated with series star Brandon Rogers shouting \"You need to shut the f--- up right now. I'm going to jump over this fence and end you. It's not cute.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 11, 2026 18:41",
+    "published_at": "2026-10-11T18:41:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Abietec AX61 Wireless Modules Leverage Wi-Fi 6, Bluetooth 5.4, and Matter",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368087",
+    "description": "image Abietec, a subsidiary of Raytac, offers the AX61 series of wireless modules based on NXP’s RW612 and RW610 microcontrollers. The compact modules support Wi-Fi 6, Bluetooth 5.4, and Matter connectivity, with multiple antenna configurations and an accompanying development kit for embedded and IoT applications. The AX61 series integrates a 260MHz Arm Cortex-M33 processor with […]",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368087",
+    "date": "Oct 11, 2026 17:20",
+    "published_at": "2026-10-11T17:20:25Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "A College Told Flock to Remove Its Cameras. The Company Refused.",
+    "link": "https://news.slashdot.org/story/26/10/09/2340244/a-college-told-flock-to-remove-its-cameras-the-company-refused?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "The Chicago Sun-Times reports:\n\n\nWhen Elgin Community College hired Flock Safety to install six surveillance cameras in April 2025, President Peggy Heinrich thought they would \"enhance the safety and security of students....\" They were supposed to help locate stolen cars and missing people. But Heinrich started to wonder if the cameras were actually making students less safe after seeing news reports that data captured by Flock cameras in Illinois had been shared with U.S. Customs and Border Protection. Then in September 2025, Immigration and Customs Enforcement detained an Elgin Community College student in a campus parking lot. More than half of students at the far west suburban Chicago campus identify as Latino. Heinrich said enrollment dipped. Students were afraid to come to class. College officials decided the cameras had to go... \n\n\nCollege officials asked Flock to remove the surveillance cameras \"out of an abundance of caution for our students,\" Heinrich said. But getting the cameras taken down was not as simple as it sounds, especially because Flock retains ownership of the company's equipment.... Surveillance experts say the company is financially incentivized to have as many cameras gathering data as possible even in places that no longer want them, because potential clients are looking for the surveillance network with the greatest reach.... Elgin Community College staff notified Flock in October 2025 that they wanted to cancel their contract and have the cameras taken down. Within a day, Heinrich said, Flock rejected the request and refused to uninstall the equipment on the basis that the company had not breached their agreement. \n\nCollege officials reached out again in December 2025 and said they would pay for the remaining five months of the contract — they just wanted the cameras taken down. \"We never received a response back from Flock,\" Heinrich said. \n\nThat's when things got weird. Heinrich said Elgin Community College staff began to cover the cameras using black trash bags and zip ties so that they would not be able to capture footage. But workers in an unmarked vehicle, which Heinrich assumed belonged to Flock, repeatedly removed the coverings... This strange dance continued, Heinrich said, until Elgin Community College's contract with Flock expired in April this year and the company uninstalled the cameras for good.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 11, 2026 16:34",
+    "published_at": "2026-10-11T16:34:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Fresh Eyes on Old Code: AI and Open Source Security",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368094",
+    "description": "Open source speeds up application development — but is it making our software insecure?",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368094",
+    "date": "Oct 11, 2026 15:48",
+    "published_at": "2026-10-11T15:48:55Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Original RFC1149 Packet Up For Auction At Christies",
+    "link": "https://entertainment.slashdot.org/story/26/10/11/0050222/original-rfc1149-packet-up-for-auction-at-christies?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Long-time Slashdot reader badger.foo writes: As some of you may remember, in 2001 RFC1149 (TCP/IP over carrier pigeon) was implemented.\n \n\nNow one of the packets preserved from that event is up for auction at Christies. Direct link to the auction (current bid: USD 2600) is here.\n \nThis is a unique chance to own a piece of Internet history!\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 11, 2026 15:34",
+    "published_at": "2026-10-11T15:34:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Stable kernels 7.2.10 and 6.18.56",
+    "link": "https://lwn.net/Articles/1099764/",
+    "description": "The 7.2.10 and 6.18.56 stable kernels have been released.\nEach contains another several hundred important fixes.",
+    "guid": "https://lwn.net/Articles/1099764/",
+    "date": "Oct 11, 2026 14:35",
+    "published_at": "2026-10-11T14:35:57Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "US Agency To Rewrite Rules To Finally Address Vehicle Headlight Glare",
+    "link": "https://news.slashdot.org/story/26/10/11/0014241/us-agency-to-rewrite-rules-to-finally-address-vehicle-headlight-glare?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "America's National Highway Traffic Safety Administration \"said on Tuesday that it will rewrite its vehicle lighting standards,\" reports Reuters, \"to address concerns about headlight glare and allow for the latest safety-improving lighting technologies.\"\n\nNHTSA said it plans to improve rules for LEDs, dusk sensors, automatic high beams and replaceable light sources. The agency will also evaluate headlamp height and aim and how they impact driver visibility and address headlight glare and make appropriate changes. \n\nComplaints about glare from headlights have increased and some lawmakers have urged the government to set a maximum headlight brightness standard. A growing number of taller trucks and SUVs on roads has also led to more complaints about glare. LEDs, which now account for most headlights in new cars, are much brighter than traditional halogen headlights... The issue still accounts for a small number of nighttime crashes, according to a study last year from the Insurance Institute for Highway Safety (IIHS). The study noted that headlight glare contributes to far fewer crashes than insufficient visibility... \n\nFederal headlight standards for minimum and maximum brightness have not changed since 1997, IIHS noted. The study found that drivers older than 70 appear to be most affected by headlight glare. In 2022, NHTSA said it would allow automakers to install adaptive driving beam headlights on new vehicles. The devices adjust the headlight beam pattern to dim portions directed at other vehicles.\n\n \n\nThanks to Slashdot reader technology_dude for sharing the news.\n\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 11, 2026 14:34",
+    "published_at": "2026-10-11T14:34:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Linux Landing Kernel Workaround For AMD TLBI Erratum #1718",
+    "link": "https://www.phoronix.com/news/Linux-WA-TLBI-Erratum-1718",
+    "description": "AMD TLBI Erratum #1718 was worked around in CPU microcode for addressing a defect in certain Zen CPUs where the Translation Lookaside Buffer Invalidate Instruction use could lead to to stale translation entries. But for those on affected AMD CPUs and not running the updated microcode, a kernel workaround is being introduced with today's Linux 7.3-rc7 kernel and to be back-ported to prior kernel versions...",
+    "guid": "https://www.phoronix.com/news/Linux-WA-TLBI-Erratum-1718",
+    "date": "Oct 11, 2026 13:20",
+    "published_at": "2026-10-11T13:20:00Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Microsoft Contributes Para-Virtualized IOMMU Hyper-V Driver For Linux",
+    "link": "https://www.phoronix.com/news/MS-Paravirt-Hyper-V-IOMMU",
+    "description": "Microsoft is contributing a new kernel driver for the upcoming Linux 7.4 cycle. Queued up into the IOMMU subsystem's \"-next\" branch is a new para-virtualized IOMMU driver for benefiting Linux guest VMs running on Microsoft's Hyper-V virtualization platform...",
+    "guid": "https://www.phoronix.com/news/MS-Paravirt-Hyper-V-IOMMU",
+    "date": "Oct 11, 2026 12:00",
+    "published_at": "2026-10-11T12:00:00Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "NASA Releases Data from Artemis II Moon Mission, Calls It 'Sights and Sounds of Science'",
+    "link": "https://science.slashdot.org/story/26/10/11/0221200/nasa-releases-data-from-artemis-ii-moon-mission-calls-it-sights-and-sounds-of-science?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "\"What did four astronauts see, notice, and document as they traveled around the Moon during NASA's Artemis II mission?\" asks a new NASA web page, offering some fascinating pictures and video:\n\nThrough photographs, spoken observations, drawings, and annotations, the Artemis II crew created a unique scientific record — one that is now available to the science community and the public for further study... As part of the mission science plan, lunar scientists asked the Artemis II crew to watch for tiny flashes sparked by rocky fragments hitting the Moon. Even so, some scientists were astonished when astronauts reported seeing five extremely faint \"pinprick\" bursts of light from 46,000 miles away. After ruling out other sources — cosmic rays or reflections from the spacecraft — the science team confirmed the sightings... The impact flash observations happened during a planned loss of communications while the Artemis II crew was on the far side of the Moon... Apollo astronauts saw similar flashes from lunar orbit, but the Artemis crew likely caught the faintest ever seen with the unaided eye. \n\nFrom the brightness of the flashes, scientists estimated that incoming rocks were each no more than a couple of inches wide. Despite their size, they were traveling thousands of miles per hour, producing just enough light upon impact to be visible. The nearly hour-long total solar eclipse that the crew experienced while passing by the Moon's far side created ideal dark conditions for spotting such subtle bursts. With no atmosphere to slow or burn up incoming debris, projectiles slam freely into the lunar surface. The crew's direct observations of this process on the Moon's far side provided a rare dataset that will help us understand how often these small impacts occur, which is essential for assessing long-term risks to future lunar habitats and infrastructure... \n\nThe crew reported seeing subtle hues of gray, black, brown, tan, white, green, and blue across the Moon's surface. This muted rainbow offers clues to the rocks and minerals that make up different lunar regions, helping scientists piece together how the Moon — and, by extension, Earth — evolved over time. \n\n\"Amazing news,\" Mission Control responded when they heard about the flashes. Space.com reports that when a Mission Control operator looked over at the Science Evaluation Room, \"they were jumping up and down, literally.\" \n\nNASA blogged this week that more than 800 gigabytes of Artemis II lunar science data — some previously unreleased — \"have been uploaded to NASA's Planetary Data System, the public archive for NASA's planetary missions.\"\n\nThis data release includes more than 11,000 full-resolution images and video of the Moon from the crew's handheld cameras and the Orion spacecraft's cameras, 8.5 hours of audio recordings of the crew's scientific observations of the lunar surface, and crew-annotated images... Along with this data, NASA has released the Artemis II Preliminary Lunar Science Report, the Artemis II Lunar Science Operations Report, and the Artemis II Lunar Science Data User Guide.\n\t\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 11, 2026 11:34",
+    "published_at": "2026-10-11T11:34:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Auto Vectorizing The RISC-V Linux Kernel Shows Promising Results",
+    "link": "https://www.phoronix.com/news/Auto-Vectorize-RISC-V-Kernel",
+    "description": "The Linux kernel build for RISC-V doesn't currently make use of the CPU ISA's Vector extension. but leveraging it with compiler auto vectorization is showing the ability to provide nice performance results for enhancing RISC-V Linux performance...",
+    "guid": "https://www.phoronix.com/news/Auto-Vectorize-RISC-V-Kernel",
+    "date": "Oct 11, 2026 10:18",
+    "published_at": "2026-10-11T10:18:00Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Drgn 0.3 Released For This \"Natural\" Programmable Debugger From Meta",
+    "link": "https://www.phoronix.com/news/Drgn-0.3-Released",
+    "description": "Drgn is the open-source project out of Meta developing a very versatile debugger with the intent being a debugger focused on programmability with it striving to \"make scripting as natural as possible so that debugging feels like coding.\" Drgn 0.3 released this weekend with the latest round of improvements...",
+    "guid": "https://www.phoronix.com/news/Drgn-0.3-Released",
+    "date": "Oct 11, 2026 10:07",
+    "published_at": "2026-10-11T10:07:17Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Corsair Novablade Pro \u0026 8BitDo Pro 2 Controllers To Be Supported With Linux 7.3-rc7",
+    "link": "https://www.phoronix.com/news/Corsair-Novablade-Pro-Linux-7.3",
+    "description": "Sent out today as part of this week's input subsystem fixes are device ID additions to the XPad driver for enabling two more gaming controllers to work nicely under Linux...",
+    "guid": "https://www.phoronix.com/news/Corsair-Novablade-Pro-Linux-7.3",
+    "date": "Oct 11, 2026 09:58",
+    "published_at": "2026-10-11T09:58:19Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "FBI Arrests Cybersecurity Executive Over Data Breach After Contractor Fails to Update Oracle HR Platform",
+    "link": "https://it.slashdot.org/story/26/10/11/0157259/fbi-arrests-cybersecurity-executive-over-data-breach-after-contractor-fails-to-update-oracle-hr-platform?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "CNN reports:\n\nThe FBI arrested a Canadian cybersecurity executive and ransomware expert as part of the investigation of a damaging hack that exposed the sensitive data of current and former FBI employees, according to court documents and people familiar the investigation. Edward Dubrovsky was arrested in the Philadelphia area in recent days... Dubrovsky is facing charges related to extortion and making threats. He has been transferred to Texas's Eastern District for a scheduled detention hearing, according to court records and a law enforcement official.\n\n FBI Director Kash Patel announced the arrest on Friday but did not disclose where it occurred or what role the man is suspected of playing in the hack. Patel also didn't name Dubrovsky, but CNN confirmed the defendant is believed to be tied to the FBI hack through multiple people familiar with the investigation... A LinkedIn profile under Dubrovsky's name lists years of experience in the Canadian cybersecurity industry and describes Dubrovsky as a 'globally recognized cybersecurity expert.' An Ed Dubrovsky is also the author of a book on handling ransomware negotiations with cybercriminals... \n\nThere has also been an inquest at the FBI over how such a critical security lapse happened. The FBI determined that a contractor managing the bureau's jobs portal failed to update software \"explicitly issued to secure the platform,\" [senior FBI cyber official, Brett Leatherman said last week]. The FBI has \"removed the contractor,\" he said. The software in question is a human-resources platform made by Oracle, ShinyHunters has said. The hackers previously used a flaw in the software to attack targets in the education sector in May and June, according to Google's Threat Intelligence Group. But months later, the FBI contractor apparently still had not applied a security patch that was available for the software.\n\n\n \n\n\"The inmate locator at the U.S. Bureau of Prisons website reports that a 54-year-old Edward Dubrovsky is currently being held at a federal facility in Philadelphia,\" reports security researcher Brian Krebs. \n\n\nThanks to long-time Slashdot reader schwit1 for sharing the news.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 11, 2026 07:34",
+    "published_at": "2026-10-11T07:34:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Ubuntu Confirms Thursday's Distributed Denial of Service Attack Against Its Web Infrastructure",
+    "link": "https://news.slashdot.org/story/26/10/11/0142235/ubuntu-confirms-thursdays-distributed-denial-of-service-attack-against-its-web-infrastructure?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "On Thursday those trying to access the Ubuntu website, ISO downloads, and similar Ubuntu resources on Thursday found the site \"inoperable,\" reports Phoronix, with the disruption confirmed as a distributed denial of service attack. \n\n\"Our team is working diligently to resolve the incident,\" according to a Thursday post on Ubuntu Discourse — followed by a later announcement. \"At this time our team continues to work on restoring affected services, most of them are now available. We appreciate your patience and understanding.\" Ubuntu's status page shows the Ubuntu.com outage lasting for 2 hours and 27 minutes on Friday — though with four-hour outages Wednesday (and other outages affecting other Ubuntu sites). \n\nToday \"All components are Operational,\" the status page reports.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 11, 2026 03:34",
+    "published_at": "2026-10-11T03:34:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "SQLite 3.54 Released with Performance Boost, Query Optimizations",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368083",
+    "description": "SQLite 3.54 delivers a 4% performance boost, query planner optimizations, command-line improvements, and new database analysis capabilities.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368083",
+    "date": "Oct 11, 2026 02:40",
+    "published_at": "2026-10-11T02:40:25Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "UK Vegetables 20-50% Less Nutritious Than In the 1960s",
+    "link": "https://science.slashdot.org/story/26/10/11/0124231/uk-vegetables-20-50-less-nutritious-than-in-the-1960s?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "The Telegraph reports that the nutritional value of fruit and vegetables has fallen by up to 50% since the Sixties, according a new study from researchers at startup studio Deep Science Ventures. \n\nThe study \"found that humans needed to consume twice the number of vegetables to get the same level of minerals such as potassium, magnesium or copper as would have been present in their food 60 years ago.\"\n\n\n\nThe study found that many crops had lost 20% to 50% of several key nutrients... The decrease in nutrient and vitamin value is thought to be down to declining soil quality and crops being selectively bred for their ability to grow quickly, rather than there being any focus on their health benefits... It raises the prospect that the advice to eat five portions of fruit and vegetables a day, introduced in the UK in 2003, may need to be updated. The report added that people on weight-loss drugs could be most at risk from the lack of nutrients, as the treatments could cause them to consume less food... \n\nNature-friendly farming techniques, such as planting crops that restore nutrients to the soil, could help improve the health benefits of vegetables, according to the researchers.\n\n\n \n\nIn short, according to\nWill Summers, a senior associate at the firm, \"we've been quietly hollowing out what's inside our food.\" \n\nThanks to Slashdot reader Bruce66423 for sharing the article.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 11, 2026 01:34",
+    "published_at": "2026-10-11T01:34:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Many Laptop \u0026 Gaming Handheld Support Improvements Coming For Linux 7.4",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368082",
+    "description": "Many x86 platform driver improvements have been queuing ahead of the upcoming Linux 7.4 merge window to offer a variety of laptop and gaming handheld device improvements with this next kernel version...",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368082",
+    "date": "Oct 11, 2026 01:08",
+    "published_at": "2026-10-11T01:08:55Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "AI Execs Game Out 'Political Revolt' after a Catastrophic AI Event",
+    "link": "https://yro.slashdot.org/story/26/10/10/2253228/ai-execs-game-out-political-revolt-after-a-catastrophic-ai-event?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Top executives at Anthropic, OpenAI and other AI companies \"are privately gaming out scenarios for a public and political revolt after a catastrophic AI event,\" reports Axios, one that turns \"an already wary public further against the technology and its leaders...\" \n\nThese AI company executives \"anticipate a large-scale event, most likely a cyberattack, that shuts down access to financial services, internet connectivity, or even power and water...\" the article points out.\n\"Many top AI researchers and executives believe a major incident is inevitable.\n\n\n\"OpenAI conducts preparedness exercises where teams discuss and work through a range of potential scenarios,\" a company spokesperson said. \"These scenarios are not treated as inevitable, but are meant to help us prepare for a variety of circumstances.\" Anthropic declined to comment... \n\nTop AI planners assume Democrats, ascendant after the midterms, will move fast to shut down AI but will face significant challenges... The planning involves red-teaming for worst-case scenarios. It focuses mainly on racing to educate members of Congress. Company executives know regulation has no chance of passing right now, but still want to shape the legislation and policies U.S. leaders will turn to after a first catastrophic event.... \n\n\nMany AI industry insiders told Axios they believe a major event will occur in the next six to 12 months.\n\n \n\n\"Even with Democrats in control of the House and Senate, the companies see fractured politics as the norm, including within the Democratic Party.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 10, 2026 23:59",
+    "published_at": "2026-10-10T23:59:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Python 3.15 Released with Faster JIT, Lazy Imports, and UTF-8 by Default",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368081",
+    "description": "Python 3.15 introduces lazy imports, UTF-8 as the default encoding, faster experimental JIT performance, and new profiling tools.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368081",
+    "date": "Oct 10, 2026 23:37",
+    "published_at": "2026-10-10T23:37:26Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Nicolas Cage Didn't Sign Amazon's AI Waiver For 'Spider-Noir'. Series Cancelled.",
+    "link": "https://entertainment.slashdot.org/story/26/10/10/2221212/nicolas-cage-didnt-sign-amazons-ai-waiver-for-spider-noir-series-cancelled?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "\"Nicolas Cage is speaking out against Amazon,\" reports Variety. Amazon developed the series Spider-Noir for Prime Video, but then allegedly asked Cage to sign an AI waiver:\n\n\"Amazon is a very AI-friendly company, to the tune of $50 billion invested in OpenAI,\" Cage said Saturday during a panel on the Empire Stage at New York Comic Con. \"I am not an AI-friendly actor, so it's like, connect those dots! I'm not a member of their club. I didn't sign the waiver to let him use AI on 'Spider-Noir.' I'm probably not going to be working with that studio again, but that's okay.\" \n\nLast month Amazon canceled Spider-Man Noir after just one season, Variety reports. And the cancellation was just days before the Emmy Awards, where it then earned 11 nominations (the most of any Prime Video program this year). \n\n ScreenRant reports:\n Spider-Noir was the actor's first TV role and was praised globally, with season 1 earning a near-perfect Rotten Tomatoes rating from critics of 92% and a 90% rating from audiences. Critics stated that \"This sharply written homage to classic film noir — which includes a standout Nicolas Cage performance — is the novel superhero project fans need,\" and \"Spider-Noir is one of the standout shows of the year....\" The cancellation was certainly a huge shock as it had earned 11 Emmy nominations and reached 2.6 billion minutes viewed within its first six weeks on Prime Video.\n \n\n\nMore from Variety:\n\n\nCage went on to tell the Comic-Con audience that he hopes to work with the rising class of Gen-Z filmmakers, praising Backrooms director Kane Parsons, who parlayed his YouTube fame into a Hollywood career... \"I got to get with these young directors who are Gen Z, and they're going at it their own way, whether it's through the YouTube culture or whatever it is,\" Cage said. \"They're doing it from scratch and by hand. I want to get with that.\"\n\n\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 10, 2026 22:59",
+    "published_at": "2026-10-10T22:59:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Rolling Release Distros Superior To LTS Distros In The Patch-Heavy GenAI Era?",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368084",
+    "description": "As some interesting food for thought and weekend forum discussions, this week at the Linux Plumbers Conference in Prague, Qualcomm engineer Khem Raj questioned the relevance of Linux Long Term Support (LTS) distributions in the era of generative AI with the constantly heavy patch flow and bug reports. Khem Raj argued the benefits of rolling release distributions in the GenAI era and the benefits it provides staying up-to-date with mainline...",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368084",
+    "date": "Oct 10, 2026 22:05",
+    "published_at": "2026-10-10T22:05:56Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  }
+]
