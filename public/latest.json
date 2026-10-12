@@ -1,5 +1,384 @@
 [
   {
+    "title": "Google's Fitbit Edge Debuts a Replaceable Battery, Brings Back the Screen",
+    "link": "https://tech.slashdot.org/story/26/10/12/1841208/googles-fitbit-edge-debuts-a-replaceable-battery-brings-back-the-screen?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Google has introduced the $179 Fitbit Edge, a new fitness tracker with a 1.34-inch OLED display, built-in GPS, ECG support, week-long battery life, and Fitbit's first user-replaceable battery. \"And unlike the Pixel Watch, it's compatible with Android and iPhones via the Google Health app,\" reports Wired. From the report: The Edge has a user-replaceable battery, a Fitbit first, aligning with Google's efforts to make its Pixel Watch more repairable. (Likely also due to new battery regulations set to take effect next year in the European Union.) Repair options will vary by region and availability. If you find the Pixel Watch's round face too bulky, the Edge's capsule-shaped alternative might suit smaller wrists better. If the Charge 6's 1.04-inch display was too small, the Edge upgrades it to a larger 1.34-inch screen. The difference is noticeable, and that extra real estate could make a real impact when glancing at your metrics mid-workout.\n \nThe Edge borrows a few more attributes from the Pixel Watch, including an altimeter that uses atmospheric pressure to measure elevation changes. That means it can record elevation gain and loss during outdoor activities, track floors climbed, and add more context to your outdoor stats. It also has a far-field skin temperature sensor, replacing the standard device temperature sensor found in other Fitbits. By bringing some of the Pixel Watch's more advanced hardware to a fitness-first wearable, Google is giving the Edge a compelling middle-ground position in its lineup at a Fitbit-friendly price.\n \nThe Edge inherits the Fitbit Air's improvements while restoring several Charge 6 features the screenless tracker lacks, including built-in GPS and electrical sensors that work with the electrocardiogram (ECG) app. You can also control music playback on a connected Bluetooth device, as you could with the Charge 6, and Google Maps turn-by-turn directions will arrive later this year. [...] With a Google Health Premium subscription, the Edge can track blood pressure trends without manual calibration and insulin resistance trends without requiring a blood draw. Google first announced these capabilities alongside the Pixel Watch 5's debut, but they only became available at the end of September. They're also available on the Air, keeping Google's screenless tracker up to date as its lineup expands.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 12, 2026 20:00",
+    "published_at": "2026-10-12T20:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Russia Was Not Ready For the Data Center War It Started With Ukraine",
+    "link": "https://tech.slashdot.org/story/26/10/12/1832205/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from Ars Technica: When Russia began attacking Ukrainian data centers and telecommunication infrastructure, it apparently failed to prepare for possible retaliation. Now Russia's digital services are facing widespread outages after Ukrainian drone strikes knocked out three of the largest data centers owned by Russian tech giant Yandex within several days. Pro-Kremlin bloggers are warning that Russia's centralized digital economy could collapse because the country is not prepared for the \"data center war\" it started, according to posts translated by the pseudonymous independent researcher ChrisO_wiki. The Russian commentators also suggested that Ukraine's decentralized digital services could prove more resilient than Russia's system if the countries continue trading such blows.\n \nRussia initially launched a drone strike campaign targeting Ukrainian data centers and mobile phone networks in late September. The attacks temporarily disrupted Internet and cell phone service for up to 100,000 households in the Ukrainian capital of Kyiv and came as part of a broader long-range strike campaign that has involved Russian missiles and jet-powered drones hitting Ukraine's power grid infrastructure, transportation hubs, and even residential apartment building blocks. But Ukraine soon began striking back at data centers owned by the Russian company Yandex, also known as \"Russia's Google,\" in what Ukrainian President Volodymyr Zelenskyy has described as a \"symmetrical response.\"\n \n[...] More importantly for Russian society, the damage to Yandex's data centers has reportedly caused interruptions or outages to popular Russian payment apps and digital banking services, email, e-commerce platforms, video streaming services, ride-hailing and food delivery apps, and navigation and map services. Yandex's search engine also accounts for about 70 percent of the market share in Russia. The disruptions are even more widespread, because the data center damage also impacts Yandex's cloud computing service, which counts some of Russia's largest companies as customers, according to The Moscow Times, an independent newspaper. These include large grocery and fast-food chains as well as a household appliance retailer.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 12, 2026 19:00",
+    "published_at": "2026-10-12T19:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Hackers Heat French Supermarket Fridges, Sparking Fires and Spoiling Food",
+    "link": "https://it.slashdot.org/story/26/10/12/1748203/hackers-heat-french-supermarket-fridges-sparking-fires-and-spoiling-food?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Hackers remotely manipulated connected refrigeration systems at hundreds of French supermarkets, reportedly pushing some fridges and freezers to 50C (122F), spoiling food and even sparking fires. According to Reuters, French Prime Minister Sebastien Lecornu ordered a cybersecurity investigation into the hacks, with similar incidents reported in Spain, Portugal, Poland, Germany, and Belgium. In France, Carrefour reported 80 affected stores, Monoprix said 5% of its locations were hit, and Les Mousquetaires said refrigerators at roughly 150 Intermarche stores were heated to 50C for six hours. From the report: Supermarket cold aisles are typically run by control panels that manage an entire store's fridges and freezers and can be accessed over the internet, which lets maintenance companies adjust them from anywhere. The source close to Lecornu said ANSSI had identified a vulnerability in software supplied by Danish company Danfoss.\n \nDanfoss said it was \"aware of incidents in France affecting a limited number of refrigeration management systems.\" The affected units \"were running outdated firmware,\" Danfoss said, adding that it had \"long advised customers to keep supported systems updated with the latest firmware and to migrate legacy systems to current-generation solutions.\"\n \nOn August 9, cybersecurity firm Claroty's Team82 published research detailing vulnerabilities in the Danfoss AK-SM 800A controller. According to the report, software updates issued by Danfoss addressed issues that could have allowed attackers to bypass authentication controls and execute code on compromised devices.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 12, 2026 18:00",
+    "published_at": "2026-10-12T18:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Ubuntu's Myna Speech-To-Text Now Available In Tech Preview",
+    "link": "https://www.phoronix.com/news/Ubuntu-Myna-Tech-Preview",
+    "description": "A few months ago Canonical announced Myna as a speech-to-text solution for Ubuntu 26.10 as part of their effort for building a context-aware desktop. Myna as of today is available in \"tech preview\" form not only for Ubuntu 26.10 but also the LTS releases...",
+    "guid": "https://www.phoronix.com/news/Ubuntu-Myna-Tech-Preview",
+    "date": "Oct 12, 2026 17:31",
+    "published_at": "2026-10-12T17:31:59Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "AI Coding Agents Generate More Code, But Not More Software",
+    "link": "https://tech.slashdot.org/story/26/10/12/0234217/ai-coding-agents-generate-more-code-but-not-more-software?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "A study of more than 700 software firms found that AI coding agents significantly increase the amount of code developers produce, but not the amount of software companies actually ship. Ars Technica reports: A recent study (PDF) of actual coding practices across hundreds of firms finds that human code review forms a significant \"bottleneck\" for the overall efficiency of AI coding tools, resulting in \"little evidence that firms increase software output or reduce employment\" by using them. Any efficiency increased during the actual coding phase, the study authors find, is \"absorbed by downstream constraints in the production process\"; as \"the code review process significantly increases in length, pull requests are more likely to require revisions, and reviewers leave more comments.\"\n \n[...] In terms of raw code being produced, the results are clear and stark. The introduction of AI coding agents at a firm leads to a 30 percent increase in total lines of code generated, a 20 percent rise in the number of total commits, and a 23 percent increase in pull requests on average, the researchers write. But all that extra code doesn't translate directly into improved software output on the firm level. On the contrary, the resolution rate for Issues and Epics (i.e. wholesale software features) tracked by tools like Jira did not change in a statistically significant way after AI tools were introduced (the researchers also found no \"compositional shift\" in the size or complexity of those Jira-tracked issues across the AI introduction).\n \nThe reason for that discrepancy can be found directly in the code review process, which takes markedly longer on average after the introduction of AI coding agents. Overall, the average \"review process\" time between a pull request getting submitted and it being merged into the codebase balloons 49 percent on average after AI agents are introduced. That effect can be seen in more granular data, too, with \"the share of pull requests with changes requested nearly doubl[ing], and the number of comments per pull request increas[ing] by 35%\" following the AI agent shift, the researchers write.\n \nIn response to this change, the researchers found a 14 percent increase in the share of workers performing code reviews after AI agents' introduction. They also write that they \"cannot attribute significant employment changes to AI\" after looking at total active workers across Jellyfish and cross-referencing with LinkedIn data at those firms. While AI could also theoretically help with this review process, the researchers found that, so far, that impact has been marginal. Although 80 percent of measured firms used some form of AI code review by March 2026, AI agents were only responsible for 23.3 percent of all review comments and 10.8 percent of all pull requests, suggesting humans were still responsible for the vast majority of this work.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 12, 2026 17:00",
+    "published_at": "2026-10-12T17:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Linus Torvalds Says He Likes Using AI, While His New Kernel Branch Credits Claude Code",
+    "link": "https://feed.itsfoss.com/link/24361/17494728/linus-torvalds-claude-code-linux",
+    "description": "His eight-patch series takes advantage of AI assistance to cut the extra work the kernel does when many threads read the same file.",
+    "guid": "6acc933e0502180001323d6a",
+    "date": "Oct 12, 2026 16:50",
+    "published_at": "2026-10-12T16:50:36Z",
+    "image": "https://itsfoss.com/content/images/2026/10/linus-torvalds-ai-banner.png",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "ROCm 10 OpenCL vs. Mesa 26.3-dev Rusticl Performance On AMD Strix Halo",
+    "link": "https://www.phoronix.com/review/rocm-10-opencl-rusticl",
+    "description": "With all the recent progress on Mesa's Rusticl driver as a Rust-based OpenCL driver working across the different Mesa Gallium3D hardware drivers, a Phoronix Premium supporter inquired about seeing some fresh benchmarks of this open-source OpenCL solution. Here is a look at how the Mesa 26.3 Rusticl driver is looking against AMD's official OpenCL driver within ROCm 10.",
+    "guid": "https://www.phoronix.com/review/rocm-10-opencl-rusticl",
+    "date": "Oct 12, 2026 16:32",
+    "published_at": "2026-10-12T16:32:24Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Amazon In Talks To Buy AI Startup Decart For Around $7 Billion",
+    "link": "https://hardware.slashdot.org/story/26/10/12/0059238/amazon-in-talks-to-buy-ai-startup-decart-for-around-7-billion?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Amazon is reportedly in talks to acquire AI startup Decart in a deal that could value the company at up to $7 billion. Decart's DOS software helps developers optimize AI models for different processors in weeks rather than months, a capability that could be particularly useful to AWS as it pushes its own Trainium chips. SiliconANGLE reports: The company has developed software called DOS, which can help developers to speed up AI training and inference workloads by optimizing their neural networks to run on a specific processor. In most AI workloads, developers must optimize a neural network for the chip they plan to run it on. This process used to take months, but with DOS, the workflow necessary to do this can be compressed into just a couple of weeks. As a result, companies can use Decart's software to shift AI workloads to different processors if their requirements change, or if chip availability becomes an issue.\n \nIn addition to DOS, Decart is also a model developer, responsible for creating the Lucy and Oasis world models, which are designed to generate and simulate realistic three-dimensional environments for video games, robotic training and other use cases. It's still possible another suitor could emerge and outbid Amazon. Last month, Anthropic PBC was reportedly engaged in talks to buy Decart, according to a report by Bloomberg. However, it ultimately pulled out of a reported $6 billion deal after conducting due diligence on the startup. It's not clear what ultimately dissuaded Anthropic from pursuing a deal. The Wall Street Journal first reported (paywalled) the news.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 12, 2026 16:00",
+    "published_at": "2026-10-12T16:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "[$] The 2026 Maintainers Summit",
+    "link": "https://lwn.net/Articles/1099594/",
+    "description": "The Maintainers Summit is a one-day, invitation-only gathering of about 30\nkernel developers; it is held once each year to discuss policy-related issues\nthat are not always amenable to resolution via email.  The 2026 event was\nscheduled for October 8 in Prague, Czechia.  Unsurprisingly, the discussion\nthere was dominated by large language models (LLMs) and their effect on the\ndevelopment community, but some time was also found to talk about security\nbugs and long-term succession planning.",
+    "guid": "https://lwn.net/Articles/1099594/",
+    "date": "Oct 12, 2026 15:27",
+    "published_at": "2026-10-12T15:27:27Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "Q3 2026 Was Historically Bad For PC Shipments",
+    "link": "https://hardware.slashdot.org/story/26/10/12/0134221/q3-2026-was-historically-bad-for-pc-shipments?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "PC shipments fell 20.1% year over year to 62.7 million units in the third quarter of 2026, the worst Q3 decline IDC has recorded. \"The top three PC makers -- Lenovo, Dell, and HP -- also saw their shipments fall by over 20% year over year,\" reports PCMag. From the report: \"If looking at all quarters, then we have seen other quarters in recent years with larger declines, such as 2022Q4, which was -28.2%, and 2023Q1, which was -28.7%. Both were coming off pandemic highs,\" IDC Director Jitesh Ubrani told PCMag in an email. The numbers aren't a great sign, since third-quarter PC shipments usually outpace those in the second quarter as vendors introduce new products ahead of the holiday shopping season. Instead, PC shipments were at 62.7 million units, down 9.1% from the previous quarter.\n \n[...] Of course, the downturn isn't a surprise. IDC and other research firms have warned that the ongoing AI-driven memory shortage threatens to sap demand for PCs and phones due to soaring memory and storage costs. \"What we're seeing is the result of the strong first half pull-in. Vendors and channels loaded up on inventory early in the year to get ahead of [memory-related] price hikes, and that has thrown off the usual seasonality, where Q3 is typically larger than Q2,\" Ubrani said in a report covering IDC's preliminary estimates for the quarter.\n \nIn one bright spot, Ubrani said vendors and retailers might cut prices to generate interest and clear out products they have in stock. \"Channels are now worried about carrying too much inventory into a market where high prices are suppressing demand. That could translate into promotions and some short-term relief for consumers, but we don't expect pricing anywhere near what it was a year ago. Prices will remain elevated,\" he added.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 12, 2026 15:00",
+    "published_at": "2026-10-12T15:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "openEuler is Revamping the Development Experience of the Open Source Community With an AI Toolchain",
+    "link": "https://feed.itsfoss.com/link/24361/17494578/openeuler-rebuilding-ai-developer-workflow",
+    "description": "AI now reviews code and fixes CVEs in the community's pipelines, DevStation moves to a 2-week update cycle, and openEuler is layering an agent-native OS on top.",
+    "guid": "6aba0b3b2f4ed50001739a63",
+    "date": "Oct 12, 2026 14:04",
+    "published_at": "2026-10-12T14:04:38Z",
+    "image": "https://itsfoss.com/content/images/2026/10/openeuler-developer-day.webp",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "LineageOS 24 released",
+    "link": "https://lwn.net/Articles/1099950/",
+    "description": "The LineageOS project, which produces an\nAndroid-based distribution for mobile devices, has announced the release of\nLineageOS 24.0.\n\n\nWe're a bit sentimental about this release, as it precedes a really fun\nupcoming milestone.\n\nOn December 24, 2026, LineageOS will celebrate 10 years. It's a remarkable\nmilestone for a project built by a passionate community of developers,\nmaintainers, contributors, and users who have kept so many devices alive along\nthe way.\n\n[...] We've been hard at work rebasing all of our changes and features since\nAndroid 17's release in June. Android 17's first release mainly contained\niterative improvements and some UI/UX refinements, but due to our previous\nefforts adapting to Google's heavy refactoring over the last several versions,\nwe were able to rebase onto Android 17's code-base faster than anticipated. Yes\nyou read that right: We're early this year!\n",
+    "guid": "https://lwn.net/Articles/1099950/",
+    "date": "Oct 12, 2026 13:13",
+    "published_at": "2026-10-12T13:13:57Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "Security updates for Monday",
+    "link": "https://lwn.net/Articles/1099949/",
+    "description": "Security updates have been issued by AlmaLinux (cjose, compat-openssl10, compat-openssl11, curl, dogtag-pki, dovecot, emacs, glibc, kernel, openssl, python3.12, python3.14, and sssd), Debian (chromium, ghostscript, tor, and vips), Fedora (kernel, libical, markdownlint-cli2, openbao, openvpn, php-getid3, python3.10, python3.11, and python3.13), Mageia (capnproto, chirp, flatpak, freetype2, hamlib, mingw-pcre2, pcre2, openssl, tomcat, tomcat-native, and xdg-dbus-proxy), Oracle (bind, cjose, dogtag-pki, dovecot, firefox, kernel, nodejs:24, openssl, pki-core:10.6, python3.12, python3.14, ruby:2.5, rust-sequoia-sq, sssd, and tftp), Red Hat (libxml2), Slackware (mutt), SUSE (apache-sshd, bind, ccache, chromium, cpp13, dash, expat, fetchmail, flatpak, golang-github-prometheus-prometheus, grafana, system-user-grafana, incus, libpng16-16, libsoup, logback, openssh8.4, perl-DBI, php8, python3-paramiko, python312, python313-asyncpg, python313-azure-identity, python313-Babel, python313-Beaker, python313-bjoern, python313-black, python313-Brotli, python313-CairoSVG, python313-Flask-Cors, python313-FontTools, python313-Jinja2, python313-jwcrypto, python313-MechanicalSoup, python313-oauthlib, python313-PyJWT, python313-PyMySQL, python313-PyYAML, python313-virtualenv, python313-XStatic-jquery-ui, qemu, rsyslog, shadowsocks-rust, squid, stunnel, swtpm, trivy, unbound, wpa_supplicant, and yast2-users), and Ubuntu (libdbi-perl).",
+    "guid": "https://lwn.net/Articles/1099949/",
+    "date": "Oct 12, 2026 13:00",
+    "published_at": "2026-10-12T13:00:41Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "Linux May Get a New Home for AI Agent Skills",
+    "link": "https://feed.itsfoss.com/link/24361/17494542/linux-ai-agent-skills-directory-proposal",
+    "description": "A proposed agents directory would hold skills and other resources for coding assistants, starting with one that finds the commit behind a bug.",
+    "guid": "6acc77210502180001323c81",
+    "date": "Oct 12, 2026 12:39",
+    "published_at": "2026-10-12T12:39:54Z",
+    "image": "https://itsfoss.com/content/images/2026/10/linux-ai-agent-skills-banner.png",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "Firefox 158 Now Available With JPEG-XL Support By Default",
+    "link": "https://www.phoronix.com/news/Firefox-158-Released",
+    "description": "With Mozilla's bi-weekly release cycle for Firefox, the Firefox 158 release binaries are now available. Making Firefox 158 particularly notable is finally having JPEG-XL support enabled by default...",
+    "guid": "https://www.phoronix.com/news/Firefox-158-Released",
+    "date": "Oct 12, 2026 12:25",
+    "published_at": "2026-10-12T12:25:00Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Q4OS 6.10 “Andromeda” Is Out with KDE Plasma 6.3.6 and Trinity Desktop 14.1.5",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368102",
+    "description": "The Q4OS team announced today the release and general availability of Q4OS 6.10 as the tenth update to the Q4OS 6 “Andromeda” series of this Debian-based Linux distro featuring KDE Plasma and Trinity Desktop Environment.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368102",
+    "date": "Oct 12, 2026 11:48",
+    "published_at": "2026-10-12T11:48:11Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Should We Beware of Other License Plate Surveillance Companies Besides Flock?",
+    "link": "https://yro.slashdot.org/story/26/10/09/2131241/should-we-beware-of-other-license-plate-surveillance-companies-besides-flock?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "NPR reports:\n\n\nPolice officers in cities across the U.S. are quick to extol the virtues of real-time crime centers as a game changer that helps them find missing children, monitor large events from the skies and scope out dangerous scenes before putting an officer in harm's way. Hundreds of police departments have one of these central hubs, which have existed for years. But many are now being powered with AI software, such as Fusus, from the public-safety technology giant Axon... synthesizing the data it pulls in and allowing police command centers to watch an entire city from one place. \n\nFlock cameras, the automated license plate readers (ALPRs), have faced intense backlash in recent months amid stories of abuse. Yet privacy experts say they're just the tip of the iceberg when it comes to police surveillance. \"I have been watching the debate about Flock with a little bit of puzzlement,\" says Andrew Guthrie Ferguson, a law professor at George Washington University. \"Because real-time crime centers have not just ALPR cameras and sensors, but video analytics and drones and essentially a way to create a visual single-pane-of-glass vision of what's going on in a city, with time machine capabilities where you can go back and investigate crime.\" Tools like Axon Fusus, which is a leader in this type of software, also pull in footage and data from police body cameras, law enforcement dashcams, 911 dispatch, gunshot detectors and surveillance cameras, including sometimes those of private businesses that opt in. Its use is growing fast. In 2024, the technology news site 404 Media reported that just over 100 law enforcement agencies had deployed Fusus, which was then its own company and was acquired by Axon that year. The number of law enforcement agencies using the tool has more than doubled since then, according to Axon. \n\n\nEven the American Civil Liberties Union warned concerned citizens in August that \"Flock is far from the only vendor,\" adding that \"it's important to realize that its competitors aren't so great either, and that simply replacing Flock surveillance with another company's surveillance won't necessarily solve any of the privacy and other civil liberties problems posed by this mass surveillance technology.\"\n\nCommunities can't simply assume that their residents will be better off from a privacy and civil liberties perspective by dropping Flock and replacing it with another ALPR provider, as some customers have done. They should ask hard questions about whether they really want to create that kind of a system, and if they do, ensure it doesn't function as a mass surveillance system... \nOne of Flock's most significant competitors is Motorola. This company, which has been expanding its police technology offerings through an aggressive acquisition strategy in recent years, offers a nationwide law enforcement data sharing system similar to Flock's called the National Vehicle Location Service, operated by Motorola unit Vigilant Solutions. In addition to collecting data from law enforcement clients' cameras, it also runs a large separate commercial ALPR unit that makes deals for tow trucks and other fleet vehicles to carry cameras and collect data for Motorola as they drive around, amassing billions of plate reads (a claimed 500 million monthly, subject to no apparent data retention policy). Known as the Digital Recognition Network, that unit sells its data for commercial purposes but also makes it available to its law enforcement customers for an extra charge. Motorola tells agencies they can have \"access to billions of detections beyond your own.\" \n\nAbandoning Flock for another system doesn't protect privacy, their article argues. \"If a jurisdiction decides to allow license scanners to be installed, how that system operates is more important than which vendor provides it...\" They recommend strong restrictions like data retention limits — and imposing them by law rather than in the language of contracts with vendors (which could always be renegotiated).\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 12, 2026 11:34",
+    "published_at": "2026-10-12T11:34:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Linux 7.4 To Upstream Support For Three Snapdragon X2 Elite Laptops",
+    "link": "https://www.phoronix.com/news/ASUS-UX3407NA-Linux-7.4",
+    "description": "For those looking to run Linux on new Qualcomm Snapdragon X2 hardware, there are laptops from ASUS, HP, and Lenovo that are powered by the X2 Elite and will be supported with the mainline Linux 7.4 kernel...",
+    "guid": "https://www.phoronix.com/news/ASUS-UX3407NA-Linux-7.4",
+    "date": "Oct 12, 2026 11:16",
+    "published_at": "2026-10-12T11:16:13Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Zymbit ZYMKEY 5 Security Module Offers 640 Key Slots for Raspberry Pi",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368086",
+    "description": "Zymbit’s ZYMKEY 5 is a compact hardware security module for Raspberry Pi systems, offering 640 key slots, filesystem encryption, device authentication, and physical tamper detection. It also supports additional cryptographic algorithms compared to its predecessor. The ZYMKEY 5 measures 39 × 14 × 5.3mm and uses a mini-HAT form factor that connects to the first […]",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368086",
+    "date": "Oct 12, 2026 10:16",
+    "published_at": "2026-10-12T10:16:41Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Linus Torvalds \"Did What I Preach\", Used AI To Make Code Decipherable \u0026 Uncovered More Bugs",
+    "link": "https://www.phoronix.com/news/Linus-Torvalds-Assoc-Array",
+    "description": "After using Claude Code to draft code to help make a fundamental improvement to the Linux kernel, Linux creator Linus Torvalds continued using AI this weekend and talking up its benefits. Beyond generating initial patches and a test program for that noted I/O enhancement, he separately talked up using AI/LLMs for making patches more decipherable to understand in the process the AI noted more long-standing bugs within the Linux kernel...",
+    "guid": "https://www.phoronix.com/news/Linus-Torvalds-Assoc-Array",
+    "date": "Oct 12, 2026 10:03",
+    "published_at": "2026-10-12T10:03:00Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Intel Posts Updated Linux Driver Code For HDMI 2.1 FRL On Meteor Lake \u0026 Newer",
+    "link": "https://www.phoronix.com/news/Intel-HDMI-2.1-FRL-Linux-v2",
+    "description": "Following AMD completing their HDMI 2.1 implementation for the open-source AMDGPU Linux driver after beginning with HDMI FRL patches earlier in the year, Intel's open-source driver developers are following in their footsteps...",
+    "guid": "https://www.phoronix.com/news/Intel-HDMI-2.1-FRL-Linux-v2",
+    "date": "Oct 12, 2026 09:44",
+    "published_at": "2026-10-12T09:44:00Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "EXT4 Introducing IOmap Buffered I/O Path With Some Performance Gains",
+    "link": "https://www.phoronix.com/news/EXT4-iomap-Buffered-IO",
+    "description": "EXT4 with the upcoming Linux 7.4 kernel looks like it will introduce opt-in support for IOmap buffered I/O in replacing the file-system's buffer_head usage with IOmap...",
+    "guid": "https://www.phoronix.com/news/EXT4-iomap-Buffered-IO",
+    "date": "Oct 12, 2026 09:27",
+    "published_at": "2026-10-12T09:27:52Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Guide: What Steam Deck, Steam Machine, Steam Frame and SteamOS verified ratings mean",
+    "link": "https://www.gamingonlinux.com/guides/view/what-steam-deck-steam-machine-steam-frame-and-steamos-verified-ratings-mean",
+    "description": "Confused by all the different compatibility ratings across Steam Deck, Steam Machine, Steam Frame and SteamOS? Here's a clear explainer for them in one place.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/guides/view/what-steam-deck-steam-machine-steam-frame-and-steamos-verified-ratings-mean",
+    "date": "Oct 12, 2026 09:03",
+    "published_at": "2026-10-12T09:03:07Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1799175260id29955gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Linuxiac Weekly Wrap-Up: Week 41, 2026 (October 5 – 11)",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368108",
+    "description": "Catch up on the latest Linux news: Python 3.15, COSMIC Desktop 1.10, OpenSSH 10.6, Tmux 3.8, NVIDIA 615.78.08, Flathub reverses AI-generated app ban, and more.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368108",
+    "date": "Oct 12, 2026 08:45",
+    "published_at": "2026-10-12T08:45:11Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Linux 7.3-rc7 Released With Linux 7.3 Hopefully Out Next Weekend",
+    "link": "https://www.phoronix.com/news/Linux-7.3-rc7-Released",
+    "description": "Linus Torvalds has made available what is hopefully the final release candidate before Linux 7.3 is ideally minted next Sunday...",
+    "guid": "https://www.phoronix.com/news/Linux-7.3-rc7-Released",
+    "date": "Oct 12, 2026 08:44",
+    "published_at": "2026-10-12T08:44:15Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Pimax to improve Linux VR support, announces Crystal Pro headset and their own Steam Machine",
+    "link": "https://www.gamingonlinux.com/2026/10/pimax-to-improve-linux-vr-support-announces-crystal-pro-headset-and-their-own-steam-machine/",
+    "description": "Pimax recently revealed a new high-end VR kit, along with their own version of a Steam Machine, and they plan better Linux support overall.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/10/pimax-to-improve-linux-vr-support-announces-crystal-pro-headset-and-their-own-steam-machine/",
+    "date": "Oct 12, 2026 08:28",
+    "published_at": "2026-10-12T08:28:47Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1426096447id29954gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "SEEDS - Echoes Beneath the Sands is an upcoming survival game about terraforming and restoring life",
+    "link": "https://www.gamingonlinux.com/2026/10/seeds-echoes-beneath-the-sands-is-an-upcoming-survival-game-about-terraforming-and-restoring-life/",
+    "description": "Developer Against All Odds revealed SEEDS - Echoes Beneath the Sands, a very interesting sounding sandbox survival game about terraforming and creating life.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/10/seeds-echoes-beneath-the-sands-is-an-upcoming-survival-game-about-terraforming-and-restoring-life/",
+    "date": "Oct 12, 2026 08:09",
+    "published_at": "2026-10-12T08:09:27Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/453797832id29953gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "ScummVM 2026.4 brings nearly 200 newly supported retro games",
+    "link": "https://www.gamingonlinux.com/2026/10/scummvm-2026-4-brings-nearly-200-newly-supported-retro-games/",
+    "description": "ScummVM 2026.4.0 has released, bringing with it support for nearly 200 more retro games across 12 different game engines.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/10/scummvm-2026-4-brings-nearly-200-newly-supported-retro-games/",
+    "date": "Oct 12, 2026 07:50",
+    "published_at": "2026-10-12T07:50:51Z",
+    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/scummvm.jpg",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Cardsharp has you play Blackjack in a dark room where you might lose a finger",
+    "link": "https://www.gamingonlinux.com/2026/10/cardsharp-has-you-play-blackjack-in-a-dark-room-where-you-might-lose-a-finger/",
+    "description": "A demo for Cardsharp is available for you to try it early. Think Blackjack, except your five fingers are your health bar.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/10/cardsharp-has-you-play-blackjack-in-a-dark-room-where-you-might-lose-a-finger/",
+    "date": "Oct 12, 2026 07:44",
+    "published_at": "2026-10-12T07:44:14Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1579277598id29951gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Design and customize your own space platform in the auto-battler NebulArena",
+    "link": "https://www.gamingonlinux.com/2026/10/design-and-customize-your-own-space-platform-in-the-auto-battler-nebularena/",
+    "description": "Another demo worth checking out if you like autobattlers, NebulArena has you build up a space platform and watch the chaos.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/10/design-and-customize-your-own-space-platform-in-the-auto-battler-nebularena/",
+    "date": "Oct 12, 2026 07:36",
+    "published_at": "2026-10-12T07:36:45Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/445804635id29950gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "runz is a top-down roguelite arena shooter where every bullet in your magazine matters",
+    "link": "https://www.gamingonlinux.com/2026/10/runz-is-a-top-down-roguelite-arena-shooter-where-every-bullet-in-your-magazine-matters/",
+    "description": "Available with a demo now, runz is a top-down twin-stick shooter in the spirit of Brotato and others similar, but with a twist where your build is your gun mag.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/10/runz-is-a-top-down-roguelite-arena-shooter-where-every-bullet-in-your-magazine-matters/",
+    "date": "Oct 12, 2026 07:26",
+    "published_at": "2026-10-12T07:26:03Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/603398946id29949gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "How the US Nuclear Plant Fleet Is Leaning Into AI",
+    "link": "https://hardware.slashdot.org/story/26/10/12/0445233/how-the-us-nuclear-plant-fleet-is-leaning-into-ai?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "\"This year, nearly the entire fleet of 94 U.S. nuclear reactors has been offered the chance to integrate AI into its operations, and most have taken it,\" reports IEEE Spectrum:\n\n\nIn August, California-based Atomic Canyon launched NIVA, the Nuclear Industry Virtual Assistant, which was developed in cooperation with nuclear-industry groups. The assistant was pilot-tested in nuclear plants run by Constellation Energy and is now available to the United States' entire fleet of reactors.... Meanwhile, the AI-for-nuclear startup Nuclearn says its products have gone to work with more than 65 U.S. partners, a total that includes many traditional plants but also an integration with NuScale Power Corp. that is working toward advanced small nuclear reactors. Microsoft and Nvidia have collaborated on a project to apply AI toward optimizing \"the entire life cycle of a nuclear plant, spanning site permitting, design, construction, and continuous operations.\" \n\nThe reason for the rapid adoption, according to Nuclearn CFO and cofounder Jerrold Vincent, is twofold. First, the technology companies banking their futures on AI are also keen on a revival of nuclear power to provide the electricity for all those data centers. Vincent says AI is also ideal for addressing some of the nuclear industry's most pressing problems. Many of the things that make reactors so difficult to operate — intricate regulations, along with complex systems for management and maintenance — are exactly the kinds of tasks that AI is good at. The industry is staggering to deal with aging hardware and an aging workforce. If it is going to survive, and have a real shot at a nuclear revival, it will need help from machine intelligence, Vincent says... \n\nRight now, the principal output of a nuclear reactor (aside from electricity) is paperwork. Nuclear plants produce piles of documentation to demonstrate regulatory compliance and to record how they respond to any potential problem, from a crack in the sidewalk to a fault in the reactor... Nuclearn's AI products help plants search through large repositories of data more efficiently to more quickly file paperwork with the federal government or figure out how a particular problem was solved in the past. \"If you think of it as ChatGPT for nuclear,\" he says, \"it's actually not a bad place to start.\" \n\nIt's especially important because the nuclear power industry \"has a remarkably skilled but quickly shrinking workforce tasked with keeping old reactors online and possibly starting up new ones to meet surging demand for electricity,\" the article points out. \n\nIt also stresses that \"So far, both the Nuclearn and NIVA large language models used in the nuclear world report to humans and don't go anywhere near power plant operations.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 12, 2026 07:22",
+    "published_at": "2026-10-12T07:22:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Brews \u0026 Kings is an upcoming city-builder about brewing",
+    "link": "https://www.gamingonlinux.com/2026/10/brews-kings-is-an-upcoming-city-builder-about-brewing/",
+    "description": "A city builder about brewing. Grow grain and vines, scout the wilderness for pure water and rare ingredients, brew and ferment in your own cellars.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/10/brews-kings-is-an-upcoming-city-builder-about-brewing/",
+    "date": "Oct 12, 2026 07:15",
+    "published_at": "2026-10-12T07:15:44Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/60708798id29948gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "What is SystemD on Linux?",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368110",
+    "description": "This article will teach you what systemd is and why it replaced SysVinit; what systemd unit files are; how to list all and specific unit files; and how to view the content of a unit configuration file.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368110",
+    "date": "Oct 12, 2026 07:13",
+    "published_at": "2026-10-12T07:13:42Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Pebble Round 2 Open-Source Smartwatch Finally Starts Shipping",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368105",
+    "description": "Pebble Round 2 begins shipping after production delays, bringing its circular e-paper display, PebbleOS, and updated battery life to users.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368105",
+    "date": "Oct 12, 2026 05:42",
+    "published_at": "2026-10-12T05:42:12Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Blender 5.3 Enters Public Beta Testing with Vulkan Backend by Default on Linux",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368100",
+    "description": "The Blender Foundation released today the beta version of the upcoming Blender 5.3 series of this open-source, free, and cross-platform 3D computer graphics software suite.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368100",
+    "date": "Oct 12, 2026 04:10",
+    "published_at": "2026-10-12T04:10:43Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
     "title": "Kernel prepatch 7.3-rc7",
     "link": "https://lwn.net/Articles/1099798/",
     "description": "The 7.3-rc7 kernel prepatch is out for\ntesting.  According to Linus: \"As always, I would have preferred to see a smaller\nrc, but it's not like anything in here looks like a reason to delay\nthe final release. So that's still set for next weekend unless\nsomething new comes up.\"\n\n\nOne notable change that slipped into the mainline this week is the deprecation\nof the ext4 data=journal mode; it will be removed entirely at the\nbeginning of 2028.",
@@ -157,17 +536,6 @@
     "source_url": "https://lxer.com/"
   },
   {
-    "title": "Original RFC1149 Packet Up For Auction At Christies",
-    "link": "https://entertainment.slashdot.org/story/26/10/11/0050222/original-rfc1149-packet-up-for-auction-at-christies?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Long-time Slashdot reader badger.foo writes: As some of you may remember, in 2001 RFC1149 (TCP/IP over carrier pigeon) was implemented.\n \n\nNow one of the packets preserved from that event is up for auction at Christies. Direct link to the auction (current bid: USD 2600) is here.\n \nThis is a unique chance to own a piece of Internet history!\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 11, 2026 15:34",
-    "published_at": "2026-10-11T15:34:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
     "title": "Stable kernels 7.2.10 and 6.18.56",
     "link": "https://lwn.net/Articles/1099764/",
     "description": "The 7.2.10 and 6.18.56 stable kernels have been released.\nEach contains another several hundred important fixes.",
@@ -178,15 +546,14 @@
     "source_url": "https://lwn.net"
   },
   {
-    "title": "US Agency To Rewrite Rules To Finally Address Vehicle Headlight Glare",
-    "link": "https://news.slashdot.org/story/26/10/11/0014241/us-agency-to-rewrite-rules-to-finally-address-vehicle-headlight-glare?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "America's National Highway Traffic Safety Administration \"said on Tuesday that it will rewrite its vehicle lighting standards,\" reports Reuters, \"to address concerns about headlight glare and allow for the latest safety-improving lighting technologies.\"\n\nNHTSA said it plans to improve rules for LEDs, dusk sensors, automatic high beams and replaceable light sources. The agency will also evaluate headlamp height and aim and how they impact driver visibility and address headlight glare and make appropriate changes. \n\nComplaints about glare from headlights have increased and some lawmakers have urged the government to set a maximum headlight brightness standard. A growing number of taller trucks and SUVs on roads has also led to more complaints about glare. LEDs, which now account for most headlights in new cars, are much brighter than traditional halogen headlights... The issue still accounts for a small number of nighttime crashes, according to a study last year from the Insurance Institute for Highway Safety (IIHS). The study noted that headlight glare contributes to far fewer crashes than insufficient visibility... \n\nFederal headlight standards for minimum and maximum brightness have not changed since 1997, IIHS noted. The study found that drivers older than 70 appear to be most affected by headlight glare. In 2022, NHTSA said it would allow automakers to install adaptive driving beam headlights on new vehicles. The devices adjust the headlight beam pattern to dim portions directed at other vehicles.\n\n \n\nThanks to Slashdot reader technology_dude for sharing the news.\n\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 11, 2026 14:34",
-    "published_at": "2026-10-11T14:34:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
+    "title": "Drgn 0.3 Released For This \"Natural\" Programmable Debugger From Meta",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368089",
+    "description": "Drgn is the open-source project out of Meta developing a very versatile debugger with the intent being a debugger focused on programmability with it striving to \"make scripting as natural as possible so that debugging feels like coding.\" Drgn 0.3 released this weekend with the latest round of improvements...",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368089",
+    "date": "Oct 11, 2026 14:17",
+    "published_at": "2026-10-11T14:17:26Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
   },
   {
     "title": "Linux Landing Kernel Workaround For AMD TLBI Erratum #1718",
@@ -197,151 +564,5 @@
     "published_at": "2026-10-11T13:20:00Z",
     "source": "phoronix.com",
     "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Microsoft Contributes Para-Virtualized IOMMU Hyper-V Driver For Linux",
-    "link": "https://www.phoronix.com/news/MS-Paravirt-Hyper-V-IOMMU",
-    "description": "Microsoft is contributing a new kernel driver for the upcoming Linux 7.4 cycle. Queued up into the IOMMU subsystem's \"-next\" branch is a new para-virtualized IOMMU driver for benefiting Linux guest VMs running on Microsoft's Hyper-V virtualization platform...",
-    "guid": "https://www.phoronix.com/news/MS-Paravirt-Hyper-V-IOMMU",
-    "date": "Oct 11, 2026 12:00",
-    "published_at": "2026-10-11T12:00:00Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "NASA Releases Data from Artemis II Moon Mission, Calls It 'Sights and Sounds of Science'",
-    "link": "https://science.slashdot.org/story/26/10/11/0221200/nasa-releases-data-from-artemis-ii-moon-mission-calls-it-sights-and-sounds-of-science?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "\"What did four astronauts see, notice, and document as they traveled around the Moon during NASA's Artemis II mission?\" asks a new NASA web page, offering some fascinating pictures and video:\n\nThrough photographs, spoken observations, drawings, and annotations, the Artemis II crew created a unique scientific record — one that is now available to the science community and the public for further study... As part of the mission science plan, lunar scientists asked the Artemis II crew to watch for tiny flashes sparked by rocky fragments hitting the Moon. Even so, some scientists were astonished when astronauts reported seeing five extremely faint \"pinprick\" bursts of light from 46,000 miles away. After ruling out other sources — cosmic rays or reflections from the spacecraft — the science team confirmed the sightings... The impact flash observations happened during a planned loss of communications while the Artemis II crew was on the far side of the Moon... Apollo astronauts saw similar flashes from lunar orbit, but the Artemis crew likely caught the faintest ever seen with the unaided eye. \n\nFrom the brightness of the flashes, scientists estimated that incoming rocks were each no more than a couple of inches wide. Despite their size, they were traveling thousands of miles per hour, producing just enough light upon impact to be visible. The nearly hour-long total solar eclipse that the crew experienced while passing by the Moon's far side created ideal dark conditions for spotting such subtle bursts. With no atmosphere to slow or burn up incoming debris, projectiles slam freely into the lunar surface. The crew's direct observations of this process on the Moon's far side provided a rare dataset that will help us understand how often these small impacts occur, which is essential for assessing long-term risks to future lunar habitats and infrastructure... \n\nThe crew reported seeing subtle hues of gray, black, brown, tan, white, green, and blue across the Moon's surface. This muted rainbow offers clues to the rocks and minerals that make up different lunar regions, helping scientists piece together how the Moon — and, by extension, Earth — evolved over time. \n\n\"Amazing news,\" Mission Control responded when they heard about the flashes. Space.com reports that when a Mission Control operator looked over at the Science Evaluation Room, \"they were jumping up and down, literally.\" \n\nNASA blogged this week that more than 800 gigabytes of Artemis II lunar science data — some previously unreleased — \"have been uploaded to NASA's Planetary Data System, the public archive for NASA's planetary missions.\"\n\nThis data release includes more than 11,000 full-resolution images and video of the Moon from the crew's handheld cameras and the Orion spacecraft's cameras, 8.5 hours of audio recordings of the crew's scientific observations of the lunar surface, and crew-annotated images... Along with this data, NASA has released the Artemis II Preliminary Lunar Science Report, the Artemis II Lunar Science Operations Report, and the Artemis II Lunar Science Data User Guide.\n\t\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 11, 2026 11:34",
-    "published_at": "2026-10-11T11:34:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Auto Vectorizing The RISC-V Linux Kernel Shows Promising Results",
-    "link": "https://www.phoronix.com/news/Auto-Vectorize-RISC-V-Kernel",
-    "description": "The Linux kernel build for RISC-V doesn't currently make use of the CPU ISA's Vector extension. but leveraging it with compiler auto vectorization is showing the ability to provide nice performance results for enhancing RISC-V Linux performance...",
-    "guid": "https://www.phoronix.com/news/Auto-Vectorize-RISC-V-Kernel",
-    "date": "Oct 11, 2026 10:18",
-    "published_at": "2026-10-11T10:18:00Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Drgn 0.3 Released For This \"Natural\" Programmable Debugger From Meta",
-    "link": "https://www.phoronix.com/news/Drgn-0.3-Released",
-    "description": "Drgn is the open-source project out of Meta developing a very versatile debugger with the intent being a debugger focused on programmability with it striving to \"make scripting as natural as possible so that debugging feels like coding.\" Drgn 0.3 released this weekend with the latest round of improvements...",
-    "guid": "https://www.phoronix.com/news/Drgn-0.3-Released",
-    "date": "Oct 11, 2026 10:07",
-    "published_at": "2026-10-11T10:07:17Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Corsair Novablade Pro \u0026 8BitDo Pro 2 Controllers To Be Supported With Linux 7.3-rc7",
-    "link": "https://www.phoronix.com/news/Corsair-Novablade-Pro-Linux-7.3",
-    "description": "Sent out today as part of this week's input subsystem fixes are device ID additions to the XPad driver for enabling two more gaming controllers to work nicely under Linux...",
-    "guid": "https://www.phoronix.com/news/Corsair-Novablade-Pro-Linux-7.3",
-    "date": "Oct 11, 2026 09:58",
-    "published_at": "2026-10-11T09:58:19Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "FBI Arrests Cybersecurity Executive Over Data Breach After Contractor Fails to Update Oracle HR Platform",
-    "link": "https://it.slashdot.org/story/26/10/11/0157259/fbi-arrests-cybersecurity-executive-over-data-breach-after-contractor-fails-to-update-oracle-hr-platform?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "CNN reports:\n\nThe FBI arrested a Canadian cybersecurity executive and ransomware expert as part of the investigation of a damaging hack that exposed the sensitive data of current and former FBI employees, according to court documents and people familiar the investigation. Edward Dubrovsky was arrested in the Philadelphia area in recent days... Dubrovsky is facing charges related to extortion and making threats. He has been transferred to Texas's Eastern District for a scheduled detention hearing, according to court records and a law enforcement official.\n\n FBI Director Kash Patel announced the arrest on Friday but did not disclose where it occurred or what role the man is suspected of playing in the hack. Patel also didn't name Dubrovsky, but CNN confirmed the defendant is believed to be tied to the FBI hack through multiple people familiar with the investigation... A LinkedIn profile under Dubrovsky's name lists years of experience in the Canadian cybersecurity industry and describes Dubrovsky as a 'globally recognized cybersecurity expert.' An Ed Dubrovsky is also the author of a book on handling ransomware negotiations with cybercriminals... \n\nThere has also been an inquest at the FBI over how such a critical security lapse happened. The FBI determined that a contractor managing the bureau's jobs portal failed to update software \"explicitly issued to secure the platform,\" [senior FBI cyber official, Brett Leatherman said last week]. The FBI has \"removed the contractor,\" he said. The software in question is a human-resources platform made by Oracle, ShinyHunters has said. The hackers previously used a flaw in the software to attack targets in the education sector in May and June, according to Google's Threat Intelligence Group. But months later, the FBI contractor apparently still had not applied a security patch that was available for the software.\n\n\n \n\n\"The inmate locator at the U.S. Bureau of Prisons website reports that a 54-year-old Edward Dubrovsky is currently being held at a federal facility in Philadelphia,\" reports security researcher Brian Krebs. \n\n\nThanks to long-time Slashdot reader schwit1 for sharing the news.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 11, 2026 07:34",
-    "published_at": "2026-10-11T07:34:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Ubuntu Confirms Thursday's Distributed Denial of Service Attack Against Its Web Infrastructure",
-    "link": "https://news.slashdot.org/story/26/10/11/0142235/ubuntu-confirms-thursdays-distributed-denial-of-service-attack-against-its-web-infrastructure?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "On Thursday those trying to access the Ubuntu website, ISO downloads, and similar Ubuntu resources on Thursday found the site \"inoperable,\" reports Phoronix, with the disruption confirmed as a distributed denial of service attack. \n\n\"Our team is working diligently to resolve the incident,\" according to a Thursday post on Ubuntu Discourse — followed by a later announcement. \"At this time our team continues to work on restoring affected services, most of them are now available. We appreciate your patience and understanding.\" Ubuntu's status page shows the Ubuntu.com outage lasting for 2 hours and 27 minutes on Friday — though with four-hour outages Wednesday (and other outages affecting other Ubuntu sites). \n\nToday \"All components are Operational,\" the status page reports.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 11, 2026 03:34",
-    "published_at": "2026-10-11T03:34:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "SQLite 3.54 Released with Performance Boost, Query Optimizations",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368083",
-    "description": "SQLite 3.54 delivers a 4% performance boost, query planner optimizations, command-line improvements, and new database analysis capabilities.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368083",
-    "date": "Oct 11, 2026 02:40",
-    "published_at": "2026-10-11T02:40:25Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "UK Vegetables 20-50% Less Nutritious Than In the 1960s",
-    "link": "https://science.slashdot.org/story/26/10/11/0124231/uk-vegetables-20-50-less-nutritious-than-in-the-1960s?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "The Telegraph reports that the nutritional value of fruit and vegetables has fallen by up to 50% since the Sixties, according a new study from researchers at startup studio Deep Science Ventures. \n\nThe study \"found that humans needed to consume twice the number of vegetables to get the same level of minerals such as potassium, magnesium or copper as would have been present in their food 60 years ago.\"\n\n\n\nThe study found that many crops had lost 20% to 50% of several key nutrients... The decrease in nutrient and vitamin value is thought to be down to declining soil quality and crops being selectively bred for their ability to grow quickly, rather than there being any focus on their health benefits... It raises the prospect that the advice to eat five portions of fruit and vegetables a day, introduced in the UK in 2003, may need to be updated. The report added that people on weight-loss drugs could be most at risk from the lack of nutrients, as the treatments could cause them to consume less food... \n\nNature-friendly farming techniques, such as planting crops that restore nutrients to the soil, could help improve the health benefits of vegetables, according to the researchers.\n\n\n \n\nIn short, according to\nWill Summers, a senior associate at the firm, \"we've been quietly hollowing out what's inside our food.\" \n\nThanks to Slashdot reader Bruce66423 for sharing the article.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 11, 2026 01:34",
-    "published_at": "2026-10-11T01:34:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Many Laptop \u0026 Gaming Handheld Support Improvements Coming For Linux 7.4",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368082",
-    "description": "Many x86 platform driver improvements have been queuing ahead of the upcoming Linux 7.4 merge window to offer a variety of laptop and gaming handheld device improvements with this next kernel version...",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368082",
-    "date": "Oct 11, 2026 01:08",
-    "published_at": "2026-10-11T01:08:55Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "AI Execs Game Out 'Political Revolt' after a Catastrophic AI Event",
-    "link": "https://yro.slashdot.org/story/26/10/10/2253228/ai-execs-game-out-political-revolt-after-a-catastrophic-ai-event?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Top executives at Anthropic, OpenAI and other AI companies \"are privately gaming out scenarios for a public and political revolt after a catastrophic AI event,\" reports Axios, one that turns \"an already wary public further against the technology and its leaders...\" \n\nThese AI company executives \"anticipate a large-scale event, most likely a cyberattack, that shuts down access to financial services, internet connectivity, or even power and water...\" the article points out.\n\"Many top AI researchers and executives believe a major incident is inevitable.\n\n\n\"OpenAI conducts preparedness exercises where teams discuss and work through a range of potential scenarios,\" a company spokesperson said. \"These scenarios are not treated as inevitable, but are meant to help us prepare for a variety of circumstances.\" Anthropic declined to comment... \n\nTop AI planners assume Democrats, ascendant after the midterms, will move fast to shut down AI but will face significant challenges... The planning involves red-teaming for worst-case scenarios. It focuses mainly on racing to educate members of Congress. Company executives know regulation has no chance of passing right now, but still want to shape the legislation and policies U.S. leaders will turn to after a first catastrophic event.... \n\n\nMany AI industry insiders told Axios they believe a major event will occur in the next six to 12 months.\n\n \n\n\"Even with Democrats in control of the House and Senate, the companies see fractured politics as the norm, including within the Democratic Party.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 10, 2026 23:59",
-    "published_at": "2026-10-10T23:59:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Python 3.15 Released with Faster JIT, Lazy Imports, and UTF-8 by Default",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368081",
-    "description": "Python 3.15 introduces lazy imports, UTF-8 as the default encoding, faster experimental JIT performance, and new profiling tools.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368081",
-    "date": "Oct 10, 2026 23:37",
-    "published_at": "2026-10-10T23:37:26Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Nicolas Cage Didn't Sign Amazon's AI Waiver For 'Spider-Noir'. Series Cancelled.",
-    "link": "https://entertainment.slashdot.org/story/26/10/10/2221212/nicolas-cage-didnt-sign-amazons-ai-waiver-for-spider-noir-series-cancelled?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "\"Nicolas Cage is speaking out against Amazon,\" reports Variety. Amazon developed the series Spider-Noir for Prime Video, but then allegedly asked Cage to sign an AI waiver:\n\n\"Amazon is a very AI-friendly company, to the tune of $50 billion invested in OpenAI,\" Cage said Saturday during a panel on the Empire Stage at New York Comic Con. \"I am not an AI-friendly actor, so it's like, connect those dots! I'm not a member of their club. I didn't sign the waiver to let him use AI on 'Spider-Noir.' I'm probably not going to be working with that studio again, but that's okay.\" \n\nLast month Amazon canceled Spider-Man Noir after just one season, Variety reports. And the cancellation was just days before the Emmy Awards, where it then earned 11 nominations (the most of any Prime Video program this year). \n\n ScreenRant reports:\n Spider-Noir was the actor's first TV role and was praised globally, with season 1 earning a near-perfect Rotten Tomatoes rating from critics of 92% and a 90% rating from audiences. Critics stated that \"This sharply written homage to classic film noir — which includes a standout Nicolas Cage performance — is the novel superhero project fans need,\" and \"Spider-Noir is one of the standout shows of the year....\" The cancellation was certainly a huge shock as it had earned 11 Emmy nominations and reached 2.6 billion minutes viewed within its first six weeks on Prime Video.\n \n\n\nMore from Variety:\n\n\nCage went on to tell the Comic-Con audience that he hopes to work with the rising class of Gen-Z filmmakers, praising Backrooms director Kane Parsons, who parlayed his YouTube fame into a Hollywood career... \"I got to get with these young directors who are Gen Z, and they're going at it their own way, whether it's through the YouTube culture or whatever it is,\" Cage said. \"They're doing it from scratch and by hand. I want to get with that.\"\n\n\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 10, 2026 22:59",
-    "published_at": "2026-10-10T22:59:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Rolling Release Distros Superior To LTS Distros In The Patch-Heavy GenAI Era?",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368084",
-    "description": "As some interesting food for thought and weekend forum discussions, this week at the Linux Plumbers Conference in Prague, Qualcomm engineer Khem Raj questioned the relevance of Linux Long Term Support (LTS) distributions in the era of generative AI with the constantly heavy patch flow and bug reports. Khem Raj argued the benefits of rolling release distributions in the GenAI era and the benefits it provides staying up-to-date with mainline...",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368084",
-    "date": "Oct 10, 2026 22:05",
-    "published_at": "2026-10-10T22:05:56Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
   }
 ]
