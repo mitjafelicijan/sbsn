@@ -1,5 +1,78 @@
 [
   {
+    "title": "Linus Torvalds On Why AI Works For Him",
+    "link": "https://linux.slashdot.org/story/26/10/13/034206/linus-torvalds-on-why-ai-works-for-him?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from ZDNet: Many open-source developers still dislike AI. The latest example is System76 banning AI-generated content from its COSMIC desktop. At Open Source Summit Europe, Linux creator Linus Torvalds offered a different take: \"I actually really like using AI,\" Torvald told Dirk Hohndel, his good friend and head of Ericsson Software Technology, in their latest discussion. [...] Torvalds said, \"I think that you need to be very careful using AI when you're doing something real and important.\" Torvalds explained he hadn't always felt that way about AI programming. \"I used to think it was just not very good -- but now I'm at the point where I actually really like using AI.\"\n \n\"To be fair,\" he continued, \"I don't do a lot of kernel programming. I'm a maintainer. The Linux kernel is a project where other people do the real work, and I act as the collection point. But I still enjoy programming immensely. I think AI is a wonderful tool if you use it correctly and treat it as a tool, and I find it makes programming much more enjoyable.\" Torvalds recalled, \"I started programming in 1981 or so, and back then computers were much simpler, and you could understand what they were doing, and also the programs you compared your own programs to were much simpler.\"\n \n\"It's a different story today,\" Torvalds said. \"The bar in software engineering has grown so high that it's hard to see your own small efforts as worth anything, because you're used to all these polished, professional programs. [...] A lot of people make fun of vibe coding, but I think it's a wonderful way to find joy in programming. It makes you feel like you're doing something relevant. It allows you, as a new programmer, to do things that you would otherwise have a really hard time with.\"\n \nHe continued: \"I love the concept of AI as a gateway drug because I was working on my own toy project, the guitar pedal, and I knew what I was doing. I had a user interface that I had written myself in C that was running on a microcontroller that was running on this small screen, and I was like, \"This is just stupid. It looks like something from the '80s; I wanted it to look like something from this century. But I don't do Java. I do kernels.\" \"So, I use AI to do the things that I'm bad at,\" Torvalds went on, \"I'd seen all the same YouTube videos you have. Give AI a prompt, and it will do it. So I gave it a prompt, and it did it, and it was horrendous. Then I said, 'Hey, look! I already did this in C. I did it the right way. It's just ugly.\" Torvalds acknowledged that AI tools are helping identify security vulnerabilities and improve the Linux kernel, but at the cost of overwhelming maintainers with questionable bug reports and superficial fixes. He called some submissions \"mindless band-aid kind of patches.\"\n \nThat said, despite AI's growing influence, Torvalds believes Linux's success comes from steady, incremental development rather than sweeping changes. \"I'm a big believer in the whole incremental small changes that, over time, turn into big features,\" he said. The development goal remains \"incremental improvement and steady progress all the time.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 13, 2026 03:30",
+    "published_at": "2026-10-13T03:30:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "LumineCapture Is a New Screenshot Tool Built for Speed on Linux",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368133",
+    "description": "Written in Rust, LumineCapture offers fast screenshots on Linux Wayland, with built-in editing, OCR, and support for KDE Plasma and COSMIC.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368133",
+    "date": "Oct 13, 2026 01:29",
+    "published_at": "2026-10-13T01:29:53Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "FreeType 2.15 Released With Apple HVF Driver, ISO Open Font Format Edition 5",
+    "link": "https://www.phoronix.com/news/FreeType-2.15-Released",
+    "description": "FreeType 2.15 is now available for this widely-used font rendering library used across many different operating systems and software applications...",
+    "guid": "https://www.phoronix.com/news/FreeType-2.15-Released",
+    "date": "Oct 13, 2026 00:24",
+    "published_at": "2026-10-13T00:24:04Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "\"My Hands Are Shaking While Writing\" About IBM's Mass Layoffs at Red Hat (Bluewashing)",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368114",
+    "description": "Those aren't the words spoken by people who voluntarily leave a job.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368114",
+    "date": "Oct 12, 2026 23:58",
+    "published_at": "2026-10-12T23:58:24Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Epic Games Delays Disney Project, Asks Developers To Use More AI",
+    "link": "https://games.slashdot.org/story/26/10/12/2128209/epic-games-delays-disney-project-asks-developers-to-use-more-ai?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from Bloomberg: Epic Games delayed the release of an upcoming video-game collaboration with Walt Disney and told its developers to use more artificial intelligence tools to finish the game, according to people familiar with the project. The title had been slated for release in March, but is now delayed with no new date communicated, said the people familiar, who asked to not be identified because they weren't authorized to speak publicly.\n \nDevelopers on the game, a shooter featuring characters from the Marvel and Star Wars franchises, were instructed to implement an \"AI first\" production model using tools such as Anthropic's Claude. Humans will then manage and guide that work. \"No more hand-written code,\" one of the game's directors told staff in an internal message reviewed by Bloomberg. The director added that all art for the game would be \"generated with full AI workflows.\"\n \nEven before this announcement, the maker of the popular Fortnite game had been pushing hard for the use of AI across all of its divisions. But this is the first time a major video-game company has attempted to build a title primarily with AI. \"We're embracing AI-accelerated development, led by Epic developers who are the visionaries and creative drivers for everything we do,\" said Jake Jones, communications director at Epic Games, in a statement to Bloomberg News.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 12, 2026 22:00",
+    "published_at": "2026-10-12T22:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Mark Zuckerberg Says Meta Has Reached AI 'Frontier', Rejects Calls For Slowdown",
+    "link": "https://meta.slashdot.org/story/26/10/12/1910233/mark-zuckerberg-says-meta-has-reached-ai-frontier-rejects-calls-for-slowdown?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Meta CEO Mark Zuckerberg says the company has reached the AI \"frontier\" with its new Muse Wonder model and will be offered as a closed, paid product for businesses. Zuckerberg also rejected calls for an industry-wide slowdown, arguing that AI can be managed with conventional guardrails as Meta continues spending heavily on models, infrastructure, and talent. The Financial Times reports: Speaking with the FT as Meta releases its Muse Wonder AI model on Monday, the billionaire chief executive claimed the new system was \"going to allow much more sophisticated behaviours that are at the frontier of what is being done in the AI field.\" [...] \"Getting to this point both required a large amount of compute and investment, and a lot of very rigorous scientific work by the group working on it over an extended period of time,\" said Zuckerberg. [...] Meta said Muse Wonder outperforms Anthropic's Claude Opus 5.5 and Fable 5.1 and OpenAI's GPT-6 Astra on some technical benchmarks. It said the new model can be used to carry out complex tasks from \"understanding a lease to making sense of financial or health information.\" However, Muse Wonder will also be \"closed,\" with its best versions sold directly to businesses. That pits it against Anthropic and OpenAI for corporate AI contracts in a serious test of its ambitions. Zuckerberg signaled further spending as Meta was \"already working on the next step up,\" adding that its model development would \"probably feel like it'll go quite a bit faster from here.\"\n \nHowever, he also shrugged off mounting fears that the technology was advancing at a rate that will soon surpass human control. [...] The Meta chief declined to be drawn on his figure for \"P(doom)\" -- a much-discussed Silicon Valley term to describe the probability that AI will lead to mass destruction. Instead, he argued that responsibility should fall on the individual lab to ensure model safety. \"I'm much closer to the belief that AI is a technology that can be engineered with normal guardrails and built responsibly than the anthropomorphic vision of AI, which is that it is just going to go do its own thing,\" he said. Zuckerberg has previously rejected calls by the heads of AI labs such as Anthropic's Dario Amodei and OpenAI's Sam Altman for an industry-wide \"slowdown\" in AI development. He also played a key role in crafting US President Donald Trump's White House \"Accord on Super Intelligence,\" setting out principles for self-regulation of the industry, which critics say falls far short of a formal global AI governance regime.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 12, 2026 21:00",
+    "published_at": "2026-10-12T21:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Intel Announces The GPU D Series For Crescent Island",
+    "link": "https://www.phoronix.com/news/Intel-GPU-D-Series",
+    "description": "Intel announced today the GPU D Series for the enterprise-focused, inference-optimized GPU accelerators known to now as Crescent Island...",
+    "guid": "https://www.phoronix.com/news/Intel-GPU-D-Series",
+    "date": "Oct 12, 2026 20:53",
+    "published_at": "2026-10-12T20:53:30Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
     "title": "Google's Fitbit Edge Debuts a Replaceable Battery, Brings Back the Screen",
     "link": "https://tech.slashdot.org/story/26/10/12/1841208/googles-fitbit-edge-debuts-a-replaceable-battery-brings-back-the-screen?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
     "description": "Google has introduced the $179 Fitbit Edge, a new fitness tracker with a 1.34-inch OLED display, built-in GPS, ECG support, week-long battery life, and Fitbit's first user-replaceable battery. \"And unlike the Pixel Watch, it's compatible with Android and iPhones via the Google Health app,\" reports Wired. From the report: The Edge has a user-replaceable battery, a Fitbit first, aligning with Google's efforts to make its Pixel Watch more repairable. (Likely also due to new battery regulations set to take effect next year in the European Union.) Repair options will vary by region and availability. If you find the Pixel Watch's round face too bulky, the Edge's capsule-shaped alternative might suit smaller wrists better. If the Charge 6's 1.04-inch display was too small, the Edge upgrades it to a larger 1.34-inch screen. The difference is noticeable, and that extra real estate could make a real impact when glancing at your metrics mid-workout.\n \nThe Edge borrows a few more attributes from the Pixel Watch, including an altimeter that uses atmospheric pressure to measure elevation changes. That means it can record elevation gain and loss during outdoor activities, track floors climbed, and add more context to your outdoor stats. It also has a far-field skin temperature sensor, replacing the standard device temperature sensor found in other Fitbits. By bringing some of the Pixel Watch's more advanced hardware to a fitness-first wearable, Google is giving the Edge a compelling middle-ground position in its lineup at a Fitbit-friendly price.\n \nThe Edge inherits the Fitbit Air's improvements while restoring several Charge 6 features the screenless tracker lacks, including built-in GPS and electrical sensors that work with the electrocardiogram (ECG) app. You can also control music playback on a connected Bluetooth device, as you could with the Charge 6, and Google Maps turn-by-turn directions will arrive later this year. [...] With a Google Health Premium subscription, the Edge can track blood pressure trends without manual calibration and insulin resistance trends without requiring a blood draw. Google first announced these capabilities alongside the Pixel Watch 5's debut, but they only became available at the end of September. They're also available on the Air, keeping Google's screenless tracker up to date as its lineup expands.\n\n\n\n\n\nRead more of this story at Slashdot.",
@@ -442,6 +515,16 @@
     "source_url": "https://slashdot.org/"
   },
   {
+    "title": "Linux Landing Kernel Workaround For AMD TLBI Erratum #1718",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368093",
+    "description": "AMD TLBI Erratum #1718 was worked around in CPU microcode for addressing a defect in certain Zen CPUs where the Translation Lookaside Buffer Invalidate Instruction use could lead to to stale translation entries. But for those on affected AMD CPUs and not running the updated microcode, a kernel workaround is being introduced with today's Linux 7.3-rc7 kernel and to be back-ported to prior kernel versions...",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368093",
+    "date": "Oct 11, 2026 23:26",
+    "published_at": "2026-10-11T23:26:22Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
     "title": "9to5Linux Weekly Roundup: October 11th, 2026",
     "link": "https://lxer.com/module/newswire/ext_link.php?rid=368104",
     "description": "The 313th installment of the 9to5Linux Weekly Roundup is here for the week ending October 11th, 2026, keeping you updated on the most important developments in the Linux world.",
@@ -450,119 +533,5 @@
     "published_at": "2026-10-11T21:54:53Z",
     "source": "lxer.com",
     "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Gas Cars Fall Below 50% of Global New Car Sales for the First Time",
-    "link": "https://tech.slashdot.org/story/26/10/11/2033201/gas-cars-fall-below-50-of-global-new-car-sales-for-the-first-time?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "\"Gas cars are now a minority of the world's new car sales,\" reports Electrek.\n\n\nGasoline-only vehicles made up 49% of global new-vehicle sales in the first half of 2026, down from 73% in 2021, according to Mobility Global data first reported by Nikkei. It's the first time on record that they've been under half. But there's a catch: most of the cars taking their place still have a gas tank... [The share of gas-only vehicles] fell three points in a single year, from 52% to 49%. Battery-electric vehicles grew 12% to 6.87 million units and took 17% of the market, up three points. Conventional hybrids grew 10% to 7.27 million units, or 18%... [T]he rest is diesel, plug-in hybrids and a few minor fuels. \n\nNikkei ties the acceleration to oil. Fuel prices spiked with the conflict in the Middle East, and buyers went looking for lower running costs. The whole car market shrank about 5% in the first half, according to the IEA, so gas-only sales fell twice as fast as the market. Gas car sales dropped the most in China, down 26%, followed by Europe at 13%... Mobility Global has battery-electric sales up 32% in Europe to 1.81 million, up 81% in Southeast Asia to 350,000, and more than doubling in Oceania to 110,000... Yoshiaki Kawano, an associate director at Mobility Global, told Nikkei that few EV buyers go back to gasoline cars or hybrids. He expects demand based on \"genuine consumer needs rather than subsidies\" to grow as prices come down... \n\n[Hybrids] outsold battery-electric vehicles in the first half, 7.27 million to 6.87 million... Only the 17% that's battery-electric burns no fuel at all. So about 83% of the new vehicles sold in the world this year still came with an engine.\n \n\nThe article notes that U.S. hybrid sales were up 23%, reaching a record 16.3% of vehicles sold in the second quarter of 2026, while the share of ICE vehicles went down. \n\n\nGas-only cars went from 73% to 49% of the market in less than five years, and nothing in the data suggests they're getting that share back. The last time gasoline wasn't on top was the early 1900s, when steam and electric cars outsold it in the US. \n\nI hate seeing media headlines claiming that \"EV sales are down\" and that \"EV growth has stalled.\" The data is clear: that's true in the US, but only in the US. The rest of the world is moving to electric vehicles, and it is not slowing down.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 11, 2026 21:10",
-    "published_at": "2026-10-11T21:10:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Cloudflare Acquires Deno JavaScript Runtime, Core Development to End in 2027",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368091",
-    "description": "Cloudflare acquires Deno, shifting its developers to Workers while the open-source JavaScript runtime faces an uncertain future.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368091",
-    "date": "Oct 11, 2026 20:23",
-    "published_at": "2026-10-11T20:23:23Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "'The Social Reckoning' Bombs with $5.5 Million Opening",
-    "link": "https://entertainment.slashdot.org/story/26/10/11/207258/the-social-reckoning-bombs-with-55-million-opening?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Why didn't The Social Reckoning enjoy the box office success of 2010's The Social Network, asks IndieWire/A\u003e:\n\n\n[T]here wasn't the same urgency in the story being told. The Social Reckoning focuses less on Zuckerberg, and more on data engineer Frances Haugen's decision to blow the whistle on how Facebook's algorithms were promoting political content that radicalized users, as well as the company's awareness of how its products were contributing to a rise in bullying and teen suicide... [B]ut The Social Reckoning arrives as a much greater threat has emerged from Silicon Valley. Artificial intelligence is dominating the headlines, as fears mount about the economic disruptions it will unleash when millions of jobs are replaced by machines, and, graver still, its potential to trigger a world-ending event... And it's not like Haugen's testimony led to lasting change at Facebook... As IndieWire's Ryan Lattanzio put it, \"'The Social Reckoning' argues that the aftermath of their whistleblowing is still somehow felt today. In actuality, living as we do in 2026, it pretty much feels like... no one cared, and nothing changed?\"\n \n\nAfter the first movie's director bowed out, Sony Pictures shied away from selling it as a sequel — but the problems run deeper, the article adds. \"The Social Reckoning isn't just a financial failure, it's a critical one, too. The reviews were blistering...\" Although on the bright side, \"Sony wisely kept The Social Reckoning's budget at $30 million, meaning it won't face losses on the scale of a Digger... \" \n\n\nVariety writes that Digger \"cratered in its second weekend with $3.2 million from 3,321 theaters, a 60% decline from its dismal $8 million debut. So far, the Tom Cruise satire has limped to $14 million domestically and $35.3 million globally. Warner Bros. spent above $160 million to produce the film, which is shaping up to be one of the biggest bombs ever...\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 11, 2026 20:10",
-    "published_at": "2026-10-11T20:10:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Linux Networking Diverts 50+ Fixes To Next Kernel, Still Bombarded With AI Fueled Churn",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368079",
-    "description": "Ahead of the Linux 7.3-rc7 kernel due for release on Sunday, this week's batch of networking fixes were submitted and merged. The vast networking subsystem of wired and wireless drivers plus the various other networking features continues to see a lot of activity due to AI-driven bug reports and patches...",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368079",
-    "date": "Oct 11, 2026 18:51",
-    "published_at": "2026-10-11T18:51:54Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Blade Runner, Star Trek, Godzilla, Star Wars + Marvel (and Legos): News From New York Comic-Con",
-    "link": "https://entertainment.slashdot.org/story/26/10/11/1839216/blade-runner-star-trek-godzilla-star-wars--marvel-and-legos-news-from-new-york-comic-con?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "There was some Blade Runner news at New York Comic-Con this weekend — and also some news about Godzilla. Ars Technica reports:\n\n\nWe got our first look at Prime Video's new sci-fi series Blade Runner 2099 in July at San Diego Comic-Con. With the show's premiere roughly six weeks away, the streamer unveiled the full trailer this weekend at New York Comic-Con... Prime Video will drop all eight episodes of Blade Runner 2099 on November 25, 2026. [It's already earned 2.1 million views in the last 17 hours]. \n\n\nWe also got a new trailer for Godzilla Minus Zero, the sequel to director Takashi Yamazaki's gloriously grounded kaiju epic, Godzilla Minus One, which became a major international hit and snagged an Oscar for best visual effects. [1.2 million views in its first five hours]\n \n\n\n And StarWars.com brings news from the Star Wars universe:\n\n\nKevin Smith has already announced his Star Wars/Marvel: Hope Assembles crossover comic, interweaving the Marvel universe and the Star Wars galaxy like never before. Now, you're cordially invited to add your own creative ideas to the mix through a LEGO Ideas challenge celebrating the milestone 50th anniversary of Star Wars: A New Hope. \n\nUsing physical or virtual LEGO bricks, fans are challenged to build \"their own epic mash-ups,\" according to Lego's web site, \"in three categories: Character Fusion, Vehicle Fusion, and Scene Fusion.\" (\"Write an engaging description and upload great images of your creation without using AI tools...\") \n\nMeanwhile, Star Trek fan site TrekMovie.com covered the major Star Trek announcements:\n\n\nThere was an interview with 95-year-old William Shatner by Star Trek super-fan Ben Stiller, which ended \"with Stiller surprising Shatner by revealing the original Gorn head from his personal Star Trek memorabilia collection.\"Also announced was a new documentary about the disastrous fan-organized convention in 1982 that tried reuniting cast members from the original series. (Its title? The Con of Wrath: The Craziest Convention Ever!)Gates McFadden (who played Dr. Beverly Crusher on Star Trek: The Next Generation) will write a new comic book to \"bridge the 20 year in-universe gap in Crusher's story between the events of the film Star Trek Nemesis and the television series Star Trek: Picard.\"Paramount+ offered a panel about their series Star Trek: Starfleet Academy (which returns for a second season in 2027).Nacelle Toys even announced new action figures of Star Trek creator Gene Roddenberry and Lucile Ball, owner of Desilu Productions.\n\n\nReuters also has photos of costumed attendees. \n\nBut there was also some excitement when an unruly fan shouted over a panel for the Prime Video animated series Helluva Boss. Entertainment Weekly reports it culminated with series star Brandon Rogers shouting \"You need to shut the f--- up right now. I'm going to jump over this fence and end you. It's not cute.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 11, 2026 18:41",
-    "published_at": "2026-10-11T18:41:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Abietec AX61 Wireless Modules Leverage Wi-Fi 6, Bluetooth 5.4, and Matter",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368087",
-    "description": "image Abietec, a subsidiary of Raytac, offers the AX61 series of wireless modules based on NXP’s RW612 and RW610 microcontrollers. The compact modules support Wi-Fi 6, Bluetooth 5.4, and Matter connectivity, with multiple antenna configurations and an accompanying development kit for embedded and IoT applications. The AX61 series integrates a 260MHz Arm Cortex-M33 processor with […]",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368087",
-    "date": "Oct 11, 2026 17:20",
-    "published_at": "2026-10-11T17:20:25Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "A College Told Flock to Remove Its Cameras. The Company Refused.",
-    "link": "https://news.slashdot.org/story/26/10/09/2340244/a-college-told-flock-to-remove-its-cameras-the-company-refused?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "The Chicago Sun-Times reports:\n\n\nWhen Elgin Community College hired Flock Safety to install six surveillance cameras in April 2025, President Peggy Heinrich thought they would \"enhance the safety and security of students....\" They were supposed to help locate stolen cars and missing people. But Heinrich started to wonder if the cameras were actually making students less safe after seeing news reports that data captured by Flock cameras in Illinois had been shared with U.S. Customs and Border Protection. Then in September 2025, Immigration and Customs Enforcement detained an Elgin Community College student in a campus parking lot. More than half of students at the far west suburban Chicago campus identify as Latino. Heinrich said enrollment dipped. Students were afraid to come to class. College officials decided the cameras had to go... \n\n\nCollege officials asked Flock to remove the surveillance cameras \"out of an abundance of caution for our students,\" Heinrich said. But getting the cameras taken down was not as simple as it sounds, especially because Flock retains ownership of the company's equipment.... Surveillance experts say the company is financially incentivized to have as many cameras gathering data as possible even in places that no longer want them, because potential clients are looking for the surveillance network with the greatest reach.... Elgin Community College staff notified Flock in October 2025 that they wanted to cancel their contract and have the cameras taken down. Within a day, Heinrich said, Flock rejected the request and refused to uninstall the equipment on the basis that the company had not breached their agreement. \n\nCollege officials reached out again in December 2025 and said they would pay for the remaining five months of the contract — they just wanted the cameras taken down. \"We never received a response back from Flock,\" Heinrich said. \n\nThat's when things got weird. Heinrich said Elgin Community College staff began to cover the cameras using black trash bags and zip ties so that they would not be able to capture footage. But workers in an unmarked vehicle, which Heinrich assumed belonged to Flock, repeatedly removed the coverings... This strange dance continued, Heinrich said, until Elgin Community College's contract with Flock expired in April this year and the company uninstalled the cameras for good.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 11, 2026 16:34",
-    "published_at": "2026-10-11T16:34:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Fresh Eyes on Old Code: AI and Open Source Security",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368094",
-    "description": "Open source speeds up application development — but is it making our software insecure?",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368094",
-    "date": "Oct 11, 2026 15:48",
-    "published_at": "2026-10-11T15:48:55Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Stable kernels 7.2.10 and 6.18.56",
-    "link": "https://lwn.net/Articles/1099764/",
-    "description": "The 7.2.10 and 6.18.56 stable kernels have been released.\nEach contains another several hundred important fixes.",
-    "guid": "https://lwn.net/Articles/1099764/",
-    "date": "Oct 11, 2026 14:35",
-    "published_at": "2026-10-11T14:35:57Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "Drgn 0.3 Released For This \"Natural\" Programmable Debugger From Meta",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368089",
-    "description": "Drgn is the open-source project out of Meta developing a very versatile debugger with the intent being a debugger focused on programmability with it striving to \"make scripting as natural as possible so that debugging feels like coding.\" Drgn 0.3 released this weekend with the latest round of improvements...",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368089",
-    "date": "Oct 11, 2026 14:17",
-    "published_at": "2026-10-11T14:17:26Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Linux Landing Kernel Workaround For AMD TLBI Erratum #1718",
-    "link": "https://www.phoronix.com/news/Linux-WA-TLBI-Erratum-1718",
-    "description": "AMD TLBI Erratum #1718 was worked around in CPU microcode for addressing a defect in certain Zen CPUs where the Translation Lookaside Buffer Invalidate Instruction use could lead to to stale translation entries. But for those on affected AMD CPUs and not running the updated microcode, a kernel workaround is being introduced with today's Linux 7.3-rc7 kernel and to be back-ported to prior kernel versions...",
-    "guid": "https://www.phoronix.com/news/Linux-WA-TLBI-Erratum-1718",
-    "date": "Oct 11, 2026 13:20",
-    "published_at": "2026-10-11T13:20:00Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
   }
 ]
