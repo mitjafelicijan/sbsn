@@ -1,5 +1,425 @@
 [
   {
+    "title": "Why The Document Foundation Went on a Logo Hunt",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368147",
+    "description": "A new logo separates the foundation from its flagship software — and arrives as the open source office status quo is being turned on its head.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368147",
+    "date": "Oct 13, 2026 18:16",
+    "published_at": "2026-10-13T18:16:18Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Google Launches Flagship AI Model Gemini 4 Argon",
+    "link": "https://tech.slashdot.org/story/26/10/13/1643231/google-launches-flagship-ai-model-gemini-4-argon?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from Reuters: Alphabet's Google on Wednesday released its flagship AI model Gemini 4 Argon to developers and businesses worldwide, seeking to regain ground against rivals OpenAI and Anthropic after months of delays and a leadership shakeup at its DeepMind lab. The model excels at \"deep work\" on complex, multi-step tasks in coding, finance, law, cybersecurity and science, Google said. API pricing at launch starts at $2 per million input tokens and $10 per million output tokens, with rates set to double after November 30.\n \n[...] Argon is available to paying customers through the company's AI application building tools. Google AI Pro and Ultra subscribers can access it through the Gemini app and AI Mode in Search, while the Antigravity coding tool is limited to Ultra subscribers. Teams using Argon in Antigravity increased agentic code submissions by more than 35%, while reducing code rollbacks by nearly a third, Google said. Google also announced the expansion of its Fairwind Program to hundreds of additional partners. \"The program gives vetted cybersecurity defenders a version of Argon without its cyber guardrails,\" reports Reuters. \"In September, the company had said it was providing the model to select cybersecurity partners.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 13, 2026 18:00",
+    "published_at": "2026-10-13T18:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "[$] KDE Linux at two",
+    "link": "https://lwn.net/Articles/1099486/",
+    "description": "KDE Linux, the KDE Project's second\nstab at creating its own distribution, was first introduced as \"Project Banana\"\nat the Akademy conference in 2024 by\nHarald Sitter. Nate Graham announced\nthe first alpha-quality release during Akademy 2025. Graham and Sitter\npaired up at Akademy 2026 to \nprovide an update on its progress, lay out plans for refining the distribution to\naddress user feedback, and discuss some of the problems that still need to be\ndealt with. KDE Linux is still not-quite-ready for prime time, but Graham hopes\nthat it will be suitable for widespread use soon—for an undefined value of\n\"soon\".",
+    "guid": "https://lwn.net/Articles/1099486/",
+    "date": "Oct 13, 2026 17:21",
+    "published_at": "2026-10-13T17:21:14Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "With an Eye on Europe, Mozilla Launches Firefox Enterprise With Self-Hosted Browser Management",
+    "link": "https://feed.itsfoss.com/link/24361/17496630/firefox-enterprise",
+    "description": "Mozilla has announced Firefox Enterprise, a commercial offering for businesses and government agencies. It combines Firefox with a management console that organizations can run on their own servers.",
+    "guid": "6ace60650502180001324665",
+    "date": "Oct 13, 2026 17:16",
+    "published_at": "2026-10-13T17:16:28Z",
+    "image": "https://itsfoss.com/content/images/2026/10/mozilla-business.webp",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "FBI Arrests Canadian Cybersecurity Expert In ShinyHunters Hacking Case",
+    "link": "https://yro.slashdot.org/story/26/10/13/0456223/fbi-arrests-canadian-cybersecurity-expert-in-shinyhunters-hacking-case?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Canadian cybersecurity figures say they were shocked after ransomware negotiator Edward Dubrovsky was reportedly arrested in Pennsylvania in connection with the FBI's ShinyHunters hacking investigation. \"We will continue to work closely with our partners to disrupt what's left of the ShinyHunters group and their associates, no matter where they operate,\" wrote FBI Director Kash Patel on social media. CBC News reports: Reuters reported Sunday that sources familiar with the matter identified the arrested suspect as Ed Dubrovsky, a Canadian cybersecurity executive whose career has focused on helping clients negotiate with ransomware attackers. Court documents from the U.S. District Court for the Eastern District of Pennsylvania show Dubrovsky is facing two criminal charges: conspiracy to threaten to impair the confidentiality of information with the intent to extort money, and interference with commerce by threats. The allegations have not been proven in court.\n \n\"For the cybersecurity community in general, I think that there's a sense of shock,\" Toronto-based tech and cybersecurity analyst Ritesh Kotak told CBC News on Monday. Kotak says Dubrovsky is \"very popular\" and has spoken at numerous conferences, but stressed that the charges \"are clearly just allegations\" and that it is not yet known \"what exactly has happened.\" \"This is an individual that was for the most part respected when it came to ransomware negotiations,\" he said. \"A lot of people are familiar with his work as well.\" ShinyHunters is one of the world's most prolific data theft and extortion groups that's been tied to major campaigns, including a recent breach involving FBI employee data, a cyberattack on Canvas, as well as various cyberattacks affecting companies including Telus, Microsoft, and Ticketmaster.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 13, 2026 17:00",
+    "published_at": "2026-10-13T17:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "ZOTAC CM5-PICO Fanless Industrial PC with Dual HDMI and M.2 Expansion",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368112",
+    "description": "ZOTAC’s ZBOX PRO CM5-PICO is a compact industrial computer powered by the Raspberry Pi Compute Module 5. The fanless system supports dual 4K displays, Gigabit Ethernet, M.2 expansion, and a 40-pin GPIO header, with an aluminum enclosure designed for continuous operation in embedded and edge computing applications. The ZBOX PRO CM5-PICO uses the Broadcom BCM2712 […]",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368112",
+    "date": "Oct 13, 2026 16:44",
+    "published_at": "2026-10-13T16:44:48Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "This New Distro Wants to Achieve What Ubuntu Failed to Do Nearly a Decade Ago",
+    "link": "https://feed.itsfoss.com/link/24361/17496631/luma-first-look",
+    "description": "Currently in beta, it pairs Prairie, a new desktop, with a native app suite and an AI assistant.",
+    "guid": "6accb8e00502180001323e52",
+    "date": "Oct 13, 2026 16:39",
+    "published_at": "2026-10-13T16:39:19Z",
+    "image": "https://itsfoss.com/content/images/2026/10/luma-launch-banner.png",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "Nix and Lix local root-privilege-escalation vulnerabilities",
+    "link": "https://lwn.net/Articles/1100247/",
+    "description": "The Lix and Nix projects have jointly\ndisclosed a set of vulnerabilities that can be used to escalate privileges\nto root on systems running the Lix or Nix daemons. \"All systems that build\nuntrusted derivations are affected.\" Releases with fixes from each project\nare available today. CVE IDs have not yet been requested. See the announcement\nfor more details on the vulnerabilities.\n\n",
+    "guid": "https://lwn.net/Articles/1100247/",
+    "date": "Oct 13, 2026 16:13",
+    "published_at": "2026-10-13T16:13:24Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "Apple Launches HomeView, Its First Smart Display For the Home",
+    "link": "https://apple.slashdot.org/story/26/10/13/1529244/apple-launches-homeview-its-first-smart-display-for-the-home?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Apple has unveiled the $299 HomeView, a 7-inch smart display that combines Siri AI, FaceTime, customizable widgets, and Apple Home controls in a countertop or wall-mounted design. It also acts as a Matter controller and Thread Border Router, supports up to six facial-recognition profiles, and can use personal context from messages, calendars, and email when paired with a nearby Apple Intelligence-capable iPhone. The Verge reports: The device's square shape makes it feel less imposing than larger smart displays like Google's Nest Hub Max or Amazon's Echo Show 11, and I can see it fitting nicely on my kitchen counter -- though it might be a hair too big for my bedside table. The HomeView is the centerpiece of Apple's new push into the home. It costs $299 and launches alongside a new collection of cameras, thermostats, and a door lock designed for Apple Home.\n \nAs a smart home hub, Matter controller, and Thread Border Router, the HomeView can orchestrate these and other Apple Home and Matter smart home devices. It's available in eight countries at launch: the US, UK, Canada, Australia, New Zealand, Singapore, South Africa, and India. Pre-orders are open now, with devices shipping November 13th.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 13, 2026 16:00",
+    "published_at": "2026-10-13T16:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Linux Mint 27 “Adrien” Slated for Release on Christmas, Based on Ubuntu 26.04 LTS",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368146",
+    "description": "The Linux Mint project announced today the codename, version number, and release date of the next major Linux Mint release, Linux Mint 27 “Adrien,” along with various new features and other details.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368146",
+    "date": "Oct 13, 2026 15:13",
+    "published_at": "2026-10-13T15:13:19Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Microsoft Reveals Maia 300 AI Chip As It Works To Reduce Dependence On Nvidia",
+    "link": "https://hardware.slashdot.org/story/26/10/13/0443232/microsoft-reveals-maia-300-ai-chip-as-it-works-to-reduce-dependence-on-nvidia?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from Yahoo Finance: Microsoft has debuted its latest AI chip, the Azure Maia 300, as it looks to reduce its reliance on third-party processors from the likes of Nvidia and AMD. Unveiled at the OCP Global Summit 2026 in San Jose on Monday, the Maia 300 will join Microsoft's Maia 200 and Maia 100 chips as part of what the company said will be multigigawatt deployments beginning next year. The Windows maker said that will make its Maia chips the \"primary AI inference system for Microsoft products and services.\"\n \nThe company said Maia 300 provides 40% more tokens per megawatt than \"leading GPU-based systems,\" a clear swipe at Nvidia, and that a 96-chip rack offers seven times the rack-scale token throughput of Microsoft's Maia 200. [...] The Maia 200 chip currently powers its Microsoft production workloads, including Microsoft 365 Copilot, as well as OpenAI models, Microsoft's MAI models, and open-source models. That provides 1.7 times more tokens per watt for AI capabilities in Microsoft's Teams, Copilot, and Cowork software versus other GPU-based systems, the company said.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 13, 2026 15:00",
+    "published_at": "2026-10-13T15:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Framework Laptop 12 Offers Improved Performance \u0026 Efficiency With Intel Core 3 Wildcat Lake",
+    "link": "https://www.phoronix.com/review/framework-laptop-12-wildcat-lake",
+    "description": "Last year Framework Computer launched the Framework Laptop 12 as a convertible, 2-in-1 laptop that was friendly with Linux and upgradeable inline with the beloved Framework Laptop 13 and 16 models. The initial Framework Laptop 12 was nice but the use of an Intel Raptor Lake U SoC in 2025 wasn't all that exciting. Now though Framework Laptop 12 is available with Intel Core 3 \"Wildcat Lake\" for offering better performance and power efficiency.",
+    "guid": "https://www.phoronix.com/review/framework-laptop-12-wildcat-lake",
+    "date": "Oct 13, 2026 15:00",
+    "published_at": "2026-10-13T15:00:00Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Steam Frame - some early thoughts",
+    "link": "https://www.gamingonlinux.com/2026/10/steam-frame-some-early-thoughts/",
+    "description": "GamingOnLinux has managed to acquire the SteamOS powered Steam Frame VR device, these are some initial thoughts now I've got it all set up.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/10/steam-frame-some-early-thoughts/",
+    "date": "Oct 13, 2026 14:24",
+    "published_at": "2026-10-13T14:24:52Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1471962791id29940gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "openEuler Wants Linux to Treat an Entire AI Cluster Like One Single Machine",
+    "link": "https://feed.itsfoss.com/link/24361/17496297/openeuler-oss-prague",
+    "description": "At Open Source Summit Europe 2026, openEuler laid out how SuperPoD OS and Agentic Scaling change what an operating system is expected to do.",
+    "guid": "6acde5130502180001324312",
+    "date": "Oct 13, 2026 14:02",
+    "published_at": "2026-10-13T14:02:19Z",
+    "image": "https://itsfoss.com/content/images/2026/10/open-euler-oss-eu.webp",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "[$] Owning C types from Rust code",
+    "link": "https://lwn.net/Articles/1099015/",
+    "description": "\nRust's system of ownership and borrowed references is convenient when it can\ncorrectly model a program's needs. The\n\nRust for Linux project has worked to\nprovide adapters between Rust's semantics and the existing C code\nin the kernel. At Kangrejos 2026, Andreas Hindborg spoke about a\n\npatch\nseries implementing the next such adaptor: an Ownable trait for\nrepresenting objects that are allocated in C code, but which Rust code is responsible\nfor cleaning up (if not necessarily deallocating) when it is done with them.\nHe hoped to finally reach a consensus on the patch series, after months of\ndiscussion on the mailing list.\n",
+    "guid": "https://lwn.net/Articles/1099015/",
+    "date": "Oct 13, 2026 13:33",
+    "published_at": "2026-10-13T13:33:13Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "Linux Kernel Developers Plan To Remove \"Assisted-By\" Tag Requirement For AI/LLM Usage",
+    "link": "https://www.phoronix.com/news/Linux-Dropping-Assisted-By-Req",
+    "description": "Currently there is a policy requirement for Linux kernel patches where AI tools contributed, they should be documented with an \"Assisted-by:\" tag to make clear AI was used in the creation of said patch. But Linux kernel developers are now looking at dropping this requirement amid the rampant use of AI/LLMs...",
+    "guid": "https://www.phoronix.com/news/Linux-Dropping-Assisted-By-Req",
+    "date": "Oct 13, 2026 13:28",
+    "published_at": "2026-10-13T13:28:54Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Eisentraut: The reverts will continue until morale improves",
+    "link": "https://lwn.net/Articles/1100182/",
+    "description": "PostgreSQL core\nteam member Peter Eisentraut has written a blog\npost reflecting on the \"unusually high number of features\" that have\nbeen taken out of the upcoming PostgreSQL 19 release since the beta period\nbegan.\n\n\nSome of the reverted features had significant architectural defects that\nwould have been hard to fix quickly and during beta. But there was also a long\ntail of relatively harmless issues involving various edge cases. In past times,\nmany of these would not have surfaced until much later and we would have fixed\nthem bit by bit over the subsequent five years. But with LLM-assisted code\nreview, these kinds of things can get found much faster, and then you're staring\nat a list of like forty defect reports. And even if each of them requires only a\nthree-line fix on average, there is a fixed overhead to dealing with each of\nthese, and then you run out of time. Most if not all of the affected reverted\nfeatures were written a long time ago when LLM-assisted code review was not as\nuseful as it is now, meaning that the effective quality bar has been raised\nafter the time the feature was written and committed. Unless the capabilities of\nLLM-assisted code review keep improving at the current rate, this situation\nshould sort itself out for future development cycles.\n\nA corollary of that is that, at least for the most part, as far as I can\ntell, this situation is not due to \"vibe coding\". This code was written well\nbefore that was a possibility.\n\n\nLWN covered the unusually\nlarge number of bug fixes required for PostgreSQL 19 features in\nSeptember.",
+    "guid": "https://lwn.net/Articles/1100182/",
+    "date": "Oct 13, 2026 13:21",
+    "published_at": "2026-10-13T13:21:34Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "Firefox 159 Beta Released With Fix For Tabs On Wayland",
+    "link": "https://www.phoronix.com/news/Firefox-159-Beta",
+    "description": "With Firefox 158 released, Firefox 159 is now in beta ahead of its official release in two weeks...",
+    "guid": "https://www.phoronix.com/news/Firefox-159-Beta",
+    "date": "Oct 13, 2026 13:14",
+    "published_at": "2026-10-13T13:14:11Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Security updates for Tuesday",
+    "link": "https://lwn.net/Articles/1100181/",
+    "description": "Security updates have been issued by AlmaLinux (cjose, curl, emacs, environment-modules, flatpak, flatpak-builder, gd, glibc, kernel, libxml2, pcre2, and rsyslog), Debian (chromium, keystone, libgit2, librsvg, nagios4, and ntfs-3g), Fedora (baresip, bcm283x-firmware, curl, flare-im, GitPython, iperf3, kernel, libebml, libmatroska, libre, mkvtoolnix, python-mkdocs-rss-plugin, radicale, uboot-tools, and xiphos), Mageia (antlr4-project, cjose, cups, firefox, nss, golang, libextractor, nginx, ntfs-3g, openvpn, perl-DBI, perl-Imager, polkit, rsync, strongswan, thunderbird, tor, ugrep, vlc, and wireshark), Oracle (bind, bind9.16, cjose, compat-openssl10, compat-openssl11, curl, dovecot, emacs, flatpak, jackson-core, jackson-databind, jackson-jaxrs-providers, and jackson-modules-base, kernel, mod_auth_openidc, nodejs:22, tftp, and thunderbird), SUSE (bind, gcc13, gcc48, ghostscript, go1.26, go1.27, helm, libpng16, librsvg, libsoup, libX11, libXi, python, python-anyio, python-Django, python-PyJWT, python-tornado6, python-urllib3, python310, python313-bugzilla, python313-cmarkgfm, python313-colander, python313-configobj, python313-confluent-kafka, python313-django-registration, python313-ecdsa, python313-httptools, python313-imagecodecs, python313-impacket, terraform-provider-aws, terraform-provider-azurerm, terraform-provider-external, terraform-provider-google, terraform-provider-helm, terraform-provider-kubernetes, terraform-provid, thunderbird, unbound, virtiofsd, and xorg-x11-server), and Ubuntu (ffmpeg, google-guest-agent, google-osconfig-agent, and libx11).",
+    "guid": "https://lwn.net/Articles/1100181/",
+    "date": "Oct 13, 2026 13:10",
+    "published_at": "2026-10-13T13:10:55Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "Asterinas 0.19.0 released",
+    "link": "https://lwn.net/Articles/1100055/",
+    "description": "Asterinas is a project to build\na new operating-system kernel in Rust; it was covered here in 2025.  Version\n0.19.0 of the Asterinas kernel has been released; changes include a new\ngraphics subsystem capable of running X.org, \"minimal but usable\"\n64-bit Arm support, better virtualization support, and more.",
+    "guid": "https://lwn.net/Articles/1100055/",
+    "date": "Oct 13, 2026 12:55",
+    "published_at": "2026-10-13T12:55:20Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "Squadron 42 now has a Steam page and new trailer ahead of \"Q2 2027\" release",
+    "link": "https://www.gamingonlinux.com/2026/10/squadron-42-now-has-a-steam-page-and-new-trailer-ahead-of-q2-2027-release/",
+    "description": "Cloud Imperium Games have put up a Steam page for Squadron 42, their cinematic single-player sci-fi adventure game set in the expansive Star Citizen universe.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/10/squadron-42-now-has-a-steam-page-and-new-trailer-ahead-of-q2-2027-release/",
+    "date": "Oct 13, 2026 12:17",
+    "published_at": "2026-10-13T12:17:05Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1845361261id29963gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Ubuntu 27.04 “Tenacious T-Rex” Is Slated for Release on April 22nd, 2027",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368124",
+    "description": "Canonical’s next major Ubuntu release, Ubuntu 27.04, has been dubbed the “Tenacious T-Rex,” and it now has a release schedule with a release date set in stone for April 22nd, 2027.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368124",
+    "date": "Oct 13, 2026 12:10",
+    "published_at": "2026-10-13T12:10:20Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Linux Mint 27 Continues Working Toward Christmas Release With Many Features",
+    "link": "https://www.phoronix.com/news/Linux-Mint-27-Many-Features",
+    "description": "Linux Mint developers continue enjoying their relaxed release schedule in moving from a six to twelve month release cycle. Linux Mint 27 \"Adrien\" continues tracking for a Christmas release...",
+    "guid": "https://www.phoronix.com/news/Linux-Mint-27-Many-Features",
+    "date": "Oct 13, 2026 11:58",
+    "published_at": "2026-10-13T11:58:21Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "ONLYOFFICE 10.0 Released With AI Features, 1,000+ Bug Fixes",
+    "link": "https://www.phoronix.com/news/ONLYOFFICE-10.0",
+    "description": "ONLYOFFICE 10.0 is now available for this open-source office suite alternative to the likes of LibreOffice...",
+    "guid": "https://www.phoronix.com/news/ONLYOFFICE-10.0",
+    "date": "Oct 13, 2026 11:43",
+    "published_at": "2026-10-13T11:43:23Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "After a 10-Year Redemption Arc, No Man's Sky Is Coming to the iPhone and iPad",
+    "link": "https://games.slashdot.org/story/26/10/13/0435236/after-a-10-year-redemption-arc-no-mans-sky-is-coming-to-the-iphone-and-ipad?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "No Man's Sky is coming to iPhone and iPad on October 28, more than a decade after its rocky launch and long-running redemption arc. The title will cost $19.99, but a free trial will let users try it out before purchasing. Ars Technica reports: It will run on devices as far back as the iPhone 11 and the third-generation iPad Air. No Man's Sky might not have the most cutting-edge AAA graphics (though they're still strong, and they've come a long way since launch via updates), but the game's uncommon method of generating galaxies of incomprehensible scale on device consistently for all players from a single-seed happening on a phone is remarkable for those of us who remember phones performing far behind consoles or desktop PCs.\n \nThis version of the game includes all of the content and systems updates to the game that have been added over the years -- the expansions that famously took the game from a rocky launch reception to a widely beloved redemption story. There are a couple of compromises, though, and it's similar to what we saw with No Man's Sky on the Nintendo Switch. Hello Games says the ability to build and explore player-made planetary settlements is limited to the iPhone 15 Pro and later, and multiplayer is not supported on any iOS device. \"We are excited to see player feedback on iOS, and will support it appropriately based on how many folks are playing,\" the company says, leaving the door open to perhaps not supporting all future content updates if the player base isn't there to justify it.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 13, 2026 11:00",
+    "published_at": "2026-10-13T11:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "NVIDIA's Nova Driver Continues Leading The Way For Linux Rust GPU Drivers",
+    "link": "https://www.phoronix.com/news/NVIDIA-Nova-Linux-7.4-Changes",
+    "description": "The DRM Rust changes targeting the Linux 7.4 merge window have been submitted for pulling into DRM-Next ahead of that cycle kicking off (hopefully) next week. The NVIDIA Nova driver continues leading the way for the development of in-kernel Rust GPU drivers and in the process building out the Rust Direct Rendering Manager (DRM) infrastructure...",
+    "guid": "https://www.phoronix.com/news/NVIDIA-Nova-Linux-7.4-Changes",
+    "date": "Oct 13, 2026 10:28",
+    "published_at": "2026-10-13T10:28:11Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Asterinas 0.19.0 Brings Up X.Org \u0026 Other Improvements To This Rust-Written OS",
+    "link": "https://www.phoronix.com/news/Asterinas-0.19-Released",
+    "description": "Asterinas is the open-source project developing a Rust-based, memory-safe Linux alternative OS while striving for Linux software compatibility. Out now is Asterinas 0.19 as the project continues advancing on its goals...",
+    "guid": "https://www.phoronix.com/news/Asterinas-0.19-Released",
+    "date": "Oct 13, 2026 10:14",
+    "published_at": "2026-10-13T10:14:11Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "IREE 3.12 Introduces Rolls Out Rewritten Vulkan Driver, Experimental AMD HSA HAL",
+    "link": "https://www.phoronix.com/news/IREE-3.12-Released",
+    "description": "Rolling out last week was a new version of IREE as the Intermediate Representation Execution Environment for MLIR-based end-to-end compiler and run-time for lowering machine learning models into a unified IR and working across different hardware/driver stacks. Making IREE 3.12 notable is a rewrite to its Vulkan code...",
+    "guid": "https://www.phoronix.com/news/IREE-3.12-Released",
+    "date": "Oct 13, 2026 10:00",
+    "published_at": "2026-10-13T10:00:22Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "RustGIS is a Desktop GIS Tool That Also Runs in a Browser",
+    "link": "https://feed.itsfoss.com/link/24361/17495847/rustgis-open-source-gis-tool",
+    "description": "The Apache-2.0 licensed app is written in Rust and includes an AI Assistant that can run commands on your map.",
+    "guid": "6acdcb9b0502180001324209",
+    "date": "Oct 13, 2026 09:31",
+    "published_at": "2026-10-13T09:31:23Z",
+    "image": "https://itsfoss.com/content/images/2026/10/rustgis-launch-banner.png",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "(Updated) 32-channel logic analyzer supports 1.4GS/s sampling and USB 3.2 Gen2 streaming",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368113",
+    "description": "Sipeed’s SLogic32U3 is a 32-channel logic analyzer designed for high-speed digital capture over USB 3.2 Gen2. The device supports configurable sample rates based on the number of active channels, direct streaming to a host system, optional analog acquisition modules, and software support across Windows, Linux, and macOS. According to the campaign, the SLogic32U3 can sample […]",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368113",
+    "date": "Oct 13, 2026 09:07",
+    "published_at": "2026-10-13T09:07:20Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Clean up a bloody aftermath to grow a terribly weird garden in Goreticulture",
+    "link": "https://www.gamingonlinux.com/2026/10/clean-up-a-bloody-aftermath-to-grow-a-terribly-weird-garden-in-goreticulture/",
+    "description": "Goreticulture is a game about growing a visceral garden as you clean up a bloody aftermath.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/10/clean-up-a-bloody-aftermath-to-grow-a-terribly-weird-garden-in-goreticulture/",
+    "date": "Oct 13, 2026 08:20",
+    "published_at": "2026-10-13T08:20:21Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1419076786id29962gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "One More Flight is an upcoming psychological horror set aboard a doomed flight trapped in a time loop",
+    "link": "https://www.gamingonlinux.com/2026/10/one-more-flight-is-an-upcoming-psychological-horror-set-aboard-a-doomed-flight-trapped-in-a-time-loop/",
+    "description": "This looks like it could be an interesting one. A psychological horror game set aboard a doomed flight trapped in a relentless time loop.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/10/one-more-flight-is-an-upcoming-psychological-horror-set-aboard-a-doomed-flight-trapped-in-a-time-loop/",
+    "date": "Oct 13, 2026 08:05",
+    "published_at": "2026-10-13T08:05:24Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/564981723id29961gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Pick up more games in the Cozy After Dark Showcase Humble Bundle",
+    "link": "https://www.gamingonlinux.com/2026/10/pick-up-more-games-in-the-cozy-after-dark-showcase-humble-bundle/",
+    "description": "More cheap games to add to your collection? Yes! The Cozy After Dark Showcase Humble Bundle is live with 10 games available in it.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/10/pick-up-more-games-in-the-cozy-after-dark-showcase-humble-bundle/",
+    "date": "Oct 13, 2026 07:50",
+    "published_at": "2026-10-13T07:50:50Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1236317573id29960gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Hytale Chapter I: Out of the Breach has arrived as a massive update",
+    "link": "https://www.gamingonlinux.com/2026/10/hytale-chapter-i-out-of-the-breach-has-arrived-as-a-massive-update/",
+    "description": "Hytale Chapter I: Out of the Breach is out now bringing with it a lot of new content, along with a whole new ability system.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/10/hytale-chapter-i-out-of-the-breach-has-arrived-as-a-massive-update/",
+    "date": "Oct 13, 2026 07:40",
+    "published_at": "2026-10-13T07:40:20Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/810067562id29959gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "RimWorld switching from Unity to their own Waylith Engine and a new game was teased",
+    "link": "https://www.gamingonlinux.com/2026/10/rimworld-switching-from-unity-to-their-own-waylith-engine-and-a-new-game-was-teased/",
+    "description": "Ludeon Studios announced a major change the the popular game RimWorld, as they're moving away from Unity to their own game engine - and a new game is coming.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/10/rimworld-switching-from-unity-to-their-own-waylith-engine-and-a-new-game-was-teased/",
+    "date": "Oct 13, 2026 07:12",
+    "published_at": "2026-10-13T07:12:44Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1171797760id29958gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Proton Experimental gets updated to fix a prefix corruption bug and more",
+    "link": "https://www.gamingonlinux.com/2026/10/proton-experimental-gets-updated-to-fix-a-prefix-corruption-bug-and-more/",
+    "description": "A smaller update to Proton Experimental landed for October 12th, but one of the fixes is quite a major one (although a rare issue).Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/10/proton-experimental-gets-updated-to-fix-a-prefix-corruption-bug-and-more/",
+    "date": "Oct 13, 2026 07:04",
+    "published_at": "2026-10-13T07:04:32Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1185026006id29957gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "A New 'Super Ice' Is 10 Times Stronger, Bringing It Close to The Strength of Concrete",
+    "link": "https://science.slashdot.org/story/26/10/13/0428248/a-new-super-ice-is-10-times-stronger-bringing-it-close-to-the-strength-of-concrete?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Researchers have created a strengthened \"BioPykrete\" by combining ice with cellulose nanocrystals and a custom protein that binds the plant-based crystals to the ice structure. In small-scale tests, the material was about 10 times stronger than regular ice and absorbed 70 times more energy before breaking. ScienceAlert reports: Instead of wood pulp's larger, disordered fibers, the researchers used cellulose nanocrystals here. Cellulose is the main structural material in plants, and in nanocrystal form, it can act as a microscopic strengthening agent for other materials, including ice -- essentially stopping cracks from spreading easily. The protein used here was called CBM3a-AFPIII, a combination of an antifreeze protein (AFP) and a carbohydrate-binding module (CBM). Its job was to act like glue, keeping the cellulose nanocrystals and ice bonded together.\n \nIt's a clever approach, and the researchers think that by tweaking their ingredients and methods, they might be able to improve their 'super ice' even further. \"Optimizing solidification kinetics and freezing protocols, alongside developing diverse AFP-CBM variants, could yield even higher-strength composites,\" write the researchers. Besides further tests of the durability of the material, the researchers are also keen to take a closer look at how cracks propagate through BioPykrete, to confirm that the underlying strengthening mechanisms are what they think they are.\n \nFurther down the line, this approach could open up a whole new landscape for materials used in packaging, construction, and more: Using a custom protein to bring two unlikely compounds (ice and cellulose) together. \"By bridging the gap between recombinant protein design and structural engineering, we have developed a high-performance material specifically engineered for the rigors of the world's most extreme environments,\" write the researchers. The findings have been published in the journal Colloids and Surfaces B: Biointerfaces.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 13, 2026 07:00",
+    "published_at": "2026-10-13T07:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Bazzite Linux update for October 12 brings many more bug fixes",
+    "link": "https://www.gamingonlinux.com/2026/10/bazzite-linux-update-for-october-12-brings-many-more-bug-fixes/",
+    "description": "The next smaller release of Bazzite Linux is out now, bringing with it bug fixes for various handhelds and more improvements.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/10/bazzite-linux-update-for-october-12-brings-many-more-bug-fixes/",
+    "date": "Oct 13, 2026 06:58",
+    "published_at": "2026-10-13T06:58:44Z",
+    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/bazzite.jpg",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "What is C Shell (and Tcsh) in UNIX/Linux System",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368134",
+    "description": "The C shell (or CSH) and Tcsh were the earliest UNIX/Linux shell interpreters in the late 1970s, inspired by the C programming language.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368134",
+    "date": "Oct 13, 2026 06:04",
+    "published_at": "2026-10-13T06:04:21Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "With 10.0 Release, ONLYOFFICE Goes All in on AI, Making it the Most Modern Office Choice for Team Collaboration",
+    "link": "https://feed.itsfoss.com/link/24361/17495460/onlyoffice-docs-10-release",
+    "description": "There are apps for workflows and then every editor gets AI tools and new upgrades of its own in the latest release of ONLYOFFICE.",
+    "guid": "6ac4b5d77834300001c58135",
+    "date": "Oct 13, 2026 05:02",
+    "published_at": "2026-10-13T05:02:18Z",
+    "image": "https://itsfoss.com/content/images/2026/10/onlyoffice-10-release.webp",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
     "title": "Linus Torvalds On Why AI Works For Him",
     "link": "https://linux.slashdot.org/story/26/10/13/034206/linus-torvalds-on-why-ai-works-for-him?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
     "description": "An anonymous reader quotes a report from ZDNet: Many open-source developers still dislike AI. The latest example is System76 banning AI-generated content from its COSMIC desktop. At Open Source Summit Europe, Linux creator Linus Torvalds offered a different take: \"I actually really like using AI,\" Torvald told Dirk Hohndel, his good friend and head of Ericsson Software Technology, in their latest discussion. [...] Torvalds said, \"I think that you need to be very careful using AI when you're doing something real and important.\" Torvalds explained he hadn't always felt that way about AI programming. \"I used to think it was just not very good -- but now I'm at the point where I actually really like using AI.\"\n \n\"To be fair,\" he continued, \"I don't do a lot of kernel programming. I'm a maintainer. The Linux kernel is a project where other people do the real work, and I act as the collection point. But I still enjoy programming immensely. I think AI is a wonderful tool if you use it correctly and treat it as a tool, and I find it makes programming much more enjoyable.\" Torvalds recalled, \"I started programming in 1981 or so, and back then computers were much simpler, and you could understand what they were doing, and also the programs you compared your own programs to were much simpler.\"\n \n\"It's a different story today,\" Torvalds said. \"The bar in software engineering has grown so high that it's hard to see your own small efforts as worth anything, because you're used to all these polished, professional programs. [...] A lot of people make fun of vibe coding, but I think it's a wonderful way to find joy in programming. It makes you feel like you're doing something relevant. It allows you, as a new programmer, to do things that you would otherwise have a really hard time with.\"\n \nHe continued: \"I love the concept of AI as a gateway drug because I was working on my own toy project, the guitar pedal, and I knew what I was doing. I had a user interface that I had written myself in C that was running on a microcontroller that was running on this small screen, and I was like, \"This is just stupid. It looks like something from the '80s; I wanted it to look like something from this century. But I don't do Java. I do kernels.\" \"So, I use AI to do the things that I'm bad at,\" Torvalds went on, \"I'd seen all the same YouTube videos you have. Give AI a prompt, and it will do it. So I gave it a prompt, and it did it, and it was horrendous. Then I said, 'Hey, look! I already did this in C. I did it the right way. It's just ugly.\" Torvalds acknowledged that AI tools are helping identify security vulnerabilities and improve the Linux kernel, but at the cost of overwhelming maintainers with questionable bug reports and superficial fixes. He called some submissions \"mindless band-aid kind of patches.\"\n \nThat said, despite AI's growing influence, Torvalds believes Linux's success comes from steady, incremental development rather than sweeping changes. \"I'm a big believer in the whole incremental small changes that, over time, turn into big features,\" he said. The development goal remains \"incremental improvement and steady progress all the time.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
@@ -9,6 +429,16 @@
     "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
     "source": "slashdot.org",
     "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Linus Torvalds \"Did What I Preach\", Used AI To Make Code Decipherable \u0026 Uncovered More Bugs",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368119",
+    "description": "After using Claude Code to draft code to help make a fundamental improvement to the Linux kernel, Linux creator Linus Torvalds continued using AI this weekend and talking up its benefits. Beyond generating initial patches and a test program for that noted I/O enhancement, he separately talked up using AI/LLMs for making patches more decipherable to understand in the process the AI noted more long-standing bugs within the Linux kernel...",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368119",
+    "date": "Oct 13, 2026 03:01",
+    "published_at": "2026-10-13T03:01:22Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
   },
   {
     "title": "LumineCapture Is a New Screenshot Tool Built for Speed on Linux",
@@ -37,6 +467,16 @@
     "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368114",
     "date": "Oct 12, 2026 23:58",
     "published_at": "2026-10-12T23:58:24Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Linux 7.3-rc7 Released With Linux 7.3 Hopefully Out Next Weekend",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368116",
+    "description": "Linus Torvalds has made available what is hopefully the final release candidate before Linux 7.3 is ideally minted next Sunday...",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368116",
+    "date": "Oct 12, 2026 22:26",
+    "published_at": "2026-10-12T22:26:55Z",
     "source": "lxer.com",
     "source_url": "https://lxer.com/"
   },
@@ -169,17 +609,6 @@
     "source_url": "https://lwn.net"
   },
   {
-    "title": "Q3 2026 Was Historically Bad For PC Shipments",
-    "link": "https://hardware.slashdot.org/story/26/10/12/0134221/q3-2026-was-historically-bad-for-pc-shipments?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "PC shipments fell 20.1% year over year to 62.7 million units in the third quarter of 2026, the worst Q3 decline IDC has recorded. \"The top three PC makers -- Lenovo, Dell, and HP -- also saw their shipments fall by over 20% year over year,\" reports PCMag. From the report: \"If looking at all quarters, then we have seen other quarters in recent years with larger declines, such as 2022Q4, which was -28.2%, and 2023Q1, which was -28.7%. Both were coming off pandemic highs,\" IDC Director Jitesh Ubrani told PCMag in an email. The numbers aren't a great sign, since third-quarter PC shipments usually outpace those in the second quarter as vendors introduce new products ahead of the holiday shopping season. Instead, PC shipments were at 62.7 million units, down 9.1% from the previous quarter.\n \n[...] Of course, the downturn isn't a surprise. IDC and other research firms have warned that the ongoing AI-driven memory shortage threatens to sap demand for PCs and phones due to soaring memory and storage costs. \"What we're seeing is the result of the strong first half pull-in. Vendors and channels loaded up on inventory early in the year to get ahead of [memory-related] price hikes, and that has thrown off the usual seasonality, where Q3 is typically larger than Q2,\" Ubrani said in a report covering IDC's preliminary estimates for the quarter.\n \nIn one bright spot, Ubrani said vendors and retailers might cut prices to generate interest and clear out products they have in stock. \"Channels are now worried about carrying too much inventory into a market where high prices are suppressing demand. That could translate into promotions and some short-term relief for consumers, but we don't expect pricing anywhere near what it was a year ago. Prices will remain elevated,\" he added.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 12, 2026 15:00",
-    "published_at": "2026-10-12T15:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
     "title": "openEuler is Revamping the Development Experience of the Open Source Community With an AI Toolchain",
     "link": "https://feed.itsfoss.com/link/24361/17494578/openeuler-rebuilding-ai-developer-workflow",
     "description": "AI now reviews code and fixes CVEs in the community's pipelines, DevStation moves to a 2-week update cycle, and openEuler is layering an agent-native OS on top.",
@@ -242,17 +671,6 @@
     "source_url": "https://lxer.com/"
   },
   {
-    "title": "Should We Beware of Other License Plate Surveillance Companies Besides Flock?",
-    "link": "https://yro.slashdot.org/story/26/10/09/2131241/should-we-beware-of-other-license-plate-surveillance-companies-besides-flock?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "NPR reports:\n\n\nPolice officers in cities across the U.S. are quick to extol the virtues of real-time crime centers as a game changer that helps them find missing children, monitor large events from the skies and scope out dangerous scenes before putting an officer in harm's way. Hundreds of police departments have one of these central hubs, which have existed for years. But many are now being powered with AI software, such as Fusus, from the public-safety technology giant Axon... synthesizing the data it pulls in and allowing police command centers to watch an entire city from one place. \n\nFlock cameras, the automated license plate readers (ALPRs), have faced intense backlash in recent months amid stories of abuse. Yet privacy experts say they're just the tip of the iceberg when it comes to police surveillance. \"I have been watching the debate about Flock with a little bit of puzzlement,\" says Andrew Guthrie Ferguson, a law professor at George Washington University. \"Because real-time crime centers have not just ALPR cameras and sensors, but video analytics and drones and essentially a way to create a visual single-pane-of-glass vision of what's going on in a city, with time machine capabilities where you can go back and investigate crime.\" Tools like Axon Fusus, which is a leader in this type of software, also pull in footage and data from police body cameras, law enforcement dashcams, 911 dispatch, gunshot detectors and surveillance cameras, including sometimes those of private businesses that opt in. Its use is growing fast. In 2024, the technology news site 404 Media reported that just over 100 law enforcement agencies had deployed Fusus, which was then its own company and was acquired by Axon that year. The number of law enforcement agencies using the tool has more than doubled since then, according to Axon. \n\n\nEven the American Civil Liberties Union warned concerned citizens in August that \"Flock is far from the only vendor,\" adding that \"it's important to realize that its competitors aren't so great either, and that simply replacing Flock surveillance with another company's surveillance won't necessarily solve any of the privacy and other civil liberties problems posed by this mass surveillance technology.\"\n\nCommunities can't simply assume that their residents will be better off from a privacy and civil liberties perspective by dropping Flock and replacing it with another ALPR provider, as some customers have done. They should ask hard questions about whether they really want to create that kind of a system, and if they do, ensure it doesn't function as a mass surveillance system... \nOne of Flock's most significant competitors is Motorola. This company, which has been expanding its police technology offerings through an aggressive acquisition strategy in recent years, offers a nationwide law enforcement data sharing system similar to Flock's called the National Vehicle Location Service, operated by Motorola unit Vigilant Solutions. In addition to collecting data from law enforcement clients' cameras, it also runs a large separate commercial ALPR unit that makes deals for tow trucks and other fleet vehicles to carry cameras and collect data for Motorola as they drive around, amassing billions of plate reads (a claimed 500 million monthly, subject to no apparent data retention policy). Known as the Digital Recognition Network, that unit sells its data for commercial purposes but also makes it available to its law enforcement customers for an extra charge. Motorola tells agencies they can have \"access to billions of detections beyond your own.\" \n\nAbandoning Flock for another system doesn't protect privacy, their article argues. \"If a jurisdiction decides to allow license scanners to be installed, how that system operates is more important than which vendor provides it...\" They recommend strong restrictions like data retention limits — and imposing them by law rather than in the language of contracts with vendors (which could always be renegotiated).\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 12, 2026 11:34",
-    "published_at": "2026-10-12T11:34:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
     "title": "Linux 7.4 To Upstream Support For Three Snapdragon X2 Elite Laptops",
     "link": "https://www.phoronix.com/news/ASUS-UX3407NA-Linux-7.4",
     "description": "For those looking to run Linux on new Qualcomm Snapdragon X2 hardware, there are laptops from ASUS, HP, and Lenovo that are powered by the X2 Elite and will be supported with the mainline Linux 7.4 kernel...",
@@ -261,277 +679,5 @@
     "published_at": "2026-10-12T11:16:13Z",
     "source": "phoronix.com",
     "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Zymbit ZYMKEY 5 Security Module Offers 640 Key Slots for Raspberry Pi",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368086",
-    "description": "Zymbit’s ZYMKEY 5 is a compact hardware security module for Raspberry Pi systems, offering 640 key slots, filesystem encryption, device authentication, and physical tamper detection. It also supports additional cryptographic algorithms compared to its predecessor. The ZYMKEY 5 measures 39 × 14 × 5.3mm and uses a mini-HAT form factor that connects to the first […]",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368086",
-    "date": "Oct 12, 2026 10:16",
-    "published_at": "2026-10-12T10:16:41Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Linus Torvalds \"Did What I Preach\", Used AI To Make Code Decipherable \u0026 Uncovered More Bugs",
-    "link": "https://www.phoronix.com/news/Linus-Torvalds-Assoc-Array",
-    "description": "After using Claude Code to draft code to help make a fundamental improvement to the Linux kernel, Linux creator Linus Torvalds continued using AI this weekend and talking up its benefits. Beyond generating initial patches and a test program for that noted I/O enhancement, he separately talked up using AI/LLMs for making patches more decipherable to understand in the process the AI noted more long-standing bugs within the Linux kernel...",
-    "guid": "https://www.phoronix.com/news/Linus-Torvalds-Assoc-Array",
-    "date": "Oct 12, 2026 10:03",
-    "published_at": "2026-10-12T10:03:00Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Intel Posts Updated Linux Driver Code For HDMI 2.1 FRL On Meteor Lake \u0026 Newer",
-    "link": "https://www.phoronix.com/news/Intel-HDMI-2.1-FRL-Linux-v2",
-    "description": "Following AMD completing their HDMI 2.1 implementation for the open-source AMDGPU Linux driver after beginning with HDMI FRL patches earlier in the year, Intel's open-source driver developers are following in their footsteps...",
-    "guid": "https://www.phoronix.com/news/Intel-HDMI-2.1-FRL-Linux-v2",
-    "date": "Oct 12, 2026 09:44",
-    "published_at": "2026-10-12T09:44:00Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "EXT4 Introducing IOmap Buffered I/O Path With Some Performance Gains",
-    "link": "https://www.phoronix.com/news/EXT4-iomap-Buffered-IO",
-    "description": "EXT4 with the upcoming Linux 7.4 kernel looks like it will introduce opt-in support for IOmap buffered I/O in replacing the file-system's buffer_head usage with IOmap...",
-    "guid": "https://www.phoronix.com/news/EXT4-iomap-Buffered-IO",
-    "date": "Oct 12, 2026 09:27",
-    "published_at": "2026-10-12T09:27:52Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Guide: What Steam Deck, Steam Machine, Steam Frame and SteamOS verified ratings mean",
-    "link": "https://www.gamingonlinux.com/guides/view/what-steam-deck-steam-machine-steam-frame-and-steamos-verified-ratings-mean",
-    "description": "Confused by all the different compatibility ratings across Steam Deck, Steam Machine, Steam Frame and SteamOS? Here's a clear explainer for them in one place.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/guides/view/what-steam-deck-steam-machine-steam-frame-and-steamos-verified-ratings-mean",
-    "date": "Oct 12, 2026 09:03",
-    "published_at": "2026-10-12T09:03:07Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1799175260id29955gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Linuxiac Weekly Wrap-Up: Week 41, 2026 (October 5 – 11)",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368108",
-    "description": "Catch up on the latest Linux news: Python 3.15, COSMIC Desktop 1.10, OpenSSH 10.6, Tmux 3.8, NVIDIA 615.78.08, Flathub reverses AI-generated app ban, and more.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368108",
-    "date": "Oct 12, 2026 08:45",
-    "published_at": "2026-10-12T08:45:11Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Linux 7.3-rc7 Released With Linux 7.3 Hopefully Out Next Weekend",
-    "link": "https://www.phoronix.com/news/Linux-7.3-rc7-Released",
-    "description": "Linus Torvalds has made available what is hopefully the final release candidate before Linux 7.3 is ideally minted next Sunday...",
-    "guid": "https://www.phoronix.com/news/Linux-7.3-rc7-Released",
-    "date": "Oct 12, 2026 08:44",
-    "published_at": "2026-10-12T08:44:15Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Pimax to improve Linux VR support, announces Crystal Pro headset and their own Steam Machine",
-    "link": "https://www.gamingonlinux.com/2026/10/pimax-to-improve-linux-vr-support-announces-crystal-pro-headset-and-their-own-steam-machine/",
-    "description": "Pimax recently revealed a new high-end VR kit, along with their own version of a Steam Machine, and they plan better Linux support overall.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/10/pimax-to-improve-linux-vr-support-announces-crystal-pro-headset-and-their-own-steam-machine/",
-    "date": "Oct 12, 2026 08:28",
-    "published_at": "2026-10-12T08:28:47Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1426096447id29954gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "SEEDS - Echoes Beneath the Sands is an upcoming survival game about terraforming and restoring life",
-    "link": "https://www.gamingonlinux.com/2026/10/seeds-echoes-beneath-the-sands-is-an-upcoming-survival-game-about-terraforming-and-restoring-life/",
-    "description": "Developer Against All Odds revealed SEEDS - Echoes Beneath the Sands, a very interesting sounding sandbox survival game about terraforming and creating life.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/10/seeds-echoes-beneath-the-sands-is-an-upcoming-survival-game-about-terraforming-and-restoring-life/",
-    "date": "Oct 12, 2026 08:09",
-    "published_at": "2026-10-12T08:09:27Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/453797832id29953gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "ScummVM 2026.4 brings nearly 200 newly supported retro games",
-    "link": "https://www.gamingonlinux.com/2026/10/scummvm-2026-4-brings-nearly-200-newly-supported-retro-games/",
-    "description": "ScummVM 2026.4.0 has released, bringing with it support for nearly 200 more retro games across 12 different game engines.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/10/scummvm-2026-4-brings-nearly-200-newly-supported-retro-games/",
-    "date": "Oct 12, 2026 07:50",
-    "published_at": "2026-10-12T07:50:51Z",
-    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/scummvm.jpg",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Cardsharp has you play Blackjack in a dark room where you might lose a finger",
-    "link": "https://www.gamingonlinux.com/2026/10/cardsharp-has-you-play-blackjack-in-a-dark-room-where-you-might-lose-a-finger/",
-    "description": "A demo for Cardsharp is available for you to try it early. Think Blackjack, except your five fingers are your health bar.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/10/cardsharp-has-you-play-blackjack-in-a-dark-room-where-you-might-lose-a-finger/",
-    "date": "Oct 12, 2026 07:44",
-    "published_at": "2026-10-12T07:44:14Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1579277598id29951gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Design and customize your own space platform in the auto-battler NebulArena",
-    "link": "https://www.gamingonlinux.com/2026/10/design-and-customize-your-own-space-platform-in-the-auto-battler-nebularena/",
-    "description": "Another demo worth checking out if you like autobattlers, NebulArena has you build up a space platform and watch the chaos.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/10/design-and-customize-your-own-space-platform-in-the-auto-battler-nebularena/",
-    "date": "Oct 12, 2026 07:36",
-    "published_at": "2026-10-12T07:36:45Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/445804635id29950gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "runz is a top-down roguelite arena shooter where every bullet in your magazine matters",
-    "link": "https://www.gamingonlinux.com/2026/10/runz-is-a-top-down-roguelite-arena-shooter-where-every-bullet-in-your-magazine-matters/",
-    "description": "Available with a demo now, runz is a top-down twin-stick shooter in the spirit of Brotato and others similar, but with a twist where your build is your gun mag.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/10/runz-is-a-top-down-roguelite-arena-shooter-where-every-bullet-in-your-magazine-matters/",
-    "date": "Oct 12, 2026 07:26",
-    "published_at": "2026-10-12T07:26:03Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/603398946id29949gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "How the US Nuclear Plant Fleet Is Leaning Into AI",
-    "link": "https://hardware.slashdot.org/story/26/10/12/0445233/how-the-us-nuclear-plant-fleet-is-leaning-into-ai?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "\"This year, nearly the entire fleet of 94 U.S. nuclear reactors has been offered the chance to integrate AI into its operations, and most have taken it,\" reports IEEE Spectrum:\n\n\nIn August, California-based Atomic Canyon launched NIVA, the Nuclear Industry Virtual Assistant, which was developed in cooperation with nuclear-industry groups. The assistant was pilot-tested in nuclear plants run by Constellation Energy and is now available to the United States' entire fleet of reactors.... Meanwhile, the AI-for-nuclear startup Nuclearn says its products have gone to work with more than 65 U.S. partners, a total that includes many traditional plants but also an integration with NuScale Power Corp. that is working toward advanced small nuclear reactors. Microsoft and Nvidia have collaborated on a project to apply AI toward optimizing \"the entire life cycle of a nuclear plant, spanning site permitting, design, construction, and continuous operations.\" \n\nThe reason for the rapid adoption, according to Nuclearn CFO and cofounder Jerrold Vincent, is twofold. First, the technology companies banking their futures on AI are also keen on a revival of nuclear power to provide the electricity for all those data centers. Vincent says AI is also ideal for addressing some of the nuclear industry's most pressing problems. Many of the things that make reactors so difficult to operate — intricate regulations, along with complex systems for management and maintenance — are exactly the kinds of tasks that AI is good at. The industry is staggering to deal with aging hardware and an aging workforce. If it is going to survive, and have a real shot at a nuclear revival, it will need help from machine intelligence, Vincent says... \n\nRight now, the principal output of a nuclear reactor (aside from electricity) is paperwork. Nuclear plants produce piles of documentation to demonstrate regulatory compliance and to record how they respond to any potential problem, from a crack in the sidewalk to a fault in the reactor... Nuclearn's AI products help plants search through large repositories of data more efficiently to more quickly file paperwork with the federal government or figure out how a particular problem was solved in the past. \"If you think of it as ChatGPT for nuclear,\" he says, \"it's actually not a bad place to start.\" \n\nIt's especially important because the nuclear power industry \"has a remarkably skilled but quickly shrinking workforce tasked with keeping old reactors online and possibly starting up new ones to meet surging demand for electricity,\" the article points out. \n\nIt also stresses that \"So far, both the Nuclearn and NIVA large language models used in the nuclear world report to humans and don't go anywhere near power plant operations.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 12, 2026 07:22",
-    "published_at": "2026-10-12T07:22:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Brews \u0026 Kings is an upcoming city-builder about brewing",
-    "link": "https://www.gamingonlinux.com/2026/10/brews-kings-is-an-upcoming-city-builder-about-brewing/",
-    "description": "A city builder about brewing. Grow grain and vines, scout the wilderness for pure water and rare ingredients, brew and ferment in your own cellars.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/10/brews-kings-is-an-upcoming-city-builder-about-brewing/",
-    "date": "Oct 12, 2026 07:15",
-    "published_at": "2026-10-12T07:15:44Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/60708798id29948gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "What is SystemD on Linux?",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368110",
-    "description": "This article will teach you what systemd is and why it replaced SysVinit; what systemd unit files are; how to list all and specific unit files; and how to view the content of a unit configuration file.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368110",
-    "date": "Oct 12, 2026 07:13",
-    "published_at": "2026-10-12T07:13:42Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Pebble Round 2 Open-Source Smartwatch Finally Starts Shipping",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368105",
-    "description": "Pebble Round 2 begins shipping after production delays, bringing its circular e-paper display, PebbleOS, and updated battery life to users.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368105",
-    "date": "Oct 12, 2026 05:42",
-    "published_at": "2026-10-12T05:42:12Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Blender 5.3 Enters Public Beta Testing with Vulkan Backend by Default on Linux",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368100",
-    "description": "The Blender Foundation released today the beta version of the upcoming Blender 5.3 series of this open-source, free, and cross-platform 3D computer graphics software suite.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368100",
-    "date": "Oct 12, 2026 04:10",
-    "published_at": "2026-10-12T04:10:43Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Kernel prepatch 7.3-rc7",
-    "link": "https://lwn.net/Articles/1099798/",
-    "description": "The 7.3-rc7 kernel prepatch is out for\ntesting.  According to Linus: \"As always, I would have preferred to see a smaller\nrc, but it's not like anything in here looks like a reason to delay\nthe final release. So that's still set for next weekend unless\nsomething new comes up.\"\n\n\nOne notable change that slipped into the mainline this week is the deprecation\nof the ext4 data=journal mode; it will be removed entirely at the\nbeginning of 2028.",
-    "guid": "https://lwn.net/Articles/1099798/",
-    "date": "Oct 12, 2026 03:31",
-    "published_at": "2026-10-12T03:31:34Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "Let's Encrypt to Cut SSL Certificate Lifetimes to 64 Days in February 2027",
-    "link": "https://it.slashdot.org/story/26/10/12/0211238/lets-encrypt-to-cut-ssl-certificate-lifetimes-to-64-days-in-february-2027?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Let's Encrypt \"will shorten the default validity period of its TLS certificates from 90 days to 64 days, starting February 10, 2027,\" reports the blog Linuxiac:\n\nAll certificates issued or renewed from that date will have a 64-day lifespan unless users explicitly select one of the shorter options already available: 45 or six days. \n\nExisting certificates will remain valid until their expiration dates. Let's Encrypt expects the final 90-day certificate to expire on May 11, 2027. The organization also confirmed no valid certificates will be revoked during the transition. To help administrators prepare, Let's Encrypt will introduce 64-day certificates in its staging environment on October 14, 2026, allowing users to test their renewal setups before the change reaches production. \nThe move is part of a broader effort to improve web security by reducing how long compromised or incorrectly issued certificates remain usable... Looking further ahead, the organization plans to reduce the default certificate lifetime again, this time to 45 days in 2028. That makes the upcoming 64-day limit an intermediate step rather than the final destination.\n \n\n\"Administrators using cron jobs or scripts with hardcoded renewal intervals should review their configurations,\" the article suggests. \n\"Another upcoming change concerns domain validation. Let's Encrypt will reduce the period during which a previously completed domain authorization can be reused from 30 days to 10 days. In 2028, that period will shrink further to just seven hours.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 12, 2026 03:09",
-    "published_at": "2026-10-12T03:09:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "LineageOS 24.0 Open-Source Mobile OS Released with Android 17",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368107",
-    "description": "The open-source mobile OS LineageOS 24.0 launches with Android 17, a new photo editor, improved updates, and redesigned system applications.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368107",
-    "date": "Oct 12, 2026 02:39",
-    "published_at": "2026-10-12T02:39:13Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Game Console Market Craters: Xbox and PS5 Sales Plummet Over 25%",
-    "link": "https://hardware.slashdot.org/story/26/10/12/018224/game-console-market-craters-xbox-and-ps5-sales-plummet-over-25?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "\"Video game console sales in the U.S. have cratered,\" reports Tom's Hardware, with sales through August far below where they'd been in 2025:\n\n\nMat Piscatella, the video game industry advisor at research firm Circana, shared the numbers on his Bluesky account — PlayStation 5 sales have dropped by 25%, putting it at its lowest point since 2013, when gamers held off buying PlayStation consoles in anticipation of the arrival of the PS4, while Xbox's retail figures have cratered by 33% YTD, putting its sales numbers at an all-time low since its launch almost 25 years ago. \n\nPiscatella said price sensitivity is becoming a real problem among gamers, especially as the chip shortage has pushed console manufacturers to raise prices. Microsoft has raised the price of the Xbox three times in the past two years, with the 512GB versions jumping by $100 and 1TB models becoming $150 more expensive. Worse, the company has killed off the 2TB model. This brought the Xbox Series S to $499.99 (512GB) and $599.99 (1TB), while the Xbox Series X now costs $749.99 for the Digital Edition, and the disc version costs $50 more at $799.99. \n\nPlayStation fans haven't escaped these price hikes, as Sony raised prices for that console by $100 to $150. The base Digital Edition PS5 now costs $599.99, while the version with an optical drive is priced at $649.99. If you want the PS5 Pro, you'll have to shell out $899.99, while those who want to stream games from their console via the PlayStation Portal must now pay $249.99 — $50 higher than its $199.99 launch price. Even used consoles didn't escape inflation, with Sony bumping the price of refurbished PS5 Slim consoles by $100, bringing them to $399.\n\n \n\n\"Still, Piscatella says the U.S. hardware market has never been more precarious since the early 1980s.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 12, 2026 01:09",
-    "published_at": "2026-10-12T01:09:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Linus Torvalds Working On A Hefty Linux Kernel Improvement With Claude Code",
-    "link": "https://www.phoronix.com/news/Linus-Torvalds-Claude-Code",
-    "description": "Linux creator Linus Torvalds has been known to use AI to help with kernel debugging and outside of the kernel tree has also done some vibe coding with Google's Antigravity. He has previously said he views AI as a useful tool. It turns out he's even now using Claude Code for working on new Linux kernel features...",
-    "guid": "https://www.phoronix.com/news/Linus-Torvalds-Claude-Code",
-    "date": "Oct 12, 2026 00:16",
-    "published_at": "2026-10-12T00:16:25Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Research Firm Calls Anthropic's Upcoming IPO 'Unprecedented Test of Investor Gullibity'",
-    "link": "https://slashdot.org/story/26/10/11/2355238/research-firm-calls-anthropics-upcoming-ipo-unprecedented-test-of-investor-gullibity?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "CNBC reports:\n\nAs Anthropic barrels toward a potential $2 trillion market cap on the Nasdaq, one research firm is valuing the artificial intelligence company at a mere $150 billion and says Wall Street is about to face an \"unprecedented test of investor gullibility.\" In a report on Tuesday, independent financial research provider New Constructs called Anthropic's upcoming offering the \"most ridiculous IPO of 2026.\" \n\nTo reach its desired valuation, the firm estimates Anthropic would need to record double the trailing year of profit for Nvidia, the world's most valuable tech company. Nvidia's net income over the past four quarters topped $190 billion. Meanwhile, Anthropic's revenue in 2025 was $4.6 billion as the company racked up a net loss of $42 billion, according to Reuters, which cited a leaked copy of the company's prospectus.\nAnthropic's mounting operating losses coupled with emerging competition from a plethora of open-source models led New Constructs to conclude that, \"We don't think Anthropic has a viable business....\" \n\n\nAnthropic didn't respond to a request for comment... \nThe New Constructs report also notes that Anthropic's assertion that AI could pose \"a catastrophic or existential risk to humanity\" is another reason why investors should avoid the IPO. \n\nReuters reported that Anthropic's IPO prospectus \"highlights risks associated with its AI models, which it said could exhibit 'self-preserving behaviors,' including attempts to 'resist shutdown,' to 'conceal or manipulate information' and behavior 'resembling blackmail.'\" Now Bloomberg writes that \"investors considering Anthropic's planned mega-IPO are grappling with an unusual, and more than a little scary, conundrum: How to value a company that some fear could help wipe out the human race?\" \n\nAnthropic's valuation also drew some scrutiny from\na senior analyst at PitchBook.\n\"A $2 trillion price is about 435 times 2025 revenue, less than 44 times the annualized second-quarter revenue of more than $46 billion and just under 31 times the July run rate.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 11, 2026 23:58",
-    "published_at": "2026-10-11T23:58:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Linux Landing Kernel Workaround For AMD TLBI Erratum #1718",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368093",
-    "description": "AMD TLBI Erratum #1718 was worked around in CPU microcode for addressing a defect in certain Zen CPUs where the Translation Lookaside Buffer Invalidate Instruction use could lead to to stale translation entries. But for those on affected AMD CPUs and not running the updated microcode, a kernel workaround is being introduced with today's Linux 7.3-rc7 kernel and to be back-ported to prior kernel versions...",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368093",
-    "date": "Oct 11, 2026 23:26",
-    "published_at": "2026-10-11T23:26:22Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "9to5Linux Weekly Roundup: October 11th, 2026",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368104",
-    "description": "The 313th installment of the 9to5Linux Weekly Roundup is here for the week ending October 11th, 2026, keeping you updated on the most important developments in the Linux world.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368104",
-    "date": "Oct 11, 2026 21:54",
-    "published_at": "2026-10-11T21:54:53Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
   }
 ]
