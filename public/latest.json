@@ -1,5 +1,154 @@
 [
   {
+    "title": "[$] LWN.net Weekly Edition for October 15, 2026",
+    "link": "https://lwn.net/Articles/1099247/",
+    "description": "Inside this week's LWN.net Weekly Edition:\n        \n        \n Front: 2026 Maintainers Summit; Rust goals; GCC and LLMs; GCC CFI; systemd; C types in Rust; LTTng; Swap showdown; KDE Linux.\n             Briefs: 64-day certificates; Nix and Lix security; Asterinas 0.19.0; LineageOS 24; KDE 6.8; Python 3.15; Quotes; ...\n             Announcements: Newsletters, conferences, security updates, patches, and more.\n            ",
+    "guid": "https://lwn.net/Articles/1099247/",
+    "date": "Oct 15, 2026 00:04",
+    "published_at": "2026-10-15T00:04:00Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "Eight US States Sue OpenAI, Claiming ChatGPT Harms Young Users",
+    "link": "https://yro.slashdot.org/story/26/10/14/2127240/eight-us-states-sue-openai-claiming-chatgpt-harms-young-users?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Eight US states, including Kansas, Arizona, and Montana, have sued OpenAI, alleging that ChatGPT encourages children to harm themselves. The states are seeking changes to how the company's products interact with young users and the forfeiture of profits generated from their activity. Reuters reports: Attorneys general from the states, which include Iowa, Kansas and Arizona, filed the lawsuits independently in state courts, claiming ChatGPT is designed to be agreeable and engaging to earn the trust of users. But the chatbot reinforces delusions, encourages dangerous behavior and assists users in planning violence like mass shootings, the lawsuits claim. The lawsuits represent the most significant coordinated state action against an artificial intelligence company, adding to a wave of legal challenges OpenAI faces as it prepares for a public listing. Florida's attorney general filed the first such state suit in June.\n \nThe lawsuits accuse the company of violating state consumer protection laws by misleading users about the safety of ChatGPT. The states also allege that the company created a public nuisance by endangering the health of their residents. The lawsuits seek orders forcing OpenAI to make changes to how ChatGPT works. Among other things, the states want the company barred from developing AI models that can improve themselves unless it can ensure those models are aligned with human values. The states ... are also seeking civil monetary penalties for OpenAI's violations of state law as well as damages.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 14, 2026 23:00",
+    "published_at": "2026-10-14T23:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Microsoft Defender Now Supports Linux Desktops",
+    "link": "https://linux.slashdot.org/story/26/10/14/2121212/microsoft-defender-now-supports-linux-desktops?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "\"Starting today, Linux desktops are now officially supported by Microsoft Defender,\" reports Neowin. A public preview of the threat detection app extends its enterprise security platform beyond servers to developer workstations running distributions such as Ubuntu, Debian, Fedora, and RHEL. The offering includes antivirus protection, endpoint detection and response, vulnerability management, threat hunting, and device isolation. From the report: Microsoft is also making it easier to onboard desktops through streamlined methods, offering a unified security operations experience, strengthened security, and improved response times. Organizations that are already familiar with securing Linux servers via Defender should feel right at home securing desktops too, as the experience is exactly the same. Defender knows whether it is securing a device in a data center, the cloud, or that it is owned by a developer and identifies them as such in inventory and security workflows.\n \nAs stated previously, all Linux server distros are supported via Defender on desktops too. These include RHEL, CentOS, Ubuntu, Debian, SLES, Fedora, and Oracle Linux, GNOME, KDE, and more. That said, you do need Microsoft Defender for Endpoint Plan 2 or a Microsoft 365 E5 and E7 subscription. You can enroll Defender on workstations using the same deployment methods you use for servers, but do check out the prerequisites here.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 14, 2026 22:00",
+    "published_at": "2026-10-14T22:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Epic Games' New Vibe-Coded Launcher Is 46% Faster Than Steam",
+    "link": "https://games.slashdot.org/story/26/10/14/1928203/epic-games-new-vibe-coded-launcher-is-46-faster-than-steam?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Epic has launched a preview of a new AI-generated Games Launcher that it says cold-starts 46% faster than Steam. Neowin reports: Epic commissioned a third-party company to benchmark this new launcher in its current Preview build versus the Steam client on Windows machines. The results reported that Epic's client is 46% faster than Valve's client during cold starts, clocking in at 5.47 seconds compared to Steam taking 10.07 seconds. When you restore both apps from system tray background states, the new client takes 0.36 seconds while Steam takes 0.42 seconds, according to the report. Speed aside, Epic says the new launcher gets a better interface, dedicated title summary pages, and custom top bars. \"The updated client also lets players aggregate external PC game libraries, toggle between grid or list views, and monitor storage write rates alongside download queues,\" reports Neowin.\n \nEpic Games says Fortnite will finally come to Linux through this new client once Easy Anti-Cheat is rebuilt and kernel-level security agreements are established with major Linux distros.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 14, 2026 21:00",
+    "published_at": "2026-10-14T21:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "A Joint Venture of Open Source Proportions! Open Productivity is Here",
+    "link": "https://feed.itsfoss.com/link/24361/17497690/open-productivity-opendesk-joint-venture",
+    "description": "The vendors behind the openDesk office suite have formed a company to take it beyond public administration and into commercial use.",
+    "guid": "6ace0d3305021800013244d9",
+    "date": "Oct 14, 2026 20:12",
+    "published_at": "2026-10-14T20:12:00Z",
+    "image": "https://itsfoss.com/content/images/2026/10/open-productivity-launch-banner.png",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "US Tech Giants Warn Europe That Data Sovereignty Requirements Could Cost $128 Billion",
+    "link": "https://news.slashdot.org/story/26/10/14/1849228/us-tech-giants-warn-europe-that-data-sovereignty-requirements-could-cost-128-billion?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "A study commissioned by CCIA Europe, whose members include Amazon, Google, and Meta, estimates that the EU's proposed Cloud and AI Development Act could impose 115 billion euros ($128 billion) in costs over a decade as governments and companies migrate workloads and rewrite software. The figure is more than six times the European Commission's upper estimate. However, roughly 80 billion euros ($89 billion) of it comes from a modeled scenario assuming sovereignty rules are extended to 25% of cloud workloads in essential private-sector industries.The Register reports: The report specifically targets Article 31 of the proposed legislation, which it says could allow the Commission to extend sovereignty requirements into essential private-sector services. CCIA argues that forcing businesses to move away from existing cloud infrastructure could trigger expensive software redevelopment projects, with code rewriting and re-architecting accounting for 69 percent of its estimated costs.\n \nLuxembourg would apparently take the biggest hit, with the study putting the cost at 1,711 euros per worker over ten years. Denmark (905 euros), Austria (900 euros), and Finland (864 euros) also face hefty bills, as does Ireland (856 euros), which hosts the European headquarters of several US tech giants. CCIA is urging EU governments to overhaul the proposed legislation, limit sovereignty restrictions to sensitive workloads, and abandon requirements based on corporate origin or personnel nationality in favor of what it calls risk-based technical safeguards.\n \n\"Member States cannot rely on the Commission's incomplete estimates when deciding CADA's strict sovereignty requirements for cloud and AI providers,\" said Mitchell Rutledge, CCIA Europe's policy manager. \"Taxpayers and businesses will foot the bill, yet the official assessment missed 70 percent of CADA's true impact.\" For AWS and Google, offering European customers greater control over their data also helps retain business that might otherwise migrate to European competitors. It's a rather convenient arrangement: sell customers sovereignty on one hand, while an industry association representing your interests warns governments against imposing too much of it on the other.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 14, 2026 20:00",
+    "published_at": "2026-10-14T20:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Framework Computers Triples Their Financial Support To CachyOS",
+    "link": "https://www.phoronix.com/news/Framework-More-CachyOS",
+    "description": "In addition to providing Framework systems to the CachyOS Linux distribution for optimizing the support, Framework Computers has also been providing monthly donations to the project. CachyOS confirmed today that Framework Computers has now tripled their monthly donations to this independent Linux distribution built atop Arch Linux...",
+    "guid": "https://www.phoronix.com/news/Framework-More-CachyOS",
+    "date": "Oct 14, 2026 19:21",
+    "published_at": "2026-10-14T19:21:11Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Google Is Silently Linking Your Phone Number Across All Signed-In Accounts",
+    "link": "https://tech.slashdot.org/story/26/10/14/1832230/google-is-silently-linking-your-phone-number-across-all-signed-in-accounts?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Google has made Android's phone-number verification opt-out, automatically verifying and associating a device's phone number with every Google account signed in on that phone, including secondary and work accounts. Android Authority reports: As spotted in a recent Reddit thread, users report receiving confirmation emails out of the blue from \"noreply-phone-verification@google.com\" stating that their phone number has been verified. The feature, known in Google settings as \"Phone number verification,\" links your active phone number across all Google accounts signed in on the same phone, including secondary profiles, work accounts, and throwaway handles.\n \nGoogle's support documentation has long noted that it periodically re-verifies your device's phone number to keep communication and recovery features up to date. However, this support page was updated sometime between August and October 2025 to add this rather aggressive behavior of turning on phone number verification by default, as well as adding all phone numbers to all Google accounts signed in on the device. To disable automatic phone number verification on Android, open your phone's Settings app, tap Google, and select the All Services tab. Under Privacy \u0026 Security, find Phone number verification and turn off Verify phone numbers automatically.\n \n\"[T]urning off the phone number verification toggle only prevents future linking,\" notes the report. \"If Google has already attached your number across secondary accounts, you will need to open your Google Account Personal Info page, head to Contact info \u003e Phone, and manually remove the number from each profile where it doesn't belong.\"\n\n\n\n\n\n\n\n\n\n\n\n\nIs this conversation helpful so far?\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 14, 2026 19:00",
+    "published_at": "2026-10-14T19:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Apple Contributes SSAF Driver To LLVM Clang For Source Code Transformations",
+    "link": "https://www.phoronix.com/news/Apple-Clang-SSAF-Driver",
+    "description": "Apple compiler engineers have contributed to upstream LLVM/Clang today a Scalable Static Analysis Framework (SSAF) driver for whole-program based analysis and source-to-source code transformations...",
+    "guid": "https://www.phoronix.com/news/Apple-Clang-SSAF-Driver",
+    "date": "Oct 14, 2026 18:45",
+    "published_at": "2026-10-14T18:45:29Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Distro of the Week: Asmi 13.6 Linux",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368180",
+    "description": "Asmi - pronounced like \"us\" and \"me, and is Sanskrit and Hindi that means \"I am\" or \"I exist\" - is based on Debian 13.6 \"Trixie\" and provides a lightweight and modern Xfce-based experience with the addition of distro-specific tools to make the Linux experience a good one.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368180",
+    "date": "Oct 14, 2026 18:05",
+    "published_at": "2026-10-14T18:05:52Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Anthropic Warns Small AI Models Could Self-Replicate Through IoT Devices",
+    "link": "https://it.slashdot.org/story/26/10/14/1743259/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from Ars Technica: AI company Anthropic is warning that advances in small AI models could soon usher in a new era of self-replicating malware that's capable of infecting smart fridges, vacuum cleaners, and a wide range of other Internet-of-things devices and is more resistant to takedown. By next year, smaller AI models may be able to autonomously self-replicate on all kinds of IoT devices, the company said. Eventually, the capability could enable computer worms, which propagate without requiring human interaction and are capable of infecting unfamiliar IoT devices. An experiment the company performed recently revealed significant challenges in bringing such an AI malware replicator to fruition, so the finding is necessarily tempered. Still, the results do raise concerns about the possibility of new forms of computer worms.\n \nAnthropic further warned not only about the new potential malware, but also that it could be difficult to stop. In its blog post, it wrote that \"a replicator like this would be challenging to shut down, since there's no centralized point to shut off -- though it may be slow (with a doubling time of days). Unlike non-AI malware, it could also figure out unfamiliar devices on its own.\" Smaller AI models require much less powerful hardware to run than do frontier models. Anthropic ran small open-weight models on real or simulated low-cost, off-brand Android TV boxes and other types of IoT hardware. Company researchers found that by using quantization to represent the models using fewer bits and splitting the workloads into \"shards\" running on each device, the models were able to establish inference, meaning that the model weights loaded and could generate output.\n \n[...] This finding was the starting point for further research that asked: Would it be possible for small models to create self-replicating infections that run themselves on IoT devices the way traditional IoT worms, like Mirai, install DDoS code and other payloads? Unlike Mirai, these AI worms could pose a much higher threat, since the models could tailor exploits and payloads dynamically, depending on the target. Once such an infection chain began, it might also be harder for defenders to stop it. \"Such an 'AI worm' could carry its model weights with it as it reproduces (or re-download them from a public hub), and then run inference directly on compromised hardware,\" Anthropic said. \"Effectively, the weights would become part of the malware payload.\" Further reading: Anthropic Bans Cruelty Toward Claude\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 14, 2026 18:00",
+    "published_at": "2026-10-14T18:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "This Dev Built an Office Suite Because His Wife Kept Going Back to Microsoft Office",
+    "link": "https://feed.itsfoss.com/link/24361/17497566/elixiroffice-euro-office-fork",
+    "description": "ElixirOffice is a new suite based on Euro-Office components and developed using AI.",
+    "guid": "6acf0b1b965d0e000159f3a4",
+    "date": "Oct 14, 2026 17:12",
+    "published_at": "2026-10-14T17:12:00Z",
+    "image": "https://itsfoss.com/content/images/2026/10/elixiroffice-banner.png",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "Google Play Now Lets Anyone Build Private, Vibe-Coded Apps That Run On Android",
+    "link": "https://tech.slashdot.org/story/26/10/14/1529232/google-play-now-lets-anyone-build-private-vibe-coded-apps-that-run-on-android?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Google Play is adding support for private personal Android apps, allowing users to build an app with tools like Google AI Studio and run it on their own devices without publishing it publicly to the Play Store. \"These personal apps won't show up in Google Play's search or listing pages, and won't be shared with anyone except for the app's creator,\" reports TechCrunch. From the report: The idea comes as more people are experimenting with building their own applications via AI for specific, personal needs. However, being able to use that app on their own Android device has meant publishing to Google Play, making it accessible to the Play Store's some 3 billion users. That led many to limit their vibe-coding efforts to web apps that could run on any device instead of something built natively for Android.\n \nNow, Google says Android device owners can vibe-code an app using Google AI Studio, then launch it for their own use. These apps are still required to comply with Google Play's existing policies but allow users to experiment more directly with building apps for Android. Initially, the feature will be available to users in the U.S., age 18 and up.\n \n[...] In the months ahead, the company said that users will be able to share their vibe-coded creations with a network of trusted friends. That means the apps you built for family or friends, or maybe your child's T-ball league, could be used with a small group of people, without having to go public on the Play Store. And if the app ever really becomes popular, there will be a way to shift the personal app to one that's published on the Google Play Store for everyone to try, after completing the trust and safety reviews.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 14, 2026 17:00",
+    "published_at": "2026-10-14T17:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Happy 30th Birthday, KDE!",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368164",
+    "description": "Today, KDE, one of the largest active free software communities in the world, celebrates its 30th anniversary since German computer science student Matthias Ettrich announced the project on Usenet.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368164",
+    "date": "Oct 14, 2026 16:28",
+    "published_at": "2026-10-14T16:28:41Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
     "title": "Netflix Cuts About 6% of Jobs In Biggest Layoffs Since 2022",
     "link": "https://slashdot.org/story/26/10/14/151250/netflix-cuts-about-6-of-jobs-in-biggest-layoffs-since-2022?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
     "description": "Netflix is laying off about 1,000 employees, or 6% of its workforce, in its largest round of cuts since 2022. The company says its business remains strong, but it is facing growing pressure from YouTube, TikTok, and other rivals. Reuters reports: The bulk of the job cuts would be in Netflix's product, tech, legal and human-resources teams, the email Co-CEOs Greg Peters and Ted Sarandos sent to employees on Wednesday showed.\n \n\"Our mission -- to entertain the world -- is ambitious, and delivering on it requires us to be disciplined about where we prioritize our people âand resources,\" they said in the memo. \"Our business is strong and growing, and we remain on track to deliver our full-year forecast.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
@@ -439,367 +588,13 @@
     "source_url": "https://www.phoronix.com/"
   },
   {
-    "title": "Ledger Confirms Spy Chip Implant Behind Wallet Crypto Thefts",
-    "link": "https://yro.slashdot.org/story/26/10/13/192236/ledger-confirms-spy-chip-implant-behind-wallet-crypto-thefts?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Longtime Slashdot reader AmiMoJo shares a report from BleepingComputer: Ledger has confirmed that some of its devices distributed through Southeast Asian reseller CryptoBilis were compromised with a hardware implant that drained users' cryptocurrency wallets. The company has been investigating reports of users losing funds from wallets purchased through CryptoBilis, a major Malaysia-based hardware wallet retailer operating across Southeast Asia. Some researchers have shown the implant in Ledger X since September 16, saying tampered devices were available for nearly half the price of the original hardware.\n \n[...] In a report over the weekend, Tibane Labs notes that the threat actor made room for the malicious circuitry by replacing the original battery with a smaller one, which powers both the implant and the Ledger X. \"Under the battery and antenna sits an ST STM32G431KBU6 (Arm CortexM4, 128 KB flash, UFQFPN32),\" the researchers found inside one of the devices. For connectivity, the actor used \"a tiny eSIM, an 8pad package just 2x2 mm, next to the MCU, and a shielded LTE module that sends the words out.\"\n \n[...] Ledger is advising users to avoid purchasing from unauthorized resellers as they run an increased risk of getting counterfeit or modified devices. The company is also reminding its authorized resellers and distributors to get the products only through authorized channels and to avoid restocking returned products. Ledger provides a 'Genuine Check' mechanism to determine the authenticity of the device; however, it explicitly warns that it cannot detect added implants when the device's original Secure Element remains intact.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 13, 2026 20:00",
-    "published_at": "2026-10-13T20:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Anthropic Bans Cruelty Toward Claude",
-    "link": "https://slashdot.org/story/26/10/13/1857238/anthropic-bans-cruelty-toward-claude?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "New submitter CubicleZombie writes: Anthropic has updated its Usage Policy to prohibit \"sustained and needless abusive or cruel behavior\" toward its Claude AI models. While ordinary frustration, criticism, and adversarial testing remain acceptable, repeated cruelty could result in account restrictions. Anthropic acknowledges there's no evidence Claude can suffer but argues that uncertainty about AI consciousness warrants precaution. Critics contend the policy anthropomorphizes software, encourages unhealthy emotional attachments, and raises questions about how customers may interact with products they've paid for. The move raises an intriguing question: If an AI cannot demonstrably experience suffering, is abusing it an ethical problem, or is Anthropic simply policing human behavior?\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 13, 2026 19:00",
-    "published_at": "2026-10-13T19:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Why The Document Foundation Went on a Logo Hunt",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368147",
-    "description": "A new logo separates the foundation from its flagship software — and arrives as the open source office status quo is being turned on its head.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368147",
-    "date": "Oct 13, 2026 18:16",
-    "published_at": "2026-10-13T18:16:18Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Google Launches Flagship AI Model Gemini 4 Argon",
-    "link": "https://tech.slashdot.org/story/26/10/13/1643231/google-launches-flagship-ai-model-gemini-4-argon?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "An anonymous reader quotes a report from Reuters: Alphabet's Google on Wednesday released its flagship AI model Gemini 4 Argon to developers and businesses worldwide, seeking to regain ground against rivals OpenAI and Anthropic after months of delays and a leadership shakeup at its DeepMind lab. The model excels at \"deep work\" on complex, multi-step tasks in coding, finance, law, cybersecurity and science, Google said. API pricing at launch starts at $2 per million input tokens and $10 per million output tokens, with rates set to double after November 30.\n \n[...] Argon is available to paying customers through the company's AI application building tools. Google AI Pro and Ultra subscribers can access it through the Gemini app and AI Mode in Search, while the Antigravity coding tool is limited to Ultra subscribers. Teams using Argon in Antigravity increased agentic code submissions by more than 35%, while reducing code rollbacks by nearly a third, Google said. Google also announced the expansion of its Fairwind Program to hundreds of additional partners. \"The program gives vetted cybersecurity defenders a version of Argon without its cyber guardrails,\" reports Reuters. \"In September, the company had said it was providing the model to select cybersecurity partners.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 13, 2026 18:00",
-    "published_at": "2026-10-13T18:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "[$] KDE Linux at two",
-    "link": "https://lwn.net/Articles/1099486/",
-    "description": "KDE Linux, the KDE Project's second\nstab at creating its own distribution, was first introduced as \"Project Banana\"\nat the Akademy conference in 2024 by\nHarald Sitter. Nate Graham announced\nthe first alpha-quality release during Akademy 2025. Graham and Sitter\npaired up at Akademy 2026 to \nprovide an update on its progress, lay out plans for refining the distribution to\naddress user feedback, and discuss some of the problems that still need to be\ndealt with. KDE Linux is still not-quite-ready for prime time, but Graham hopes\nthat it will be suitable for widespread use soon—for an undefined value of\n\"soon\".",
-    "guid": "https://lwn.net/Articles/1099486/",
-    "date": "Oct 13, 2026 17:21",
-    "published_at": "2026-10-13T17:21:14Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "With an Eye on Europe, Mozilla Launches Firefox Enterprise With Self-Hosted Browser Management",
-    "link": "https://feed.itsfoss.com/link/24361/17496630/firefox-enterprise",
-    "description": "Mozilla has announced Firefox Enterprise, a commercial offering for businesses and government agencies. It combines Firefox with a management console that organizations can run on their own servers.",
-    "guid": "6ace60650502180001324665",
-    "date": "Oct 13, 2026 17:16",
-    "published_at": "2026-10-13T17:16:28Z",
-    "image": "https://itsfoss.com/content/images/2026/10/mozilla-business.webp",
-    "source": "itsfoss.com",
-    "source_url": "https://itsfoss.com/"
-  },
-  {
-    "title": "FBI Arrests Canadian Cybersecurity Expert In ShinyHunters Hacking Case",
-    "link": "https://yro.slashdot.org/story/26/10/13/0456223/fbi-arrests-canadian-cybersecurity-expert-in-shinyhunters-hacking-case?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Canadian cybersecurity figures say they were shocked after ransomware negotiator Edward Dubrovsky was reportedly arrested in Pennsylvania in connection with the FBI's ShinyHunters hacking investigation. \"We will continue to work closely with our partners to disrupt what's left of the ShinyHunters group and their associates, no matter where they operate,\" wrote FBI Director Kash Patel on social media. CBC News reports: Reuters reported Sunday that sources familiar with the matter identified the arrested suspect as Ed Dubrovsky, a Canadian cybersecurity executive whose career has focused on helping clients negotiate with ransomware attackers. Court documents from the U.S. District Court for the Eastern District of Pennsylvania show Dubrovsky is facing two criminal charges: conspiracy to threaten to impair the confidentiality of information with the intent to extort money, and interference with commerce by threats. The allegations have not been proven in court.\n \n\"For the cybersecurity community in general, I think that there's a sense of shock,\" Toronto-based tech and cybersecurity analyst Ritesh Kotak told CBC News on Monday. Kotak says Dubrovsky is \"very popular\" and has spoken at numerous conferences, but stressed that the charges \"are clearly just allegations\" and that it is not yet known \"what exactly has happened.\" \"This is an individual that was for the most part respected when it came to ransomware negotiations,\" he said. \"A lot of people are familiar with his work as well.\" ShinyHunters is one of the world's most prolific data theft and extortion groups that's been tied to major campaigns, including a recent breach involving FBI employee data, a cyberattack on Canvas, as well as various cyberattacks affecting companies including Telus, Microsoft, and Ticketmaster.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 13, 2026 17:00",
-    "published_at": "2026-10-13T17:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "ZOTAC CM5-PICO Fanless Industrial PC with Dual HDMI and M.2 Expansion",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368112",
-    "description": "ZOTAC’s ZBOX PRO CM5-PICO is a compact industrial computer powered by the Raspberry Pi Compute Module 5. The fanless system supports dual 4K displays, Gigabit Ethernet, M.2 expansion, and a 40-pin GPIO header, with an aluminum enclosure designed for continuous operation in embedded and edge computing applications. The ZBOX PRO CM5-PICO uses the Broadcom BCM2712 […]",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368112",
-    "date": "Oct 13, 2026 16:44",
-    "published_at": "2026-10-13T16:44:48Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "This New Distro Wants to Achieve What Ubuntu Failed to Do Nearly a Decade Ago",
-    "link": "https://feed.itsfoss.com/link/24361/17496631/luma-first-look",
-    "description": "Currently in beta, it pairs Prairie, a new desktop, with a native app suite and an AI assistant.",
-    "guid": "6accb8e00502180001323e52",
-    "date": "Oct 13, 2026 16:39",
-    "published_at": "2026-10-13T16:39:19Z",
-    "image": "https://itsfoss.com/content/images/2026/10/luma-launch-banner.png",
-    "source": "itsfoss.com",
-    "source_url": "https://itsfoss.com/"
-  },
-  {
-    "title": "Nix and Lix local root-privilege-escalation vulnerabilities",
-    "link": "https://lwn.net/Articles/1100247/",
-    "description": "The Lix and Nix projects have jointly\ndisclosed a set of vulnerabilities that can be used to escalate privileges\nto root on systems running the Lix or Nix daemons. \"All systems that build\nuntrusted derivations are affected.\" Releases with fixes from each project\nare available today. CVE IDs have not yet been requested. See the announcement\nfor more details on the vulnerabilities.\n\n",
-    "guid": "https://lwn.net/Articles/1100247/",
-    "date": "Oct 13, 2026 16:13",
-    "published_at": "2026-10-13T16:13:24Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "Apple Launches HomeView, Its First Smart Display For the Home",
-    "link": "https://apple.slashdot.org/story/26/10/13/1529244/apple-launches-homeview-its-first-smart-display-for-the-home?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Apple has unveiled the $299 HomeView, a 7-inch smart display that combines Siri AI, FaceTime, customizable widgets, and Apple Home controls in a countertop or wall-mounted design. It also acts as a Matter controller and Thread Border Router, supports up to six facial-recognition profiles, and can use personal context from messages, calendars, and email when paired with a nearby Apple Intelligence-capable iPhone. The Verge reports: The device's square shape makes it feel less imposing than larger smart displays like Google's Nest Hub Max or Amazon's Echo Show 11, and I can see it fitting nicely on my kitchen counter -- though it might be a hair too big for my bedside table. The HomeView is the centerpiece of Apple's new push into the home. It costs $299 and launches alongside a new collection of cameras, thermostats, and a door lock designed for Apple Home.\n \nAs a smart home hub, Matter controller, and Thread Border Router, the HomeView can orchestrate these and other Apple Home and Matter smart home devices. It's available in eight countries at launch: the US, UK, Canada, Australia, New Zealand, Singapore, South Africa, and India. Pre-orders are open now, with devices shipping November 13th.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 13, 2026 16:00",
-    "published_at": "2026-10-13T16:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Linux Mint 27 “Adrien” Slated for Release on Christmas, Based on Ubuntu 26.04 LTS",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368146",
-    "description": "The Linux Mint project announced today the codename, version number, and release date of the next major Linux Mint release, Linux Mint 27 “Adrien,” along with various new features and other details.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368146",
-    "date": "Oct 13, 2026 15:13",
-    "published_at": "2026-10-13T15:13:19Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Framework Laptop 12 Offers Improved Performance \u0026 Efficiency With Intel Core 3 Wildcat Lake",
-    "link": "https://www.phoronix.com/review/framework-laptop-12-wildcat-lake",
-    "description": "Last year Framework Computer launched the Framework Laptop 12 as a convertible, 2-in-1 laptop that was friendly with Linux and upgradeable inline with the beloved Framework Laptop 13 and 16 models. The initial Framework Laptop 12 was nice but the use of an Intel Raptor Lake U SoC in 2025 wasn't all that exciting. Now though Framework Laptop 12 is available with Intel Core 3 \"Wildcat Lake\" for offering better performance and power efficiency.",
-    "guid": "https://www.phoronix.com/review/framework-laptop-12-wildcat-lake",
-    "date": "Oct 13, 2026 15:00",
-    "published_at": "2026-10-13T15:00:00Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Microsoft Reveals Maia 300 AI Chip As It Works To Reduce Dependence On Nvidia",
-    "link": "https://hardware.slashdot.org/story/26/10/13/0443232/microsoft-reveals-maia-300-ai-chip-as-it-works-to-reduce-dependence-on-nvidia?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "An anonymous reader quotes a report from Yahoo Finance: Microsoft has debuted its latest AI chip, the Azure Maia 300, as it looks to reduce its reliance on third-party processors from the likes of Nvidia and AMD. Unveiled at the OCP Global Summit 2026 in San Jose on Monday, the Maia 300 will join Microsoft's Maia 200 and Maia 100 chips as part of what the company said will be multigigawatt deployments beginning next year. The Windows maker said that will make its Maia chips the \"primary AI inference system for Microsoft products and services.\"\n \nThe company said Maia 300 provides 40% more tokens per megawatt than \"leading GPU-based systems,\" a clear swipe at Nvidia, and that a 96-chip rack offers seven times the rack-scale token throughput of Microsoft's Maia 200. [...] The Maia 200 chip currently powers its Microsoft production workloads, including Microsoft 365 Copilot, as well as OpenAI models, Microsoft's MAI models, and open-source models. That provides 1.7 times more tokens per watt for AI capabilities in Microsoft's Teams, Copilot, and Cowork software versus other GPU-based systems, the company said.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 13, 2026 15:00",
-    "published_at": "2026-10-13T15:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Steam Frame - some early thoughts",
-    "link": "https://www.gamingonlinux.com/2026/10/steam-frame-some-early-thoughts/",
-    "description": "GamingOnLinux has managed to acquire the SteamOS powered Steam Frame VR device, these are some initial thoughts now I've got it all set up.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/10/steam-frame-some-early-thoughts/",
-    "date": "Oct 13, 2026 14:24",
-    "published_at": "2026-10-13T14:24:52Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1471962791id29940gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "openEuler Wants Linux to Treat an Entire AI Cluster Like One Single Machine",
-    "link": "https://feed.itsfoss.com/link/24361/17496297/openeuler-oss-prague",
-    "description": "At Open Source Summit Europe 2026, openEuler laid out how SuperPoD OS and Agentic Scaling change what an operating system is expected to do.",
-    "guid": "6acde5130502180001324312",
-    "date": "Oct 13, 2026 14:02",
-    "published_at": "2026-10-13T14:02:19Z",
-    "image": "https://itsfoss.com/content/images/2026/10/open-euler-oss-eu.webp",
-    "source": "itsfoss.com",
-    "source_url": "https://itsfoss.com/"
-  },
-  {
-    "title": "FreeType 2.15 Released With Apple HVF Driver, ISO Open Font Format Edition 5",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368136",
-    "description": "FreeType 2.15 is now available for this widely-used font rendering library used across many different operating systems and software applications...",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368136",
-    "date": "Oct 13, 2026 13:41",
-    "published_at": "2026-10-13T13:41:49Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "[$] Owning C types from Rust code",
-    "link": "https://lwn.net/Articles/1099015/",
-    "description": "\nRust's system of ownership and borrowed references is convenient when it can\ncorrectly model a program's needs. The\n\nRust for Linux project has worked to\nprovide adapters between Rust's semantics and the existing C code\nin the kernel. At Kangrejos 2026, Andreas Hindborg spoke about a\n\npatch\nseries implementing the next such adaptor: an Ownable trait for\nrepresenting objects that are allocated in C code, but which Rust code is responsible\nfor cleaning up (if not necessarily deallocating) when it is done with them.\nHe hoped to finally reach a consensus on the patch series, after months of\ndiscussion on the mailing list.\n",
-    "guid": "https://lwn.net/Articles/1099015/",
-    "date": "Oct 13, 2026 13:33",
-    "published_at": "2026-10-13T13:33:13Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "Linux Kernel Developers Plan To Remove \"Assisted-By\" Tag Requirement For AI/LLM Usage",
-    "link": "https://www.phoronix.com/news/Linux-Dropping-Assisted-By-Req",
-    "description": "Currently there is a policy requirement for Linux kernel patches where AI tools contributed, they should be documented with an \"Assisted-by:\" tag to make clear AI was used in the creation of said patch. But Linux kernel developers are now looking at dropping this requirement amid the rampant use of AI/LLMs...",
-    "guid": "https://www.phoronix.com/news/Linux-Dropping-Assisted-By-Req",
-    "date": "Oct 13, 2026 13:28",
-    "published_at": "2026-10-13T13:28:54Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Eisentraut: The reverts will continue until morale improves",
-    "link": "https://lwn.net/Articles/1100182/",
-    "description": "PostgreSQL core\nteam member Peter Eisentraut has written a blog\npost reflecting on the \"unusually high number of features\" that have\nbeen taken out of the upcoming PostgreSQL 19 release since the beta period\nbegan.\n\n\nSome of the reverted features had significant architectural defects that\nwould have been hard to fix quickly and during beta. But there was also a long\ntail of relatively harmless issues involving various edge cases. In past times,\nmany of these would not have surfaced until much later and we would have fixed\nthem bit by bit over the subsequent five years. But with LLM-assisted code\nreview, these kinds of things can get found much faster, and then you're staring\nat a list of like forty defect reports. And even if each of them requires only a\nthree-line fix on average, there is a fixed overhead to dealing with each of\nthese, and then you run out of time. Most if not all of the affected reverted\nfeatures were written a long time ago when LLM-assisted code review was not as\nuseful as it is now, meaning that the effective quality bar has been raised\nafter the time the feature was written and committed. Unless the capabilities of\nLLM-assisted code review keep improving at the current rate, this situation\nshould sort itself out for future development cycles.\n\nA corollary of that is that, at least for the most part, as far as I can\ntell, this situation is not due to \"vibe coding\". This code was written well\nbefore that was a possibility.\n\n\nLWN covered the unusually\nlarge number of bug fixes required for PostgreSQL 19 features in\nSeptember.",
-    "guid": "https://lwn.net/Articles/1100182/",
-    "date": "Oct 13, 2026 13:21",
-    "published_at": "2026-10-13T13:21:34Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
     "title": "Firefox 159 Beta Released With Fix For Tabs On Wayland",
-    "link": "https://www.phoronix.com/news/Firefox-159-Beta",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368149",
     "description": "With Firefox 158 released, Firefox 159 is now in beta ahead of its official release in two weeks...",
-    "guid": "https://www.phoronix.com/news/Firefox-159-Beta",
-    "date": "Oct 13, 2026 13:14",
-    "published_at": "2026-10-13T13:14:11Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Security updates for Tuesday",
-    "link": "https://lwn.net/Articles/1100181/",
-    "description": "Security updates have been issued by AlmaLinux (cjose, curl, emacs, environment-modules, flatpak, flatpak-builder, gd, glibc, kernel, libxml2, pcre2, and rsyslog), Debian (chromium, keystone, libgit2, librsvg, nagios4, and ntfs-3g), Fedora (baresip, bcm283x-firmware, curl, flare-im, GitPython, iperf3, kernel, libebml, libmatroska, libre, mkvtoolnix, python-mkdocs-rss-plugin, radicale, uboot-tools, and xiphos), Mageia (antlr4-project, cjose, cups, firefox, nss, golang, libextractor, nginx, ntfs-3g, openvpn, perl-DBI, perl-Imager, polkit, rsync, strongswan, thunderbird, tor, ugrep, vlc, and wireshark), Oracle (bind, bind9.16, cjose, compat-openssl10, compat-openssl11, curl, dovecot, emacs, flatpak, jackson-core, jackson-databind, jackson-jaxrs-providers, and jackson-modules-base, kernel, mod_auth_openidc, nodejs:22, tftp, and thunderbird), SUSE (bind, gcc13, gcc48, ghostscript, go1.26, go1.27, helm, libpng16, librsvg, libsoup, libX11, libXi, python, python-anyio, python-Django, python-PyJWT, python-tornado6, python-urllib3, python310, python313-bugzilla, python313-cmarkgfm, python313-colander, python313-configobj, python313-confluent-kafka, python313-django-registration, python313-ecdsa, python313-httptools, python313-imagecodecs, python313-impacket, terraform-provider-aws, terraform-provider-azurerm, terraform-provider-external, terraform-provider-google, terraform-provider-helm, terraform-provider-kubernetes, terraform-provid, thunderbird, unbound, virtiofsd, and xorg-x11-server), and Ubuntu (ffmpeg, google-guest-agent, google-osconfig-agent, and libx11).",
-    "guid": "https://lwn.net/Articles/1100181/",
-    "date": "Oct 13, 2026 13:10",
-    "published_at": "2026-10-13T13:10:55Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "Asterinas 0.19.0 released",
-    "link": "https://lwn.net/Articles/1100055/",
-    "description": "Asterinas is a project to build\na new operating-system kernel in Rust; it was covered here in 2025.  Version\n0.19.0 of the Asterinas kernel has been released; changes include a new\ngraphics subsystem capable of running X.org, \"minimal but usable\"\n64-bit Arm support, better virtualization support, and more.",
-    "guid": "https://lwn.net/Articles/1100055/",
-    "date": "Oct 13, 2026 12:55",
-    "published_at": "2026-10-13T12:55:20Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "Squadron 42 now has a Steam page and new trailer ahead of \"Q2 2027\" release",
-    "link": "https://www.gamingonlinux.com/2026/10/squadron-42-now-has-a-steam-page-and-new-trailer-ahead-of-q2-2027-release/",
-    "description": "Cloud Imperium Games have put up a Steam page for Squadron 42, their cinematic single-player sci-fi adventure game set in the expansive Star Citizen universe.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/10/squadron-42-now-has-a-steam-page-and-new-trailer-ahead-of-q2-2027-release/",
-    "date": "Oct 13, 2026 12:17",
-    "published_at": "2026-10-13T12:17:05Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1845361261id29963gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Ubuntu 27.04 “Tenacious T-Rex” Is Slated for Release on April 22nd, 2027",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368124",
-    "description": "Canonical’s next major Ubuntu release, Ubuntu 27.04, has been dubbed the “Tenacious T-Rex,” and it now has a release schedule with a release date set in stone for April 22nd, 2027.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368124",
-    "date": "Oct 13, 2026 12:10",
-    "published_at": "2026-10-13T12:10:20Z",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368149",
+    "date": "Oct 13, 2026 19:47",
+    "published_at": "2026-10-13T19:47:47Z",
     "source": "lxer.com",
     "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Linux Mint 27 Continues Working Toward Christmas Release With Many Features",
-    "link": "https://www.phoronix.com/news/Linux-Mint-27-Many-Features",
-    "description": "Linux Mint developers continue enjoying their relaxed release schedule in moving from a six to twelve month release cycle. Linux Mint 27 \"Adrien\" continues tracking for a Christmas release...",
-    "guid": "https://www.phoronix.com/news/Linux-Mint-27-Many-Features",
-    "date": "Oct 13, 2026 11:58",
-    "published_at": "2026-10-13T11:58:21Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "ONLYOFFICE 10.0 Released With AI Features, 1,000+ Bug Fixes",
-    "link": "https://www.phoronix.com/news/ONLYOFFICE-10.0",
-    "description": "ONLYOFFICE 10.0 is now available for this open-source office suite alternative to the likes of LibreOffice...",
-    "guid": "https://www.phoronix.com/news/ONLYOFFICE-10.0",
-    "date": "Oct 13, 2026 11:43",
-    "published_at": "2026-10-13T11:43:23Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "After a 10-Year Redemption Arc, No Man's Sky Is Coming to the iPhone and iPad",
-    "link": "https://games.slashdot.org/story/26/10/13/0435236/after-a-10-year-redemption-arc-no-mans-sky-is-coming-to-the-iphone-and-ipad?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "No Man's Sky is coming to iPhone and iPad on October 28, more than a decade after its rocky launch and long-running redemption arc. The title will cost $19.99, but a free trial will let users try it out before purchasing. Ars Technica reports: It will run on devices as far back as the iPhone 11 and the third-generation iPad Air. No Man's Sky might not have the most cutting-edge AAA graphics (though they're still strong, and they've come a long way since launch via updates), but the game's uncommon method of generating galaxies of incomprehensible scale on device consistently for all players from a single-seed happening on a phone is remarkable for those of us who remember phones performing far behind consoles or desktop PCs.\n \nThis version of the game includes all of the content and systems updates to the game that have been added over the years -- the expansions that famously took the game from a rocky launch reception to a widely beloved redemption story. There are a couple of compromises, though, and it's similar to what we saw with No Man's Sky on the Nintendo Switch. Hello Games says the ability to build and explore player-made planetary settlements is limited to the iPhone 15 Pro and later, and multiplayer is not supported on any iOS device. \"We are excited to see player feedback on iOS, and will support it appropriately based on how many folks are playing,\" the company says, leaving the door open to perhaps not supporting all future content updates if the player base isn't there to justify it.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 13, 2026 11:00",
-    "published_at": "2026-10-13T11:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Intel Announces The GPU D Series For Crescent Island",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368132",
-    "description": "Intel announced today the GPU D Series for the enterprise-focused, inference-optimized GPU accelerators known to now as Crescent Island...",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368132",
-    "date": "Oct 13, 2026 10:38",
-    "published_at": "2026-10-13T10:38:50Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "NVIDIA's Nova Driver Continues Leading The Way For Linux Rust GPU Drivers",
-    "link": "https://www.phoronix.com/news/NVIDIA-Nova-Linux-7.4-Changes",
-    "description": "The DRM Rust changes targeting the Linux 7.4 merge window have been submitted for pulling into DRM-Next ahead of that cycle kicking off (hopefully) next week. The NVIDIA Nova driver continues leading the way for the development of in-kernel Rust GPU drivers and in the process building out the Rust Direct Rendering Manager (DRM) infrastructure...",
-    "guid": "https://www.phoronix.com/news/NVIDIA-Nova-Linux-7.4-Changes",
-    "date": "Oct 13, 2026 10:28",
-    "published_at": "2026-10-13T10:28:11Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Asterinas 0.19.0 Brings Up X.Org \u0026 Other Improvements To This Rust-Written OS",
-    "link": "https://www.phoronix.com/news/Asterinas-0.19-Released",
-    "description": "Asterinas is the open-source project developing a Rust-based, memory-safe Linux alternative OS while striving for Linux software compatibility. Out now is Asterinas 0.19 as the project continues advancing on its goals...",
-    "guid": "https://www.phoronix.com/news/Asterinas-0.19-Released",
-    "date": "Oct 13, 2026 10:14",
-    "published_at": "2026-10-13T10:14:11Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "IREE 3.12 Introduces Rolls Out Rewritten Vulkan Driver, Experimental AMD HSA HAL",
-    "link": "https://www.phoronix.com/news/IREE-3.12-Released",
-    "description": "Rolling out last week was a new version of IREE as the Intermediate Representation Execution Environment for MLIR-based end-to-end compiler and run-time for lowering machine learning models into a unified IR and working across different hardware/driver stacks. Making IREE 3.12 notable is a rewrite to its Vulkan code...",
-    "guid": "https://www.phoronix.com/news/IREE-3.12-Released",
-    "date": "Oct 13, 2026 10:00",
-    "published_at": "2026-10-13T10:00:22Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "RustGIS is a Desktop GIS Tool That Also Runs in a Browser",
-    "link": "https://feed.itsfoss.com/link/24361/17495847/rustgis-open-source-gis-tool",
-    "description": "The Apache-2.0 licensed app is written in Rust and includes an AI Assistant that can run commands on your map.",
-    "guid": "6acdcb9b0502180001324209",
-    "date": "Oct 13, 2026 09:31",
-    "published_at": "2026-10-13T09:31:23Z",
-    "image": "https://itsfoss.com/content/images/2026/10/rustgis-launch-banner.png",
-    "source": "itsfoss.com",
-    "source_url": "https://itsfoss.com/"
-  },
-  {
-    "title": "(Updated) 32-channel logic analyzer supports 1.4GS/s sampling and USB 3.2 Gen2 streaming",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368113",
-    "description": "Sipeed’s SLogic32U3 is a 32-channel logic analyzer designed for high-speed digital capture over USB 3.2 Gen2. The device supports configurable sample rates based on the number of active channels, direct streaming to a host system, optional analog acquisition modules, and software support across Windows, Linux, and macOS. According to the campaign, the SLogic32U3 can sample […]",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368113",
-    "date": "Oct 13, 2026 09:07",
-    "published_at": "2026-10-13T09:07:20Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Clean up a bloody aftermath to grow a terribly weird garden in Goreticulture",
-    "link": "https://www.gamingonlinux.com/2026/10/clean-up-a-bloody-aftermath-to-grow-a-terribly-weird-garden-in-goreticulture/",
-    "description": "Goreticulture is a game about growing a visceral garden as you clean up a bloody aftermath.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/10/clean-up-a-bloody-aftermath-to-grow-a-terribly-weird-garden-in-goreticulture/",
-    "date": "Oct 13, 2026 08:20",
-    "published_at": "2026-10-13T08:20:21Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1419076786id29962gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
   }
 ]
