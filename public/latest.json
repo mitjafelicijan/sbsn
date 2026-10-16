@@ -1,5 +1,183 @@
 [
   {
+    "title": "Fedora 45 Will Not Be Released Next Week",
+    "link": "https://www.phoronix.com/news/Fedora-45-First-No-Go",
+    "description": "For those eager to run the pristine Fedora 45 media, you will need to wait at least one more week...",
+    "guid": "https://www.phoronix.com/news/Fedora-45-First-No-Go",
+    "date": "Oct 16, 2026 01:50",
+    "published_at": "2026-10-16T01:50:44Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Police Seize Robot that Sexually Assaulted Teen Girl",
+    "link": "https://hardware.slashdot.org/story/26/10/15/2241202/police-seize-robot-that-sexually-assaulted-teen-girl?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Slashdot reader alternative_right shares a story that has drawn international attention for being potentially the first documented instance of a robot being used directly in a sexual assault. According to the Associated Press, German police have opened a sexual harassment investigation after a robot allegedly touched a 16-year-old girl's buttocks and made thrusting motions while two young men reportedly filmed and streamed the incident. Investigators seized the robot and the suspects' phones and are trying to determine whether the movements were preprogrammed or controlled in real time. From the report: Cologne police spokesman Christoph Bermel said the two male teenagers have not been charged but are considered suspects, and investigators were examining whether the robot's movements were preprogrammed or controlled in real time.\n \nPolice were unfamiliar with this type of incident, he said. \"We have not been aware of this phenomenon so far,\" Bermel told The Associated Press, saying it was \"new territory for us.\" [...] The robot, said to be 120 centimeters (about 3 ft 11 inches) tall, was dressed in a white tank top, black sweatpants and wearing a gold chain and sunglasses. It also had what appears to be a fake mustache. Videos circulated on the internet show two young men escorting the robot toward a group of women, bumping into one and hugging others, on a lively nighttime street.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 16, 2026 01:00",
+    "published_at": "2026-10-16T01:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Forgejo 17.0 Dev Platform Released with Improved Actions, Git LFS Support",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368201",
+    "description": "Forgejo 17.0 is out with improved CI/CD workflows, enhanced Git LFS management, donation buttons, and expanded repository migration support.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368201",
+    "date": "Oct 16, 2026 00:57",
+    "published_at": "2026-10-16T00:57:01Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Debian forky OverlayFS BTRFS/XFS setup",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368197",
+    "description": "One more option provided is recovery main instance via booting into Overlay instance using Grub Submenu. By explicitly mounting the top-level Btrfs volume (subvolid=5) into a temporary directory like /mnt, you step outside the overlay's jurisdiction. This allows the kernel to recognize the true Btrfs layout and perform instant atomic subvolume swaps.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368197",
+    "date": "Oct 15, 2026 23:25",
+    "published_at": "2026-10-15T23:25:31Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Ubuntu 26.10 Released",
+    "link": "https://news.slashdot.org/story/26/10/15/2013231/ubuntu-2610-released?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "prisoninmate shares a report from 9to5Linux: Ubuntu 26.10 (Stonking Stingray) has been released today, and it is now available for download for those eager to update their Ubuntu systems to a newer release. Powered by the upcoming Linux 7.3 kernel series, Ubuntu 26.10 ships with the latest GNOME 51 desktop environment, TPM-backed full disk encryption (FDE) support on computers without a hardware root of trust, updated Settings to show whether a computer is certified for Ubuntu, and 100% Rust coreutils.\n \nThere are several App Center enhancements in Ubuntu 26.10, such as a unified app-details view for Snap and Debian packages, a dedicated Drivers page where you can review the available graphics drivers, including NVIDIA driver branches, and support for installing codecs for one-time playback when a media file uses a codec that's not installed.' Other additions include an optional, locally processed AI-powered speech-to-text tool called Myna, system-wide controls for disabling Ubuntu Insights data collection, and better integration with Microsoft Entra ID. Also worth mentioning are the security and software updates that will be available for nine months, through July 2027.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 15, 2026 23:00",
+    "published_at": "2026-10-15T23:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Today's Steam Beta Makes The Linux Client A 64-bit App",
+    "link": "https://www.phoronix.com/news/Steam-Linux-Beta-64-bit",
+    "description": "Valve just dropped a new Steam client beta and it's a big one for Linux gamers...",
+    "guid": "https://www.phoronix.com/news/Steam-Linux-Beta-64-bit",
+    "date": "Oct 15, 2026 22:08",
+    "published_at": "2026-10-15T22:08:08Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "IMF Warns of the Real AI Threat: Debt",
+    "link": "https://news.slashdot.org/story/26/10/15/1949215/imf-warns-of-the-real-ai-threat-debt?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "\"Along with the dangers of continuing cyberattacks, the International Monetary Fund (IMF) reports that the threat of an AI market crash is putting the global markets at risk,\" writes Slashdot reader databasecowgirl, citing the IMF's latest semiannual Global Financial Stability Report. Here's a summary: Three salient risks could trigger a sharp tightening of financial conditions and market turmoil. Weaker or less durable investment and profitability in artificial intelligence could lead to a correction in AI-related asset prices, amplified by rising leverage and concentrated exposures. Resurgent inflation or fiscal concerns could drive a sharp rise in sovereign bond yields, with potentially broad repercussions across financial markets. Meanwhile, increasingly sophisticated cyber threats pose growing risks as finance becomes more digital and interconnected.\n \nUnderlying financial vulnerabilities could amplify these risks and turn market stress into systemic events. Although the global banking system remains broadly resilient, pockets of weaker banks persist. Liquidity mismatches among insurers and pension funds have increased, while rising leverage and contingent liquidity risks in private credit could amplify stress.\n \nWhile hedge funds support market functioning in calm times, their use of leverage and exposure to crowded trades could exacerbate market stress too and create spillovers to prime brokers. Some emerging markets have seen policy buffers erode, and frontier economies have increasingly relied on less transparent forms of financing.\n \nFinally, although markets for tokenized assets remain small and could offer efficiency gains in several areas, they can create new channels for the buildup of leverage and mismatches in liquidity and maturity, in addition to elevating risks related to technology and infrastructure. These vulnerabilities underscore the need for policies that strengthen resilience, enhance transparency, contain excessive leverage, and improve preparedness for future shocks. The full report can be found here (PDF).\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 15, 2026 22:00",
+    "published_at": "2026-10-15T22:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Intel Nova Lake S \u0026 Nova Lake P To Support SR-IOV With Xe Graphics",
+    "link": "https://www.phoronix.com/news/Intel-Nova-Lake-SR-IOV-Xe",
+    "description": "A patch has been posted to the Linux kernel mailing list by an Intel engineer confirming that Nova Lake S and Nova Lake P processors with integrated graphics will support SR-IOV in conjunction with the Xe kernel graphics driver...",
+    "guid": "https://www.phoronix.com/news/Intel-Nova-Lake-SR-IOV-Xe",
+    "date": "Oct 15, 2026 21:04",
+    "published_at": "2026-10-15T21:04:27Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Flock CEO Defends Surveillance Tech Amid National Backlash",
+    "link": "https://yro.slashdot.org/story/26/10/15/1941247/flock-ceo-defends-surveillance-tech-amid-national-backlash?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from TechCrunch: Flock's founder and CEO Garrett Langley doesn't think the risks of introducing surveillance technology at scale outweigh the rewards. \"If we want to live in a society where, if you commit a crime, you have a higher probability of being held accountable, we shouldn't pause progress,\" Langley said, speaking onstage during a panel at TechCrunch Disrupt 2026 in San Francisco on Wednesday.\n \nDuring the interview, the controversial founder of the surveillance maker of license plate cameras and other recording devices deflected hard questions about the criticism Flock now faces -- which has since led to canceled contracts and even layoffs. Instead, Langley tended to respond to questions with anecdotes from conversations with police chiefs and city leaders across the United States, and tales of the supposed numerous crimes Flock has solved, rather than offer tangible solutions to people's concerns.\n \nIn doing so, Langley positioned Flock as an advance in technology that was somewhat inevitable. He stressed that if people wanted to live in a better society -- that is, one with reduced crime -- they would have to offer up their privacy in return. [...] \"Technology, at its core, in its definition, is just doing things better. It's not doing things perfect,\" he said. \"Driverless cars, I think, is a fair analogy. Driverless cars, I think, are definitively safer than human drivers. And when there's one accident, I don't think the answer is to shut down driverless cars. The answer is to say, 'Hey, let's talk about how we prevent more accidents in the future.'\"\n \n[...] From Langley's answers, it's clear that the ethics around how Flock should be used is a decision he would much rather leave up to others. \"We don't want to tell city leaders how to do their job,\" he noted. \"We will provide recommendations, we'll provide defaults, but we're going to minimize the number of mandated features, functions, and policies,\" he said. Langley went on to argue that society too often judges technology \"not on how it compares to the past, but how it compares to perfect.\" He acknowledged that \"Flock is far from perfect\" but maintained that its technology helps police departments compensate for staffing shortages and improve public safety.\n \nWhen pressed about potential abuse and privacy concerns, Langley offered few specifics, instead arguing that safeguards could be implemented without disrupting police operations. He insisted the benefits of what Flock offers outweigh the controversy. \"There's millions and millions of people who have a better life today because [of] Flock,\" he said, adding that \"it's worth it because one day they might be a victim.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 15, 2026 21:00",
+    "published_at": "2026-10-15T21:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "First-Ever Public Confirmation of 'Zero-Click' Spyware Delivered Via Targeted Ads",
+    "link": "https://tech.slashdot.org/story/26/10/15/1822259/first-ever-public-confirmation-of-zero-click-spyware-delivered-via-targeted-ads?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Citizen Lab says it has documented the first publicly confirmed case of zero-click mercenary spyware being delivered through targeted online ads, a technique it calls \"AdFection.\" \"There has been a lot of buzz that online ads can be used to identify and automatically hack targets with pinpoint precision, but now for the first time, we have concrete technical evidence showing this process in action,\" said Bill Marczak, a researcher at Citizen Lab. The Guardian reports: Citizen Lab, a digital investigations research unit at the University of Toronto, said it believed dozens of devices at the Qatari broadcaster Al Jazeera had been compromised by spyware delivered through ads run by Discover-Tech, which describes itself as a specialised digital advertising agency. According to Citizen Lab, Discover-Tech operates a software platform called Controlium that allows its clients to \"mass-profile and deanonymize\" internet users then covertly hack targets with third-party spyware. Unlike infections that rely on people interacting with links or files, the spyware requires no interaction from the victim to be installed, making it a new delivery technique, Citizen Lab says. The infections happen without a user's knowledge, and in a matter of seconds, according to Citizen Lab.\n \n\"[The online advertising] ecosystem is being weaponized at a massive scale to profile millions of users, then silently infect targets with zero-click mercenary spyware,\" the report says. According to the report, Controlium is able to harvest a user's identity and IP address when the user is shown a seemingly benign custom-created ad -- for example, for a digital game or a telecoms service. If the user has been selected as a target for hacking, a mercenary spyware firm can then send a malicious code containing spyware to their device, the researchers say. They say that millions of users worldwide have been served ads by Discover-Tech since 2024, including in Yemen, Brazil, Mexico and Czechia. [...] The full extent of the targeting allegedly enabled by Discover-Tech is unknown. Citizen Lab's findings join mounting evidence that the opaque arrangements underpinning the world of online advertising can be leveraged for surveillance.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 15, 2026 20:00",
+    "published_at": "2026-10-15T20:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "LPDDR5 5467 vs. 6400 vs. 7467 MT/s Memory Performance Benchmarks For Laptops",
+    "link": "https://www.phoronix.com/review/lpddr5-5467-6400-7467",
+    "description": "With the recently reviewed Star Labs StarFighter Ultra Linux laptop its BIOS allows for configurable memory speeds unlike many other laptop vendor BIOS implementations these days. Star Labs also made the default design decision to run the LPDDR5-7467 rated memory at LPDDR5-6400 speeds in the name of a balanced user experience for power/performance. So I was curious to run some benchmarks quantifying that power and performance impact of LPDDR5-6400 vs. LPDDR5-7467 plus tossed in LPDDR5-5467 testing as well as the third choice offered with this StarFighter Ultra laptop.",
+    "guid": "https://www.phoronix.com/review/lpddr5-5467-6400-7467",
+    "date": "Oct 15, 2026 19:02",
+    "published_at": "2026-10-15T19:02:37Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Meta and Apple Bring Muse Spark Open AI Model to Mac Studio",
+    "link": "https://apple.slashdot.org/story/26/10/15/189249/meta-and-apple-bring-muse-spark-open-ai-model-to-mac-studio?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Meta has released Muse Spark Open, an 816-billion-parameter open-weight model optimized to run locally across two 512GB M5 Ultra Mac Studios using Apple's MLX framework. Meta says it's the \"most capable U.S. open-weight model to date.\" MacRumors reports: Muse Spark Open has 816 billion total parameters with 42 billion active parameters and a 1 million-token context window. It is meant for coding and agentic work, and Meta says it excels at extended tasks, multi-step reasoning, and software engineering. The new Muse model was tuned to run on Mac Studio, and Meta says the Mac Studio paired with Muse Spark Open is the \"best way to run a powerful model on your own desktop.\"\n \nFrom Meta: \"Apple's unified memory architecture lets the M5 Ultra's integrated GPU use up to 512 GB per Mac Studio, so two machines can hold an entire model. And the chip's 1.2 TB/s of memory bandwidth is fast enough to read the small slice each token needs. The result is two Mac Studios behave like one supercomputer with a terabyte of unified memory.\" Apple hasn't released the 512GB Mac Studio as of yet, but it's supposed to be coming later this month. It won't be cheap, because the 256GB Mac Studio is already priced over $10,000.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 15, 2026 19:00",
+    "published_at": "2026-10-15T19:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Ubuntu 26.10 (Stonking Stingray) Is Now Available for Download, Here’s What’s New",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368191",
+    "description": "Ubuntu 26.10 (Stonking Stingray) has been released today, and it is now available for download for those eager to update their Ubuntu systems to a newer release.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368191",
+    "date": "Oct 15, 2026 18:51",
+    "published_at": "2026-10-15T18:51:03Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Microsoft Says Windows 11 Is Now 'More Responsive', Runs Better On 8GB of RAM",
+    "link": "https://tech.slashdot.org/story/26/10/15/1741225/microsoft-says-windows-11-is-now-more-responsive-runs-better-on-8gb-of-ram?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Microsoft says recent Windows 11 updates have made the operating system up to 20% more responsive by improving memory management and reducing background resource use. \"A big part of that work is making smarter use of memory and system resources,\" says Navjot Virk, corporate vice president of Windows experiences at Microsoft. \"We've improved memory management and efficiency across Windows to help keep more of your PC's resources focused on what you're actively doing.\" The Verge reports: The improvements to memory management now make a \"meaningful difference\" on PCs with just 8GB of RAM. \"Windows can now keep up to 2GB more of your active data in memory instead of moving it to slower storage,\" says Virk. \"For example, on PCs with 8GB of memory or less, Widgets load only when you open them, making more than 200 MB of memory available for your apps and other work.\"\n \nMicrosoft has also made Windows Update less disruptive, cleaned up the Widgets section, and finally allowed the taskbar to be repositioned to the sides or top of a display. Windows Hello sign-in has also been sped up, and Bluetooth pairing is more reliable, \"including an AirPods pairing experience that's up to 15 seconds faster.\"\n \nThe next big step is a new Windows Search experience that's a lot faster and more capable. [...] It's currently available for Windows Insiders, and Microsoft says it will \"roll out more broadly later this year.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 15, 2026 18:00",
+    "published_at": "2026-10-15T18:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Memtest86+ v9.00 Released With Support For ARM64 Memory Testing",
+    "link": "https://www.phoronix.com/news/memtest86-Plus-9.0",
+    "description": "The open-source Memtest86+ program that is popular for RAM testing has expanded beyond the x86/x86_64 (and LoongArch64) world to now support memory testing on ARM64/AArch64 hardware...",
+    "guid": "https://www.phoronix.com/news/memtest86-Plus-9.0",
+    "date": "Oct 15, 2026 17:58",
+    "published_at": "2026-10-15T17:58:00Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Amazon Launches New Bee 'Personal AI' Devices That Listen to Conversations",
+    "link": "https://yro.slashdot.org/story/26/10/15/1718232/amazon-launches-new-bee-personal-ai-devices-that-listen-to-conversations?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Amazon has unveiled two new Bee \"personal AI\" devices designed to continuously record, transcribe, and analyze conversations: the $75 wearable Bee Frontier and the $100 phone-mounted Bee Eclipse. Amazon says the devices can generate conversation summaries, surface recurring themes, and recommend actions or purchases, while claiming audio itself is never stored and users can delete transcripts and summaries. CNBC reports: The Bee Frontier is an upgraded version of Amazon's existing wearable that can either be worn on a wrist or clipped to clothing. Similar to earlier generations, the Bee Frontier has up to seven days of battery life, but it's also more expensive, costing $75 compared with its $50 predecessor.\n \nAmazon acquired Bee, a San Francisco startup known for its always-listening bracelet, in July 2025 for an undisclosed amount. Bee bracelets are equipped with artificial intelligence and microphones that can record, transcribe and analyze conversations. The dual mics on the Bee Frontier have upgraded noise filtering, \"so it can take note of what matters and ignore what doesn't, even in noisy environments like a crowded restaurant or open office,\" Amazon said in a blog post.\n \nAmazon also debuted the $100 Bee Eclipse, which functions like other Bee devices, but instead of being worn, the credit card-sized gadget magnetically snaps on to the back of a smartphone. The Bee Frontier is available Thursday, while the Bee Eclipse \"will be available soon,\" the company said.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 15, 2026 17:20",
+    "published_at": "2026-10-15T17:20:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Libreboot 26.10 Open-Source BIOS/UEFI Firmware Released with Full UEFI Support",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368187",
+    "description": "Libreboot 26.10 has been released today as a major update to this open-source and free BIOS/UEFI firmware alternative that adds support for new devices, as well as numerous improvements.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368187",
+    "date": "Oct 15, 2026 17:19",
+    "published_at": "2026-10-15T17:19:33Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
     "title": "Strata 1.0 Released, a New Linux File Manager Built for Omarchy",
     "link": "https://lxer.com/module/newswire/ext_link.php?rid=368192",
     "description": "Strata 1.0 is a new Rust-based Linux file manager designed for Omarchy, featuring GTK4, Miller columns, keyboard navigation, and secure previews.",
@@ -143,17 +321,6 @@
     "published_at": "2026-10-15T12:45:05Z",
     "source": "lxer.com",
     "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Ubuntu 26.10 (Stonking Stingray) released",
-    "link": "https://www.gamingonlinux.com/2026/10/ubuntu-26-10-stonking-stingray-released/",
-    "description": "Ubuntu 26.10 (Stonking Stingray) released, as the latest upgrade to the popular Linux distribution.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/10/ubuntu-26-10-stonking-stingray-released/",
-    "date": "Oct 15, 2026 11:35",
-    "published_at": "2026-10-15T11:35:13Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/685840018id29980gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
   },
   {
     "title": "Ubuntu 26.10 Released With Linux 7.3 + GNOME 51, Rust Coreutils Migration Complete",
@@ -410,17 +577,6 @@
     "source_url": "https://itsfoss.com/"
   },
   {
-    "title": "US Tech Giants Warn Europe That Data Sovereignty Requirements Could Cost $128 Billion",
-    "link": "https://news.slashdot.org/story/26/10/14/1849228/us-tech-giants-warn-europe-that-data-sovereignty-requirements-could-cost-128-billion?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "A study commissioned by CCIA Europe, whose members include Amazon, Google, and Meta, estimates that the EU's proposed Cloud and AI Development Act could impose 115 billion euros ($128 billion) in costs over a decade as governments and companies migrate workloads and rewrite software. The figure is more than six times the European Commission's upper estimate. However, roughly 80 billion euros ($89 billion) of it comes from a modeled scenario assuming sovereignty rules are extended to 25% of cloud workloads in essential private-sector industries.The Register reports: The report specifically targets Article 31 of the proposed legislation, which it says could allow the Commission to extend sovereignty requirements into essential private-sector services. CCIA argues that forcing businesses to move away from existing cloud infrastructure could trigger expensive software redevelopment projects, with code rewriting and re-architecting accounting for 69 percent of its estimated costs.\n \nLuxembourg would apparently take the biggest hit, with the study putting the cost at 1,711 euros per worker over ten years. Denmark (905 euros), Austria (900 euros), and Finland (864 euros) also face hefty bills, as does Ireland (856 euros), which hosts the European headquarters of several US tech giants. CCIA is urging EU governments to overhaul the proposed legislation, limit sovereignty restrictions to sensitive workloads, and abandon requirements based on corporate origin or personnel nationality in favor of what it calls risk-based technical safeguards.\n \n\"Member States cannot rely on the Commission's incomplete estimates when deciding CADA's strict sovereignty requirements for cloud and AI providers,\" said Mitchell Rutledge, CCIA Europe's policy manager. \"Taxpayers and businesses will foot the bill, yet the official assessment missed 70 percent of CADA's true impact.\" For AWS and Google, offering European customers greater control over their data also helps retain business that might otherwise migrate to European competitors. It's a rather convenient arrangement: sell customers sovereignty on one hand, while an industry association representing your interests warns governments against imposing too much of it on the other.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 14, 2026 20:00",
-    "published_at": "2026-10-14T20:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
     "title": "Framework Computers Triples Their Financial Support To CachyOS",
     "link": "https://www.phoronix.com/news/Framework-More-CachyOS",
     "description": "In addition to providing Framework systems to the CachyOS Linux distribution for optimizing the support, Framework Computers has also been providing monthly donations to the project. CachyOS confirmed today that Framework Computers has now tripled their monthly donations to this independent Linux distribution built atop Arch Linux...",
@@ -431,17 +587,6 @@
     "source_url": "https://www.phoronix.com/"
   },
   {
-    "title": "Google Is Silently Linking Your Phone Number Across All Signed-In Accounts",
-    "link": "https://tech.slashdot.org/story/26/10/14/1832230/google-is-silently-linking-your-phone-number-across-all-signed-in-accounts?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Google has made Android's phone-number verification opt-out, automatically verifying and associating a device's phone number with every Google account signed in on that phone, including secondary and work accounts. Android Authority reports: As spotted in a recent Reddit thread, users report receiving confirmation emails out of the blue from \"noreply-phone-verification@google.com\" stating that their phone number has been verified. The feature, known in Google settings as \"Phone number verification,\" links your active phone number across all Google accounts signed in on the same phone, including secondary profiles, work accounts, and throwaway handles.\n \nGoogle's support documentation has long noted that it periodically re-verifies your device's phone number to keep communication and recovery features up to date. However, this support page was updated sometime between August and October 2025 to add this rather aggressive behavior of turning on phone number verification by default, as well as adding all phone numbers to all Google accounts signed in on the device. To disable automatic phone number verification on Android, open your phone's Settings app, tap Google, and select the All Services tab. Under Privacy \u0026 Security, find Phone number verification and turn off Verify phone numbers automatically.\n \n\"[T]urning off the phone number verification toggle only prevents future linking,\" notes the report. \"If Google has already attached your number across secondary accounts, you will need to open your Google Account Personal Info page, head to Contact info \u003e Phone, and manually remove the number from each profile where it doesn't belong.\"\n\n\n\n\n\n\n\n\n\n\n\n\nIs this conversation helpful so far?\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 14, 2026 19:00",
-    "published_at": "2026-10-14T19:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
     "title": "Apple Contributes SSAF Driver To LLVM Clang For Source Code Transformations",
     "link": "https://www.phoronix.com/news/Apple-Clang-SSAF-Driver",
     "description": "Apple compiler engineers have contributed to upstream LLVM/Clang today a Scalable Static Analysis Framework (SSAF) driver for whole-program based analysis and source-to-source code transformations...",
@@ -450,287 +595,5 @@
     "published_at": "2026-10-14T18:45:29Z",
     "source": "phoronix.com",
     "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Distro of the Week: Asmi 13.6 Linux",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368180",
-    "description": "Asmi - pronounced like \"us\" and \"me, and is Sanskrit and Hindi that means \"I am\" or \"I exist\" - is based on Debian 13.6 \"Trixie\" and provides a lightweight and modern Xfce-based experience with the addition of distro-specific tools to make the Linux experience a good one.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368180",
-    "date": "Oct 14, 2026 18:05",
-    "published_at": "2026-10-14T18:05:52Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Anthropic Warns Small AI Models Could Self-Replicate Through IoT Devices",
-    "link": "https://it.slashdot.org/story/26/10/14/1743259/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "An anonymous reader quotes a report from Ars Technica: AI company Anthropic is warning that advances in small AI models could soon usher in a new era of self-replicating malware that's capable of infecting smart fridges, vacuum cleaners, and a wide range of other Internet-of-things devices and is more resistant to takedown. By next year, smaller AI models may be able to autonomously self-replicate on all kinds of IoT devices, the company said. Eventually, the capability could enable computer worms, which propagate without requiring human interaction and are capable of infecting unfamiliar IoT devices. An experiment the company performed recently revealed significant challenges in bringing such an AI malware replicator to fruition, so the finding is necessarily tempered. Still, the results do raise concerns about the possibility of new forms of computer worms.\n \nAnthropic further warned not only about the new potential malware, but also that it could be difficult to stop. In its blog post, it wrote that \"a replicator like this would be challenging to shut down, since there's no centralized point to shut off -- though it may be slow (with a doubling time of days). Unlike non-AI malware, it could also figure out unfamiliar devices on its own.\" Smaller AI models require much less powerful hardware to run than do frontier models. Anthropic ran small open-weight models on real or simulated low-cost, off-brand Android TV boxes and other types of IoT hardware. Company researchers found that by using quantization to represent the models using fewer bits and splitting the workloads into \"shards\" running on each device, the models were able to establish inference, meaning that the model weights loaded and could generate output.\n \n[...] This finding was the starting point for further research that asked: Would it be possible for small models to create self-replicating infections that run themselves on IoT devices the way traditional IoT worms, like Mirai, install DDoS code and other payloads? Unlike Mirai, these AI worms could pose a much higher threat, since the models could tailor exploits and payloads dynamically, depending on the target. Once such an infection chain began, it might also be harder for defenders to stop it. \"Such an 'AI worm' could carry its model weights with it as it reproduces (or re-download them from a public hub), and then run inference directly on compromised hardware,\" Anthropic said. \"Effectively, the weights would become part of the malware payload.\" Further reading: Anthropic Bans Cruelty Toward Claude\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 14, 2026 18:00",
-    "published_at": "2026-10-14T18:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "This Dev Built an Office Suite Because His Wife Kept Going Back to Microsoft Office",
-    "link": "https://feed.itsfoss.com/link/24361/17497566/elixiroffice-euro-office-fork",
-    "description": "ElixirOffice is a new suite based on Euro-Office components and developed using AI.",
-    "guid": "6acf0b1b965d0e000159f3a4",
-    "date": "Oct 14, 2026 17:12",
-    "published_at": "2026-10-14T17:12:00Z",
-    "image": "https://itsfoss.com/content/images/2026/10/elixiroffice-banner.png",
-    "source": "itsfoss.com",
-    "source_url": "https://itsfoss.com/"
-  },
-  {
-    "title": "Google Play Now Lets Anyone Build Private, Vibe-Coded Apps That Run On Android",
-    "link": "https://tech.slashdot.org/story/26/10/14/1529232/google-play-now-lets-anyone-build-private-vibe-coded-apps-that-run-on-android?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Google Play is adding support for private personal Android apps, allowing users to build an app with tools like Google AI Studio and run it on their own devices without publishing it publicly to the Play Store. \"These personal apps won't show up in Google Play's search or listing pages, and won't be shared with anyone except for the app's creator,\" reports TechCrunch. From the report: The idea comes as more people are experimenting with building their own applications via AI for specific, personal needs. However, being able to use that app on their own Android device has meant publishing to Google Play, making it accessible to the Play Store's some 3 billion users. That led many to limit their vibe-coding efforts to web apps that could run on any device instead of something built natively for Android.\n \nNow, Google says Android device owners can vibe-code an app using Google AI Studio, then launch it for their own use. These apps are still required to comply with Google Play's existing policies but allow users to experiment more directly with building apps for Android. Initially, the feature will be available to users in the U.S., age 18 and up.\n \n[...] In the months ahead, the company said that users will be able to share their vibe-coded creations with a network of trusted friends. That means the apps you built for family or friends, or maybe your child's T-ball league, could be used with a small group of people, without having to go public on the Play Store. And if the app ever really becomes popular, there will be a way to shift the personal app to one that's published on the Google Play Store for everyone to try, after completing the trust and safety reviews.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 14, 2026 17:00",
-    "published_at": "2026-10-14T17:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Happy 30th Birthday, KDE!",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368164",
-    "description": "Today, KDE, one of the largest active free software communities in the world, celebrates its 30th anniversary since German computer science student Matthias Ettrich announced the project on Usenet.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368164",
-    "date": "Oct 14, 2026 16:28",
-    "published_at": "2026-10-14T16:28:41Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Netflix Cuts About 6% of Jobs In Biggest Layoffs Since 2022",
-    "link": "https://slashdot.org/story/26/10/14/151250/netflix-cuts-about-6-of-jobs-in-biggest-layoffs-since-2022?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Netflix is laying off about 1,000 employees, or 6% of its workforce, in its largest round of cuts since 2022. The company says its business remains strong, but it is facing growing pressure from YouTube, TikTok, and other rivals. Reuters reports: The bulk of the job cuts would be in Netflix's product, tech, legal and human-resources teams, the email Co-CEOs Greg Peters and Ted Sarandos sent to employees on Wednesday showed.\n \n\"Our mission -- to entertain the world -- is ambitious, and delivering on it requires us to be disciplined about where we prioritize our people âand resources,\" they said in the memo. \"Our business is strong and growing, and we remain on track to deliver our full-year forecast.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 14, 2026 16:00",
-    "published_at": "2026-10-14T16:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Local AI Weekly #5: AI Gets a Desk Job",
-    "link": "https://feed.itsfoss.com/link/24361/17497492/local-ai-weekly-5",
-    "description": "Agents are moving into office suites, and Big Tech wants them in all your work apps. Check out the latest Local AI Weekly newsletter.",
-    "guid": "6acf90b9965d0e000159f6f1",
-    "date": "Oct 14, 2026 15:00",
-    "published_at": "2026-10-14T15:00:45Z",
-    "image": "https://itsfoss.com/content/images/2026/10/local-ai-weekly.webp",
-    "source": "itsfoss.com",
-    "source_url": "https://itsfoss.com/"
-  },
-  {
-    "title": "Dutch Tax Authorities Cancel Microsoft 365 Cloud Rollout, Turn Toward Open Source",
-    "link": "https://news.slashdot.org/story/26/10/14/033258/dutch-tax-authorities-cancel-microsoft-365-cloud-rollout-turn-toward-open-source?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "An anonymous reader quotes a report from ZDNet: The Netherlands' Tax and Customs Administration has abandoned its planned Microsoft 365 public-cloud rollout. Why? The reasons were clear at the Open Source Summit Europe conference, where the Linux Foundation (LF) released the 2026 State of Open Source in Europe. In it, the nonprofit, pro-open-source organization revealed that 94% of European Union (EU) organizations say digital sovereignty is important, with 61% considering it very important. As Thierry Carrez, the Linux Foundation Europe GM, said in his keynote, \"Europe has clearly heard the message on digital sovereignty.\"\n \nIn an interview onstage at the summit, Nithya Ruff, chair of the LF board, added that it's not just Europe: \"Digital sovereignty is a need that the entire world feels, whether it's Sierra Leone or the US or China.\" It's not just the Dutch tax collectors, though. The Netherlands is also exploring switching from Windows and proprietary software to Linux and open-source programs across the board. [...] The Netherlands had planned to switch to Microsoft 365 in 2025. The idea then was to complete the rollout by the end of 2026. About 5,000 employees had already migrated when the Dutch Advisory Council on ICT Assessment recommended reversing the public-cloud rollout in June. The government paused the plan in July; the latest announcement replaces that rollout with an on-premises/open-source approach.\n \nThe Tax and Customs Administration isn't replacing all of Microsoft Office with a single open-source suite, at least not yet. Instead, the government will keep the existing Microsoft software for now. Looking ahead, State Secretary for Finance Eelco Eerenberg set out the replacement timetable in a letter to Parliament: \"In 2027, the provision for mail and calendar will be realized on-premises. Later in 2027 and 2028, European open-source solutions for personal storage and collaboration will follow. This allows us to work toward a sustainable and more autonomous solution for these functionalities.\" [...] For now, the on-premises email/calendar environment will still use Microsoft software, including Outlook. The open-source portion concerns personal storage and collaboration, not a wholesale replacement of Word, Excel, PowerPoint, or the entire desktop environment. As for why the Netherlands pulled back, the ICT assessment found serious concerns over \"information security, information processing and future-proofing.\" Key issues included routing confidential documents through American servers, relying on standard Microsoft encryption rather than Double Key Encryption, and inadequate end-to-end encryption for Teams calls. The assessment also identified \"vendor lock-in, reduced flexibility, concerns about digital sovereignty, and the absence of an adequate exit strategy\" as dealbreakers.\n \nZDNet notes that other Dutch government agencies are developing an open-source alternative called DAWO (Digital Autonomous Work Environment for Government), which would begin by replacing Windows with the Linux distribution NixOS.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 14, 2026 15:00",
-    "published_at": "2026-10-14T15:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "KDE Plasma 6.8 Released, Drops X11 Sessions After 30 Years of KDE",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368167",
-    "description": "KDE Plasma 6.8 arrives on KDE's 30th anniversary, dropping native X11 sessions and improving Wayland, performance, HDR, and remote desktop.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368167",
-    "date": "Oct 14, 2026 14:57",
-    "published_at": "2026-10-14T14:57:12Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Epic Games Launcher preview arrives - Native Linux support, Fortnite for Linux is coming and upgraded Easy Anti-Cheat",
-    "link": "https://www.gamingonlinux.com/2026/10/epic-games-launcher-preview-arrives-native-linux-support-fortnite-for-linux-is-coming-and-upgraded-easy-anti-cheat/",
-    "description": "Epic Games have announced their brand new Epic Games Launcher refresh has a Preview available, along with Native Linux support and Fortnite is coming to Linux.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/10/epic-games-launcher-preview-arrives-native-linux-support-fortnite-for-linux-is-coming-and-upgraded-easy-anti-cheat/",
-    "date": "Oct 14, 2026 14:19",
-    "published_at": "2026-10-14T14:19:21Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/113751237id29972gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Ubuntu 26.10 amd64v3 Packages Provide Some Additional Uplift On AMD EPYC",
-    "link": "https://www.phoronix.com/review/ubuntu-2610-amd64v3-epyc",
-    "description": "In addition to Ubuntu 26.10 itself delivering some nice performance gains on Ubuntu 26.10 for AMD EPYC servers and other hardware, the optional and currently-unofficial amd64v3 package archive also provides additional performance uplift. Here is a look quantifying the performance impact of amd64v3 packages on AMD EPYC 9005 series servers.",
-    "guid": "https://www.phoronix.com/review/ubuntu-2610-amd64v3-epyc",
-    "date": "Oct 14, 2026 14:16",
-    "published_at": "2026-10-14T14:16:17Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "[$] Collaborating with out-of-tree tracers",
-    "link": "https://lwn.net/Articles/1099300/",
-    "description": "LTTng creator Mathieu Desnoyers seems a\nbit trapped in something of a catch-22.\nAt the 2026 Linux Plumbers Conference\n(LPC), he led a discussion on the problem he is having in trying to\ncollaborate with other tracing projects (e.g. ftrace, perf) in the kernel.  The\nfeedback he has gotten, both over the years and more recently, does not\nshow a path that would allow him to contribute the 21-year-old\nGPLv2-licensed LTTng tracing framework, or, incrementally, features from\nit, to the mainline kernel.",
-    "guid": "https://lwn.net/Articles/1099300/",
-    "date": "Oct 14, 2026 13:56",
-    "published_at": "2026-10-14T13:56:50Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "Linus Torvalds's first LLM-assisted patch series",
-    "link": "https://lwn.net/Articles/1100449/",
-    "description": "At the recently concluded Maintainers\nSummit, Linus Torvalds said that he had been using a large language\nmodel to work on a patch series addressing a longstanding problem; he has\nnow posted\nthat series for review.\n\n\n\tThe fairly short series of ten patches basically enhances folio\n\tlookup by noticing when folios are hot, and setting a \"delay\n\treleasing this folio until after a RCU period\", and then using that\n\tRCU delay it does not just the folio lookup itself under RCU (which\n\twe've done forever), but also the actual folio data accesses\n\tthemselves under RCU. No refcount taking needed for the fastpath\n\twhere we can just read the data from the folio entirely in an\n\tRCU-protected region when the user copy doesn't cause page faults.\n\n\nThe end result is an order-of-magnitude speedup for a read()-heavy\nbenchmark.  Review has already identified a race\ncondition in the code, though, so further work will be needed.",
-    "guid": "https://lwn.net/Articles/1100449/",
-    "date": "Oct 14, 2026 13:50",
-    "published_at": "2026-10-14T13:50:29Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "Linux Mint 23 is No More. A New Release Takes its Place",
-    "link": "https://feed.itsfoss.com/link/24361/17497316/linux-mint-27-announced",
-    "description": "The new one, Linux Mint 27 \"Adrien,\" is due Christmas with an Ubuntu 26.04 LTS base.",
-    "guid": "6acf3490965d0e000159f4e5",
-    "date": "Oct 14, 2026 13:47",
-    "published_at": "2026-10-14T13:47:48Z",
-    "image": "https://itsfoss.com/content/images/2026/10/linux-mint-27-announcement-banner.png",
-    "source": "itsfoss.com",
-    "source_url": "https://itsfoss.com/"
-  },
-  {
-    "title": "KDE Plasma 6.8 released",
-    "link": "https://lwn.net/Articles/1100429/",
-    "description": "Version 6.8 of\nthe KDE Plasma desktop has been\nreleased. The The KDE project has timed the release to coincide with the 30th\nanniversary of Matthias Ettrich's email announcing the\nproject:\n\n\nUnix popularity grows thanks to the free variants, mostly Linux. But still a\nconsistent, nice looking free desktop-environment is missing. There are several\nnice either free or low-priced applications available, so that Linux/X11 would\nalmost fit everybody needs if we could offer a real GUI.\n\n\nNotable changes include accessibility improvements, inclusion\nof the Kup backup\ntool as part of Plasma, as well as the ability to include system audio and\nmicrophone input in Spectacle\nscreen recordings. Plasma 6.8 also drops support for Plasma X11 sessions, as was announced\nin November 2025. X11 applications are still supported via XWayland, and KDE\napplications will continue to support X11 \"for the foreseeable\nfuture\".\n\nSee the KDE wiki for a\nlist of major user-facing changes, and the changelog\nfor all changes since Plasma 6.7.5.\n\n",
-    "guid": "https://lwn.net/Articles/1100429/",
-    "date": "Oct 14, 2026 13:41",
-    "published_at": "2026-10-14T13:41:09Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "[$] GCC development with large-language models",
-    "link": "https://lwn.net/Articles/1098672/",
-    "description": "After much deliberation, the GCC project recently came up with a policy on the use of large\nlanguage models for development of the compiler suite.  It is somewhat\nrestrictive, but still leaves room for LLMs in the development process.  At\nthe 2026 GNU Tools Cauldron,\nJeff Law and Kyrill Tkachov discussed how these tools have been useful for\nthem.",
-    "guid": "https://lwn.net/Articles/1098672/",
-    "date": "Oct 14, 2026 13:13",
-    "published_at": "2026-10-14T13:13:53Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "HP EliteBook 6 G1q Powered By Snapdragon X1 Plus Sees Linux Patches",
-    "link": "https://www.phoronix.com/news/HP-EliteBook-6-Q1q-Linux-Patch",
-    "description": "Canonical engineer Juerg Haefliger posted a set of Device Tree patches in working to support the mainline Linux kernel on the HP EliteBook 6 G1q laptop that is powered by the Qualcomm Snapdragon X1 Plus SoC...",
-    "guid": "https://www.phoronix.com/news/HP-EliteBook-6-Q1q-Linux-Patch",
-    "date": "Oct 14, 2026 13:10",
-    "published_at": "2026-10-14T13:10:14Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Security updates for Wednesday",
-    "link": "https://lwn.net/Articles/1100426/",
-    "description": "Security updates have been issued by AlmaLinux (bind9.18, dovecot, flatpak, gd, jackson-core, jackson-databind, jackson-jaxrs-providers, and jackson-modules-base, kernel, opentelemetry-collector, pcre2, and tftp), Debian (curl and keystone), Fedora (aegisub, arm-none-eabi-binutils-cs, avr-binutils, chromium, curl, firefox, kernel, python-jupytext, and xdg-dbus-proxy), Mageia (apache, freeciv, gnumeric, mingw-gdk-pixbuf, and patool), Red Hat (cockpit-image-builder, fence-agents, firefox, ipa, kernel, kernel-rt, pcre2, python-tornado, qt6-qtdeclarative, thunderbird, and webkit2gtk3), Slackware (expat), SUSE (bind, busybox, containerd, cups-filters, fixme, gimp, glibc, google-osconfig-agent, kernel, libtcnative-2-0, openssh, openssl-3, php8, podman, python-oauthlib, python-PyJWT, python-urllib3, python-virtualenv, python311, python313-jupyter-server, python313-kubernetes, python313-logilab-common, python313-markdown-it-py, python313-markdown2, python313-marshmallow, python313-mpmath, python313-mysql-connector-python, python313-oci-sdk, python313-oic, unbound, wpa_supplicant, xen, and xorg-x11-server), and Ubuntu (kernel, libyaml-perl, linux, linux-aws, linux-aws-fips, linux-aws-hwe, linux-azure, linux-azure-4.15, linux-azure-fips, linux-fips, linux-gcp, linux-gcp-4.15, linux-gcp-fips, linux-hwe, linux-kvm, linux, linux-aws, linux-aws-fips, linux-fips, linux-gcp, linux-gcp-fips, linux-gke, linux-gkeop, linux-ibm, linux-lowlatency, linux-oracle, linux-realtime, linux, linux-aws, linux-azure, linux-azure-5.4, linux-fips, linux-gcp, linux-gcp-5.4, linux-gcp-fips, linux-hwe-5.4, linux-iot, linux-kvm, linux-oracle, linux-oracle-5.4, linux-raspi, linux-raspi-5.4, linux-xilinx-zynqmp, linux, linux-aws, linux-fips, linux-kvm, linux-lts-xenial, linux-aws-5.4, linux-aws-fips, linux-azure-fips, linux-ibm, linux-ibm-5.4, linux-azure, linux-azure-fde, linux-azure-fips, linux-oracle, and pyjwt).",
-    "guid": "https://lwn.net/Articles/1100426/",
-    "date": "Oct 14, 2026 13:02",
-    "published_at": "2026-10-14T13:02:10Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "Best Email Clients for Linux in 2026: Free, Open Source and Paid Options",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368173",
-    "description": "Webmail is not your only choice. Compare 13 Linux email clients, from Thunderbird to NeoMutt, with pros, cons, privacy notes and a full table.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368173",
-    "date": "Oct 14, 2026 11:54",
-    "published_at": "2026-10-14T11:54:13Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Linux Finally Making It Easier To Answer The Question: \"Is This RISC-V System RVA23?\"",
-    "link": "https://www.phoronix.com/news/Linux-Answering-RVA23-Question",
-    "description": "The RISC-V RVA23 profile is a big deal for reducing fragmentation in the RISC-V ecosystem and standardizing more of the ISA to make it easier to distribute modern RISC-V binaries and the like. Modern versions of Ubuntu mandate RVA23 even though compliant hardware is still quite limited. Somewhat surprisingly, only coming about now is an easy ability for Linux users to find the answer to \"is my RISC-V system RVA23 compliant?\" Pending Linux kernel patches are finally offering a one-shot way of telling you...",
-    "guid": "https://www.phoronix.com/news/Linux-Answering-RVA23-Question",
-    "date": "Oct 14, 2026 11:47",
-    "published_at": "2026-10-14T11:47:39Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "BeOS-Inspired Haiku Landed More Hardware Improvements \u0026 Other Changes In September",
-    "link": "https://www.phoronix.com/news/Haiku-September-2026",
-    "description": "Released at the end of August was Haiku R1 Beta 6 and over the course of September, further improvements continued to land for this BeOS-inspired project now in its 25th year of development...",
-    "guid": "https://www.phoronix.com/news/Haiku-September-2026",
-    "date": "Oct 14, 2026 11:34",
-    "published_at": "2026-10-14T11:34:14Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Anthropic Reinvents Source Control As Claude Floods the World With Code",
-    "link": "https://developers.slashdot.org/story/26/10/14/0244248/anthropic-reinvents-source-control-as-claude-floods-the-world-with-code?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Anthropic says Claude-generated code has scaled so quickly that its existing Git-based infrastructure could not keep up. In response, the company built a custom centralized source-control system called Scion, along with AI-assisted review and search tools. The Register reports: \"In May 2026, Anthropic averaged around 2,500 code changes merged per day; as of September, we merged over 30,000 per day,\" the biz said in a blog post on Tuesday. \"We don't expect this rate of growth to slow down anytime soon; the latent demand for merging code is practically infinite, and every bottleneck we remove immediately leads to a further increase in the amount of code we produce.\"\n \nAfter several months of model prompting and five months of migration, the result is a homemade version control system called Scion, a monorepo scheme that sounds a bit like Subversion, Apache's centralized version control system. [...] Scion has been designed to meet the needs of AI agents, so the client leaves much of the work to the server; the source control queries are exposed via API so internal tools can respond without needing a local repo, and there's less synchronization but more need for server speed.\n \n\"In Scion, the unit of work is a 'changeset,' an entry in a write-ahead log,\" Anthropic explains. \"A changeset stores most of what you'd expect from a commit in git. But where a git commit stores a pointer to the tree, a changeset stores a list of the files that changed relative to its first parent, along with content-addressed pointers to the compressed file contents in blob storage.\" [...] Anthropic says its bespoke system isn't right for general use. There will be no open source release. Nonetheless, the company contends that its own code scaling problems will become commonplace in other organizations over the next few months, so it wanted to share its approach -- having ample funding to pay for writing custom infrastructure tools.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 14, 2026 11:00",
-    "published_at": "2026-10-14T11:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Cloud Hypervisor 54 Released With Live Migration Improvements",
-    "link": "https://www.phoronix.com/news/Cloud-Hypervisor-54",
-    "description": "Cloud Hypervisor, the Rust-based Virtual Machine Monitor that began as an Intel open-source project and evolved into a multi-vendor Linux Foundation project, is out today with a sizable feature update...",
-    "guid": "https://www.phoronix.com/news/Cloud-Hypervisor-54",
-    "date": "Oct 14, 2026 10:17",
-    "published_at": "2026-10-14T10:17:59Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "KDE Plasma 6.8 Released, Marks 30 Years Of The KDE Project",
-    "link": "https://www.phoronix.com/news/KDE-Plasma-6.8-Released",
-    "description": "The feature-packed and polished Plasma 6.8 KDE desktop is now available. Making this release all the more special is that it coincides with the 30th anniversary of the KDE project...",
-    "guid": "https://www.phoronix.com/news/KDE-Plasma-6.8-Released",
-    "date": "Oct 14, 2026 09:15",
-    "published_at": "2026-10-14T09:15:37Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "CultGame is a cult simulator RPG set in a procedurally generated fantasy world with haunting ASCII art",
-    "link": "https://www.gamingonlinux.com/2026/10/cultgame-is-a-cult-simulator-rpg-set-in-a-procedurally-generated-fantasy-world-with-haunting-ascii-art/",
-    "description": "One to stick on your list for testing out on Halloween, CultGame is a cult simulator RPG set in a procedurally generated fantasy world with haunting ASCII art.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/10/cultgame-is-a-cult-simulator-rpg-set-in-a-procedurally-generated-fantasy-world-with-haunting-ascii-art/",
-    "date": "Oct 14, 2026 09:10",
-    "published_at": "2026-10-14T09:10:38Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1246855798id29970gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "HUEMON takes the style of retro Pokemon and spins it with 5v5 battles",
-    "link": "https://www.gamingonlinux.com/2026/10/huemon-takes-the-style-of-retro-pokemon-and-spins-it-with-5v5-battles/",
-    "description": "Another interesting demo to go and check out is HUEMON, it's styled very much like retro Pokemon but brings 5v5 tactical battles.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/10/huemon-takes-the-style-of-retro-pokemon-and-spins-it-with-5v5-battles/",
-    "date": "Oct 14, 2026 08:40",
-    "published_at": "2026-10-14T08:40:08Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/459220293id29969gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Smash through hordes in the minimalist gladiator roguelite 'Mini Gladiators'",
-    "link": "https://www.gamingonlinux.com/2026/10/smash-through-hordes-in-the-minimalist-gladiator-roguelite-mini-gladiators/",
-    "description": "Mini Gladiators is a minimalist gladiator roguelite with bullet-heaven combat and satisfying ragdoll physics. A demo is now available to try.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/10/smash-through-hordes-in-the-minimalist-gladiator-roguelite-mini-gladiators/",
-    "date": "Oct 14, 2026 08:17",
-    "published_at": "2026-10-14T08:17:08Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/11811809id29968gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
   }
 ]
