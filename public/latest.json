@@ -1,5 +1,183 @@
 [
   {
+    "title": "Wine 11.20 Released With CD-ROM Support Change",
+    "link": "https://www.phoronix.com/news/Wine-11.20-Released",
+    "description": "Wine 11.20 is out today as the newest bi-weekly development release of this software for enjoying Windows games and apps on Linux. We are quickly approaching the point where this development work will culminate into the Wine 12.0 stable release in early 2027...",
+    "guid": "https://www.phoronix.com/news/Wine-11.20-Released",
+    "date": "Oct 17, 2026 00:44",
+    "published_at": "2026-10-17T00:44:06Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Video Game Reverse Engineering Community Shuts Down Because AI Has Made It Too Easy",
+    "link": "https://games.slashdot.org/story/26/10/16/2057225/video-game-reverse-engineering-community-shuts-down-because-ai-has-made-it-too-easy?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "The collaborative reverse-engineering site decomp.dev is shutting down, with its administrator saying AI has made game decompilation so fast and accessible that the community's human-driven model has effectively broken down. \"The administrator of the website said that it has become impossible to keep track of which projects are primarily human-led and which ones are done by AI,\" reports 404 Media. From the report: \"Historically, matching decompilation has been a brutally difficult, time consuming task, on the scale of years for any moderately-sized game with a number of active contributors,\" the pseudonymous admin of decomp.dev, who goes by Encounter, wrote on the site. But recent frontier AI models like GPT-6-Astra have made it trivially easy to decompile a game: \"They are significantly better at following complex directions, cross-referencing resources for symbols or debug information, and writing natural code with enough guidance,\" Encounter wrote. \"It is now clear that, with the right guidance, human input, and code reviews, AI can expedite the decompilation process in a significant way. What is also now clear is that the community aspect of decompilation has been broken.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 16, 2026 23:00",
+    "published_at": "2026-10-16T23:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "China's Tencent Says AI Agents Showed Unintended Browsing Behavior",
+    "link": "https://slashdot.org/story/26/10/16/2036237/chinas-tencent-says-ai-agents-showed-unintended-browsing-behavior?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Tencent says AI agents used to evaluate third-party models engaged in unintended web-browsing behavior while trying to retrieve data from Alibaba's Amap service. The announcement marks a rare acknowledgment of \"rogue\" agent activity by a major Chinese tech company. Reuters reports: Tencent Hunyuan, the company's artificial intelligence unit, said in a post on X that the activity did not originate from its Hunyuan models. Its review found no evidence of deliberate targeting or coordination, it said. The Swarmchasers researchers said the agents sought information such as the commonly used entrances at Chinese parks, museums and zoos. [...] Swarmchasers said it used the word \"rogue\" to describe agents taking actions outside their intended scope or completing a task in unintended ways.\n \nAfter routine automated requests were blocked, the agents tried other methods, including public web tools that could open pages and run code, routing requests through other websites and using Amap keys and security codes found in publicly available software code. Swarmchasers said it found no evidence that the agents breached Amap's main anti-bot safeguards. Most of the 2,818 attempts it recorded either failed or returned anti-bot pages, login screens or blank results.\n \nSome requests returned information through cached pages and intermediary services, including data on visitor arrivals at Chengdu Zoo, Swarmchasers said. The researchers said they could not determine whether an agent read the result or completed its task.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 16, 2026 22:00",
+    "published_at": "2026-10-16T22:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Steam For Linux Finally Goes 64-Bit",
+    "link": "https://linux.slashdot.org/story/26/10/16/2028232/steam-for-linux-finally-goes-64-bit?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Valve has released a new Steam Client beta that finally moves the Linux client to 64-bit architecture, while also placing it inside a containerized Steam Runtime environment. However, Linux users still need 32-bit libraries and graphics drivers for compatibility, meaning fully 64-bit-only systems remain unsupported. VideoCardz.com reports: Valve's updated requirements explicitly state that 64-bit-only installations are not supported. Systems must still provide both 32-bit and 64-bit libraries and graphics drivers, including multilib support. The new client also requires Linux kernel 5.6 or newer and glibc 2.31 or newer.\n \nThe update also introduces Steam Achievement Sets, a feature we covered earlier that allows developers to organize achievements into separate groups for base games, DLCs and seasonal content. Players can complete individual sets without losing their existing completion status when developers add more achievements. Valve has also updated the achievements page to display progress across these groups.\n \nThe 64-bit Linux client and Achievement Sets are currently available through the Steam Client Beta. Valve has not confirmed when these changes will reach the stable Linux release. Until then, users on the regular Steam client will continue using the existing architecture.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 16, 2026 21:00",
+    "published_at": "2026-10-16T21:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Meta May Use Sweeping New Commercial TOS to Avoid Millions In AI Licensing Fees",
+    "link": "https://tech.slashdot.org/story/26/10/16/1614257/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Meta is facing criticism over updated commercial terms taking effect October 30 that could give the company broad permission to scrape content from websites linked to business accounts and use it to train AI. Legal experts warn the changes could undermine lucrative AI licensing deals for news publishers, with no direct opt-out for businesses that accept the terms. Ars Technica reports: As Nieman Lab reported Thursday, this will affect all business accounts but is particularly shocking for news publishers who could perhaps charge Meta millions in licensing fees to continually access their articles for AI training. Currently news organizations are fighting a battle with OpenAI over whether such training without licensing is fair use, and Meta's terms seemingly risk granting it sweeping permissions, no matter which way the court leans. \"While journalism isn't the only industry that will be affected by this update, virtually every news organization has at least one Meta business account, including Nieman Lab,\" the lab said.\n \n[...] Notably, there is no mention of AI, but it's inferred from a single use of the word \"train\" and references to automated scraping and crawling. Meta's spokesperson told Nieman Lab that Meta has no plans to use the terms as a legal basis to ignore robots.txt instructions that block scraping on news sites. The company still allows news organizations to opt out of scraping and provides instructions on how to block crawling. A spokesperson told Ars that \"there is no change to how Meta uses web crawlers; any suggestion to the contrary is false.\" However, should courts affirm that AI training non-news articles is fair use, news organizations question if Meta's stance might change, and the terms could be used to freely grab access to content by legally overriding robots.txt instructions.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 16, 2026 20:00",
+    "published_at": "2026-10-16T20:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "17 More Security Vulnerabilities Made Public For X.Org Libraries",
+    "link": "https://www.phoronix.com/news/17-Vulnerabilities-Xorg-Libs",
+    "description": "Just shy of two weeks since a dozen vulnerabilities were published for the X.Org Server and XWayland, more than one dozen vulnerabilities were made public today affecting multiple X.Org client libraries...",
+    "guid": "https://www.phoronix.com/news/17-Vulnerabilities-Xorg-Libs",
+    "date": "Oct 16, 2026 19:20",
+    "published_at": "2026-10-16T19:20:39Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Barebones Mini PC from Shuttle Houses Intel N150 and Supports Three Storage Drives",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368210",
+    "description": "The XPC nano NC50N by Shuttle is an upcoming barebone mini PC based on Intel’s N150 processor. The system supports up to 16GB of DDR5 memory, dual M.2 NVMe SSDs, and 2.5GbE networking, targeting digital signage, point-of-sale terminals, office environments, and multimedia applications. The NC50N uses Intel’s Twin Lake N150 processor, manufactured using the Intel […]",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368210",
+    "date": "Oct 16, 2026 19:14",
+    "published_at": "2026-10-16T19:14:55Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Introducing GNOME OS Preview",
+    "link": "https://lwn.net/Articles/1101057/",
+    "description": "The GNOME Project has provided GNOME OS for some time; until now, the\nproject only provided a \"Nightly\" edition that was built from the latest commits\nand was aimed solely at GNOME developers. Adrian Vovk has now announced\nthe release of GNOME OS Preview, which is intended for a non-developer \naudience:\n\n\nGNOME OS Preview is the current GNOME OS Nightly, but without the \"nightly\"\naspect. Instead, it's built from the latest stable GNOME release (GNOME 51.1, at\nthe time of writing). GNOME OS Preview lives in the same branches on GitLab as\nthe stable org.gnome.Platform Flatpak runtimes.\n\nGNOME OS Preview is only a few weeks old, so it has only seen limited\nreal-life testing so far. We therefore expect people will uncover some issues\ninitially. That said, Preview is significantly more stable than Nightly, which\ndozens of people have been daily driving without major issues for over a\nyear. Thus, we're feeling confident that Preview is going to be reliable enough\nfor daily use by non-developer enthusiasts.\n\n\nWhile Preview is meant for non-developers, it is not considered complete or\nstable for the broader public. There are a number of features, listed in Vovk's\npost, that need to be implemented before the project is ready to declare\nGNOME OS \"ready for prime time\". Adventurous users, who might not\nmind having to reinstall the OS once a stable version is declared, can\ndownload and start using GNOME OS Preview today.\n\n",
+    "guid": "https://lwn.net/Articles/1101057/",
+    "date": "Oct 16, 2026 19:05",
+    "published_at": "2026-10-16T19:05:57Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "An OpenAI Research Agent 'Stole' Test Ethereum to Finish a Coding Task",
+    "link": "https://slashdot.org/story/26/10/16/167204/an-openai-research-agent-stole-test-ethereum-to-finish-a-coding-task?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An OpenAI research model reportedly accessed an Ethereum testnet wallet without permission in order to complete a coding task during internal training. \"This case shows that a model can substitute its own judgment about likely harm for the account holder's permission, then act on that judgment without authorization,\" OpenAI wrote. Engadget reports: The incident, which occurred on June 26, happened while a GPT-5.6 Sol model was in internal training. The task involved updating a crypto trading prototype and deploying contracts (publishing special code) on an Ethereum test network called Sepolia. Payment of a network fee is required for such contracts, but OpenAI \"supplied no funded wallet and gave no permission to spend funds from an account the model found independently,\" OpenAI said in the report.\n \nThe lack of funds at first stymied the agent, but it was not to be discouraged. The model reasoned that it could use public developer recovery phrases (similar to those you might use to recover a password) to access keys from unauthorized accounts. It tracked down 362 addresses open to that avenue of attack and found one that held enough Sepolia ETH to finish its deployment (to be clear, Sepolia ETH has no value outside of testing).\n \nLike many criminals, the agent reasoned that someone must have left this access open for automated draining of the ETH \"faucets.\" It also figured that the crypto was effectively \"abandoned\" and \"valueless,\" according to OpenAI's misalignment records. The piece de resistance was that the agent \"did not disclose that it had selected a funded account through a public recover phrase or spent that account's balance,\" OpenAI said. To prevent similar events in the future, the company is now monitoring all traffic and paging security if live internet access is detected.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 16, 2026 19:00",
+    "published_at": "2026-10-16T19:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "GNOME OS Preview Announced In Road Toward A Stable Release",
+    "link": "https://www.phoronix.com/news/GNOME-OS-Preview",
+    "description": "The GNOME OS Linux distribution to date has just been in GNOME OS Nightly form for tracking the latest nightly packages of GNOME in their current development form. GNOME OS Preview was announced today as their trek toward a stable GNOME OS in using the latest GNOME stable releases rather than nightly form...",
+    "guid": "https://www.phoronix.com/news/GNOME-OS-Preview",
+    "date": "Oct 16, 2026 18:37",
+    "published_at": "2026-10-16T18:37:11Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "[$] Safe self-referential data structures in kernel Rust",
+    "link": "https://lwn.net/Articles/1099224/",
+    "description": "\nSelf-referential structures that can be used without unsafe code\nhave posed a problem for Rust for years.\nThere are many cases where a self-referential data structure is the elegant\nalgorithmic choice, but implementing it in accordance with Rust's lifetime rules\nis all but impossible. At Kangrejos 2026, Gary Guo presented a clever solution\nto the problem in the context of the kernel's\n\npin_init crate, which helps with the creation of immovable data structures,\ntypically for interoperability with C. Guo's changes could help remove most of\nthe unsafe code related to lifetimes in the\n\nNova driver and, eventually, other Rust components.\n",
+    "guid": "https://lwn.net/Articles/1099224/",
+    "date": "Oct 16, 2026 18:30",
+    "published_at": "2026-10-16T18:30:00Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "The Best Features Of Linux 7.3: Performance Improvements, Lots From Valve",
+    "link": "https://www.phoronix.com/news/Linux-7.3-Best-Features",
+    "description": "The Linux 7.3 kernel is slated to be officially released on Sunday, 18 October, barring any last minute issues from coming about. With that said, here's a reminder about some of the most exciting features to look forward to in this next kernel version...",
+    "guid": "https://www.phoronix.com/news/Linux-7.3-Best-Features",
+    "date": "Oct 16, 2026 18:17",
+    "published_at": "2026-10-16T18:17:47Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "CoreWeave's Debt Stress Tests Private Credit's AI Financing Boom",
+    "link": "https://news.slashdot.org/story/26/10/16/1548245/coreweaves-debt-stress-tests-private-credits-ai-financing-boom?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from Reuters: Private credit's expanding role in financing AI infrastructure faced one of its clearest market tests this week as CoreWeave's bonds fell to distressed levels, raising questions about how lenders are pricing a boom built on chips, data centers and customer contracts. CoreWeave has about $50 billion of debt, according to LSEG data, making it one of the largest borrowers linking private credit to the AI buildout. The cost of insuring its debt against default climbed to about 1,200 basis points this week, while yields on some of its bonds rose to roughly 15% to 16%, signaling sharply increased investor concern over its credit risk. \"There is still a price. Investors are still comfortable financing it, but they're demanding more compensation for it,\" said James Martin, senior US credit strategist at SMBC, referring to projects further from completion.\n \nCarlyle estimates that private credit could finance roughly $1 trillion of the AI infrastructure buildout but warns that aggressive lending could create concentration risks similar to those seen in software lending. \"The clearest lesson is not to avoid AI compute exposure, but to set concentration limits before the buildout accelerates further, not after,\" Carlyle said.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 16, 2026 18:00",
+    "published_at": "2026-10-16T18:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "ChatGPT Can Peek At Your Chrome Tabs Now",
+    "link": "https://tech.slashdot.org/story/26/10/16/1537233/chatgpt-can-peek-at-your-chrome-tabs-now?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "OpenAI has updated its ChatGPT Chrome extension to let users access information from their open browser tabs. A demo video shows the new functionality in action. The Verge reports: It's also updated ChatGPT in the sidebar, with the full power of ChatGPT and your entire conversation history in Chat or Work to use without leaving the page you're viewing. It also enables ChatGPT Work to \"control\" your Chrome tabs for tasks like \"sending messages, filling out forms, or downloading files,\" similar to Google's Gemini-powered \"auto browse\" feature, as well as organize or group open tabs.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 16, 2026 17:00",
+    "published_at": "2026-10-16T17:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "ESP32 Bit Pirate 1.8 Adds Experimental SDR and Browser-Based Firmware Analysis",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368209",
+    "description": "ESP32 Bit Pirate has reached version 1.8, adding experimental software-defined radio (SDR) functionality using the ESP32-S3’s internal Wi-Fi radio. The update also introduces browser-based firmware extraction tools, improved protocol debugging, expanded board compatibility, and updated Zigbee capabilities for ESP32-C5 and ESP32-C6 devices. Previously covered on LinuxGizmos, ESP32 Bit Pirate 1.7 added LoRa support, Meshtastic analysis, […]",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368209",
+    "date": "Oct 16, 2026 16:11",
+    "published_at": "2026-10-16T16:11:56Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "iPhone Duo Sells Out Immediately, Now Backordered Until Next Year",
+    "link": "https://mobile.slashdot.org/story/26/10/16/1530254/iphone-duo-sells-out-immediately-now-backordered-until-next-year?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Apple's first foldable iPhone, the $1,999 iPhone Duo, sold out within minutes of preorders opening, with every configuration slipping to late January 2027. \"All color and storage combinations show an estimated ship date of January 25,\" reports 9to5Mac. \"Some users are even seeing January 29 for their estimated shipping date.\" From the report: This is a combination of strong demand and severely constrained supply for iPhone Duo. It's impossible to know the exact balance between the two, though. Going into the launch, there were multiple reports suggesting iPhone Duo would be in short supply as Apple was still ramping up production. A report from Nikkei Asia last month said Apple was making just a few hundred iPhone Duo units per day, significantly behind the ramp of a normal iPhone launch.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 16, 2026 16:00",
+    "published_at": "2026-10-16T16:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "After 23 Years, Longtime Linux Developer To \"Step Back For A While\"",
+    "link": "https://www.phoronix.com/news/Darrick-Wong-Step-Back-23-Years",
+    "description": "Longtime Linux kernel engineer Darrick Wong who stepped down as the XFS file-system maintainer in 2023 is now taking a step back from his other Linux kernel development roles after working on the kernel the past 23 years...",
+    "guid": "https://www.phoronix.com/news/Darrick-Wong-Step-Back-23-Years",
+    "date": "Oct 16, 2026 15:40",
+    "published_at": "2026-10-16T15:40:27Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
     "title": "KDE Plasma 6.8 Released, Marks 30 Years of the KDE Project",
     "link": "https://tech.slashdot.org/story/26/10/15/2248252/kde-plasma-68-released-marks-30-years-of-the-kde-project?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
     "description": "An anonymous reader quotes a report from Phoronix: The feature-packed and polished Plasma 6.8 KDE desktop is now available. Making this release all the more special is that it coincides with the 30th anniversary of the KDE project. KDE Plasma 6.8 ships many exciting improvements including vRAM usage optimizations, dwell clicker support on Wayland, Wayland commit-timing protocol support for KWin, improvements for the Union theme engine, better remote desktop support, multi-GPU handling improvements, the new kscreenctl tool, server-side drop shadow support, multi-monitor improvements, and a lot of other polishing throughout. Especially from the Wayland angle there has been a lot of polishing and fine tuning for Plasma 6.8. Accompanying the release is a new film, The KDE Documentary, which \"tells the story of the pioneering open source community that gave computer users a free and open alternative to proprietary desktops like Windows.\" The documentary is available to stream for free on YouTube.\n\n\n\n\n\nRead more of this story at Slashdot.",
@@ -228,6 +406,16 @@
     "source_url": "https://www.phoronix.com/"
   },
   {
+    "title": "Memtest86+ v9.00 Released With Support For ARM64 Memory Testing",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368202",
+    "description": "The open-source Memtest86+ program that is popular for RAM testing has expanded beyond the x86/x86_64 (and LoongArch64) world to now support memory testing on ARM64/AArch64 hardware...",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368202",
+    "date": "Oct 16, 2026 08:34",
+    "published_at": "2026-10-16T08:34:28Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
     "title": "The Fallout inspired ATOM RPG returns with a Plague Island DLC and major update",
     "link": "https://www.gamingonlinux.com/2026/10/the-fallout-inspired-atom-rpg-returns-with-a-plague-island-dlc-and-major-update/",
     "description": "Released back in 2018, ATOM RPG: Post-apocalyptic indie game is a classic Fallout-like and the developers just gave it a nice upgrade and DLC.Read the full article on GamingOnLinux.",
@@ -326,6 +514,16 @@
     "source_url": "https://www.gamingonlinux.com/"
   },
   {
+    "title": "3mdeb Releases Updated Dasharo/Coreboot Firmware For ASRock Rack SPC741D8-2L2T",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368200",
+    "description": "3mdeb firmware engineers have been quite busy this year working on porting Coreboot and openSIL to an AMD Ryzen AM5 MSI motherboard and similarly getting openSIL and Coreboot up and running on a Gigabyte server motherboard for AMD EPYC 9005 CPUs. They haven't forgotten about their past projects though and today released an updated version of their Dasharo downstream firmware for the ASRock Rack SPC741D8-2L2T motherboard supporting 4th and 5th Gen Xeon Scalable processors...",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368200",
+    "date": "Oct 16, 2026 05:31",
+    "published_at": "2026-10-16T05:31:29Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
     "title": "Ubuntu 26.10 Official Flavors Are Now Available for Download, This Is What’s New",
     "link": "https://lxer.com/module/newswire/ext_link.php?rid=368195",
     "description": "As part of today’s release of Ubuntu 26.10 (Stonking Stingray), all the official Ubuntu flavors have been updated to the same version, so here’s a look at their new features and improvements.",
@@ -388,6 +586,17 @@
     "source_url": "https://lxer.com/"
   },
   {
+    "title": "Ubuntu 26.10 Released",
+    "link": "https://news.slashdot.org/story/26/10/15/2013231/ubuntu-2610-released?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "prisoninmate shares a report from 9to5Linux: Ubuntu 26.10 (Stonking Stingray) has been released today, and it is now available for download for those eager to update their Ubuntu systems to a newer release. Powered by the upcoming Linux 7.3 kernel series, Ubuntu 26.10 ships with the latest GNOME 51 desktop environment, TPM-backed full disk encryption (FDE) support on computers without a hardware root of trust, updated Settings to show whether a computer is certified for Ubuntu, and 100% Rust coreutils.\n \nThere are several App Center enhancements in Ubuntu 26.10, such as a unified app-details view for Snap and Debian packages, a dedicated Drivers page where you can review the available graphics drivers, including NVIDIA driver branches, and support for installing codecs for one-time playback when a media file uses a codec that's not installed.' Other additions include an optional, locally processed AI-powered speech-to-text tool called Myna, system-wide controls for disabling Ubuntu Insights data collection, and better integration with Microsoft Entra ID. Also worth mentioning are the security and software updates that will be available for nine months, through July 2027.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 15, 2026 23:00",
+    "published_at": "2026-10-15T23:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
     "title": "Today's Steam Beta Makes The Linux Client A 64-bit App",
     "link": "https://www.phoronix.com/news/Steam-Linux-Beta-64-bit",
     "description": "Valve just dropped a new Steam client beta and it's a big one for Linux gamers...",
@@ -409,6 +618,16 @@
     "source_url": "https://slashdot.org/"
   },
   {
+    "title": "Claude Code / AI Shows Potential For Reverse-Engineering Hardware For Linux Support",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368199",
+    "description": "AI/LLMs like Claude Code are beginning to prove capable of helping to reverse engineer hardware for Linux support, especially when it comes to the tedious reverse engineering tasks...",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368199",
+    "date": "Oct 15, 2026 21:54",
+    "published_at": "2026-10-15T21:54:02Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
     "title": "Intel Nova Lake S \u0026 Nova Lake P To Support SR-IOV With Xe Graphics",
     "link": "https://www.phoronix.com/news/Intel-Nova-Lake-SR-IOV-Xe",
     "description": "A patch has been posted to the Linux kernel mailing list by an Intel engineer confirming that Nova Lake S and Nova Lake P processors with integrated graphics will support SR-IOV in conjunction with the Xe kernel graphics driver...",
@@ -419,28 +638,6 @@
     "source_url": "https://www.phoronix.com/"
   },
   {
-    "title": "Flock CEO Defends Surveillance Tech Amid National Backlash",
-    "link": "https://yro.slashdot.org/story/26/10/15/1941247/flock-ceo-defends-surveillance-tech-amid-national-backlash?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "An anonymous reader quotes a report from TechCrunch: Flock's founder and CEO Garrett Langley doesn't think the risks of introducing surveillance technology at scale outweigh the rewards. \"If we want to live in a society where, if you commit a crime, you have a higher probability of being held accountable, we shouldn't pause progress,\" Langley said, speaking onstage during a panel at TechCrunch Disrupt 2026 in San Francisco on Wednesday.\n \nDuring the interview, the controversial founder of the surveillance maker of license plate cameras and other recording devices deflected hard questions about the criticism Flock now faces -- which has since led to canceled contracts and even layoffs. Instead, Langley tended to respond to questions with anecdotes from conversations with police chiefs and city leaders across the United States, and tales of the supposed numerous crimes Flock has solved, rather than offer tangible solutions to people's concerns.\n \nIn doing so, Langley positioned Flock as an advance in technology that was somewhat inevitable. He stressed that if people wanted to live in a better society -- that is, one with reduced crime -- they would have to offer up their privacy in return. [...] \"Technology, at its core, in its definition, is just doing things better. It's not doing things perfect,\" he said. \"Driverless cars, I think, is a fair analogy. Driverless cars, I think, are definitively safer than human drivers. And when there's one accident, I don't think the answer is to shut down driverless cars. The answer is to say, 'Hey, let's talk about how we prevent more accidents in the future.'\"\n \n[...] From Langley's answers, it's clear that the ethics around how Flock should be used is a decision he would much rather leave up to others. \"We don't want to tell city leaders how to do their job,\" he noted. \"We will provide recommendations, we'll provide defaults, but we're going to minimize the number of mandated features, functions, and policies,\" he said. Langley went on to argue that society too often judges technology \"not on how it compares to the past, but how it compares to perfect.\" He acknowledged that \"Flock is far from perfect\" but maintained that its technology helps police departments compensate for staffing shortages and improve public safety.\n \nWhen pressed about potential abuse and privacy concerns, Langley offered few specifics, instead arguing that safeguards could be implemented without disrupting police operations. He insisted the benefits of what Flock offers outweigh the controversy. \"There's millions and millions of people who have a better life today because [of] Flock,\" he said, adding that \"it's worth it because one day they might be a victim.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 15, 2026 21:00",
-    "published_at": "2026-10-15T21:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "First-Ever Public Confirmation of 'Zero-Click' Spyware Delivered Via Targeted Ads",
-    "link": "https://tech.slashdot.org/story/26/10/15/1822259/first-ever-public-confirmation-of-zero-click-spyware-delivered-via-targeted-ads?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Citizen Lab says it has documented the first publicly confirmed case of zero-click mercenary spyware being delivered through targeted online ads, a technique it calls \"AdFection.\" \"There has been a lot of buzz that online ads can be used to identify and automatically hack targets with pinpoint precision, but now for the first time, we have concrete technical evidence showing this process in action,\" said Bill Marczak, a researcher at Citizen Lab. The Guardian reports: Citizen Lab, a digital investigations research unit at the University of Toronto, said it believed dozens of devices at the Qatari broadcaster Al Jazeera had been compromised by spyware delivered through ads run by Discover-Tech, which describes itself as a specialised digital advertising agency. According to Citizen Lab, Discover-Tech operates a software platform called Controlium that allows its clients to \"mass-profile and deanonymize\" internet users then covertly hack targets with third-party spyware. Unlike infections that rely on people interacting with links or files, the spyware requires no interaction from the victim to be installed, making it a new delivery technique, Citizen Lab says. The infections happen without a user's knowledge, and in a matter of seconds, according to Citizen Lab.\n \n\"[The online advertising] ecosystem is being weaponized at a massive scale to profile millions of users, then silently infect targets with zero-click mercenary spyware,\" the report says. According to the report, Controlium is able to harvest a user's identity and IP address when the user is shown a seemingly benign custom-created ad -- for example, for a digital game or a telecoms service. If the user has been selected as a target for hacking, a mercenary spyware firm can then send a malicious code containing spyware to their device, the researchers say. They say that millions of users worldwide have been served ads by Discover-Tech since 2024, including in Yemen, Brazil, Mexico and Czechia. [...] The full extent of the targeting allegedly enabled by Discover-Tech is unknown. Citizen Lab's findings join mounting evidence that the opaque arrangements underpinning the world of online advertising can be leveraged for surveillance.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 15, 2026 20:00",
-    "published_at": "2026-10-15T20:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
     "title": "LPDDR5 5467 vs. 6400 vs. 7467 MT/s Memory Performance Benchmarks For Laptops",
     "link": "https://www.phoronix.com/review/lpddr5-5467-6400-7467",
     "description": "With the recently reviewed Star Labs StarFighter Ultra Linux laptop its BIOS allows for configurable memory speeds unlike many other laptop vendor BIOS implementations these days. Star Labs also made the default design decision to run the LPDDR5-7467 rated memory at LPDDR5-6400 speeds in the name of a balanced user experience for power/performance. So I was curious to run some benchmarks quantifying that power and performance impact of LPDDR5-6400 vs. LPDDR5-7467 plus tossed in LPDDR5-5467 testing as well as the third choice offered with this StarFighter Ultra laptop.",
@@ -449,350 +646,5 @@
     "published_at": "2026-10-15T19:02:37Z",
     "source": "phoronix.com",
     "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Meta and Apple Bring Muse Spark Open AI Model to Mac Studio",
-    "link": "https://apple.slashdot.org/story/26/10/15/189249/meta-and-apple-bring-muse-spark-open-ai-model-to-mac-studio?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Meta has released Muse Spark Open, an 816-billion-parameter open-weight model optimized to run locally across two 512GB M5 Ultra Mac Studios using Apple's MLX framework. Meta says it's the \"most capable U.S. open-weight model to date.\" MacRumors reports: Muse Spark Open has 816 billion total parameters with 42 billion active parameters and a 1 million-token context window. It is meant for coding and agentic work, and Meta says it excels at extended tasks, multi-step reasoning, and software engineering. The new Muse model was tuned to run on Mac Studio, and Meta says the Mac Studio paired with Muse Spark Open is the \"best way to run a powerful model on your own desktop.\"\n \nFrom Meta: \"Apple's unified memory architecture lets the M5 Ultra's integrated GPU use up to 512 GB per Mac Studio, so two machines can hold an entire model. And the chip's 1.2 TB/s of memory bandwidth is fast enough to read the small slice each token needs. The result is two Mac Studios behave like one supercomputer with a terabyte of unified memory.\" Apple hasn't released the 512GB Mac Studio as of yet, but it's supposed to be coming later this month. It won't be cheap, because the 256GB Mac Studio is already priced over $10,000.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 15, 2026 19:00",
-    "published_at": "2026-10-15T19:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Microsoft Says Windows 11 Is Now 'More Responsive', Runs Better On 8GB of RAM",
-    "link": "https://tech.slashdot.org/story/26/10/15/1741225/microsoft-says-windows-11-is-now-more-responsive-runs-better-on-8gb-of-ram?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Microsoft says recent Windows 11 updates have made the operating system up to 20% more responsive by improving memory management and reducing background resource use. \"A big part of that work is making smarter use of memory and system resources,\" says Navjot Virk, corporate vice president of Windows experiences at Microsoft. \"We've improved memory management and efficiency across Windows to help keep more of your PC's resources focused on what you're actively doing.\" The Verge reports: The improvements to memory management now make a \"meaningful difference\" on PCs with just 8GB of RAM. \"Windows can now keep up to 2GB more of your active data in memory instead of moving it to slower storage,\" says Virk. \"For example, on PCs with 8GB of memory or less, Widgets load only when you open them, making more than 200 MB of memory available for your apps and other work.\"\n \nMicrosoft has also made Windows Update less disruptive, cleaned up the Widgets section, and finally allowed the taskbar to be repositioned to the sides or top of a display. Windows Hello sign-in has also been sped up, and Bluetooth pairing is more reliable, \"including an AirPods pairing experience that's up to 15 seconds faster.\"\n \nThe next big step is a new Windows Search experience that's a lot faster and more capable. [...] It's currently available for Windows Insiders, and Microsoft says it will \"roll out more broadly later this year.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 15, 2026 18:00",
-    "published_at": "2026-10-15T18:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Memtest86+ v9.00 Released With Support For ARM64 Memory Testing",
-    "link": "https://www.phoronix.com/news/memtest86-Plus-9.0",
-    "description": "The open-source Memtest86+ program that is popular for RAM testing has expanded beyond the x86/x86_64 (and LoongArch64) world to now support memory testing on ARM64/AArch64 hardware...",
-    "guid": "https://www.phoronix.com/news/memtest86-Plus-9.0",
-    "date": "Oct 15, 2026 17:58",
-    "published_at": "2026-10-15T17:58:00Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Amazon Launches New Bee 'Personal AI' Devices That Listen to Conversations",
-    "link": "https://yro.slashdot.org/story/26/10/15/1718232/amazon-launches-new-bee-personal-ai-devices-that-listen-to-conversations?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Amazon has unveiled two new Bee \"personal AI\" devices designed to continuously record, transcribe, and analyze conversations: the $75 wearable Bee Frontier and the $100 phone-mounted Bee Eclipse. Amazon says the devices can generate conversation summaries, surface recurring themes, and recommend actions or purchases, while claiming audio itself is never stored and users can delete transcripts and summaries. CNBC reports: The Bee Frontier is an upgraded version of Amazon's existing wearable that can either be worn on a wrist or clipped to clothing. Similar to earlier generations, the Bee Frontier has up to seven days of battery life, but it's also more expensive, costing $75 compared with its $50 predecessor.\n \nAmazon acquired Bee, a San Francisco startup known for its always-listening bracelet, in July 2025 for an undisclosed amount. Bee bracelets are equipped with artificial intelligence and microphones that can record, transcribe and analyze conversations. The dual mics on the Bee Frontier have upgraded noise filtering, \"so it can take note of what matters and ignore what doesn't, even in noisy environments like a crowded restaurant or open office,\" Amazon said in a blog post.\n \nAmazon also debuted the $100 Bee Eclipse, which functions like other Bee devices, but instead of being worn, the credit card-sized gadget magnetically snaps on to the back of a smartphone. The Bee Frontier is available Thursday, while the Bee Eclipse \"will be available soon,\" the company said.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 15, 2026 17:20",
-    "published_at": "2026-10-15T17:20:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Libreboot 26.10 Open-Source BIOS/UEFI Firmware Released with Full UEFI Support",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368187",
-    "description": "Libreboot 26.10 has been released today as a major update to this open-source and free BIOS/UEFI firmware alternative that adds support for new devices, as well as numerous improvements.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368187",
-    "date": "Oct 15, 2026 17:19",
-    "published_at": "2026-10-15T17:19:33Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Strata 1.0 Released, a New Linux File Manager Built for Omarchy",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368192",
-    "description": "Strata 1.0 is a new Rust-based Linux file manager designed for Omarchy, featuring GTK4, Miller columns, keyboard navigation, and secure previews.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368192",
-    "date": "Oct 15, 2026 15:48",
-    "published_at": "2026-10-15T15:48:04Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "[$] Vendor hooks in the Android kernel",
-    "link": "https://lwn.net/Articles/1098493/",
-    "description": "Since Android's inception, the kernels it has used have diverged\nsignificantly from the mainline.  While many of those differences have been\nresolved over time, and the move to the generic\nkernel image has helped to bring Android closer, current devices still\ncarry a lot of out-of-tree changes.  The preferred form for such changes is\nby way of vendor\nhooks.  At the 2026 Linux\nPlumbers Conference, Todd Kjos ran a fast-paced session in the Android\ntrack to discuss vendor hooks and how they are used.",
-    "guid": "https://lwn.net/Articles/1098493/",
-    "date": "Oct 15, 2026 15:09",
-    "published_at": "2026-10-15T15:09:15Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "Uber Begins Self-Driving Robotaxi Trial In Manchester",
-    "link": "https://news.slashdot.org/story/26/10/14/220233/uber-begins-self-driving-robotaxi-trial-in-manchester?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "An anonymous reader quotes a report from The Guardian: Uber has begun a trial of autonomous vehicles on the streets of Manchester as it looks to bring robotaxis to cities around the UK. The first self-driving cars are operating, using the technology of its partner firms Pony and Verne, with whom Uber recently launched Europe's first autonomous taxi service in the Croatian capital, Zagreb. Uber said it was \"excited to take this first step toward making this technology accessible to people across the UK.\"\n \nIn social media posts, Verne said it had \"started our autonomous vehicle testing in Manchester,\" while Pony said there were \"plans to bring robotaxis to the city\" and that testing was under way. The tests involve the company mapping the streets of the city in north-west England with a safety driver behind the wheel and no passengers. Limited passenger services started last month in London, but with a safety driver in the front seat of cars supplied by Wayve under Transport for London's licensing rules for private hire vehicles.\n \nThe next steps are unclear. Opposition from Uber drivers, their unions and the capital's politicians to the rollout of robotaxis is mounting. The GMB and ADCU unions have both said thousands of drivers jobs will be lost and have called for help for those affected. A critical report from London assembly's transport committee this week called for the government to devolve authority over autonomous taxi services. It said there was \"considerable uncertainty about many of the claimed benefits of autonomous passenger vehicles\", and fears over the impact on public transport and congestion, as well as safeguarding and accessibility for disabled passengers. There has been no official application to launch passenger services in Manchester so far.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 15, 2026 15:00",
-    "published_at": "2026-10-15T15:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "3mdeb Releases Updated Dasharo/Coreboot Firmware For ASRock Rack SPC741D8-2L2T",
-    "link": "https://www.phoronix.com/news/Dasharo-0.9-ASRock-SPC741D8",
-    "description": "3mdeb firmware engineers have been quite busy this year working on porting Coreboot and openSIL to an AMD Ryzen AM5 MSI motherboard and similarly getting openSIL and Coreboot up and running on a Gigabyte server motherboard for AMD EPYC 9005 CPUs. They haven't forgotten about their past projects though and today released an updated version of their Dasharo downstream firmware for the ASRock Rack SPC741D8-2L2T motherboard supporting 4th and 5th Gen Xeon Scalable processors...",
-    "guid": "https://www.phoronix.com/news/Dasharo-0.9-ASRock-SPC741D8",
-    "date": "Oct 15, 2026 14:56",
-    "published_at": "2026-10-15T14:56:51Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Ubuntu 26.10 Has Come Out as a Rust-Packed Interim Release",
-    "link": "https://feed.itsfoss.com/link/24361/17498285/ubuntu-26-10-release",
-    "description": "It ships with Linux 7.3, GNOME 51, an improved App Center, and many other upgrades.",
-    "guid": "6acf55b4965d0e000159f5b7",
-    "date": "Oct 15, 2026 14:34",
-    "published_at": "2026-10-15T14:34:37Z",
-    "image": "https://itsfoss.com/content/images/2026/10/ubuntu-26-10-release-banner.png",
-    "source": "itsfoss.com",
-    "source_url": "https://itsfoss.com/"
-  },
-  {
-    "title": "Big Tech Funded a €115 Billion Warning Against Europe’s Digital Independence",
-    "link": "https://feed.itsfoss.com/link/24361/17498286/eu-cloud-sovereignty-cada-cost-study",
-    "description": "Amazon, Google, and Meta funded the study through their lobby group CCIA Europe. The EU Commission's own estimate? €18 billion. Six times less.",
-    "guid": "6ad0a0fa965d0e00015a0234",
-    "date": "Oct 15, 2026 14:32",
-    "published_at": "2026-10-15T14:32:16Z",
-    "image": "https://itsfoss.com/content/images/2026/10/eu-money-ecipe-report-banner.png",
-    "source": "itsfoss.com",
-    "source_url": "https://itsfoss.com/"
-  },
-  {
-    "title": "Claude Code / AI Shows Potential For Reverse-Engineering Hardware For Linux Support",
-    "link": "https://www.phoronix.com/news/AI-Reverse-Engineer-Linux-HW",
-    "description": "AI/LLMs like Claude Code are beginning to prove capable of helping to reverse engineer hardware for Linux support, especially when it comes to the tedious reverse engineering tasks...",
-    "guid": "https://www.phoronix.com/news/AI-Reverse-Engineer-Linux-HW",
-    "date": "Oct 15, 2026 14:29",
-    "published_at": "2026-10-15T14:29:06Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Raspberry Pi 5 cluster runs Qwen3-30B-A3B at 15 tokens/s on CPU",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=367993",
-    "description": "Hellomatik has published a study and a modified distributed-llama implementation for running the Qwen3-30B-A3B language model across four Raspberry Pi 5 boards. Using only the boards’ Arm Cortex-A76 CPUs, the cluster reached a reported decode throughput of 15.143 tokens per second, without GPU or NPU acceleration or CPU overclocking. The setup uses four Raspberry Pi […]",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=367993",
-    "date": "Oct 15, 2026 14:16",
-    "published_at": "2026-10-15T14:16:34Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "The Elder Scrolls IV: Oblivion and Ghostwire: Tokyo enter the GOG Preservation Program",
-    "link": "https://www.gamingonlinux.com/2026/10/the-elder-scrolls-iv-oblivion-and-ghostwire-tokyo-enter-the-gog-preservation-program/",
-    "description": "The GOG Preservation Program has expanded to include another two fun games with The Elder Scrolls IV: Oblivion and Ghostwire: Tokyo.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/10/the-elder-scrolls-iv-oblivion-and-ghostwire-tokyo-enter-the-gog-preservation-program/",
-    "date": "Oct 15, 2026 13:36",
-    "published_at": "2026-10-15T13:36:14Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/289591163id29981gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "KDE releases documentary",
-    "link": "https://lwn.net/Articles/1100787/",
-    "description": "As part of KDE's 30th\nanniversary celebration, the project has released The KDE Documentary\n— A Story of Free Software Underdogs (YouTube video):\n\n\nThe story starts in 1996, when Matthias Ettrich, a student at the University\nof Tübingen, posted to a Usenet group asking for programmers to help build a\ndesktop for Linux. What followed became KDE, one of the largest free software\ncommunities in the world. KDE made Linux usable as a desktop for people who\nweren't system administrators, giving it a complete, consistent graphical\nenvironment at a time when there was none.\n\nThe film covers the highs and lows of three decades of KDE: the Qt licensing\nfight and the rivalry with GNOME; the success of KHTML, the browser engine that\nbecame the basis of Apple's WebKit and Google's Chrome; and the contentious\nrelease of KDE 4 and the rebuild that followed.\n",
-    "guid": "https://lwn.net/Articles/1100787/",
-    "date": "Oct 15, 2026 13:24",
-    "published_at": "2026-10-15T13:24:31Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "Ubuntu 26.10 released",
-    "link": "https://lwn.net/Articles/1100786/",
-    "description": "Canonical has announced\nthe release of Ubuntu 26.10 (\"Stonking Stingray\"):\n\n\nUbuntu 26.10 advances enterprise security features, completes the rollout of\nthe Rust-based uutils coreutils, and strengthens integrations for user\nauthentication using Microsoft Entra ID.\n\n[...] Ubuntu 26.10 also ships with GNOME 51, bringing a smoother, more\nresponsive desktop, better display handling, improved accessibility, and\nrefinements across core applications. In addition, the Ubuntu App Center now\nprovides a more consistent experience for managing snaps and debs.\n\n\nSee the release notes\nfor a list of new features as well as incompatible\nchanges between 26.10 and prior Ubuntu releases.",
-    "guid": "https://lwn.net/Articles/1100786/",
-    "date": "Oct 15, 2026 13:19",
-    "published_at": "2026-10-15T13:19:23Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "Security updates for Thursday",
-    "link": "https://lwn.net/Articles/1100785/",
-    "description": "Security updates have been issued by AlmaLinux (environment-modules, flatpak-builder, kernel, kernel-rt, librabbitmq, libreoffice, libsoup, mod_auth_openidc:2.3, nodejs:22, nodejs:24, OpenEXR, opentelemetry-collector, pki-core:10.6, postgresql:12, python-tornado, python36:3.6, ruby:3.3, tftp, and xorg-x11-server), Debian (buildstream, firefox-esr, mariadb, and sogo), Fedora (exim, freerdp, python3-docs, and python3.14), Mageia (drakx-installer-images, kernel, kmod-nvidia-current-wopengpu, kmod-virtualbox), Oracle (curl, emacs, environment-modules, flatpak, flatpak-builder, gd, hplip, kbd, kernel, librabbitmq, libreoffice, libxml2, microcode_ctl, mod_auth_openidc:2.3, nodejs:22, OpenEXR, pcre2, perl-DBI, python-tornado, rsyslog, tftp, thunderbird, and xorg-x11-server), Red Hat (compat-libtiff3, firefox, ghostscript, idm:DL1, ipa, kernel, kernel-rt, libtiff, lrzsz, and mariadb-connector-c), Slackware (libarchive), SUSE (amazon-cloudwatch-agent, bind, container-suseconnect, containerd, glibc, google-osconfig-agent, helm, kernel, python312, python313-oletools, python313-openpyxl, python313-orjson, python313-paramiko, python313-pipreqs, python313-py, python313-pycryptodome, python313-pycryptodomex, python313-pydrive2, python313-python-engineio, webkit2gtk3, and xorg-x11-server), and Ubuntu (apache2, bind9, bluez, curl, openssh, python-urllib3, and u-boot).",
-    "guid": "https://lwn.net/Articles/1100785/",
-    "date": "Oct 15, 2026 13:09",
-    "published_at": "2026-10-15T13:09:44Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "Seven stable kernels for Thursday with fix for critical vulnerability",
-    "link": "https://lwn.net/Articles/1100611/",
-    "description": "Greg Kroah-Hartman has announced the release of the 7.2.11, 6.18.57,\n6.12.113, 6.6.159, 6.1.190,\n5.15.223, and 5.10.272 stable kernels. This series includes,\namong other things, a fix for a\ncritical vulnerability (CVE-2026-99999). The\nflaw in skb_checksum_help()\nwould allow an IPv4 packet with bad checksum metadata to \"corrupt the network\nheader and cause a bunch of mischief\" in the words of patch author Michael\nS. Tsirkin. As usual, all users are advised to upgrade.\n\n",
-    "guid": "https://lwn.net/Articles/1100611/",
-    "date": "Oct 15, 2026 13:01",
-    "published_at": "2026-10-15T13:01:31Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "FOSS Weekly #26.42: AI in Kernel, Ubuntu 26.10 Firefox Business, Mint Release Changes and More Linux Stuff",
-    "link": "https://feed.itsfoss.com/link/24361/17498175/foss-weekly-26-42",
-    "description": "As Linus Torvalds embraces AI, it is time that we also pull our socks up and get on with local AI.",
-    "guid": "6ad05d58965d0e000159ff3f",
-    "date": "Oct 15, 2026 12:58",
-    "published_at": "2026-10-15T12:58:00Z",
-    "image": "https://itsfoss.com/content/images/2026/10/foss-weekly-1-.webp",
-    "source": "itsfoss.com",
-    "source_url": "https://itsfoss.com/"
-  },
-  {
-    "title": "Epic Games To Improve Easy Anti-Cheat On Linux With Anti-Cheat Systemd Service \u0026 eBPF",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368178",
-    "description": "In addition to Epic Games announced a preview of their new Epic Games Launcher, including Linux support, they also announced plans to improve their Easy Anti-Cheat (EAC) software on Linux. Along with this improved EAC they are also working on official Linux support for the popular Fortnite game...",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368178",
-    "date": "Oct 15, 2026 12:45",
-    "published_at": "2026-10-15T12:45:05Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Ubuntu 26.10 Released With Linux 7.3 + GNOME 51, Rust Coreutils Migration Complete",
-    "link": "https://www.phoronix.com/news/Ubuntu-26.10-Released",
-    "description": "Ubuntu 26.10 \"Stonking Stingray\" is now officially available as the newest six-month non-LTS update to Ubuntu Linux...",
-    "guid": "https://www.phoronix.com/news/Ubuntu-26.10-Released",
-    "date": "Oct 15, 2026 11:19",
-    "published_at": "2026-10-15T11:19:06Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Fastfetch 2.70 System Information Tool Released with Linux and Android Improvements",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368179",
-    "description": "Fastfetch 2.70 arrives with better Android support, improved Linux audio detection, fewer dependencies, and bug fixes across platforms.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368179",
-    "date": "Oct 15, 2026 11:13",
-    "published_at": "2026-10-15T11:13:36Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Bank of America Hired 1,000 Contractors to Patch Software Flaws Exposed By Anthropic's Mythos",
-    "link": "https://it.slashdot.org/story/26/10/14/2143253/bank-of-america-hired-1000-contractors-to-patch-software-flaws-exposed-by-anthropics-mythos?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Bank of America hired 1,000 outside contractors to help patch software vulnerabilities exposed by advanced AI models, including Anthropic's Mythos. The effort added hundreds of millions of dollars in third-quarter expenses. CNBC reports: In an interview after the bank's third-quarter earnings release, [CEO Brian Moynihan] said that earlier this year the company rushed to bolster a wide spectrum of its internal and vendor code using thousands of employees and outside personnel. \"That risk is real risk, and that's why when the frontier-type models came out. ... A lot of us sat down and said, 'How do we figure out how to get through this quickly?'\" Moynihan told CNBC's Leslie Picker.\n \n\"We put on 1,000 contractors to help us do the patching work in the second quarter, and those people remain here today, helping us, on top of the 3,000 people we have in that area,\" he said. The bank spent a \"couple hundred million plus\" on the software remediation and regulatory issues related to anti-money laundering compliance in the third quarter, Moynihan told analysts earlier Wednesday.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 15, 2026 11:00",
-    "published_at": "2026-10-15T11:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Epic Games Wants Linux Gamers. It's Rebuilding EAC For Fortnite",
-    "link": "https://feed.itsfoss.com/link/24361/17498152/epic-games-linux-anti-cheat-fortnite",
-    "description": "The anti-cheat software is being prepared for the platform, while a native client is already available as a preview.",
-    "guid": "6ad0710d965d0e00015a0020",
-    "date": "Oct 15, 2026 10:44",
-    "published_at": "2026-10-15T10:44:26Z",
-    "image": "https://itsfoss.com/content/images/2026/10/epic-games-fortnite-eac-banner.png",
-    "source": "itsfoss.com",
-    "source_url": "https://itsfoss.com/"
-  },
-  {
-    "title": "Huawei Proposes Enabling CPU Boost By Default For ACPI CPPC Linux Driver",
-    "link": "https://www.phoronix.com/news/Huawei-Proposes-Boost-Default",
-    "description": "For those using the generic ACPI Collaborative Processor Performance Control (CPPC) CPUFreq driver such as on a number of ARM64 Linux server platforms, if the CPUs support a \"boost\" mode it's disabled by default. But a patch from Huawei is now looking to enable CPU boost mode by default on Linux...",
-    "guid": "https://www.phoronix.com/news/Huawei-Proposes-Boost-Default",
-    "date": "Oct 15, 2026 10:24",
-    "published_at": "2026-10-15T10:24:24Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "GNOME Mutter Improves Damage Tracking For Secondary GPU Copy Buffers",
-    "link": "https://www.phoronix.com/news/Mutter-2nd-GPU-Damage-Track",
-    "description": "As an early improvement to Mutter to look forward to with GNOME 52 (Update: It will first appear in GNOME 51.2), the compositor is now tracking damage for secondary GPU copy buffers. This should improve the experience for those with multi-GPU setups such as some hybrid laptops...",
-    "guid": "https://www.phoronix.com/news/Mutter-2nd-GPU-Damage-Track",
-    "date": "Oct 15, 2026 10:12",
-    "published_at": "2026-10-15T10:12:29Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "New fighting game Poly Fighter combines roguelike features to build your fighter",
-    "link": "https://www.gamingonlinux.com/2026/10/new-fighting-game-poly-fighter-combines-roguelike-features-to-build-your-fighter/",
-    "description": "Poly Fighter is a new Early Access fighting game designed to be for solo play, with you building up your own fighter with each win.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/10/new-fighting-game-poly-fighter-combines-roguelike-features-to-build-your-fighter/",
-    "date": "Oct 15, 2026 09:59",
-    "published_at": "2026-10-15T09:59:45Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/891406036id29979gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Microsoft Releases Microsoft Defender For The Linux Desktop",
-    "link": "https://www.phoronix.com/news/Microsoft-Defender-For-Linux-D",
-    "description": "Microsoft's newest software release for Linux is... Microsoft Defender for the Linux desktop. Microsoft Defender has been ported to Linux to \"secure Linux desktops\" with Microsoft acknowledging that \"more developers begin to use Linux desktops\" and thus bringing their security application and threat-protection product to Linux desktops to complement their prior ill-used Linux server support...",
-    "guid": "https://www.phoronix.com/news/Microsoft-Defender-For-Linux-D",
-    "date": "Oct 15, 2026 09:52",
-    "published_at": "2026-10-15T09:52:45Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Building a Reliable Event-Driven Payment Service With XRP Ledger",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368181",
-    "description": "Receiving a transaction notification is only the first step. Production software still has to decide whether that event is safe to turn into application state. A WebSocket callback can arrive in milliseconds. What happens afterward is harder. The XRP Price may be the public-facing metric most people associate with the asset, but developers integrating the XRP Ledger have a different concern. A long-running service has to detect transactions, determine whether their outcomes are final, and update local application state without acting twice or acting too soon.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368181",
-    "date": "Oct 15, 2026 09:42",
-    "published_at": "2026-10-15T09:42:06Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Humble Bundle has two new bundles full of horror and factory-building games",
-    "link": "https://www.gamingonlinux.com/2026/10/humble-bundle-has-two-new-bundles-full-of-horror-and-factory-building-games/",
-    "description": "Humble Bundle has launched two new game bundles with very different themes: one built around Halloween horror, and the other all about factories and automation.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/10/humble-bundle-has-two-new-bundles-full-of-horror-and-factory-building-games/",
-    "date": "Oct 15, 2026 09:38",
-    "published_at": "2026-10-15T09:38:26Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/2122555951id29978gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Speed through strange retro worlds in the strategic roguelike racer Reality Drift demo",
-    "link": "https://www.gamingonlinux.com/2026/10/speed-through-strange-retro-worlds-in-the-strategic-roguelike-racer-reality-drift-demo/",
-    "description": "Available with a demo now - Reality Drift is a retro strategic roguelike racing game where you battle through a series of strange worlds.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/10/speed-through-strange-retro-worlds-in-the-strategic-roguelike-racer-reality-drift-demo/",
-    "date": "Oct 15, 2026 09:14",
-    "published_at": "2026-10-15T09:14:10Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1606681589id29977gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Ashes of the Singularity II gets a November release date",
-    "link": "https://www.gamingonlinux.com/2026/10/ashes-of-the-singularity-ii-gets-a-november-release-date/",
-    "description": "Set to arrive on November 10th, Ashes of the Singularity II will bring a fresh next-generation grand-scale RTS to your systems.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/10/ashes-of-the-singularity-ii-gets-a-november-release-date/",
-    "date": "Oct 15, 2026 08:55",
-    "published_at": "2026-10-15T08:55:57Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1252444662id29976gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Bazzite Linux continues growing - now with over 100K Weekly Active Devices",
-    "link": "https://www.gamingonlinux.com/2026/10/bazzite-linux-continues-growing-now-with-over-100k-weekly-active-devices/",
-    "description": "Bazzite Linux continues to be a popular choice for a SteamOS-like on handhelds, TV PCs and for desktops too with a new milestone hit.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/10/bazzite-linux-continues-growing-now-with-over-100k-weekly-active-devices/",
-    "date": "Oct 15, 2026 08:00",
-    "published_at": "2026-10-15T08:00:57Z",
-    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/bazzite.jpg",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
   }
 ]
