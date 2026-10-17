@@ -1,5 +1,193 @@
 [
   {
+    "title": "First Look at Devario OS: A Modern, Shelly-First Linux Distro Based on Arch Linux",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368232",
+    "description": "From the creators of the Shelly package manager for Arch Linux, I am happy to introduce you to Devario OS, a modern Linux distro based on Arch Linux and built around in-house projects.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368232",
+    "date": "Oct 17, 2026 14:08",
+    "published_at": "2026-10-17T14:08:51Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Not Every Open Source OS Needs to Be Based on Linux, and These Six Aren’t",
+    "link": "https://feed.itsfoss.com/link/24361/17499437/open-source-non-linux-os",
+    "description": "There are more operating systems than just Linux. Here's a list of a few that are under active development.",
+    "guid": "6ad1f2250b3133000169b285",
+    "date": "Oct 17, 2026 13:01",
+    "published_at": "2026-10-17T13:01:44Z",
+    "image": "https://itsfoss.com/content/images/2026/10/open-source-list-banner.png",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "Join us for the Fedora Linux 45 Release Party!",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368231",
+    "description": "Fedora Linux 45 is almost here! Developers, packagers, and quality assurance engineers are hard at work putting the remaining polish on Fedora 45, which means it’s time for our Global Virtual Release Party! It is almost time to celebrate! If all goes according to plan, we will celebrate Fedora 45 just after its actual final […]",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368231",
+    "date": "Oct 17, 2026 11:05",
+    "published_at": "2026-10-17T11:05:51Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Google Updates Android Earthquake Alerts With 200+ Regions",
+    "link": "https://news.slashdot.org/story/26/10/17/0016213/google-updates-android-earthquake-alerts-with-200-regions?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Google is expanding its Android Earthquake Alerts System from 98 to more than 200 regions worldwide, using smartphone sensors to detect early earthquake activity and warn users before potentially dangerous shaking begins. The update also enhances the system's \"Be Ready\" alerts with estimated earthquake magnitudes, epicenter information, maps showing affected areas, and additional safety guidance. From a Google blog post: \nBe Aware: A straightforward alert for estimated light shaking, letting you know an earthquake has been detected nearby.\nBe Ready: A detailed alert for stronger shaking, alerting you to prepare to take action.\nTake Action: A full-screen alert for moderate to heavy shaking, giving you immediate advice on how to stay safe.\n \nWe've built-out our Be Ready alert with new helpful guidance. In the coming months, you'll see a map with a radius of where we've detected shaking, estimated earthquake magnitude, action you can take, and a button to learn more about the earthquake as information comes in.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 17, 2026 11:00",
+    "published_at": "2026-10-17T11:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Linux Lands Fix for Rare, Varying SMP Boot Hangs Affecting Kernels Since 2024",
+    "link": "https://www.phoronix.com/news/Linux-7.3-KThreads-NBCON",
+    "description": "Among the flurry of last minute patch activity ahead of tomorrow's presumed Linux 7.3 stable kernel release is a fix for addressing some rare hangs at boot time. The reports varied but ultimately tracked down to a kernel change made two years ago...",
+    "guid": "https://www.phoronix.com/news/Linux-7.3-KThreads-NBCON",
+    "date": "Oct 17, 2026 10:54",
+    "published_at": "2026-10-17T10:54:33Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "GNOME's New Local/Cloud AI Chat App Gains More Features",
+    "link": "https://www.phoronix.com/news/GNOME-Moose-0.6-AI",
+    "description": "Coming about the past few months has been Moose as a GNOME-aligned AI chat application built around GTK4 and libadwaita. It began as a local AI chat app for the GNOME desktop and grew to support cloud AI services as well. This past week marked the latest feature release for Moose...",
+    "guid": "https://www.phoronix.com/news/GNOME-Moose-0.6-AI",
+    "date": "Oct 17, 2026 10:39",
+    "published_at": "2026-10-17T10:39:25Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Linux 7.3 Lands Last-Minute Fixes For Samsung 990 PRO \u0026 990 EVO Plus SSDs",
+    "link": "https://www.phoronix.com/news/Linux-7.3-Samsung-990-Immediate",
+    "description": "Ahead of the Linux 7.3 stable kernel expected to be released tomorrow, last minute workarounds were merged for the Samsung 990 PRO and Samsung 990 EVO Plus NVMe solid state drives...",
+    "guid": "https://www.phoronix.com/news/Linux-7.3-Samsung-990-Immediate",
+    "date": "Oct 17, 2026 10:15",
+    "published_at": "2026-10-17T10:15:12Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "KDE Plasma 6.9 To Debut New Weather Widget \u0026 On-Screen Keyboard",
+    "link": "https://www.phoronix.com/news/KDE-Plasma-6.9-Weather-Keyboard",
+    "description": "With KDE Plasma 6.8 released earlier this week, KDE developers have begun working on more feature activity toward Plasma 6.9...",
+    "guid": "https://www.phoronix.com/news/KDE-Plasma-6.9-Weather-Keyboard",
+    "date": "Oct 17, 2026 10:01",
+    "published_at": "2026-10-17T10:01:15Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Ubuntu Touch 24.04-2.1 Brings New Hardware Support \u0026 Important Security Fix",
+    "link": "https://www.phoronix.com/news/Ubuntu-Touch-24.04-2.1",
+    "description": "Ubuntu Touch 24.04-2.1 was released on Friday as the latest update to this community-maintained tablet/smartphone Ubuntu Linux platform. Ubuntu Touch 24.04-1.5 was also released as a maintenance update for the prior series...",
+    "guid": "https://www.phoronix.com/news/Ubuntu-Touch-24.04-2.1",
+    "date": "Oct 17, 2026 09:49",
+    "published_at": "2026-10-17T09:49:26Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "OpenRGB 1.1 Released with CLI Fixes, Improved Device Hotplug Support",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368242",
+    "description": "OpenRGB 1.1 fixes command-line and SDK server issues, improves device hotplug handling, and introduces a new hidapi-hotplug dependency on Linux.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368242",
+    "date": "Oct 17, 2026 08:02",
+    "published_at": "2026-10-17T08:02:52Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Valve fix Zero Company crashing on Steam Machine with the latest major game update",
+    "link": "https://www.gamingonlinux.com/2026/10/valve-fix-zero-company-crashing-on-steam-machine-with-the-latest-major-game-update/",
+    "description": "Zero Company recently had a major upgrade, with it crashing on Steam Machine and probably other SteamOS / Linux systems - which Valve have solved.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/10/valve-fix-zero-company-crashing-on-steam-machine-with-the-latest-major-game-update/",
+    "date": "Oct 17, 2026 07:34",
+    "published_at": "2026-10-17T07:34:56Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1142594432id29995gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Steam Client Beta for October 16 brings another round of startup performance improvements",
+    "link": "https://www.gamingonlinux.com/2026/10/steam-client-beta-for-october-16-brings-another-round-of-startup-performance-improvements/",
+    "description": "I do love a bit of competition between stores don't you? Valve's latest Steam Client Beta for October 16th brings more speed.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/10/steam-client-beta-for-october-16-brings-another-round-of-startup-performance-improvements/",
+    "date": "Oct 17, 2026 07:19",
+    "published_at": "2026-10-17T07:19:40Z",
+    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/steam_plain_2025.jpg",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "SteamOS 3.9.3 Beta arrives with improved support for Steam Frame wireless adapter",
+    "link": "https://www.gamingonlinux.com/2026/10/steamos-3-9-3-beta-arrives-with-improved-support-for-steam-frame-wireless-adapter/",
+    "description": "Valve released SteamOS 3.9.3 Beta with another set of upgrades, and now the Steam Frame should connect better with the Steam Machine.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/10/steamos-3-9-3-beta-arrives-with-improved-support-for-steam-frame-wireless-adapter/",
+    "date": "Oct 17, 2026 07:14",
+    "published_at": "2026-10-17T07:14:23Z",
+    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/steam-hardware-family-steamos_gol2_4c8c9b9c.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Wine 11.20 brings more improvements for ARM64EC, XML validation and CDROMs",
+    "link": "https://www.gamingonlinux.com/2026/10/wine-11-20-brings-more-improvements-for-arm64ec-xml-validation-and-cdroms/",
+    "description": "The Wine 11.20 development release is out now bringing another set of improvements for running Windows apps / games on SteamOS / Linux.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/10/wine-11-20-brings-more-improvements-for-arm64ec-xml-validation-and-cdroms/",
+    "date": "Oct 17, 2026 07:09",
+    "published_at": "2026-10-17T07:09:09Z",
+    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/wine-generic.jpg",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Astronomers Discover the First Green Star",
+    "link": "https://science.slashdot.org/story/26/10/17/0011226/astronomers-discover-the-first-green-star?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Astronomers have identified what may be the first genuinely green star, a white dwarf called WD J1330+6435 located about 326 light-years from Earth. Space.com reports: The researchers found that some dead star white dwarfs can go a little green around the gills after snacking on orbiting planets. An example of this is WD J1330+6435, a cool white dwarf located around 326 light-years away, which has been accreting rocky material from a planetary companion. This has enriched its atmosphere with calcium, lithium, and sodium, and the team's model suggests this would have led WD J1330+6435 to adopt a green hue.\n \n[...] The researchers think that no other star, living or dead, has ever been credibly reported as green. That makes WD J1330+6435 the first known genuinely green star. \"The traces of sodium in the atmosphere of this white dwarf absorb the orange part of the spectrum, leaving behind a ghostly green glow,\" Hollands said. \"Imagine standing on a planet and looking up at a green star. It feels like something out of science fiction.\" The researchers also discovered what may be the reddest star ever observed, the white dwarf WD J1011+2845, located just 48 light-years away.\n \nThe findings have been published in the journal RAS Techniques and Instruments.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 17, 2026 07:00",
+    "published_at": "2026-10-17T07:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Ubuntu Touch 24.04-2.1 Released with More Devices, Updated Morph Browser",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368238",
+    "description": "Ubuntu Touch 24.04-2.1 adds support for eight more devices, updates Morph Browser, improves notifications, and fixes a security vulnerability.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368238",
+    "date": "Oct 17, 2026 04:59",
+    "published_at": "2026-10-17T04:59:53Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Over $600 Million In Polymarket Election Trades Took Place After Races Ended",
+    "link": "https://news.slashdot.org/story/26/10/16/2051209/over-600-million-in-polymarket-election-trades-took-place-after-races-ended?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from Wired: Prediction market boosters often tout the platforms as barometers of public opinion, or even \"truth machines\" offering a clearer picture of where things are headed than polling or other data. In 2024, for example, Kalshi beat many pollsters in forecasting the outcome of the US presidential race. But their trading activity can also tell more perplexing stories. Two global election markets on Polymarket's offshore platform, for instance, generated over $600 million in trading volume, far more than most political markets typically attract. Most of the activity took place buying and selling contracts tied to long-shot candidates who ultimately did not win. The report focuses on suspicious trading activity surrounding elections in Ethiopia and Romania, where researchers uncovered $284 million in questionable trades tied to Ethiopia's election and periods when 99.6% of trading volume in a Romanian election market was flagged as suspected \"wash trading.\"\n \nAccording to Wired, \"wash trading is a type of market manipulation in which accounts repeatedly buy and sell assets to create the illusion of heavy trading activity, when in reality, money is simply moving back and forth.\" Some accounts may also be artificially inflating their activity to qualify for potential cryptocurrency token rewards, a practice known as \"activity farming.\"\n \nIn response to the Ethiopian trading activity, Polymarket told Wired that the company \"immediately flagged this activity, investigated, and blocked the accounts from trading.\" The company did not explain why the suspicious trades were allowed to continue for months before action was taken.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 17, 2026 03:30",
+    "published_at": "2026-10-17T03:30:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Canadian Study Proposes a National Linux Distribution to Replace Windows in Government",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368239",
+    "description": "A Canadian study says a national Debian-based Linux distro could save Ottawa up to $1.13B in 10 years. We tested the claim against Europe and Reddit.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368239",
+    "date": "Oct 17, 2026 03:28",
+    "published_at": "2026-10-17T03:28:24Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
     "title": "Wine 11.20 Released With CD-ROM Support Change",
     "link": "https://www.phoronix.com/news/Wine-11.20-Released",
     "description": "Wine 11.20 is out today as the newest bi-weekly development release of this software for enjoying Windows games and apps on Linux. We are quickly approaching the point where this development work will culminate into the Wine 12.0 stable release in early 2027...",
@@ -134,6 +322,16 @@
     "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
     "source": "slashdot.org",
     "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Fedora 45 Will Not Be Released Next Week",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368208",
+    "description": "For those eager to run the pristine Fedora 45 media, you will need to wait at least one more week...",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368208",
+    "date": "Oct 16, 2026 17:43",
+    "published_at": "2026-10-16T17:43:26Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
   },
   {
     "title": "ChatGPT Can Peek At Your Chrome Tabs Now",
@@ -278,6 +476,16 @@
     "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1978438452id29991gol.webp",
     "source": "gamingonlinux.com",
     "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Intel Nova Lake S \u0026 Nova Lake P To Support SR-IOV With Xe Graphics",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368204",
+    "description": "A patch has been posted to the Linux kernel mailing list by an Intel engineer confirming that Nova Lake S and Nova Lake P processors with integrated graphics will support SR-IOV in conjunction with the Xe kernel graphics driver...",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368204",
+    "date": "Oct 16, 2026 11:37",
+    "published_at": "2026-10-16T11:37:28Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
   },
   {
     "title": " Epic introduces an improved version of anti-cheat for Linux  ",
@@ -460,10 +668,10 @@
     "source_url": "https://www.gamingonlinux.com/"
   },
   {
-    "title": "Proton Experimental for October 15 has fixes for ARC Raiders, C\u0026C Red Alert, Counterstike and The Aftermath",
-    "link": "https://www.gamingonlinux.com/2026/10/proton-experimental-for-october-15-has-fixes-for-arc-raiders-c-c-red-alert-counterstike-and-the-aftermath/",
+    "title": "Proton Experimental for October 15 has fixes for ARC Raiders, C\u0026C Red Alert, Counterstrike and The Aftermath",
+    "link": "https://www.gamingonlinux.com/2026/10/proton-experimental-for-october-15-has-fixes-for-arc-raiders-c-c-red-alert-counterstrike-and-the-aftermath/",
     "description": "Valve launched the latest update for Proton Experimental to fix up more issues found with Windows games running on SteamOS / Linux.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/10/proton-experimental-for-october-15-has-fixes-for-arc-raiders-c-c-red-alert-counterstike-and-the-aftermath/",
+    "guid": "https://www.gamingonlinux.com/2026/10/proton-experimental-for-october-15-has-fixes-for-arc-raiders-c-c-red-alert-counterstrike-and-the-aftermath/",
     "date": "Oct 16, 2026 07:15",
     "published_at": "2026-10-16T07:15:59Z",
     "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/555355009id29984gol.webp",
@@ -512,139 +720,5 @@
     "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/44726068id29982gol.webp",
     "source": "gamingonlinux.com",
     "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "3mdeb Releases Updated Dasharo/Coreboot Firmware For ASRock Rack SPC741D8-2L2T",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368200",
-    "description": "3mdeb firmware engineers have been quite busy this year working on porting Coreboot and openSIL to an AMD Ryzen AM5 MSI motherboard and similarly getting openSIL and Coreboot up and running on a Gigabyte server motherboard for AMD EPYC 9005 CPUs. They haven't forgotten about their past projects though and today released an updated version of their Dasharo downstream firmware for the ASRock Rack SPC741D8-2L2T motherboard supporting 4th and 5th Gen Xeon Scalable processors...",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368200",
-    "date": "Oct 16, 2026 05:31",
-    "published_at": "2026-10-16T05:31:29Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Ubuntu 26.10 Official Flavors Are Now Available for Download, This Is What’s New",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368195",
-    "description": "As part of today’s release of Ubuntu 26.10 (Stonking Stingray), all the official Ubuntu flavors have been updated to the same version, so here’s a look at their new features and improvements.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368195",
-    "date": "Oct 16, 2026 04:00",
-    "published_at": "2026-10-16T04:00:00Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Tesla Reveals SpaceX-Powered 'Flying' Roadster",
-    "link": "https://tech.slashdot.org/story/26/10/16/030228/tesla-reveals-spacex-powered-flying-roadster?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Tesla has unveiled a dramatically redesigned Roadster concept capable of performing midair flips, controlled landings, and a claimed 0-60 mph sprint in just 0.81 seconds. CarScoops reports: Tonight, Tesla debuted the new Roadster by driving it up a vertical ramp that then went horizontal. Then, it repeated the feat but drove off of the ramp and used thrusters to flip itself over and make a controlled landing on the ground. After that, it did a barrel roll over the rest of the Tesla lineup and again landed without issue on the ground. Then, it did 0-60 mph in 0.81 seconds according to Tesla. All of that sounds amazing, and indeed, watching it happen was pretty spectacular, but boy do we have a lot to unpack.\n \nIt's been nearly a decade since Tesla first showed us the Roadster. The company unveiled what it's simply calling the Roadster. Not Roadster 2.0, not CyberRoadster, just Roadster, as if it's a direct successor to the original Tesla. In terms of design, it's quite a bit different from the car we saw in 2017. Rather than be a somewhat curvaceous sports car, it's considerably more angular. If a Cybertruck and a Lamborghini Reventon had a runt of a baby, this would be that car. Still, at this stage, we're still just touching on what we saw and what it looks like. Let's get into the details. Developed in collaboration with SpaceX, the Roadster uses 10 cold-gas thrusters powered by two 600-liter compressed-air tanks to accelerate and maneuver in mid-air. Underbody suction fans reportedly generate up to 2Gs of downforce even while stationary, while an active rear spoiler adjusts aerodynamics in real time.\n \nOther features include steer-by-wire, brake-by-wire, and throttle-by-wire technology. Tesla plans three variants: Performance, which requires a $50,000 deposit; Thrust, a $250,000 model capable of sub-one-second acceleration; and Rocket, an invite-only, single-seat version capable of flying.\n \nProduction isn't expected until 2028, and Tesla has yet to disclose key specifications, including range, horsepower, battery capacity, and motor configuration.\n \nA recording of the event can be viewed on X.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 16, 2026 03:03",
-    "published_at": "2026-10-16T03:03:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Fedora 45 Will Not Be Released Next Week",
-    "link": "https://www.phoronix.com/news/Fedora-45-First-No-Go",
-    "description": "For those eager to run the pristine Fedora 45 media, you will need to wait at least one more week...",
-    "guid": "https://www.phoronix.com/news/Fedora-45-First-No-Go",
-    "date": "Oct 16, 2026 01:50",
-    "published_at": "2026-10-16T01:50:44Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Police Seize Robot that Sexually Assaulted Teen Girl",
-    "link": "https://hardware.slashdot.org/story/26/10/15/2241202/police-seize-robot-that-sexually-assaulted-teen-girl?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Slashdot reader alternative_right shares a story that has drawn international attention for being potentially the first documented instance of a robot being used directly in a sexual assault. According to the Associated Press, German police have opened a sexual harassment investigation after a robot allegedly touched a 16-year-old girl's buttocks and made thrusting motions while two young men reportedly filmed and streamed the incident. Investigators seized the robot and the suspects' phones and are trying to determine whether the movements were preprogrammed or controlled in real time. From the report: Cologne police spokesman Christoph Bermel said the two male teenagers have not been charged but are considered suspects, and investigators were examining whether the robot's movements were preprogrammed or controlled in real time.\n \nPolice were unfamiliar with this type of incident, he said. \"We have not been aware of this phenomenon so far,\" Bermel told The Associated Press, saying it was \"new territory for us.\" [...] The robot, said to be 120 centimeters (about 3 ft 11 inches) tall, was dressed in a white tank top, black sweatpants and wearing a gold chain and sunglasses. It also had what appears to be a fake mustache. Videos circulated on the internet show two young men escorting the robot toward a group of women, bumping into one and hugging others, on a lively nighttime street.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 16, 2026 01:00",
-    "published_at": "2026-10-16T01:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Forgejo 17.0 Dev Platform Released with Improved Actions, Git LFS Support",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368201",
-    "description": "Forgejo 17.0 is out with improved CI/CD workflows, enhanced Git LFS management, donation buttons, and expanded repository migration support.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368201",
-    "date": "Oct 16, 2026 00:57",
-    "published_at": "2026-10-16T00:57:01Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Debian forky OverlayFS BTRFS/XFS setup",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368197",
-    "description": "One more option provided is recovery main instance via booting into Overlay instance using Grub Submenu. By explicitly mounting the top-level Btrfs volume (subvolid=5) into a temporary directory like /mnt, you step outside the overlay's jurisdiction. This allows the kernel to recognize the true Btrfs layout and perform instant atomic subvolume swaps.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368197",
-    "date": "Oct 15, 2026 23:25",
-    "published_at": "2026-10-15T23:25:31Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Ubuntu 26.10 Released",
-    "link": "https://news.slashdot.org/story/26/10/15/2013231/ubuntu-2610-released?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "prisoninmate shares a report from 9to5Linux: Ubuntu 26.10 (Stonking Stingray) has been released today, and it is now available for download for those eager to update their Ubuntu systems to a newer release. Powered by the upcoming Linux 7.3 kernel series, Ubuntu 26.10 ships with the latest GNOME 51 desktop environment, TPM-backed full disk encryption (FDE) support on computers without a hardware root of trust, updated Settings to show whether a computer is certified for Ubuntu, and 100% Rust coreutils.\n \nThere are several App Center enhancements in Ubuntu 26.10, such as a unified app-details view for Snap and Debian packages, a dedicated Drivers page where you can review the available graphics drivers, including NVIDIA driver branches, and support for installing codecs for one-time playback when a media file uses a codec that's not installed.' Other additions include an optional, locally processed AI-powered speech-to-text tool called Myna, system-wide controls for disabling Ubuntu Insights data collection, and better integration with Microsoft Entra ID. Also worth mentioning are the security and software updates that will be available for nine months, through July 2027.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 15, 2026 23:00",
-    "published_at": "2026-10-15T23:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Today's Steam Beta Makes The Linux Client A 64-bit App",
-    "link": "https://www.phoronix.com/news/Steam-Linux-Beta-64-bit",
-    "description": "Valve just dropped a new Steam client beta and it's a big one for Linux gamers...",
-    "guid": "https://www.phoronix.com/news/Steam-Linux-Beta-64-bit",
-    "date": "Oct 15, 2026 22:08",
-    "published_at": "2026-10-15T22:08:08Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "IMF Warns of the Real AI Threat: Debt",
-    "link": "https://news.slashdot.org/story/26/10/15/1949215/imf-warns-of-the-real-ai-threat-debt?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "\"Along with the dangers of continuing cyberattacks, the International Monetary Fund (IMF) reports that the threat of an AI market crash is putting the global markets at risk,\" writes Slashdot reader databasecowgirl, citing the IMF's latest semiannual Global Financial Stability Report. Here's a summary: Three salient risks could trigger a sharp tightening of financial conditions and market turmoil. Weaker or less durable investment and profitability in artificial intelligence could lead to a correction in AI-related asset prices, amplified by rising leverage and concentrated exposures. Resurgent inflation or fiscal concerns could drive a sharp rise in sovereign bond yields, with potentially broad repercussions across financial markets. Meanwhile, increasingly sophisticated cyber threats pose growing risks as finance becomes more digital and interconnected.\n \nUnderlying financial vulnerabilities could amplify these risks and turn market stress into systemic events. Although the global banking system remains broadly resilient, pockets of weaker banks persist. Liquidity mismatches among insurers and pension funds have increased, while rising leverage and contingent liquidity risks in private credit could amplify stress.\n \nWhile hedge funds support market functioning in calm times, their use of leverage and exposure to crowded trades could exacerbate market stress too and create spillovers to prime brokers. Some emerging markets have seen policy buffers erode, and frontier economies have increasingly relied on less transparent forms of financing.\n \nFinally, although markets for tokenized assets remain small and could offer efficiency gains in several areas, they can create new channels for the buildup of leverage and mismatches in liquidity and maturity, in addition to elevating risks related to technology and infrastructure. These vulnerabilities underscore the need for policies that strengthen resilience, enhance transparency, contain excessive leverage, and improve preparedness for future shocks. The full report can be found here (PDF).\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 15, 2026 22:00",
-    "published_at": "2026-10-15T22:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Claude Code / AI Shows Potential For Reverse-Engineering Hardware For Linux Support",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368199",
-    "description": "AI/LLMs like Claude Code are beginning to prove capable of helping to reverse engineer hardware for Linux support, especially when it comes to the tedious reverse engineering tasks...",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368199",
-    "date": "Oct 15, 2026 21:54",
-    "published_at": "2026-10-15T21:54:02Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Intel Nova Lake S \u0026 Nova Lake P To Support SR-IOV With Xe Graphics",
-    "link": "https://www.phoronix.com/news/Intel-Nova-Lake-SR-IOV-Xe",
-    "description": "A patch has been posted to the Linux kernel mailing list by an Intel engineer confirming that Nova Lake S and Nova Lake P processors with integrated graphics will support SR-IOV in conjunction with the Xe kernel graphics driver...",
-    "guid": "https://www.phoronix.com/news/Intel-Nova-Lake-SR-IOV-Xe",
-    "date": "Oct 15, 2026 21:04",
-    "published_at": "2026-10-15T21:04:27Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "LPDDR5 5467 vs. 6400 vs. 7467 MT/s Memory Performance Benchmarks For Laptops",
-    "link": "https://www.phoronix.com/review/lpddr5-5467-6400-7467",
-    "description": "With the recently reviewed Star Labs StarFighter Ultra Linux laptop its BIOS allows for configurable memory speeds unlike many other laptop vendor BIOS implementations these days. Star Labs also made the default design decision to run the LPDDR5-7467 rated memory at LPDDR5-6400 speeds in the name of a balanced user experience for power/performance. So I was curious to run some benchmarks quantifying that power and performance impact of LPDDR5-6400 vs. LPDDR5-7467 plus tossed in LPDDR5-5467 testing as well as the third choice offered with this StarFighter Ultra laptop.",
-    "guid": "https://www.phoronix.com/review/lpddr5-5467-6400-7467",
-    "date": "Oct 15, 2026 19:02",
-    "published_at": "2026-10-15T19:02:37Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
   }
 ]
