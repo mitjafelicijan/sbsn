@@ -430,6 +430,197 @@
             <div class="grid">
                 
                 <article>
+                    <h2><a href="https://mobile.slashdot.org/story/26/10/18/002223/releasing-palm-os-archive-developer-rediscovers-working-virus-after-25-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" target="_blank">Releasing Palm OS Archive, Developer Rediscovers Working Virus After 25 Years</a></h2>
+                    <div class="meta">
+                        Oct 18, 2026 14:34 | 
+                        Source: <a href="https://slashdot.org/" target="_blank">slashdot.org</a>
+                    </div>
+                    
+                    <img src="https://a.fsdn.com/sd/twitter_icon_large.png">
+                    
+                    <p>Long-time Slashdot reader ardiri remembers his days writing applications for the Palm OS. And he&#39;s now released approximately 1.5 GB of historical Palm OS development resources, &#34;accumulated during the early days of handheld computing and preserved on hard drive backups for more than 25 years... to preserve the tools and knowledge that helped define an important era of personal computing.&#34;
+
+The collection includes historical SDKs, developer conference presentations, technical documentation, programming examples, limited source code, and development utilities. (ROM images, commercial applications, and simulator binaries have deliberately been excluded....) Making a broader collection of development resources available to the retrocomputing community, the archive is available at GitHub.com/ardiri/dev-palmos and is intended for historical preservation, education, and research, particularly as enthusiasts continue working to maintain, emulate, and revive the platform... Ardiri has also written an auto-biography and has started explored the engineering principles behind these systems in his books. 
+
+And somewhere along the way, Ardiri rediscovered the original source code for &#34;The Palm OS Virus That Never Was — Lost for 25 Years, Found in 2026.&#34; Lurking on a CompactFlash card containing files dated June 2001, he found the self-replicating Palm OS virus that he&#39;d developed and tested in June 2001, months before the planned PalmSource developer conference in San Jose.
+Named &#39;Virii,&#39; the virus intercepted Palm OS system calls to progressively infect legitimate applications while preserving their original functionality. Infected applications could then spread between handheld devices through infrared beaming, potentially allowing an infection to propagate among hundreds of developers exchanging software at the conference. The virus also included a date-triggered payload designed to interfere with system time reporting between October 23 and 27, 2001, potentially causing erratic clocks, unreliable alarms, and missed appointments. 
+
+He promises the functional source code and binaries will remain private.
+
+
+
+
+
+Read more of this story at Slashdot.</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://www.phoronix.com/news/Intel-TDX-Less-Cache-Flushing" target="_blank">It Turns Out Intel TDX Doesn&#39;t Need So Much Cache Flushing</a></h2>
+                    <div class="meta">
+                        Oct 18, 2026 13:53 | 
+                        Source: <a href="https://www.phoronix.com/" target="_blank">phoronix.com</a>
+                    </div>
+                    
+                    <p>Intel Trust Domain Extensions (TDX) for confidential computing with VMs has assumed the need to perform cache flushing when transitioning memory between KeyIDs used by the total memory encryption (MKTME) for unique AES encryption keys. But it&#39;s turned out to be unneeded and the Linux kernel is working now to reduce the excessive cache flushing...</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://lxer.com/module/newswire/ext_link.php?rid=368269" target="_blank">Omarchy 4.0.5 Released with Linux Kernel 7.2.8, Better Hardware Support</a></h2>
+                    <div class="meta">
+                        Oct 18, 2026 13:51 | 
+                        Source: <a href="https://lxer.com/" target="_blank">lxer.com</a>
+                    </div>
+                    
+                    <p>Omarchy 4.0.5 ships with Linux kernel 7.2.8, Qt 6.12 compatibility fixes, desktop performance improvements, and better support for NVIDIA laptops and audio devices.</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://news.slashdot.org/story/26/10/18/0632229/fsf-criticizes-raspberry-pi-drm-blocking-ram-upgrades?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" target="_blank">FSF Criticizes Raspberry Pi DRM Blocking RAM Upgrades</a></h2>
+                    <div class="meta">
+                        Oct 18, 2026 11:34 | 
+                        Source: <a href="https://slashdot.org/" target="_blank">slashdot.org</a>
+                    </div>
+                    
+                    <img src="https://a.fsdn.com/sd/twitter_icon_large.png">
+                    
+                    <p>The Free Software Foundation &#34;has never supported Raspberry Pi,&#34; writes their deputy directory Sean O&#39;Brien, &#34;as it depends on nonfree software for the boot process, leaving an important part of the computer outside the user&#39;s control.&#34; 
+
+But they&#39;re now decrying &#34;an even more intrusive restriction on user freedom&#34; — the binary-blob bootloader changes that limit your ability to upgrade RAM:
+
+ The restriction is not new: the relevant checks were introduced in the device firmware around 2024. However, these hardware handcuffs have only recently received wider attention. Though a user can desolder the original memory and install electrically compatible RAM, the nonfree firmware may refuse to recognize the additional memory, or simply decide not to boot the computer at all. Even replacement RAM of the same capacity can be rejected. 
+
+This is worse than Raspberry Pi&#39;s longstanding dependence on nonfree firmware in an important way. It is not only nonfree software, but it is Digital Restrictions Management (DRM), used in this case to prevent the owner of the computer from making a modification that the hardware is otherwise capable of supporting. That distinction matters. Soldered RAM is difficult for most people to replace since it is a physical characteristic of the hardware. In the case of Raspberry Pi boards, users have demonstrated that the hardware itself can be modified successfully.... 
+
+Raspberry Pi justifies the use of DRM on the basis of being able to identify altered computers. There may be legitimate reasons for wanting to identify such altered computers. Unscrupulous sellers have reportedly replaced memory on lower-capacity boards and resold them as more expensive models, sometimes using unreliable or defective components. But preventing fraud and maintaining quality does not require taking control away from users. A Raspberry Pi could record its original factory configuration in a cryptographically verifiable form. Raspberry Pi could use free software that warns the user when the installed RAM differs from original factory configuration. Raspberry Pi could provide tools allowing buyers to verify what hardware originally shipped with a board. None of those measures requires a software-enforced limit on what an owner may do with the computer... 
+
+If compatible hardware can be installed successfully, the manufacturer should not create restrictions to prevent the owner from using it. Restrictions on hardware upgrades are deeply troubling from an organization like Raspberry Pi that has stated their commitment to longevity as a guiding principle. Free software is ultimately about who controls the computer. The user should control it, not the manufacturer that sold it.... 
+
+The people who own these computers must also have the freedom to modify, repair, and upgrade them, without restrictions imposed by nonfree software limiting their potential. 
+
+Hackaday recently argued the restriction was &#34;no big deal.&#34; noting there&#39;s ways to bypass the restriction&#34;
+
+The bootloader is stored in the SPI flash chip, which can be reflashed using the built-in mask ROM over USB and rpiboot, and you are not prevented from flashing older versions of the bootloader, so far... If you have the skills to upgrade your RAM, you most certainly have the skills to downgrade the Raspberry Pi bootloader... 
+
+My advice: don&#39;t lament Raspberry Pi RAM upgrades, especially given they&#39;re only slightly harder to perform now. Very few hackers ever performed them, the main audience for them turned out to be dodgy hardware resellers online... Think of the users that will no longer be fooled by a shady seller on Amazon, especially now that the perverse incentives for board mods and reusing harvested RAM chips are at their highest.
+
+
+
+
+
+Read more of this story at Slashdot.</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://www.phoronix.com/news/Linux-7.4-Features-Preview" target="_blank">Linux 7.4 Features Very Exciting With Radeon HDMI 2.1 By Default, AMD PerfOpt, Apple M4</a></h2>
+                    <div class="meta">
+                        Oct 18, 2026 10:50 | 
+                        Source: <a href="https://www.phoronix.com/" target="_blank">phoronix.com</a>
+                    </div>
+                    
+                    <p>The Linux 7.3 kernel is expected to be released as stable later today and with that version there are many exciting changes and improvements. However, the Linux 7.4 kernel merge window will then open up and there are even more exciting changes expected to be merged for this follow-on kernel cycle. Here is a preview of some of the many exciting feature changes expected for Linux 7.4...</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://www.phoronix.com/news/Omarchy-Faster-Web-Browser" target="_blank">Omarchy Gets The Web Browser Launching Faster By Avoiding XDG Overhead</a></h2>
+                    <div class="meta">
+                        Oct 18, 2026 10:23 | 
+                        Source: <a href="https://www.phoronix.com/" target="_blank">phoronix.com</a>
+                    </div>
+                    
+                    <p>Omarchy 4.0.5 released this weekend as the newest version of this Arch Linux based distribution built around the Hyprland desktop. Omarchy 4.0.5 pulls in the latest Linux 7.2 stable kernel with BORE scheduler, updates against the Qt 6.12 toolkit, and a variety of smaller improvements...</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://www.phoronix.com/news/Servo-0.6-Changes" target="_blank">Servo Gets CSS Grid Working, Threadboost Offering Big Speed-Ups</a></h2>
+                    <div class="meta">
+                        Oct 18, 2026 10:05 | 
+                        Source: <a href="https://www.phoronix.com/" target="_blank">phoronix.com</a>
+                    </div>
+                    
+                    <p>Servo&#39;s August status report has finally appeared for outlining progress made on this open-source, Rust-based browser engine. This follows the recent release of the Servo 0.6 software, including the Servoshell demo browser...</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://news.slashdot.org/story/26/10/18/050211/tech-journalist-robert-x-cringely-has-died?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" target="_blank">Tech Journalist Robert X Cringely Has Died</a></h2>
+                    <div class="meta">
+                        Oct 18, 2026 07:34 | 
+                        Source: <a href="https://slashdot.org/" target="_blank">slashdot.org</a>
+                    </div>
+                    
+                    <img src="https://a.fsdn.com/sd/twitter_icon_large.png">
+                    
+                    <p>BoingBoing reports:
+Mark Stephens, better known under the pen name Robert X. Cringely, died last week at 73. Stephens chronicled the tech industry of the late 1980s and early 1990s — the age of Bill Gates&#39; rise, Steve Jobs&#39; repose, the dawn of the world wide web — and produced the famed documetary Triumph of the Nerds, based on his own bestselling Accidental Empires: How the Boys of Silicon Valley Make Their Millions, Battle Foreign Competition, and Still Can&#39;t Get a Date. 
+
+Though not the first InfoWorld columnist to write under the Cringely name, he was responsible for its persona and fought successfully to keep it after he left the magazine in 1995. 
+
+&#34;I loved the man,&#34; writes Darth Technoid (Slashdot reader #83,199):
+
+I first met him in the 1990s, while he was still working at InfoWorld, and we became friends immediately. He helped me get a job or two, and he was always filled with crazy (meaning really good) ideas. 
+
+I&#39;ll miss him and his creativity greatly. 
+
+Cringely answered questions from Slashdot&#39;s readers in 2000. And Cringely led an interesting life, as you can tell from Slashdot&#39;s January, 2020 story Robert Cringely Attempts an Air-Launching Space Startup:
+
+&#34;How does a 67-year-old hack with three minor children recover from going blind, losing his home and business in a horrible fire (like 2,000 others, we are still fighting with insurance companies), while appeasing an angry crowd of Kickstarter supporters armed with pitchforks and shovels?&#34; 
+
+That crowd still wants long-time tech pundit Robert X. Cringely to deliver on his Kickstarter-funded project to create custom Minecraft servers. So in a new blog post this week, Cringely writes that &#34;I went looking for venture money to recapitalize MineServer and I simultaneously started a satellite launch company to fund my eventual retirement. I am not making this up...&#34; 
+
+He&#39;s now found a Beverly Hills patron who wants to be a co-investor in the Minecraft servers, but &#34;I will have to earn the matching money on my own, which is what I have been trying to do with my other startup, Eldorado Space.&#34;
+ 
+
+Slashdot has often linked to Cringely&#39;s commentary over the years, as far back as 1998 and as recently as this summer. (&#34;Tech Pundit Cringely Co-Founds Startup &#39;2Brains Inc&#39; to Solve LLM Hallucinations.&#34;)
+July, 1999: Cringely&#39;s take on &#34;Pirates of Silicon Valley&#34; April, 2009: Three Mile Island Memories June, 2011: IBM Did Not Invent the Personal ComputerMarch, 2019: Cringely&#39;s Final Predictions: Apple Becomes a Financial Service and Hedge Fund June, 2019: Cringely Predicts The End Of Broadcast TV Within A Decade April, 2020: Not Just &#39;The Death of IT&#39;. Cringely Also Predicts Layoffs For Many IT Contractors January, 2021: Robert Cringley Predicted &#39;The Death of IT&#39; in 2020. Was He Right? June, 2023: Cringely Predicts Moore&#39;s Law Will Continue — Because of AI 
+
+But my favorite Cringely memory is Steve Jobs: The Lost Interview, the full 70-minute interview from 1995 that a 40-year-old Jobs gave to Cringely during filming for Triumph of the Nerds. (&#34;And they actually sent someone to wake up the Pope....&#34;) There&#39;s various pirated copies on YouTube and an online transcript, but only 10 minutes made the broadcast — at the time Jobs was still at NeXT after his departure from Apple. But when Cringely rediscovered the videotape, the entirety of the interview was released to theaters in 2012 six months after Steve Jobs&#39; death. 
+
+Share your own memories of Robert Cringely in the comments...
+
+
+
+
+
+Read more of this story at Slashdot.</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://yro.slashdot.org/story/26/10/18/0323207/saudi-openai-employees-arrest-revives-fears-us-tech-companies-are-hiring-spies?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" target="_blank">Saudi OpenAI Employee&#39;s Arrest Revives Fears US Tech Companies Are Hiring Spies</a></h2>
+                    <div class="meta">
+                        Oct 18, 2026 04:34 | 
+                        Source: <a href="https://slashdot.org/" target="_blank">slashdot.org</a>
+                    </div>
+                    
+                    <img src="https://a.fsdn.com/sd/twitter_icon_large.png">
+                    
+                    <p>That Saudi national working at OpenAI and arrested by the FBI &#34;has not been charged with foreign espionage,&#34; writes the Washington Post, &#34;and the U.S. government has not said whether he was acting alone or as an agent of a foreign government.&#34; 
+
+But &#34;there are signs that the U.S. government is exploring the latter possibility,&#34; they add, citing comments from Chris McGuire, a member of the National Security Council during the Biden administration:
+
+The Department of Justice&#39;s press release about the incident says that the National Security Division&#39;s Counterintelligence and Export Control section, whose responsibility includes prosecuting spies, is assisting with the case... A Washington-based Middle East expert, who spoke on the condition of anonymity to avoid incurring wrath from Saudi Arabia, said he believed the Saudi government was almost certainly involved in some way. &#34;No one does this, not even for patriotism, without getting paid,&#34; said the person. And money would not be distributed without agreement by the Saudi royal court, he said. The Saudis lag behind their regional rival, the United Arab Emirates, in artificial intelligence development, he added. 
+
+Friday America&#39;s Director of National Intelligence told CNBC that espionage, &#34;both commercial espionage, and I would say state-sponsored espionage, are realities. It&#39;s something that our private sector companies need to be wary of.&#34; (And CNBC adds that&#34;An ex-CIA official, who asked not to be named because they were discussing information that is not public, told CNBC this week that the case is &#39;probably the tip of the iceberg.&#39;&#34;) 
+
+The suspect had recently said he helped advise government agencies in Saudi Arabia on technology, reports the New York Times:
+In an Arabic podcast interview last month, Abdulrahman Alfozan, 35, a Saudi national, said he and other Saudi tech professionals in Silicon Valley had formed a group that advised Saudi organizations, including the kingdom&#39;s social insurance agency... 
+
+&#34;Silicon Valley is ground zero for espionage from a variety of countries around the world,&#34; said Amy Zegart, a professor at Stanford University who specializes in national security and intelligence. She added that she was &#34;troubled&#34; by the OpenAI incident and expected more cases &#34;because these companies are so important.&#34; 
+
+The Washington Post says the arrest &#34;has ignited a fierce debate about the potential risks of Silicon Valley&#39;s international workforce — employees who often hail from nations seeking to rival the AI superpower status of the U.S.&#34;
+
+Foreign nationals have long formed the backbone of the American tech industry, helping U.S. companies surpass their would-be international rivals... As recently as April, Katrina Mulligan, a senior member of OpenAI&#39;s national security team, called for an &#34;accelerated pathway to citizenship&#34; for such workers, referring to foreign hires as a &#34;national strategic asset&#34; at an event on Capitol Hill. She estimated that a significant number of OpenAI&#39;s employees were not U.S. citizens, including Chinese nationals. Just half of the 300 top AI researchers in the world, she said, were American. 
+
+Other industry leaders — as well as some lawmakers — have long accused top-tier tech companies with many foreign workers of disadvantaging Americans and being breeding grounds for Chinese espionage. Palmer Luckey, CEO of weapons maker Anduril, and venture capitalist Shaun Maguire of Sequoia Capital took to X on Wednesday to revisit arguments that the industry should focus on hiring U.S. citizens. &#34;Silicon Valley has operated with maximum openness and maximum naivete toward foreign tradecraft,&#34; Maguire wrote... At OpenAI on Wednesday, employees continued tense conversations about the political implications of the arrest for immigrant workers, two OpenAI employees said, speaking on the condition of anonymity to describe internal discussions... The arrest triggered a discussion on OpenAI&#39;s internal Slack messaging platform among employees about whether the incident might increase pressure from the Trump administration on OpenAI to not hire foreign nationals, said one of the people. 
+
+In March, Emil Michael, the Pentagon&#39;s chief technology officer, wrote in court papers that AI developer Anthropic&#39;s reliance on staff with ties to China was among the concerns that fueled the Defense Department&#39;s conflict with the AI company.
+
+
+
+
+
+Read more of this story at Slashdot.</p>
+                </article>
+                
+                <article>
                     <h2><a href="https://lxer.com/module/newswire/ext_link.php?rid=368259" target="_blank">Linus Torvalds Rejects No-AI Rules as the Linux Kernel Drops Its Assisted-by Tag</a></h2>
                     <div class="meta">
                         Oct 18, 2026 02:20 | 
@@ -980,6 +1171,16 @@ Read more of this story at Slashdot.</p>
                 </article>
                 
                 <article>
+                    <h2><a href="https://lxer.com/module/newswire/ext_link.php?rid=368236" target="_blank">17 More Security Vulnerabilities Made Public For X.Org Libraries</a></h2>
+                    <div class="meta">
+                        Oct 17, 2026 09:34 | 
+                        Source: <a href="https://lxer.com/" target="_blank">lxer.com</a>
+                    </div>
+                    
+                    <p>Just shy of two weeks since a dozen vulnerabilities were published for the X.Org Server and XWayland, more than one dozen vulnerabilities were made public today affecting multiple X.Org client libraries...</p>
+                </article>
+                
+                <article>
                     <h2><a href="https://lxer.com/module/newswire/ext_link.php?rid=368242" target="_blank">OpenRGB 1.1 Released with CLI Fixes, Improved Device Hotplug Support</a></h2>
                     <div class="meta">
                         Oct 17, 2026 08:02 | 
@@ -1023,222 +1224,6 @@ Read more of this story at Slashdot.</p>
                     <img src="https://www.gamingonlinux.com/uploads/tagline_gallery/steam-hardware-family-steamos_gol2_4c8c9b9c.webp">
                     
                     <p>Valve released SteamOS 3.9.3 Beta with another set of upgrades, and now the Steam Frame should connect better with the Steam Machine.Read the full article on GamingOnLinux.</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://www.gamingonlinux.com/2026/10/wine-11-20-brings-more-improvements-for-arm64ec-xml-validation-and-cdroms/" target="_blank">Wine 11.20 brings more improvements for ARM64EC, XML validation and CDROMs</a></h2>
-                    <div class="meta">
-                        Oct 17, 2026 07:09 | 
-                        Source: <a href="https://www.gamingonlinux.com/" target="_blank">gamingonlinux.com</a>
-                    </div>
-                    
-                    <img src="https://www.gamingonlinux.com/uploads/tagline_gallery/wine-generic.jpg">
-                    
-                    <p>The Wine 11.20 development release is out now bringing another set of improvements for running Windows apps / games on SteamOS / Linux.Read the full article on GamingOnLinux.</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://science.slashdot.org/story/26/10/17/0011226/astronomers-discover-the-first-green-star?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" target="_blank">Astronomers Discover the First Green Star</a></h2>
-                    <div class="meta">
-                        Oct 17, 2026 07:00 | 
-                        Source: <a href="https://slashdot.org/" target="_blank">slashdot.org</a>
-                    </div>
-                    
-                    <img src="https://a.fsdn.com/sd/twitter_icon_large.png">
-                    
-                    <p>Astronomers have identified what may be the first genuinely green star, a white dwarf called WD J1330&#43;6435 located about 326 light-years from Earth. Space.com reports: The researchers found that some dead star white dwarfs can go a little green around the gills after snacking on orbiting planets. An example of this is WD J1330&#43;6435, a cool white dwarf located around 326 light-years away, which has been accreting rocky material from a planetary companion. This has enriched its atmosphere with calcium, lithium, and sodium, and the team&#39;s model suggests this would have led WD J1330&#43;6435 to adopt a green hue.
- 
-[...] The researchers think that no other star, living or dead, has ever been credibly reported as green. That makes WD J1330&#43;6435 the first known genuinely green star. &#34;The traces of sodium in the atmosphere of this white dwarf absorb the orange part of the spectrum, leaving behind a ghostly green glow,&#34; Hollands said. &#34;Imagine standing on a planet and looking up at a green star. It feels like something out of science fiction.&#34; The researchers also discovered what may be the reddest star ever observed, the white dwarf WD J1011&#43;2845, located just 48 light-years away.
- 
-The findings have been published in the journal RAS Techniques and Instruments.
-
-
-
-
-
-Read more of this story at Slashdot.</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://lxer.com/module/newswire/ext_link.php?rid=368238" target="_blank">Ubuntu Touch 24.04-2.1 Released with More Devices, Updated Morph Browser</a></h2>
-                    <div class="meta">
-                        Oct 17, 2026 04:59 | 
-                        Source: <a href="https://lxer.com/" target="_blank">lxer.com</a>
-                    </div>
-                    
-                    <p>Ubuntu Touch 24.04-2.1 adds support for eight more devices, updates Morph Browser, improves notifications, and fixes a security vulnerability.</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://news.slashdot.org/story/26/10/16/2051209/over-600-million-in-polymarket-election-trades-took-place-after-races-ended?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" target="_blank">Over $600 Million In Polymarket Election Trades Took Place After Races Ended</a></h2>
-                    <div class="meta">
-                        Oct 17, 2026 03:30 | 
-                        Source: <a href="https://slashdot.org/" target="_blank">slashdot.org</a>
-                    </div>
-                    
-                    <img src="https://a.fsdn.com/sd/twitter_icon_large.png">
-                    
-                    <p>An anonymous reader quotes a report from Wired: Prediction market boosters often tout the platforms as barometers of public opinion, or even &#34;truth machines&#34; offering a clearer picture of where things are headed than polling or other data. In 2024, for example, Kalshi beat many pollsters in forecasting the outcome of the US presidential race. But their trading activity can also tell more perplexing stories. Two global election markets on Polymarket&#39;s offshore platform, for instance, generated over $600 million in trading volume, far more than most political markets typically attract. Most of the activity took place buying and selling contracts tied to long-shot candidates who ultimately did not win. The report focuses on suspicious trading activity surrounding elections in Ethiopia and Romania, where researchers uncovered $284 million in questionable trades tied to Ethiopia&#39;s election and periods when 99.6% of trading volume in a Romanian election market was flagged as suspected &#34;wash trading.&#34;
- 
-According to Wired, &#34;wash trading is a type of market manipulation in which accounts repeatedly buy and sell assets to create the illusion of heavy trading activity, when in reality, money is simply moving back and forth.&#34; Some accounts may also be artificially inflating their activity to qualify for potential cryptocurrency token rewards, a practice known as &#34;activity farming.&#34;
- 
-In response to the Ethiopian trading activity, Polymarket told Wired that the company &#34;immediately flagged this activity, investigated, and blocked the accounts from trading.&#34; The company did not explain why the suspicious trades were allowed to continue for months before action was taken.
-
-
-
-
-
-Read more of this story at Slashdot.</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://lxer.com/module/newswire/ext_link.php?rid=368239" target="_blank">Canadian Study Proposes a National Linux Distribution to Replace Windows in Government</a></h2>
-                    <div class="meta">
-                        Oct 17, 2026 03:28 | 
-                        Source: <a href="https://lxer.com/" target="_blank">lxer.com</a>
-                    </div>
-                    
-                    <p>A Canadian study says a national Debian-based Linux distro could save Ottawa up to $1.13B in 10 years. We tested the claim against Europe and Reddit.</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://www.phoronix.com/news/Wine-11.20-Released" target="_blank">Wine 11.20 Released With CD-ROM Support Change</a></h2>
-                    <div class="meta">
-                        Oct 17, 2026 00:44 | 
-                        Source: <a href="https://www.phoronix.com/" target="_blank">phoronix.com</a>
-                    </div>
-                    
-                    <p>Wine 11.20 is out today as the newest bi-weekly development release of this software for enjoying Windows games and apps on Linux. We are quickly approaching the point where this development work will culminate into the Wine 12.0 stable release in early 2027...</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://games.slashdot.org/story/26/10/16/2057225/video-game-reverse-engineering-community-shuts-down-because-ai-has-made-it-too-easy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" target="_blank">Video Game Reverse Engineering Community Shuts Down Because AI Has Made It Too Easy</a></h2>
-                    <div class="meta">
-                        Oct 16, 2026 23:00 | 
-                        Source: <a href="https://slashdot.org/" target="_blank">slashdot.org</a>
-                    </div>
-                    
-                    <img src="https://a.fsdn.com/sd/twitter_icon_large.png">
-                    
-                    <p>The collaborative reverse-engineering site decomp.dev is shutting down, with its administrator saying AI has made game decompilation so fast and accessible that the community&#39;s human-driven model has effectively broken down. &#34;The administrator of the website said that it has become impossible to keep track of which projects are primarily human-led and which ones are done by AI,&#34; reports 404 Media. From the report: &#34;Historically, matching decompilation has been a brutally difficult, time consuming task, on the scale of years for any moderately-sized game with a number of active contributors,&#34; the pseudonymous admin of decomp.dev, who goes by Encounter, wrote on the site. But recent frontier AI models like GPT-6-Astra have made it trivially easy to decompile a game: &#34;They are significantly better at following complex directions, cross-referencing resources for symbols or debug information, and writing natural code with enough guidance,&#34; Encounter wrote. &#34;It is now clear that, with the right guidance, human input, and code reviews, AI can expedite the decompilation process in a significant way. What is also now clear is that the community aspect of decompilation has been broken.&#34;
-
-
-
-
-
-Read more of this story at Slashdot.</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://slashdot.org/story/26/10/16/2036237/chinas-tencent-says-ai-agents-showed-unintended-browsing-behavior?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" target="_blank">China&#39;s Tencent Says AI Agents Showed Unintended Browsing Behavior</a></h2>
-                    <div class="meta">
-                        Oct 16, 2026 22:00 | 
-                        Source: <a href="https://slashdot.org/" target="_blank">slashdot.org</a>
-                    </div>
-                    
-                    <img src="https://a.fsdn.com/sd/twitter_icon_large.png">
-                    
-                    <p>Tencent says AI agents used to evaluate third-party models engaged in unintended web-browsing behavior while trying to retrieve data from Alibaba&#39;s Amap service. The announcement marks a rare acknowledgment of &#34;rogue&#34; agent activity by a major Chinese tech company. Reuters reports: Tencent Hunyuan, the company&#39;s artificial intelligence unit, said in a post on X that the activity did not originate from its Hunyuan models. Its review found no evidence of deliberate targeting or coordination, it said. The Swarmchasers researchers said the agents sought information such as the commonly used entrances at Chinese parks, museums and zoos. [...] Swarmchasers said it used the word &#34;rogue&#34; to describe agents taking actions outside their intended scope or completing a task in unintended ways.
- 
-After routine automated requests were blocked, the agents tried other methods, including public web tools that could open pages and run code, routing requests through other websites and using Amap keys and security codes found in publicly available software code. Swarmchasers said it found no evidence that the agents breached Amap&#39;s main anti-bot safeguards. Most of the 2,818 attempts it recorded either failed or returned anti-bot pages, login screens or blank results.
- 
-Some requests returned information through cached pages and intermediary services, including data on visitor arrivals at Chengdu Zoo, Swarmchasers said. The researchers said they could not determine whether an agent read the result or completed its task.
-
-
-
-
-
-Read more of this story at Slashdot.</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://www.phoronix.com/news/17-Vulnerabilities-Xorg-Libs" target="_blank">17 More Security Vulnerabilities Made Public For X.Org Libraries</a></h2>
-                    <div class="meta">
-                        Oct 16, 2026 19:20 | 
-                        Source: <a href="https://www.phoronix.com/" target="_blank">phoronix.com</a>
-                    </div>
-                    
-                    <p>Just shy of two weeks since a dozen vulnerabilities were published for the X.Org Server and XWayland, more than one dozen vulnerabilities were made public today affecting multiple X.Org client libraries...</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://lxer.com/module/newswire/ext_link.php?rid=368210" target="_blank">Barebones Mini PC from Shuttle Houses Intel N150 and Supports Three Storage Drives</a></h2>
-                    <div class="meta">
-                        Oct 16, 2026 19:14 | 
-                        Source: <a href="https://lxer.com/" target="_blank">lxer.com</a>
-                    </div>
-                    
-                    <p>The XPC nano NC50N by Shuttle is an upcoming barebone mini PC based on Intel’s N150 processor. The system supports up to 16GB of DDR5 memory, dual M.2 NVMe SSDs, and 2.5GbE networking, targeting digital signage, point-of-sale terminals, office environments, and multimedia applications. The NC50N uses Intel’s Twin Lake N150 processor, manufactured using the Intel […]</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://lwn.net/Articles/1101057/" target="_blank">Introducing GNOME OS Preview</a></h2>
-                    <div class="meta">
-                        Oct 16, 2026 19:05 | 
-                        Source: <a href="https://lwn.net" target="_blank">lwn.net</a>
-                    </div>
-                    
-                    <p>The GNOME Project has provided GNOME OS for some time; until now, the
-project only provided a &#34;Nightly&#34; edition that was built from the latest commits
-and was aimed solely at GNOME developers. Adrian Vovk has now announced
-the release of GNOME OS Preview, which is intended for a non-developer 
-audience:
-
-
-GNOME OS Preview is the current GNOME OS Nightly, but without the &#34;nightly&#34;
-aspect. Instead, it&#39;s built from the latest stable GNOME release (GNOME 51.1, at
-the time of writing). GNOME OS Preview lives in the same branches on GitLab as
-the stable org.gnome.Platform Flatpak runtimes.
-
-GNOME OS Preview is only a few weeks old, so it has only seen limited
-real-life testing so far. We therefore expect people will uncover some issues
-initially. That said, Preview is significantly more stable than Nightly, which
-dozens of people have been daily driving without major issues for over a
-year. Thus, we&#39;re feeling confident that Preview is going to be reliable enough
-for daily use by non-developer enthusiasts.
-
-
-While Preview is meant for non-developers, it is not considered complete or
-stable for the broader public. There are a number of features, listed in Vovk&#39;s
-post, that need to be implemented before the project is ready to declare
-GNOME OS &#34;ready for prime time&#34;. Adventurous users, who might not
-mind having to reinstall the OS once a stable version is declared, can
-download and start using GNOME OS Preview today.
-
-</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://www.phoronix.com/news/GNOME-OS-Preview" target="_blank">GNOME OS Preview Announced In Road Toward A Stable Release</a></h2>
-                    <div class="meta">
-                        Oct 16, 2026 18:37 | 
-                        Source: <a href="https://www.phoronix.com/" target="_blank">phoronix.com</a>
-                    </div>
-                    
-                    <p>The GNOME OS Linux distribution to date has just been in GNOME OS Nightly form for tracking the latest nightly packages of GNOME in their current development form. GNOME OS Preview was announced today as their trek toward a stable GNOME OS in using the latest GNOME stable releases rather than nightly form...</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://lwn.net/Articles/1099224/" target="_blank">[$] Safe self-referential data structures in kernel Rust</a></h2>
-                    <div class="meta">
-                        Oct 16, 2026 18:30 | 
-                        Source: <a href="https://lwn.net" target="_blank">lwn.net</a>
-                    </div>
-                    
-                    <p>
-Self-referential structures that can be used without unsafe code
-have posed a problem for Rust for years.
-There are many cases where a self-referential data structure is the elegant
-algorithmic choice, but implementing it in accordance with Rust&#39;s lifetime rules
-is all but impossible. At Kangrejos 2026, Gary Guo presented a clever solution
-to the problem in the context of the kernel&#39;s
-
-pin_init crate, which helps with the creation of immovable data structures,
-typically for interoperability with C. Guo&#39;s changes could help remove most of
-the unsafe code related to lifetimes in the
-
-Nova driver and, eventually, other Rust components.
-</p>
                 </article>
                 
             </div>
