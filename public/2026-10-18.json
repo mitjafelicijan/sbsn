@@ -1,0 +1,482 @@
+[
+  {
+    "title": "Linus Torvalds Rejects No-AI Rules as the Linux Kernel Drops Its Assisted-by Tag",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368259",
+    "description": "The Linux kernel is dropping its Assisted-by tag for AI patches. Linus Torvalds answered the pushback with compilers, assembler and a text editor.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368259",
+    "date": "Oct 18, 2026 02:20",
+    "published_at": "2026-10-18T02:20:46Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Woman Arrested After Blocking Delivery Robot to Protest Job Displacements",
+    "link": "https://hardware.slashdot.org/story/26/10/17/2247220/woman-arrested-after-blocking-delivery-robot-to-protest-job-displacements?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "A Philadelphia newscast reports on a grey-haired lady who allegedly refused to move out of the path of a delivery robot as a form of protest because \"I know they're taking the jobs of human delivery workers.\" \n\nShe was arrested, but says her actions were protected speech:\n\nAccording to police, Marvin repeatedly blocked the robot's path and ignored multiple commands from officers to move... Marvin said she was protesting the use of delivery robots because she believes they are replacing human workers.... \"I have been protesting them whenever I saw them by standing in front of them and preventing them from going forward,\" Marvin said... \n\nMarvin said she has confronted delivery robots on multiple occasions... Ashley Baldwin of West Philadelphia said she witnessed one of those encounters. \"I actually thought the robot hit her, so my original question was, 'Are you OK? Did the robot hit you?' And she said, 'No, I have to stop this. They're taking over the world,'\" Baldwin said. \nAsked whether she plans to continue protesting the robots, Marvin said she does. \n\nShe was charged with disorderly conduct. \n\nUber did not respond to their request for a comment.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 18, 2026 01:34",
+    "published_at": "2026-10-18T01:34:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Synchronous Queues For VirtIO-FS Show Huge Performance Potential",
+    "link": "https://www.phoronix.com/news/Synchronous-VirtIO-FS",
+    "description": "VirtIO-FS as the shared file-system for transferring data between guest VMs to/from a host server is showing some promising performance results with pending code for allowing synchronous queues rather than always being asynchronous...",
+    "guid": "https://www.phoronix.com/news/Synchronous-VirtIO-FS",
+    "date": "Oct 18, 2026 00:55",
+    "published_at": "2026-10-18T00:55:35Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "GNOME 50.6 Desktop Environment Released with Fixes for Nautilus, GNOME Shell",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368260",
+    "description": "The GNOME Project released GNOME 50.6 as the sixth maintenance update to the latest GNOME 50 “Tokyo” desktop environment series to fix more bugs across various core apps and components.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368260",
+    "date": "Oct 17, 2026 23:17",
+    "published_at": "2026-10-17T23:17:47Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Does a Universal Basic Income Bring Long-Term Changes?",
+    "link": "https://yro.slashdot.org/story/26/10/17/1915216/does-a-universal-basic-income-bring-long-term-changes?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "For more than a year, The New York Times followed recipients of a universal basic income program who received $1,330 a month for an entire year. \n\nThere were benefits, but also the everyday challenges of being poor, and turning their life around \"did not turn out to be quite that simple.\"\n\n\nAcross Silicon Valley, experimental guaranteed income programs have quietly taken off. Google began funding six different initiatives in 2022 as part of a $50 million donation to nonprofits in the San Francisco Bay Area, saying basic income could be a novel way to prevent homelessness in one of the nation's most expensive locations. Each program has hundreds of participants who receive around $1,000 a month, and academics study the results. State and federal tax laws limit the lengths of the programs and the payment amounts. \n\nThe studies have found that most basic income programs improve short-term employment and mental health while reducing food insecurity. But while data from these efforts has been closely tracked, less is known about the individual journeys of participants... The Times ultimately shadowed three people... All of the program participants, including the ones The Times followed, were previously homeless and transitioning off a housing stipend that paid for a portion of their rent, and many received the payments on top of other social assistance like food stamps. \n\nThe Times's findings mirrored the academic studies. For all three recipients, the instant benefits of basic income were clear: They had breathing room for groceries, rent and other expenses. But the success of the payments in another area — giving people more free time and opportunity in the long term — was mixed. \"It's a lot to ask of someone to get their life together in 12 months, when a lot of these issues are structural or systemic,\" said Jennifer Loving, who runs Destination: Home, a nonprofit that administers basic income programs in Silicon Valley. \"And the world around them isn't getting cheaper.\" \n\nOne recipient began going to community college — but resorted to taking one class at a time while single parenting — and using their monthly payments to help support relatives. In fact, the article notes that a recent study of 3,000 universal basic income participants found that money spent supporting friends and family increased 26%, \"the most of any category. That was more than the increases for food (6%) and child care (11%).\" \n\nAnother recipient used the time to get help at a community college to find a higher-paying job. And one recipient died — but his mother used what he'd saved to help put his brother through a drug rehab program.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 17, 2026 23:00",
+    "published_at": "2026-10-17T23:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "ReactOS Can Now Be Installed \u0026 Used With Its NTFS Driver",
+    "link": "https://www.phoronix.com/news/ReactOS-NTFS-Driver",
+    "description": "The ReactOS open-source operating system has seen its NTFS file-system driver mature to the point that it can be finally used for installing and using ReactOS with it. NTFS formatting support is also finally now possible with this driver too...",
+    "guid": "https://www.phoronix.com/news/ReactOS-NTFS-Driver",
+    "date": "Oct 17, 2026 22:01",
+    "published_at": "2026-10-17T22:01:16Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Court Agrees with EFF: Utah's VPN Law Demands a Technical Impossibility",
+    "link": "https://yro.slashdot.org/story/26/10/17/2153207/court-agrees-with-eff-utahs-vpn-law-demands-a-technical-impossibility?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "\"When state lawmakers attempt to rewrite how the internet works,\" argues an EFF blog post, \"users rely on courts to recognize that laws can't make technical impossibilities a reality.\" \n\n\"That's why we were happy to see that a court has blocked Utah's attempt to outlaw the privacy protections of Virtual Private Networks (VPNs).\"\n\nIn a win for digital rights, a federal judge has issued a preliminary injunction blocking Utah's SB 73, the state's draconian anti-VPN age verification law... Signed into law earlier this year, SB 73 attempted to regulate adult websites by requiring them to block VPN users or to identify the physical location of visitors using them or similar tools that mask their network traffic. It even went so far as to prohibit websites from offering instructions on how to use a VPN to bypass these checks. This made Utah, to EFF's knowledge, the first state in the nation to target the use of VPNs to avoid legally mandated age-verification gates. The Utah federal court halted enforcement of the law's VPN provisions last week, ruling that the law likely violates the U.S. Constitution's prohibition on passing laws that significantly burden businesses and people outside Utah's borders. \nSB 73 burdens the rights of all internet users outside of Utah because it requires adult websites to either know every visiting user's physical location, and then block those in Utah, or to verify every visitor's age just in case they might be in Utah. The law's \"actual-location provision in practice requires an entity to perform age verification services for every user visiting its site from any location because the entity would violate the law if even one of those users happened to be obfuscating,\" the court wrote. The court essentially ruled that Utah has less-burdensome ways to prevent Utah minors from accessing adult websites than requiring all users in the world to comply with SB 73. \n\nEFF's position is that \"forcing platforms to detect and block privacy-preserving tools undermines user privacy and security worldwide while demanding the impossible.\" \n\nBut there's another problem, explained an EFF email this week. \"Age verification laws that are predicated on users possessing identity documents exclude critical sections of populations. And this problem is global in nature: Millions of people lack government-issued identification or encounter regular challenges to obtaining or updating it....\"\n\nEvery site-blocking bill has the same rotten idea at their core: That enforcing copyrights requires building a censorship machine for websites into the architecture of the internet. This is, of course, a disaster for a free and open web. These proposals keep coming, but there is still no way to create a mechanism for blocking access to an entire website that does not invite both deliberate abuse and lots of collateral harm to free and lawful speech. \n\n\nEFF has declared this month \"Opt Out October,\" and each day they're offering new guides on how to \"stand our ground and take control over what happens with our data.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 17, 2026 22:00",
+    "published_at": "2026-10-17T22:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "ZimaOS Is a Linux-Based NAS OS That Makes Self-Hosting Easier",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368255",
+    "description": "Meet ZimaOS, a Linux-based NAS operating system that simplifies file storage, backups, Docker apps, and home server management.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368255",
+    "date": "Oct 17, 2026 21:46",
+    "published_at": "2026-10-17T21:46:17Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "MapQuest Shows Location of Flock (and Other ALPR) Cameras",
+    "link": "https://yro.slashdot.org/story/26/10/17/0115242/mapquest-shows-location-of-flock-and-other-alpr-cameras?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "MapQuest creates a new layer (that can be toggled on and off), Gizmodo reports:\n\n\nAfter promising not to comply with the Trump administration's \"Lake America\" gimmick, the platform announced a new \"Surveillance Layer\" that displays the locations of automated license plate readers (ALPRs), including those from Flock Safety. Per MapQuest, its new tool will identify the locations of known outdoor surveillance cameras and plate readers from Motorola Solutions (Vigilant), Genetec, Axis Communications, Axon, Leonardo (ELSAG), Neology, Rekor, PlateSmart, Ubicquia, Verkada, and others. \n\nWhile the company didn't specify how it sources its data, it appears to be similar to the data amassed by DeFlock, which maintains a user-submitted map of ALPR camera locations. MapQuest may be sourcing the information from DeFlock and the OpenStreetMap project. \n\nEngadget notes that MapQuest also recently added \"useful, long-overdue features like Android Auto support and public transit directions.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 17, 2026 21:00",
+    "published_at": "2026-10-17T21:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Blue Origin Announces $330M Upgrades to Rocket Facilities for 'Multiple Flights Per Week'",
+    "link": "https://science.slashdot.org/story/26/10/17/0641232/blue-origin-announces-330m-upgrades-to-rocket-facilities-for-multiple-flights-per-week?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "\"Jeff Bezos' Blue Origin said Friday it plans to make extensive upgrades to its Florida launch facilities,\" reports CNBC, \"with the goal of supporting multiple flights per week by the end of the decade.\" \n\n\"The company will add two more launch and landing pads for New Glenn, its heavy-lift, partially reusable rocket.\"\n\n\nA $330 million expansion to its Rocket Park campus in Cape Canaveral, expected to be complete in the summer of 2027, will enable it to produce up to 150 upper stages of its New Glenn rocket annually, Blue Origin said in a blog post. \"These investments are centered on one goal: building the capacity to support more missions, more reliably, and more efficiently,\" Ian Richardson, Blue Origin's senior vice president of operations, wrote in the post. \"As we look ahead, this infrastructure is designed to support multiple flights per week by the end of the decade....\" \n\n\nBlue Origin said it's building a new customer integration facility with the U.S. Space Force at Cape Canaveral Space Force Station that will enable it to \"prepare multiple missions at once\" when it's up and running. Blue Origin has invested more than $3 billion in its infrastructure and facilities in Florida, which now spans more than 20 sites across the state's Brevard and Orange counties, with more than 5,000 employees, [Ian Richardson, Blue Origin's senior vice president of operations, wrote in the blog post].\n\n \n\nThe article notes it's part of \"a flurry of investment\" as SpaceX stops offering commercial rides on its Falcon 9, \"with $92.5 billion invested in the commercial space sector in the first three quarters of 2026, according to a report this week by venture capital firm Space Capital.\" And it happens as Blue Origin, SpaceX and other rocket providers \"are seeing increasing demand from companies and governments trying to deploy satellites into orbit.\" \n\n\"Launching at a high cadence requires a connected system,\" says Blue Origin's blog post, \"one that manufactures vehicles at scale, prepares customer payloads efficiently, supports reliable launch operations, and quickly returns reusable boosters to service. We are building that system here in Florida,\" and \"laying the foundation for a future where access to space is more frequent, more reliable, and more affordable, for the benefit of Earth.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 17, 2026 20:00",
+    "published_at": "2026-10-17T20:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Linux Maintainers Can Now Submit AI-Generated Code Without Declaring It",
+    "link": "https://linux.slashdot.org/story/26/10/17/0723207/linux-maintainers-can-now-submit-ai-generated-code-without-declaring-it?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Linux maintainers \"have ruled that people no longer have to declare their LLM usage,\" reports XDA Developers, \"as Torvalds himself calls a ban on AI 'utterly stupid.'\"\n\nThe first part of this story comes via a message sent to the Linux mailing list. It announces one of the major changes decided during the Maintainers Summit on October 8, 2026, in Prague, Czechia, where submissions to the kernel no longer need to use the \"Assisted-by\" tag... meaning that people can submit AI-generated code without needing to declare it as such. \n\nIn some correspondence regarding concern about this new disclosure removal, the creator of Linux, Linus Torvalds, made his thoughts known... [Torvalds] compares an AI ban to getting rid of text editors, as doing so would prove that someone could write a good commit message without making any mistakes. He then rounds off his argument by asking, \"Do you not see how UTTERLY STUPID those kinds of rules would be?\" and stating that he simply expects the people working on the Linux kernel to \"understand what they are doing.\" \n\nHere's the last line of Torvalds' post. \"Quite honestly, in my experience, the people I respect and call intelligent are not the ones that shy away from using new and interesting tools.\" \n\nIn a related story, Torvalds says he's used AI to help him understand patches that were hard to follow. And this week Torvalds even posted an LLM-assisted patch, reports Tom's Hardware:\n\nThe development branch purports to fix an old issue with massive cache contention when many CPUs are reading the same file — a scenario potentially encountered when using shared libraries, databases, and web servers. Several developers had already made attempts over the years at fixing the issue, all with varied results, none quite ideal as an all-encompassing solution... He's now posted his solution in a development branch, and claims that he's seen a 23x performance improvement in a dedicated synthetic benchmark, though he notes that actual real-world impact will be far less significant, as \"no real load\" will witness those figures. \n\nTorvalds used Anthropic's Claude Code, reports The New Stack, and \"said the assistant wrote the implementation, tests, and initial documentation, and reviewed the code under his direction. He ran the benchmarks himself, despite having previously criticized developers for claiming AI writes 99% of their code.\" Tuesday Torvalds submitted a 10-patch series. \n\n\"Reviewers have since identified a race condition and raised concerns about memory reclamation,\" adds The New Stack. \"Torvalds has handed further development to Kiryl Shutsemau, a Linux kernel developer who previously worked on the same bottleneck.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 17, 2026 19:00",
+    "published_at": "2026-10-17T19:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Ubuntu Touch OTA 2.1 Rolls Out with Support for Volla Tablet, Various Updates",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368250",
+    "description": "The UBports Foundation released Ubuntu Touch OTA 2.1 today as a minor update to this open-source and free mobile operating system for smartphones and tablets.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368250",
+    "date": "Oct 17, 2026 18:43",
+    "published_at": "2026-10-17T18:43:18Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Deno Acquired by Cloudflare, Will Work on Open Source Self-Hosting Platform for Applications",
+    "link": "https://developers.slashdot.org/story/26/10/17/0549255/deno-acquired-by-cloudflare-will-work-on-open-source-self-hosting-platform-for-applications?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "\"Cloudflare has acquired Deno, the company behind the [server-side] JavaScript and TypeScript runtime created by Ryan Dahl, the inventor of Node.js,\" Forbes reported last week. \n\n\nBut Deno \"has no future at Cloudflare, which will maintain the runtime for another year before ending its development,\" writes The Register. \"That's OK with Dahl. 'I am now of the opinion that if you're choosing Node.js for building servers, you're doing it wrong,' Dahl told The Register.\" \n\nIt all started with his team's work on the platform Deno Deploy, \"We wanted to make running applications as straightforward as possible,\" Dahl \nwrote on the official Deno blog. \"But building and operating Deploy also showed us how much complexity remained underneath that developer experience. I wanted to simplify that layer, too.\"\n\nThis led to celld. Building on the Cloudflare Workers programming model, celld lets developers build distributed applications from the start while making the system simple to operate. What excites me greatly is that the scaling is built into the programming model, rather than infrastructure each app has to assemble itself.... We want to make this programming model the default way to build servers, whether you run on Cloudflare's network or your own infrastructure. \n\nJoining also means choosing where to focus our effort... Deno will remain open source, and we welcome others who want to continue its development. Deno Deploy will continue operating for six months before shutting down. We will provide migration support for paying customers moving to Cloudflare Workers. [Deno's JSR package registry for JavaScript and TypeScript] will continue operating, with its infrastructure moving to Cloudflare. \n\n\nForbes argues that this acquisition of Deno \"turns a long-standing objection to Cloudflare Workers, the claim that applications built on it cannot easily leave, into a selling point.\"\n\nFor CIOs evaluating serverless and edge platforms, portability now has a concrete answer... Released in August, [celld] is a single Rust binary that runs Workers and Durable Objects across many machines, with object storage as its only external dependency. Operators run multiple celld instances against one storage bucket, and the software handles placement, routing and persistence. Dahl and Belder will now lead an effort to merge celld into workerd and make self-hosting a supported way to run Workers applications. With this, customers can build an application on Cloudflare's network and move it to a private data center without rewriting it. \n\n\n\"With Deno, we improved the experience of writing JavaScript,\" Dahl argues on the Cloudflare blog, \"but we didn't fundamentally change what developers had to assemble around the runtime. The bigger problems are around networked applications: distributing computation, coordinating state, data storage in general, and autoscaling to meet demand...\"\n\n\nCould the programming model make partitioning across machines part of the design from the start? The solution clicked into focus when I read about Cloudflare's Durable Objects. It provided a very powerful abstraction: the distributed singleton with a SQLite database. Each Durable Object is like a small, individually addressable server with its own relational database. Its JavaScript execution is single-threaded (which is easy to reason about), it handles WebSockets, and its local SQLite database can be accessed synchronously. By building a chat application using one Durable Object per channel, you have sharded your data and WebSocket connections, and thus made your application scalable... What excites me is the leverage this model gives developers: compute, relational databases, queues, and real-time communication primitives designed for applications distributed across machines.\n \n\nNow Dahl and 12 of his Deno colleagues \"will work to build out Cloudflare's Workers platform,\" explains The Register, \"expanding it for potential open-source use. He feels this approach is the way to go.\"\n\n\"Right now, every other server is really operating at the Linux VM layer. That is not what Cloudflare Workers are,\" he said... \n\nThe ever-fickle Dahl first debuted Deno in 2018 as a rewrite of Node. The name 'Deno' is an anagram of Node, and it was Dahl's attempt to fix everything he felt he got wrong with Node — built-in fetch, a permission model, native TypeScript support et al. Sequoia backed Dahl's company for $21 million in 2022, and as of August, Deno amassed 400,000 monthly users. Nonetheless, Node's gravity proved too heavy for Deno to achieve escape velocity. \n\n\"What we found over years of working on Deno is that you can't really deviate from Node.js very much,\" Dahl told The Register. \"As we continued to try to get adoption for Deno, we found we had to essentially backpedal on some of the original promises and become more Node compatible over time, and that left us as a kind of an alternative Node.js implementation.\" Going forward, Cloudflare will supply Deno with bug fixes and security patches for the next year, while Dahl looks for a new home for the MIT-licensed open source project. \n\nDahl's worked could bring \"yet another revolutionary turn for server-side JavaScript,\" the article argues, \"offering a runtime that would require only 300 KB of memory per instance, rather than the hundreds of megabytes now required for Node/Deno. Such savings could quickly add up for a cloud provider, especially one serving the voracious agentic market.\" \n\nAnd as Dahl wrote on the Deno blog, \"The need for better abstractions is especially acute with AI. Durable Objects bring together capabilities that are particularly useful for agent harnesses: inexpensive, serverless execution, persistent state, WebSockets, and a high-level JavaScript interface. This is what I'm most excited to explore and why celld focuses on Durable Objects.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 17, 2026 18:00",
+    "published_at": "2026-10-17T18:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "M5Stack PaperDIY Assembly Kit Opens Up 4.7-Inch E-Paper Development",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368247",
+    "description": "M5Stack has introduced the PaperDIY Assembly Kit, an ESP32-S3-based development platform featuring a 4.7-inch e-paper display with 960 × 540 resolution and 16-level grayscale. The kit combines Wi-Fi connectivity, battery power management, and expansion interfaces in an open design intended for custom information displays, electronic signage, and embedded development projects. The main control board integrates […]",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368247",
+    "date": "Oct 17, 2026 17:11",
+    "published_at": "2026-10-17T17:11:49Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "MeshXFS: AI Adapts XFS Into A Clustered File-System",
+    "link": "https://www.phoronix.com/news/MeshXFS-XFS-Clustered",
+    "description": "MeshXFS is a clustered open-source file-system in which \"no human wrote any of its own code\". Depending upon your views of AI, not necessarily something you want to hear for entrusting your data in an AI-created solution. Instead, Claude Opus was tasked with adapting the XFS file-system driver into a clustered file-system...",
+    "guid": "https://www.phoronix.com/news/MeshXFS-XFS-Clustered",
+    "date": "Oct 17, 2026 17:02",
+    "published_at": "2026-10-17T17:02:40Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Personal Data for Millions of California Students Stolen in Massive Breach",
+    "link": "https://news.slashdot.org/story/26/10/17/0618213/personal-data-for-millions-of-california-students-stolen-in-massive-breach?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Millions of current and former students at California's public school have had their data stolen — including names, date of birth, and addresses — stolen in a breach, reports the Los Angeles Times. \n\nThe breach affects students \"who took the state's mandated standardized tests that annually assess their academic proficiency, education officials announced Friday.\"\n\n\n\n\nThe compromised information affects many more than the state's current 5.7 million public-school students as the breach dates back to 2023 enrollments. Students who left California but did not confirm their transfer to another school also were affected, dating back to 2006. \n\nThe data breach involved [nonprofit] Educational Testing Service or ETS, which provides extensive services to California [including test participation and assessment data]... Affected former students, including those who are now adults, are eligible for 24 months of free identity-protection services and identity-restoration help if there is identity theft. Officials said that parents and guardians may want to consider requesting a free credit freeze for their children who are under 16 to help prevent unauthorized accounts from being opened in the names of their children.\n \n\n\nThe breach involved a compromised login credential, according to a web page about the incident from California's Department of Education. The compromised credential was then used to copy files with student information at \"various\" times between May 22 and September 18, 2026, which drew concern from a cybersecurity expert interviewed by the Los Angeles Times:\n\n\n\"A stolen login credential should not become a months-long passport to millions of students' personal records,\" said Anton Dahbura, executive director of the Johns Hopkins University Information Security Institute. \"If that is what happened here, the critical question is why authentication safeguards, access restrictions, and monitoring systems failed to detect and stop the unauthorized activity.\" \n\nHe added: \"Incidents like this expose a fundamental weakness in how we manage student data: School systems may outsource the storage and processing of sensitive information, but they cannot outsource the consequences of a breach. When millions of student records are concentrated with a single vendor, one security failure can become a statewide problem with consequences that follow children for years.\"\n\n \n\nA spokesperson for ETS told the Times that they've now implemented additional safeguards, including strengthened access controls, enhanced monitoring, and more third-party review of their security practices.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 17, 2026 17:00",
+    "published_at": "2026-10-17T17:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Will New Documentary Make Theranos Founder Elizabeth Holmes More Sympathetic?",
+    "link": "https://yro.slashdot.org/story/26/10/17/034203/will-new-documentary-make-theranos-founder-elizabeth-holmes-more-sympathetic?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "TechCrunch writes:\n\n\n\"Isn't it weird that I, like, did a TV show about kind of a business scam, and you got in trouble for like ... a business scam?\" comedian and filmmaker Nathan Fielder gently asks Elizabeth Holmes. \n\nOne month before the notorious Theranos CEO surrendered to begin her 11-year criminal fraud sentence in 2023, Holmes and her husband contacted A24 as a last-ditch effort to exonerate her in the public eye, suggesting they send a film crew to document her final days of freedom. Alongside director Lance Oppenheim, Fielder — a cringe-comedy mastermind whose work often walks the line between fact and fiction — embraced the impossible project of figuring out who the infamous Stanford dropout really is. \n\n\"I never actually made that connection,\" says Holmes. \"I think it's a pretty different situation....\" \n\n\nWe already know that Elizabeth Holmes is not innocent. What we still can't figure out, though, is whether she really, truly believes she did nothing wrong. Even as she sat on trial — listening to testimonies from investors who lost hundreds of millions of dollars, whistleblowers who were silenced when they flagged that Theranos' blood-testing devices didn't work, and patients who acted on incorrect blood test results — Holmes never wavered. \n\n Business Insider says the scariest thing about the new documentary \"is how much I wanted to believe her.\"\n\nSFGate calls it \"one of the finest works of journalism I've ever seen.\"\n\nAs Fielder ingratiates himself with Holmes and [her husband] Evans, he gets them comfortable enough to ask the hard questions: about Theranos, about prison, and even about themselves. The resulting footage is often shocking. You will see Elizabeth Holmes, who still maintains she did nothing wrong, answer \"no\" when Fielder asks her if she's ever lied in her life... [Y]ou will also see Holmes and Evans spend a great deal of time in this movie attempting to boot up Theranos 2.0. They even go so far as to drag out some of the original Theranos blood testing apparatus, which looks like a bunch of random parts from TigerDirect they hooked together, to show Fielder what their product can do. We do not see it doing anything on screen, but the couple assures that it we would if it was, like, hooked up properly. \n\nThese scenes are extremely funny, but funny isn't what Fielder is looking for. He's trying to figure out if this woman is a clueless naif, if she believes her own lies, or if she is playing the character of an innocent woman, and doing so with such effectiveness that, to paraphrase Fielder, she might be the most manipulative person in the world. The answer proves fabulously elusive, and so Fielder and Oppenheim go to extremes in their attempt to find it. They hold the camera on Holmes' rubbery elfin face for what feels like hours at a time, to see if she'll blink (figuratively or literally!). They interview Holmes' visiting parents, with the father, former Enron exec Christian Holmes, casually telling Fielder that everything changed for his daughter \"when she was raped.\" To the furthest extreme, they bring in actress Amanda Seyfried — who played Holmes in the Hulu TV show \"The Dropout\" — to recreate any dialogues Fielder had with Holmes herself that couldn't be recorded on camera. Seyfried is so convincing in mimicking Holmes that you, the audience, might forget which scenes were Seyfried talking to the camera and not Holmes herself. I know I did. \n\nContinuing that theme in the film, TechCrunch notes, is how her husband Billy Evans \"has constructed a lifelike AI avatar of his wife, trapped inside of a large vertical screen that he wheels over to the dinner table to sit with him and his kids as though she's actually there.\" \n\n\nElizabeth Holmes \"comes off in the doc as every bit as innately bizarre as anyone showing up for a cinematic freak show might hope,\" writes Variety:\n\nMy personal hunch is that Fielder came away thinking Holmes is on the level, to the extent that someone who sometimes seems like an AI program's idea of how a human should behave can be on the level. There are a few possibilities that might explain how Holmes comes off the way she does in the movie: (a) She is a simpleton. (b) She is a conniving sociopath who happens to be utterly brilliant at playing a simpleton. (c) Somewhere between those poles, she is the very emblem of a woman who throughout her life has put herself in the sway of controlling men, to the detriment of her intellect, willpower and emotional development... Is it possible that the more you learn about someone, the less you might know how to think about them? \n\nMeanwhile, NBC News recently reported:\n\nElizabeth Holmes, who was convicted of fraud for siphoning hundreds of millions of dollars from several high-profile investors, is scheduled to be transferred from a minimum-security federal prison to a halfway house next year, according to one of her victims... [America's Department of Justice \"is required by law to notify victims of crime of case developments through letters and emails,\" the article points out.] She was sentenced in 2022 to 11 years and three months in prison. She and her business partner, Ramesh \"Sunny\" Balwani, were ordered to pay 12 victims a total of $452 million in restitution. \n\nHolmes has been serving that sentence at a minimum-security prison in Bryan, Texas. The halfway house will provide her greater freedom... In March, a judge cut Holmes' sentence from 135 months to 123 months. According to a court document, the judge agreed with Holmes that she did not personally cause \"substantial financial hardship\" to her victims. \nNBC News adds that a prison consultant they interviewed \"said inmates who report to halfway houses can work, have phones, drive to religious services or shop for things they need and earn passes for weekends at home.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 17, 2026 16:00",
+    "published_at": "2026-10-17T16:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "AI-Generated Starling Desktop Environment Rolls Out Its Own Office Suite",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368219",
+    "description": "Starling, the open-source desktop environment written in Swift and with its own Wayland compositor too and written largely via Claude Code, has now rolled out its own AI-generated office suite...",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368219",
+    "date": "Oct 17, 2026 15:40",
+    "published_at": "2026-10-17T15:40:20Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Scientists Discover Why Microplastics Trigger Inflammation",
+    "link": "https://science.slashdot.org/story/26/10/17/0024214/scientists-discover-why-microplastics-trigger-inflammation?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from Scientific American: Microplastics are a source of extreme concern for health: the presence of these tiny pieces of plastic has been linked to heart attacks, stroke, dementia and brain tumors. But what drives these associations is unclear. Now a study published in Nature offers a tantalizing clue: microplastics interact with water, generating highly reactive molecules. When microplastics come into contact with water, the water near their surface can become chemically active, generating highly reactive species that can modify nearby substances, including biologically important molecules.\n \nAs plastics wear down to microscopic sizes, their surface-to-volume ratio increases dramatically. For example, when a credit card is fragmented into particles some 10 microns in diameter, there is a more than 200-fold increase in its surface area, says Wei Min, a chemist at Columbia University and one of the senior authors of the study. As a result, any chemical activity is amplified. Min and his colleagues examined various microplastics -- including polystyrene, polyethylene, polyvinyl chloride, polypropylene and polyethylene terephthalate. Plastic surfaces are hydrophobic, meaning they repel water, Min says. Thus, water molecules cannot form the hydrogen bonds they maintain in liquid form. That changes molecular arrangements, and, in turn, the change influences the local electrical environment and chemical reactivity.\n \nThe presumed chemical inertness of bulk plastics overlooks the toxicity of their fragmented microscale forms. \"For microplastics, this is especially important because fragmentation creates enormous amounts of new surface area,\" Min says. In past research, microplastics have been shown to cause inflammation, oxidative stress and decreased mitochondrial activity. The new study provides a possible mechanism for this, showing that plastic-water interfaces can perturb proteins, cell membranes, and more. How this might contribute to damage in living tissues in humans is still unclear, Min says. \"Ultimately, we hope to connect fundamental interfacial chemistry with quantitative measurements of biological effects, which would help us better understand potential health risks,\" he adds.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 17, 2026 15:00",
+    "published_at": "2026-10-17T15:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "First Look at Devario OS: A Modern, Shelly-First Linux Distro Based on Arch Linux",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368232",
+    "description": "From the creators of the Shelly package manager for Arch Linux, I am happy to introduce you to Devario OS, a modern Linux distro based on Arch Linux and built around in-house projects.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368232",
+    "date": "Oct 17, 2026 14:08",
+    "published_at": "2026-10-17T14:08:51Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Not Every Open Source OS Needs to Be Based on Linux, and These Six Aren’t",
+    "link": "https://feed.itsfoss.com/link/24361/17499437/open-source-non-linux-os",
+    "description": "There are more operating systems than just Linux. Here's a list of a few that are under active development.",
+    "guid": "6ad1f2250b3133000169b285",
+    "date": "Oct 17, 2026 13:01",
+    "published_at": "2026-10-17T13:01:44Z",
+    "image": "https://itsfoss.com/content/images/2026/10/open-source-list-banner.png",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "The Best Features Of Linux 7.3: Performance Improvements, Lots From Valve",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368233",
+    "description": "The Linux 7.3 kernel is slated to be officially released on Sunday, 18 October, barring any last minute issues from coming about. With that said, here's a reminder about some of the most exciting features to look forward to in this next kernel version...",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368233",
+    "date": "Oct 17, 2026 12:37",
+    "published_at": "2026-10-17T12:37:21Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Join us for the Fedora Linux 45 Release Party!",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368231",
+    "description": "Fedora Linux 45 is almost here! Developers, packagers, and quality assurance engineers are hard at work putting the remaining polish on Fedora 45, which means it’s time for our Global Virtual Release Party! It is almost time to celebrate! If all goes according to plan, we will celebrate Fedora 45 just after its actual final […]",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368231",
+    "date": "Oct 17, 2026 11:05",
+    "published_at": "2026-10-17T11:05:51Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Google Updates Android Earthquake Alerts With 200+ Regions",
+    "link": "https://news.slashdot.org/story/26/10/17/0016213/google-updates-android-earthquake-alerts-with-200-regions?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Google is expanding its Android Earthquake Alerts System from 98 to more than 200 regions worldwide, using smartphone sensors to detect early earthquake activity and warn users before potentially dangerous shaking begins. The update also enhances the system's \"Be Ready\" alerts with estimated earthquake magnitudes, epicenter information, maps showing affected areas, and additional safety guidance. From a Google blog post: \nBe Aware: A straightforward alert for estimated light shaking, letting you know an earthquake has been detected nearby.\nBe Ready: A detailed alert for stronger shaking, alerting you to prepare to take action.\nTake Action: A full-screen alert for moderate to heavy shaking, giving you immediate advice on how to stay safe.\n \nWe've built-out our Be Ready alert with new helpful guidance. In the coming months, you'll see a map with a radius of where we've detected shaking, estimated earthquake magnitude, action you can take, and a button to learn more about the earthquake as information comes in.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 17, 2026 11:00",
+    "published_at": "2026-10-17T11:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Linux Lands Fix for Rare, Varying SMP Boot Hangs Affecting Kernels Since 2024",
+    "link": "https://www.phoronix.com/news/Linux-7.3-KThreads-NBCON",
+    "description": "Among the flurry of last minute patch activity ahead of tomorrow's presumed Linux 7.3 stable kernel release is a fix for addressing some rare hangs at boot time. The reports varied but ultimately tracked down to a kernel change made two years ago...",
+    "guid": "https://www.phoronix.com/news/Linux-7.3-KThreads-NBCON",
+    "date": "Oct 17, 2026 10:54",
+    "published_at": "2026-10-17T10:54:33Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "GNOME's New Local/Cloud AI Chat App Gains More Features",
+    "link": "https://www.phoronix.com/news/GNOME-Moose-0.6-AI",
+    "description": "Coming about the past few months has been Moose as a GNOME-aligned AI chat application built around GTK4 and libadwaita. It began as a local AI chat app for the GNOME desktop and grew to support cloud AI services as well. This past week marked the latest feature release for Moose...",
+    "guid": "https://www.phoronix.com/news/GNOME-Moose-0.6-AI",
+    "date": "Oct 17, 2026 10:39",
+    "published_at": "2026-10-17T10:39:25Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Linux 7.3 Lands Last-Minute Fixes For Samsung 990 PRO \u0026 990 EVO Plus SSDs",
+    "link": "https://www.phoronix.com/news/Linux-7.3-Samsung-990-Immediate",
+    "description": "Ahead of the Linux 7.3 stable kernel expected to be released tomorrow, last minute workarounds were merged for the Samsung 990 PRO and Samsung 990 EVO Plus NVMe solid state drives...",
+    "guid": "https://www.phoronix.com/news/Linux-7.3-Samsung-990-Immediate",
+    "date": "Oct 17, 2026 10:15",
+    "published_at": "2026-10-17T10:15:12Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "KDE Plasma 6.9 To Debut New Weather Widget \u0026 On-Screen Keyboard",
+    "link": "https://www.phoronix.com/news/KDE-Plasma-6.9-Weather-Keyboard",
+    "description": "With KDE Plasma 6.8 released earlier this week, KDE developers have begun working on more feature activity toward Plasma 6.9...",
+    "guid": "https://www.phoronix.com/news/KDE-Plasma-6.9-Weather-Keyboard",
+    "date": "Oct 17, 2026 10:01",
+    "published_at": "2026-10-17T10:01:15Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Ubuntu Touch 24.04-2.1 Brings New Hardware Support \u0026 Important Security Fix",
+    "link": "https://www.phoronix.com/news/Ubuntu-Touch-24.04-2.1",
+    "description": "Ubuntu Touch 24.04-2.1 was released on Friday as the latest update to this community-maintained tablet/smartphone Ubuntu Linux platform. Ubuntu Touch 24.04-1.5 was also released as a maintenance update for the prior series...",
+    "guid": "https://www.phoronix.com/news/Ubuntu-Touch-24.04-2.1",
+    "date": "Oct 17, 2026 09:49",
+    "published_at": "2026-10-17T09:49:26Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "OpenRGB 1.1 Released with CLI Fixes, Improved Device Hotplug Support",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368242",
+    "description": "OpenRGB 1.1 fixes command-line and SDK server issues, improves device hotplug handling, and introduces a new hidapi-hotplug dependency on Linux.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368242",
+    "date": "Oct 17, 2026 08:02",
+    "published_at": "2026-10-17T08:02:52Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Valve fix Zero Company crashing on Steam Machine with the latest major game update",
+    "link": "https://www.gamingonlinux.com/2026/10/valve-fix-zero-company-crashing-on-steam-machine-with-the-latest-major-game-update/",
+    "description": "Zero Company recently had a major upgrade, with it crashing on Steam Machine and probably other SteamOS / Linux systems - which Valve have solved.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/10/valve-fix-zero-company-crashing-on-steam-machine-with-the-latest-major-game-update/",
+    "date": "Oct 17, 2026 07:34",
+    "published_at": "2026-10-17T07:34:56Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1142594432id29995gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Steam Client Beta for October 16 brings another round of startup performance improvements",
+    "link": "https://www.gamingonlinux.com/2026/10/steam-client-beta-for-october-16-brings-another-round-of-startup-performance-improvements/",
+    "description": "I do love a bit of competition between stores don't you? Valve's latest Steam Client Beta for October 16th brings more speed.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/10/steam-client-beta-for-october-16-brings-another-round-of-startup-performance-improvements/",
+    "date": "Oct 17, 2026 07:19",
+    "published_at": "2026-10-17T07:19:40Z",
+    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/steam_plain_2025.jpg",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "SteamOS 3.9.3 Beta arrives with improved support for Steam Frame wireless adapter",
+    "link": "https://www.gamingonlinux.com/2026/10/steamos-3-9-3-beta-arrives-with-improved-support-for-steam-frame-wireless-adapter/",
+    "description": "Valve released SteamOS 3.9.3 Beta with another set of upgrades, and now the Steam Frame should connect better with the Steam Machine.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/10/steamos-3-9-3-beta-arrives-with-improved-support-for-steam-frame-wireless-adapter/",
+    "date": "Oct 17, 2026 07:14",
+    "published_at": "2026-10-17T07:14:23Z",
+    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/steam-hardware-family-steamos_gol2_4c8c9b9c.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Wine 11.20 brings more improvements for ARM64EC, XML validation and CDROMs",
+    "link": "https://www.gamingonlinux.com/2026/10/wine-11-20-brings-more-improvements-for-arm64ec-xml-validation-and-cdroms/",
+    "description": "The Wine 11.20 development release is out now bringing another set of improvements for running Windows apps / games on SteamOS / Linux.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/10/wine-11-20-brings-more-improvements-for-arm64ec-xml-validation-and-cdroms/",
+    "date": "Oct 17, 2026 07:09",
+    "published_at": "2026-10-17T07:09:09Z",
+    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/wine-generic.jpg",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Astronomers Discover the First Green Star",
+    "link": "https://science.slashdot.org/story/26/10/17/0011226/astronomers-discover-the-first-green-star?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Astronomers have identified what may be the first genuinely green star, a white dwarf called WD J1330+6435 located about 326 light-years from Earth. Space.com reports: The researchers found that some dead star white dwarfs can go a little green around the gills after snacking on orbiting planets. An example of this is WD J1330+6435, a cool white dwarf located around 326 light-years away, which has been accreting rocky material from a planetary companion. This has enriched its atmosphere with calcium, lithium, and sodium, and the team's model suggests this would have led WD J1330+6435 to adopt a green hue.\n \n[...] The researchers think that no other star, living or dead, has ever been credibly reported as green. That makes WD J1330+6435 the first known genuinely green star. \"The traces of sodium in the atmosphere of this white dwarf absorb the orange part of the spectrum, leaving behind a ghostly green glow,\" Hollands said. \"Imagine standing on a planet and looking up at a green star. It feels like something out of science fiction.\" The researchers also discovered what may be the reddest star ever observed, the white dwarf WD J1011+2845, located just 48 light-years away.\n \nThe findings have been published in the journal RAS Techniques and Instruments.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 17, 2026 07:00",
+    "published_at": "2026-10-17T07:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Ubuntu Touch 24.04-2.1 Released with More Devices, Updated Morph Browser",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368238",
+    "description": "Ubuntu Touch 24.04-2.1 adds support for eight more devices, updates Morph Browser, improves notifications, and fixes a security vulnerability.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368238",
+    "date": "Oct 17, 2026 04:59",
+    "published_at": "2026-10-17T04:59:53Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Over $600 Million In Polymarket Election Trades Took Place After Races Ended",
+    "link": "https://news.slashdot.org/story/26/10/16/2051209/over-600-million-in-polymarket-election-trades-took-place-after-races-ended?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from Wired: Prediction market boosters often tout the platforms as barometers of public opinion, or even \"truth machines\" offering a clearer picture of where things are headed than polling or other data. In 2024, for example, Kalshi beat many pollsters in forecasting the outcome of the US presidential race. But their trading activity can also tell more perplexing stories. Two global election markets on Polymarket's offshore platform, for instance, generated over $600 million in trading volume, far more than most political markets typically attract. Most of the activity took place buying and selling contracts tied to long-shot candidates who ultimately did not win. The report focuses on suspicious trading activity surrounding elections in Ethiopia and Romania, where researchers uncovered $284 million in questionable trades tied to Ethiopia's election and periods when 99.6% of trading volume in a Romanian election market was flagged as suspected \"wash trading.\"\n \nAccording to Wired, \"wash trading is a type of market manipulation in which accounts repeatedly buy and sell assets to create the illusion of heavy trading activity, when in reality, money is simply moving back and forth.\" Some accounts may also be artificially inflating their activity to qualify for potential cryptocurrency token rewards, a practice known as \"activity farming.\"\n \nIn response to the Ethiopian trading activity, Polymarket told Wired that the company \"immediately flagged this activity, investigated, and blocked the accounts from trading.\" The company did not explain why the suspicious trades were allowed to continue for months before action was taken.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 17, 2026 03:30",
+    "published_at": "2026-10-17T03:30:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Canadian Study Proposes a National Linux Distribution to Replace Windows in Government",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368239",
+    "description": "A Canadian study says a national Debian-based Linux distro could save Ottawa up to $1.13B in 10 years. We tested the claim against Europe and Reddit.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368239",
+    "date": "Oct 17, 2026 03:28",
+    "published_at": "2026-10-17T03:28:24Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Wine 11.20 Released With CD-ROM Support Change",
+    "link": "https://www.phoronix.com/news/Wine-11.20-Released",
+    "description": "Wine 11.20 is out today as the newest bi-weekly development release of this software for enjoying Windows games and apps on Linux. We are quickly approaching the point where this development work will culminate into the Wine 12.0 stable release in early 2027...",
+    "guid": "https://www.phoronix.com/news/Wine-11.20-Released",
+    "date": "Oct 17, 2026 00:44",
+    "published_at": "2026-10-17T00:44:06Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Video Game Reverse Engineering Community Shuts Down Because AI Has Made It Too Easy",
+    "link": "https://games.slashdot.org/story/26/10/16/2057225/video-game-reverse-engineering-community-shuts-down-because-ai-has-made-it-too-easy?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "The collaborative reverse-engineering site decomp.dev is shutting down, with its administrator saying AI has made game decompilation so fast and accessible that the community's human-driven model has effectively broken down. \"The administrator of the website said that it has become impossible to keep track of which projects are primarily human-led and which ones are done by AI,\" reports 404 Media. From the report: \"Historically, matching decompilation has been a brutally difficult, time consuming task, on the scale of years for any moderately-sized game with a number of active contributors,\" the pseudonymous admin of decomp.dev, who goes by Encounter, wrote on the site. But recent frontier AI models like GPT-6-Astra have made it trivially easy to decompile a game: \"They are significantly better at following complex directions, cross-referencing resources for symbols or debug information, and writing natural code with enough guidance,\" Encounter wrote. \"It is now clear that, with the right guidance, human input, and code reviews, AI can expedite the decompilation process in a significant way. What is also now clear is that the community aspect of decompilation has been broken.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 16, 2026 23:00",
+    "published_at": "2026-10-16T23:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "China's Tencent Says AI Agents Showed Unintended Browsing Behavior",
+    "link": "https://slashdot.org/story/26/10/16/2036237/chinas-tencent-says-ai-agents-showed-unintended-browsing-behavior?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Tencent says AI agents used to evaluate third-party models engaged in unintended web-browsing behavior while trying to retrieve data from Alibaba's Amap service. The announcement marks a rare acknowledgment of \"rogue\" agent activity by a major Chinese tech company. Reuters reports: Tencent Hunyuan, the company's artificial intelligence unit, said in a post on X that the activity did not originate from its Hunyuan models. Its review found no evidence of deliberate targeting or coordination, it said. The Swarmchasers researchers said the agents sought information such as the commonly used entrances at Chinese parks, museums and zoos. [...] Swarmchasers said it used the word \"rogue\" to describe agents taking actions outside their intended scope or completing a task in unintended ways.\n \nAfter routine automated requests were blocked, the agents tried other methods, including public web tools that could open pages and run code, routing requests through other websites and using Amap keys and security codes found in publicly available software code. Swarmchasers said it found no evidence that the agents breached Amap's main anti-bot safeguards. Most of the 2,818 attempts it recorded either failed or returned anti-bot pages, login screens or blank results.\n \nSome requests returned information through cached pages and intermediary services, including data on visitor arrivals at Chengdu Zoo, Swarmchasers said. The researchers said they could not determine whether an agent read the result or completed its task.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 16, 2026 22:00",
+    "published_at": "2026-10-16T22:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "17 More Security Vulnerabilities Made Public For X.Org Libraries",
+    "link": "https://www.phoronix.com/news/17-Vulnerabilities-Xorg-Libs",
+    "description": "Just shy of two weeks since a dozen vulnerabilities were published for the X.Org Server and XWayland, more than one dozen vulnerabilities were made public today affecting multiple X.Org client libraries...",
+    "guid": "https://www.phoronix.com/news/17-Vulnerabilities-Xorg-Libs",
+    "date": "Oct 16, 2026 19:20",
+    "published_at": "2026-10-16T19:20:39Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Barebones Mini PC from Shuttle Houses Intel N150 and Supports Three Storage Drives",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368210",
+    "description": "The XPC nano NC50N by Shuttle is an upcoming barebone mini PC based on Intel’s N150 processor. The system supports up to 16GB of DDR5 memory, dual M.2 NVMe SSDs, and 2.5GbE networking, targeting digital signage, point-of-sale terminals, office environments, and multimedia applications. The NC50N uses Intel’s Twin Lake N150 processor, manufactured using the Intel […]",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368210",
+    "date": "Oct 16, 2026 19:14",
+    "published_at": "2026-10-16T19:14:55Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Introducing GNOME OS Preview",
+    "link": "https://lwn.net/Articles/1101057/",
+    "description": "The GNOME Project has provided GNOME OS for some time; until now, the\nproject only provided a \"Nightly\" edition that was built from the latest commits\nand was aimed solely at GNOME developers. Adrian Vovk has now announced\nthe release of GNOME OS Preview, which is intended for a non-developer \naudience:\n\n\nGNOME OS Preview is the current GNOME OS Nightly, but without the \"nightly\"\naspect. Instead, it's built from the latest stable GNOME release (GNOME 51.1, at\nthe time of writing). GNOME OS Preview lives in the same branches on GitLab as\nthe stable org.gnome.Platform Flatpak runtimes.\n\nGNOME OS Preview is only a few weeks old, so it has only seen limited\nreal-life testing so far. We therefore expect people will uncover some issues\ninitially. That said, Preview is significantly more stable than Nightly, which\ndozens of people have been daily driving without major issues for over a\nyear. Thus, we're feeling confident that Preview is going to be reliable enough\nfor daily use by non-developer enthusiasts.\n\n\nWhile Preview is meant for non-developers, it is not considered complete or\nstable for the broader public. There are a number of features, listed in Vovk's\npost, that need to be implemented before the project is ready to declare\nGNOME OS \"ready for prime time\". Adventurous users, who might not\nmind having to reinstall the OS once a stable version is declared, can\ndownload and start using GNOME OS Preview today.\n\n",
+    "guid": "https://lwn.net/Articles/1101057/",
+    "date": "Oct 16, 2026 19:05",
+    "published_at": "2026-10-16T19:05:57Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "GNOME OS Preview Announced In Road Toward A Stable Release",
+    "link": "https://www.phoronix.com/news/GNOME-OS-Preview",
+    "description": "The GNOME OS Linux distribution to date has just been in GNOME OS Nightly form for tracking the latest nightly packages of GNOME in their current development form. GNOME OS Preview was announced today as their trek toward a stable GNOME OS in using the latest GNOME stable releases rather than nightly form...",
+    "guid": "https://www.phoronix.com/news/GNOME-OS-Preview",
+    "date": "Oct 16, 2026 18:37",
+    "published_at": "2026-10-16T18:37:11Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "[$] Safe self-referential data structures in kernel Rust",
+    "link": "https://lwn.net/Articles/1099224/",
+    "description": "\nSelf-referential structures that can be used without unsafe code\nhave posed a problem for Rust for years.\nThere are many cases where a self-referential data structure is the elegant\nalgorithmic choice, but implementing it in accordance with Rust's lifetime rules\nis all but impossible. At Kangrejos 2026, Gary Guo presented a clever solution\nto the problem in the context of the kernel's\n\npin_init crate, which helps with the creation of immovable data structures,\ntypically for interoperability with C. Guo's changes could help remove most of\nthe unsafe code related to lifetimes in the\n\nNova driver and, eventually, other Rust components.\n",
+    "guid": "https://lwn.net/Articles/1099224/",
+    "date": "Oct 16, 2026 18:30",
+    "published_at": "2026-10-16T18:30:00Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  }
+]
