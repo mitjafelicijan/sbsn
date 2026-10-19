@@ -1,5 +1,414 @@
 [
   {
+    "title": "Elon Musk Vows To Give a SpaceX Share To 'Every Kid In America'",
+    "link": "https://news.slashdot.org/story/26/10/19/1721258/elon-musk-vows-to-give-a-spacex-share-to-every-kid-in-america?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from CNN: Elon Musk has said he will give every child in America a stake in SpaceX, his $2 trillion aerospace and artificial intelligence company, as tech firms face intensifying scrutiny over their impact on society. \"Next year, I will give one of my SpaceX shares to every kid in America,\" he wrote on X on Monday. \"This will be the first of many.\"\n \nSpaceX only began trading publicly in June (and after the biggest initial public offering in history). The company's shares were trading for about $146 when the market closed on Friday. Musk's proposal was thin on detail. It is not clear how those shares would be distributed to the tens of millions of American children or whether all of them would even be eligible. According to the United States Census Bureau, there are roughly 73 million people under the age of 18, making Musk's potential giveaway worth about $10.7 billion at SpaceX's current share price. The move came in response to Anthropic's announcement on Sunday that it will commit at least 5% of its shares to a \"Public Benefit Fund\" that will donate money to social causes. \"I recommend giving the shares directly to the public,\" Musk said in a reply to Anthropic's announcement. \"This is what I will be doing.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 19, 2026 18:00",
+    "published_at": "2026-10-19T18:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Thin XFS LVs provisioning and Libvirt hooks for State Isolated KVM Server on openSUSE Tumbleweed",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368300",
+    "description": "Following below is review/verification approach to Thin XFS LVs provisioning and Libvirt hooks proposed by Google AI. In case of openSUSE Tumbleweed YaST Installer requires minimal manual CLI intervention due to GUI interface enables thin pools and thin LVs . In case Debian 14 network installation you have an option to associate vg_debian group with physical volume.  All command stack is supposed to be executed manually upon instance reboot.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368300",
+    "date": "Oct 19, 2026 17:59",
+    "published_at": "2026-10-19T17:59:26Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Wine Ported to OpenBSD",
+    "link": "https://tech.slashdot.org/story/26/10/19/176251/wine-ported-to-openbsd?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Wine has been successfully ported to OpenBSD, with developers reporting that dozens of 64-bit Windows applications now run on the operating system. \"Even the Remaster of The Witcher 3 which released just last month runs, and runs well,\" writes Thomas Frohwein, OpenBSD developer and ports maintainer. OSnews reports: The biggest limitation seems to be the lack of support for WoW64, so 32bit Windows software won't work. Still, this is a massive milestone for OpenBSD, and makes especially gaming a somewhat viable option on OpenBSD.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 19, 2026 17:10",
+    "published_at": "2026-10-19T17:10:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Intel Working To Add XMX-Accelerated XeSS To Valve's Steam Play (Proton)",
+    "link": "https://www.phoronix.com/news/Intel-XeSS-Steam-Play-Proton",
+    "description": "An Intel engineer opened the pull requests today for adding Intel XeSS support to Valve's Proton for Steam Play along with associated changes to VKD3D-Proton and DXVK...",
+    "guid": "https://www.phoronix.com/news/Intel-XeSS-Steam-Play-Proton",
+    "date": "Oct 19, 2026 17:00",
+    "published_at": "2026-10-19T17:00:49Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Linus Torvalds' AI Code Improved: Huge Performance Wins With Reworked Code",
+    "link": "https://www.phoronix.com/news/Reading-Page-Cache-WO-Folio-Ref",
+    "description": "Last week I wrote about Linus Torvalds leveraging AI to come up with a hefty Linux kernel improvement using Claude Code. The code is for reading from the page cache without folio references to help workloads of small reads from a single file across many CPU threads. Meta engineer Kiryl Shutsemau has taken that code and reworked it and showing extremely promising performance results...",
+    "guid": "https://www.phoronix.com/news/Reading-Page-Cache-WO-Folio-Ref",
+    "date": "Oct 19, 2026 16:32",
+    "published_at": "2026-10-19T16:32:00Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Linux In 2026 Continues Improving Support For Benefiting Old Atari \u0026 Amiga Hardware",
+    "link": "https://www.phoronix.com/news/Linux-7.4-m68k",
+    "description": "The Motorola 68000 \"m68k\" CPU support continues being maintained in the mainline Linux kernel and continuing to see new hardware support for these vintage systems from the likes of Commodore Amiga, Atari, and early Apple Macintosh models...",
+    "guid": "https://www.phoronix.com/news/Linux-7.4-m68k",
+    "date": "Oct 19, 2026 15:55",
+    "published_at": "2026-10-19T15:55:47Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "[$] Development statistics for the 7.3 kernel",
+    "link": "https://lwn.net/Articles/1100241/",
+    "description": "Linus Torvalds released\nthe 7.3 kernel, at the end of the usual nine-week development cycle, on\nOctober 18.  This cycle, abundantly fueled by LLM-assisted\ncontributions, broke just about every record imaginable.  As usual, we have\ncompiled some statistics showing how this release, which is expected to be\nthe next long-term-support (LTS) kernel, came together.  Also included is\nan attempt to determine whether automated patch review is actually reducing\nthe number of bugs introduced into the kernel.",
+    "guid": "https://lwn.net/Articles/1100241/",
+    "date": "Oct 19, 2026 15:45",
+    "published_at": "2026-10-19T15:45:24Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "Trailblazers: Into the March shows off its unique blend of walking colony sim in a new demo",
+    "link": "https://www.gamingonlinux.com/2026/10/trailblazers-into-the-march-shows-off-its-unique-blend-of-walking-colony-sim-in-a-new-demo/",
+    "description": "Trailblazers: Into the March is high up on my wishlist for the unique premise, with you building up a little colony on a walking landship.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/10/trailblazers-into-the-march-shows-off-its-unique-blend-of-walking-colony-sim-in-a-new-demo/",
+    "date": "Oct 19, 2026 15:01",
+    "published_at": "2026-10-19T15:01:58Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1141567249id30005gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Elizabeth Holmes Doc 'You Can See Everything' Shocks With Massive Opening",
+    "link": "https://entertainment.slashdot.org/story/26/10/19/1451201/elizabeth-holmes-doc-you-can-see-everything-shocks-with-massive-opening?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Nathan Fielder and Lance Oppenheim's Elizabeth Holmes documentary \"You Can See Everything\" earned more than $15 million in its limited opening weekend, making it one of the biggest documentary launches in decades and the strongest opening for a film on fewer than 1,000 screens since Borat in 2006. It was also \"the biggest non-music documentary since 'Fahrenheit 9/11' in 2004,\" adds CNN. From the report: Many weekend screenings in cities like New York and Los Angeles were sold out despite the three-hour running time. The film's distributor, A24, called it \"one of the largest limited-release openings of the 21st century.\" \"You Can See Everything\" opened on fewer than 900 screens following a jaw-dropping surprise premiere at the Telluride Film Festival last month.\n \nFielder and Oppenheim worked on the project in secret for years, filming with Holmes and her partner Billy Evans in the weeks before Holmes went to prison in 2023. Holmes was convicted of wire fraud and conspiracy to defraud Theranos investors, but she tried to convince the filmmakers of her innocence.\n \nFielder, who appears on camera interviewing Holmes and Evans, takes the film in unexpected directions, thrilling critics and theatergoers. The film has an extraordinarily high 99% \"fresh score\" on Rotten Tomatoes and a record-high 4.8 rating on Letterboxd. Further reading: Will New Documentary Make Theranos Founder Elizabeth Holmes More Sympathetic?\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 19, 2026 15:00",
+    "published_at": "2026-10-19T15:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "[$] Cross-crate forward declarations in Rust",
+    "link": "https://lwn.net/Articles/1099596/",
+    "description": "\nRust has several ad-hoc mechanisms to allow user code to influence how the\nstandard library executes. For example, custom panic handlers and custom\nallocators both involve registering functions that core standard library code\nneeds to call. With more similar features planned,\nJana Dönszelmann spotted the developing pattern and put together a\ngeneral solution, introducing a safer, checked analogue of C's weak symbol\nlinking. At Kangrejos 2026, she explained how this new language feature works,\nand proposed using it to clean up the kernel's handling of integer overflows in\nRust code.\n",
+    "guid": "https://lwn.net/Articles/1099596/",
+    "date": "Oct 19, 2026 13:50",
+    "published_at": "2026-10-19T13:50:49Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "Canonical's Multipass 1.17 Adds Direct Support For Non-Ubuntu Linux Distros",
+    "link": "https://www.phoronix.com/news/Multipass-1.17",
+    "description": "Canonical's Multipass software is used for orchestrating Ubuntu virtual instances with a single command to launch Ubuntu VMs across Windows, macOS, and Linux. Multipass 1.17 was released today and they are now offering direct support for enabling non-Ubuntu Linux distributions as well...",
+    "guid": "https://www.phoronix.com/news/Multipass-1.17",
+    "date": "Oct 19, 2026 13:17",
+    "published_at": "2026-10-19T13:17:18Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Security updates for Monday",
+    "link": "https://lwn.net/Articles/1101421/",
+    "description": "Security updates have been issued by AlmaLinux (idm:DL1, kernel, libsoup, perl-URI, python3.14-urllib3, and webkit2gtk3), Debian (apache2, cifs-utils, haproxy, jq, kernel, and xen), Fedora (aom, chezmoi, chromium, docker-buildx, freeipa, freerdp, GitPython, httpd, jfrog-cli, kernel, knot, libheif, log4net, mongo-c-driver, nant, NetworkManager, openssl, plasma-nm, python-cairosvg, python-django5, python-django6, qt5-qtbase, radicale, rust-faster-hex, rust-onefetch, SDL3_image, syncthing, thunderbird, tor, webkitgtk, and wordpress), Mageia (curl, libreoffice, mozjs140, mutt, nodejs-braces, parted, perl-Net-Whois-Raw, perl-XS-Parse-Keyword, and python-django), Oracle (kernel, kernel-uek, python36:3.6, and wireshark), Red Hat (gvfs, kernel, and kernel-rt), Slackware (libXtst), and SUSE (agama, ansible-core, bcel, bind, buildah, busybox, cadvisor, chromium, cosign, cups-filters, distribution-registry, fetchmail, gcc13, ghostscript, gimp, glib2, go1.26, go1.27, golang-github-lusitaniae-apache_exporter, golang-github-prometheus-alertmanager, google-osconfig-agent, grype-db, hauler, hawk2, helm, ImageMagick, iperf, kernel, libheif, libpng16, librsvg, libsoup, libsoup2, libthrift-0_25_0, libx11, libxi, libxpm, mutt, ntfs-3g_ntfsprogs, nvidia-open-driver-g07-signed, nvidia-open-driver-G07-signed-check, openssl-3, openvpn, p11-kit, pacemaker, perl-xs-parse-keyword, pgvector, php8, podman, psqlodbc, python-anyio, python-hpack, python-jwcrypto, python-oauthlib, python-pyjwt, python-tornado6, python-urllib3, python-virtualenv, python313-ruff, python313-social-auth-app-django, python313-urllib3, python313-urllib3_1, python313-validators, python313-waitress, python313-zipp, qemu, qsnapper, squid, strongswan, stunnel, swtpm, unbound, virtiofsd, webkit2gtk3, xen, and xwayland).",
+    "guid": "https://lwn.net/Articles/1101421/",
+    "date": "Oct 19, 2026 13:10",
+    "published_at": "2026-10-19T13:10:19Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "Crusader Kings III: Silk \u0026 Silver expansion arrives November 19",
+    "link": "https://www.gamingonlinux.com/2026/10/crusader-kings-iii-silk-silver-expansion-arrives-november-19/",
+    "description": "Paradox Interactive just announced a major expansion with Crusader Kings III: Silk \u0026 Silver now set to arrive on November 19th.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/10/crusader-kings-iii-silk-silver-expansion-arrives-november-19/",
+    "date": "Oct 19, 2026 13:07",
+    "published_at": "2026-10-19T13:07:34Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/362656071id30004gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "9to5Linux Weekly Roundup: October 18th, 2026",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368275",
+    "description": "The 314th installment of the 9to5Linux Weekly Roundup is here for the week ending October 18th, 2026, keeping you updated on the most important developments in the Linux world.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368275",
+    "date": "Oct 19, 2026 13:04",
+    "published_at": "2026-10-19T13:04:32Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "GNU Linux-libre 7.3-gnu Removes More Firmware Blobs",
+    "link": "https://www.phoronix.com/news/GNU-Linux-Libre-7.3",
+    "description": "GNU Linux-libre 7.3 is now available following yesterday's Linux 7.3 release. The GNU Linux-libre downstream continues stripping out driver/hardware support where dependent upon firmware blobs or other proprietary elements deemed out of line with free software ideals...",
+    "guid": "https://www.phoronix.com/news/GNU-Linux-Libre-7.3",
+    "date": "Oct 19, 2026 12:57",
+    "published_at": "2026-10-19T12:57:58Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "CutefishOS is Back With a Vibe-Coded Desktop That Doesn't Use Qt or GTK",
+    "link": "https://feed.itsfoss.com/link/24361/17500684/cutefishos-vibe-coded-desktop",
+    "description": "The project says the new desktop has its own Wayland compositor and graphics library.",
+    "guid": "6ad5a2760b3133000169c9c9",
+    "date": "Oct 19, 2026 12:52",
+    "published_at": "2026-10-19T12:52:23Z",
+    "image": "https://itsfoss.com/content/images/2026/10/cutefishos-vibe-coded-desktop-banner.png",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "Try the demo for The Mystery of Oak Island, a point and click mystery thriller from Visionaire Studio",
+    "link": "https://www.gamingonlinux.com/2026/10/try-the-demo-for-the-mystery-of-oak-island-a-point-and-click-mystery-thriller-from-visionaire-studio/",
+    "description": "The Mystery of Oak Island is a passion project from Visionaire Studio, who make the popular point and click game engine.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/10/try-the-demo-for-the-mystery-of-oak-island-a-point-and-click-mystery-thriller-from-visionaire-studio/",
+    "date": "Oct 19, 2026 12:28",
+    "published_at": "2026-10-19T12:28:24Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/233153950id30003gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "GNOME Mutter Lands Improvement For Reducing GPU Work While In Power Savings Mode",
+    "link": "https://www.phoronix.com/news/GNOME-Power-Savings-GPU",
+    "description": "Stemming from a bug report one month ago with GNOME 51 over high GPU usage while the monitor is sleeping, a set of 17 patches were merged today for addressing this issue...",
+    "guid": "https://www.phoronix.com/news/GNOME-Power-Savings-GPU",
+    "date": "Oct 19, 2026 12:20",
+    "published_at": "2026-10-19T12:20:09Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "SpacemiT Announces The V100 Server-Class RISC-V Processor",
+    "link": "https://www.phoronix.com/news/SpacemiT-V100",
+    "description": "Following the interesting SpacemiT K3 RVA23 RISC-V SoC, SpacemiT today announced the V100 server-class RISC-V processor...",
+    "guid": "https://www.phoronix.com/news/SpacemiT-V100",
+    "date": "Oct 19, 2026 12:00",
+    "published_at": "2026-10-19T12:00:00Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "America Tries Reviving Shuttered Nuclear Plants - Partly to Help Power Data Centers",
+    "link": "https://hardware.slashdot.org/story/26/10/19/0448253/america-tries-reviving-shuttered-nuclear-plants---partly-to-help-power-data-centers?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "America is \"making an unprecedented attempt to revive three shuttered nuclear plants to meet rising energy demand,\" reports the Los Angeles Times, \n\"Two of the plants have contracts with Big Tech companies that will pay a premium to get large amounts of carbon-free energy for data centers...\"\n\nNo commercial nuclear reactor is known to have resumed generating electricity after beginning the decommissioning process that takes one out of service, though some reactors have restarted after long outages. The Department of Energy is lending as much as $4.4 billion to restart the Palisades Power Plant in Michigan, the Crane Clean Energy Center on Pennsylvania's Three Mile Island and the Duane Arnold Energy Center in Iowa to restore a combined 2.25 gigawatts of electricity, which can power roughly 2 million homes and businesses. All three of the plants closed before their licenses expired, largely because the electricity they produced was considered too expensive... Restarting a reactor is a fairly quick way to get a lot of electricity, and it's cheaper than building a new, large reactor, said nuclear engineering expert Todd Allen... \n\nEdwin Lyman, at the Union of Concerned Scientists, said the taxpayer money being used should go toward addressing safety risks. For example, most U.S. plants were built between 1970 and 1990 and were designed to withstand natural disasters of that era, said Lyman, director of nuclear power safety at UCS. But climate change is making extreme weather events more frequent and severe. \"It's possible, if they set the right level of safety and spend the necessary funds to meet that, they could restore these plants to operable condition,\" he said. \"That's not happening at this point....\" \n\nNextEra Energy and Google are collaborating to restart Duane Arnold by early 2029... Microsoft has a contract with the Crane Clean Energy Center on Three Mile Island just outside Harrisburg. The plant was the site of the nation's worst commercial nuclear power accident in 1979. The accident destroyed one reactor, leaving the plant with one functioning. In 2019, Constellation Energy's then-parent company Exelon shut down the functioning reactor, saying it was losing money and that Pennsylvania lawmakers had refused to subsidize it. Constellation Energy announced in 2024 that it would spend $1.6 billion to restart the reactor under a 20-year agreement with Microsoft. It hopes to bring the plant back online in 2027... \n\nPalisades is expected to be the first nuclear plant in the world to resume generating power after beginning the decommissioning process.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 19, 2026 11:34",
+    "published_at": "2026-10-19T11:34:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "People Are Using AI to Get Rid of Smart TV Ads and Make Their TVs Faster",
+    "link": "https://feed.itsfoss.com/link/24361/17500641/debloat-smart-tv",
+    "description": "Android TV owners are pointing Claude Code at their TVs over ADB to strip out ads, telemetry and bloat. Here's how it works and where it can go wrong.",
+    "guid": "6ad5ea0e0b3133000169cc61",
+    "date": "Oct 19, 2026 10:59",
+    "published_at": "2026-10-19T10:59:24Z",
+    "image": "https://itsfoss.com/content/images/2026/10/debloat-tv-with-ai.webp",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "BeamFS Sent Out As Newest File-System Proposal For Linux",
+    "link": "https://www.phoronix.com/news/Linux-BeamFS",
+    "description": "There is yet-another-Linux-file-system attempt... An initial request for comments (RFC) patch series was sent out this morning for BeamFS. The proposed BeamFS is a Reed-Solomon protected file-system...",
+    "guid": "https://www.phoronix.com/news/Linux-BeamFS",
+    "date": "Oct 19, 2026 10:16",
+    "published_at": "2026-10-19T10:16:14Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Gentoo Plans to Drop Chromium, Google Chrome Remains Available",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368272",
+    "description": "Gentoo is preparing to drop Chromium as maintaining the source-built browser becomes increasingly difficult. Google Chrome and Flatpak remain alternatives.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368272",
+    "date": "Oct 19, 2026 10:01",
+    "published_at": "2026-10-19T10:01:33Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Linux 7.4 Removing Its Broken \u0026 Rarely Touched Code For ARM64 Big Endian",
+    "link": "https://www.phoronix.com/news/Linux-7.4-Removes-ARM64-BE",
+    "description": "The ARM64 code for Linux 7.4 is stripping away its support for big-endian kernel builds for 64-bit ARM...",
+    "guid": "https://www.phoronix.com/news/Linux-7.4-Removes-ARM64-BE",
+    "date": "Oct 19, 2026 10:01",
+    "published_at": "2026-10-19T10:01:00Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "RADV Promotes VK_EXT_host_image_copy To Enabled By Default For RDNA1 GPUs",
+    "link": "https://www.phoronix.com/news/RADV-GFX10-Host-Image-Copy",
+    "description": "Going back to July 2025 the open-source Radeon RADV Vulkan driver has offered experimental host image copy support with the API's VK_EXT_host_image_copy extension. This has been for RDNA1 and newer GPUs while now GFX10 RDNA 1 GPUs have this extension enabled by default while also enabling experimental support for prior GFX9 era GPUs too...",
+    "guid": "https://www.phoronix.com/news/RADV-GFX10-Host-Image-Copy",
+    "date": "Oct 19, 2026 09:48",
+    "published_at": "2026-10-19T09:48:43Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "TAINT_FORCED_BIND Sent In For Linux 7.4 To Deal With Major Fuzzing Attack",
+    "link": "https://www.phoronix.com/news/Linux-7.4-TAINT-FORCED-BIND",
+    "description": "Among the early pull requests sent out in advance of the Linux 7.4 kernel merge window opening were the driver core updates. Standing out here is the new TAINT_FORCED_BIND for dealing with the recent major fuzzing \"attack\" by AI agents/bots testing impractical driver/hardware combinations...",
+    "guid": "https://www.phoronix.com/news/Linux-7.4-TAINT-FORCED-BIND",
+    "date": "Oct 19, 2026 09:37",
+    "published_at": "2026-10-19T09:37:16Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Dungeonbound is a unique dungeon crawler blending in auto-battlers, incrementals and inventory management",
+    "link": "https://www.gamingonlinux.com/2026/10/dungeonbound-is-a-unique-dungeon-crawler-blending-in-auto-battlers-incrementals-and-inventory-management/",
+    "description": "Dungeonbound is an upcoming first-person auto-battler dungeon crawler with some fun ideas and a mixture of modes that change how you play.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/10/dungeonbound-is-a-unique-dungeon-crawler-blending-in-auto-battlers-incrementals-and-inventory-management/",
+    "date": "Oct 19, 2026 09:02",
+    "published_at": "2026-10-19T09:02:02Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1576711309id30002gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Take on big oil and pirates as a lonely wind turbine in Spin Tide",
+    "link": "https://www.gamingonlinux.com/2026/10/take-on-big-oil-and-pirates-as-a-lonely-wind-turbine-in-spin-tide/",
+    "description": "Indie developers just keep coming up with absolute gems. Spin Tide is another survivor-like but it's the style and animations that hooked me in.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/10/take-on-big-oil-and-pirates-as-a-lonely-wind-turbine-in-spin-tide/",
+    "date": "Oct 19, 2026 08:39",
+    "published_at": "2026-10-19T08:39:48Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/840733123id30001gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Get some great Double Fine and Serenity Forge games across two new bundles",
+    "link": "https://www.gamingonlinux.com/2026/10/get-some-great-double-fine-and-serenity-forge-games-across-two-new-bundles/",
+    "description": "Ready to fill up on some more games? The Double Fine Publisher Humble Bundle and Serenity Forge Emotional Impact Humble Bundle have some great stuff included.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/10/get-some-great-double-fine-and-serenity-forge-games-across-two-new-bundles/",
+    "date": "Oct 19, 2026 08:30",
+    "published_at": "2026-10-19T08:30:56Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/907025037id30000gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Adafruit Floppsy Rev D Revives Floppy Disk Archiving with RP2350",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368267",
+    "description": "Adafruit has previewed Floppsy Rev D, an RP2350-based floppy disk archiver and emulator designed to preserve and access legacy computer storage media. The standalone device supports floppy drives used with PCs and Apple Disk II systems, offering disk imaging, flux-level data capture, and emulation capabilities alongside a touchscreen interface and removable storage. The board uses […]",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368267",
+    "date": "Oct 19, 2026 08:30",
+    "published_at": "2026-10-19T08:30:03Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Mozilla is Calling Out Microsoft for Forcing Edge on Users",
+    "link": "https://tech.slashdot.org/story/26/10/19/0655217/mozilla-is-calling-out-microsoft-for-forcing-edge-on-users?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "\"Mozilla reps tell me they've met with Microsoft about their concerns,\" reports PC Magazine, \"but that the company wasn't responsive.\"\n\n\n\"They'll do the minimum the law requires to respect user choice,\" explains Kush Amlani, Mozilla's counsel overseeing global competition and regulatory work... Mozilla recently marked 100 days since it released an 87-page report detailing the ways in which Microsoft pushes Edge on Windows PCs.... One example is how Windows often displays a \"Let's finish setting up your PC\" pop-up after an OS update. This screen has an enabled-by-default option to \"use recommended browser settings,\" which makes Edge the default web browser. \nHowever, that screen doesn't appear in Europe. European laws now force Microsoft to make Windows more respectful of user choices. For instance, in European countries, the Start menu opens links in your default web browser rather than in Edge, as it does everywhere else. Amlani says Mozilla wants Microsoft to release the European version of Windows to the rest of the world. However, he thinks this will require government action. As he puts it, \"Microsoft can do better when it's forced.\" \nThe last line of the article sums up Mozilla's main point. \"No one should have to fight their OS this hard on something as simple as a browser preference.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 19, 2026 07:34",
+    "published_at": "2026-10-19T07:34:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Enshrouded 1.0 rolls out and now it's Steam Deck Verified",
+    "link": "https://www.gamingonlinux.com/2026/10/enshrouded-1-0-rolls-out-and-now-its-steam-deck-verified/",
+    "description": "Enshrouded is a solo and co-op survival action RPG where your freedom and creativity come first - with a big 1.0 release out now.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/10/enshrouded-1-0-rolls-out-and-now-its-steam-deck-verified/",
+    "date": "Oct 19, 2026 07:29",
+    "published_at": "2026-10-19T07:29:58Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/266731458id29999gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Hot Wax is an inventive new take on classic falling block puzzlers",
+    "link": "https://www.gamingonlinux.com/2026/10/hot-wax-is-an-inventive-new-take-on-classic-falling-block-puzzlers/",
+    "description": "Move over Tetris, it's time for some Hot Wax - an inventive new take on classic falling block puzzlers.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/10/hot-wax-is-an-inventive-new-take-on-classic-falling-block-puzzlers/",
+    "date": "Oct 19, 2026 07:17",
+    "published_at": "2026-10-19T07:17:51Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1488419444id29998gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Proton-CachyOS 11.0-20261014, DWProton 11.0-15 and GE-Proton 11-10 released",
+    "link": "https://www.gamingonlinux.com/2026/10/proton-cachyos-11-0-20261014-dwproton-11-0-15-and-ge-proton-11-10-released/",
+    "description": "A triple helping of community Proton builds to report on for you today with Proton-CachyOS 11.0-20261014, DWProton 11.0-15 and GE-Proton 11-10 released.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/10/proton-cachyos-11-0-20261014-dwproton-11-0-15-and-ge-proton-11-10-released/",
+    "date": "Oct 19, 2026 07:04",
+    "published_at": "2026-10-19T07:04:35Z",
+    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/proton.jpg",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Linux kernel 7.3 is out with some nice improvements for gaming",
+    "link": "https://www.gamingonlinux.com/2026/10/linux-kernel-7-3-is-out-with-some-nice-improvements-for-gaming/",
+    "description": "Linux kernel 7.3 has officially been released, bringing with it plenty of improvements for Linux gaming.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/10/linux-kernel-7-3-is-out-with-some-nice-improvements-for-gaming/",
+    "date": "Oct 19, 2026 06:49",
+    "published_at": "2026-10-19T06:49:37Z",
+    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/defaulttagline.png",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Linuxiac Weekly Wrap-Up: Week 42, 2026 (October 12 – 18)",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368278",
+    "description": "Catch up on the latest Linux news: Ubuntu 26.10, GNOME OS Preview, KDE Plasma 6.8, Firefox 158, Wine 11.20, Linus Torvalds rejects AI coding bans, and more.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368278",
+    "date": "Oct 19, 2026 05:27",
+    "published_at": "2026-10-19T05:27:04Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Anthropic Announces 'Public Benefit Fund', Committing 5% of Its Shares",
+    "link": "https://it.slashdot.org/story/26/10/19/0252201/anthropic-announces-public-benefit-fund-committing-5-of-its-shares?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "\"Anthropic says it's committing 5% of its shares to a 'public benefit fund',\" reports TechCrunch, \"structured as a wholly-owned entity within the company — with the option to contribute an additional 2% for every 50% increase in Anthropic's value.\" \n\nImportant context from CNBC:\n\nThe timing of Anthropic's public fund announcement is both mandatory to prepare for an initial public offering, and \"beneficial from an image perspective,\" especially as AI reshapes the jobs market, Lise Buyer, partner at IPO advisory firm Class V Group, told CNBC... \n\nAnthropic said it will share more about the fund structure and governance in the coming months, including valuation milestones that may increase the stake. It said it will also share progress on the fund in an upcoming public benefit report. In response to Anthropic's announcement, Tesla and SpaceX CEO Elon Musk said on X that he \"recommend[s] giving the shares directly to the public.\" \n\nAnthropic's announcement hints the fund could address job-market displacements. It says the fund \"might\" explore \"large donations to traditional nonprofits\" — or, that it \"might\" explore \"direct distributions to specific populations. One example is labor market impacts.\" \n\nIt then argues AI could \"cause instability\" for many workers. And while Anthropic has already committed $200 million for \"studying and addressing\" this issue, Sunday's announcement says \"bolder\" approaches may be needed, and that the Fund \"will have the versatility to pursue them.\" \n\n\"Combined with its co-founders' pledge to donate 80% of their equity and an employee donation matching program, roughly 20% of Anthropic's shares will be dedicated to public purposes,\" reports Reuters, \"excluding any additional shares added later.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 19, 2026 04:34",
+    "published_at": "2026-10-19T04:34:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Linux Kernel 7.3 Officially Released, This Is What’s New",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368279",
+    "description": "Linux kernel 7.3 is now available for download, as announced today by Linus Torvalds himself, featuring enhanced hardware support, filesystem and networking improvements, security enhancements, new drivers, and many other changes.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368279",
+    "date": "Oct 19, 2026 03:55",
+    "published_at": "2026-10-19T03:55:35Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Linux Kernel 7.3 Release is Good News For Gamers Short on VRAM",
+    "link": "https://feed.itsfoss.com/link/24361/17500485/linux-kernel-7-3-release",
+    "description": "A fix for memory freezes lands alongside Zen 6 groundwork, and early Apple M3 support.\n\n",
+    "guid": "6ac768862df9a50001a23015",
+    "date": "Oct 19, 2026 02:56",
+    "published_at": "2026-10-19T02:56:37Z",
+    "image": "https://itsfoss.com/content/images/2026/10/linux-kernel-7-3-release-banner.png",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
     "title": "'Human Vs. Robot' Cage Match Was Illegal, Says California",
     "link": "https://hardware.slashdot.org/story/26/10/19/0055210/human-vs-robot-cage-match-was-illegal-says-california?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
     "description": "\"A human defeated two of the three robots he faced in a cage fight recently held in San Francisco,\" reports the Los Angeles Times, noting that videos of the event drew more than 10 million views on YouTube. \n\nBut \"the humans behind that fight could face a battle of their own — the legal type — if they want to hold another event like 'Human Vs. Robot,' the Sept. 18 competition that placed influencer Frankie LaPenna inside an octagon to battle three humanoid robots that were controlled remotely by a human operator in separate MMA-style fights...\"\n\nWearing spiked gloves, a helmet and protective padding, the 5-foot-6, 205-pound LaPenna held his own against all three bots. He dominated his first opponent, referred to at the fight as \"the child robot.\" Next came an imposing \"Terminator\"-inspired humanoid, which was listed on the fight video as 6-feet and 200 pounds with a kick force of 850 pounds. The robot landed several hard kicks, including one that knocked LaPenna across the mat and another with an impact that brought the humanoid to the ground and caused its head to come off — but the human seemed to gain strength as the match went on and eventually stood triumphantly with his foot on the machine's crumpled body. \nLaPenna was dominant early in his final match, in which he faced a robot that resembled a \"Predator\" from the movies of the same name. After landing several punches and kicks and taking his opponent to the ground multiple times, LaPenna eventually became fatigued and called for the match to be ended. \"He doesn't get tired. He doesn't stay down,\" LaPenna said in a postmatch interview. \n\n\n\"The crowd of about 100 (humans, not humanoids) was thrilled,\" writes the New York Times. (After beating his first robot opponent, LaPenna told his interviewer, \"Clankers zero, humans one.\")\n \n\nBut the New York Times adds that \"Those who know humanoid robots best highly recommend against fighting them.\"\n\n\"It's very unfair to put a human in with a heavily motorized system that's only going to dominate,\" said Ken Goldberg, a professor who oversees the automation lab at the University of California, Berkeley. \"There's nothing surprising about that....\" He said he understood the appeal of the fights that Robot Entertainment Kombat (REK) was staging, noting that it tapped \"into some of the fear and frustration with robots that people feel.... I mean, they love to see the human kick the robot's gearbox,\" he said. But the odds of that human fighter getting his gearbox kicked are much greater, Dr. Goldberg said, given that REK's humanoid robots can weigh several hundred pounds and are made of steel. \n\nTo be fair, it looked like sometimes the robot just fell over. (And the robots were human-controlled, not programmed with split-second reactions...) \n\nBut \"Not everyone is a fan,\" adds the Los Angeles Times:\n\nOn Sept. 23, the California State Athletic Commission sent a cease-and-desist order to REK, its CEO Cix Liv and \"all persons holding, promoting, advertising or sponsoring unsanctioned human versus humanoid robot cage fight.\" The letter states that \"any boxing or mixed martial arts contest, match, or exhibition, involving any human in the State of California\" requires the prior approval of the commission and that it is a misdemeanor to hold such an event without obtaining a license or permit from the state. A spokesperson for the California Department of Consumer Affairs, which oversees the CSAC, said in a statement emailed to The Times that the commission is \"committed to protecting the safety of the public and integrity of combat sports.\" \n\n\"Unsanctioned activity puts the physical and financial well-being of all those involved at risk and such activity will not be tolerated,\" the statement said.\n\n\n\n\n\nRead more of this story at Slashdot.",
@@ -179,17 +588,6 @@
     "source_url": "https://lxer.com/"
   },
   {
-    "title": "FSF Criticizes Raspberry Pi DRM Blocking RAM Upgrades",
-    "link": "https://news.slashdot.org/story/26/10/18/0632229/fsf-criticizes-raspberry-pi-drm-blocking-ram-upgrades?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "The Free Software Foundation \"has never supported Raspberry Pi,\" writes their deputy directory Sean O'Brien, \"as it depends on nonfree software for the boot process, leaving an important part of the computer outside the user's control.\" \n\nBut they're now decrying \"an even more intrusive restriction on user freedom\" — the binary-blob bootloader changes that limit your ability to upgrade RAM:\n\n The restriction is not new: the relevant checks were introduced in the device firmware around 2024. However, these hardware handcuffs have only recently received wider attention. Though a user can desolder the original memory and install electrically compatible RAM, the nonfree firmware may refuse to recognize the additional memory, or simply decide not to boot the computer at all. Even replacement RAM of the same capacity can be rejected. \n\nThis is worse than Raspberry Pi's longstanding dependence on nonfree firmware in an important way. It is not only nonfree software, but it is Digital Restrictions Management (DRM), used in this case to prevent the owner of the computer from making a modification that the hardware is otherwise capable of supporting. That distinction matters. Soldered RAM is difficult for most people to replace since it is a physical characteristic of the hardware. In the case of Raspberry Pi boards, users have demonstrated that the hardware itself can be modified successfully.... \n\nRaspberry Pi justifies the use of DRM on the basis of being able to identify altered computers. There may be legitimate reasons for wanting to identify such altered computers. Unscrupulous sellers have reportedly replaced memory on lower-capacity boards and resold them as more expensive models, sometimes using unreliable or defective components. But preventing fraud and maintaining quality does not require taking control away from users. A Raspberry Pi could record its original factory configuration in a cryptographically verifiable form. Raspberry Pi could use free software that warns the user when the installed RAM differs from original factory configuration. Raspberry Pi could provide tools allowing buyers to verify what hardware originally shipped with a board. None of those measures requires a software-enforced limit on what an owner may do with the computer... \n\nIf compatible hardware can be installed successfully, the manufacturer should not create restrictions to prevent the owner from using it. Restrictions on hardware upgrades are deeply troubling from an organization like Raspberry Pi that has stated their commitment to longevity as a guiding principle. Free software is ultimately about who controls the computer. The user should control it, not the manufacturer that sold it.... \n\nThe people who own these computers must also have the freedom to modify, repair, and upgrade them, without restrictions imposed by nonfree software limiting their potential. \n\nHackaday recently argued the restriction was \"no big deal.\" noting there's ways to bypass the restriction\"\n\nThe bootloader is stored in the SPI flash chip, which can be reflashed using the built-in mask ROM over USB and rpiboot, and you are not prevented from flashing older versions of the bootloader, so far... If you have the skills to upgrade your RAM, you most certainly have the skills to downgrade the Raspberry Pi bootloader... \n\nMy advice: don't lament Raspberry Pi RAM upgrades, especially given they're only slightly harder to perform now. Very few hackers ever performed them, the main audience for them turned out to be dodgy hardware resellers online... Think of the users that will no longer be fooled by a shady seller on Amazon, especially now that the perverse incentives for board mods and reusing harvested RAM chips are at their highest.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 18, 2026 11:34",
-    "published_at": "2026-10-18T11:34:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
     "title": "Linux 7.4 Features Very Exciting With Radeon HDMI 2.1 By Default, AMD PerfOpt, Apple M4",
     "link": "https://www.phoronix.com/news/Linux-7.4-Features-Preview",
     "description": "The Linux 7.3 kernel is expected to be released as stable later today and with that version there are many exciting changes and improvements. However, the Linux 7.4 kernel merge window will then open up and there are even more exciting changes expected to be merged for this follow-on kernel cycle. Here is a preview of some of the many exciting feature changes expected for Linux 7.4...",
@@ -218,140 +616,5 @@
     "published_at": "2026-10-18T10:05:40Z",
     "source": "phoronix.com",
     "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Tech Journalist Robert X Cringely Has Died",
-    "link": "https://news.slashdot.org/story/26/10/18/050211/tech-journalist-robert-x-cringely-has-died?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "BoingBoing reports:\nMark Stephens, better known under the pen name Robert X. Cringely, died last week at 73. Stephens chronicled the tech industry of the late 1980s and early 1990s — the age of Bill Gates' rise, Steve Jobs' repose, the dawn of the world wide web — and produced the famed documetary Triumph of the Nerds, based on his own bestselling Accidental Empires: How the Boys of Silicon Valley Make Their Millions, Battle Foreign Competition, and Still Can't Get a Date. \n\nThough not the first InfoWorld columnist to write under the Cringely name, he was responsible for its persona and fought successfully to keep it after he left the magazine in 1995. \n\n\"I loved the man,\" writes Darth Technoid (Slashdot reader #83,199):\n\nI first met him in the 1990s, while he was still working at InfoWorld, and we became friends immediately. He helped me get a job or two, and he was always filled with crazy (meaning really good) ideas. \n\nI'll miss him and his creativity greatly. \n\nCringely answered questions from Slashdot's readers in 2000. And Cringely led an interesting life, as you can tell from Slashdot's January, 2020 story Robert Cringely Attempts an Air-Launching Space Startup:\n\n\"How does a 67-year-old hack with three minor children recover from going blind, losing his home and business in a horrible fire (like 2,000 others, we are still fighting with insurance companies), while appeasing an angry crowd of Kickstarter supporters armed with pitchforks and shovels?\" \n\nThat crowd still wants long-time tech pundit Robert X. Cringely to deliver on his Kickstarter-funded project to create custom Minecraft servers. So in a new blog post this week, Cringely writes that \"I went looking for venture money to recapitalize MineServer and I simultaneously started a satellite launch company to fund my eventual retirement. I am not making this up...\" \n\nHe's now found a Beverly Hills patron who wants to be a co-investor in the Minecraft servers, but \"I will have to earn the matching money on my own, which is what I have been trying to do with my other startup, Eldorado Space.\"\n \n\nSlashdot has often linked to Cringely's commentary over the years, as far back as 1998 and as recently as this summer. (\"Tech Pundit Cringely Co-Founds Startup '2Brains Inc' to Solve LLM Hallucinations.\")\nJuly, 1999: Cringely's take on \"Pirates of Silicon Valley\" April, 2009: Three Mile Island Memories June, 2011: IBM Did Not Invent the Personal ComputerMarch, 2019: Cringely's Final Predictions: Apple Becomes a Financial Service and Hedge Fund June, 2019: Cringely Predicts The End Of Broadcast TV Within A Decade April, 2020: Not Just 'The Death of IT'. Cringely Also Predicts Layoffs For Many IT Contractors January, 2021: Robert Cringley Predicted 'The Death of IT' in 2020. Was He Right? June, 2023: Cringely Predicts Moore's Law Will Continue — Because of AI \n\nBut my favorite Cringely memory is Steve Jobs: The Lost Interview, the full 70-minute interview from 1995 that a 40-year-old Jobs gave to Cringely during filming for Triumph of the Nerds. (\"And they actually sent someone to wake up the Pope....\") There's various pirated copies on YouTube and an online transcript, but only 10 minutes made the broadcast — at the time Jobs was still at NeXT after his departure from Apple. But when Cringely rediscovered the videotape, the entirety of the interview was released to theaters in 2012 six months after Steve Jobs' death. \n\nShare your own memories of Robert Cringely in the comments...\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 18, 2026 07:34",
-    "published_at": "2026-10-18T07:34:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Saudi OpenAI Employee's Arrest Revives Fears US Tech Companies Are Hiring Spies",
-    "link": "https://yro.slashdot.org/story/26/10/18/0323207/saudi-openai-employees-arrest-revives-fears-us-tech-companies-are-hiring-spies?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "That Saudi national working at OpenAI and arrested by the FBI \"has not been charged with foreign espionage,\" writes the Washington Post, \"and the U.S. government has not said whether he was acting alone or as an agent of a foreign government.\" \n\nBut \"there are signs that the U.S. government is exploring the latter possibility,\" they add, citing comments from Chris McGuire, a member of the National Security Council during the Biden administration:\n\nThe Department of Justice's press release about the incident says that the National Security Division's Counterintelligence and Export Control section, whose responsibility includes prosecuting spies, is assisting with the case... A Washington-based Middle East expert, who spoke on the condition of anonymity to avoid incurring wrath from Saudi Arabia, said he believed the Saudi government was almost certainly involved in some way. \"No one does this, not even for patriotism, without getting paid,\" said the person. And money would not be distributed without agreement by the Saudi royal court, he said. The Saudis lag behind their regional rival, the United Arab Emirates, in artificial intelligence development, he added. \n\nFriday America's Director of National Intelligence told CNBC that espionage, \"both commercial espionage, and I would say state-sponsored espionage, are realities. It's something that our private sector companies need to be wary of.\" (And CNBC adds that\"An ex-CIA official, who asked not to be named because they were discussing information that is not public, told CNBC this week that the case is 'probably the tip of the iceberg.'\") \n\nThe suspect had recently said he helped advise government agencies in Saudi Arabia on technology, reports the New York Times:\nIn an Arabic podcast interview last month, Abdulrahman Alfozan, 35, a Saudi national, said he and other Saudi tech professionals in Silicon Valley had formed a group that advised Saudi organizations, including the kingdom's social insurance agency... \n\n\"Silicon Valley is ground zero for espionage from a variety of countries around the world,\" said Amy Zegart, a professor at Stanford University who specializes in national security and intelligence. She added that she was \"troubled\" by the OpenAI incident and expected more cases \"because these companies are so important.\" \n\nThe Washington Post says the arrest \"has ignited a fierce debate about the potential risks of Silicon Valley's international workforce — employees who often hail from nations seeking to rival the AI superpower status of the U.S.\"\n\nForeign nationals have long formed the backbone of the American tech industry, helping U.S. companies surpass their would-be international rivals... As recently as April, Katrina Mulligan, a senior member of OpenAI's national security team, called for an \"accelerated pathway to citizenship\" for such workers, referring to foreign hires as a \"national strategic asset\" at an event on Capitol Hill. She estimated that a significant number of OpenAI's employees were not U.S. citizens, including Chinese nationals. Just half of the 300 top AI researchers in the world, she said, were American. \n\nOther industry leaders — as well as some lawmakers — have long accused top-tier tech companies with many foreign workers of disadvantaging Americans and being breeding grounds for Chinese espionage. Palmer Luckey, CEO of weapons maker Anduril, and venture capitalist Shaun Maguire of Sequoia Capital took to X on Wednesday to revisit arguments that the industry should focus on hiring U.S. citizens. \"Silicon Valley has operated with maximum openness and maximum naivete toward foreign tradecraft,\" Maguire wrote... At OpenAI on Wednesday, employees continued tense conversations about the political implications of the arrest for immigrant workers, two OpenAI employees said, speaking on the condition of anonymity to describe internal discussions... The arrest triggered a discussion on OpenAI's internal Slack messaging platform among employees about whether the incident might increase pressure from the Trump administration on OpenAI to not hire foreign nationals, said one of the people. \n\nIn March, Emil Michael, the Pentagon's chief technology officer, wrote in court papers that AI developer Anthropic's reliance on staff with ties to China was among the concerns that fueled the Defense Department's conflict with the AI company.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 18, 2026 04:34",
-    "published_at": "2026-10-18T04:34:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Linus Torvalds Rejects No-AI Rules as the Linux Kernel Drops Its Assisted-by Tag",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368259",
-    "description": "The Linux kernel is dropping its Assisted-by tag for AI patches. Linus Torvalds answered the pushback with compilers, assembler and a text editor.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368259",
-    "date": "Oct 18, 2026 02:20",
-    "published_at": "2026-10-18T02:20:46Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Woman Arrested After Blocking Delivery Robot to Protest Job Displacements",
-    "link": "https://hardware.slashdot.org/story/26/10/17/2247220/woman-arrested-after-blocking-delivery-robot-to-protest-job-displacements?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "A Philadelphia newscast reports on a grey-haired lady who allegedly refused to move out of the path of a delivery robot as a form of protest because \"I know they're taking the jobs of human delivery workers.\" \n\nShe was arrested, but says her actions were protected speech:\n\nAccording to police, Marvin repeatedly blocked the robot's path and ignored multiple commands from officers to move... Marvin said she was protesting the use of delivery robots because she believes they are replacing human workers.... \"I have been protesting them whenever I saw them by standing in front of them and preventing them from going forward,\" Marvin said... \n\nMarvin said she has confronted delivery robots on multiple occasions... Ashley Baldwin of West Philadelphia said she witnessed one of those encounters. \"I actually thought the robot hit her, so my original question was, 'Are you OK? Did the robot hit you?' And she said, 'No, I have to stop this. They're taking over the world,'\" Baldwin said. \nAsked whether she plans to continue protesting the robots, Marvin said she does. \n\nShe was charged with disorderly conduct. \n\nUber did not respond to their request for a comment.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 18, 2026 01:34",
-    "published_at": "2026-10-18T01:34:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Synchronous Queues For VirtIO-FS Show Huge Performance Potential",
-    "link": "https://www.phoronix.com/news/Synchronous-VirtIO-FS",
-    "description": "VirtIO-FS as the shared file-system for transferring data between guest VMs to/from a host server is showing some promising performance results with pending code for allowing synchronous queues rather than always being asynchronous...",
-    "guid": "https://www.phoronix.com/news/Synchronous-VirtIO-FS",
-    "date": "Oct 18, 2026 00:55",
-    "published_at": "2026-10-18T00:55:35Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Linux Lands Fix for Rare, Varying SMP Boot Hangs Affecting Kernels Since 2024",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368256",
-    "description": "Among the flurry of last minute patch activity ahead of tomorrow's presumed Linux 7.3 stable kernel release is a fix for addressing some rare hangs at boot time. The reports varied but ultimately tracked down to a kernel change made two years ago...",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368256",
-    "date": "Oct 18, 2026 00:49",
-    "published_at": "2026-10-18T00:49:16Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "GNOME 50.6 Desktop Environment Released with Fixes for Nautilus, GNOME Shell",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368260",
-    "description": "The GNOME Project released GNOME 50.6 as the sixth maintenance update to the latest GNOME 50 “Tokyo” desktop environment series to fix more bugs across various core apps and components.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368260",
-    "date": "Oct 17, 2026 23:17",
-    "published_at": "2026-10-17T23:17:47Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Does a Universal Basic Income Bring Long-Term Changes?",
-    "link": "https://yro.slashdot.org/story/26/10/17/1915216/does-a-universal-basic-income-bring-long-term-changes?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "For more than a year, The New York Times followed recipients of a universal basic income program who received $1,330 a month for an entire year. \n\nThere were benefits, but also the everyday challenges of being poor, and turning their life around \"did not turn out to be quite that simple.\"\n\n\nAcross Silicon Valley, experimental guaranteed income programs have quietly taken off. Google began funding six different initiatives in 2022 as part of a $50 million donation to nonprofits in the San Francisco Bay Area, saying basic income could be a novel way to prevent homelessness in one of the nation's most expensive locations. Each program has hundreds of participants who receive around $1,000 a month, and academics study the results. State and federal tax laws limit the lengths of the programs and the payment amounts. \n\nThe studies have found that most basic income programs improve short-term employment and mental health while reducing food insecurity. But while data from these efforts has been closely tracked, less is known about the individual journeys of participants... The Times ultimately shadowed three people... All of the program participants, including the ones The Times followed, were previously homeless and transitioning off a housing stipend that paid for a portion of their rent, and many received the payments on top of other social assistance like food stamps. \n\nThe Times's findings mirrored the academic studies. For all three recipients, the instant benefits of basic income were clear: They had breathing room for groceries, rent and other expenses. But the success of the payments in another area — giving people more free time and opportunity in the long term — was mixed. \"It's a lot to ask of someone to get their life together in 12 months, when a lot of these issues are structural or systemic,\" said Jennifer Loving, who runs Destination: Home, a nonprofit that administers basic income programs in Silicon Valley. \"And the world around them isn't getting cheaper.\" \n\nOne recipient began going to community college — but resorted to taking one class at a time while single parenting — and using their monthly payments to help support relatives. In fact, the article notes that a recent study of 3,000 universal basic income participants found that money spent supporting friends and family increased 26%, \"the most of any category. That was more than the increases for food (6%) and child care (11%).\" \n\nAnother recipient used the time to get help at a community college to find a higher-paying job. And one recipient died — but his mother used what he'd saved to help put his brother through a drug rehab program.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 17, 2026 23:00",
-    "published_at": "2026-10-17T23:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "ReactOS Can Now Be Installed \u0026 Used With Its NTFS Driver",
-    "link": "https://www.phoronix.com/news/ReactOS-NTFS-Driver",
-    "description": "The ReactOS open-source operating system has seen its NTFS file-system driver mature to the point that it can be finally used for installing and using ReactOS with it. NTFS formatting support is also finally now possible with this driver too...",
-    "guid": "https://www.phoronix.com/news/ReactOS-NTFS-Driver",
-    "date": "Oct 17, 2026 22:01",
-    "published_at": "2026-10-17T22:01:16Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Court Agrees with EFF: Utah's VPN Law Demands a Technical Impossibility",
-    "link": "https://yro.slashdot.org/story/26/10/17/2153207/court-agrees-with-eff-utahs-vpn-law-demands-a-technical-impossibility?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "\"When state lawmakers attempt to rewrite how the internet works,\" argues an EFF blog post, \"users rely on courts to recognize that laws can't make technical impossibilities a reality.\" \n\n\"That's why we were happy to see that a court has blocked Utah's attempt to outlaw the privacy protections of Virtual Private Networks (VPNs).\"\n\nIn a win for digital rights, a federal judge has issued a preliminary injunction blocking Utah's SB 73, the state's draconian anti-VPN age verification law... Signed into law earlier this year, SB 73 attempted to regulate adult websites by requiring them to block VPN users or to identify the physical location of visitors using them or similar tools that mask their network traffic. It even went so far as to prohibit websites from offering instructions on how to use a VPN to bypass these checks. This made Utah, to EFF's knowledge, the first state in the nation to target the use of VPNs to avoid legally mandated age-verification gates. The Utah federal court halted enforcement of the law's VPN provisions last week, ruling that the law likely violates the U.S. Constitution's prohibition on passing laws that significantly burden businesses and people outside Utah's borders. \nSB 73 burdens the rights of all internet users outside of Utah because it requires adult websites to either know every visiting user's physical location, and then block those in Utah, or to verify every visitor's age just in case they might be in Utah. The law's \"actual-location provision in practice requires an entity to perform age verification services for every user visiting its site from any location because the entity would violate the law if even one of those users happened to be obfuscating,\" the court wrote. The court essentially ruled that Utah has less-burdensome ways to prevent Utah minors from accessing adult websites than requiring all users in the world to comply with SB 73. \n\nEFF's position is that \"forcing platforms to detect and block privacy-preserving tools undermines user privacy and security worldwide while demanding the impossible.\" \n\nBut there's another problem, explained an EFF email this week. \"Age verification laws that are predicated on users possessing identity documents exclude critical sections of populations. And this problem is global in nature: Millions of people lack government-issued identification or encounter regular challenges to obtaining or updating it....\"\n\nEvery site-blocking bill has the same rotten idea at their core: That enforcing copyrights requires building a censorship machine for websites into the architecture of the internet. This is, of course, a disaster for a free and open web. These proposals keep coming, but there is still no way to create a mechanism for blocking access to an entire website that does not invite both deliberate abuse and lots of collateral harm to free and lawful speech. \n\n\nEFF has declared this month \"Opt Out October,\" and each day they're offering new guides on how to \"stand our ground and take control over what happens with our data.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 17, 2026 22:00",
-    "published_at": "2026-10-17T22:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "ZimaOS Is a Linux-Based NAS OS That Makes Self-Hosting Easier",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368255",
-    "description": "Meet ZimaOS, a Linux-based NAS operating system that simplifies file storage, backups, Docker apps, and home server management.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368255",
-    "date": "Oct 17, 2026 21:46",
-    "published_at": "2026-10-17T21:46:17Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "MeshXFS: AI Adapts XFS Into A Clustered File-System",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368261",
-    "description": "MeshXFS is a clustered open-source file-system in which \"no human wrote any of its own code\". Depending upon your views of AI, not necessarily something you want to hear for entrusting your data in an AI-created solution. Instead, Claude Opus was tasked with adapting the XFS file-system driver into a clustered file-system...",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368261",
-    "date": "Oct 17, 2026 20:14",
-    "published_at": "2026-10-17T20:14:48Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Ubuntu Touch OTA 2.1 Rolls Out with Support for Volla Tablet, Various Updates",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368250",
-    "description": "The UBports Foundation released Ubuntu Touch OTA 2.1 today as a minor update to this open-source and free mobile operating system for smartphones and tablets.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368250",
-    "date": "Oct 17, 2026 18:43",
-    "published_at": "2026-10-17T18:43:18Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
   }
 ]
