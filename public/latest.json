@@ -1,5 +1,131 @@
 [
   {
+    "title": "How to Disable On Screen Keyboard on SDDM Login Screen in EndeavourOS KDE Plasma",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368309",
+    "description": "In this video, I show how to disable the automatic on-screen keyboard on the KDE Plasma SDDM login screen.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368309",
+    "date": "Oct 20, 2026 02:27",
+    "published_at": "2026-10-20T02:27:10Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "AMD GAIA 0.25 Brings Several Improvements For Local AI Agents On Ryzen AI",
+    "link": "https://www.phoronix.com/news/AMD-GAIA-0.25-Released",
+    "description": "AMD GAIA 0.25 is out this week as the latest feature release for this open-source project that began as \"Generative AI Is Awesome\" and is now going on a tag line of \"AMD's open-source agent factory\" in building/using local AI agents on AMD Ryzen AI hardware...",
+    "guid": "https://www.phoronix.com/news/AMD-GAIA-0.25-Released",
+    "date": "Oct 20, 2026 00:25",
+    "published_at": "2026-10-20T00:25:41Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Professor Calls To Abolish Business Schools For Failing Society",
+    "link": "https://news.slashdot.org/story/26/10/19/2126207/professor-calls-to-abolish-business-schools-for-failing-society?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "joshuark writes: Professor Christopher Marquis makes a provocative argument about business schools: \"We need to abolish them.\" A 20-year business educator at Harvard, Cornell and Cambridge, Marquis argues in The New York Times and on LinkedIn that MBA programs sanctify profit-driven dealmaking at the expense of public life. \"That's not the institution failing,\" he writes. \"Sadly, it's the institution working.\" \"Business school doesn't just hand out skills and a network,\" argues Marquis, \"it quietly reshapes how people see the world, rewarding dealmaking, simplification, and optimization for financial metrics, while workers and communities become afterthoughts.\"\n \nMarquis points to research suggesting that business-school-trained CEOs often benefit shareholders at the expense of workers, without delivering measurable improvements in company performance... \"[W]hen a business-school-trained CEO takes over a firm, wages fall and labor's share of income drops, with no gain in productivity,\" writes Marquis. \"In both the U.S. and Denmark, what passes for the 'managerial skill' of business-school graduates turns out to be a transfer of wealth away from workers and toward shareholders. Students deserve better than a machine that narrows their sense of what's possible.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 19, 2026 23:00",
+    "published_at": "2026-10-19T23:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "TP-Link Moves to Assemble Routers In the US Following Import Ban",
+    "link": "https://mobile.slashdot.org/story/26/10/19/211219/tp-link-moves-to-assemble-routers-in-the-us-following-import-ban?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "TP-Link plans to begin assembling routers in Mississippi as early as 2027 after the FCC banned imports of new foreign-made consumer routers over security concerns. Engadget reports: The company has signed a letter of intent with manufacturer Key Tronic and, pending approval from regulators, TP-Link says stateside assembly of its routers could start at a Mississippi production line as soon as early 2027.\n \nOnce things are up and running, Wi-Fi 8 routers are expected to be among the first TP-Link products that Key Tronic assembles. TP-Link claims that the agreement is part of its \"long-term effort to accelerate US investment in high-tech manufacturing and job creation, designing and assembling next-generation products for American consumers here on American soil.\"\n \nThe company said it will still have to source components from outside the US. \"Many [components] are just not available from a domestic source, and this is not a TP-Link issue,\" TP-Link's corporate affairs officer Steve Kovsky told PC Mag. \"This is an issue for all manufacturers that are trying to onshore manufacturing.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 19, 2026 22:00",
+    "published_at": "2026-10-19T22:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Linux 7.4 Sunsetting Old EDAC Drivers Due To \"AI Generated Fixes Frenzy\"",
+    "link": "https://www.phoronix.com/news/Linux-7.4-EDAC",
+    "description": "In addition to introducing the new Intel BFF driver, the Error Detection And Correction \"EDAC\" kernel subsystem is sunsetting a number of old hardware drivers due to increased noise to AI/LLM-generated bug fixes for these likely unused or minimally used drivers...",
+    "guid": "https://www.phoronix.com/news/Linux-7.4-EDAC",
+    "date": "Oct 19, 2026 21:38",
+    "published_at": "2026-10-19T21:38:28Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Linux Kernel 7.3 Is Out with New FailFS, Scheduler Changes, and More",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368286",
+    "description": "Linux 7.3 introduces the FailFS filesystem, an overhauled CPU scheduler, OverlayFS improvements, and expanded Rust and hardware support.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368286",
+    "date": "Oct 19, 2026 21:02",
+    "published_at": "2026-10-19T21:02:25Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Trump DHS Officials Asked CISA To Secretly Aquire and Hack a Voting Machine",
+    "link": "https://politics.slashdot.org/story/26/10/19/2055248/trump-dhs-officials-asked-cisa-to-secretly-aquire-and-hack-a-voting-machine?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Longtime Slashdot reader fahrbot-bot shares a report from ProPublica: A few months into President Donald Trump's second term, political appointees at the Department of Homeland Security (DHS) wanted Cybersecurity and Infrastructure Security Agency (CISA) to secretly acquire a voting machine and hack it. The appointees wanted the Cybersecurity and Infrastructure Security Agency to procure the machine, examine it and report back the findings so they could be given to the White House, according to two former administration officials with knowledge of the request.\n \nThe proposition was shocking to CISA's career staffers, according to one of the former officials. CISA typically worked to thwart hackers. Moreover, the agency had been directed not to alert the voting machine company if it uncovered flaws, contrary to its standard practices. The request made the CISA employees fear they were being asked to take part in political interference. \"My thought was they could keep it in their back pocket to invalidate any [election] results they don't like,\" one of the former officials said. \"This goes against everything CISA represents.\" [Or, perhaps do something worse?]\n \nThe CISA employees repeatedly told the political appointees that their request was impossible, in part because the agents capable of pulling off such an operation had just been laid off by Elon Musk's Department of Government Efficiency (DOGE) initiative. The appointees eventually stopped pressing CISA. Though not acted on, the request shows how the Trump administration has tried to use the agency for its own ends while draining it of resources for one of its critical missions: protecting the nation's voting systems.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 19, 2026 21:00",
+    "published_at": "2026-10-19T21:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "A Hacker Broke Into John Deere, SharkNinja With an Army of AI Agents",
+    "link": "https://it.slashdot.org/story/26/10/19/1746204/a-hacker-broke-into-john-deere-sharkninja-with-an-army-of-ai-agents?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from The Verge: A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge. Though Norforge doesn't name the targets, Reuters reports that the victims included companies like John Deere, SharkNinja, and Cummins.\n \n[...] Researchers at Norforge uncovered the attacks through exposed work on Cairn, an open-source AI platform that describes itself as a \"general-purpose problem-solving engine.\" With Cairn, users set a start and end point for the AI agents, which document their progress as they move forward with the task. However, as noted by Norforge, hackers can also use the tool to orchestrate cyberattacks using AI agents.\n \nThe hacker who broke into more than 100 sites was the \"most active\" among the exposed Cairn instances discovered by Norforge, waging attacks on companies based in the US, Canada, Australia, and Japan, as reported by Reuters. This attacker laid out \"preferred intrusion tactics\" using fewer than 100 Chinese characters, with successful breaches taking about 23 hours, according to Reuters. Overall, Nordforge found more than 20 exposed Cairn instances that are \"likely malicious.\" A John Deere spokesperson said there is \"no indication that sensitive information was accessed\" as a result of the attack, while Cummins said it's \"investigating the report of a potential cyber-attack on a website operated by one of our third-party vendors.\"\n \nMeanwhile, SharkNinja says the breach impacted a standalone site with product support information, and that it has contained the threat.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 19, 2026 20:00",
+    "published_at": "2026-10-19T20:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Apple Announces October 28 'Pro and Tell' Event",
+    "link": "https://hardware.slashdot.org/story/26/10/19/1737252/apple-announces-october-28-pro-and-tell-event?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Following its October 13 HomeView launch, Apple is gearing up for its second hardware event of the month. The event is scheduled for October 28 in Los Angeles and carries the tagline \"Pro and tell.\" 9to5Mac reports: Rumors say Apple has a slew of new products to announce at its next event, headlining by its first MacBook Pro with a touchscreen and OLED. According to Bloomberg's Mark Gurman, here's what's on the docket: \n- New 14-inch and 16-inch touchscreen MacBook Pro models with OLED displays. They will also have a Dynamic Island for the first time and will be \"significantly lighter\" than the current models. The new MacBook Pro models are expected to be powered by the M5 Pro and M5 Max chips.\n- A revamped iPad mini with an OLED screen, a \"revamped speaker system,\" and a relocated FaceTime camera\n- New iMac and entry-level 14-inch MacBook Pro models powered by the M6 chip, which will \"look like their current versions.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 19, 2026 19:30",
+    "published_at": "2026-10-19T19:30:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Linux Plumbers Conference videos now available",
+    "link": "https://lwn.net/Articles/1101483/",
+    "description": "Mike Rapoport has announced\nthe release of the video recordings from the 2026 Linux Plumbers Conference (LPC),\nwhich was held in Prague from October 5 through October 7. Find the\ncomplete set via the YouTube playlist\nor look for the video links in the schedule. See also LWN's\ncoverage\nof talks from LPC.",
+    "guid": "https://lwn.net/Articles/1101483/",
+    "date": "Oct 19, 2026 19:04",
+    "published_at": "2026-10-19T19:04:55Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "Florida DMV Hacked After Police Dept Insecurely Stored Login Info",
+    "link": "https://yro.slashdot.org/story/26/10/19/1726218/florida-dmv-hacked-after-police-dept-insecurely-stored-login-info?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Florida's DMV says a September 4 breach exposed driver's license and motor vehicle records after attackers obtained credentials that a local law-enforcement employee had \"improperly stored on an electronic device.\" The ShinyHunters group has been linked to the intrusion. Ars Technica reports: In a notice posted Friday, [Florida Department of Highway Safety and Motor Vehicles (FLHSMV)] confirmed that it took \"immediate steps\" after discovering that \"a malicious actor accessed certain department records on September 4, 2026, using compromised credentials.\" There's \"no evidence\" that data has yet been misused, the department said, but law enforcement \"determined the information potentially affected includes driver license and motor vehicle data, to include document images, and other personal information.\"\n \n[...] On a webpage describing the security incident, FLHSMV confirmed that an \"international cybercriminal organization\" was behind the breach but did not specify which group or how long they had access. Instead, officials claimed to have \"promptly mitigated the breach, launched an investigation, and issued required notification to state authorities.\" Mitigations included \"blocking unauthorized access, resetting relevant user credentials, engaging cybersecurity professionals, and implementing additional safeguards to protect sensitive information,\" FLHSMV said. Florida's investigation is \"ongoing,\" officials said, but a cybercriminal group called ShinyHunters -- which recently claimed credit for hacking the FBI -- may have stolen the data. Florida residents affected by the breach will receive a letter offering one year of free credit monitoring through Sontiq, Inc. Those whose contact information is outdated can email the FLHSMV at customerinquiry@flhsmv.gov to determine whether their data was compromised.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 19, 2026 19:00",
+    "published_at": "2026-10-19T19:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Btrfs Brings More Performance Improvements For Linux 7.4",
+    "link": "https://www.phoronix.com/news/Linux-7.4-Btrfs",
+    "description": "With Linux 7.3 there are some nice Btrfs performance improvements to enjoy while the in-development Linux 7.4 kernel is set to bring some additional performance optimizations for this copy-on-write file-system...",
+    "guid": "https://www.phoronix.com/news/Linux-7.4-Btrfs",
+    "date": "Oct 19, 2026 18:17",
+    "published_at": "2026-10-19T18:17:17Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
     "title": "Elon Musk Vows To Give a SpaceX Share To 'Every Kid In America'",
     "link": "https://news.slashdot.org/story/26/10/19/1721258/elon-musk-vows-to-give-a-spacex-share-to-every-kid-in-america?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
     "description": "An anonymous reader quotes a report from CNN: Elon Musk has said he will give every child in America a stake in SpaceX, his $2 trillion aerospace and artificial intelligence company, as tech firms face intensifying scrutiny over their impact on society. \"Next year, I will give one of my SpaceX shares to every kid in America,\" he wrote on X on Monday. \"This will be the first of many.\"\n \nSpaceX only began trading publicly in June (and after the biggest initial public offering in history). The company's shares were trading for about $146 when the market closed on Friday. Musk's proposal was thin on detail. It is not clear how those shares would be distributed to the tens of millions of American children or whether all of them would even be eligible. According to the United States Census Bureau, there are roughly 73 million people under the age of 18, making Musk's potential giveaway worth about $10.7 billion at SpaceX's current share price. The move came in response to Anthropic's announcement on Sunday that it will commit at least 5% of its shares to a \"Public Benefit Fund\" that will donate money to social causes. \"I recommend giving the shares directly to the public,\" Musk said in a reply to Anthropic's announcement. \"This is what I will be doing.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
@@ -206,6 +332,16 @@
     "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
     "source": "slashdot.org",
     "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Omarchy Gets The Web Browser Launching Faster By Avoiding XDG Overhead",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368270",
+    "description": "Omarchy 4.0.5 released this weeekend as the newest version of this Arch Linux based distribution built around the Hyprland desktop. Omarchy 4.0.5 pulls in the latest Linux 7.2 stable kernel with BORE scheduler, updates against the Qt 6.12 toolkit, and a variety of smaller improvements...",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368270",
+    "date": "Oct 19, 2026 11:33",
+    "published_at": "2026-10-19T11:33:02Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
   },
   {
     "title": "People Are Using AI to Get Rid of Smart TV Ads and Make Their TVs Faster",
@@ -462,17 +598,6 @@
     "source_url": "https://slashdot.org/"
   },
   {
-    "title": "Researchers Discover How To Lead Dying Coral Reefs To a 'Fast And Full Recovery'",
-    "link": "https://science.slashdot.org/story/26/10/18/2016240/researchers-discover-how-to-lead-dying-coral-reefs-to-a-fast-and-full-recovery?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Gizmodo reports:\n\n\n\nRoughly 84.4% of the world's coral reefs suffered bleaching-levels of heat stress during the last major marine heat wave from January 2023 to September 2025, with over half already lost compared to coral coverage in the 1950s... But there's some good news, thanks to a new study published this Wednesday in the journal Science Advances: Marine ecologists at Stanford have discovered that bleached corals can be revived via contact with a healthy coral neighbor, who (like a good neighbor) shares their photosynthetic, symbiotic algae (Symbiodiniaceae) with their peers. \n\n\"This incredible new result — that fast and full recovery is possible in bleached coral — can inspire solutions that eventually may be scalable,\" [Fiorenza Micheli, a marine ecologist with Stanford's Center for Ocean Solutions and study co-author, told the journal Nature]... Unlike their controls, bleached coral in contact with healthy coral recovered in just eight weeks... [T]he surprise discovery of this method alongside the other techniques that marine conservationists are now actively pursuing — including the successful deep-freezing and revival of at-risk coral sampled from Hawaii — could offer threatened reefs the lifeline they need. Coral contact could super-charge other efforts, like the selective breeding of heat-tolerant corals and the cultivation of protected coral nurseries\n\n\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 18, 2026 20:24",
-    "published_at": "2026-10-18T20:24:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
     "title": "GNOME 51.1 Improves Drag and Drop Between Wayland and Xwayland Clients",
     "link": "https://lxer.com/module/newswire/ext_link.php?rid=368268",
     "description": "The GNOME project released GNOME 51.1 today as the first point release in the latest GNOME 51 desktop environment series to fix bugs, update translations, and add a few enhancements.",
@@ -481,140 +606,5 @@
     "published_at": "2026-10-18T19:56:58Z",
     "source": "lxer.com",
     "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Websites Are Closing Their Doors to AI Agents",
-    "link": "https://slashdot.org/story/26/10/18/1715218/websites-are-closing-their-doors-to-ai-agents?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "The Verge reports:\n\nOpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. But what happens when the rest of the internet won't play nice? \n\nIn recent weeks, users of services like Meta's Muse, xAI's Grok, OpenAI's Dots, and Instinct have reported blocks preventing their AI agents from performing tasks across top websites. Yelp told TechCrunch that it only allows AI agents that pay for its data licensing program, while Delta Air Lines is preventing them from booking tickets on behalf of users. JPMorgan Chase and Charles Schwab have also confirmed that they're blocking AI agents from accessing accounts due to security concerns. Some users say sites that previously worked with their AI agent are no longer accessible, including Cars.com and Amtrak, suggesting other companies could be quietly blocking them.... \n\n\nMuse, Meta's deceptively cute AI assistant, most recently faced the wrath of Amazon, which said its \"continued access\" violates its site policies. There are reports of xAI's Grok, Instinct's AI agent, and OpenAI's Dots being unable to use Amazon as well. xAI owner Elon Musk responded by saying that maybe he \"should start a competitor to Amazon.\" The more places bots struggle to access, the greater the questions about how useful they are.... \n\n\n\n\nInstead of trying to fight Amazon, [Meta] has partnered with retailers like Walmart, Gap, Sephora, Best Buy, and others, allowing Muse to shop on their sites. At the same time, Shopify has also opened its network of storefronts to AI agents.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 18, 2026 19:24",
-    "published_at": "2026-10-18T19:24:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Fedora Linux 45 Delayed, New Release Date Set for October 27",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368263",
-    "description": "Fedora developers have postponed Fedora Linux 45 until October 27 after no suitable final release candidate was available for evaluation.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368263",
-    "date": "Oct 18, 2026 18:25",
-    "published_at": "2026-10-18T18:25:29Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "More Details on Arrested Saudi OpenAI Employee, Who is Seeking Release on Bail",
-    "link": "https://yro.slashdot.org/story/26/10/18/0318232/more-details-on-arrested-saudi-openai-employee-who-is-seeking-release-on-bail?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "More details are emerging about Saudi OpenAI employee Abdulrahman Alfozan, who was arrested by the FBI for allegedly planting a recording device in an executive conference room. Previously Alfozan \"was an engineer at Meta,\" notes the New York Times, \"before joining a start-up that went through Y Combinator, the Silicon Valley start-up accelerator. He gained permanent residency status in the United States in 2020, according to court documents, and was hired by OpenAI in July 2025.\" \n\n\n14 months later the conference room recording device was inserted in a USB port on the back of a television, and then concealed in toilet paper, according to a statement from America's Justice Department. (There's even a photo of a device — and a photo of Alfozan entering the executive conference room and appearing to look behind the television where the device was inserted.) The FBI's says a chatbot account associated with Alfozan's spouse showed prompts asking about installing and obfuscating a recording device. And the complaint alleges that OpenAI security personnel also found a bag Alfozan left in a different room which contained his wallet, his ID, and another recording device. \n\nDiscussions in that room included \"highly confidential technical, commercial, and strategic information, including proprietary research,\" according to the FBI, \"as well as nonpublic information about Open AI's technical progress and strategic decisions...\" \n\n\"If convicted, Alfozan faces a maximum penalty of 5 years in prison and a $250,000 fine, followed by 3 years of supervised release.\" \nFriday Alfozan's lawyersrequested his release from custody, saying Alfozan agrees to wear an ankle monitor, remain at home, surrender his passport and \"not possess any covert audio or video recording or surveillance device.\" They argue that the one-way ticket he'd purchased to Saudi Arabia just continues a long-standing habit of buying one-way tickets over the years for air travel, since his tech career often involves last-minute changes to meeting schedules, and \"70% of the airline bookings in his email since January 2021 (96 of 138) were one-way tickets.\" \n\nHis lawyers also presented 46 letters of support, including letters from former Meta colleagues, ten company founders and chief executives, and more than a dozen engineers and engineering managers.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 18, 2026 17:34",
-    "published_at": "2026-10-18T17:34:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "This Week in Tech: AI Gets Bigger, Gadgets Get Smarter, and Security Risks Mount",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368240",
-    "description": "This Week in Tech: AI Gets Bigger, Gadgets Get Smarter, and Security Risks Mount appeared first on TechRepublic.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368240",
-    "date": "Oct 18, 2026 16:53",
-    "published_at": "2026-10-18T16:53:59Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "LinkedIn Fights AI Slop, Now 40% of Its Long-Form Posts",
-    "link": "https://tech.slashdot.org/story/26/10/18/1553202/linkedin-fights-ai-slop-now-40-of-its-long-form-posts?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "\"Even LinkedIn is getting tired of your AI-written posts,\" writes CNN, reporting that the Microsoft-owned, job-oriented social media site \"is upping its fight against slop.\"\nA report published in July by Pangram, a research firm that tracks AI content online, found that more than 40% of long-form posts on the platform were AI-generated, compared to around 30% on X and Medium and a smaller percentage on Reddit and Substack.... LinkedIn previously offered AI tools to edit or rewrite posts, although it recently scaled the offerings back. But low-quality AI posts are a business problem for LinkedIn. They all start to sound the same, [according to LinkedIn Editor-in-Chief Dan Roth Roth]. If users see too many generic AI posts, instead of content that really teaches them something or gives them a deeper understanding of a professional connection, LinkedIn risks losing them to other platforms. \n\nIn August, LinkedIn rolled out a button letting users flag when a post \"seems like AI slop,\" which was clicked more than 1 million times within its first two weeks. Now, the company is trying to use its own AI systems to help weed out AI slop on the platform and to remind LinkedIn users how to post like humans. The company built a team largely made up of former journalists and social media experts who have an eye for recognizing generic, sloppy content. These experts help train LinkedIn's AI model on what authentic, useful posts look like. If the model flags a post as low-quality, AI-generated content, it'll be less likely to be distributed beyond that user's direct connections. \nAlso key to the strategy is a creator management team that acts as \"content therapists\" for executives, subject matter experts and other LinkedIn users, many of whom have gotten accustomed to the convenience of using AI to write what, on the surface, appear to be polished posts, Roth said. \"A lot of times now today, they'll run it through Claude or Gemini or wherever, they'll post it on LinkedIn and it will perform poorly. And then they come to the team and they're like, 'Why did this do badly?'\" Roth said. \"And the best thing you can do is give it back to them and be like, 'Did you enjoy reading this? Do you see yourself in this?\" \nThe efforts are showing early signs of success. Improvements to LinkedIn's detection systems have resulted in a 40% decline in views of content classified as AI slop, the platform said last month. That's not to say LinkedIn is entirely opposed to AI, Roth said, adding that \"not everyone is a born communicator.\" But failing to edit or personalize content means it's less likely to reach a wide audience on the platform.\n\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 18, 2026 16:34",
-    "published_at": "2026-10-18T16:34:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Programming Language Popularity Increases for R, Julia, and Rust (but Not Go)",
-    "link": "https://developers.slashdot.org/story/26/10/18/0547202/programming-language-popularity-increases-for-r-julia-and-rust-but-not-go?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "TechRepublic reports:\n\n\nThe TIOBE Index is a monthly indicator of programming-language popularity based on factors including skilled engineers, courses, and third-party vendors. The October 2026 rankings show a largely stable top 10, with R overtaking SQL and Julia returning to the top 20 for the first time in three years. [SQL has risen to #9 from #10 in October of 2025 — back when R ranked only #13.] \n\nPython remains No. 1, followed by C, C++, Java, C#, and JavaScript, while Rust holds its No. 10 position. [A year ago Rust ranked only #16.] Outside the top 10, Julia climbs from No. 21 to No. 18, and TIOBE introduces Mandarin Chinese search terms into its methodology to broaden the index's geographic representation. \n\nDropping out of the top ten is Go, which fell from #8 in October of 2025 to #11. And Delphi/Object Pascal has plummeted from #9 to #19. \n\nTIOBE CEO Paul Jansen argues that Julia's growing popularity \"is largely driven by the demand for modern programming languages that combine high performance with ease of learning, particularly for numerical computing.\"\n\n Python offers an accessible, high-level approach to numerical computing, but performance can become a bottleneck. C++, on the other hand, delivers excellent performance but comes with a steeper learning curve and a lower level of abstraction. Julia aims to bridge this gap by combining the best of both worlds... \n\nApart from Julia, two other languages are knocking on the door of the TIOBE top 20: Dart and OCaml. Dart jumps from #41 to #27 this month. Thanks to its popular UI toolkit Flutter, Dart has been hovering around the edge of the top 20 for quite some time. OCaml, on the other hand, might come as a surprise. It jumps from #38 to #26 this month, driven in part by its growing use in real-time trading systems and parsing technology.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 18, 2026 15:34",
-    "published_at": "2026-10-18T15:34:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "LILYGO T5 e-Paper Basic Adopts 4.7-Inch Display for Embedded Projects",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368266",
-    "description": "LILYGO’s latest e-paper development board pairs an ESP32-S3 with a 4.7-inch display offering 960 × 540 resolution and 16-level grayscale. The board also includes battery monitoring, removable storage, and Wi-Fi and BLE connectivity for portable information displays and wireless embedded projects. The board is powered by an ESP32-S3 microcontroller with a dual-core Xtensa LX7 processor […]",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368266",
-    "date": "Oct 18, 2026 15:22",
-    "published_at": "2026-10-18T15:22:30Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Releasing Palm OS Archive, Developer Rediscovers Working Virus After 25 Years",
-    "link": "https://mobile.slashdot.org/story/26/10/18/002223/releasing-palm-os-archive-developer-rediscovers-working-virus-after-25-years?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Long-time Slashdot reader ardiri remembers his days writing applications for the Palm OS. And he's now released approximately 1.5 GB of historical Palm OS development resources, \"accumulated during the early days of handheld computing and preserved on hard drive backups for more than 25 years... to preserve the tools and knowledge that helped define an important era of personal computing.\"\n\nThe collection includes historical SDKs, developer conference presentations, technical documentation, programming examples, limited source code, and development utilities. (ROM images, commercial applications, and simulator binaries have deliberately been excluded....) Making a broader collection of development resources available to the retrocomputing community, the archive is available at GitHub.com/ardiri/dev-palmos and is intended for historical preservation, education, and research, particularly as enthusiasts continue working to maintain, emulate, and revive the platform... Ardiri has also written an auto-biography and has started explored the engineering principles behind these systems in his books. \n\nAnd somewhere along the way, Ardiri rediscovered the original source code for \"The Palm OS Virus That Never Was — Lost for 25 Years, Found in 2026.\" Lurking on a CompactFlash card containing files dated June 2001, he found the self-replicating Palm OS virus that he'd developed and tested in June 2001, months before the planned PalmSource developer conference in San Jose.\nNamed 'Virii,' the virus intercepted Palm OS system calls to progressively infect legitimate applications while preserving their original functionality. Infected applications could then spread between handheld devices through infrared beaming, potentially allowing an infection to propagate among hundreds of developers exchanging software at the conference. The virus also included a date-triggered payload designed to interfere with system time reporting between October 23 and 27, 2001, potentially causing erratic clocks, unreliable alarms, and missed appointments. \n\nHe promises the functional source code and binaries will remain private.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 18, 2026 14:34",
-    "published_at": "2026-10-18T14:34:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "It Turns Out Intel TDX Doesn't Need So Much Cache Flushing",
-    "link": "https://www.phoronix.com/news/Intel-TDX-Less-Cache-Flushing",
-    "description": "Intel Trust Domain Extensions (TDX) for confidential computing with VMs has assumed the need to perform cache flushing when transitioning memory between KeyIDs used by the total memory encryption (MKTME) for unique AES encryption keys. But it's turned out to be unneeded and the Linux kernel is working now to reduce the excessive cache flushing...",
-    "guid": "https://www.phoronix.com/news/Intel-TDX-Less-Cache-Flushing",
-    "date": "Oct 18, 2026 13:53",
-    "published_at": "2026-10-18T13:53:24Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Omarchy 4.0.5 Released with Linux Kernel 7.2.8, Better Hardware Support",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368269",
-    "description": "Omarchy 4.0.5 ships with Linux kernel 7.2.8, Qt 6.12 compatibility fixes, desktop performance improvements, and better support for NVIDIA laptops and audio devices.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368269",
-    "date": "Oct 18, 2026 13:51",
-    "published_at": "2026-10-18T13:51:00Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Linux 7.4 Features Very Exciting With Radeon HDMI 2.1 By Default, AMD PerfOpt, Apple M4",
-    "link": "https://www.phoronix.com/news/Linux-7.4-Features-Preview",
-    "description": "The Linux 7.3 kernel is expected to be released as stable later today and with that version there are many exciting changes and improvements. However, the Linux 7.4 kernel merge window will then open up and there are even more exciting changes expected to be merged for this follow-on kernel cycle. Here is a preview of some of the many exciting feature changes expected for Linux 7.4...",
-    "guid": "https://www.phoronix.com/news/Linux-7.4-Features-Preview",
-    "date": "Oct 18, 2026 10:50",
-    "published_at": "2026-10-18T10:50:00Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Omarchy Gets The Web Browser Launching Faster By Avoiding XDG Overhead",
-    "link": "https://www.phoronix.com/news/Omarchy-Faster-Web-Browser",
-    "description": "Omarchy 4.0.5 released this weekend as the newest version of this Arch Linux based distribution built around the Hyprland desktop. Omarchy 4.0.5 pulls in the latest Linux 7.2 stable kernel with BORE scheduler, updates against the Qt 6.12 toolkit, and a variety of smaller improvements...",
-    "guid": "https://www.phoronix.com/news/Omarchy-Faster-Web-Browser",
-    "date": "Oct 18, 2026 10:23",
-    "published_at": "2026-10-18T10:23:00Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Servo Gets CSS Grid Working, Threadboost Offering Big Speed-Ups",
-    "link": "https://www.phoronix.com/news/Servo-0.6-Changes",
-    "description": "Servo's August status report has finally appeared for outlining progress made on this open-source, Rust-based browser engine. This follows the recent release of the Servo 0.6 software, including the Servoshell demo browser...",
-    "guid": "https://www.phoronix.com/news/Servo-0.6-Changes",
-    "date": "Oct 18, 2026 10:05",
-    "published_at": "2026-10-18T10:05:40Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
   }
 ]
