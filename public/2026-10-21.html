@@ -430,6 +430,517 @@
             <div class="grid">
                 
                 <article>
+                    <h2><a href="https://lwn.net/Articles/1100026/" target="_blank">[$] Hash-based module integrity for reproducible distributions</a></h2>
+                    <div class="meta">
+                        Oct 21, 2026 16:14 | 
+                        Source: <a href="https://lwn.net" target="_blank">lwn.net</a>
+                    </div>
+                    
+                    <p>We last looked in on hash-based integrity
+checking for kernel modules just over a year and half ago.  Since that time,
+the patch
+set has undergone multiple revisions.  At the 2026 Linux Plumbers Conference
+(LPC),  Thomas Weißschuh described the need for kernel-module integrity
+guarantees while still providing reproducible builds, how his patches implement that, and some ideas for possible
+further work.</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://tech.slashdot.org/story/26/10/21/054204/php-warns-it-plans-to-release-2-emergency-patches-imminently?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" target="_blank">PHP Warns It Plans To Release 2 Emergency Patches Imminently</a></h2>
+                    <div class="meta">
+                        Oct 21, 2026 15:00 | 
+                        Source: <a href="https://slashdot.org/" target="_blank">slashdot.org</a>
+                    </div>
+                    
+                    <img src="https://a.fsdn.com/sd/twitter_icon_large.png">
+                    
+                    <p>An anonymous reader quotes a report from Ars Technica: Website admins, brace yourselves. Fixes for what are believed to be uncommonly severe vulnerabilities are scheduled to drop in a little more than 12 hours for PHP, a programming language that powers websites and Web applications everywhere. PHP maintainers said Monday that they planned to release patches for two vulnerabilities, both with severity ratings of 9.2 out of a possible 10.
+ 
+&#34;All PHP users are encouraged to prepare now so they can upgrade as soon as the release is available,&#34; the advisory stated. &#34;We reserve the right to release earlier should details of either vulnerability become public, or should evidence of active exploitation appear in the wild.&#34; The maintainers published the advisory following the leaking of purported details, which have yet to be confirmed. The report showed a video of an exploit tool dubbed PHP2Shell executing code on webservers running WordPress 7.1.3, MediaWiki 1.46.2, phpBB 3.3.17, Magento 2.4.9, Joomla 6.2.0, Laravel 13.36.0, Laravel 8.83.29, Symphony 8.1.9, Drupal 11.4.10, and WHMCS 9.0.9, all of which use PHP. A video depicting the tool has been reposted here.
+ 
+Attempts to locate the unconfirmed report were unsuccessful, but security firm watchTowr said it claimed to affect every PHP version from PHP 5, released in 2004, onward. The security firm went on to say it has confirmed that the vulnerabilities, tracked as CVE-2026-109618 and CVE-2026-109619, are real. Researchers from separate security firm Sansec said they &#34;expect mass attacks to start within 15 minutes of the release.&#34; A third security firm, Webfence, also urged admins to prepare now. Huntress has also issued an advisory.
+
+
+
+
+
+Read more of this story at Slashdot.</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://lwn.net/Articles/1102024/" target="_blank">Upstreaming Tyr: Rust, DRM, and the Linux Kernel (Collabora)</a></h2>
+                    <div class="meta">
+                        Oct 21, 2026 14:58 | 
+                        Source: <a href="https://lwn.net" target="_blank">lwn.net</a>
+                    </div>
+                    
+                    <p>The Collabora blog provides
+an update on Tyr, a driver for Arm Mali GPUs.
+
+
+	One of our biggest challenges has been developing Tyr while the
+	Rust kernel abstractions and driver interfaces are also being
+	developed. As the driver interfaces are naturally revised and
+	improved, we have rewritten Tyr several times to adapt to the
+	larger Rust ecosystem. This not only makes progress much slower
+	than it would be with a mature API, but also stalls progress for
+	capabilities, such as job scheduling, while the abstraction is
+	properly designed, reviewed, tested, and merged upstream.
+
+	But working in this evolving environment is also precisely where
+	Tyr is able to provide the most value. As a user of these new Rust
+	abstractions, Tyr helps to expose their requirements and
+	limitations. 
+</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://www.tomshardware.com/software/linux/amd-brings-official-ryzen-overclocking-to-linux-with-aod-driver-support-no-official-app-but-third-party-options-should-arrive-soon" target="_blank"> AMD brings official Ryzen overclocking to Linux with AOD driver support </a></h2>
+                    <div class="meta">
+                        Oct 21, 2026 14:52 | 
+                        Source: <a href="https://www.tomshardware.com/software/operating-systems/linux" target="_blank">tomshardware.com</a>
+                    </div>
+                    
+                    <img src="https://cdn.mos.cms.futurecdn.net/mGp7GR969s7dxH5AbGf8mg-1920-80.jpg">
+                    
+                    <p> New driver enablement work from AMD brings full platform-level tuning control to Ryzen systems running Linux, finally. </p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://www.phoronix.com/review/snapdragon-x2-linux" target="_blank">Snapdragon X2 Performance On Linux Exceeding Expectations In Initial Benchmarks</a></h2>
+                    <div class="meta">
+                        Oct 21, 2026 14:50 | 
+                        Source: <a href="https://www.phoronix.com/" target="_blank">phoronix.com</a>
+                    </div>
+                    
+                    <p>For your viewing pleasure today are the first Linux benchmarks of the Qualcomm Snapdragon X2 Elite Extreme on Linux using the new Ubuntu 26.10 X1E Concept ISO for Snapdragon X laptop support on Linux. The Snapdragon X2 Elite Extreme flagship SoC is tested within the ASUS Zenbook A16 UX3607OA laptop.</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://lwn.net/Articles/1094226/" target="_blank">[$] Understanding Nix flakes</a></h2>
+                    <div class="meta">
+                        Oct 21, 2026 14:33 | 
+                        Source: <a href="https://lwn.net" target="_blank">lwn.net</a>
+                    </div>
+                    
+                    <p>Nix flakes are an
+experimental feature of the Nix package-management
+tool designed to build projects in a more self-contained and reproducible
+way. Despite the feature&#39;s experimental status, it has become increasingly
+popular for open-source projects to publish flake.nix files that offer
+predefined development environments and build automation even when those
+repositories may not offer an upstream package or module for the NixOS Linux distribution. Although
+Nix flakes have a complicated history, and the path for stabilization is
+uncertain, flakes can provide useful capabilities for projects that choose to
+include them.</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://www.gamingonlinux.com/2026/10/stellaris-willpower-expansion-set-for-launch-on-november-23/" target="_blank">Stellaris: Willpower expansion set for launch on November 23</a></h2>
+                    <div class="meta">
+                        Oct 21, 2026 14:14 | 
+                        Source: <a href="https://www.gamingonlinux.com/" target="_blank">gamingonlinux.com</a>
+                    </div>
+                    
+                    <img src="https://www.gamingonlinux.com/uploads/articles/tagline_images/860909241id30027gol.webp">
+                    
+                    <p>Launching alongside another free update version 4.6 &#39;Corona Borealis&#39;, the Stellaris: Willpower expansion arrives November 23rd.Read the full article on GamingOnLinux.</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://feed.itsfoss.com/link/24361/17502091/local-ai-weekly-6" target="_blank">Local AI Weekly #6: If You Can Reverse Engineer It, It&#39;s Open Source!</a></h2>
+                    <div class="meta">
+                        Oct 21, 2026 14:06 | 
+                        Source: <a href="https://itsfoss.com/" target="_blank">itsfoss.com</a>
+                    </div>
+                    
+                    <img src="https://itsfoss.com/content/images/2026/10/Reverse-Engineer-all-the-things.webp">
+                    
+                    <p>AI is cloning office suites and it can reverse engineer apps for you. Also, people are fixing their smart TVs with AI. Check out the latest Local AI Weekly newsletter.</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://lwn.net/Articles/1102014/" target="_blank">PHP patches released for two critical RCEs</a></h2>
+                    <div class="meta">
+                        Oct 21, 2026 13:53 | 
+                        Source: <a href="https://lwn.net" target="_blank">lwn.net</a>
+                    </div>
+                    
+                    <p>The PHP project has published PHP
+versions 8.5.12,
+8.4.27, 8.3.36 and 8.2.35 to address
+two critical vulnerabilities that could allow unauthenticated remote code
+execution.
+
+
+Who is at risk: all PHP installations serving web requests,
+including PHP-FPM, Apache with mod_php, php-cgi, FrankenPHP and LiteSpeed. We
+consider the risk highest for mod_php, with a demonstrated exploit where an
+unauthenticated request can trigger the attack before any application code
+runs.
+
+The vulnerabilities:
+
+
+RCE via OOM corruption, CVE-2026-109618 (GHSA-w8hw-w9fx-j79w): out-of-memory
+handling can interrupt PHP while internal request data is only partially initialized. Request cleanup may then treat the invalid data as valid.
+RCE via stale global state, CVE-2026-109619 (GHSA-6wmf-4rv5-p3rp): request-owned
+internal state can survive after its backing memory has been freed. A later
+request handled by the same worker may use that stale state before normal
+initialization resets it.
+
+
+
+PHP versions older than 8.1 will not receive updates from the project, though
+the project has provided some patches for PHP
+7.4, PHP
+8.0, and PHP
+8.1 to assist in creating backports. According to the
+announcement, Linux distributions and vendors received patches in advance, so
+updated packages should be coming soon.</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://www.phoronix.com/news/PHP-New-Critical-CVEs-October" target="_blank">PHP Updates Released For Two Critical Code Execution Vulnerabilities</a></h2>
+                    <div class="meta">
+                        Oct 21, 2026 13:43 | 
+                        Source: <a href="https://www.phoronix.com/" target="_blank">phoronix.com</a>
+                    </div>
+                    
+                    <p>PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 were just released to fix two critical vulnerabilities that can allow for unauthenticated remote code execution. Server administrators are advised to update immediately...</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://lwn.net/Articles/1101758/" target="_blank">Four stable kernels for Wednesday</a></h2>
+                    <div class="meta">
+                        Oct 21, 2026 13:24 | 
+                        Source: <a href="https://lwn.net" target="_blank">lwn.net</a>
+                    </div>
+                    
+                    <p>Greg Kroah-Hartman has announced the release of the 7.2.12,
+6.18.58,
+6.12.114, and 
+6.6.160 stable kernels. Each contains a number
+of important fixes; users are advised to upgrade.
+
+</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://lwn.net/Articles/1102005/" target="_blank">Security updates for Wednesday</a></h2>
+                    <div class="meta">
+                        Oct 21, 2026 13:13 | 
+                        Source: <a href="https://lwn.net" target="_blank">lwn.net</a>
+                    </div>
+                    
+                    <p>Security updates have been issued by AlmaLinux (bubblewrap, emacs, gimp:2.8, glibc, jackson-databind, kernel, kernel-rt, librabbitmq, openexr, openssh, postgresql:16, postgresql:18, python3, resteasy, wireshark, xorg-x11-server, and xorg-x11-server-Xwayland), Debian (ca-certificates, firefox-esr, git-lfs, and libssh), Fedora (aom, assimp, bind, bind-dyndb-ldap, freerdp, ghostscript, gopass, gopass-jsonapi, ImageMagick, libpng12, libpng15, nebula, perl-GD-SecurityImage, perl-Net-IDN-Encode, perl-Net-Whois-Raw, rust-backtrace, rust-object, rust-object0.37, rust-object0.38, rust-object0.39, rust-ruzstd, and xen), Gentoo (ca-certificates), Mageia (x11-server, x11-server-wayland, tigervnc), Oracle (bubblewrap, ca-certificates, emacs, fetchmail, gimp:2.8, hostapd, jackson-databind, librabbitmq, lrzsz, openexr, openssh, openssl, postgresql:18, python-urllib3, python3, python3.12-urllib3, resteasy, webkit2gtk3, wireshark, and xorg-x11-server-Xwayland), Red Hat (.NET 8.0, dogtag-pki, flatpak-builder, ghostscript, glycin-loaders, go-toolset:rhel8, golang, gvfs, jackson-core, jackson-databind, librsvg2, multiple packages, pki-core, pki-core:10.6, sudo, xorg-x11-server, and xorg-x11-server-Xwayland), Slackware (c-ares, ca-certificates, mozilla-firefox, mozilla-nss, mozilla-thunderbird, and python-certifi), SUSE (agama, aspell, bcel, bind, bouncycastle, busybox, chromium, containerd, coredns, cosign, cpp15, cups-filters, cyrus-sasl, fetchmail, firefox, gcc13, gh, ghostscript, gitoxide, glibc, go1.26, go1.27, google-osconfig-agent, grafana, grok-build, hashcat, hawk2, helm, ImageMagick, inspektor-gadget, iperf, jupyter-jupyterlab-templates, kernel, kernel-devel, libheif, libpng16, librsvg, libX11, libXi, libxls, libXpm, libxreaderdocument3, mutt, ntfs-3g_ntfsprogs, openssl-1_0_0, openssl-3, openvpn, pacemaker, perl-DBI, perl-XS-Parse-Keyword, pgvector, podman, putty, python-anyio, python-hpack, python-joserfc, python-jwcrypto, python-oauthlib, python-PyJWT, python-tornado6, python-urllib3, python-virtualenv, python-WebOb, python3, python311, rekor, squid, strongswan, stunnel, suseconnect-ng, tinyproxy, traefik, unbound, varnish, virtiofsd, webkit2gtk3, and xwayland), and Ubuntu (ca-certificates, dotnet8, dotnet10, dotnet11, protobuf, rust-sudo-rs, squid, squid3, and xz-utils).</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://www.phoronix.com/news/AMD-AOD-Overclocking-Linux" target="_blank">AMD Working On Ryzen Overclocking Driver For Linux</a></h2>
+                    <div class="meta">
+                        Oct 21, 2026 12:24 | 
+                        Source: <a href="https://www.phoronix.com/" target="_blank">phoronix.com</a>
+                    </div>
+                    
+                    <p>AMD recently published patches for the Linux kernel to implement AOD, an AMD Overclocking driver for Ryzen processors. Linux enthusiasts have long sought an official AMD Ryzen CPU overclocking driver for Linux akin to Ryzen Master on Windows and it&#39;s finally coming, at least from the kernel driver perspective...</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://www.gamingonlinux.com/2026/10/combolands-will-take-away-all-your-free-time/" target="_blank">Combolands will take away all your free time</a></h2>
+                    <div class="meta">
+                        Oct 21, 2026 12:19 | 
+                        Source: <a href="https://www.gamingonlinux.com/" target="_blank">gamingonlinux.com</a>
+                    </div>
+                    
+                    <img src="https://www.gamingonlinux.com/uploads/articles/tagline_images/209431511id30026gol.webp">
+                    
+                    <p>Combolands blends together Balatro-styled score mechanics with a mini city-builder, that has you chasing scores and placing down tiles. It&#39;s delicious.Read the full article on GamingOnLinux.</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://lxer.com/module/newswire/ext_link.php?rid=368330" target="_blank">SparkyOS Unveiled as a Portable Arch Linux-Based SparkyLinux Flavor</a></h2>
+                    <div class="meta">
+                        Oct 21, 2026 11:59 | 
+                        Source: <a href="https://lxer.com/" target="_blank">lxer.com</a>
+                    </div>
+                    
+                    <p>The SparkyLinux development team unveiled SparkyOS as a modern, portable, rolling release distribution based on Arch Linux and designed to run directly from a USB flash drive.</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://www.phoronix.com/news/Linux-7.4-Sync-Close-Files" target="_blank">Linux 7.4 To Close Files Synchronously For close_range, exec &amp; exit</a></h2>
+                    <div class="meta">
+                        Oct 21, 2026 11:55 | 
+                        Source: <a href="https://www.phoronix.com/" target="_blank">phoronix.com</a>
+                    </div>
+                    
+                    <p>Of the many VFS changes to be merged for Linux 7.4 is now closing files synchrously for close_range, exec, and exit calls. In turn when needing to close many file descriptors this provides for much lower latency than the status quo...</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://tech.slashdot.org/story/26/10/21/0458211/tesla-spacex-merger-being-considered?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" target="_blank">Tesla-SpaceX Merger Being Considered</a></h2>
+                    <div class="meta">
+                        Oct 21, 2026 11:00 | 
+                        Source: <a href="https://slashdot.org/" target="_blank">slashdot.org</a>
+                    </div>
+                    
+                    <img src="https://a.fsdn.com/sd/twitter_icon_large.png">
+                    
+                    <p>Elon Musk says a merger between Tesla and SpaceX is under active consideration, with special committees at both companies evaluating a deal that could combine businesses valued at roughly $3.5 trillion. &#34;Do I think it would be a good idea? Yes,&#34; Musk said during a call with financial analysts over the quarterly business results of SpaceX on Tuesday. The BBC reports: While Musk noted the certainty of such a merger should not be assumed, and it would need shareholders&#39; support, he said special committees within both companies have been formed to examine the move. &#34;The special committees have not reached agreement on terms of any transaction and there&#39;s no guarantee that they will,&#34; Musk added. &#34;But I do think there is a lot of merit to merging and a lot to be gained.&#34;
+ 
+[...] The company, which builds space rockets and Starlink internet satellites, is now expanding into offering cloud compute capacity for other tech companies, like Anthropic and Google. That line of business has become the most profitable part of SpaceX, bringing in $7.5bn according to the latest quarterly results (PDF). Starlink also tallied revenue of $5.2bn. SpaceX as a whole, however, is not profitable and has lost $1.1bn so far this year.
+ 
+[...] Musk said on Tuesday a full merger between the two companies would make sense for the work each is doing around chips, artificial intelligence, software and more. He described himself as a &#34;conflicted party&#34; as the chief executive of Tesla and of SpaceX. Even commenting on the possibility of a merger between the two companies, Musk compared to &#34;tap dancing through a minefield.&#34; He added a merger would ultimately be decided by shareholders. At least 50% of Tesla&#39;s shareholders would need to approve the merger, which Musk described as &#34;quite a high hurdle to achieve.&#34;
+
+
+
+
+
+Read more of this story at Slashdot.</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://lxer.com/module/newswire/ext_link.php?rid=368331" target="_blank">SparkyOS 2026.10 Debuts as an Arch-Based Portable Linux Distro</a></h2>
+                    <div class="meta">
+                        Oct 21, 2026 10:28 | 
+                        Source: <a href="https://lxer.com/" target="_blank">lxer.com</a>
+                    </div>
+                    
+                    <p>SparkyOS 2026.10 launches as a portable, Arch-based Linux distro featuring Xfce, Linux kernel 7.2.11, and persistent USB storage.</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://www.phoronix.com/news/Fwupd-To-Android-Integration" target="_blank">Fwupd Working Toward Proper Android Integration</a></h2>
+                    <div class="meta">
+                        Oct 21, 2026 10:16 | 
+                        Source: <a href="https://www.phoronix.com/" target="_blank">phoronix.com</a>
+                    </div>
+                    
+                    <p>Google Chromebooks already have a mandate for nice Fwupd support with the Linux Vendor Firmware (LVFS) while now there is work on improving the Android integration for Fwupd/LVFS...</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://www.gamingonlinux.com/2026/10/headcutter-is-a-real-juicy-looking-upcoming-shooter/" target="_blank">HEADCUTTER is a real juicy looking upcoming shooter</a></h2>
+                    <div class="meta">
+                        Oct 21, 2026 10:04 | 
+                        Source: <a href="https://www.gamingonlinux.com/" target="_blank">gamingonlinux.com</a>
+                    </div>
+                    
+                    <img src="https://www.gamingonlinux.com/uploads/articles/tagline_images/843698770id30025gol.webp">
+                    
+                    <p>HEADCUTTER is an upcoming sci-fi spaghetti western FPS with brutal combat, destructible environments, and lots of gore.Read the full article on GamingOnLinux.</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://www.phoronix.com/news/Linux-7.4-Kernfs-Scalability" target="_blank">Meta Makes Improvements To Kernfs Scalability With Linux 7.4</a></h2>
+                    <div class="meta">
+                        Oct 21, 2026 09:54 | 
+                        Source: <a href="https://www.phoronix.com/" target="_blank">phoronix.com</a>
+                    </div>
+                    
+                    <p>Kernfs as the functions/frameworks used for creating pseudo file-systems on Linux like sysfs and configfs have seen some nice scalability work carried out by Meta. After Meta engineers discovered some system daemons getting stuck for minutes on their massive fleet of servers, they uncovered some scalability bottlenecks within Kernfs that now look to be resolved for Linux 7.4...</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://www.gamingonlinux.com/2026/10/the-finals-gets-a-huge-update-with-enhanced-destruction-and-a-free-for-all-mode/" target="_blank">THE FINALS gets a huge update with enhanced destruction and a free for all mode</a></h2>
+                    <div class="meta">
+                        Oct 21, 2026 09:46 | 
+                        Source: <a href="https://www.gamingonlinux.com/" target="_blank">gamingonlinux.com</a>
+                    </div>
+                    
+                    <img src="https://www.gamingonlinux.com/uploads/articles/tagline_images/1793518013id30024gol.webp">
+                    
+                    <p>One of the few competitive online first-person shooters that works on SteamOS / Linux, THE FINALS just had a massive upgrade.Read the full article on GamingOnLinux.</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://feed.itsfoss.com/link/24361/17501957/dank-linux-dux-labs-rebrand" target="_blank">DankMaterialShell Becomes Dux Shell as Dank Linux Rebrands to Dux Labs</a></h2>
+                    <div class="meta">
+                        Oct 21, 2026 09:43 | 
+                        Source: <a href="https://itsfoss.com/" target="_blank">itsfoss.com</a>
+                    </div>
+                    
+                    <img src="https://itsfoss.com/content/images/2026/10/dms-rebrand-banner.png">
+                    
+                    <p>The new name covers the shell, greeter, search, system monitor, calendar, and file manager, all released as part of DMS 2.0.</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://www.phoronix.com/news/AMD-HIPRT-3.2" target="_blank">AMD HIPRT 3.2 Released With Medusa APU Support</a></h2>
+                    <div class="meta">
+                        Oct 21, 2026 09:40 | 
+                        Source: <a href="https://www.phoronix.com/" target="_blank">phoronix.com</a>
+                    </div>
+                    
+                    <p>AMD HIPRT 3.2 released today as the first update to this HIP ray-tracing library since the beginning of 2026...</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://www.phoronix.com/news/Linux-7.4-XFS" target="_blank">XFS Sees Small Performance Optimizations &amp; Bug Fixes For Linux 7.4</a></h2>
+                    <div class="meta">
+                        Oct 21, 2026 09:30 | 
+                        Source: <a href="https://www.phoronix.com/" target="_blank">phoronix.com</a>
+                    </div>
+                    
+                    <p>The XFS file-system updates have landed for the in-development Linux 7.4 kernel...</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://www.gamingonlinux.com/2026/10/openxr-gets-a-cross-platform-spatial-windowing-api/" target="_blank">OpenXR gets a cross-platform Spatial Windowing API</a></h2>
+                    <div class="meta">
+                        Oct 21, 2026 09:01 | 
+                        Source: <a href="https://www.gamingonlinux.com/" target="_blank">gamingonlinux.com</a>
+                    </div>
+                    
+                    <img src="https://www.gamingonlinux.com/uploads/articles/tagline_images/854073358id30023gol.webp">
+                    
+                    <p>Augmented Reality / Virtual Reality under the OpenXR umbrella continues levelling up, with a new Spatial Windowing API that sounds exciting.Read the full article on GamingOnLinux.</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://feed.itsfoss.com/link/24361/17501903/lf-cyber-security-26" target="_blank">Save Upto 40% on Kubernetes Security Certifications From the Linux Foundation</a></h2>
+                    <div class="meta">
+                        Oct 21, 2026 08:42 | 
+                        Source: <a href="https://itsfoss.com/" target="_blank">itsfoss.com</a>
+                    </div>
+                    
+                    <img src="https://itsfoss.com/content/images/2026/10/linux-foundation-certification-deal.webp">
+                    
+                    <p>Planning to get certified? You can get CKS and KCSA for 40% less and 35% off most other Linux Foundation certifications. Offer ends October 23.</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://www.gamingonlinux.com/2026/10/rts-game-theatre-of-war-rearmed-set-for-release-on-december-9/" target="_blank">RTS game Theatre of War: Rearmed set for release on December 9</a></h2>
+                    <div class="meta">
+                        Oct 21, 2026 08:26 | 
+                        Source: <a href="https://www.gamingonlinux.com/" target="_blank">gamingonlinux.com</a>
+                    </div>
+                    
+                    <img src="https://www.gamingonlinux.com/uploads/articles/tagline_images/1330023672id30022gol.webp">
+                    
+                    <p>Bringing together all the classic Theatre of War RTS games into one upgraded package, Theatre of War: Rearmed set for release on December 9th.Read the full article on GamingOnLinux.</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://www.gamingonlinux.com/2026/10/heres-another-15-demos-worth-checking-out-in-steam-next-fest-october-2026-edition/" target="_blank">Here&#39;s another 15 demos worth checking out in Steam Next Fest - October 2026 edition</a></h2>
+                    <div class="meta">
+                        Oct 21, 2026 08:09 | 
+                        Source: <a href="https://www.gamingonlinux.com/" target="_blank">gamingonlinux.com</a>
+                    </div>
+                    
+                    <img src="https://www.gamingonlinux.com/uploads/articles/tagline_images/1095377755id30021gol.webp">
+                    
+                    <p>With the increasing amount of slop on Steam, you may need just a bit of help to sift through it to find something special to play.Read the full article on GamingOnLinux.</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://lxer.com/module/newswire/ext_link.php?rid=368319" target="_blank">KDE Plasma 6.8.1 Released with KWin Fixes, RDP Improvements</a></h2>
+                    <div class="meta">
+                        Oct 21, 2026 07:25 | 
+                        Source: <a href="https://lxer.com/" target="_blank">lxer.com</a>
+                    </div>
+                    
+                    <p>KDE Plasma 6.8.1 is out with KWin stability fixes, improved Windows RDP compatibility, and fixes for Discover, Spectacle, and Wayland.</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://www.gamingonlinux.com/2026/10/play-with-friends-with-the-social-multiplayer-games-collection-from-digiphile/" target="_blank">Play with friends with the Social Multiplayer Games Collection from Digiphile</a></h2>
+                    <div class="meta">
+                        Oct 21, 2026 07:10 | 
+                        Source: <a href="https://www.gamingonlinux.com/" target="_blank">gamingonlinux.com</a>
+                    </div>
+                    
+                    <img src="https://www.gamingonlinux.com/uploads/articles/tagline_images/2141278198id30020gol.webp">
+                    
+                    <p>Digiphile (former Humble Bundler staff) just launched their new Social Multiplayer Games Collection.Read the full article on GamingOnLinux.</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://www.gamingonlinux.com/2026/10/get-more-fun-vr-games-in-the-flat2vr-humble-bundle/" target="_blank">Get more fun VR games in the Flat2VR Humble Bundle</a></h2>
+                    <div class="meta">
+                        Oct 21, 2026 07:03 | 
+                        Source: <a href="https://www.gamingonlinux.com/" target="_blank">gamingonlinux.com</a>
+                    </div>
+                    
+                    <img src="https://www.gamingonlinux.com/uploads/articles/tagline_images/1311231244id30019gol.webp">
+                    
+                    <p>In the need for more good VR experiences? Got you covered here with our round-up of the brand new Flat2VR Humble Bundle.Read the full article on GamingOnLinux.</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://science.slashdot.org/story/26/10/21/0449230/russian-satellites-close-shadowing-of-radar-imaging-satellite-is-a-big-deal?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" target="_blank">Russian Satellite&#39;s Close Shadowing of Radar Imaging Satellite Is a Big Deal</a></h2>
+                    <div class="meta">
+                        Oct 21, 2026 07:00 | 
+                        Source: <a href="https://slashdot.org/" target="_blank">slashdot.org</a>
+                    </div>
+                    
+                    <img src="https://a.fsdn.com/sd/twitter_icon_large.png">
+                    
+                    <p>Longtime Slashdot reader schwit1 shares a report from TWZ: A Russian satellite, Kosmos 2612, may have passed within approximately 85 feet (26 meters) of a U.S.-registered satellite belonging to commercial imagery provider ICEYE. This would be an extraordinarily close and potentially dangerous pass-by for two objects in space traveling at thousands of miles per hour. For weeks beforehand, ICEYE-X36, which would be of special interest to Russia, had already found itself in increasingly close orbital alignment with its pursuer. The two satellites now look to be drifting further and further apart, but the episode has been a clear sign of what is to come as the potential for conflict in space only continues to grow.
+
+ Publicly available space tracking data from the satellitemap.space and orbitalradar.com websites show that Kosmos 2612 (also written sometimes Cosmos 2612 and abbreviated K2612) and ICEYE X36 had their especially close encounter at approximately 16:07 UTC today. Private space services company LeoLabs also told TWZ today that it could not &#34;confirm or contradict what other data sources have stated publicly,&#34; but that it has &#34;high-confidence that the objects came within approximately [emphasis in the original] 500 meters [1,640 feet] of each other.&#34; Kosmos 2612 had been making progressively closer passes by ICEYE X36 in recent days. &#34;This is the most advanced and potentially dangerous uncooperative RPO we&#39;ve observed,&#34; Adam Marsh, LeoLabs vice president for technical solutions, separately told Breaking Defense.
+ 
+&#34;It&#39;s important to note that &#39;red&#39; on &#39;blue&#39; engagements, such as this, are relatively uncommon in Low Earth Orbit (LEO),&#34; LeoLabs&#39; report points out. At the same time, &#34;this was not a routine conjunction or &#39;fly by.&#39; The sequence included a controlled approach, changes in relative position, close-proximity loitering, additional small maneuvers, and a controlled departure. The behavior is consistent with sophisticated rendezvous and proximity operations (RPO).&#34;
+ 
+&#34;We can only speculate about the operation&#39;s goal, but it could have been anything from simply intimidation to outright destruction or sabotage of a U.S.-registered satellite,&#34; CSIS&#39; Clayton Swope told TWZ. &#34;Perhaps the operation is on hold. There are, however, several other satellites that shadowed ICEYE X36 back in May that could be brought in[to] action too.&#34;
+
+
+
+
+
+Read more of this story at Slashdot.</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://lxer.com/module/newswire/ext_link.php?rid=368336" target="_blank">COSMIC 1.11 Desktop Environment Released with New Touchpad Settings</a></h2>
+                    <div class="meta">
+                        Oct 21, 2026 04:22 | 
+                        Source: <a href="https://lxer.com/" target="_blank">lxer.com</a>
+                    </div>
+                    
+                    <p>Linux hardware vendor System76 released COSMIC 1.11 today as the latest stable version of this Rust-based desktop environment for modern GNU/Linux distributions.</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://yro.slashdot.org/story/26/10/20/2055251/judge-orders-meta-to-name-employees-who-approved-torrenting-annas-archive-libgen?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" target="_blank">Judge Orders Meta To Name Employees Who Approved Torrenting Anna&#39;s Archive, Libgen</a></h2>
+                    <div class="meta">
+                        Oct 21, 2026 03:30 | 
+                        Source: <a href="https://slashdot.org/" target="_blank">slashdot.org</a>
+                    </div>
+                    
+                    <img src="https://a.fsdn.com/sd/twitter_icon_large.png">
+                    
+                    <p>An anonymous reader quotes a report from TorrentFreak: Last month, Magistrate Judge Thomas Hixson ordered Meta to hand over the command histories of the servers it used to torrent pirated books. These logs would presumably reveal how Meta&#39;s torrent clients were set up, including any changes to their upload settings. [...] The server logs could reveal what happened on Meta&#39;s machines. However, publisher Entrepreneur Media also wants to know who approved the torrenting activity.
+ 
+Entrepreneur Media, which publishes Entrepreneur magazine, filed one of the related lawsuits where it accuses Meta of contributing to piracy by uploading (seeding) works to third parties, similar to the authors&#39; contributory infringement claim. To find out more, the publisher asked Meta to identify everyone who &#34;made, authorized, or approved&#34; the decisions to obtain the shadow library datasets, and to do so via BitTorrent.
+ 
+Meta&#39;s answers named several people who are believed to have been involved in data-related decisions. However, Meta said it couldn&#39;t identify anyone who &#34;formally&#34; made or approved decisions to acquire or use books for its first two Llama models. Those decisions were often the result of team consensus, Meta argued. When it came to the torrenting itself, Meta pointed to the employees who ran the downloads, describing their choices as technical decisions.
+ 
+Meta added that the acquisition of data from Anna&#39;s Archive went through an internal legal review in early 2024, which involved its in-house lawyers. In other words, the company didn&#39;t name anyone higher up who approved the use of BitTorrent. &#34;On that construction no one at Meta decided to torrent anything, yet Meta torrented shadow libraries repeatedly from 2022-2024,&#34; Entrepreneur Media countered. An internal Meta logbook warned that using torrents would involve sharing copyrighted material with others. &#34;Using torrents would entail seeding the file such as sharing content outside. This would be legally not okay,&#34; the logbook stated.
+ 
+Although Meta admits downloading data from LibGen and Anna&#39;s Archive via BitTorrent, it claims no one &#34;made, authorized, or approved&#34; a decision to distribute the material and that measures were taken to limit seeding. Meta&#39;s own expert previously estimated that uploads from its AWS servers amounted to no more than roughly 30% of the data downloaded during a period in 2024.
+ 
+Judge Thomas Hixson is not convinced and ordered (PDF) the company to identify everyone involved in approving the downloads, including those who decided &#34;whether or how to seed, or to mitigate seeding.&#34;
+
+
+
+
+
+Read more of this story at Slashdot.</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://lxer.com/module/newswire/ext_link.php?rid=368335" target="_blank">Wine on OpenBSD? Yes, and It Can Already Run The Witcher 3</a></h2>
+                    <div class="meta">
+                        Oct 21, 2026 02:51 | 
+                        Source: <a href="https://lxer.com/" target="_blank">lxer.com</a>
+                    </div>
+                    
+                    <p>An experimental Wine port brings Windows app and gaming support to OpenBSD, with 64-bit applications and even The Witcher 3 running successfully.</p>
+                </article>
+                
+                <article>
                     <h2><a href="https://www.phoronix.com/news/Linux-74-Intel-TDX-Dynamic-PAMT" target="_blank">Dynamic PAMT Merged For Linux 7.4 To Help Intel Servers Save Precious RAM</a></h2>
                     <div class="meta">
                         Oct 21, 2026 00:26 | 
@@ -1032,260 +1543,6 @@ Read more of this story at Slashdot.</p>
                     </div>
                     
                     <p>LXD 6.10 LTS is out with new image registries, improved disaster recovery, enhanced clustering, and long-term support through 2031.</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://www.gamingonlinux.com/2026/10/dark-first-person-fishing-adventure-dreadmoor-looks-awesome-arrives-november-9/" target="_blank">Dark first-person fishing adventure DREADMOOR looks awesome, arrives November 9</a></h2>
-                    <div class="meta">
-                        Oct 20, 2026 08:14 | 
-                        Source: <a href="https://www.gamingonlinux.com/" target="_blank">gamingonlinux.com</a>
-                    </div>
-                    
-                    <img src="https://www.gamingonlinux.com/uploads/articles/tagline_images/1581766080id30009gol.webp">
-                    
-                    <p>DREADMOOR is probably one of the most interesting looking fishing games ever - with a dark post-apocalyptic world.Read the full article on GamingOnLinux.</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://feed.itsfoss.com/link/24361/17501229/microsoft-scope-self-hosted-agent-testing" target="_blank">Microsoft’s AI Coding Agent Testing Tool Has Been Open-Sourced</a></h2>
-                    <div class="meta">
-                        Oct 20, 2026 08:13 | 
-                        Source: <a href="https://itsfoss.com/" target="_blank">itsfoss.com</a>
-                    </div>
-                    
-                    <img src="https://itsfoss.com/content/images/2026/10/scope-launch-banner.png">
-                    
-                    <p>Scope is for teams that maintain SDKs, docs, or MCP servers and want to see where coding agents get stuck.</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://www.gamingonlinux.com/2026/10/ge-proton-11-11-released-to-fix-more-issues-with-windows-games-on-steamos-linux/" target="_blank">GE-Proton 11-11 released to fix more issues with Windows games on SteamOS / Linux</a></h2>
-                    <div class="meta">
-                        Oct 20, 2026 07:36 | 
-                        Source: <a href="https://www.gamingonlinux.com/" target="_blank">gamingonlinux.com</a>
-                    </div>
-                    
-                    <img src="https://www.gamingonlinux.com/uploads/tagline_gallery/ge-proton_gol2.webp">
-                    
-                    <p>As is tradition, a new release of GE-Proton came with issues and so another hotfix is out with GE-Proton 11-11.Read the full article on GamingOnLinux.</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://www.gamingonlinux.com/2026/10/intel-submits-code-to-proton-to-improve-xess-to-use-the-fast-upscaler-xmx/" target="_blank">Intel submits code to Proton to improve XeSS to use the fast upscaler XMX</a></h2>
-                    <div class="meta">
-                        Oct 20, 2026 07:30 | 
-                        Source: <a href="https://www.gamingonlinux.com/" target="_blank">gamingonlinux.com</a>
-                    </div>
-                    
-                    <img src="https://www.gamingonlinux.com/uploads/tagline_gallery/intel.png">
-                    
-                    <p>Looks like Proton with Intel XeSS is set for some improvements, with Intel submitting code directly to Valve.Read the full article on GamingOnLinux.</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://www.gamingonlinux.com/2026/10/steam-next-fest-oct-2026-is-live-with-thousands-of-demos/" target="_blank">Steam Next Fest Oct 2026 is live with thousands of demos</a></h2>
-                    <div class="meta">
-                        Oct 20, 2026 07:14 | 
-                        Source: <a href="https://www.gamingonlinux.com/" target="_blank">gamingonlinux.com</a>
-                    </div>
-                    
-                    <img src="https://www.gamingonlinux.com/uploads/articles/tagline_images/1112808637id30006gol.webp">
-                    
-                    <p>Steam Next Fest Oct 2026 has arrived and with it - there&#39;s multiple thousands of demos included.Read the full article on GamingOnLinux.</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://lxer.com/module/newswire/ext_link.php?rid=368292" target="_blank">SpacemiT Announces The V100 Server-Class RISC-V Processor</a></h2>
-                    <div class="meta">
-                        Oct 20, 2026 07:01 | 
-                        Source: <a href="https://lxer.com/" target="_blank">lxer.com</a>
-                    </div>
-                    
-                    <p>Following the interesting SpacemiT K3 RVA23 RISC-V SoC, SpacemiT today announced the V100 server-class RISC-V processor...</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://science.slashdot.org/story/26/10/20/0522251/japan-launches-historic-mmx-sample-return-mission-to-mars-moon-phobos?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" target="_blank">Japan Launches Historic MMX Sample-Return Mission to Mars&#39; Moon Phobos</a></h2>
-                    <div class="meta">
-                        Oct 20, 2026 07:00 | 
-                        Source: <a href="https://slashdot.org/" target="_blank">slashdot.org</a>
-                    </div>
-                    
-                    <img src="https://a.fsdn.com/sd/twitter_icon_large.png">
-                    
-                    <p>Japan has successfully launched its Martian Moons eXploration (MMX) mission to study Mars&#39; two moons, Phobos and Deimos. Scheduled to arrive in August 2027, &#34;MMX will become the first spacecraft to land on and return samples from Phobos for study back on Earth, which scientists think could shed light on a decades-old mystery about the moons&#39; origins&#34; and resolve whether they were formed from a giant impact or were captured asteroids, reports Space.com. From the report: It was the 10th liftoff of Japan&#39;s expendable, two-stage H3 rocket, which was jointly developed by JAXA and Mitsubishi Heavy Industries. After clearing its launch pad today, the 207-foot-tall (63 meters) launch vehicle flew a nominal trajectory through its ascent corridor over the Pacific Ocean, jettisoning its four solid boosters in pairs just before the flight clock reached two minutes. The rocket shed its payload fairings about one minute and 20 seconds later, exposing MMX to the vacuum of space for the first time. [...] MMX is now under its own power, and on course for Mars.
- 
-The interplanetary transit will last about 10 months, with the spacecraft scheduled to arrive at the Red Planet in August 2027. When it does, MMX&#39;s propulsion module will execute an orbital insertion burn to place itself in a quasi-satellite orbit (QSO) around Phobos, which places MMX within the space around the moon as both circle Mars. MMX will spend about three years in the Martian system, devoting much of that time to studying the 14-mile-wide (22 km) Phobos with its science instruments. The spacecraft also carries the IDEFIX rover, a joint effort of the space agencies of France and Germany, which is scheduled to deploy to the surface of Phobos in late 2028 or early 2029.
- 
-After a mapping campaign to select suitable landing sites, MMX will perform two separate touchdowns on Phobos to collect and stow samples in the spacecraft&#39;s return capsule. Following its second landing and sample collection, MMX will briefly return to QSO with Phobos before transferring to a more elongated orbit around Mars that intersects with the planet&#39;s smaller moon, Deimos, which is just 8 miles (14 km) in diameter. During the last several months of its time around Mars, MMX will perform a series of Deimos flybys before departing for Earth in November 2030. If all goes according to plan, the MMX sample-return capsule will land in Australia in 2031. You can watch a recording of the launch on YouTube.
-
-
-
-
-
-Read more of this story at Slashdot.</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://lxer.com/module/newswire/ext_link.php?rid=368302" target="_blank">Gentoo-Based MocaccinoOS 26.10 Released with COSMIC 1.10 and KDE Plasma 6.7.5</a></h2>
-                    <div class="meta">
-                        Oct 20, 2026 05:30 | 
-                        Source: <a href="https://lxer.com/" target="_blank">lxer.com</a>
-                    </div>
-                    
-                    <p>The development team behind MocaccinoOS, a Gentoo-based, independent distribution for desktops, released MocaccinoOS 26.10 today as the latest stable ISO snapshot with updated components.</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://hardware.slashdot.org/story/26/10/19/2133234/amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" target="_blank">Amazon To Fund 12 Small Nuclear Reactors At Former Indiana Coal Plant</a></h2>
-                    <div class="meta">
-                        Oct 20, 2026 03:30 | 
-                        Source: <a href="https://slashdot.org/" target="_blank">slashdot.org</a>
-                    </div>
-                    
-                    <img src="https://a.fsdn.com/sd/twitter_icon_large.png">
-                    
-                    <p>An anonymous reader quotes a report from TechCrunch: Amazon is funding development of a proposed 960-megawatt nuclear plant in Indiana and would be the first customer to buy its power, the companies announced Monday. Utility company American Electric Power (AEP) would operate the plant. X-energy, which designs small modular nuclear reactors and went public in April, would supply the reactors. The new power plant would consist of 12 Xe-100 small modular reactors and be located on the site of a demolished coal power plant just south of Terre Haute. The deal is the second commercial agreement between Amazon and X-energy, and it&#39;s three times larger than the first, which was announced two years ago.
- 
-Amazon has invested heavily in X-energy, leading a $700 million Series C-1 round in October 2024. The two companies have said they ultimately plan to build 5 gigawatts of new nuclear generating capacity in the U.S. by 2039. Unlike many newly announced power plants, these reactors would be connected to the public electric grid, though Amazon says the power would also serve its data centers.
- 
-The companies&#39; aggressive timeline still depends on X-energy successfully delivering its first power plant at a Dow Chemical plant southeast of Houston, Texas. The site, called Seadrift, has recently been at the center of a lawsuit filed by the state of Texas, which accuses the plant of &#34;habitual non-compliance&#34; with water and solid-waste regulations and permits. X-energy has yet to break ground at Seadrift, which will host four Xe-100 reactors to provide the chemical plant with heat and electricity. The company said its construction permit is in the final phases of the U.S. Nuclear Regulatory Commission&#39;s review process.
-
-
-
-
-
-Read more of this story at Slashdot.</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://lxer.com/module/newswire/ext_link.php?rid=368309" target="_blank">How to Disable On Screen Keyboard on SDDM Login Screen in EndeavourOS KDE Plasma</a></h2>
-                    <div class="meta">
-                        Oct 20, 2026 02:27 | 
-                        Source: <a href="https://lxer.com/" target="_blank">lxer.com</a>
-                    </div>
-                    
-                    <p>In this video, I show how to disable the automatic on-screen keyboard on the KDE Plasma SDDM login screen.</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://www.phoronix.com/news/AMD-GAIA-0.25-Released" target="_blank">AMD GAIA 0.25 Brings Several Improvements For Local AI Agents On Ryzen AI</a></h2>
-                    <div class="meta">
-                        Oct 20, 2026 00:25 | 
-                        Source: <a href="https://www.phoronix.com/" target="_blank">phoronix.com</a>
-                    </div>
-                    
-                    <p>AMD GAIA 0.25 is out this week as the latest feature release for this open-source project that began as &#34;Generative AI Is Awesome&#34; and is now going on a tag line of &#34;AMD&#39;s open-source agent factory&#34; in building/using local AI agents on AMD Ryzen AI hardware...</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://news.slashdot.org/story/26/10/19/2126207/professor-calls-to-abolish-business-schools-for-failing-society?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" target="_blank">Professor Calls To Abolish Business Schools For Failing Society</a></h2>
-                    <div class="meta">
-                        Oct 19, 2026 23:00 | 
-                        Source: <a href="https://slashdot.org/" target="_blank">slashdot.org</a>
-                    </div>
-                    
-                    <img src="https://a.fsdn.com/sd/twitter_icon_large.png">
-                    
-                    <p>joshuark writes: Professor Christopher Marquis makes a provocative argument about business schools: &#34;We need to abolish them.&#34; A 20-year business educator at Harvard, Cornell and Cambridge, Marquis argues in The New York Times and on LinkedIn that MBA programs sanctify profit-driven dealmaking at the expense of public life. &#34;That&#39;s not the institution failing,&#34; he writes. &#34;Sadly, it&#39;s the institution working.&#34; &#34;Business school doesn&#39;t just hand out skills and a network,&#34; argues Marquis, &#34;it quietly reshapes how people see the world, rewarding dealmaking, simplification, and optimization for financial metrics, while workers and communities become afterthoughts.&#34;
- 
-Marquis points to research suggesting that business-school-trained CEOs often benefit shareholders at the expense of workers, without delivering measurable improvements in company performance... &#34;[W]hen a business-school-trained CEO takes over a firm, wages fall and labor&#39;s share of income drops, with no gain in productivity,&#34; writes Marquis. &#34;In both the U.S. and Denmark, what passes for the &#39;managerial skill&#39; of business-school graduates turns out to be a transfer of wealth away from workers and toward shareholders. Students deserve better than a machine that narrows their sense of what&#39;s possible.&#34;
-
-
-
-
-
-Read more of this story at Slashdot.</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://mobile.slashdot.org/story/26/10/19/211219/tp-link-moves-to-assemble-routers-in-the-us-following-import-ban?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" target="_blank">TP-Link Moves to Assemble Routers In the US Following Import Ban</a></h2>
-                    <div class="meta">
-                        Oct 19, 2026 22:00 | 
-                        Source: <a href="https://slashdot.org/" target="_blank">slashdot.org</a>
-                    </div>
-                    
-                    <img src="https://a.fsdn.com/sd/twitter_icon_large.png">
-                    
-                    <p>TP-Link plans to begin assembling routers in Mississippi as early as 2027 after the FCC banned imports of new foreign-made consumer routers over security concerns. Engadget reports: The company has signed a letter of intent with manufacturer Key Tronic and, pending approval from regulators, TP-Link says stateside assembly of its routers could start at a Mississippi production line as soon as early 2027.
- 
-Once things are up and running, Wi-Fi 8 routers are expected to be among the first TP-Link products that Key Tronic assembles. TP-Link claims that the agreement is part of its &#34;long-term effort to accelerate US investment in high-tech manufacturing and job creation, designing and assembling next-generation products for American consumers here on American soil.&#34;
- 
-The company said it will still have to source components from outside the US. &#34;Many [components] are just not available from a domestic source, and this is not a TP-Link issue,&#34; TP-Link&#39;s corporate affairs officer Steve Kovsky told PC Mag. &#34;This is an issue for all manufacturers that are trying to onshore manufacturing.&#34;
-
-
-
-
-
-Read more of this story at Slashdot.</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://www.phoronix.com/news/Linux-7.4-EDAC" target="_blank">Linux 7.4 Sunsetting Old EDAC Drivers Due To &#34;AI Generated Fixes Frenzy&#34;</a></h2>
-                    <div class="meta">
-                        Oct 19, 2026 21:38 | 
-                        Source: <a href="https://www.phoronix.com/" target="_blank">phoronix.com</a>
-                    </div>
-                    
-                    <p>In addition to introducing the new Intel BFF driver, the Error Detection And Correction &#34;EDAC&#34; kernel subsystem is sunsetting a number of old hardware drivers due to increased noise to AI/LLM-generated bug fixes for these likely unused or minimally used drivers...</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://lxer.com/module/newswire/ext_link.php?rid=368286" target="_blank">Linux Kernel 7.3 Is Out with New FailFS, Scheduler Changes, and More</a></h2>
-                    <div class="meta">
-                        Oct 19, 2026 21:02 | 
-                        Source: <a href="https://lxer.com/" target="_blank">lxer.com</a>
-                    </div>
-                    
-                    <p>Linux 7.3 introduces the FailFS filesystem, an overhauled CPU scheduler, OverlayFS improvements, and expanded Rust and hardware support.</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://politics.slashdot.org/story/26/10/19/2055248/trump-dhs-officials-asked-cisa-to-secretly-aquire-and-hack-a-voting-machine?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" target="_blank">Trump DHS Officials Asked CISA To Secretly Aquire and Hack a Voting Machine</a></h2>
-                    <div class="meta">
-                        Oct 19, 2026 21:00 | 
-                        Source: <a href="https://slashdot.org/" target="_blank">slashdot.org</a>
-                    </div>
-                    
-                    <img src="https://a.fsdn.com/sd/twitter_icon_large.png">
-                    
-                    <p>Longtime Slashdot reader fahrbot-bot shares a report from ProPublica: A few months into President Donald Trump&#39;s second term, political appointees at the Department of Homeland Security (DHS) wanted Cybersecurity and Infrastructure Security Agency (CISA) to secretly acquire a voting machine and hack it. The appointees wanted the Cybersecurity and Infrastructure Security Agency to procure the machine, examine it and report back the findings so they could be given to the White House, according to two former administration officials with knowledge of the request.
- 
-The proposition was shocking to CISA&#39;s career staffers, according to one of the former officials. CISA typically worked to thwart hackers. Moreover, the agency had been directed not to alert the voting machine company if it uncovered flaws, contrary to its standard practices. The request made the CISA employees fear they were being asked to take part in political interference. &#34;My thought was they could keep it in their back pocket to invalidate any [election] results they don&#39;t like,&#34; one of the former officials said. &#34;This goes against everything CISA represents.&#34; [Or, perhaps do something worse?]
- 
-The CISA employees repeatedly told the political appointees that their request was impossible, in part because the agents capable of pulling off such an operation had just been laid off by Elon Musk&#39;s Department of Government Efficiency (DOGE) initiative. The appointees eventually stopped pressing CISA. Though not acted on, the request shows how the Trump administration has tried to use the agency for its own ends while draining it of resources for one of its critical missions: protecting the nation&#39;s voting systems.
-
-
-
-
-
-Read more of this story at Slashdot.</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://lxer.com/module/newswire/ext_link.php?rid=368299" target="_blank">Linus Torvalds&#39; AI Code Improved: Huge Performance Wins With Reworked Code</a></h2>
-                    <div class="meta">
-                        Oct 19, 2026 19:30 | 
-                        Source: <a href="https://lxer.com/" target="_blank">lxer.com</a>
-                    </div>
-                    
-                    <p>Last week I wrote about Linus Torvalds leveraging AI to come up with a hefty Linux kernel improvement using Claude Code. The code is for reading from the page cache without folio references to help workloads of small reads from a single file across many CPU threads. Meta engineer Kiryl Shutsemau has taken that code and reworked it and showing extremely promising performance results...</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://lwn.net/Articles/1101483/" target="_blank">Linux Plumbers Conference videos now available</a></h2>
-                    <div class="meta">
-                        Oct 19, 2026 19:04 | 
-                        Source: <a href="https://lwn.net" target="_blank">lwn.net</a>
-                    </div>
-                    
-                    <p>Mike Rapoport has announced
-the release of the video recordings from the 2026 Linux Plumbers Conference (LPC),
-which was held in Prague from October 5 through October 7. Find the
-complete set via the YouTube playlist
-or look for the video links in the schedule. See also LWN&#39;s
-coverage
-of talks from LPC.</p>
                 </article>
                 
             </div>
