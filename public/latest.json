@@ -1,5 +1,311 @@
 [
   {
+    "title": "Linux Kernel Needs Diversity and Diversity of Good Code, Not LLM Slop",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368364",
+    "description": "Linux needs an overhaul that realigns it with its roots and core mission. GAFAM employees are forced (by their employer) to slop, so therein lies a core (and code) problem.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368364",
+    "date": "Oct 22, 2026 15:44",
+    "published_at": "2026-10-22T15:44:01Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Linux 7.4 Improves Scheduling Latency For Short-Slice Tasks, NVIDIA Vera SMT Preference",
+    "link": "https://www.phoronix.com/news/Linux-7.4",
+    "description": "The scheduler updates have been merged for the in-development Linux 7.4 kernel to deliver several nice scheduling enhancements...",
+    "guid": "https://www.phoronix.com/news/Linux-7.4",
+    "date": "Oct 22, 2026 15:42",
+    "published_at": "2026-10-22T15:42:11Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Google Staff Resign In Backlash Over Its AI Contracts With Military",
+    "link": "https://tech.slashdot.org/story/26/10/22/0043216/google-staff-resign-in-backlash-over-its-ai-contracts-with-military?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from the BBC: Google is facing a backlash from some staff members over the company's deployment of its AI technology for military use. The BBC has spoken to several tech workers who have either recently resigned from Google's AI company, Google DeepMind, or are in the process of leaving, over concerns with the tech firm's military contracts. Sofia Liguori, a London-based research engineer, is one of them. She resigned from Google DeepMind this week and spoke about her concerns exclusively with the BBC, despite her contract restricting her from doing so.\n \n\"Realizing my company is pushing more and more for AI systems in military operations makes me feel ashamed to work at Google,\" Liguori said, speaking in a personal capacity. [...] After working for the company for three years, Liguori said she decided to resign over Google's increasing work with the US and Israeli militaries. \"I don't agree with this direction and this has led me to lose faith in my company being true to its stated ethical values,\" she said. Those values, according to Google's AI Principles, include implementing AI with \"human oversight\" and aligning the technology with \"international law and human rights.\" But former and current staff at the company, and experts the BBC spoke to, said they were concerned about the level of human oversight at critical moments.\n \nThe tech workers said they are particularly worried about the AI military deals signed this year, because they greatly increase the scope of what the Pentagon can use the technology for. Andreas Kirsch, an AI researcher, also resigned from Google DeepMind earlier this month over his concerns. Kirsch told the BBC that he believes \"Google's governance and oversight are not sufficient or meaningful enough to deploy AI safely and responsibly in military and classified settings\" or \"to develop artificial superintelligence safely in the future.\" \"Google seems to have no right to control or veto how the Pentagon uses its AI and also seems to have limited visibility into how it's being deployed,\" he added.\n \n[...] Employees at Google have told the BBC that staff are scared to speak out about AI safety and its uses in warfare because their employment contracts prohibit them from publicly criticizing the company. \"In principle I'm not allowed to criticize Google for the duration of my life,\" Sofia Liguori told the BBC. But she decided to do so \"because I believe it's important for these things to be known and I also think that talking about facts is not criticizing.\" Liguori added that at Google \"people are scared of retaliation and putting their career at risk. You feel you are being watched, you can't speak.\"\n \nA current employee at Google DeepMind, who declined to be named for fear of retaliation, told the BBC that \"a lot of motivated employees who signed up for [the company's] original mission could leave -- but there's also a pipeline of people at the start of the careers who could fill those positions. It could be a changing of the guard.\" Another Google DeepMind staff member, who also wished to remain anonymous, told the BBC: \"A lot of people have left the company that feel strongly about this [how Google DeepMind has changed its ethics position].\" \"Some people are putting up a fight, others are thinking: 'it's a big company. What do you expect to change?'\", the employee said. In response, a Google spokesperson told the BBC: \"We work with public sector organisations worldwide and follow a consistent process for reviewing and entering these contracts, including compliance with our acceptable use policies and AI principles.\"\n \n\"We also have dedicated channels for employees to safely raise any concerns -- ranging from business ethics to misconduct -- and have strict workplace policies in place to prevent retaliation of any kind.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 22, 2026 15:00",
+    "published_at": "2026-10-22T15:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "This Newly Proposed Linux Filesystem Can Fix Corrupted Data",
+    "link": "https://feed.itsfoss.com/link/24361/17502832/beamfs-linux-filesystem-proposal",
+    "description": "Aimed at hardware exposed to radiation, like satellites, BeamFS can repair data without keeping a second copy.",
+    "guid": "6ad99d1f60c2f50001f1e7f9",
+    "date": "Oct 22, 2026 14:39",
+    "published_at": "2026-10-22T14:39:35Z",
+    "image": "https://itsfoss.com/content/images/2026/10/beamfs-linux-banner.png",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "KeePassXC 2.8.0 released",
+    "link": "https://lwn.net/Articles/1102270/",
+    "description": "Version\n2.8.0 of the KeePassXC password-management application has been\nreleased.\n\n\nThe new release brings a lot of long-awaited new features, many bugfixes, and\nseveral security updates. Among the major features are the migration from Qt5 to\nQt6, Auto-Type on Wayland (Linux), configurable keyboard shortcuts, remote\ndatabase synchronization with external tools, quick unlock with password on\nmacOS, and quick unlock via Polkit on Linux. Version 2.8.0 is also the first\nversion for which we ship native ARM64 builds for Windows and an experimental\nAArch64 (i.e., ARM64) AppImage for Linux.\n\n\nSee the changelog\nfor a full list of new features, major changes, and bug fixes.",
+    "guid": "https://lwn.net/Articles/1102270/",
+    "date": "Oct 22, 2026 13:34",
+    "published_at": "2026-10-22T13:34:37Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "x86 Kernel Shadow Stacks Being Worked On For Linux As Powerful Control Flow Protection",
+    "link": "https://www.phoronix.com/news/Linux-Kernel-Shadow-Stacks",
+    "description": "Linux user-space for several years had shadow stack support for hardware-enforced control-flow enforcement in defending against return oriented programming (ROP) attacks. Intel Tigerlake and newer CPUs or AMD Zen 3 and newer have the necessary hardware shadow stacks support. Shadow stacks have been effective for helping user-space software fend ROP attacks while now there is new work toward bringing shadow stack support for kernel space on Linux...",
+    "guid": "https://www.phoronix.com/news/Linux-Kernel-Shadow-Stacks",
+    "date": "Oct 22, 2026 13:22",
+    "published_at": "2026-10-22T13:22:56Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "[$] Rust features in the future",
+    "link": "https://lwn.net/Articles/1099606/",
+    "description": "\nThere are several Rust features that kernel developers have been hoping to\nstabilize, but Josh Triplett wanted to describe all of the other\nfeatures that the Rust project is currently working on. He spoke about the topic\nat Kangrejos 2026, leaving the assembled kernel developers with several ideas\nabout how to use these upcoming Rust features in the kernel.\nThe features included refinements to the type system, small syntax improvements, and a\nsmarter borrow checker.\n",
+    "guid": "https://lwn.net/Articles/1099606/",
+    "date": "Oct 22, 2026 13:19",
+    "published_at": "2026-10-22T13:19:56Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "FOSS Weekly #26.43: Kernel 7.3, Non-Linux OS, de-Googled Phone, DuxOS, Podcasts, De-bloating TVs, KDE Dock and More",
+    "link": "https://feed.itsfoss.com/link/24361/17502758/foss-weekly-26-43",
+    "description": "A new kernel and a new Ubuntu release are here. ",
+    "guid": "6ad89ba9f483580001371350",
+    "date": "Oct 22, 2026 13:19",
+    "published_at": "2026-10-22T13:19:30Z",
+    "image": "https://itsfoss.com/content/images/2026/10/foss-weekly-1--1.webp",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "Security updates for Thursday",
+    "link": "https://lwn.net/Articles/1102265/",
+    "description": "Security updates have been issued by AlmaLinux (.NET 10.0, .NET 8.0, .NET 9.0, cockpit-files, cockpit-machines, fetchmail, glycin-loaders, go-toolset:rhel8, golang, hostapd, jackson-core, kernel, kernel-rt, librsvg2, lrzsz, mariadb11.8, openexr, openssh, openssl, perl-DBI:1.641, python-urllib3, python3.12-urllib3, qt5-qtbase, rust-sequoia-sq, and xorg-x11-server-Xwayland), Arch Linux (php and php-legacy), Debian (bind9, firefox-esr, nginx, php8.2, and php8.4), Fedora (ca-certificates, dolphin, gnome-shell-extension-gsconnect, libdigidocpp, linux-firmware, nicotine+, perl-ExtUtils-Typemaps-Default, php, python-cairosvg, qdigidoc, rust-rustls-webpki, rust-webpki-root-certs, and rust-webpki-roots), Gentoo (PHP), Mageia (php8.5, php8.4), Oracle (perl-URI), Red Hat (go-toolset:rhel8, golang, grafana-pcp, kernel, kernel-rt, nodejs-nodemon, nodejs22, nodejs24, nodejs:22, nodejs:24, rhc, and sudo), Slackware (php), SUSE (aliyun-cli, bouncycastle, buildah, ca-certificates-mozilla, chromedriver, cifs-utils, cyrus-sasl, docker, firefox, gimp, git-bug, GraphicsMagick, libheif, libpng16, libraw, libsoup-2_4-1, mutt, onefetch, openexr, openssh, openssl-certs, php7, php8, poppler, python-hpack, python310, python313-Django4, qemu, rootlesskit, tiff, xwayland, and yt-dlp), and Ubuntu (c-ares, ghostscript, libsoup3, libxs-parse-keyword-perl, nss, php5, php7.0, php7.2, php7.4, php8.1, php8.3, php8.5, poppler, pyjwt, u-boot, and unbound).",
+    "guid": "https://lwn.net/Articles/1102265/",
+    "date": "Oct 22, 2026 13:09",
+    "published_at": "2026-10-22T13:09:09Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "Mesa Loosens Rules Around AI Agents For Code Comments / Commit Messages",
+    "link": "https://www.phoronix.com/news/Mesa-Loosens-AGENTS-MD",
+    "description": "The Mesa 3D graphics driver project has loosened its rules laid out in their AGENTS.md for AI agents to permit AI/LLM assistance in generating code comments and commit/patch messages, as long as a human is ultimately reviewing/editing it in the end...",
+    "guid": "https://www.phoronix.com/news/Mesa-Loosens-AGENTS-MD",
+    "date": "Oct 22, 2026 12:03",
+    "published_at": "2026-10-22T12:03:30Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Myrlyn 1.1 Released For SUSE/openSUSE GUI Package Manager",
+    "link": "https://www.phoronix.com/news/Myrlyn-1.1-Released",
+    "description": "Myrlyn, the package manager GUI that began as YQPkg during a SUSE Hack Week and has evolved quite well, is out with version 1.1 as the first new feature update since the beginning of the year...",
+    "guid": "https://www.phoronix.com/news/Myrlyn-1.1-Released",
+    "date": "Oct 22, 2026 11:47",
+    "published_at": "2026-10-22T11:47:43Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": " Retro Atari VCS platform will end with the closure of its software store in February 2027 ",
+    "link": "https://www.tomshardware.com/video-games/retro-gaming/retro-atari-vcs-platform-will-end-with-the-closure-of-its-software-store-in-february-2027-os-update-will-be-released-removing-reliance-on-atari-servers-and-opening-up-homebrew-development",
+    "description": " The modern Atari VCS is being officially retired with the firm’s decision to shut down the Linux-based AMD APU-powered machine's software store early next year. ",
+    "guid": "h459sXwpoLYktNrzb7PL6",
+    "date": "Oct 22, 2026 11:45",
+    "published_at": "2026-10-22T11:45:00Z",
+    "image": "https://cdn.mos.cms.futurecdn.net/XShVKXVKaxqCkqmcnxHqth-1920-80.jpg",
+    "source": "tomshardware.com",
+    "source_url": "https://www.tomshardware.com/software/operating-systems/linux"
+  },
+  {
+    "title": "Airbnb Bans Making Guests Do Dishes, Take Out the Trash",
+    "link": "https://slashdot.org/story/26/10/22/0026211/airbnb-bans-making-guests-do-dishes-take-out-the-trash?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Airbnb is banning hosts from requiring guests to perform time-consuming checkout chores, including washing dishes, stripping beds, doing laundry, and taking trash off-site. The updated policy applies to reservations booked on or after November 20. The Verge reports: Airbnb is displaying hosts' requests more prominently now in a new \"rules and requests\" section on listings. You might see an \"includes cleaning requests\" warning if a host leaves chore requests in their listing after the new policy goes into effect. Hosts aren't allowed to sneak in extra rules in messages to guests or on signs around their property, either.\n \nSome hosts pushed back on the house rules restrictions on Airbnb's forums, saying they pose health risks and arguing that guests can simply choose not to stay at listings with overly-strict rules. Airbnb says there can be exceptions to the limits on checkout chores, like asking guests to \"dispose of trash in an animal-proof container in bear country.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 22, 2026 11:00",
+    "published_at": "2026-10-22T11:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Mesa RADV Change Satisfies More Steam Play Games On Aging AMD GFX8 GPUs",
+    "link": "https://www.phoronix.com/news/Mesa-RADV-GFX8-FP16-Gaming",
+    "description": "Valve landed a patch in Mesa 27.0 and to be back-ported to current Mesa stable series to satisfy more games running under Steam Play with VKD3D-Proton for working on AMD GFX8 GPUs like Polaris...",
+    "guid": "https://www.phoronix.com/news/Mesa-RADV-GFX8-FP16-Gaming",
+    "date": "Oct 22, 2026 10:30",
+    "published_at": "2026-10-22T10:30:00Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Cyberpunk 2077 Edgerunners update brings improved modding, better HDR, new content and more",
+    "link": "https://www.gamingonlinux.com/2026/10/cyberpunk-2077-edgerunners-update-brings-improved-modding-better-hdr-new-content-and-more/",
+    "description": "CD PROJEKT RED have released another major free update for Cyberpunk 2077 adding new content from the Anime, along with other tech upgrades.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/10/cyberpunk-2077-edgerunners-update-brings-improved-modding-better-hdr-new-content-and-more/",
+    "date": "Oct 22, 2026 10:12",
+    "published_at": "2026-10-22T10:12:54Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/961085677id30036gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Several Linux Kernel Vulnerabilities Accidentally Posted To Public Kernel Mailing List",
+    "link": "https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities",
+    "description": "Seemingly as an accident, overnight several new Linux kernel vulnerability reports were posted to the public Linux kernel mailing list rather than the private security mailing list. The vulnerabilities have yet to be patched on mainline but at least in some cases there are patches undergoing testing or queued in \"-next\" branches. The CVSS scores are as high as 9.0...",
+    "guid": "https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities",
+    "date": "Oct 22, 2026 10:05",
+    "published_at": "2026-10-22T10:05:53Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Linux 7.4 Adapts AMD Zen 6 For Less Costly CPU Security Mitigation",
+    "link": "https://www.phoronix.com/news/AMD-Zen-6-BTB-Linux-7.4-Merged",
+    "description": "The x86/bugs pull request was merged this week for the Linux 7.4 kernel. Most notable here is adjusting the CPU security mitigations for AMD Zen 6 processors...",
+    "guid": "https://www.phoronix.com/news/AMD-Zen-6-BTB-Linux-7.4-Merged",
+    "date": "Oct 22, 2026 09:40",
+    "published_at": "2026-10-22T09:40:39Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Another set of 15 demos to try in Steam Next Fest - October 2026 edition",
+    "link": "https://www.gamingonlinux.com/2026/10/another-set-of-15-demos-to-try-in-steam-next-fest-october-2026-edition/",
+    "description": "Another chance for you to find your next favourite, with our second set of demo highlights from Steam Next Fest - October 2026 edition.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/10/another-set-of-15-demos-to-try-in-steam-next-fest-october-2026-edition/",
+    "date": "Oct 22, 2026 09:02",
+    "published_at": "2026-10-22T09:02:50Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1514690851id30033gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Warhammer 40,000: Dawn of War IV has an exciting new gameplay overview trailer",
+    "link": "https://www.gamingonlinux.com/2026/10/warhammer-40-000-dawn-of-war-iv-has-an-exciting-new-gameplay-overview-trailer/",
+    "description": "We've got another close look at Warhammer 40,000: Dawn of War IV ahead of the December release, with an impressive new trailer.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/10/warhammer-40-000-dawn-of-war-iv-has-an-exciting-new-gameplay-overview-trailer/",
+    "date": "Oct 22, 2026 08:46",
+    "published_at": "2026-10-22T08:46:10Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1950257685id30035gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Serious Sam: The Third Encounter gets teased by Croteam and Devolver Digital",
+    "link": "https://www.gamingonlinux.com/2026/10/serious-sam-the-third-encounter-gets-teased-by-croteam-and-devolver-digital/",
+    "description": "Back for another helping of ridiculous action, Croteam and Devolver Digital have revealed Serious Sam: The Third Encounter.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/10/serious-sam-the-third-encounter-gets-teased-by-croteam-and-devolver-digital/",
+    "date": "Oct 22, 2026 08:28",
+    "published_at": "2026-10-22T08:28:29Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/472112038id30034gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Terminal Text Editor: Like VS Code But in Linux Terminal",
+    "link": "https://feed.itsfoss.com/link/24361/17502577/terminal-text-editor",
+    "description": "Instead of trying to emulate traditional terminal editors, TTT provides a modern, GUI-like editing experience in the terminal with virtually no configuration required. ",
+    "guid": "6ace269f0502180001324522",
+    "date": "Oct 22, 2026 08:07",
+    "published_at": "2026-10-22T08:07:33Z",
+    "image": "https://itsfoss.com/content/images/2026/10/terminal-text-editor.webp",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "Epic Games Launcher Preview is slowly becoming actually usable on Linux",
+    "link": "https://www.gamingonlinux.com/2026/10/epic-games-launcher-preview-is-slowly-becoming-actually-usable-on-linux/",
+    "description": "Epic Games recently announced a new in-development preview of the Epic Games Launcher, which has Linux support and recent updates have made it not so crap.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/10/epic-games-launcher-preview-is-slowly-becoming-actually-usable-on-linux/",
+    "date": "Oct 22, 2026 07:24",
+    "published_at": "2026-10-22T07:24:54Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/231612707id30032gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "SteamOS 3.9.4 Beta brings updates for security, hibernation and regression fixes",
+    "link": "https://www.gamingonlinux.com/2026/10/steamos-3-9-4-beta-brings-updates-for-security-hibernation-and-regression-fixes/",
+    "description": "Valve released a fresh SteamOS 3.9.4 Beta to fix up some annoying issues, along with a security update.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/10/steamos-3-9-4-beta-brings-updates-for-security-hibernation-and-regression-fixes/",
+    "date": "Oct 22, 2026 07:10",
+    "published_at": "2026-10-22T07:10:57Z",
+    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/steam-hardware-family-steamos_gol2_4c8c9b9c.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Steam Client update fixes Vulkan games hanging after alt-tab, and a security update",
+    "link": "https://www.gamingonlinux.com/2026/10/steam-client-update-fixes-vulkan-games-hanging-after-alt-tab-and-a-security-update/",
+    "description": "An annoying bug I've run into a few times recently has been solved - Vulkan games hanging after alt-tab should be fixed with this new Steam Client update.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/10/steam-client-update-fixes-vulkan-games-hanging-after-alt-tab-and-a-security-update/",
+    "date": "Oct 22, 2026 07:06",
+    "published_at": "2026-10-22T07:06:21Z",
+    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/steam_plain_2025.jpg",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "SteamVR 2.18 brings Linux fixes, Steam Frame improvements, new Aurora environment",
+    "link": "https://www.gamingonlinux.com/2026/10/steamvr-2-18-brings-linux-fixes-steam-frame-improvements-new-aurora-environment/",
+    "description": "Valve just released the latest stable SteamVR 2.18 update, bringing with it an assortment of fixes for all supported platforms including Steam Frame.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/10/steamvr-2-18-brings-linux-fixes-steam-frame-improvements-new-aurora-environment/",
+    "date": "Oct 22, 2026 07:01",
+    "published_at": "2026-10-22T07:01:05Z",
+    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/SteamVR.jpg",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "America's War Department Will Test Heat Ray Weapon For Potential Use",
+    "link": "https://tech.slashdot.org/story/26/10/22/0020206/americas-war-department-will-test-heat-ray-weapon-for-potential-use?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Longtime Slashdot reader destinyland shares a report from CNN: The Pentagon has given the Department of Homeland Security permission to test a military-grade heat ray and develop tactics to potentially use it in operations at the southern US border, according to a memo signed by Defense Secretary Pete Hegseth last month and obtained by CNN. The heat ray, officially known as the Active Denial System, is a nonlethal weapon that shoots an invisible beam of electromagnetic waves that can reach a little more than half a mile away, according to the US military. The energy beam causes a burning sensation when it comes into contact with the human skin -- which Pentagon officials have previously compared to feeling a blast of heat when opening a hot oven. Military officials have said the resulting \"tingling effect\" lasts between 10 and 15 minutes but also generates \"an instinctive and irresistible urge to run from the effect.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 22, 2026 07:00",
+    "published_at": "2026-10-22T07:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Solder-down COM brings i.MX95 to Linux dev kit",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368340",
+    "description": "ADLINK’s I-Pi OSM IMX95 is an industrial development kit based on NXP’s six-core i.MX95 processor with an integrated 2 TOPS NPU. It pairs a solder-down OSM 1.2 module with a 4-inch carrier board, offering dual Gigabit Ethernet, display connectivity, and expansion options for edge AI applications. The I-Pi OSM IMX95 integrates ADLINK’s OSM-IMX95 computer-on-module with […]",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368340",
+    "date": "Oct 22, 2026 06:07",
+    "published_at": "2026-10-22T06:07:20Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "LibreOffice Hits 9.4 Million Downloads in Just Eight Weeks",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368356",
+    "description": "LibreOffice records 9.4 million downloads in eight weeks, with 2026 download figures already exceeding the entire 2025 total.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368356",
+    "date": "Oct 22, 2026 04:35",
+    "published_at": "2026-10-22T04:35:50Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Startup Claims To Use AI-Created Viruses To Treat a Patient",
+    "link": "https://science.slashdot.org/story/26/10/21/2054216/startup-claims-to-use-ai-created-viruses-to-treat-a-patient?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from The New York Times: For the first time, scientists say they have used viruses designed by artificial intelligence to treat a human patient. Researchers announced on Tuesday that they had administered the virus, known as a phage, to a patient suffering from a deadly bacterial infection. Phages attack bacteria, and the hope is that this one will kill the microbes causing the infection.\nRadical Numerics, the start-up that created the viruses, posted a technical report about them on its website. But the company declined to provide information about the patient or the doctors running the trial, citing confidentiality requirements.\n \n[...] In 2025, researchers at the Arc Institute in Palo Alto, Calif., created an A.I. model called Evo 2, which they trained on millions of DNA sequences, including phage genes. They prompted Evo 2 to make new genomes similar to those in a group of phage species. The A.I. generated 700,000 virus genomes. The team synthesized DNA molecules from 285 genomes and inserted them into bacteria. The researchers found that 16 of the genomes gave rise to viable viruses. Three members of the Evo team, including Dr. Nguyen, left to found Radical Numerics. In June, the company unveiled a new A.I. model, called Omnii, based on some of the same principles as Evo.\n \nOmnii can be trained not just on DNA but also on other aspects of biology, such as the structures of proteins and molecules that keep genes turned on or off. The company is now using Omnii to tackle a range of challenges, including designing cancer vaccines and recognizing the risk that a virus may cause a pandemic. Among these efforts is the first trial of A.I.-designed phage therapy. The researchers created variations of a phage called T7. The virus, which only infects E. coli, looks like a microscopic Apollo lunar lander: a ball-shaped protein shell that holds its DNA atop six leglike protrusions. To infect a bacterium, T7 lands on its surface, using its legs to anchor in place. It then injects its DNA into the cell.\n \nOmnii generated new viral genes altering the shapes of T7's legs, according to Dr. Nguyen and his colleagues. While some of the new legs were significantly different from natural ones, Omnii's phages could still infect bacteria. Once the researchers were confident their strategy had worked, they partnered with doctors treating a patient with a stubborn E. coli infection. The bacteria had resisted not just antibiotics but all the available phages. The researchers said they had trained Omnii with information about the resistant strain and told it to design T7 phages with legs that could grab onto the bacteria. Once the A.I. generated genomes for new viruses, the scientists said they produced the corresponding DNA molecules and inserted them in bacteria. The bacteria became infected and produced T7 phages that could successfully infect, and kill, other microbes. After running tests to make sure the phages were safe, Radical Numerics presented them to the doctors. The F.D.A. authorized a trial. While the trial was authorized by the FDA, it's worth noting that the research has not yet been peer-reviewed in a scientific journal and there's no guarantee the AI-designed phages will work.\n \nHowever, if it does prove successful, it could help speed phage therapy by cutting down the time it takes to create a new virus tailored to each patient's infection. \"We think we can get it done in days,\" said Dr. Eric Nguyen, the chief executive officer of Radical Numerics.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 22, 2026 03:30",
+    "published_at": "2026-10-22T03:30:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
     "title": "KeePassXC 2.8 Released with ARM64 and Wayland Auto-Type Support on Linux",
     "link": "https://lxer.com/module/newswire/ext_link.php?rid=368360",
     "description": "KeePassXC 2.8 has been released today as a major update to this open-source, free, and cross-platform password manager for GNU/Linux, macOS, and Windows systems, with new features and enhancements.",
@@ -519,213 +825,5 @@
     "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1330023672id30022gol.webp",
     "source": "gamingonlinux.com",
     "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Here's another 15 demos worth checking out in Steam Next Fest - October 2026 edition",
-    "link": "https://www.gamingonlinux.com/2026/10/heres-another-15-demos-worth-checking-out-in-steam-next-fest-october-2026-edition/",
-    "description": "With the increasing amount of slop on Steam, you may need just a bit of help to sift through it to find something special to play.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/10/heres-another-15-demos-worth-checking-out-in-steam-next-fest-october-2026-edition/",
-    "date": "Oct 21, 2026 08:09",
-    "published_at": "2026-10-21T08:09:37Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1095377755id30021gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "KDE Plasma 6.8.1 Released with KWin Fixes, RDP Improvements",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368319",
-    "description": "KDE Plasma 6.8.1 is out with KWin stability fixes, improved Windows RDP compatibility, and fixes for Discover, Spectacle, and Wayland.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368319",
-    "date": "Oct 21, 2026 07:25",
-    "published_at": "2026-10-21T07:25:29Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Play with friends with the Social Multiplayer Games Collection from Digiphile",
-    "link": "https://www.gamingonlinux.com/2026/10/play-with-friends-with-the-social-multiplayer-games-collection-from-digiphile/",
-    "description": "Digiphile (former Humble Bundler staff) just launched their new Social Multiplayer Games Collection.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/10/play-with-friends-with-the-social-multiplayer-games-collection-from-digiphile/",
-    "date": "Oct 21, 2026 07:10",
-    "published_at": "2026-10-21T07:10:24Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/2141278198id30020gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Get more fun VR games in the Flat2VR Humble Bundle",
-    "link": "https://www.gamingonlinux.com/2026/10/get-more-fun-vr-games-in-the-flat2vr-humble-bundle/",
-    "description": "In the need for more good VR experiences? Got you covered here with our round-up of the brand new Flat2VR Humble Bundle.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/10/get-more-fun-vr-games-in-the-flat2vr-humble-bundle/",
-    "date": "Oct 21, 2026 07:03",
-    "published_at": "2026-10-21T07:03:36Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1311231244id30019gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Russian Satellite's Close Shadowing of Radar Imaging Satellite Is a Big Deal",
-    "link": "https://science.slashdot.org/story/26/10/21/0449230/russian-satellites-close-shadowing-of-radar-imaging-satellite-is-a-big-deal?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Longtime Slashdot reader schwit1 shares a report from TWZ: A Russian satellite, Kosmos 2612, may have passed within approximately 85 feet (26 meters) of a U.S.-registered satellite belonging to commercial imagery provider ICEYE. This would be an extraordinarily close and potentially dangerous pass-by for two objects in space traveling at thousands of miles per hour. For weeks beforehand, ICEYE-X36, which would be of special interest to Russia, had already found itself in increasingly close orbital alignment with its pursuer. The two satellites now look to be drifting further and further apart, but the episode has been a clear sign of what is to come as the potential for conflict in space only continues to grow.\n\n Publicly available space tracking data from the satellitemap.space and orbitalradar.com websites show that Kosmos 2612 (also written sometimes Cosmos 2612 and abbreviated K2612) and ICEYE X36 had their especially close encounter at approximately 16:07 UTC today. Private space services company LeoLabs also told TWZ today that it could not \"confirm or contradict what other data sources have stated publicly,\" but that it has \"high-confidence that the objects came within approximately [emphasis in the original] 500 meters [1,640 feet] of each other.\" Kosmos 2612 had been making progressively closer passes by ICEYE X36 in recent days. \"This is the most advanced and potentially dangerous uncooperative RPO we've observed,\" Adam Marsh, LeoLabs vice president for technical solutions, separately told Breaking Defense.\n \n\"It's important to note that 'red' on 'blue' engagements, such as this, are relatively uncommon in Low Earth Orbit (LEO),\" LeoLabs' report points out. At the same time, \"this was not a routine conjunction or 'fly by.' The sequence included a controlled approach, changes in relative position, close-proximity loitering, additional small maneuvers, and a controlled departure. The behavior is consistent with sophisticated rendezvous and proximity operations (RPO).\"\n \n\"We can only speculate about the operation's goal, but it could have been anything from simply intimidation to outright destruction or sabotage of a U.S.-registered satellite,\" CSIS' Clayton Swope told TWZ. \"Perhaps the operation is on hold. There are, however, several other satellites that shadowed ICEYE X36 back in May that could be brought in[to] action too.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 21, 2026 07:00",
-    "published_at": "2026-10-21T07:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Linux Coredumps Via Sockets Can Be Much Smaller Now With Sparse Support",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368326",
-    "description": "Added to the Linux kernel last year was Coredump support via Unix domain sockets as an alternative to the pipe-based Coredumps. With code now merged for Linux 7.4, the core dumps via sockets has the potential of being much smaller thanks to sparse support. In extreme cases they can be 1% of the size without sparse support...",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368326",
-    "date": "Oct 21, 2026 05:54",
-    "published_at": "2026-10-21T05:54:00Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "COSMIC 1.11 Desktop Environment Released with New Touchpad Settings",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368336",
-    "description": "Linux hardware vendor System76 released COSMIC 1.11 today as the latest stable version of this Rust-based desktop environment for modern GNU/Linux distributions.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368336",
-    "date": "Oct 21, 2026 04:22",
-    "published_at": "2026-10-21T04:22:30Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Judge Orders Meta To Name Employees Who Approved Torrenting Anna's Archive, Libgen",
-    "link": "https://yro.slashdot.org/story/26/10/20/2055251/judge-orders-meta-to-name-employees-who-approved-torrenting-annas-archive-libgen?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "An anonymous reader quotes a report from TorrentFreak: Last month, Magistrate Judge Thomas Hixson ordered Meta to hand over the command histories of the servers it used to torrent pirated books. These logs would presumably reveal how Meta's torrent clients were set up, including any changes to their upload settings. [...] The server logs could reveal what happened on Meta's machines. However, publisher Entrepreneur Media also wants to know who approved the torrenting activity.\n \nEntrepreneur Media, which publishes Entrepreneur magazine, filed one of the related lawsuits where it accuses Meta of contributing to piracy by uploading (seeding) works to third parties, similar to the authors' contributory infringement claim. To find out more, the publisher asked Meta to identify everyone who \"made, authorized, or approved\" the decisions to obtain the shadow library datasets, and to do so via BitTorrent.\n \nMeta's answers named several people who are believed to have been involved in data-related decisions. However, Meta said it couldn't identify anyone who \"formally\" made or approved decisions to acquire or use books for its first two Llama models. Those decisions were often the result of team consensus, Meta argued. When it came to the torrenting itself, Meta pointed to the employees who ran the downloads, describing their choices as technical decisions.\n \nMeta added that the acquisition of data from Anna's Archive went through an internal legal review in early 2024, which involved its in-house lawyers. In other words, the company didn't name anyone higher up who approved the use of BitTorrent. \"On that construction no one at Meta decided to torrent anything, yet Meta torrented shadow libraries repeatedly from 2022-2024,\" Entrepreneur Media countered. An internal Meta logbook warned that using torrents would involve sharing copyrighted material with others. \"Using torrents would entail seeding the file such as sharing content outside. This would be legally not okay,\" the logbook stated.\n \nAlthough Meta admits downloading data from LibGen and Anna's Archive via BitTorrent, it claims no one \"made, authorized, or approved\" a decision to distribute the material and that measures were taken to limit seeding. Meta's own expert previously estimated that uploads from its AWS servers amounted to no more than roughly 30% of the data downloaded during a period in 2024.\n \nJudge Thomas Hixson is not convinced and ordered (PDF) the company to identify everyone involved in approving the downloads, including those who decided \"whether or how to seed, or to mitigate seeding.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 21, 2026 03:30",
-    "published_at": "2026-10-21T03:30:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Wine on OpenBSD? Yes, and It Can Already Run The Witcher 3",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368335",
-    "description": "An experimental Wine port brings Windows app and gaming support to OpenBSD, with 64-bit applications and even The Witcher 3 running successfully.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368335",
-    "date": "Oct 21, 2026 02:51",
-    "published_at": "2026-10-21T02:51:01Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Improved Performance \u0026 Resource Usage For XFS Checksumming With Linux 7.4",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368333",
-    "description": "Among the many VFS pull requests merged as the initial material for the in-development Linux 7.4, the VFS IOmap pull introduced lazy bounce buffering for checksummed reads. This improvement is benefiting checksumming on XFS with improved performance and lower resource usage...",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368333",
-    "date": "Oct 21, 2026 01:19",
-    "published_at": "2026-10-21T01:19:31Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Dynamic PAMT Merged For Linux 7.4 To Help Intel Servers Save Precious RAM",
-    "link": "https://www.phoronix.com/news/Linux-74-Intel-TDX-Dynamic-PAMT",
-    "description": "Dynamic PAMT has made it for Linux 7.4! Dynamic PAMT is a new feature for reducing memory overhead on Intel TDX servers where there may not be many concurrent virtual machines occupying a majority of the system. In today's world with high memory prices and tight availability, Dynamic PAMT provides nice memory overhead reduction for modern Intel Xeon servers...",
-    "guid": "https://www.phoronix.com/news/Linux-74-Intel-TDX-Dynamic-PAMT",
-    "date": "Oct 21, 2026 00:26",
-    "published_at": "2026-10-21T00:26:59Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "OpenBSD 8.0 Released with 64-vCPU VM Support, Intel Arc Graphics",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368315",
-    "description": "OpenBSD 8.0 is out with support for 64-vCPU virtual machines, Intel Arc graphics, ARM64 hibernation, and updated DRM drivers.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368315",
-    "date": "Oct 20, 2026 23:48",
-    "published_at": "2026-10-20T23:48:02Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Ukraine Claims World's First Drone Evacuation of Wounded Soldier",
-    "link": "https://tech.slashdot.org/story/26/10/20/1929211/ukraine-claims-worlds-first-drone-evacuation-of-wounded-soldier?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Ukraine says it carried out the world's first evacuation of a wounded soldier by aerial drone, using a heavy-lift hexacopter after enemy drones and landmines made conventional ground evacuation too dangerous. NBC News reports: Shared by the 92nd Separate Assault Brigade on Monday, the video shows the soldier strapping himself into a large drone and being flown at what appears to be relatively low altitude over blurred-out territory. The drone carefully lowers him, and the drone operator greets him with \"Welcome back to the ground!\" The video also shows blurred faces of drone operators who carried out the mission.\n \nThe post said the unidentified infantryman was wounded at his position. \"Due to intense enemy drone activity and the presence of landmines, evacuation using conventional unmanned ground vehicles was impossible,\" the brigade said. \"At that point, the specialists in our unit took it upon themselves to attempt something that had never been done before: evacuating a serviceman using an aerial drone,\" it added.\n \nThe craft was a heavy-lift hexacopter, it said, originally designed as a bomber by a Ukrainian manufacturer. It looks about twice the size of the soldier in the video. The specialists working on the mission had to ensure the drone could carry a human being without flipping over or swaying excessively, according to the unit.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 20, 2026 23:00",
-    "published_at": "2026-10-20T23:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "COSMIC Epoch 1.11 Released With Wayland xdg-dialog-v1, Better Multi-GPU Handling",
-    "link": "https://www.phoronix.com/news/COSMIC-Epoch-1.11",
-    "description": "System76 developers just released COSMIC Epoch 1.11 as the newest point release to their Rust-written open-source desktop environment catering to their in-house Pop!_OS Linux distribution...",
-    "guid": "https://www.phoronix.com/news/COSMIC-Epoch-1.11",
-    "date": "Oct 20, 2026 22:32",
-    "published_at": "2026-10-20T22:32:12Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Intel \u0026 AMD Now Collaborating On Software Optimizations With PyTorch/oneDNN",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368332",
-    "description": "Intel has long worked on tuning their oneDNN neural network library for their hardware and saw its adoption by PyTorch and other AI frameworks. AMD has maintained ZenDNN as their downstream fork that is oneDNN API compatible while catering to their Zen processor designs. As an interesting twist, AMD and Intel jointly announced today they will be collaborating around oneDNN for PyTorch and pushing the AMD Zen improvements into oneDNN...",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368332",
-    "date": "Oct 20, 2026 22:16",
-    "published_at": "2026-10-20T22:16:33Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Sony Updates the Walkman As a $5,900 Gold-Plated MP3 Player",
-    "link": "https://hardware.slashdot.org/story/26/10/20/1923237/sony-updates-the-walkman-as-a-5900-gold-plated-mp3-player?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Sony has revived its Walkman lineup with three Android 16-powered high-end music players ranging from $1,900 to $5,900, topped by the gold-plated NW-WM1ZM3 with 256GB of storage. The Register reports: The Japanese giant named the new models the NW-WM1ZM3, NW-WM1AM3 and NW-ZX900. All can store and play many codecs, including MP3s, WMA, and FLAC files, plus others like Direct Stream Digital (DSD) and Apple Lossless, which use various tricks to avoid nasty artefacts accruing during the digitization process. Sony also says it has used \"key components made from oxygen-free copper\" because that apparently delivers \"uncompromising sound quality.\"\n \nThe machines also include \"screws featuring a low-resistance gold-plated treatment ... providing a stable ground connection that delivers powerful bass, an expansive soundstage and smooth, extended high frequencies.\" Sony claims even the cabling it's used in the devices \"further reduces noise and preserves signal integrity for rich, detailed sound.\" They're also housed in carefully-milled slabs of copper -- gold-plated in the case of the NW-WM1ZM3 -- because that apparently improves sound, too.\n \nAnd then Sony's gone and spoiled it all by offering Bluetooth connectivity, a notorious music-mangler, in addition to wired headphone ports. Sony's US site lists all three devices, which run Android 16 and include Wi-Fi so they can access streaming music services. All are USB-chargeable and Sony claims their batteries allow 30-odd hours of music playback.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 20, 2026 22:00",
-    "published_at": "2026-10-20T22:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Critical PHP security update coming",
-    "link": "https://lwn.net/Articles/1101687/",
-    "description": "The PHP security team has let it be\nknown that there is a high-stakes security update coming at\n14:00 UTC on October 21.  \"All PHP users are encouraged to\nprepare now so they can upgrade as soon as the release is available\".\nAnybody running a PHP site probably needs to be prepared for this one.",
-    "guid": "https://lwn.net/Articles/1101687/",
-    "date": "Oct 20, 2026 21:05",
-    "published_at": "2026-10-20T21:05:19Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "AMD Is Bringing FSR 4.1 to Xbox Consoles and Handhelds",
-    "link": "https://games.slashdot.org/story/26/10/20/1917248/amd-is-bringing-fsr-41-to-xbox-consoles-and-handhelds?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "AMD is expanding its FSR 4.1 upscaling technology beyond Radeon RX 9000-series GPUs to Xbox Series X/S consoles, Xbox Ally handhelds, laptops, and Radeon RX 6000-series graphics cards. The Verge reports: AMD launched its FSR 4.1 update for Radeon RX 9000-series graphics cards in March, and promised to bring the technology to older GPUs and handhelds this year. FSR 4.1 can improve performance in more than 300 supported games, including Cyberpunk 2077, Battlefield 6, and Assassin's Creed Shadows.\n \n[...] While owners of Radeon RX 6000-series GPUs and Gorgon Halo- or Strix Halo-powered devices will get FSR 4.1 today with the latest Adrenalin Edition 26.10.1 drivers, Xbox console owners will have to wait a little longer. \"We've worked very closely with AMD to optimize this technology, giving developers another powerful tool for great performance and visual quality for players,\" says Xbox CTO Scott Van Vilet.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 20, 2026 21:00",
-    "published_at": "2026-10-20T21:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "VSCode Tutorial: Features, Installation Guide, and Top Extensions",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368312",
-    "description": "In this article, you will learn how to install VSCode on your preferred Linux system, including the top extensions recommended by me.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368312",
-    "date": "Oct 20, 2026 20:45",
-    "published_at": "2026-10-20T20:45:03Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "17k Lines Of New Rust Kernel Code Heading Into Linux 7.4",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368318",
-    "description": "Miguel Ojeda sent out his pull request of the new Rust kernel code slated for introduction in Linux 7.4. It's a big one this round due to updating the Zerocopy vendored library plus updating other Rust crates for the kernel...",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368318",
-    "date": "Oct 20, 2026 19:13",
-    "published_at": "2026-10-20T19:13:34Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
   }
 ]
