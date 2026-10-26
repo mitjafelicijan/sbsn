@@ -1,5 +1,55 @@
 [
   {
+    "title": "PipeWire 1.6.10 Is Out to Improve JACK, Bluetooth, Pulse Server, and ALSA Plugin",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368443",
+    "description": "PipeWire 1.6.10 has been released today as the tenth maintenance update in the latest PipeWire 1.6 series of this open-source software for handling audio and video streams under Linux-based operating systems.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368443",
+    "date": "Oct 26, 2026 02:26",
+    "published_at": "2026-10-26T02:26:39Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Redox OS Landed Nice Performance Improvements In September",
+    "link": "https://www.phoronix.com/news/Redox-OS-September-2026",
+    "description": "The Rust-based open-source operating system Redox OS had a very eventful September as they outlined in a status update published this weekend...",
+    "guid": "https://www.phoronix.com/news/Redox-OS-September-2026",
+    "date": "Oct 26, 2026 00:24",
+    "published_at": "2026-10-26T00:24:45Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Quad-motor control board with Cortex-M33 and TinyEngine AI",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368448",
+    "description": "BeagleBoard.org has introduced the BeagleConnect QuadESC, an open-source four-channel brushless DC motor-control board for robotics, drones, and embedded applications. It integrates four three-phase power stages and the BeagleConnect Torque module, featuring a 200 MHz Arm Cortex-M33 processor, dedicated math acceleration, and a TinyEngine neural-network accelerator. The BeagleConnect QuadESC measures 60 × 48 mm and integrates […]",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368448",
+    "date": "Oct 25, 2026 23:23",
+    "published_at": "2026-10-25T23:23:40Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Meet Riff, an Open-Source Spotify Client Built for GNOME",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368440",
+    "description": "Riff offers Linux users a native Spotify experience with GTK4, libadwaita, playlist management, playback controls, and GNOME integration.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368440",
+    "date": "Oct 25, 2026 18:49",
+    "published_at": "2026-10-25T18:49:12Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Ubuntu Touch 24.04-2.2 Released with Security Fixes, VoLTE Improvements",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368447",
+    "description": "Ubuntu Touch 24.04-2.2 and 24.04-1.6 are out with certificate security fixes, VoLTE improvements, and AppArmor updates.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368447",
+    "date": "Oct 25, 2026 17:17",
+    "published_at": "2026-10-25T17:17:43Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
     "title": "New Wayland Protocol Proposed For VNC/Remote Software",
     "link": "https://www.phoronix.com/news/Wayland-ext-transient-output",
     "description": "Prominent Wayland developer Simon Ser sent out a merge request today for introducing the new ext-transient-output protocol. With ext-transient-output, it's intent is for helping remoting software like VNC servers in a Wayland world...",
@@ -26,6 +76,16 @@
     "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368433",
     "date": "Oct 25, 2026 13:20",
     "published_at": "2026-10-25T13:20:42Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "539 MM Patches Merged For Linux 7.4 From Optimizations To More DAMON",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368421",
+    "description": "Andrew Morton sent out the big set of memory management \"MM\" related patches for the Linux 7.4 merge window. This cycle it topped out at 539 total patches and a reviewed rate of 76%...",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368421",
+    "date": "Oct 25, 2026 10:58",
+    "published_at": "2026-10-25T10:58:11Z",
     "source": "lxer.com",
     "source_url": "https://lxer.com/"
   },
@@ -151,6 +211,16 @@
     "source_url": "https://lxer.com/"
   },
   {
+    "title": "systemd Merges Support For Rust Programs",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368419",
+    "description": "As of today in systemd Git it's now possible for the systemd programs to be written in the Rust programming language as an alternative to C...",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368419",
+    "date": "Oct 24, 2026 21:26",
+    "published_at": "2026-10-24T21:26:25Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
     "title": "Fwupd 2.1.9 Linux Firmware Updater Released with New Features",
     "link": "https://lxer.com/module/newswire/ext_link.php?rid=368404",
     "description": "fwupd 2.1.9 has been released today as a new stable update in the fwupd 2.1 series of this open-source project for updating and managing the firmware of various hardware on your Linux distribution.",
@@ -169,136 +239,5 @@
     "published_at": "2026-10-24T18:54:10Z",
     "source": "phoronix.com",
     "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Contour 0.8 Terminal Emulator Adds Command Blocks, Faster Rendering",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368420",
-    "description": "The Contour 0.8 terminal emulator adds command history navigation, output folding, faster rendering, and improved shell integration.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368420",
-    "date": "Oct 24, 2026 18:23",
-    "published_at": "2026-10-24T18:23:26Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "OBS Studio 33.0 Released with Updated Browser Engine, Plugin Changes",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368413",
-    "description": "OBS Studio 33.0 upgrades Chromium Embedded Framework, overhauls plugin loading, improves source snapping, and fixes Linux issues.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368413",
-    "date": "Oct 24, 2026 15:18",
-    "published_at": "2026-10-24T15:18:08Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "How to Install and Use DevToys on Ubuntu 26.04 \u0026 Ubuntu 25.04",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368388",
-    "description": "Learn how to install DevToys on Ubuntu, Linux Mint, Kali Linux, and other Debian-based distributions using the distribution package.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368388",
-    "date": "Oct 24, 2026 13:46",
-    "published_at": "2026-10-24T13:46:38Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "SteamOS 3.9.5 released with Plasma 6.7, Linux 7.2, Security Fixes, better Steam Frame wireless adapter support",
-    "link": "https://www.gamingonlinux.com/2026/10/steamos-3-9-5-released-with-plasma-6-7-linux-7-2-security-fixes-better-steam-frame-wireless-adapter-support/",
-    "description": "Valve just released SteamOS 3.9.5 as stable for all users across all supported systems, bringing with it many exciting enhancements for Linux gaming.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/10/steamos-3-9-5-released-with-plasma-6-7-linux-7-2-security-fixes-better-steam-frame-wireless-adapter-support/",
-    "date": "Oct 24, 2026 13:10",
-    "published_at": "2026-10-24T13:10:45Z",
-    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/steam-hardware-family-steamos_gol2_4c8c9b9c.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Linux's Early Boot-Time Physical Memory Allocator Sees Big Speed-Up: ~268s To ~50ms",
-    "link": "https://www.phoronix.com/news/Linux-7.4-memblock",
-    "description": "Sent out today for the Linux 7.4 kernel were a set of memblock improvements. Most notable is a performance optimization within mm/memblock.c that implements the kernel's early boot-time physical memory allocator that is used prior to the bring-up of the full page allocator...",
-    "guid": "https://www.phoronix.com/news/Linux-7.4-memblock",
-    "date": "Oct 24, 2026 13:00",
-    "published_at": "2026-10-24T13:00:00Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "KDE Plasma 6.9 Stabilizes KWin's Wayland Picture-In-Picture Support",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368416",
-    "description": "With the wonderful KDE Plasma 6.8 having shipped just more than one week ago, KDE developers are beginning to go heavy on new features for Plasma 6.9...",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368416",
-    "date": "Oct 24, 2026 12:15",
-    "published_at": "2026-10-24T12:15:08Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "systemd Merges Support For Rust Programs",
-    "link": "https://www.phoronix.com/news/systemd-Merges-Rust-Programs",
-    "description": "As of today in systemd Git it's now possible for the systemd programs to be written in the Rust programming language as an alternative to C...",
-    "guid": "https://www.phoronix.com/news/systemd-Merges-Rust-Programs",
-    "date": "Oct 24, 2026 11:11",
-    "published_at": "2026-10-24T11:11:00Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "539 MM Patches Merged For Linux 7.4 From Optimizations To More DAMON",
-    "link": "https://www.phoronix.com/news/Linux-7.4-MM",
-    "description": "Andrew Morton sent out the big set of memory management \"MM\" related patches for the Linux 7.4 merge window. This cycle it topped out at 539 total patches and a reviewed rate of 76%...",
-    "guid": "https://www.phoronix.com/news/Linux-7.4-MM",
-    "date": "Oct 24, 2026 11:05",
-    "published_at": "2026-10-24T11:05:56Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Tails 7.15.1 Privacy-Focused Linux Distro Released as Emergency Security Update",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368398",
-    "description": "Tails 7.15.1 addresses compromised CA certificates that could allow attackers to impersonate HTTPS websites through malicious Tor exit nodes.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368398",
-    "date": "Oct 24, 2026 10:43",
-    "published_at": "2026-10-24T10:43:39Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Wild 0.11 Linker Released - Now Able To Link Linux Kernel Modules, WASM By Default",
-    "link": "https://www.phoronix.com/news/Wild-0.11-Released",
-    "description": "Wild 0.11 is out as the latest feature release of this very fast linker currently targeting Linux systems and focused on iterative development...",
-    "guid": "https://www.phoronix.com/news/Wild-0.11-Released",
-    "date": "Oct 24, 2026 10:12",
-    "published_at": "2026-10-24T10:12:15Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Linux 7.4 Graphics Driver Changes Headlined By AMDGPU HDMI 2.1 Features",
-    "link": "https://www.phoronix.com/news/Linux-7.4-Graphics-Drivers",
-    "description": "Merged overnight were all the Direct Rendering Manager (DRM) driver updates consisting of many kernel graphics/display driver improvements. Arguably most exciting with these updates for Linux 7.4 is the AMD Radeon (AMDGPU) driver seeing HDMI 2.1 FRL enabled by default along with other HDMI 2.1 features...",
-    "guid": "https://www.phoronix.com/news/Linux-7.4-Graphics-Drivers",
-    "date": "Oct 24, 2026 10:00",
-    "published_at": "2026-10-24T10:00:00Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Convertion F45 Server to Thin XFS LVM Provisioning with Libvirt-Hooks based on BTRFS-XFS Setup",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368397",
-    "description": "Converting a server (such as a high-density virtualization platform) to Thin XFS LVM Provisioning with Libvirt-Hooks solves the fundamental performance bottlenecks and management complexities inherent in running virtual machines on top of a native or hybrid Btrfs storage architecture. This post was assisted by Google AI .",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368397",
-    "date": "Oct 24, 2026 09:12",
-    "published_at": "2026-10-24T09:12:09Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "HPFS Is The Latest File-System Slated For Removal On Linux",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368408",
-    "description": "HPFS is the latest file-system driver for the Linux kernel facing removal. The High Performance File-System (HPFS) was developed by IBM and Microsoft for OS/2...",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368408",
-    "date": "Oct 24, 2026 07:40",
-    "published_at": "2026-10-24T07:40:40Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
   }
 ]

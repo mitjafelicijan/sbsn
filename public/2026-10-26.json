@@ -1,0 +1,243 @@
+[
+  {
+    "title": "PipeWire 1.6.10 Is Out to Improve JACK, Bluetooth, Pulse Server, and ALSA Plugin",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368443",
+    "description": "PipeWire 1.6.10 has been released today as the tenth maintenance update in the latest PipeWire 1.6 series of this open-source software for handling audio and video streams under Linux-based operating systems.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368443",
+    "date": "Oct 26, 2026 02:26",
+    "published_at": "2026-10-26T02:26:39Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Redox OS Landed Nice Performance Improvements In September",
+    "link": "https://www.phoronix.com/news/Redox-OS-September-2026",
+    "description": "The Rust-based open-source operating system Redox OS had a very eventful September as they outlined in a status update published this weekend...",
+    "guid": "https://www.phoronix.com/news/Redox-OS-September-2026",
+    "date": "Oct 26, 2026 00:24",
+    "published_at": "2026-10-26T00:24:45Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Quad-motor control board with Cortex-M33 and TinyEngine AI",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368448",
+    "description": "BeagleBoard.org has introduced the BeagleConnect QuadESC, an open-source four-channel brushless DC motor-control board for robotics, drones, and embedded applications. It integrates four three-phase power stages and the BeagleConnect Torque module, featuring a 200 MHz Arm Cortex-M33 processor, dedicated math acceleration, and a TinyEngine neural-network accelerator. The BeagleConnect QuadESC measures 60 × 48 mm and integrates […]",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368448",
+    "date": "Oct 25, 2026 23:23",
+    "published_at": "2026-10-25T23:23:40Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Meet Riff, an Open-Source Spotify Client Built for GNOME",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368440",
+    "description": "Riff offers Linux users a native Spotify experience with GTK4, libadwaita, playlist management, playback controls, and GNOME integration.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368440",
+    "date": "Oct 25, 2026 18:49",
+    "published_at": "2026-10-25T18:49:12Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Ubuntu Touch 24.04-2.2 Released with Security Fixes, VoLTE Improvements",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368447",
+    "description": "Ubuntu Touch 24.04-2.2 and 24.04-1.6 are out with certificate security fixes, VoLTE improvements, and AppArmor updates.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368447",
+    "date": "Oct 25, 2026 17:17",
+    "published_at": "2026-10-25T17:17:43Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "New Wayland Protocol Proposed For VNC/Remote Software",
+    "link": "https://www.phoronix.com/news/Wayland-ext-transient-output",
+    "description": "Prominent Wayland developer Simon Ser sent out a merge request today for introducing the new ext-transient-output protocol. With ext-transient-output, it's intent is for helping remoting software like VNC servers in a Wayland world...",
+    "guid": "https://www.phoronix.com/news/Wayland-ext-transient-output",
+    "date": "Oct 25, 2026 15:05",
+    "published_at": "2026-10-25T15:05:18Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Linux 7.4 Sound Changes Merged: \"The AI Flood Continues\"",
+    "link": "https://www.phoronix.com/news/Linux-7.4-Sound",
+    "description": "Linux sound subsystem maintainer Takashi Iwai of SUSE began the Linux 7.4 sound pull request by noting that \"the AI flood continues\" with there continuing to be a lot of new patches coming as a result of AI/LLM agents devising patches as well as uncovering new kernel bugs...",
+    "guid": "https://www.phoronix.com/news/Linux-7.4-Sound",
+    "date": "Oct 25, 2026 14:01",
+    "published_at": "2026-10-25T14:01:55Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Rockchip RK3668 Targets Edge AI with 44 TOPS NPU and PCIe 5.0",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368433",
+    "description": "Rockchip’s upcoming RK3668 is a 6nm octa-core processor featuring six Arm Cortex-A725 cores, two Cortex-A520 cores, and a Mali-G2 Pro MC4 GPU. The SoC integrates a 44 TOPS NPU, LPDDR6 memory support, and high-speed interfaces including PCIe 5.0, SATA 3.1, and 10 Gigabit Ethernet, targeting edge AI, networking, industrial automation, and multimedia systems. According to […]",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368433",
+    "date": "Oct 25, 2026 13:20",
+    "published_at": "2026-10-25T13:20:42Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "539 MM Patches Merged For Linux 7.4 From Optimizations To More DAMON",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368421",
+    "description": "Andrew Morton sent out the big set of memory management \"MM\" related patches for the Linux 7.4 merge window. This cycle it topped out at 539 total patches and a reviewed rate of 76%...",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368421",
+    "date": "Oct 25, 2026 10:58",
+    "published_at": "2026-10-25T10:58:11Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Cheap GameSir Nova Lite Gaming Controller Supported By Linux 7.4",
+    "link": "https://www.phoronix.com/news/Linux-7.4-Input",
+    "description": "Following all the HID driver updates/additions in Linux 7.4, the input subsystem changes were merged this weekend for this new kernel version...",
+    "guid": "https://www.phoronix.com/news/Linux-7.4-Input",
+    "date": "Oct 25, 2026 10:57",
+    "published_at": "2026-10-25T10:57:01Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "AV2 Video Codec Adoption Talked Up, SVT-AV2 Being Developed",
+    "link": "https://www.phoronix.com/news/AV2-Adoption-Plus-SVT-AV2",
+    "description": "Back in May the AV2 v1.0 specification was released for this next-generaton, royalty-free video codec. This week the Alliance For Open Media issued a press release talking up the early adoption of AV2...",
+    "guid": "https://www.phoronix.com/news/AV2-Adoption-Plus-SVT-AV2",
+    "date": "Oct 25, 2026 10:42",
+    "published_at": "2026-10-25T10:42:00Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Realtek rtl8723bs Driver Deleted From Staging Area In Linux 7.4",
+    "link": "https://www.phoronix.com/news/Linux-7.4-Staging",
+    "description": "After nearly a decade in the Linux kernel's staging area and being worked on by many different kernel developer newcomers, the Realtek rtl8723bs was deleted from the staging area. This comes as Realtek rtl8723bs was added onto the more mature RTW88 driver in the Linux networking subsystem...",
+    "guid": "https://www.phoronix.com/news/Linux-7.4-Staging",
+    "date": "Oct 25, 2026 10:27",
+    "published_at": "2026-10-25T10:27:17Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "AMD 600 Series Chipsets Now Have Temperature Monitoring Support On Linux",
+    "link": "https://www.phoronix.com/news/AMD-600-Series-Linux-Temp",
+    "description": "With the Linux 7.4 kernel and also marked for back-porting to the v7.2 and v7.3 series is finally the ability to monitor temperature sensors on AMD 600 Series chipsets that launched alongside the Ryzen 7000 series processors...",
+    "guid": "https://www.phoronix.com/news/AMD-600-Series-Linux-Temp",
+    "date": "Oct 25, 2026 10:14",
+    "published_at": "2026-10-25T10:14:00Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Bottles Creator Mirko Brombin Wants Microsoft Office on Linux, Not Its Clones",
+    "link": "https://feed.itsfoss.com/link/24361/17506301/mirko-brombin-raven",
+    "description": "Mirko Brombin is working to get Microsoft Office running reliably on Linux. He also thinks the apps cloning Office and Photoshop pixel for pixel cross a line. We talked about both, plus AI agents, Vanilla OS and his new Sinty OS.",
+    "guid": "6addbe8610b6160001f68a24",
+    "date": "Oct 25, 2026 10:02",
+    "published_at": "2026-10-25T10:02:06Z",
+    "image": "https://itsfoss.com/content/images/2026/10/mirko-brombin-interview.webp",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "Google's C Binder Driver Removed With Rust Binder Ready For \"Few Billion Devices\"",
+    "link": "https://www.phoronix.com/news/Linux-7.4-Char-Misc",
+    "description": "Linus Torvalds merged the \"char/misc\" changes for the Linux 7.4 kernel driver on Saturday. Most notable this cycle for char/misc is what's being removed: Google's C-written Binder driver has left the kernel with the Rust-based modern Binder driver ready to take for the role of being used by all future Android devices...",
+    "guid": "https://www.phoronix.com/news/Linux-7.4-Char-Misc",
+    "date": "Oct 25, 2026 09:59",
+    "published_at": "2026-10-25T09:59:30Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "systemd Officially Adds Rust Support for New Components",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368426",
+    "description": "systemd introduces optional Rust support for new components, using Meson instead of Cargo while keeping its existing C architecture intact.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368426",
+    "date": "Oct 25, 2026 09:26",
+    "published_at": "2026-10-25T09:26:41Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "WireGuard Easy 15.5 Adds AmneziaWG 3.1 Support, Security Fixes",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368425",
+    "description": "WireGuard Easy 15.5 adds AmneziaWG 3.1 support, security fixes, configurable WireGuard interfaces, and improved proxy handling.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368425",
+    "date": "Oct 25, 2026 06:23",
+    "published_at": "2026-10-25T06:23:42Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "GNU Linux-Libre 7.3 Kernel Released for Those Seeking 100% Freedom for Their PCs",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368428",
+    "description": "The GNU Linux-libre project announced today the release and general availability of the GNU Linux-libre 7.3 kernel for those who seek 100% freedom for their GNU/Linux computers and software freedom lovers.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368428",
+    "date": "Oct 25, 2026 04:52",
+    "published_at": "2026-10-25T04:52:13Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Firefox 158.0.1 Is Out to Block Compromised eMudhra Intermediate Certificates",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368431",
+    "description": "Mozilla released Firefox 158.0.1 today as an emergency update to the latest Firefox 158 series of this open-source, free, and cross-platform web browser to address several issues.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368431",
+    "date": "Oct 25, 2026 01:49",
+    "published_at": "2026-10-25T01:49:14Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Linux 7.4 Block Updates Range From Floppy Disk Driver Fixes To Apple M4 NVMe Support",
+    "link": "https://www.phoronix.com/news/Linux-7.4-Block",
+    "description": "The Linux 7.4 block/storage and IO_uring updates were merged today for the ongoing merge window. With the breadth of Linux hardware support, the pull request varies from fixes to Linux's floppy driver to enabling support for NVMe storage on Apple M4 devices...",
+    "guid": "https://www.phoronix.com/news/Linux-7.4-Block",
+    "date": "Oct 25, 2026 00:42",
+    "published_at": "2026-10-25T00:42:28Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Meet Linksy, a KDE Connect Alternative with More Features",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368410",
+    "description": "Meet Linksy, an open-source KDE Connect alternative offering file sharing, clipboard sync, remote desktop access, and more for Linux and Android.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368410",
+    "date": "Oct 24, 2026 22:57",
+    "published_at": "2026-10-24T22:57:54Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "systemd Merges Support For Rust Programs",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368419",
+    "description": "As of today in systemd Git it's now possible for the systemd programs to be written in the Rust programming language as an alternative to C...",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368419",
+    "date": "Oct 24, 2026 21:26",
+    "published_at": "2026-10-24T21:26:25Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Fwupd 2.1.9 Linux Firmware Updater Released with New Features",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368404",
+    "description": "fwupd 2.1.9 has been released today as a new stable update in the fwupd 2.1 series of this open-source project for updating and managing the firmware of various hardware on your Linux distribution.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368404",
+    "date": "Oct 24, 2026 19:54",
+    "published_at": "2026-10-24T19:54:55Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "SteamOS 3.9.5 Released With Linux 7.2 Kernel, KDE Plasma 6.7 Desktop \u0026 Other Updates",
+    "link": "https://www.phoronix.com/news/SteamOS-3.9.5",
+    "description": "On Friday Valve released SteamOS 3.9.5 as their first stable release in the SteamOS 3.9 series. This brings all the great improvements previously available in preview form with many package updates and other enhancements...",
+    "guid": "https://www.phoronix.com/news/SteamOS-3.9.5",
+    "date": "Oct 24, 2026 18:54",
+    "published_at": "2026-10-24T18:54:10Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  }
+]
