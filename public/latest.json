@@ -1,5 +1,425 @@
 [
   {
+    "title": "Cybersecurity CEO Indicted For Allegedly Scamming Millions From Ransomware Victims",
+    "link": "https://it.slashdot.org/story/26/10/27/1550230/cybersecurity-ceo-indicted-for-allegedly-scamming-millions-from-ransomware-victims?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from ProPublica: A Florida man who was the subject of a 2019 investigation by ProPublica was indicted last month on federal charges that he defrauded clients of his ransomware data recovery firm. According to the Justice Department, the man, Zohar Pinhasi, told customers he could recover their encrypted files without having to pay hackers, when, in reality, he paid the ransom and charged victims a hefty fee on top. The indictment mirrors the findings from ProPublica's 2019 article \"The Trade Secret,\" which centered on Pinhasi and his scheme.\n \nThe outlet found that the ransomware victims were being harmed twice: once by the hackers, who locked their targets' files and demanded ransom, and a second time by MonsterCloud, Pinhasi's Florida-based data recovery firm, which misled its clients about not paying ransoms. \"By falsely claiming to decrypt ransomware without paying off the ransomers, the defendant re-victimized his clients while extracting a hefty profit for himself,\" U.S. Attorney Joseph Nocella said in an Oct. 7 press release. \"Our Office will vigorously prosecute ransomware attackers who prey on Americans from across the world and those who cynically profit from their criminal activity.\" [...] Pinhasi, who went by the alias Zack Green, told ProPublica in 2019 that MonsterCloud never promised clients that their data will be recovered by any particular method. \"How we do it, it's our problem,\" he told ProPublica. \"You will get your data back. Sit back, relax and enjoy the ride.\" He called MonsterCloud's data recovery methods a \"trade secret.\"\n \n[...] Federal investigators found that, over the course of the scheme, Pinhasi allegedly charged clients more than $19 million and paid more than $8 million in ransom payments. In one example, Pinhasi made a ransom payment of about $8,200 but charged the client about $150,000. If convicted, he faces up to 20 years in prison. [...] In 2019, Pinhasi touted MonsterCloud's ties to law enforcement as evidence of its integrity. Pistole, who also headed the Transportation Security Administration under President Barack Obama, was listed on MonsterCloud's website as the only member of its \"Cyber Security Advisory Council.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 27, 2026 17:00",
+    "published_at": "2026-10-27T17:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "RefreshOS 3.1 Released with Debian 13.7 Base, New APT Repository",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368529",
+    "description": "RefreshOS 3.1 updates its Debian base to 13.7, introduces a dedicated APT repository, enables 32-bit support, and improves system maintenance.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368529",
+    "date": "Oct 27, 2026 16:52",
+    "published_at": "2026-10-27T16:52:50Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "KDE Fixes 15 Year Old Bug Over Inaccurate Notifications When Copying Files To USB Drives",
+    "link": "https://www.phoronix.com/news/KDE-Fixes-15-Year-Old-Bugs",
+    "description": "A long-standing KDE bug is set to be resolved with next month's KDE Frameworks 6.32 release...",
+    "guid": "https://www.phoronix.com/news/KDE-Fixes-15-Year-Old-Bugs",
+    "date": "Oct 27, 2026 16:50",
+    "published_at": "2026-10-27T16:50:22Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Apple Updates MacBook Pro With M6 Chips",
+    "link": "https://apple.slashdot.org/story/26/10/27/1541235/apple-updates-macbook-pro-with-m6-chips?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Ahead of the touchscreen MacBook Pro expected to debut tomorrow, Apple has refreshed its standard 14-inch MacBook Pro with the new M6 processor, promising up to 20% faster multithreaded performance, improved power efficiency, and more powerful on-device AI capabilities. The Verge reports: Announced this morning through a press release, the new 14-inch MacBook Pro features three Thunder 4 USB-C ports that all support charging and DisplayPort connectivity, a MagSafe 3 charging port, full-size HDMI, and an SDXC memory card slot accommodating photographers. Pricing for the new M6 version of the 14-inch MacBook Pro starts at $1,999 with 16GB of memory, the same as last year's M5 model. Preorders start on October 28th and shipping is expected to begin on November 6th.\n \nThe new M6 processor is Apple's first 2nm chip with a bump to a 12-core CPU, up from 10 cores in the M5, and the company says it offers up to 1.2x faster multithreaded performance when compared to its predecessor. The M6 also features a Dual 16-core Neural Engine to handle heavy on-device AI tasks, plus an upgraded 12-core GPU with a Neural Accelerator in each core. In addition to performance improvements, Apple says its M6 processor is more power efficient.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 27, 2026 16:00",
+    "published_at": "2026-10-27T16:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "What is a Kernel? | Center of Operating System?",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368525",
+    "description": "The kernel is the core of the system that bridges the hardware and software layers and smoothly creates interaction between them to transport data.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368525",
+    "date": "Oct 27, 2026 15:45",
+    "published_at": "2026-10-27T15:45:52Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Rocky Linux Creator Built a New \"Not Linux\" Kernel in 11 Days Using AI",
+    "link": "https://feed.itsfoss.com/link/24361/17507740/ginux",
+    "description": "Ginux is not a Linux fork, yet it boots Rocky Linux 10 all the way to systemd. An OpenAI Codex agent wrote about 139,000 lines of it.",
+    "guid": "6ae0a89a8bfa1e0001939d0a",
+    "date": "Oct 27, 2026 15:31",
+    "published_at": "2026-10-27T15:31:43Z",
+    "image": "https://itsfoss.com/content/images/2026/10/ginux.png",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "Bullet Banshee puts a survivor-like spin on classic shoot 'em up action",
+    "link": "https://www.gamingonlinux.com/2026/10/bullet-banshee-puts-a-survivor-like-spin-on-classic-shoot-em-up-action/",
+    "description": "Bullet Banshee is a vertical-scrolling shoot 'em up that blends in the survivor-like bullet heaven mechanics for upgrades to great effect.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/10/bullet-banshee-puts-a-survivor-like-spin-on-classic-shoot-em-up-action/",
+    "date": "Oct 27, 2026 15:06",
+    "published_at": "2026-10-27T15:06:28Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1301632818id30067gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "In China, the AI Bubble Has Already Burst",
+    "link": "https://slashdot.org/story/26/10/27/0218203/in-china-the-ai-bubble-has-already-burst?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from Reuters: While global tech stocks teeter, in China they have already crashed as lofty valuations collapse under worries about AI demand and curbs on Chinese exports. The meltdown, tanking the mainland STAR50 index of AI and semiconductor leaders by 40% in less than four months and vaporizing some $480 billion in market value, is an ill omen for wobbly world markets and a dampener on China's efforts at encouraging its savers into stocks to fund the AI boom. It has also slammed the brakes on a rally running two years, since economic stimulus promises sent shares soaring, and has stalled Beijing's push to break with a long boom-bust pattern and drive a \"slow bull\" market that delivers reliable performance. China's broad blue-chip index has dropped about 20% from highs made in June. \"The stock market later evolved into a speculative crazy bull,\" said Beijing-based fund manager Dong Baozhen. \"And now we see the bubble bursting.\" There was no clear trigger for the selloff in China, though traders pointed to high valuations, tax bills, and the threat of foreign bans on Chinese data center equipment. According to Goldman Sachs, AI stocks account for 42% of China's market capitalization and 57% of trading turnover, leaving investors widely exposed to the downturn. \n\"What's happening is now going to put a stop for many of the companies trying to get themselves listed,\" said Hong Hao, managing partner and chief investment officer at Lotus Asset Management in Hong Kong.\n \n\"Overemphasising the 'technology content' -- that is, the weighting of tech companies by market value in major indexes -- leads to a deviation, even a distortion, in capital behavior,\" said Leo Wang, partner at Beijing-based Qianchuang Capital. \"This created a severe bubble in certain sectors and a serious drain on others.\"\n \n\"Just like all other Chinese manufacturers, (chipmakers and AI suppliers) will eventually end up in a price war,\" said fund manager Wang Zhuo, partner at Shanghai Zhuozhu Investment Management. \"There's no exception,\" he said. \"All bubbles inevitably burst.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 27, 2026 15:00",
+    "published_at": "2026-10-27T15:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "[$] Guidelines for panics in kernel code",
+    "link": "https://lwn.net/Articles/1100873/",
+    "description": "\nAlexandre Courbot spends most of his time working on the kernel doing code\nreviews. Recently, he's been wondering about what the standards should be for\nwhen Rust code is allowed to panic, and how it should do error handling more\ngenerally. Unlike many of the other talks at Kangrejos 2026, his talk was not\npresenting some existing work, but rather hoping to solicit opinions on the\ntopic from the assembled Rust for Linux developers. He brought along a collection of tricky\ncases that he had run into recently to prompt discussion.\n",
+    "guid": "https://lwn.net/Articles/1100873/",
+    "date": "Oct 27, 2026 13:56",
+    "published_at": "2026-10-27T13:56:24Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "Security updates for Tuesday",
+    "link": "https://lwn.net/Articles/1103188/",
+    "description": "Security updates have been issued by AlmaLinux (bind, bind9.18, brotli, buildah, container-tools:4.0, container-tools:rhel8, firefox, flatpak, freeipmi, gcc, golang, grafana, httpd, kernel, kernel-rt, libreswan, libX11, lrzsz, nodejs:14, nodejs:18, oci-seccomp-bpf-hook, podman, python-urllib3, python3.9, python38:3.8 and python38-devel:3.8, skopeo, thunderbird, xorg-x11-server, and xz), Debian (inkscape, swupdate, thunderbird, and valkey), Fedora (brotli, dolphin, helix, kernel, libical, mingw-python3, nsd, perl-Alien-Brotli, perl-Plack, perl-Plack-Middleware-ReverseProxy, rust-dua-cli, rust-gengo-bin, rust-gitui, stgit, unshield, and webkitgtk), Mageia (evolution, freetype2, ghostscript, kronosnet, libde265, libical, libjxl, packages, perl-DBI, perl-ExtUtils-Typemaps-Default, perl-Imager, vim, and webkit2), Oracle (bind, bind9.18, brotli, buildah, ca-certificates, firefox, flatpak, freeipmi, grafana, httpd, kernel, libreswan, libX11, lrzsz, nodejs22, nodejs24, nodejs:22, oci-seccomp-bpf-hook, perl-DBI:1.641, perl:5.32, postfix, postgresql16-pgvector, postgresql18-pgvector, python3.9, skopeo, unbound, xorg-x11-server, and xz), Red Hat (grafana, grafana-pcp, python3.12-urllib3, and python3.14-urllib3), SUSE (ca-certificates-mozilla, chromium, gn, cifs-utils, containerd, cpupower, cyrus-sasl, gcc13, gcc7, go1.26, go1.27, google-osconfig-agent, kernel, kubernetes-old, libsoup, libX11, libXi, openssh, podman, python-nltk, python-PyJWT, python-social-auth-core, rekor, runc, suseconnect-ng, and unbound), and Ubuntu (brotli and nginx).",
+    "guid": "https://lwn.net/Articles/1103188/",
+    "date": "Oct 27, 2026 13:37",
+    "published_at": "2026-10-27T13:37:48Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": " Hacker awarded $50k bounty for reporting bug to Sony that allowed PS5 Linux exploit ",
+    "link": "https://www.tomshardware.com/video-games/playstation/hacker-awarded-usd50k-bounty-for-reporting-bug-to-sony-that-allowed-ps5-linux-exploit-move-sparks-backlash-from-jailbreaking-community",
+    "description": " The hypervisor bug that allowed PS5 users to install Linux on their consoles was patched before the launch of GTA VI, meaning they have to choose between experimenting with Linux and running the game. ",
+    "guid": "vuCkRZtd28D8XjeN2cVoh8",
+    "date": "Oct 27, 2026 13:22",
+    "published_at": "2026-10-27T13:22:04Z",
+    "image": "https://cdn.mos.cms.futurecdn.net/tg95hzQEgMNoJTJZHb5oXU-1920-80.png",
+    "source": "tomshardware.com",
+    "source_url": "https://www.tomshardware.com/software/operating-systems/linux"
+  },
+  {
+    "title": "Noctalia 5.4 Wayland Shell Adds New Themes, Screenshot Features",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368484",
+    "description": "Noctalia 5.4 expands desktop theming, adds JPEG XL screenshot support, introduces new visual effects, and improves widgets and plugins.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368484",
+    "date": "Oct 27, 2026 13:16",
+    "published_at": "2026-10-27T13:16:53Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Pavee OS: Ikey Doherty's New Daily-Driver Desktop Distro Being Built Atop Barney",
+    "link": "https://www.phoronix.com/news/Pavee-OS",
+    "description": "Back in September Ikey Doherty of Solus Linux and Serpent OS notoriety as well as being a former Intel Clear Linux developer announced  Barney as his planned showcase for how to \"properly\" build a modern Linux distribution in 2026+. Today he's provided an update on this Barney distro tooling effort as well as announcing Pavee OS as his planned daily-driver desktop distribution built atop it...",
+    "guid": "https://www.phoronix.com/news/Pavee-OS",
+    "date": "Oct 27, 2026 13:11",
+    "published_at": "2026-10-27T13:11:30Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "KDE Plasma 6.8.2 Released With Dozens Of Additional Bug Fixes",
+    "link": "https://www.phoronix.com/news/KDE-Plasma-6.8.2",
+    "description": "Debuting two weeks ago on the 30th anniversary of the KDE project was the Plasma 6.8 desktop with many exciting improvements. Last week it was succeeded by Plasma 6.8.1 with dozens of bug fixes and this week now brings Plasma 6.8.2 with yet more bug fixing...",
+    "guid": "https://www.phoronix.com/news/KDE-Plasma-6.8.2",
+    "date": "Oct 27, 2026 13:02",
+    "published_at": "2026-10-27T13:02:10Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Kingdom Come: Deliverance developer Warhorse Studios hit by cyberattack",
+    "link": "https://www.gamingonlinux.com/2026/10/kingdom-come-deliverance-developer-warhorse-studios-hit-by-cyberattack/",
+    "description": "Another recent incident, Kingdom Come: Deliverance developer Warhorse Studios revealed they've been hit in a cyberattack.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/10/kingdom-come-deliverance-developer-warhorse-studios-hit-by-cyberattack/",
+    "date": "Oct 27, 2026 12:50",
+    "published_at": "2026-10-27T12:50:29Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/984582025id30066gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Luanti (formerly Minetest) reveal a major ContentDB security incident",
+    "link": "https://www.gamingonlinux.com/2026/10/luanti-formerly-minetest-reveal-a-major-contentdb-security-incident/",
+    "description": "The team behind Luanti (formerly Minetest), just recently announced a security incident with their ContentDB system.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/10/luanti-formerly-minetest-reveal-a-major-contentdb-security-incident/",
+    "date": "Oct 27, 2026 12:13",
+    "published_at": "2026-10-27T12:13:43Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/225693291id30065gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "AMD EPYC Zen 6 PML Support, ARM64 On s390 Merged For Linux 7.4 KVM",
+    "link": "https://www.phoronix.com/news/Linux-7.4-KVM",
+    "description": "The many Kernel-based Virtual Machine (KVM) improvements have been merged for Linux 7.4 to deliver a number of new features for different server processors...",
+    "guid": "https://www.phoronix.com/news/Linux-7.4-KVM",
+    "date": "Oct 27, 2026 12:00",
+    "published_at": "2026-10-27T12:00:00Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Insane fever-dream retro FPS 'Divine Frequency' is out in Early Access",
+    "link": "https://www.gamingonlinux.com/2026/10/insane-fever-dream-retro-fps-divine-frequency-is-out-in-early-access/",
+    "description": "Divine Frequency is a new GZDoom / UZDoom powered FPS fever dream, one where you get to experience the total collapse of reality.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/10/insane-fever-dream-retro-fps-divine-frequency-is-out-in-early-access/",
+    "date": "Oct 27, 2026 11:43",
+    "published_at": "2026-10-27T11:43:33Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1730248322id30064gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "openSUSE Releases Agama 25 Installer with Web-Based Terminal, Exit Option",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368488",
+    "description": "Today, the openSUSE project released version 25 of its Agama web-based installer for Tumbleweed, Slowroll, and MicroOS distributions with a web-based terminal, an option to exit the installer, and enhanced port selection.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368488",
+    "date": "Oct 27, 2026 11:12",
+    "published_at": "2026-10-27T11:12:46Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Denmark Gives Up On Replacing Microsoft Office With Collabora",
+    "link": "https://tech.slashdot.org/story/26/10/26/2222246/denmark-gives-up-on-replacing-microsoft-office-with-collabora?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Denmark's Ministry of Digitization reportedly abandoned a pilot to replace Microsoft Office with the open-source Collabora suite less than six months after it began. Tom's Hardware reports: According to Danish publication Computerworld, the pilot project was launched in 2025 and involved 38 employees, all of whom would start using the British open-source Collabora office suite instead of Word, PowerPoint, and Excel. The experiment was initiated by the then Digitization Minister Caroline Stage, who wanted to reduce the country's dependence on American technology. Denmark isn't alone in moving away from U.S. software, with France and the Netherlands both taking steps to replace Microsoft Windows. However, it seemed that the experiment fizzled out less than six months after it started. It had reportedly ended by the time the Danish government called for an early election in February 2026, with some employees complaining about issues with style, paragraph formatting, blank pages, and challenges with tracking changes.\n \nBut even though it's been months since the experiment reportedly ended, Prof. Mikkel Flyberbom of the Copenhagen Business School complains that the project hasn't been properly evaluated. \"It's a good idea to test alternatives in a pilot project,\" the professor said in an email. \"However, I wish that the ministry would take the opportunity to learn from the pilot project and share those experiences with other parts of the public sector.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 27, 2026 11:00",
+    "published_at": "2026-10-27T11:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Accelerating HTTP Web Servers With In-Kernel eBPF Deliver Up To 4.5x Throughput",
+    "link": "https://www.phoronix.com/news/Beeper-In-Kernel-Parsing-eBPF",
+    "description": "An interesting new open-source project born out of university research is Beeper to provide application-layer parsing within the in-kernel eBPF. With an HTTP parser implemented by Beeper in eBPF and providing an in-kernel HTTP cache, the throughput for web servers could be improved by 3x at high rates...",
+    "guid": "https://www.phoronix.com/news/Beeper-In-Kernel-Parsing-eBPF",
+    "date": "Oct 27, 2026 10:26",
+    "published_at": "2026-10-27T10:26:22Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "BSD Users Can Now Enjoy Omarchy Flavor",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368508",
+    "description": "Daemonarchy keeps Omarchy’s installer and look, with FreeBSD handling the system underneath.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368508",
+    "date": "Oct 27, 2026 10:21",
+    "published_at": "2026-10-27T10:21:09Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Linux's Modern NTFS Driver Now Supports Alternate Data Streams (ADS)",
+    "link": "https://www.phoronix.com/news/NTFS-Linux-7.4-Improvements",
+    "description": "Merged back in Linux 7.1 was the new NTFS kernel driver implementation for better supporting Microsoft's NTFS file-system on Linux. Since then new features and improvements have continued to land for this NTFS driver with some more notable additions also coming in Linux 7.4...",
+    "guid": "https://www.phoronix.com/news/NTFS-Linux-7.4-Improvements",
+    "date": "Oct 27, 2026 10:11",
+    "published_at": "2026-10-27T10:11:29Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Build up a party of complete idiots in Outcast Tales, out now and it's free",
+    "link": "https://www.gamingonlinux.com/2026/10/build-up-a-party-of-complete-idiots-in-outcast-tales-out-now-and-its-free/",
+    "description": "Developed by Hardlane Studio and published by Inner Pocket, the story-rich adventure sends players into a post-apocalyptic frontier in search of riches.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/10/build-up-a-party-of-complete-idiots-in-outcast-tales-out-now-and-its-free/",
+    "date": "Oct 27, 2026 09:58",
+    "published_at": "2026-10-27T09:58:35Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1022565519id30063gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Linux 7.4 Expands Sensor Monitoring For More ASUS \u0026 MSI Motherboards, New Minisforum Driver",
+    "link": "https://www.phoronix.com/news/Linux-7.4-HWMON",
+    "description": "With the Linux 7.4 kernel there are more MSI and ASUS motherboards with sensor monitoring support along with a variety of other additions to help broaden the selection of supported systems for hardware sensor monitoring under Linux. It's another busy cycle for the HWMON subsystem...",
+    "guid": "https://www.phoronix.com/news/Linux-7.4-HWMON",
+    "date": "Oct 27, 2026 09:52",
+    "published_at": "2026-10-27T09:52:30Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "In a Setback to VMWare, Tesco is Looking to Migrate to Proxmox",
+    "link": "https://feed.itsfoss.com/link/24361/17507469/tesco-vmware-exit",
+    "description": "Tired of the rising licensing cost of VMWare, Tesco seems to be looking to switch to Proxmox.",
+    "guid": "6ae0328b8bfa1e0001939983",
+    "date": "Oct 27, 2026 09:48",
+    "published_at": "2026-10-27T09:48:41Z",
+    "image": "https://itsfoss.com/content/images/2026/10/tesco-vmware-exit-banner.png",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "Command a being formed from thousands of leaves in Leafborn",
+    "link": "https://www.gamingonlinux.com/2026/10/command-a-being-formed-from-thousands-of-leaves-in-leafborn/",
+    "description": "Top marks for some protagonist originality here in Leafborn, with your character made up of a thousands leaves.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/10/command-a-being-formed-from-thousands-of-leaves-in-leafborn/",
+    "date": "Oct 27, 2026 09:40",
+    "published_at": "2026-10-27T09:40:52Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1698294455id30062gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Firefox 159 Released With AMD  Linux Graphics Fix For Excessive Memory Use",
+    "link": "https://www.phoronix.com/news/Firefox-159-Released",
+    "description": "Firefox 159 is out today as the latest bi-weekly feature release for Mozilla's web browser...",
+    "guid": "https://www.phoronix.com/news/Firefox-159-Released",
+    "date": "Oct 27, 2026 09:35",
+    "published_at": "2026-10-27T09:35:49Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Navigating Open Source Software Development in the Generative AI Era: Balancing Velocity and Community Health",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368509",
+    "description": "Over the past three decades, open source communities have absorbed one massive technological shift after another: the emergence of the web, the mobile revolution, and the rise of cloud native infrastructure. Through each transition, our ecosystem adapted, strengthened its collaborative norms, and grew more resilient. Yet generative AI introduces a fundamentally distinct dynamic, directly…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368509",
+    "date": "Oct 27, 2026 09:23",
+    "published_at": "2026-10-27T09:23:32Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Steam Scream Fest V is here with discounts on spooky games",
+    "link": "https://www.gamingonlinux.com/2026/10/steam-scream-fest-v-is-here-with-discounts-on-spooky-games/",
+    "description": "Steam Scream Fest V has arrived and with it lots of discounts on various different types of games that will make you need fresh pants.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/10/steam-scream-fest-v-is-here-with-discounts-on-spooky-games/",
+    "date": "Oct 27, 2026 09:21",
+    "published_at": "2026-10-27T09:21:53Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1426083461id30061gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Classic survival-horrors Ecstatica and Ecstatica II get re-released with upgrades",
+    "link": "https://www.gamingonlinux.com/2026/10/classic-survival-horrors-ecstatica-and-ecstatica-ii-get-re-released-with-upgrades/",
+    "description": "Originally released in the late 90s, Ecstatica and Ecstatica II are survival-horror games with a unique style not to be missed.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/10/classic-survival-horrors-ecstatica-and-ecstatica-ii-get-re-released-with-upgrades/",
+    "date": "Oct 27, 2026 08:59",
+    "published_at": "2026-10-27T08:59:32Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/808359526id30060gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Steam Beta makes game invites simpler on SteamOS / Big Picture Mode",
+    "link": "https://www.gamingonlinux.com/2026/10/steam-beta-makes-game-invites-simpler-on-steamos-big-picture-mode/",
+    "description": "Valve released the latest Steam Beta for all supported platforms, with the October 26th update finally making game invites easier.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/10/steam-beta-makes-game-invites-simpler-on-steamos-big-picture-mode/",
+    "date": "Oct 27, 2026 08:43",
+    "published_at": "2026-10-27T08:43:26Z",
+    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/steamos-2025.jpg",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Half-Life: Alyx updated to bring Foveated Rendering on desktop",
+    "link": "https://www.gamingonlinux.com/2026/10/half-life-alyx-updated-to-bring-foveated-rendering-on-desktop/",
+    "description": "Valve are still adding in improvements to the excellent VR game Half-Life: Alyx, with the latest update out now.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/10/half-life-alyx-updated-to-bring-foveated-rendering-on-desktop/",
+    "date": "Oct 27, 2026 08:37",
+    "published_at": "2026-10-27T08:37:33Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1943145130id30058gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Survey Says! AI Images and Video Lead Creative Searches",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368512",
+    "description": "If ‘Image Generation and AI Art’ were a Family Feud guess, it would be the top answer for AI creative searches nationwide.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368512",
+    "date": "Oct 27, 2026 07:32",
+    "published_at": "2026-10-27T07:32:19Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Industry Executives Knew For Decades That Microplastics Were Infiltrating the Human Body",
+    "link": "https://science.slashdot.org/story/26/10/27/0232248/industry-executives-knew-for-decades-that-microplastics-were-infiltrating-the-human-body?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Susanne Rust of the Los Angeles Times reports (paywalled) that industry executives knew for decades that microplastics were infiltrating the human body. Slashdot reader joshuark shares an excerpt from the report: Scientists today say we're just beginning to understand the harm that the tiny bits of plastic we drink, eat and breathe are doing to the human body. Internal memos among company scientists and executives obtained by The Times reveal that for at least half a century, the plastics industry has been aware of and concerned about the potential for microplastic contamination in the human body. But recently discovered chemical company documents dating back several decades show that industry scientists have long been aware of -- and concerned about -- the way microplastic particles migrate beyond the gut in animals and humans, depositing in important organs. And the potential for that knowledge to affect the plastic food packaging industry.\n \nTheir concern goes back to 1974 and a scientific meeting at a New York City hotel, where a German gastroenterologist presented a scientific paper that showed for the first time that ingested particles like microplastics could infiltrate the rest of the body. His presentation was largely overlooked by the government scientists in attendance but became a point of worried discussion among company scientists. Tracey Woodruff, professor of epidemiology and population health at Stanford University, who reviewed the documents, said they indicate scientists and executives at major chemical companies have known and remained silent even as microplastics accumulated in tissues. She likened it to other industries that knew about pollutants -- greenhouse gases, asbestos and tobacco -- but did not take action to make them safer.\n \nA spokesperson with the chemical industry's largest trade group took issue with that characterization. \"Scientific debate over what the evidence shows is not silence. It is how sound science and effective policy advance,\" said Craig Davis, senior director of plastics chemistry at the American Chemistry Council. \"Our industry is committed to advancing microplastics science by supporting independent research and policies that would do so.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 27, 2026 07:00",
+    "published_at": "2026-10-27T07:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "22 Things to Do After Installing Ubuntu 26.10 Stonking Stingray",
+    "link": "https://feed.itsfoss.com/link/24361/17507385/things-to-do-after-installing-ubuntu-26-10",
+    "description": "Make Ubuntu 26.10 yours by following these tweaks and tips.",
+    "guid": "6ad08c89965d0e00015a00d9",
+    "date": "Oct 27, 2026 05:52",
+    "published_at": "2026-10-27T05:52:06Z",
+    "image": "https://itsfoss.com/content/images/2026/10/things-to-do-after-installing-ubuntu-26-10.webp",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "Stalwart 1.0 Open-Source Mail Server Reaches Its First Stable Release",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368516",
+    "description": "After five years of development, Stalwart reaches version 1.0 with performance optimizations, database stability, and email collaboration capabilities.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368516",
+    "date": "Oct 27, 2026 05:42",
+    "published_at": "2026-10-27T05:42:17Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Mozilla Firefox 160 Enters Public Beta Testing, Here’s What to Expect",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368517",
+    "description": "Today, Mozilla promoted the next major release of its open-source web browser, Firefox 160, to the beta channel for public testing, so it’s time to take a look at the new features and improvements.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368517",
+    "date": "Oct 27, 2026 04:43",
+    "published_at": "2026-10-27T04:43:32Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "FOSS Office DevRoom Call for Papers",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368513",
+    "description": "We are inviting proposals for talks about “FOSS Office Software and Suites“. Office productivity software is one of the oldest and most interesting FOSS categories packed with developer interest. It is also an area where lots of new solutions are arriving with new desktop, web-based and mobile editors, as well",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368513",
+    "date": "Oct 27, 2026 03:51",
+    "published_at": "2026-10-27T03:51:32Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "US Designates Helium As a Critical Material",
+    "link": "https://news.slashdot.org/story/26/10/26/227203/us-designates-helium-as-a-critical-material?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from the Associated Press: The U.S. designated helium as a critical material on Friday because it's indispensable for making semiconductors that are essential to energy generation, and the global supply is at risk of disruption, according to the Energy Department. The designation by the Energy Department means that more federal financing will be available for helium producers and that the government will monitor it more closely. Helium is primarily produced as a byproduct of natural gas processing. The United States is the world's largest producer of natural gas and of helium. Qatar and Russia are the other top helium producers.\n \n[...] Helium makes balloons rise, but that's not why the DOE is interested in it. Helium plays an important role in wind, solar and nuclear energy production, space exploration, medical imaging and research. Assistant Secretary of Energy Audrey Robertson said helium's unique properties make it irreplaceable, such as the fact that it's non-combustible and has the lowest boiling point of any gas. The nation needs an ample supply for semiconductors, quantum and super computing, and superconducting magnets, added Robertson, who oversees the Office of Critical Minerals and Energy Innovation.\n \n[...] Despite environmental concerns with recovering helium from natural gas, there are also opportunities, said Greeshma Gadikota, director of the Lenfast Center for Sustainable Energy at Columbia University. \"If we burn the natural gas, there are a lot of CO2 emissions associated with that,\" Gadikota said. \"But if you just extract the helium and use it, the uses of it don't contribute necessarily to greenhouse gas emissions. \"So from a climate standpoint, if we are going to continue down the line of extracting natural gas and recovering helium,\" she added, \"I would prefer to see natural gas being used in a form where we directly produce hydrogen and we produce solid carbon.\" Hydrogen is a clean burning fuel, and solid carbon can provide permanent carbon sequestration and can be used widely in industrial applications, including rubber and pigments.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 27, 2026 03:30",
+    "published_at": "2026-10-27T03:30:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
     "title": "Systemd Creator’s Startup Opens Signups for Private Preview of its Linux System",
     "link": "https://lxer.com/module/newswire/ext_link.php?rid=368493",
     "description": "Amutable Foundations is a read-only, image-based system where every machine produces signed reports of its own state.",
@@ -124,16 +544,6 @@
     "source_url": "https://slashdot.org/"
   },
   {
-    "title": "Emulate Apple II on Raspberry Pi",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368501",
-    "description": "Recreate the classic 8-bit computer on Raspberry Pi.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368501",
-    "date": "Oct 26, 2026 19:18",
-    "published_at": "2026-10-26T19:18:14Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
     "title": "KMSCON 10.1 Released With Support For Per-Monitor Configurations",
     "link": "https://www.phoronix.com/news/KMSCON-10.1-Released",
     "description": "KMSCON as the user-space terminal emulator targeting Linux DRM/KMS interfaces as an alternative to the in-kernel VT now is able to individually configure monitors in multi-monitor setups. Plus a variety of other improvements with today's KMSCON 10.1 release...",
@@ -176,17 +586,6 @@
     "source_url": "https://www.phoronix.com/"
   },
   {
-    "title": "BSD Users Can Now Enjoy Omarchy Flavor",
-    "link": "https://feed.itsfoss.com/link/24361/17507094/daemonarchy-overview",
-    "description": "Daemonarchy keeps Omarchy’s installer and look, with FreeBSD handling the system underneath.",
-    "guid": "6adee42e8bfa1e00019392eb",
-    "date": "Oct 26, 2026 17:35",
-    "published_at": "2026-10-26T17:35:00Z",
-    "image": "https://itsfoss.com/content/images/2026/10/daemonarchy-banner-1.png",
-    "source": "itsfoss.com",
-    "source_url": "https://itsfoss.com/"
-  },
-  {
     "title": "KWin-Type Introduced To Address KDE Wayland Usability Gap For Auto-Typing Text",
     "link": "https://www.phoronix.com/news/KDE-KWin-Type",
     "description": "Open-source developer Jason Donenfeld known for his work on WireGuard announced today the release of kwin-type. KWin-type is a new Wayland-compatible program for auto-typing text from the standard input under the KWin Wayland compositor...",
@@ -208,16 +607,6 @@
     "source_url": "https://slashdot.org/"
   },
   {
-    "title": "LXer hardens against PHP2Shell",
-    "link": "https://lxer.com/module/newswire/view/368504/index.html",
-    "description": "When the PHP2Shell vulnerabilities went public on October 21, they put every PHP web application on the internet at risk. Here is what we have done to keep LXer safe for our readers, and the simple steps anyone running PHP on Linux can take today.",
-    "guid": "https://lxer.com/module/newswire/view/368504/index.html",
-    "date": "Oct 26, 2026 16:59",
-    "published_at": "2026-10-26T16:59:23Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
     "title": "Microlandia, a deeply simulated city-builder gets a big game engine upgrade",
     "link": "https://www.gamingonlinux.com/2026/10/microlandia-a-deeply-simulated-city-builder-gets-a-big-game-engine-upgrade/",
     "description": "Every single citizen counts in Microlandia, a deeply simulated cozy-looking city-builder. And now, it should work better than ever.Read the full article on GamingOnLinux.",
@@ -227,16 +616,6 @@
     "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1636417677id30057gol.webp",
     "source": "gamingonlinux.com",
     "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Kali Linux 2026.3 Released with KDE Plasma 6.7, Linux Kernel 7.1",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368454",
-    "description": "Kali Linux 2026.3 arrives with KDE Plasma 6.7, Linux kernel 7.1.5, six new security tools, and major NetHunter improvements.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368454",
-    "date": "Oct 26, 2026 16:10",
-    "published_at": "2026-10-26T16:10:03Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
   },
   {
     "title": "Microsoft Offers Mass Buyouts For Roughly a Quarter of Its Workforce",
@@ -313,16 +692,6 @@
     "source_url": "https://slashdot.org/"
   },
   {
-    "title": "Mesa 27.0: new Kraid compiler becomes default for Mali GPUs, with 7x faster shader compiles",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368462",
-    "description": "Starting with Mesa 27.0, all Mali GPUs with Valhall (v9) or newer will use Kraid, the new Panfrost compiler built in under six months. Compared with the old compiler, it produces about 19% fewer shader instructions, cuts spilling by over 80%, and compiles about 7x faster.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368462",
-    "date": "Oct 26, 2026 14:38",
-    "published_at": "2026-10-26T14:38:34Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
     "title": "Mesa 27.0 Switching To Kraid Compiler By Default For Arm Mali GPUs",
     "link": "https://www.phoronix.com/news/Mesa-27.0-Goes-Kraid",
     "description": "In development for a number of months now has been Kraid as a modern graphics compiler for recent Arm Mali GPUs. Kraid was merged for Mesa 26.2 back in June while in Mesa 27.0 due out in Q1 it will be switching to this new shader compiler by default...",
@@ -381,27 +750,6 @@
     "published_at": "2026-10-26T11:42:27Z",
     "source": "phoronix.com",
     "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Google's C Binder Driver Removed With Rust Binder Ready For \"Few Billion Devices\"",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368436",
-    "description": "Linus Torvalds merged the \"char/misc\" changes for the Linux 7.4 kernel driver on Saturday. Most notable this cycle for char/misc is what's being removed: Google's C-written Binder driver has left the kernel with the Rust-based modern Binder driver ready to take for the role of being used by all future Android devices...",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368436",
-    "date": "Oct 26, 2026 11:35",
-    "published_at": "2026-10-26T11:35:36Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Reddit's Largest Open Source Community Dumbfounded By AI Ban: 'I Guess Linux Is No Longer Allowed?'",
-    "link": "https://tech.slashdot.org/story/26/10/26/0540245/reddits-largest-open-source-community-dumbfounded-by-ai-ban-i-guess-linux-is-no-longer-allowed?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Kotaku reports:\n\n\nr/opensource, Reddit's primary \"subreddit for everything open source related,\" has banned all AI-assisted and AI-related projects.... As reported by The Verge, the subreddit's October 24 post, titled \"Your tokens aren't valuable: No more AI,\" features four new main rules: all projects must now be at least \"1 year old,\" have \"multiple contributors,\" be posted by someone who must \"speak English,\" and cannot be \"made by\" or \"intended for\" AI... [T]he ban on AI is simple; as the subreddit's moderators explain, \"AI, as it exists today, is incongruent to this Open Source community.\" Unsurprisingly, this is the part that's upset the majority of the users in the thread.... \n\n[T]he moderator who posted the new guidelines stated in a separate comment that the overwhelmingly negative response is due to \"some guy on twitter claiming to be alternative news\" who posted an \"opinionated editorial pointing hundreds of people to the thread.\" Given the timing of when the thread was posted, alongside the fact that the X post in question mentions \"the Linux kernel,\" they are presumably referring to this post by The Lunduke Journal. The moderator may be correct, as almost all of the top comments on the post are from users who have never posted in r/opensource before. \n\nThe use of AI \"doesn't change whether something is open source or not,\" complained one commenter, who added \"I guess Linux is no longer allowed here? Linus uses AI for kernel development now.\" \n\nThe moderator has since updated their post to acknowledge that Redditors have now already created a rival community called r/OpenSourceAIAllowed — plus three more alternatives:\n\n r/TrueOpenSource r/OpenSourceWare r/ActuallyOpenSource \n\nUPDATE (10/26): Monday saw a new comment from the moderator stressing that \"Adjustments will be made.\" \n\n\"Linux is not, nor could conceivably ever be banned. Interpreting any set of rules as such is simply bad faith. Someone's pet project pumped out in two claude code session limits will not be welcome. The line is somewhere between those, and it will likely move over time from continuous feedback. \n\n\"We will cater to humans, and as many and as inclusively as possible. No rule will ever target or favor any ethnicity or social strata.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 26, 2026 11:34",
-    "published_at": "2026-10-26T11:34:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
   },
   {
     "title": "Here's 17 upcoming VR games worth keeping eyes on",
@@ -468,16 +816,6 @@
     "source_url": "https://www.phoronix.com/"
   },
   {
-    "title": "Tiny controller module has Cortex-M33, CAN FD, and Qwiic",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368449",
-    "description": "Powering the BeagleConnect QuadESC motor-control board, the BeagleConnect Torque is an open-source controller module developed by BeagleBoard.org for robotics, industrial control, and connected sensing applications. Based on Texas Instruments’ AM13E23019 microcontroller, it features a 200 MHz Arm Cortex-M33 processor, CAN FD connectivity, and expansion interfaces for custom embedded systems. Measuring just 25.4 × 38.1 mm […]",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368449",
-    "date": "Oct 26, 2026 10:04",
-    "published_at": "2026-10-26T10:04:06Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
     "title": "EXT4 Lands Optional Buffered IOmap For Significant Performance Win With Large Writes",
     "link": "https://www.phoronix.com/news/Linux-7.4-EXT4",
     "description": "The EXT4 file-system changes were merged Sunday night for the ongoing Linux 7.4 merge window. The headline feature of EXT4 in this new kernel version is opt-in support for buffered IOmap usage that can lead to \"significant\" performance improvements for large writes...",
@@ -508,121 +846,5 @@
     "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/193530930id30051gol.webp",
     "source": "gamingonlinux.com",
     "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Steam Next Fest - October 2026, here's the most-played demos so far",
-    "link": "https://www.gamingonlinux.com/2026/10/steam-next-fest-october-2026-heres-the-most-played-demos-so-far/",
-    "description": "Valve sent word via email as Steam Next Fest - October 2026 begins to wind down about what has been the most popular during this event.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/10/steam-next-fest-october-2026-heres-the-most-played-demos-so-far/",
-    "date": "Oct 26, 2026 08:51",
-    "published_at": "2026-10-26T08:51:33Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1227058691id30050gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Linuxiac Weekly Wrap-Up: Week 43, 2026 (October 19 – 25)",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368450",
-    "description": "Catch up on the latest Linux news: Kernel 7.3, OBS Studio 33.0, COSMIC 1.11, KeePassXC 2.8, OpenSSL 4.1, BeamFS filesystem proposed for inclusion in the Linux kernel, and more.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368450",
-    "date": "Oct 26, 2026 08:32",
-    "published_at": "2026-10-26T08:32:37Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Amazon Deforestation Fell To Lowest Level Since 1988 - And Silva Wins Reelection",
-    "link": "https://news.slashdot.org/story/26/10/26/054248/amazon-deforestation-fell-to-lowest-level-since-1988---and-silva-wins-reelection?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Brazil's 80-year-old president Luiz Inácio Lula da Silva was re-elected Sunday, reports the Guardian, \"defeating his far-right opponent, Flávio Bolsonaro, to claim a historic fourth term in power.\" \n\nAnd the results could impact the climate, suggests the Associated Press, since under da Silva the annual deforestation rate in the Amazon fell to its lowest level since records began in 1988:\n\nOfficial satellite data showed the rainforest lost 3,335 square kilometers (1,300 square miles) from Aug. 2025 through July 2026, the period used to calculate the annual rate... \n\nDuring Jair Bolsonaro's presidency, from 2019 to 2022, Amazon deforestation surged by about 60%, with more than 45,000 square kilometers (17,400 square miles) cleared, according to official data. Under Lula, deforestation has fallen 71% since 2023, the government said. One of Lula's first moves after taking office in January 2023 for a third, non-consecutive term was to revive the Action Plan for the Prevention and Control of Deforestation in the Legal Amazon, known by its Portuguese acronym, PPCDAm. Launched in 2004 during his first administration, the plan had been shelved under Bolsonaro.... \n\n The plan has four pillars: strengthening monitoring and enforcement; promoting a sustainable economy; managing protected areas and determining how undesignated public forests should be used; and using regulations and financial incentives to curb deforestation. Measures included restoring sanctions for illegal forest clearing detected by satellites, a practice seen as the most effective tool to curb deforestation that was halted under Bolsonaro. The government also proposed barring properties with illegal deforestation from receiving bank loans and allocated more funding to priority Amazon municipalities that demonstrated reductions in forest loss. It also funded efforts to fight environmental crime and develop subsidized credit for sustainable businesses in the Amazon... \n\nDeforestation and other land-use changes are Brazil's largest sources of greenhouse gas emissions, which drive global warming. The stakes are especially high in the Amazon, which stores vast amounts of carbon dioxide and generates atmospheric moisture that helps regulate weather far beyond South America... Degradation from wildfires, logging and drought affects about 40% of the Amazon and has outpaced clear-cutting in recent years. A strong El Niño, a periodic warming of the equatorial Pacific, could intensify those threats in 2026 and 2027 by bringing hotter, drier conditions that fuel wildfires. \nThe article notes that Lula's reelection campaign promised zero net deforestation by 2030, plus restoration to offset all forest loss, legal or illegal.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 26, 2026 07:34",
-    "published_at": "2026-10-26T07:34:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "qBittorrent 5.3 BitTorrent Client Is Out as a Major Update, Here’s What’s New",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368442",
-    "description": "qBittorrent 5.3 open-source BitTorrent client has been released today as a major update that introduces numerous new features and improvements for all supported platforms, including Linux, macOS, and Windows.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368442",
-    "date": "Oct 26, 2026 05:29",
-    "published_at": "2026-10-26T05:29:38Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Microsoft Announces Open Source Tool Evaluating Your Software's Optimization For AI Coding Agents",
-    "link": "https://news.slashdot.org/story/26/10/26/0420240/microsoft-announces-open-source-tool-evaluating-your-softwares-optimization-for-ai-coding-agents?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "The problem? Understanding how AI coding agents interact with the software you build. \"Whether you're maintaining an SDK, building a command-line interface, or publishing an MCP server or skills... you need to understand whether agents can discover and use what you ship, and what your team can change.\" \nResults can vary, and configurations keep changing, with behaviors influenced by everything from custom instructions and MCP servers to skills and plugins. So after a year of development Microsoft has created Scope, \"an open-source platform built on Kubernetes for turning those interactions into evidence product teams can act on.\" \n\nDetails are available on... the Microsoft open source blog:\nAvailable under the MIT License, Scope supports a continuous Developer Agent Experience (DevAx) learning loop grounded in repeatable experiments. \nThe Azure Cosmos DB team's experience shows what that loop can deliver... \"The evaluations led to 20 Agent Kit issues and 27 documentation issues resolved,\" [says Jay Gordon, Senior Program Manager, Azure Cosmos DB]... These results connect evaluation to decisions a product team can make: which documentation needs clarification, where tooling needs a fix, and whether an update changes agent behavior.... [The gains] demonstrate how targeted changes, informed by observed behavior, can improve the way agents use a product. \nFor more on the shift from building for human developers to supporting agents, watch Your Product Was Built for Humans. Is It Ready for Agents? or join us at AI DevCon NYC conference in November. \n\nScope surfaces everything from incorrect assumptions in documentation (or recurring missed instructions) to whether agents select the intended SDK, initialize it correctly, and use its APIs, leading to clearer descriptions for command-line tool and more actionable errors. \n\nMicrosoft's open source blog also explains why AI agent evaluation needs an open-source foundation:\nThe challenges behind agent experience aren't unique to one product or organization. SDK maintainers, tool authors, researchers, and agent developers are all asking how agents behave and what helps them succeed. No single team can represent every language, workflow, or integration. An open project can bring more scenarios, more failure cases, and more viewpoints into the evaluation process... Opening Scope's execution and evaluation code gives contributors a way to question the methods, investigate unexpected results, and improve the evaluation itself. A shared foundation also reduces duplicated infrastructure. Agent integrations, reusable criteria, and trace-analysis improvements can help other teams study their own products without rebuilding the same machinery. The goal isn't one universal benchmark or definition of success. It's a common starting point that teams can adapt to their needs. \n\nThe MIT License lets teams use and extend Scope, while self-managed deployments let them evaluate private workloads without publishing their code or run data.... Scope streams activity as the agent works and retains interactions and workspace snapshots for later review. Your team can follow tool calls, inspect generated files, and connect a failed requirement to the steps that preceded it. Those traces provide observable evidence of what the agent did, helping turn a failure into a concrete documentation, SDK, or tooling improvement.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 26, 2026 04:34",
-    "published_at": "2026-10-26T04:34:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Realtek rtl8723bs Driver Deleted From Staging Area In Linux 7.4",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368438",
-    "description": "After nearly a decade in the Linux kernel's staging area and being worked on by many different kernel developer newcomers, the Realtek rtl8723bs was deleted from the staging area. This comes as Realtek rtl8723bs was added onto the more mature RTW88 driver in the Linux networking subsystem...",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368438",
-    "date": "Oct 26, 2026 03:58",
-    "published_at": "2026-10-26T03:58:08Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "PipeWire 1.6.10 Is Out to Improve JACK, Bluetooth, Pulse Server, and ALSA Plugin",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368443",
-    "description": "PipeWire 1.6.10 has been released today as the tenth maintenance update in the latest PipeWire 1.6 series of this open-source software for handling audio and video streams under Linux-based operating systems.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368443",
-    "date": "Oct 26, 2026 02:26",
-    "published_at": "2026-10-26T02:26:39Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "25% of Incoming Pull Requests May Be AI Slop, Finds Study From Linux Foundation Research",
-    "link": "https://news.slashdot.org/story/26/10/26/0131241/25-of-incoming-pull-requests-may-be-ai-slop-finds-study-from-linux-foundation-research?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "\"59% of maintainers report growing contribution volume since the rise of GenAI,\" according to a new study published by Linux Foundation Research. But 25% of their incoming pull requests \"are estimated to be low-quality, also known as 'AI slop'.\" And on large projects, 69% see growing contributions — and estimate that 31% are low-quality/AI slop. \n\nSo what do these results show us? \"Generative AI is fundamentally changing how people participate in open source,\" says the head of Open Source Ecosystem Development at Huawei's R\u0026D subsidiary Futurewei, which helped support the study. Specifically GenAI is \"lowering barriers to contribution\" but also \"creating new challenges\" for maintainers and communities. Their recommendation? \"Build the governance, transparency and trust mechanisms that allow AI-assisted contributions to strengthen, but not overwhelm, the open source ecosystem.\" \n\n\"Open source projects need to design for a growing AI-generated contributor base, not simply react to it,\" said Hilary Carter, SVP of Research at the Linux Foundation. \"That means setting clear expectations for GenAI, putting responsibility for testing and disclosure on contributors and giving maintainers better tools to manage incoming pull requests. If we get those fundamentals right, AI can expand participation without overburdening and increasing costs for maintainers.\" \n\nMore from the blog It's FOSS:\nLF Research is the Linux Foundation's research arm. It was set up in 2021 and publishes studies on how open source is built and used, drawing on surveys and project data. Its latest report, Navigating Open Source Software Development in the Generative AI Era, surveyed 234 contributors and maintainers on how generative AI is affecting the way open source gets made... \n64% say reviews now take longer. Burnout is their top concern at 63%, narrowly ahead of contribution quality at 60%. \nYou will also find that policies have not caught up to the AI-assisted coding and vulnerability reporting trend. Of the 119 respondents who answered the question, 35% said their project has a formal policy permitting AI use. Another 32% have none and no plans for one, 23% plan to write one, and 10% ban AI contributions outright.... \nMost maintainers (71%) say AI makes it easier for newcomers to start contributing. \n\nOther interesting findings:\n\n\"Respondents estimate average time reductions across all six OSS development activities measured, including proposal discussions (19%) and code authoring (52%). For high-complexity tasks, however, 21% of respondents report taking more time when using GenAI.\" \n\"71% of maintainers agree GenAI reduces barriers to entry for OSS, but 53% of maintainers disagree that GenAI has improved community trust.\"\nDevelopers are reinvesting the time they save back into open source: 66% report using productivity gains to address technical debt, 63% to develop new features and 58% for learning and upskilling. \nContinued investment in human mentorship remains important: 46% of maintainers say GenAI increases the need for mentorship of new contributors, compared with 32% who say it decreases that need.\n\n\n\n OpenSSF and LF AI \u0026 Data also helped support the study.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 26, 2026 01:34",
-    "published_at": "2026-10-26T01:34:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Redox OS Landed Nice Performance Improvements In September",
-    "link": "https://www.phoronix.com/news/Redox-OS-September-2026",
-    "description": "The Rust-based open-source operating system Redox OS had a very eventful September as they outlined in a status update published this weekend...",
-    "guid": "https://www.phoronix.com/news/Redox-OS-September-2026",
-    "date": "Oct 26, 2026 00:24",
-    "published_at": "2026-10-26T00:24:45Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Systemd Merges Support for Rust Programs",
-    "link": "https://linux.slashdot.org/story/26/10/25/2227243/systemd-merges-support-for-rust-programs?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "\"As of today in systemd Git it's now possible for the systemd programs to be written in the Rust programming language as an alternative to C,\" reports Phoronix:\n\n\nCore systemd code like the systemd library doesn't yet support Rust code, but for the various systemd programs / leaf components there is now support for using Rust... The new systemd-keyring-setup utility in Rust is used for provisioning keyrings and enrolling X.509 certificates into the kernel's dm-verity / fs-verity / BPF keyrings during the boot process while dealing them afterward. This systemd-keyring-setup code hasn't been merged yet but is expected soon now that the Rust infrastructure has landed. Originally it was all part of a single big commit before being split-up for the Rust enablement, systemd-keyring-setup, and other preparations for this new component. \n\nSystemd developers aren't planning on porting existing C code to Rust, all the Rust code is built with Meson [no Cargo usage], and C linkage only is mandated. \n\nSystemd Rust components come out slightly larger than C with a test program being 32KB compared to 20KB for its C twin. For now at least the systemd Rust support is optional and toggled by the -Drust= Meson option with it being auto by default.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 26, 2026 00:08",
-    "published_at": "2026-10-26T00:08:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "AI Use Convinces California Math Professor There's 'No Point' Grading Homework",
-    "link": "https://news.slashdot.org/story/26/10/25/235241/ai-use-convinces-california-math-professor-theres-no-point-grading-homework?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "From the student newspaper at the University of California, Berkeley:\n\n\nRichard Borcherds, a UC Berkeley professor and Fields medalist, no longer grades his students' homework. After seeing how many of his students used AI to consistently receive top scores, he felt there was \"no point\" in paying readers to grade for correctness in homework, as AI use is now unavoidable. \n\nBorcherds revealed this in a sit-down interview Tuesday, following OpenAI's announcement that AI agents apparently solved one of mathematics' most difficult unsolved problems, the Navier-Stokes existence and smoothness problem. \"If AI continues to improve at present rate, then, in a few years, there'll be nothing human mathematicians can do that AI can't do better,\" Borcherds said. \n\nBorcherds said he currently grades on completion if a student hands in their homework. He admitted that it is \"not a very good system,\" but at the moment, he has no alternative... Campus has tried several AI detection tools, including Turnitin and Rumi, but have determined that these tools aren't adequate enough to be standardized on campus. \n\nThe article points out that at the university, each class's AI policy \"is up to the discretion of faculty.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 25, 2026 23:08",
-    "published_at": "2026-10-25T23:08:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
   }
 ]
