@@ -1,5 +1,171 @@
 [
   {
+    "title": "Systemd Creator’s Startup Opens Signups for Private Preview of its Linux System",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368493",
+    "description": "Amutable Foundations is a read-only, image-based system where every machine produces signed reports of its own state.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368493",
+    "date": "Oct 27, 2026 02:51",
+    "published_at": "2026-10-27T02:51:54Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "A New Framework for Open Source AI",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368481",
+    "description": "Open or closed AI isn’t a fringe question anymore; it’s a live policy debate, with real consequences for who gets to build, audit, and compete in the AI ecosystem. But as that debate plays out in Washington, Brussels, and beyond, the harder questions are still very much up for discussion. What does meaningful openness actually […]",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368481",
+    "date": "Oct 27, 2026 02:00",
+    "published_at": "2026-10-27T02:00:29Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "openSUSE Board Election 2026 Begins",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368503",
+    "description": "The openSUSE Election Committee has announced the start of the 2026 openSUSE Board Election. Three Board seats are up for election, and all eligible openSUSE members are encouraged to take part. The openSUSE Board asked for the election to be completed by Dec. 1, 2026, as outlined in Board ticket…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368503",
+    "date": "Oct 27, 2026 01:05",
+    "published_at": "2026-10-27T01:05:15Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Initial Support For The Apple M4 \u0026 Apple A18 Pro Make It Into Linux 7.4",
+    "link": "https://www.phoronix.com/news/Linux-7.4-SoCs",
+    "description": "The many SoC patches have landed within the Linux 7.4 kernel providing support for dozens of new boards as well as a number of new SoCs like the Apple M4 and the A18 Pro as found in the MacBook Neo. The Google Tensor 5 was also finally mainlined along with Pixel 10 devices. Plus some unreleased Qualcomm SoC support rounds out the bunch...",
+    "guid": "https://www.phoronix.com/news/Linux-7.4-SoCs",
+    "date": "Oct 27, 2026 00:52",
+    "published_at": "2026-10-27T00:52:15Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Steam Frame VR Headset Sees Mainline Support With Linux 7.4",
+    "link": "https://www.phoronix.com/news/Steam-Frame-FR-Linux-7.4",
+    "description": "The mainline Linux 7.4 kernel will be capable of running  on the Steam Frame VR headset...",
+    "guid": "https://www.phoronix.com/news/Steam-Frame-FR-Linux-7.4",
+    "date": "Oct 27, 2026 00:36",
+    "published_at": "2026-10-27T00:36:40Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Best XFCE Linux Distros in 2026: 8 Fast and Lightweight Picks Ranked",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368515",
+    "description": "Slow, bloated desktop? Compare the best XFCE Linux distros in 2026, with pros, cons, and a quick table to find the fast, light system that fits you.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368515",
+    "date": "Oct 27, 2026 00:07",
+    "published_at": "2026-10-27T00:07:40Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "PHP2Shell scare sees SuperTuxKart pull its online server",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368490",
+    "description": "SuperTuxKart has taken several online services offline, having pulled the server that powers them rather than risk it being exploited by PHP2shell. The open-source karting game is not alone in ‘pitting’ to patch, with Wikimedia, DeviantArt, government websites and many more taking various systems offline to harden against it. While offline, gamers can’t reset their online account passwords, check…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368490",
+    "date": "Oct 26, 2026 23:00",
+    "published_at": "2026-10-26T23:00:31Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "PHP2Shell Security Flaws Now Successfully Exploited",
+    "link": "https://yro.slashdot.org/story/26/10/26/2150206/php2shell-security-flaws-now-successfully-exploited?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "The critical PHP2Shell vulnerabilities (CVE-2026-109618 and CVE-2026-109619) have now been successfully exploited in the wild, just days after patches were released and initial exploitation attempts failed. BleepingComputer reports: The malicious activity was caught by Adel Karimi, detection and response lead at Perplexity, whose honeypots recorded evidence of confirmed remote code execution against an Apache mod_php installation running PHP 8.4.26. \"This is now confirmed RCE with usable memory disclosure, not just a crash followed by a suspicious process. The response delivered an 800 KiB decoded cookie dump, and a function address derived from that dump using the public exploit's offsets appears in the subsequent execution payload,\" Karimi shared.\n \n\"The evidence demonstrates this chain on the intentionally favorable single-worker mod_php profile; it is not a measurement of exploit reliability on other worker counts, PHP builds, or applications,\" he added. Karimi's findings were also confirmed by Expel threat researcher Marcus Hutchins, who has been tracking a stream of alleged successful PHP2Shell exploitation reports.\n \n\"This is by far the highest quality confirmation of in-the-wild php2shell exploitation I've seen so far. Deep technical breakdown of a successful exploitation attempt against an Apache mod_php installation running PHP 8.4.26,\" Hutchins said.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 26, 2026 23:00",
+    "published_at": "2026-10-26T23:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Skydance Offers Buyouts, Gives 5-Day RTO Order",
+    "link": "https://slashdot.org/story/26/10/26/2128235/skydance-offers-buyouts-gives-5-day-rto-order?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Skydance, as it begins integrating Paramount and Warner Bros. Discovery, is offering voluntary buyouts to some employees and imposing a five-day-a-week office requirement. Layoffs are also expected as the company targets more than $6 billion in annualized cost savings within three years. Variety reports: The new program was outlined by chairman and CEO David Ellison and co-CEO Ynon Kreiz in a memo to staffers Monday. \"As we bring our teams together, we recognize that not everyone will see their future here, and we respect that. To give eligible employees the option to move on in a way that works for them, we are introducing a Voluntary Buyout (VBO) Program,\" the execs wrote. \"Those who qualify will receive an individual communication with their personalized details and terms, and a window to decide whether to accept this one-time offer.\"\n \nThey added, \"Please know we don't take any of this lightly. We are clear about what we're building: a company that tells the stories people around the world love, embraces new ways to connect with audiences, and leads the next era of media and entertainment. We have the talent, the creative firepower and the ambition to do it, and we will get there together.\"\n \n[...] In the Oct. 26 memo, Ellison and Kreiz also said the new Skydance is moving to a mandatory five-days-per-week in-office policy across the company. \"We believe in-person collaboration is vital to our culture and to the success of our business. Especially in a creative company like ours, the best ideas come from people in the same room, sharing perspectives, challenging one another and solving problems,\" the execs said. \"We truly believe this is in the best interest of our company and our people. We've seen the benefits firsthand at Paramount, and we want every part of Skydance to share in them.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 26, 2026 22:00",
+    "published_at": "2026-10-26T22:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Linux 7.4 Preps CXL For Very Neat Dynamic Capacity Devices \"DCD\"",
+    "link": "https://www.phoronix.com/news/Linux-7.4-CXL",
+    "description": "The Compute Express Link (CXL) subsystem changes were merged today for the Linux 7.4 kernel. The fun work this cycle is preparing to support Dynamic Capacity Devices...",
+    "guid": "https://www.phoronix.com/news/Linux-7.4-CXL",
+    "date": "Oct 26, 2026 21:05",
+    "published_at": "2026-10-26T21:05:32Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Firefox Tries to Bring Back the Internet's 'Good Old Days'",
+    "link": "https://news.slashdot.org/story/26/10/26/1931208/firefox-tries-to-bring-back-the-internets-good-old-days?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Mozilla launched a new ad campaign for Firefox that leverages early internet nostalgia in a bid to win back users who switched browsers. \"Today's internet tracks you, interrupts you, and asks for permissions it already took. But it wasn't always that way, and it's not how it's supposed to work,\" writes Mozilla CEO Anthony Enzor-DeMeo in a post on LinkedIn. \"It's how a few companies decided it should work, because it pays.\"\n \n\"We're making a different bet at Firefox. Remember us? Well, we're still here, and we don't think the internet should be like this...\" The ad features viral internet stars from yesteryear, including Tay Zonday of \"Chocolate Rain\" fame, Gary Brolsma of \"Numa Numa\", Noah Ritter, better known as the \"Apparently Kid\", and Laina Morris, the face of the \"Overly Attached Girlfriend\" meme, among others.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 26, 2026 21:00",
+    "published_at": "2026-10-26T21:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Instagram Chases YouTube With a Push For Longer, Widescreen Videos",
+    "link": "https://entertainment.slashdot.org/story/26/10/26/1846258/instagram-chases-youtube-with-a-push-for-longer-widescreen-videos?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Instagram is testing a new longform, horizontal video format called \"Features\" as it pushes further into YouTube territory and expands its presence on TVs. The Verge reports: Instagram boss Adam Mosseri has been against doing longform video on the platform \"for a long time,\" he says in a six-and-a-half-minute video (here's the widescreen version) with VP of product Tessa Lyons, saying that \"one of my concerns has been, how do we make sure that we keep Instagram not just about entertainment, but about connecting with friends.\" If you watch a longform video, \"it's a lot of Reels, photos, and carousels that you might not have sent to a friend,\" meaning less likes and shares. Now, though, the team is working on making shortform and longform video \"symbiotic,\" according to Mosseri, like podcasts or comedy specials that can be both long videos and broken up into shorter ones.\n \nThe announcement of this widescreen video push also follows the launch of Instagram's TV app late last year. That app launched first as a Reels-focused experience and as a pilot for Amazon Fire TV devices in the US, but it's since expanded to Google TVs, Samsung TVs and Apple TV, and Instagram launched new features like the ability to watch Stories earlier this year.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 26, 2026 20:00",
+    "published_at": "2026-10-26T20:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Emulate Apple II on Raspberry Pi",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368501",
+    "description": "Recreate the classic 8-bit computer on Raspberry Pi.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368501",
+    "date": "Oct 26, 2026 19:18",
+    "published_at": "2026-10-26T19:18:14Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "KMSCON 10.1 Released With Support For Per-Monitor Configurations",
+    "link": "https://www.phoronix.com/news/KMSCON-10.1-Released",
+    "description": "KMSCON as the user-space terminal emulator targeting Linux DRM/KMS interfaces as an alternative to the in-kernel VT now is able to individually configure monitors in multi-monitor setups. Plus a variety of other improvements with today's KMSCON 10.1 release...",
+    "guid": "https://www.phoronix.com/news/KMSCON-10.1-Released",
+    "date": "Oct 26, 2026 19:17",
+    "published_at": "2026-10-26T19:17:21Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Walter Koenig, Chekov On Original 'Star Trek,' Dies At 90",
+    "link": "https://entertainment.slashdot.org/story/26/10/26/1828230/walter-koenig-chekov-on-original-star-trek-dies-at-90?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Longtime Slashdot reader schwit1 shares a report from CBS News: Walter Koenig, the actor who played Pavel Chekov in the original \"Star Trek\" series and several movies, has died, his rep confirmed to CBS News. He was 90. Koenig died Sunday night at his home in the North Hollywood neighborhood of Los Angeles, talent rep Zachery McGinnis said in a statement. He died surrounded by his daughter and niece, McGinnis said.\n \nIn 'Star Trek,' Ensign Chekov was the sole member of the spaceship Enterprise bridge staff from what was the Communist bloc. His friendly, supportive presence showed how the rival nations (in the far-off future in which the show was set) were capable of working together. Speaking heavily Russian-accented English, Chekov embodied stereotypical Russian personality traits, including fierce pride, love of poetry and blind loyalty. \"Through countless convention appearances and interactions with fans, he shared his kindness, wit, and appreciation with everyone fortunate enough to meet him. He understood what Star Trek meant to people and embraced the community that grew around it,\" McGinnis said. \"Thank you, Walter, for the memories, the inspiration, and for boldly going where few have gone before.\"\n \nWatch some of the Chekov's best moments on YouTube.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 26, 2026 19:00",
+    "published_at": "2026-10-26T19:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Highway Thieves Are Spoofing GPS To Steal Millions In Data Center-Bound Cargo",
+    "link": "https://yro.slashdot.org/story/26/10/26/1759233/highway-thieves-are-spoofing-gps-to-steal-millions-in-data-center-bound-cargo?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Highway thieves have stolen more than $100 million in data center equipment since June, employing increasingly sophisticated tactics such as forging driver IDs and spoofing GPS tracking systems. NBC News (paywalled) reports that thieves have \"made away with more than $100 million in data center freight.\" Ars Technica reports: Here's how they said thieves get away with it: First, thieves hack freight brokers' accounts on shipment-listing websites and post fake shipments to lure real bids, then send a malicious link to any trucking companies that respond. Once victims click, thieves install software to take control of their accounts and start bidding on real shipments. Sometimes, a real delivery driver is hired to collect the cargo, unaware of the scam, and other times fake driver's licenses are used to get accomplices hired. Either way, the goods are eventually transferred to a driver working with the thieves to resell the gear, and, in one of the largest thefts, tracking coordinates were spoofed to prevent digital monitoring. Equipment commonly targeted includes \"servers, fiber-optic cables, computer memory chips, copper wires, and bitcoin mining machines,\" NBC News reported.\n \nSome trailers hit seem to be carrying only data center equipment, like two stolen freights found in Illinois. The Cook County Sheriff's Office estimated those contained $300,000 worth of copper wire spools and about $1 million in \"custom-made data center modular power solutions equipment,\" NBC News reported. Other trucks impacted were carrying additional freight, like a Los Angeles County Sheriff's Department case where \"data center cooling equipment\" bound for Deepcool AI was recovered among nicotine pouches, televisions, shoes, printers, speakers, and skin care cosmetics. Experts worry that means Americans may be broadly harmed by the thefts, not just the AI industry.\n \nWhile some stolen goods have been recovered, in two of the largest thefts that NBC News found, none of the equipment was found, and off-duty cops hired to escort the shipments were targeted in hit-and-runs. [...] Broadly, cargo thieves are infiltrating email accounts to find lucrative shipments, misdirecting shipments, disrupting GPS tracking, and using AI to create fake driver's licenses to get accomplices hired as delivery drivers. LASD's Sgt. David Pantoja told NBC News \"that's how most of it is being done,\" which is a big shift from the past when highway thefts were largely opportunistic.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 26, 2026 18:00",
+    "published_at": "2026-10-26T18:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
     "title": "Intel IPU8 Support Upstreamed In Linux 7.4 For Nova Lake Laptops",
     "link": "https://www.phoronix.com/news/Linux-7.4-Media",
     "description": "The media subsystem changes have been merged for the Linux 7.4 kernel. Most notable is Intel IPU8 support being introduced for the next-gen image processing unit in high-end Nova Lake laptops..",
@@ -10,6 +176,17 @@
     "source_url": "https://www.phoronix.com/"
   },
   {
+    "title": "BSD Users Can Now Enjoy Omarchy Flavor",
+    "link": "https://feed.itsfoss.com/link/24361/17507094/daemonarchy-overview",
+    "description": "Daemonarchy keeps Omarchy’s installer and look, with FreeBSD handling the system underneath.",
+    "guid": "6adee42e8bfa1e00019392eb",
+    "date": "Oct 26, 2026 17:35",
+    "published_at": "2026-10-26T17:35:00Z",
+    "image": "https://itsfoss.com/content/images/2026/10/daemonarchy-banner-1.png",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
     "title": "KWin-Type Introduced To Address KDE Wayland Usability Gap For Auto-Typing Text",
     "link": "https://www.phoronix.com/news/KDE-KWin-Type",
     "description": "Open-source developer Jason Donenfeld known for his work on WireGuard announced today the release of kwin-type. KWin-type is a new Wayland-compatible program for auto-typing text from the standard input under the KWin Wayland compositor...",
@@ -18,6 +195,17 @@
     "published_at": "2026-10-26T17:11:02Z",
     "source": "phoronix.com",
     "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Apple Updates the iPad Mini With a Larger OLED Display",
+    "link": "https://apple.slashdot.org/story/26/10/26/1549226/apple-updates-the-ipad-mini-with-a-larger-oled-display?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Apple has unveiled a redesigned iPad Mini with a larger 8.5-inch OLED display, an A20 Pro chip, twice the peak brightness and slimmer bezels while maintaining roughly the same footprint. It starts at $699 ($200 more than its predecessor) and will be available November 6. The Verge reports: Despite having a slightly bigger display than the 8.3-inch screen on its predecessor, Apple says the device maintains the same small footprint thanks to bezels that are 24 percent slimmer. The iPad Mini is 5.4mm thick as well, making it thinner and lighter than the previous generation, according to Apple. It also comes with an IP67 rating for protection against water and dust.\n \nAside from an OLED display, the new iPad Mini features an upgraded A20 Pro chip. This enables support for some of Apple's new Siri AI features, including the ability to tweak the expressiveness and pace of the assistant's voice. Apple says the upgraded iPad Mini also comes with two times the peak brightness than the previous generation. iPad Mini's 12MP front-facing camera is now on the long edge of the device, making it easier for video calls in landscape orientation.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 26, 2026 17:00",
+    "published_at": "2026-10-26T17:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
   },
   {
     "title": "LXer hardens against PHP2Shell",
@@ -145,17 +333,6 @@
     "source_url": "https://www.phoronix.com/"
   },
   {
-    "title": "Systemd Creator’s Startup Opens Signups for Private Preview of its Linux System",
-    "link": "https://feed.itsfoss.com/link/24361/17506987/amutable-foundations-private-preview",
-    "description": "Amutable Foundations is a read-only, image-based system where every machine produces signed reports of its own state.",
-    "guid": "6adf16a68bfa1e0001939490",
-    "date": "Oct 26, 2026 14:23",
-    "published_at": "2026-10-26T14:23:52Z",
-    "image": "https://itsfoss.com/content/images/2026/10/amutable-foundations-banner.png",
-    "source": "itsfoss.com",
-    "source_url": "https://itsfoss.com/"
-  },
-  {
     "title": "Snapdragon X1 Elite / Acer Swift 14 AI Performance On The Ubuntu 26.10 X1E Concept",
     "link": "https://www.phoronix.com/review/ubuntu-2610-snapdragon-x1e",
     "description": "For those curious about the Snapdragon X1 Elite performance on the recently released Ubuntu 26.10 Concept X1E ISO, here are some benchmarks showing the performance relative to Ubuntu 26.04 LTS X1E state on the same hardware.",
@@ -218,7 +395,7 @@
   {
     "title": "Reddit's Largest Open Source Community Dumbfounded By AI Ban: 'I Guess Linux Is No Longer Allowed?'",
     "link": "https://tech.slashdot.org/story/26/10/26/0540245/reddits-largest-open-source-community-dumbfounded-by-ai-ban-i-guess-linux-is-no-longer-allowed?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Kotaku reports:\n\n\nr/opensource, Reddit's primary \"subreddit for everything open source related,\" has banned all AI-assisted and AI-related projects.... As reported by The Verge, the subreddit's October 24 post, titled \"Your tokens aren't valuable: No more AI,\" features four new main rules: all projects must now be at least \"1 year old,\" have \"multiple contributors,\" be posted by someone who must \"speak English,\" and cannot be \"made by\" or \"intended for\" AI... [T]he ban on AI is simple; as the subreddit's moderators explain, \"AI, as it exists today, is incongruent to this Open Source community.\" Unsurprisingly, this is the part that's upset the majority of the users in the thread.... \n\n[T]he moderator who posted the new guidelines stated in a separate comment that the overwhelmingly negative response is due to \"some guy on twitter claiming to be alternative news\" who posted an \"opinionated editorial pointing hundreds of people to the thread.\" Given the timing of when the thread was posted, alongside the fact that the X post in question mentions \"the Linux kernel,\" they are presumably referring to this post by The Lunduke Journal. The moderator may be correct, as almost all of the top comments on the post are from users who have never posted in r/opensource before. \n\nThe use of AI \"doesn't change whether something is open source or not,\" complained one commenter, who added \"I guess Linux is no longer allowed here? Linus uses AI for kernel development now.\" \n\nThe moderator has since updated their post to acknowledge that Redditors have now already created a rival community called r/OpenSourceAIAllowed — plus three more alternatives:\n\n r/TrueOpenSource\n r/OpenSourceWare\n r/ActuallyOpenSource\n\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "description": "Kotaku reports:\n\n\nr/opensource, Reddit's primary \"subreddit for everything open source related,\" has banned all AI-assisted and AI-related projects.... As reported by The Verge, the subreddit's October 24 post, titled \"Your tokens aren't valuable: No more AI,\" features four new main rules: all projects must now be at least \"1 year old,\" have \"multiple contributors,\" be posted by someone who must \"speak English,\" and cannot be \"made by\" or \"intended for\" AI... [T]he ban on AI is simple; as the subreddit's moderators explain, \"AI, as it exists today, is incongruent to this Open Source community.\" Unsurprisingly, this is the part that's upset the majority of the users in the thread.... \n\n[T]he moderator who posted the new guidelines stated in a separate comment that the overwhelmingly negative response is due to \"some guy on twitter claiming to be alternative news\" who posted an \"opinionated editorial pointing hundreds of people to the thread.\" Given the timing of when the thread was posted, alongside the fact that the X post in question mentions \"the Linux kernel,\" they are presumably referring to this post by The Lunduke Journal. The moderator may be correct, as almost all of the top comments on the post are from users who have never posted in r/opensource before. \n\nThe use of AI \"doesn't change whether something is open source or not,\" complained one commenter, who added \"I guess Linux is no longer allowed here? Linus uses AI for kernel development now.\" \n\nThe moderator has since updated their post to acknowledge that Redditors have now already created a rival community called r/OpenSourceAIAllowed — plus three more alternatives:\n\n r/TrueOpenSource r/OpenSourceWare r/ActuallyOpenSource \n\nUPDATE (10/26): Monday saw a new comment from the moderator stressing that \"Adjustments will be made.\" \n\n\"Linux is not, nor could conceivably ever be banned. Interpreting any set of rules as such is simply bad faith. Someone's pet project pumped out in two claude code session limits will not be welcome. The line is somewhere between those, and it will likely move over time from continuous feedback. \n\n\"We will cater to humans, and as many and as inclusively as possible. No rule will ever target or favor any ethnicity or social strata.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
     "guid": "",
     "date": "Oct 26, 2026 11:34",
     "published_at": "2026-10-26T11:34:00Z",
@@ -335,7 +512,7 @@
   {
     "title": "Steam Next Fest - October 2026, here's the most-played demos so far",
     "link": "https://www.gamingonlinux.com/2026/10/steam-next-fest-october-2026-heres-the-most-played-demos-so-far/",
-    "description": "Valve sent word via email as Steam Next Fest - October 2026 beings to wind down about what has been the most popular during this event.Read the full article on GamingOnLinux.",
+    "description": "Valve sent word via email as Steam Next Fest - October 2026 begins to wind down about what has been the most popular during this event.Read the full article on GamingOnLinux.",
     "guid": "https://www.gamingonlinux.com/2026/10/steam-next-fest-october-2026-heres-the-most-played-demos-so-far/",
     "date": "Oct 26, 2026 08:51",
     "published_at": "2026-10-26T08:51:33Z",
@@ -363,16 +540,6 @@
     "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
     "source": "slashdot.org",
     "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Redox OS Landed Nice Performance Improvements In September",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368452",
-    "description": "The Rust-based open-source operating system Redox OS had a very eventful September as they outlined in a status update published this weekend...",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368452",
-    "date": "Oct 26, 2026 07:01",
-    "published_at": "2026-10-26T07:01:07Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
   },
   {
     "title": "qBittorrent 5.3 BitTorrent Client Is Out as a Major Update, Here’s What’s New",
@@ -427,14 +594,14 @@
     "source_url": "https://slashdot.org/"
   },
   {
-    "title": "Cheap GameSir Nova Lite Gaming Controller Supported By Linux 7.4",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368439",
-    "description": "Following all the HID driver updates/additions in Linux 7.4, the input subsystem changes were merged this weekend for this new kernel version...",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368439",
-    "date": "Oct 26, 2026 00:55",
-    "published_at": "2026-10-26T00:55:10Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
+    "title": "Redox OS Landed Nice Performance Improvements In September",
+    "link": "https://www.phoronix.com/news/Redox-OS-September-2026",
+    "description": "The Rust-based open-source operating system Redox OS had a very eventful September as they outlined in a status update published this weekend...",
+    "guid": "https://www.phoronix.com/news/Redox-OS-September-2026",
+    "date": "Oct 26, 2026 00:24",
+    "published_at": "2026-10-26T00:24:45Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
   },
   {
     "title": "Systemd Merges Support for Rust Programs",
@@ -448,16 +615,6 @@
     "source_url": "https://slashdot.org/"
   },
   {
-    "title": "Quad-motor control board with Cortex-M33 and TinyEngine AI",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368448",
-    "description": "BeagleBoard.org has introduced the BeagleConnect QuadESC, an open-source four-channel brushless DC motor-control board for robotics, drones, and embedded applications. It integrates four three-phase power stages and the BeagleConnect Torque module, featuring a 200 MHz Arm Cortex-M33 processor, dedicated math acceleration, and a TinyEngine neural-network accelerator. The BeagleConnect QuadESC measures 60 × 48 mm and integrates […]",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368448",
-    "date": "Oct 25, 2026 23:23",
-    "published_at": "2026-10-25T23:23:40Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
     "title": "AI Use Convinces California Math Professor There's 'No Point' Grading Homework",
     "link": "https://news.slashdot.org/story/26/10/25/235241/ai-use-convinces-california-math-professor-theres-no-point-grading-homework?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
     "description": "From the student newspaper at the University of California, Berkeley:\n\n\nRichard Borcherds, a UC Berkeley professor and Fields medalist, no longer grades his students' homework. After seeing how many of his students used AI to consistently receive top scores, he felt there was \"no point\" in paying readers to grade for correctness in homework, as AI use is now unavoidable. \n\nBorcherds revealed this in a sit-down interview Tuesday, following OpenAI's announcement that AI agents apparently solved one of mathematics' most difficult unsolved problems, the Navier-Stokes existence and smoothness problem. \"If AI continues to improve at present rate, then, in a few years, there'll be nothing human mathematicians can do that AI can't do better,\" Borcherds said. \n\nBorcherds said he currently grades on completion if a student hands in their homework. He admitted that it is \"not a very good system,\" but at the moment, he has no alternative... Campus has tried several AI detection tools, including Turnitin and Rumi, but have determined that these tools aren't adequate enough to be standardized on campus. \n\nThe article points out that at the university, each class's AI policy \"is up to the discretion of faculty.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
@@ -467,173 +624,5 @@
     "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
     "source": "slashdot.org",
     "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "A Newly Proposed Linux Filesystem Can Fix Corrupted Data",
-    "link": "https://linux.slashdot.org/story/26/10/25/2153202/a-newly-proposed-linux-filesystem-can-fix-corrupted-data?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "BeamFS creator Aurelien Desbrieres is not calling for a merge, but is requesting feedback on an 18-patch proposal that takes the place of FTRFS, an earlier filesystem he proposed in April. \n\nThe Linux/Open Source blog It's FOSS reports:\n\n\nFilesystems that can repair damage, like Btrfs and ZFS, usually do it by falling back on a spare copy of the data. BeamFS skips that and stores Reed-Solomon error-correcting codes inside every block. Every read gets checked against those codes, and small amounts of damage are corrected before the data reaches the application. If the filesystem can tell the damage is beyond repair, the read fails with an error instead of returning the wrong bytes... \n\nIn his technical report, ext4 and ext3 returned wrong data without any error, while Btrfs refused to read the file. BeamFS returned the correct file every time except once, when a flip hit a pointer to the file's data and it refused the read. \n\n\n\"Aurelien says he used Anthropic's Claude to write the code, the tool that checks the patches, and the cover letter...\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 25, 2026 21:56",
-    "published_at": "2026-10-25T21:56:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Linux 7.4 Sound Changes Merged: \"The AI Flood Continues\"",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368441",
-    "description": "Linux sound subsystem maintainer Takashi Iwai of SUSE began the Linux 7.4 sound pull request by noting that \"the AI flood continues\" with there continuing to be a lot of new patches coming as a result of AI/LLM agents devising patches as well as uncovering new kernel bugs...",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368441",
-    "date": "Oct 25, 2026 21:52",
-    "published_at": "2026-10-25T21:52:11Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "AI Delivers 'Zero Financial Payoff' To Most Companies, Economist Says",
-    "link": "https://slashdot.org/story/26/10/25/2040212/ai-delivers-zero-financial-payoff-to-most-companies-economist-says?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "\"Despite massive investments and widespread hype around AI , the technology has delivered zero financial payoff to corporate America outside of tech,\" writes the chief economist at U.S. asset management firm Apollo Global. \n\nHe adds that \"there are still no signs of AI boosting productivity growth... [M]ainstream corporate America is pulling back and starting to view token spending not as a source of growth but as a cost center that weighs on margins.\"\n\nVC-backed companies are spending more and more on tokens, but mainstream corporate America does not need the latest model and is unwilling to pay for it. As long as agentic AI and token spending are confined to a small part of the economy, the macroeconomic effects of AI will be very limited... \n\nThe question looking ahead is whether, even as models become commoditized, mainstream corporate America can turn increasingly cheap intelligence into higher revenue growth and higher profit margins. That may be harder than it sounds. AI may be a great calculator, but in business, intelligence is mostly judgment. Judgment depends on context, and the answer varies with which human or which model you ask. Perhaps most importantly, AI does not understand accountability, trust, culture, unwritten rules, ethical trade-offs or fairness, all of which shape reputational risk and ultimately drive revenue growth and profit margins. \n\nThe bottom line is that the AI story will be decided in the S\u0026P 493, not the Mag 7, and so far, there is no evidence that revenue growth or margins are improving outside the tech sector.\n\n \n\n\nMore details from TechCrunch:\n\n\nApollo's Torsten Slok focuses on what he calls the S\u0026P 493 — the S\u0026P 500, minus Alphabet, Amazon, Apple, Meta, Microsoft, Nvidia and Tesla — finding that profit margins and revenue per worker appear to be flat, with no evidence that AI is improving productivity... \n\nRecent studies have also found that AI has yet to deliver significant productivity gains.\n\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 25, 2026 20:42",
-    "published_at": "2026-10-25T20:42:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "New Wayland Protocol Proposed For VNC/Remote Software",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368446",
-    "description": "Prominent Wayland developer Simon Ser sent out a merge request today for introducing the new ext-transient-output protocol. With ext-transient-output, it's intent is for helping remoting software like VNC servers in a Wayland world...",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368446",
-    "date": "Oct 25, 2026 20:20",
-    "published_at": "2026-10-25T20:20:42Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Meet Riff, an Open-Source Spotify Client Built for GNOME",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368440",
-    "description": "Riff offers Linux users a native Spotify experience with GTK4, libadwaita, playlist management, playback controls, and GNOME integration.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368440",
-    "date": "Oct 25, 2026 18:49",
-    "published_at": "2026-10-25T18:49:12Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Google Says Gmail and Photos Data Shared with AI Search Could Be Used for Targeted Ads",
-    "link": "https://tech.slashdot.org/story/26/10/25/1528213/google-says-gmail-and-photos-data-shared-with-ai-search-could-be-used-for-targeted-ads?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "The blog Android Authority offers this TLDR:\n\nGoogle updated its privacy policy to clarify that it could use information shared through Personal Intelligence to personalize ads. Gmail, Drive, and Photos content isn't used for targeted ads by default, but connecting them to eligible Google services could change that. \n\n Digital Trends explains:\n\n\nGoogle has long promised that your Gmail, Drive, and Google Photos content never helps it personalize ads. However, since October 16, 2026, its privacy policy adds a catch. The promise lapses if you let other ad-showing Google services use that content. That means using Personal Intelligence, an opt-in tool that lets Google's AI search read your connected apps, does exactly that (via Google). \n\nIf you ask Google's AI Mode where to eat near your hotel, and it can identify your hotel from the booking confirmation in Gmail, find the location in Maps, and then suggest a few places you might like. That's the helpful half. The twist, however, is that AI Mode can also show sponsored results. Google mentions that the personalized ads follow what the question and answer are about. So, while your inbox never goes to an advertiser, it can quietly shape the answer, which, in turn, shapes the ads. \n\nGoogle's defense is elaborate. First, it says connecting the apps is optional. Second, advertisers can't see the information or content Google accesses in your Workspace apps (including your inbox and photos). Finally, sensitive topics like health are off-limits. \n\n\nArs Technica shares the response they got from a Google spokesperson: that Google isn't scanning your entire inbox to feed their advertising profiles, but if you choose to pipe your personal data into an AI search tool — then the ads Google shows you could be based on that information.\n\nIf you want to ensure ads never use your personal data in this way, you'll need to make sure Personal Intelligence is turned off. The easiest way is to access the Gemini settings for Personal Intelligence and disable the connected apps. These settings are also a few levels deep in your main Google account settings under Data \u0026 privacy \u003e Personalization settings \u003e Manage Personalized Recommendations in Search Services \u003e Connected Content Apps. From there, you can disable connections to Workspace and Google Photos.\n\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 25, 2026 18:34",
-    "published_at": "2026-10-25T18:34:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Ubuntu Touch 24.04-2.2 Released with Security Fixes, VoLTE Improvements",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368447",
-    "description": "Ubuntu Touch 24.04-2.2 and 24.04-1.6 are out with certificate security fixes, VoLTE improvements, and AppArmor updates.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368447",
-    "date": "Oct 25, 2026 17:17",
-    "published_at": "2026-10-25T17:17:43Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Free Software Foundation Hosts Free 'Encryptfest' Event on Sunday",
-    "link": "https://news.slashdot.org/story/26/10/25/0526257/free-software-foundation-hosts-free-encryptfest-event-on-sunday?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "The Free Software Foundation's \"EncryptFest\" today covers both encryption and privacy. The free two-hour event runs from 13:00-15:00 Eastern Daylight Time (17:00-19:00 UTC), and includes: \n\n— A discussion on \"bulk surveillance, and how encryption protects personal privacy\"\n — A short video from renowned cryptographer Bruce Schneier.\n — A discussion with Henry Fisher, the founder of Techlore and a digital rights activist\n — A hands-on workshop on how you can encrypt your email using the FSF's Email Self-Defense guide \"as a concrete step to enhance your data privacy\"\n \n\n\nYou may join us virtually, or if you are in Boston, Massachusetts, United States (the FSF's home base), you can join us in-person at the Boston Public Library's Copley Square branch. You may also join us in-person at MakeHaven in New Haven, Connecticut, US, and meet our deputy director Sean O'Brien. Whether attending our event online or in-person, please register. It will help us plan ahead and enable us to contact you about other important details before the workshop, like what to expect and what to bring... \n\nBulk surveillance violates our fundamental rights and makes free speech dangerous. Email encryption is an excellent tool you can use to shield yourself from bulk surveillance. Encrypting your email is also a concrete step towards protecting your data from others whose intentions may not be honorable.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 25, 2026 16:30",
-    "published_at": "2026-10-25T16:30:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "As eMudhra Exits Cert Business, Users Face New PKI Trust Decisions",
-    "link": "https://it.slashdot.org/story/26/10/25/0653231/as-emudhra-exits-cert-business-users-face-new-pki-trust-decisions?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "\"As of 2026, the company has issued more than 60 million digital certificates,\" notes Wikipedia. But now, InfoWorld reports:\n\nA certificate authority's decision to abandon the global SSL/TLS market is exposing a weakness many organizations rarely examine: their dependence on complex PKI trust chains. Following the compromise of private keys behind eight of its intermediate certificate authorities, eMudhra is exiting the global SSL/TLS certificate business and is offering customers Sectigo-issued replacements... [In a press note the company added] that data sovereignty and compliance requirements had increased the business's complexity and cost... The company said it will contact affected customers to replace certificates free of cost. It also said it will keep revocation and certificate status services running until every issued certificate has expired or been replaced... \n\nYash Kadakia, co-founder and CTO of Security Brigade, said that moving to another root operated by the same company does not necessarily address concerns over trust and governance. \"The last thing organisations need is to migrate twice,\" Kadakia said. \n\n\nBut there's another concern, the article points out. \"Analysts warn that enterprises may discover they have only limited visibility into the certificate hierarchies underpinning critical services.\"\n\n\nReplacing a website's certificate may not address every dependency in an enterprise environment, according to Sakshi Grover, research director at IDC. She said residual exposure lies in systems that maintain their own trust stores and do not update on the same schedule as browsers. These include Java keystores, language runtimes, container images, mutual TLS configurations, proxies, load balancers, VPN and security appliances, and embedded devices. \"The harder finding for many organizations will be that they can't answer these questions at all,\" Grover said, referring to where certificate trust decisions are made outside browsers and operating systems... \nGrover recommended that security teams first identify where trust decisions occur outside browsers and operating systems, prioritising systems that accept connections from external parties and mutual TLS endpoints. Teams should then determine which systems can be updated to distrust a specific intermediate certificate or public key, she said.\n\n\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 25, 2026 15:33",
-    "published_at": "2026-10-25T15:33:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Getty Images Files For US Bankruptcy, Advances Restructuring Plan",
-    "link": "https://slashdot.org/story/26/10/24/2319225/getty-images-files-for-us-bankruptcy-advances-restructuring-plan?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Reuters reports:\n\n\nLast week, Getty announced plans to file for bankruptcy, marking a major reset after its planned merger with rival Shutterstock collapsed under the weight of heavy debt and growing competition from AI-generated imagery. Getty said the affiliates of the Getty family and Koch Equity Development, which committed to provide up to $533 million in new equity, will own 100% of the company after the restructuring It's hard to compete against things like the DALL-E image generator. \n\nLong-time Slashdot reader schwit1 quips that maybe \"It's hard to compete against things like the DALL-E image generator...\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 25, 2026 14:34",
-    "published_at": "2026-10-25T14:34:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Rockchip RK3668 Targets Edge AI with 44 TOPS NPU and PCIe 5.0",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368433",
-    "description": "Rockchip’s upcoming RK3668 is a 6nm octa-core processor featuring six Arm Cortex-A725 cores, two Cortex-A520 cores, and a Mali-G2 Pro MC4 GPU. The SoC integrates a 44 TOPS NPU, LPDDR6 memory support, and high-speed interfaces including PCIe 5.0, SATA 3.1, and 10 Gigabit Ethernet, targeting edge AI, networking, industrial automation, and multimedia systems. According to […]",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368433",
-    "date": "Oct 25, 2026 13:20",
-    "published_at": "2026-10-25T13:20:42Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Old Blood Cells Have Been Transformed Into Brain Stem Cells That Get Younger",
-    "link": "https://science.slashdot.org/story/26/10/25/062240/old-blood-cells-have-been-transformed-into-brain-stem-cells-that-get-younger?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "\"Scientists have transformed old blood cells into young brain stem cells, which continued to grow younger as they grew older,\" reports ScienceAlert:\n\n\n\nCellular transformations can be done in two main ways. The first, more circuitous route turns a specific cell back into a pluripotent stem cell, or an embryonic \"blank slate,\" and then into a different cell type. The second method involves a \"direct conversion,\" which skips the middle stage and directly transforms a cell into a different type.\n\"Using this method, we have directly converted red blood cell precursors into neural stem cells,\" summarizes Oliver Brüstle, the director of the Institute of Reconstructive Neurobiology at the University Hospital of Bonn... \n\n\nThe researchers used a virus to deliver two transcription factors, or proteins that attach to DNA to regulate gene activity, to get the cells to change their types. Then they used two genome-bloodhounding methods — DNA methylation measures and RNA sequencing — to track the resultant anti-aging effects and genetic behavior. By the 12th day after the viral \"infection,\" the cells started showing their new identity, ditching their blood-like proteins and replacing them with the expression of neural-like proteins instead. Initially, the epigenetic age (the DNA changes accumulated over time) of the EPCs was highly correlated with the chronological age of their donors [but] the neuronal stem cells kept getting younger as they got older... Over the following 50 to 100 days, they kept de-aging, eventually reaching about 5 percent of the donor age, with the majority of epigenetic age-related traits resetting by around 50 days of the conversion process... \n\nIn effect, the converted cells became 60 years younger in 50 days, the researchers note in their official statement. \n\nThe researchers, from the University Hospital of Bonn and the University of Bonn, in Germany, described their methods in the journal Aging Cell.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 25, 2026 11:34",
-    "published_at": "2026-10-25T11:34:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "539 MM Patches Merged For Linux 7.4 From Optimizations To More DAMON",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368421",
-    "description": "Andrew Morton sent out the big set of memory management \"MM\" related patches for the Linux 7.4 merge window. This cycle it topped out at 539 total patches and a reviewed rate of 76%...",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368421",
-    "date": "Oct 25, 2026 10:58",
-    "published_at": "2026-10-25T10:58:11Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "AV2 Video Codec Adoption Talked Up, SVT-AV2 Being Developed",
-    "link": "https://www.phoronix.com/news/AV2-Adoption-Plus-SVT-AV2",
-    "description": "Back in May the AV2 v1.0 specification was released for this next-generaton, royalty-free video codec. This week the Alliance For Open Media issued a press release talking up the early adoption of AV2...",
-    "guid": "https://www.phoronix.com/news/AV2-Adoption-Plus-SVT-AV2",
-    "date": "Oct 25, 2026 10:42",
-    "published_at": "2026-10-25T10:42:00Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "AMD 600 Series Chipsets Now Have Temperature Monitoring Support On Linux",
-    "link": "https://www.phoronix.com/news/AMD-600-Series-Linux-Temp",
-    "description": "With the Linux 7.4 kernel and also marked for back-porting to the v7.2 and v7.3 series is finally the ability to monitor temperature sensors on AMD 600 Series chipsets that launched alongside the Ryzen 7000 series processors...",
-    "guid": "https://www.phoronix.com/news/AMD-600-Series-Linux-Temp",
-    "date": "Oct 25, 2026 10:14",
-    "published_at": "2026-10-25T10:14:00Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Bottles Creator Mirko Brombin Wants Microsoft Office on Linux, Not Its Clones",
-    "link": "https://feed.itsfoss.com/link/24361/17506301/mirko-brombin-raven",
-    "description": "Mirko Brombin is working to get Microsoft Office running reliably on Linux. He also thinks the apps cloning Office and Photoshop pixel for pixel cross a line. We talked about both, plus AI agents, Vanilla OS and his new Sinty OS.",
-    "guid": "6addbe8610b6160001f68a24",
-    "date": "Oct 25, 2026 10:02",
-    "published_at": "2026-10-25T10:02:06Z",
-    "image": "https://itsfoss.com/content/images/2026/10/mirko-brombin-interview.webp",
-    "source": "itsfoss.com",
-    "source_url": "https://itsfoss.com/"
   }
 ]
