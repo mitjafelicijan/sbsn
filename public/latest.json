@@ -1,5 +1,151 @@
 [
   {
+    "title": "(Updated) ESP-Mosaico centers dual-core RISC-V ESP32-S31 around a 2.16-inch square AMOLED",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368556",
+    "description": "The Espressif ESP-Mosaico is an expandable smart-interaction development kit based on the ESP32-S31 microcontroller. The compact device integrates a 2.16-inch square touch display, audio hardware, motion and magnetic sensors, NAND storage, haptic feedback and dual expansion interfaces for HMI, edge voice and multimedia applications. The ESP32-S31NRV16 at the center of the board provides two…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368556",
+    "date": "Oct 28, 2026 02:11",
+    "published_at": "2026-10-28T02:11:46Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Wine Merges Support For MESA_map_buffer_client_pointer To Improve WoW64 32-bit OpenGL",
+    "link": "https://www.phoronix.com/news/Wine-Mesa-Map-Buffer-Client-Ptr",
+    "description": "An initiative led by CodeWeavers this year has come to fruition for improving OpenGL support with WoW64 for bettering Windows 32-bit application/game support while using 64-bit system libraries...",
+    "guid": "https://www.phoronix.com/news/Wine-Mesa-Map-Buffer-Client-Ptr",
+    "date": "Oct 28, 2026 00:33",
+    "published_at": "2026-10-28T00:33:36Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Ford's Most Affordable EV Will Offer Built-In Bidirectional Home Charging",
+    "link": "https://hardware.slashdot.org/story/26/10/27/2151204/fords-most-affordable-ev-will-offer-built-in-bidirectional-home-charging?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Ford's upcoming $28,350 Fathom electric truck will include a built-in inverter capable of supplying up to 10 kW of AC power to a home, bringing bidirectional charging to a significantly cheaper EV. Owners will still need additional Ford home hardware for features like outage backup and peak-rate energy management, but the company expects the necessary equipment to cost substantially less than its previous-generation system. CNET reports: The upcoming Fathom will be based on what Ford calls its Universal EV Platform, designed with the aid of its 2023 acquisition, startup Auto Motive Power, with bidirectional power on the plate from the start. The hardware required to invert the battery's DC energy to an estimated 10 kW of AC home power will be built into the truck, so it won't require a separate wall-mounted inverter box. Ford says the Fathom's system will meet all applicable UL 1741 requirements and IEEE 1547 standards to ensure the vehicle is safely connected to the grid. As for the actual hardware you plug into your car, all signs point to the Fathom using the NACS plug type pioneered by Tesla and now widely adopted by new EVs in North America. In terms of the communication standard -- the one that governs how AC power is routed from the slim wall box to the car's onboard charger -- that'll be via SAE J3068, a software protocol developed for high-power, heavy-duty AC charging.\n \n[...] However, while Fathom's Universal EV Platform eliminates the need for a wall inverter box, it doesn't completely bypass the need for additional hardware to make your home ready to accept bidirectional power. Say you wanted to take advantage of the Home Power Management feature to draw energy into the Fathom's battery when power is cheapest, and then use that energy to offset peak-hour usage when power is most expensive. You'll have to install at least the Ford Home Power Station in your home, at an additional cost. The automaker hasn't specified pricing, but says that it's working to reduce costs and expects this component alone to cost half as much as the first-generation Ford Home Energy system, which debuted at around $1,300. That could put the new system at roughly $650.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 27, 2026 23:00",
+    "published_at": "2026-10-27T23:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "LXer now speaks Markdown",
+    "link": "https://lxer.com/module/newswire/view/368552/index.html",
+    "description": "LXer's forums, story submissions and private mail now use Markdown, the plain-text way of formatting made popular by GitHub and others, complete with tables, footnotes and LaTeX math. Here is how it works on LXer, and how sixty years of text formatters, from RUNOFF to BBCode, led to it.",
+    "guid": "https://lxer.com/module/newswire/view/368552/index.html",
+    "date": "Oct 27, 2026 22:08",
+    "published_at": "2026-10-27T22:08:18Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Growing List of Firms Object to OKX-ICE Tokenized Stock Plans",
+    "link": "https://news.slashdot.org/story/26/10/27/2130245/growing-list-of-firms-object-to-okx-ice-tokenized-stock-plans?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Intel, Oracle, IBM and IonQ have joined a growing list of companies objecting to having tokenized versions of their shares traded through OKX and Intercontinental Exchange's blockchain venture, bringing the total number of objections to 26. About 37% of the companies on OKXICE's original list have now opted out, according to CoinDesk. From the report: The four companies were named in an updated public notice (PDF) dated Monday, Oct. 26, from OKXICE, the two firms' joint venture. They join earlier objectors including Microsoft, Alphabet, Goldman Sachs, Cisco and Wells Fargo. The growing list underscores a hurdle for OKXICE and the SEC's new framework for tokenized stock trading: building a market that issuers are willing to join. The agency's five-year \"Innovation Exemption\" gives qualifying venues room to test round-the-clock blockchain-based trading of stocks, and it also gives public companies an option to block their shares from being offered.\n \nOKXICE issued its initial public notice on Oct. 4, outlining plans to use Uniswap v4 liquidity pools on OKX's XLayer blockchain, with transactions settled in stablecoins. The venue would use automated market makers -- software that executes trades through pools of assets rather than matching buyers and sellers through a conventional order book. Under the framework, venues must notify issuers and give them 30 days to object before offering tokenized versions of their shares.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 27, 2026 22:00",
+    "published_at": "2026-10-27T22:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Code-Execution Flaw In UEFI Firmware Threatens Most Servers On Planet Earth",
+    "link": "https://it.slashdot.org/story/26/10/27/2121232/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Ars Technica's Dan Goodin reports: Defenders across the world face the burden of responding to yet another botched code-execution vulnerability, this time in boot-time firmware used by most of the world's server vendors and data centers. The vulnerability, with a severity rating of 9.5 out of 10, resides in the TianoCore EDK II, an open source codebase that hardware makers and cloud providers use to create the UEFI firmware that runs during the boot-up sequence. Last year, a representative of the UEFI Forum called (PDF) EDK2 the \"preeminent solution / implementation of the UEFI specifications.\" Virtually all UEFI suppliers (sometimes still called IBVs or independent BIOS vendors), including AMI, Insyde, and Phoenix, use the reference code extensively. Project Mu, Microsoft's hardened EDK2 fork, used the code containing the vulnerable component as well.\n \nThe vulnerability, tracked as CVE-2026-97631, is a memory-corruption flaw in an ICMP component that attackers can exploit to execute malicious code that runs before the operating system and firmware can implement defenses like Secure Boot, which establishes a chain of trust for all code, including the Trusted Platform Module (TPM), loaded during boot. While final payloads delivered by CVE-2026-97631 have no persistence -- meaning they run only once -- they can give attackers a wide opening to install other payloads that also run each time early in the boot process.\n \nThe parties that discovered CVE-2026-97631 -- Alex Matrosov of Anthropic and Dan Holmes of Google -- had arranged for it to stay under wraps until a coordinated disclosure that was scheduled for January. AMI, a maker of motherboards and other hardware, published this pull request last month that detailed the vulnerability and included a code fix. Once the post came to the attention of the discovering parties, TianoCore Project members published a public advisory last week. With publicly available patch code, it will be trivial for advanced hackers to learn how the vulnerability is triggered and to build working exploits. Further compounding the urgency, patching UEFI code vulnerabilities in millions of end devices sold and used by thousands of hardware makers and cloud providers is cumbersome and time-consuming.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 27, 2026 21:30",
+    "published_at": "2026-10-27T21:30:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Linux 7.4 Introduces DMA-BUF Support To I/O Path With IO_uring",
+    "link": "https://www.phoronix.com/news/DMA-BUF-IO-uring-Linux-7.4",
+    "description": "Merged today for the ongoing Linux 7.4 merge window is the infrastructure for enabling DMA-BUF support in the kernel's I/O path with the wonderful IO_uring framework...",
+    "guid": "https://www.phoronix.com/news/DMA-BUF-IO-uring-Linux-7.4",
+    "date": "Oct 27, 2026 21:09",
+    "published_at": "2026-10-27T21:09:43Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Mozilla Firefox 159 Improves Linux Wayland Support, Adds New Tab Search",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368523",
+    "description": "Firefox 159 fixes Wayland tab detachment and AMD GPU memory issues on Linux while adding tab search shortcuts and new web platform features.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368523",
+    "date": "Oct 27, 2026 20:30",
+    "published_at": "2026-10-27T20:30:21Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Google's Genie 4 World Model Adds Audio, More Realistic Worlds",
+    "link": "https://tech.slashdot.org/story/26/10/27/1841227/googles-genie-4-world-model-adds-audio-more-realistic-worlds?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from TechCrunch: Google DeepMind released its newest world model, Genie 4, in research preview on Tuesday. The latest model generates the most photorealistic and interactive worlds yet, allowing users to type prompts mid-simulation to change the scene. The model also generates real-time audio that matches the simulated world, including music, ambient noises, and interactive dialogue.\n \n[...] Google released its predecessor, Genie 3, as a research preview a little over a year ago. Aside from being far more photorealistic and featuring audio, Genie 4 allows for freeform edits, like changing the weather or camera angle in real time or adding new people or objects. It can maintain a consistent scene for up to two minutes, double its predecessor's limit, and offers better physics and more human-like characters. Gemini, Google's AI model, is also mo \"What we'll increasingly see in the future are these hybrid world models, where you have a combination of Gemini writing code and text, and Genie ingesting that in real time and simulating reality at different levels of abstraction,\" Tejas Kulkarni, research director at Google, said during a briefing.\n \nGenie 4 is now available to select testers, with a broader rollout planned in the coming weeks for Google AI Ultra subscribers.\n \nYou can watch a demo of Genie 4 on YouTube.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 27, 2026 20:00",
+    "published_at": "2026-10-27T20:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Raspberry Pi Zero 3 W \u0026 Raspberry Pi 4 Model A Surface In Linux Kernel Patches",
+    "link": "https://www.phoronix.com/news/Raspberry-Pi-Zero-3-W-Pi-4-A",
+    "description": "It looks like a next-generation Raspberry Pi Zero is about to surface, the long-awaited Raspberry Pi Zero 3 W. And in an interesting twist in these times amid high PC component costs and supply chain constraints, a Raspberry Pi 4 Model A...",
+    "guid": "https://www.phoronix.com/news/Raspberry-Pi-Zero-3-W-Pi-4-A",
+    "date": "Oct 27, 2026 19:53",
+    "published_at": "2026-10-27T19:53:34Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "In a Setback to VMWare, Tesco is Looking to Migrate to Proxmox",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368527",
+    "description": "Tired of the rising licensing cost of VMWare, Tesco seems to be looking to switch to Proxmox.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368527",
+    "date": "Oct 27, 2026 19:17",
+    "published_at": "2026-10-27T19:17:55Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Anduril Partners With Qualcomm to Build Laptops On US Soil",
+    "link": "https://news.slashdot.org/story/26/10/27/1833240/anduril-partners-with-qualcomm-to-build-laptops-on-us-soil?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Longtime Slashdot reader fadethepolice writes: Anduril, arguing that its manufacturing capabilities are directly applicable to laptop manufacturing, is starting a project for a fully 100% U.S.-sourced laptop. The computer will use a Qualcomm Snapdragon SoC. I did not see any information about the OS, but I'm assuming that, given the type of processor, this will be Linux-based? \"Other companies might design their computers in the U.S., Anduril makes them here,â the Anduril founder Palmer Luckey said in a YouTube video. \"We're making parts out of metals that the U.S. knows how to extract, knows how to refine, knows how to process, and knows how to mill at scale at a reasonable price; and that goes for the entire laptop. The same thing goes for the battery technology.\"\n \nThe project, called BlueChip, \"will take a phased approach, beginning with expanding domestic sourcing and manufacturing, progressing toward eliminating reliance on foreign suppliers, and ultimately establishing an end-to-end American supply chain.\" The first device is expected in April 2027.\n \nA press release with additional information is available here.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 27, 2026 19:00",
+    "published_at": "2026-10-27T19:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Robinson: Raspberry Pi 5 on Fedora",
+    "link": "https://lwn.net/Articles/1103212/",
+    "description": "Peter Robinson has written a blog post about\nthe current state of Fedora support for Raspberry Pi 5\ndevices. According to Robinson, the upcoming Fedora 45 release will\nwork—with caveats—on\nall variants of the Raspberry Pi Model 5B; the\nCompute Module 5 and Pi 500+ are still works in progress.\n\n\nFor Fedora 44 release you need to have a temporary workaround when booting. If\nyou update to the latest kernel/firmware straight away this isn't then needed\nbeyond the first boot. The workaround isn't needed for Fedora 45 so if you're\ngoing to try this out I suggest you go and grab your favourite flavour of Fedora\nfrom the Fedora 45 release candidates and jump straight in there! You will get\nan accelerated desktop with storage/network/USB. There's not currently any\nsupport for sound and a number of other things.\n\n\nSee Robinson's post for instructions on creating an Fedora image to use with\na Raspberry Pi 5.\n\n",
+    "guid": "https://lwn.net/Articles/1103212/",
+    "date": "Oct 27, 2026 18:11",
+    "published_at": "2026-10-27T18:11:48Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "Apple's Foldable iPhone Duo Draws Early Complaints of the Screen Cracking",
+    "link": "https://hardware.slashdot.org/story/26/10/27/1630226/apples-foldable-iphone-duo-draws-early-complaints-of-the-screen-cracking?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Apple has acknowledged an inner-display defect affecting a small number of its new $1,999 iPhone Duo foldables after customers reported hearing a crunch while unfolding the device before cracks, lines and other display failures appeared along the crease. Apple is replacing affected phones and investigating the problem.\n \niFixit believes a failing hinge component may be pressing into and cracking the display rather than the panel itself being defective. Bloomberg reports: Reports of the problem first surfaced on Reddit and other social media sites. Bloomberg News has since independently verified the issue with more than half a dozen customers, who provided photos showing damage to their devices or evidence of their support conversations with Apple. Apple acknowledged the issue in a statement, saying it was \"aware of an issue impacting the inner display on a small number of iPhone Duo units.\"\n \n\"If users experience issues with their iPhone Duo display, they should contact AppleCare for a replacement,\" the Cupertino, California-based company said. Most Duos aren't affected by the problem, and the units that are impacted exhibit the defect quickly, Apple said.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 27, 2026 18:00",
+    "published_at": "2026-10-27T18:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
     "title": "Cybersecurity CEO Indicted For Allegedly Scamming Millions From Ransomware Victims",
     "link": "https://it.slashdot.org/story/26/10/27/1550230/cybersecurity-ceo-indicted-for-allegedly-scamming-millions-from-ransomware-victims?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
     "description": "An anonymous reader quotes a report from ProPublica: A Florida man who was the subject of a 2019 investigation by ProPublica was indicted last month on federal charges that he defrauded clients of his ransomware data recovery firm. According to the Justice Department, the man, Zohar Pinhasi, told customers he could recover their encrypted files without having to pay hackers, when, in reality, he paid the ransom and charged victims a hefty fee on top. The indictment mirrors the findings from ProPublica's 2019 article \"The Trade Secret,\" which centered on Pinhasi and his scheme.\n \nThe outlet found that the ransomware victims were being harmed twice: once by the hackers, who locked their targets' files and demanded ransom, and a second time by MonsterCloud, Pinhasi's Florida-based data recovery firm, which misled its clients about not paying ransoms. \"By falsely claiming to decrypt ransomware without paying off the ransomers, the defendant re-victimized his clients while extracting a hefty profit for himself,\" U.S. Attorney Joseph Nocella said in an Oct. 7 press release. \"Our Office will vigorously prosecute ransomware attackers who prey on Americans from across the world and those who cynically profit from their criminal activity.\" [...] Pinhasi, who went by the alias Zack Green, told ProPublica in 2019 that MonsterCloud never promised clients that their data will be recovered by any particular method. \"How we do it, it's our problem,\" he told ProPublica. \"You will get your data back. Sit back, relax and enjoy the ride.\" He called MonsterCloud's data recovery methods a \"trade secret.\"\n \n[...] Federal investigators found that, over the course of the scheme, Pinhasi allegedly charged clients more than $19 million and paid more than $8 million in ransom payments. In one example, Pinhasi made a ransom payment of about $8,200 but charged the client about $150,000. If convicted, he faces up to 20 years in prison. [...] In 2019, Pinhasi touted MonsterCloud's ties to law enforcement as evidence of its integrity. Pistole, who also headed the Transportation Security Administration under President Barack Obama, was listed on MonsterCloud's website as the only member of its \"Cyber Security Advisory Council.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
@@ -85,6 +231,16 @@
     "source_url": "https://slashdot.org/"
   },
   {
+    "title": "KWin-Type Introduced To Address KDE Wayland Usability Gap For Auto-Typing Text",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368507",
+    "description": "Open-source developer Jason Donenfeld known for his work on WireGuard announced today the release of kwin-type. KWin-type is a new Wayland-compatible program for auto-typing text from the standard input under the KWin Wayland compositor…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368507",
+    "date": "Oct 27, 2026 14:37",
+    "published_at": "2026-10-27T14:37:38Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
     "title": "[$] Guidelines for panics in kernel code",
     "link": "https://lwn.net/Articles/1100873/",
     "description": "\nAlexandre Courbot spends most of his time working on the kernel doing code\nreviews. Recently, he's been wondering about what the standards should be for\nwhen Rust code is allowed to panic, and how it should do error handling more\ngenerally. Unlike many of the other talks at Kangrejos 2026, his talk was not\npresenting some existing work, but rather hoping to solicit opinions on the\ntopic from the assembled Rust for Linux developers. He brought along a collection of tricky\ncases that he had run into recently to prompt discussion.\n",
@@ -166,6 +322,16 @@
     "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/225693291id30065gol.webp",
     "source": "gamingonlinux.com",
     "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Intel IPU8 Support Upstreamed In Linux 7.4 For Nova Lake Laptops",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368510",
+    "description": "The media subsystem changes have been merged for the Linux 7.4 kernel. Most notable is Intel IPU8 support being introduced for the next-gen image processing unit in high-end Nova Lake laptops..",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368510",
+    "date": "Oct 27, 2026 12:10",
+    "published_at": "2026-10-27T12:10:23Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
   },
   {
     "title": "AMD EPYC Zen 6 PML Support, ARM64 On s390 Merged For Linux 7.4 KVM",
@@ -261,17 +427,6 @@
     "source_url": "https://www.phoronix.com/"
   },
   {
-    "title": "In a Setback to VMWare, Tesco is Looking to Migrate to Proxmox",
-    "link": "https://feed.itsfoss.com/link/24361/17507469/tesco-vmware-exit",
-    "description": "Tired of the rising licensing cost of VMWare, Tesco seems to be looking to switch to Proxmox.",
-    "guid": "6ae0328b8bfa1e0001939983",
-    "date": "Oct 27, 2026 09:48",
-    "published_at": "2026-10-27T09:48:41Z",
-    "image": "https://itsfoss.com/content/images/2026/10/tesco-vmware-exit-banner.png",
-    "source": "itsfoss.com",
-    "source_url": "https://itsfoss.com/"
-  },
-  {
     "title": "Command a being formed from thousands of leaves in Leafborn",
     "link": "https://www.gamingonlinux.com/2026/10/command-a-being-formed-from-thousands-of-leaves-in-leafborn/",
     "description": "Top marks for some protagonist originality here in Leafborn, with your character made up of a thousands leaves.Read the full article on GamingOnLinux.",
@@ -345,6 +500,16 @@
     "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1943145130id30058gol.webp",
     "source": "gamingonlinux.com",
     "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "KMSCON 10.1 Released With Support For Per-Monitor Configurations",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368511",
+    "description": "KMSCON as the user-space terminal emulator targeting Linux DRM/KMS interfaces as an alternative to the in-kernel VT now is able to individually configure monitors in multi-monitor setups. Plus a variety of other improvements with today's KMSCON 10.1 release…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368511",
+    "date": "Oct 27, 2026 08:30",
+    "published_at": "2026-10-27T08:30:40Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
   },
   {
     "title": "Survey Says! AI Images and Video Lead Creative Searches",
@@ -430,26 +595,6 @@
     "source_url": "https://lxer.com/"
   },
   {
-    "title": "A New Framework for Open Source AI",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368481",
-    "description": "Open or closed AI isn’t a fringe question anymore; it’s a live policy debate, with real consequences for who gets to build, audit, and compete in the AI ecosystem. But as that debate plays out in Washington, Brussels, and beyond, the harder questions are still very much up for discussion. What does meaningful openness actually […]",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368481",
-    "date": "Oct 27, 2026 02:00",
-    "published_at": "2026-10-27T02:00:29Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "openSUSE Board Election 2026 Begins",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368503",
-    "description": "The openSUSE Election Committee has announced the start of the 2026 openSUSE Board Election. Three Board seats are up for election, and all eligible openSUSE members are encouraged to take part. The openSUSE Board asked for the election to be completed by Dec. 1, 2026, as outlined in Board ticket…",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368503",
-    "date": "Oct 27, 2026 01:05",
-    "published_at": "2026-10-27T01:05:15Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
     "title": "Initial Support For The Apple M4 \u0026 Apple A18 Pro Make It Into Linux 7.4",
     "link": "https://www.phoronix.com/news/Linux-7.4-SoCs",
     "description": "The many SoC patches have landed within the Linux 7.4 kernel providing support for dozens of new boards as well as a number of new SoCs like the Apple M4 and the A18 Pro as found in the MacBook Neo. The Google Tensor 5 was also finally mainlined along with Pixel 10 devices. Plus some unreleased Qualcomm SoC support rounds out the bunch...",
@@ -468,26 +613,6 @@
     "published_at": "2026-10-27T00:36:40Z",
     "source": "phoronix.com",
     "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Best XFCE Linux Distros in 2026: 8 Fast and Lightweight Picks Ranked",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368515",
-    "description": "Slow, bloated desktop? Compare the best XFCE Linux distros in 2026, with pros, cons, and a quick table to find the fast, light system that fits you.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368515",
-    "date": "Oct 27, 2026 00:07",
-    "published_at": "2026-10-27T00:07:40Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "PHP2Shell scare sees SuperTuxKart pull its online server",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368490",
-    "description": "SuperTuxKart has taken several online services offline, having pulled the server that powers them rather than risk it being exploited by PHP2shell. The open-source karting game is not alone in ‘pitting’ to patch, with Wikimedia, DeviantArt, government websites and many more taking various systems offline to harden against it. While offline, gamers can’t reset their online account passwords, check…",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368490",
-    "date": "Oct 26, 2026 23:00",
-    "published_at": "2026-10-26T23:00:31Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
   },
   {
     "title": "PHP2Shell Security Flaws Now Successfully Exploited",
@@ -531,320 +656,5 @@
     "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
     "source": "slashdot.org",
     "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Instagram Chases YouTube With a Push For Longer, Widescreen Videos",
-    "link": "https://entertainment.slashdot.org/story/26/10/26/1846258/instagram-chases-youtube-with-a-push-for-longer-widescreen-videos?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Instagram is testing a new longform, horizontal video format called \"Features\" as it pushes further into YouTube territory and expands its presence on TVs. The Verge reports: Instagram boss Adam Mosseri has been against doing longform video on the platform \"for a long time,\" he says in a six-and-a-half-minute video (here's the widescreen version) with VP of product Tessa Lyons, saying that \"one of my concerns has been, how do we make sure that we keep Instagram not just about entertainment, but about connecting with friends.\" If you watch a longform video, \"it's a lot of Reels, photos, and carousels that you might not have sent to a friend,\" meaning less likes and shares. Now, though, the team is working on making shortform and longform video \"symbiotic,\" according to Mosseri, like podcasts or comedy specials that can be both long videos and broken up into shorter ones.\n \nThe announcement of this widescreen video push also follows the launch of Instagram's TV app late last year. That app launched first as a Reels-focused experience and as a pilot for Amazon Fire TV devices in the US, but it's since expanded to Google TVs, Samsung TVs and Apple TV, and Instagram launched new features like the ability to watch Stories earlier this year.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 26, 2026 20:00",
-    "published_at": "2026-10-26T20:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "KMSCON 10.1 Released With Support For Per-Monitor Configurations",
-    "link": "https://www.phoronix.com/news/KMSCON-10.1-Released",
-    "description": "KMSCON as the user-space terminal emulator targeting Linux DRM/KMS interfaces as an alternative to the in-kernel VT now is able to individually configure monitors in multi-monitor setups. Plus a variety of other improvements with today's KMSCON 10.1 release...",
-    "guid": "https://www.phoronix.com/news/KMSCON-10.1-Released",
-    "date": "Oct 26, 2026 19:17",
-    "published_at": "2026-10-26T19:17:21Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Walter Koenig, Chekov On Original 'Star Trek,' Dies At 90",
-    "link": "https://entertainment.slashdot.org/story/26/10/26/1828230/walter-koenig-chekov-on-original-star-trek-dies-at-90?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Longtime Slashdot reader schwit1 shares a report from CBS News: Walter Koenig, the actor who played Pavel Chekov in the original \"Star Trek\" series and several movies, has died, his rep confirmed to CBS News. He was 90. Koenig died Sunday night at his home in the North Hollywood neighborhood of Los Angeles, talent rep Zachery McGinnis said in a statement. He died surrounded by his daughter and niece, McGinnis said.\n \nIn 'Star Trek,' Ensign Chekov was the sole member of the spaceship Enterprise bridge staff from what was the Communist bloc. His friendly, supportive presence showed how the rival nations (in the far-off future in which the show was set) were capable of working together. Speaking heavily Russian-accented English, Chekov embodied stereotypical Russian personality traits, including fierce pride, love of poetry and blind loyalty. \"Through countless convention appearances and interactions with fans, he shared his kindness, wit, and appreciation with everyone fortunate enough to meet him. He understood what Star Trek meant to people and embraced the community that grew around it,\" McGinnis said. \"Thank you, Walter, for the memories, the inspiration, and for boldly going where few have gone before.\"\n \nWatch some of the Chekov's best moments on YouTube.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 26, 2026 19:00",
-    "published_at": "2026-10-26T19:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Highway Thieves Are Spoofing GPS To Steal Millions In Data Center-Bound Cargo",
-    "link": "https://yro.slashdot.org/story/26/10/26/1759233/highway-thieves-are-spoofing-gps-to-steal-millions-in-data-center-bound-cargo?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Highway thieves have stolen more than $100 million in data center equipment since June, employing increasingly sophisticated tactics such as forging driver IDs and spoofing GPS tracking systems. NBC News (paywalled) reports that thieves have \"made away with more than $100 million in data center freight.\" Ars Technica reports: Here's how they said thieves get away with it: First, thieves hack freight brokers' accounts on shipment-listing websites and post fake shipments to lure real bids, then send a malicious link to any trucking companies that respond. Once victims click, thieves install software to take control of their accounts and start bidding on real shipments. Sometimes, a real delivery driver is hired to collect the cargo, unaware of the scam, and other times fake driver's licenses are used to get accomplices hired. Either way, the goods are eventually transferred to a driver working with the thieves to resell the gear, and, in one of the largest thefts, tracking coordinates were spoofed to prevent digital monitoring. Equipment commonly targeted includes \"servers, fiber-optic cables, computer memory chips, copper wires, and bitcoin mining machines,\" NBC News reported.\n \nSome trailers hit seem to be carrying only data center equipment, like two stolen freights found in Illinois. The Cook County Sheriff's Office estimated those contained $300,000 worth of copper wire spools and about $1 million in \"custom-made data center modular power solutions equipment,\" NBC News reported. Other trucks impacted were carrying additional freight, like a Los Angeles County Sheriff's Department case where \"data center cooling equipment\" bound for Deepcool AI was recovered among nicotine pouches, televisions, shoes, printers, speakers, and skin care cosmetics. Experts worry that means Americans may be broadly harmed by the thefts, not just the AI industry.\n \nWhile some stolen goods have been recovered, in two of the largest thefts that NBC News found, none of the equipment was found, and off-duty cops hired to escort the shipments were targeted in hit-and-runs. [...] Broadly, cargo thieves are infiltrating email accounts to find lucrative shipments, misdirecting shipments, disrupting GPS tracking, and using AI to create fake driver's licenses to get accomplices hired as delivery drivers. LASD's Sgt. David Pantoja told NBC News \"that's how most of it is being done,\" which is a big shift from the past when highway thefts were largely opportunistic.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 26, 2026 18:00",
-    "published_at": "2026-10-26T18:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Intel IPU8 Support Upstreamed In Linux 7.4 For Nova Lake Laptops",
-    "link": "https://www.phoronix.com/news/Linux-7.4-Media",
-    "description": "The media subsystem changes have been merged for the Linux 7.4 kernel. Most notable is Intel IPU8 support being introduced for the next-gen image processing unit in high-end Nova Lake laptops..",
-    "guid": "https://www.phoronix.com/news/Linux-7.4-Media",
-    "date": "Oct 26, 2026 17:48",
-    "published_at": "2026-10-26T17:48:22Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "KWin-Type Introduced To Address KDE Wayland Usability Gap For Auto-Typing Text",
-    "link": "https://www.phoronix.com/news/KDE-KWin-Type",
-    "description": "Open-source developer Jason Donenfeld known for his work on WireGuard announced today the release of kwin-type. KWin-type is a new Wayland-compatible program for auto-typing text from the standard input under the KWin Wayland compositor...",
-    "guid": "https://www.phoronix.com/news/KDE-KWin-Type",
-    "date": "Oct 26, 2026 17:11",
-    "published_at": "2026-10-26T17:11:02Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Apple Updates the iPad Mini With a Larger OLED Display",
-    "link": "https://apple.slashdot.org/story/26/10/26/1549226/apple-updates-the-ipad-mini-with-a-larger-oled-display?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Apple has unveiled a redesigned iPad Mini with a larger 8.5-inch OLED display, an A20 Pro chip, twice the peak brightness and slimmer bezels while maintaining roughly the same footprint. It starts at $699 ($200 more than its predecessor) and will be available November 6. The Verge reports: Despite having a slightly bigger display than the 8.3-inch screen on its predecessor, Apple says the device maintains the same small footprint thanks to bezels that are 24 percent slimmer. The iPad Mini is 5.4mm thick as well, making it thinner and lighter than the previous generation, according to Apple. It also comes with an IP67 rating for protection against water and dust.\n \nAside from an OLED display, the new iPad Mini features an upgraded A20 Pro chip. This enables support for some of Apple's new Siri AI features, including the ability to tweak the expressiveness and pace of the assistant's voice. Apple says the upgraded iPad Mini also comes with two times the peak brightness than the previous generation. iPad Mini's 12MP front-facing camera is now on the long edge of the device, making it easier for video calls in landscape orientation.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 26, 2026 17:00",
-    "published_at": "2026-10-26T17:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Microlandia, a deeply simulated city-builder gets a big game engine upgrade",
-    "link": "https://www.gamingonlinux.com/2026/10/microlandia-a-deeply-simulated-city-builder-gets-a-big-game-engine-upgrade/",
-    "description": "Every single citizen counts in Microlandia, a deeply simulated cozy-looking city-builder. And now, it should work better than ever.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/10/microlandia-a-deeply-simulated-city-builder-gets-a-big-game-engine-upgrade/",
-    "date": "Oct 26, 2026 16:37",
-    "published_at": "2026-10-26T16:37:00Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1636417677id30057gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Microsoft Offers Mass Buyouts For Roughly a Quarter of Its Workforce",
-    "link": "https://slashdot.org/story/26/10/26/1544243/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "An anonymous reader quotes a report from The Seattle Times: Microsoft is offering buyouts to about 60,000 employees, or roughly a quarter of its workforce, as the company tries to control its head count while avoiding layoffs. The Redmond-based tech giant announced Monday morning that eligible employees at the vice president level and below in the U.S., Canada, India and the United Kingdom would receive a \"voluntary exit offer\" of a standard severance package, based on their location.\n \nIn a memo to employees, Microsoft Chief People Officer Amy Coleman said the move was building off the voluntary retirement program earlier this year, which was available to more than 8,700 U.S.-based employees, roughly one-third of whom took the offer. Since May 2025, Microsoft has been trying to reduce its corporate workforce, first through waves of mass layoffs and now through more creative buyout programs. The company laid off about 15,000 employees last year over the course of several months, affecting about 3,200 Washington-based workers. The report notes that the layoffs have continued this year, though on a smaller scale and largely concentrated in the company's gaming division.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 26, 2026 16:00",
-    "published_at": "2026-10-26T16:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "S.T.A.L.K.E.R. 2: Heart of Chornobyl 2.1 adds A-Life NPC visualisation distance options",
-    "link": "https://www.gamingonlinux.com/2026/10/s-t-a-l-k-e-r-2-heart-of-chornobyl-2-1-adds-a-life-npc-visualisation-distance-options/",
-    "description": "S.T.A.L.K.E.R. 2: Heart of Chornobyl from GSC Game World has another free update out now, and it sounds fun if you have a powerful PC.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/10/s-t-a-l-k-e-r-2-heart-of-chornobyl-2-1-adds-a-life-npc-visualisation-distance-options/",
-    "date": "Oct 26, 2026 15:58",
-    "published_at": "2026-10-26T15:58:55Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/700115162id30056gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Guide: Steam Frame tips and tricks",
-    "link": "https://www.gamingonlinux.com/guides/view/steam-frame-tips-and-tricks",
-    "description": "Now that I've had a good bit of time with the Steam Frame, and gone through some common issues and questions - here's some Steam Frame tips and tricks.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/guides/view/steam-frame-tips-and-tricks",
-    "date": "Oct 26, 2026 15:46",
-    "published_at": "2026-10-26T15:46:17Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1093317281id30042gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "[$] Python's experimental JIT to be removed",
-    "link": "https://lwn.net/Articles/1102102/",
-    "description": "Python's experimental\njust-in-time (JIT) compiler, which was added to CPython in 2024 for the 3.13 release,\nis on its way out. In June, the Python steering council announced\nthat it was pausing work on the JIT in CPython's main branch until there was an\naccepted Python Enhancement\nProposal (PEP) that addressed concerns about maintenance, compatibility, and\nset clear success metrics as well as a timeline for completion. After creating\nPEP 836 (\"JIT Go Brrr: The\nPath to a Supported JIT Compiler for CPython\")\nto try to meet the council's request, and after months of discussion, the\nJIT maintainers have withdrawn the PEP. For now, it appears that development on\nthe once-promising project has come to an end.",
-    "guid": "https://lwn.net/Articles/1102102/",
-    "date": "Oct 26, 2026 15:45",
-    "published_at": "2026-10-26T15:45:58Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "Two stable kernels for Monday",
-    "link": "https://lwn.net/Articles/1102973/",
-    "description": "Greg Kroah-Hartman has announced the release of the 7.2.13 and 6.18.59 stable kernels. Each contains a number of\nfixes throughout the tree. Users are advised to upgrade.\n\n",
-    "guid": "https://lwn.net/Articles/1102973/",
-    "date": "Oct 26, 2026 15:45",
-    "published_at": "2026-10-26T15:45:34Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "Systemd adds support for components written in Rust",
-    "link": "https://lwn.net/Articles/1102970/",
-    "description": "Christian Brauner has announced that he\nhas merged support\nfor writing leaf components of systemd in Rust. Rust will be used only for new\nleaf components, existing code is not being ported to Rust and nothing that\nother components depend on is written in Rust.\n\nBrauner said that the\nproject would like to move forward with Rust support in core systemd, \"but\nthere are several blockers in Rust's support for dynamic libraries which\nprevents us from doing that without massively bloating every binary we\nbuild\". Assuming all goes well, it seems likely this work will appear in the\nsystemd v263 release expected in December.\n\n",
-    "guid": "https://lwn.net/Articles/1102970/",
-    "date": "Oct 26, 2026 15:13",
-    "published_at": "2026-10-26T15:13:59Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "Anthropic Files For IPO",
-    "link": "https://slashdot.org/story/26/10/26/156218/anthropic-files-for-ipo?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Anthropic has filed to go public on the Nasdaq under the ticker ANT, setting the stage for a potentially record-setting IPO that could value the Claude developer at more than $2 trillion. Alongside the extraordinary cost of its AI expansion, Anthropic warned that it \"may not generate sufficient revenue to achieve or sustain profitability in the future.\"\n \n\"While we have experienced significant revenue growth in recent periods, our business is highly capital intensive,\" the company said. \"Our revenue growth may not be sustainable, and our rate of growth may decrease.\" NBC News reports: The filing did not include a potential share price, the number of shares to be offered or a valuation for the whole company, all of which will be determined after Anthropic holds a \"road show\" with investors, prospective investors and its bankers. [...] The company plans to spend at least $110 billion with Amazon for cloud services through April 2036 and another $120 billion with SpaceX through 2029. Anthropic also said it planned to spend $115 billion with Google and $45 billion with Microsoft, both through 2033, for computing infrastructure.\n \nThe filing said that the company recorded revenue growth of \"1,368% year over year for the three months ended June 30, 2026.\" The cost of renting servers and chips grew by 300% over the same period. Anthropic's net loss for the first six months of 2026 was $80.7 billion. For the entirety of 2025, the company reported a $42 billion net loss.\n \nAnthropic added that it expects its current cash and sales to be sufficient for the next 12 months but warned that future revenue growth depends on a number of important factors, including the cost of infrastructure. As a result, it said, \"we may be required to seek additional financing sooner than we currently anticipate.\" The company said it has raised about $141 billion of capital through the end of June and is sitting on $112.4 billion of cash.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 26, 2026 15:07",
-    "published_at": "2026-10-26T15:07:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Mesa 27.0 Switching To Kraid Compiler By Default For Arm Mali GPUs",
-    "link": "https://www.phoronix.com/news/Mesa-27.0-Goes-Kraid",
-    "description": "In development for a number of months now has been Kraid as a modern graphics compiler for recent Arm Mali GPUs. Kraid was merged for Mesa 26.2 back in June while in Mesa 27.0 due out in Q1 it will be switching to this new shader compiler by default...",
-    "guid": "https://www.phoronix.com/news/Mesa-27.0-Goes-Kraid",
-    "date": "Oct 26, 2026 14:28",
-    "published_at": "2026-10-26T14:28:59Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Snapdragon X1 Elite / Acer Swift 14 AI Performance On The Ubuntu 26.10 X1E Concept",
-    "link": "https://www.phoronix.com/review/ubuntu-2610-snapdragon-x1e",
-    "description": "For those curious about the Snapdragon X1 Elite performance on the recently released Ubuntu 26.10 Concept X1E ISO, here are some benchmarks showing the performance relative to Ubuntu 26.04 LTS X1E state on the same hardware.",
-    "guid": "https://www.phoronix.com/review/ubuntu-2610-snapdragon-x1e",
-    "date": "Oct 26, 2026 13:55",
-    "published_at": "2026-10-26T13:55:24Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Security updates for Monday",
-    "link": "https://lwn.net/Articles/1102946/",
-    "description": "Security updates have been issued by AlmaLinux (ca-certificates, cockpit-machines, container-tools:4.0, expat, flute, libbase, libfonts, libformula, liblayout, libloader, libreoffice, librepository, libserializer, pentaho-libxml, pentaho-reporting-flow-engine, and sac, golang-github-openprinting-ipp-usb, grafana-pcp, hplip, kernel, nodejs:14, nodejs:18, openssl, php:7.2, php:7.3, php:8.0, php:8.1, podman, postgresql16-pgvector, postgresql18-pgvector, and python39:3.9 and python39-devel:3.9), Debian (brotli, caddy, imagemagick, libdatetime-timezone-perl, libheif, openjdk-17, openssl, thunderbird, tzdata, varnish, and xdg-dbus-proxy), Fedora (btrfs-backup-ng, chromium, dotnet10.0, dotnet8.0, dotnet9.0, firefox, gegl04, GitPython, ImageMagick, jfrog-cli, libindi, mingw-libpng, mingw-LibRaw, mingw-python-lxml, mupdf, nix, openssh, perl-Badger, perl-CLI-Simple, perl-Cpanel-JSON-XS, perl-CSS-Inliner, perl-Encoding-FixLatin, perl-HTML-Query, perl-Markdown-Render, perl-Text-CSV_XS, perl-Text-Markdown-Discount, pgbouncer, php-pecl-mongodb2, podofo, rt, and thunderbird), Mageia (bind, bluez, iperf, kernel-linus, and nss, rootcerts), Oracle (ca-certificates, cockpit-machines, expat, go-toolset:ol8, golang-github-openprinting-ipp-usb, grafana, grafana-pcp, httpd, iperf3, openssh, and podman), Red Hat (freeipmi), and SUSE (alloy, amazon-ecs-init, aspell, aws-iam-authenticator, ca-certificates-mozilla, cifs-utils, container-suseconnect, cosign, cpupower, docker, elemental3, emacs, expat, fetchmail, ffmpeg-7, firefox-esr, ghostscript, gimp, glibc, go1.26, go1.27, google-osconfig-agent, guava, haproxy, helm, iscsiuio, jfrog-cli, kernel, kernel-devel, krb5, kubernetes, libmodplug, libsbc1, libvpx-devel, libxls-devel, mozilla-nss, mozillafirefox, openssh8.4, openssl-3, php8, python, python-base, python-doc, python-weasyprint, python311, python312, python313, python313-CairoSVG, python313-Django, python313-multidict, python313-sglang, python313-urllib3_1, python313-vllm, python314, python315, rabbitmq-server, rclone, rpcbind, squid, trivy, wpa_supplicant, xorg-x11-server, and xwayland).",
-    "guid": "https://lwn.net/Articles/1102946/",
-    "date": "Oct 26, 2026 13:12",
-    "published_at": "2026-10-26T13:12:04Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "Linux 7.4 EFI Brings Improvement For Helping Systemd When Kernel Booted Directly",
-    "link": "https://www.phoronix.com/news/Linux-7.4-EFI",
-    "description": "The EFI updates have been merged for the Linux 7.4 kernel and include an improvement for when the system was booted directly into the kernel on EFI-based systems without using a bootloader like GRUB or systemd-boot...",
-    "guid": "https://www.phoronix.com/news/Linux-7.4-EFI",
-    "date": "Oct 26, 2026 12:54",
-    "published_at": "2026-10-26T12:54:13Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Nouveau-DKMS Aims For Better NVIDIA Open-Source Experience On Old GPUs",
-    "link": "https://www.phoronix.com/news/Nouveau-DKMS",
-    "description": "Nouveau-DKMS is in development as an out-of-tree spin-off of the open-source NVIDIA \"Nouveau\" driver focused on providing better support for NVIDIA GeForce 400/500 \"Fermi\" series graphics processors and potentially other generations too pre-Turing where the modern Nova driver is in development by NVIDIA...",
-    "guid": "https://www.phoronix.com/news/Nouveau-DKMS",
-    "date": "Oct 26, 2026 12:24",
-    "published_at": "2026-10-26T12:24:01Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Linux 7.4 Begins Employing New \"Core MM\" Tree",
-    "link": "https://www.phoronix.com/news/Linux-Core-MM-Tree",
-    "description": "Core memory management patches to the Linux kernel have typically been routed to mainline via Andrew Morton's \"MM\" branch, which is where also a variety of broader memory management related patches are also queued like all the ongoing work to DAMON/DAMOS. Kernel maintainers have now agreed to a new \"Core MM\" tree as the home for all of the core memory management changes moving forward...",
-    "guid": "https://www.phoronix.com/news/Linux-Core-MM-Tree",
-    "date": "Oct 26, 2026 11:42",
-    "published_at": "2026-10-26T11:42:27Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Here's 17 upcoming VR games worth keeping eyes on",
-    "link": "https://www.gamingonlinux.com/2026/10/heres-17-upcoming-vr-games-worth-keeping-eyes-on/",
-    "description": "Got your Steam Frame or any other VR kit and want to follow some interesting upcoming games? Here's some potentials for you that could be good.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/10/heres-17-upcoming-vr-games-worth-keeping-eyes-on/",
-    "date": "Oct 26, 2026 11:25",
-    "published_at": "2026-10-26T11:25:02Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/687655107id30055gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": " Nvidia RTX 20, 30, and 40-series GPUs hacked to remove a half-speed AI throttle ",
-    "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-20-30-and-40-series-gpus-hacked-to-remove-a-half-speed-ai-throttle-firmware-exploit-doubles-rtx-4090s-peak-tensor-rate-lifts-rtx-3090-ti-matrix-math-up-to-80-percent",
-    "description": " Linux kernel modules lift Nvidia’s half-rate AI tensor limit on GeForce RTX 20, 30, and 40-series GPUs. ",
-    "guid": "csh94iSbTqDpE6G6H7Qg2V",
-    "date": "Oct 26, 2026 11:00",
-    "published_at": "2026-10-26T11:00:00Z",
-    "image": "https://cdn.mos.cms.futurecdn.net/4Yvp7ck4v6d8JPBoNXVPfe-1920-80.jpg",
-    "source": "tomshardware.com",
-    "source_url": "https://www.tomshardware.com/software/operating-systems/linux"
-  },
-  {
-    "title": "Pick up many quality puzzle and physics games with two new Humble Bundles",
-    "link": "https://www.gamingonlinux.com/2026/10/pick-up-many-quality-puzzle-and-physics-games-with-two-new-humble-bundles/",
-    "description": "Start your week with two more fresh sets of games with the Phunkier Physics and Puzzlers to Puzzle You bundles.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/10/pick-up-many-quality-puzzle-and-physics-games-with-two-new-humble-bundles/",
-    "date": "Oct 26, 2026 10:38",
-    "published_at": "2026-10-26T10:38:16Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/381258006id30054gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Linux Fixes AMD Ryzen AI 9 HX 370 Regression Due To Cache Aware Scheduling",
-    "link": "https://www.phoronix.com/news/Linux-CAS-Regression-AMD-HX-370",
-    "description": "Merged for Linux 7.4 Git and marked for back-porting to Linux 7.2/7.3 stable is a regression fix affecting at least the AMD Ryzen AI 9 HX 370 \"Strix Point\" laptop SoC when making use of Cache Aware Scheduling...",
-    "guid": "https://www.phoronix.com/news/Linux-CAS-Regression-AMD-HX-370",
-    "date": "Oct 26, 2026 10:22",
-    "published_at": "2026-10-26T10:22:28Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "PlayStation 5 Linux project upgraded to support PS5 Pro and newer firmware",
-    "link": "https://www.gamingonlinux.com/2026/10/playstation-5-linux-project-upgraded-to-support-ps5-pro-and-newer-firmware/",
-    "description": "The impressive PlayStation 5 Linux project is continuing on, and recent updates to it have again expanded what it can support.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/10/playstation-5-linux-project-upgraded-to-support-ps5-pro-and-newer-firmware/",
-    "date": "Oct 26, 2026 10:10",
-    "published_at": "2026-10-26T10:10:54Z",
-    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/playstation-linux_gol2_000ec0a6.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Moxnox: NT-Like, POSIX-Compatible Hobby OS Running Atop Btrfs",
-    "link": "https://www.phoronix.com/news/Moxnox-OS",
-    "description": "Open-source developer Mark Harmstone who is known for his work on developing a Btrfs file-system driver for Windows has spent the past few years working on a new hobby operating system. Moxnox is an NT-like, POSIX-compatible operating system...",
-    "guid": "https://www.phoronix.com/news/Moxnox-OS",
-    "date": "Oct 26, 2026 10:04",
-    "published_at": "2026-10-26T10:04:34Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "EXT4 Lands Optional Buffered IOmap For Significant Performance Win With Large Writes",
-    "link": "https://www.phoronix.com/news/Linux-7.4-EXT4",
-    "description": "The EXT4 file-system changes were merged Sunday night for the ongoing Linux 7.4 merge window. The headline feature of EXT4 in this new kernel version is opt-in support for buffered IOmap usage that can lead to \"significant\" performance improvements for large writes...",
-    "guid": "https://www.phoronix.com/news/Linux-7.4-EXT4",
-    "date": "Oct 26, 2026 09:53",
-    "published_at": "2026-10-26T09:53:55Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Steam's useful Personal Calendar gets a full release",
-    "link": "https://www.gamingonlinux.com/2026/10/steams-useful-personal-calendar-gets-a-full-release/",
-    "description": "I forgot it was ever a Beta, because Steam's Personal Calendar is actually one of the most useful features they've added to the store recently.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/10/steams-useful-personal-calendar-gets-a-full-release/",
-    "date": "Oct 26, 2026 09:50",
-    "published_at": "2026-10-26T09:50:09Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1084908422id30052gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Epic's Tim Sweeney believes AI notices on Steam are a \"political statement\" for the \"hate mob\"",
-    "link": "https://www.gamingonlinux.com/2026/10/epics-tim-sweeney-believes-ai-notices-on-steam-are-political-statement-for-the-hate-mob/",
-    "description": "Valve requires developers to disclose AI-generated content in games and on Steam store pages, something Epic Games CEO Tim Sweeney isn't happy about.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/10/epics-tim-sweeney-believes-ai-notices-on-steam-are-political-statement-for-the-hate-mob/",
-    "date": "Oct 26, 2026 09:33",
-    "published_at": "2026-10-26T09:33:26Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/193530930id30051gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
   }
 ]
