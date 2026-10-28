@@ -1,5 +1,442 @@
 [
   {
+    "title": "System76 Introducing AMD-Powered Linux Small PC",
+    "link": "https://www.phoronix.com/news/System76-Thelio-Prime-Mini-PC",
+    "description": "System76 began teasing today the new Thelio Prime Desktop as an AMD-powered Linux mini PC that will begin shipping in November...",
+    "guid": "https://www.phoronix.com/news/System76-Thelio-Prime-Mini-PC",
+    "date": "Oct 28, 2026 17:32",
+    "published_at": "2026-10-28T17:32:46Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "EMACS Turns 50",
+    "link": "https://news.slashdot.org/story/26/10/28/1541214/emacs-turns-50?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "\"EMACS, the mother of all editors, turns 50!\" writes Slashdot reader dr_jerry, sharing a report from MIT Technology Review: Programming used to be a very different experience from the one we know today. In fact, the first programmers didn't write code at all; the six women who worked on the ENIAC, one of the world's first computers, at the University of Pennsylvania in 1946 did it by physically configuring switches, cables, and plugboards.\n \nA few years later, MIT engineers programmed the Whirlwind by punching code onto paper tape that was then loaded into the computer's memory -- making it among the first \"stored-program\" machines. Later, they and others moved on to punch cards, one for each line of code.\n \nBy the early 1960s, programmers with interactive computers could use a \"line editor\" to type their code on teletypes -- large, noisy keyboard-and-printer machines. They'd type one line of code at a time, and their work would be saved on a spinning hard disk the size of a modern washing machine. But there was still no such thing as the now-familiar full-screen text editors that allow programmers to see and modify many lines at a time on a display.\n \nOne of the first such tools, EMACS, turns 50 this year, and it is still widely used. EMACS first ran on the early video terminals at the MIT Artificial Intelligence Laboratory in 1976, but its core concepts were so powerful that it was rewritten for many operating systems in the decades that followed. Apple even distributed it with Mac OS X. Beyond that, the software-sharing community that started around EMACS helped give rise to the modern-day free software movement and the GNU/Linux operating system.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 28, 2026 17:00",
+    "published_at": "2026-10-28T17:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Jadens JD-166 Review: Portable, Inkless Thermal Printer on Linux",
+    "link": "https://feed.itsfoss.com/link/24361/17510159/jadens-jd-166-review",
+    "description": "A small, portable printer that prints A4 papers without ink on Debian-based Linux distros.",
+    "guid": "6adcc0cf10b6160001f68550",
+    "date": "Oct 28, 2026 16:47",
+    "published_at": "2026-10-28T16:47:00Z",
+    "image": "https://itsfoss.com/content/images/2026/10/jadens-jd-166-linux-review.webp",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "CentOS Founder Builds Linux-Compatible Rust Kernel with AI in Just 11 Days",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368568",
+    "description": "CentOS and Rocky Linux founder Gregory Kurtzer unveils Ginux, an independent Rust-based kernel developed with AI in just 11 days.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368568",
+    "date": "Oct 28, 2026 16:32",
+    "published_at": "2026-10-28T16:32:10Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "FCC Approves Amazon Leo's $11.5 Billion Acquisition of Globalstar",
+    "link": "https://science.slashdot.org/story/26/10/28/1532238/fcc-approves-amazon-leos-115-billion-acquisition-of-globalstar?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "The FCC has approved (PDF) Amazon Leo's $11.5 billion acquisition of satellite operator Globalstar, giving the Starlink rival additional infrastructure and spectrum to expand into direct-to-device satellite connectivity. Engadget reports: You may not know Globalstar but have possibly used its services, as the company provides Apple's emergency satellite connectivity for compatible iPhones and Watches. Interestingly, Apple also held a 20 percent stake in Globalstar prior to its takeover. As part of the deal, Leo will power satellite services for supported iPhone and Apple Watch models.\n \nLeo, a rival to SpaceX's Starlink, has been active of late. The company recently announced that it has 400 satellites in orbit and revealed last month that it had launched high-quality satellite internet service in Uzbekistan. It's teaming up with Delta to eventually bring satellite internet to flights, as well. Amazon recently added six new Arianespace launches and aims to have more than 3,000 low-earth orbit satellites up in the near future, still well short of SpaceX's 11,000 satellites.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 28, 2026 16:00",
+    "published_at": "2026-10-28T16:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "AMD FSR SDK 2.4 is out with FSR Upscaling 4.1.2 for older hardware and Vulkan support",
+    "link": "https://www.gamingonlinux.com/2026/10/amd-fsr-sdk-2-4-is-out-with-fsr-upscaling-4-1-2-for-older-hardware-and-vulkan-support/",
+    "description": "AMD FSR SDK 2.4 is now officially out bringing the newer FSR Upscaling 4.1.2 for older Radeon GPUs and Ryzen APUs, along with Vulkan support for newer FSR.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/10/amd-fsr-sdk-2-4-is-out-with-fsr-upscaling-4-1-2-for-older-hardware-and-vulkan-support/",
+    "date": "Oct 28, 2026 15:45",
+    "published_at": "2026-10-28T15:45:57Z",
+    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/amd-logo.jpg",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "CONTROL Resonant gets a DRM-free release on GOG",
+    "link": "https://www.gamingonlinux.com/2026/10/control-resonant-gets-a-drm-free-release-on-gog/",
+    "description": "Good news for fans of DRM-free gaming as the popular recent release of CONTROL Resonant is now available on GOG.com.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/10/control-resonant-gets-a-drm-free-release-on-gog/",
+    "date": "Oct 28, 2026 15:26",
+    "published_at": "2026-10-28T15:26:26Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/583454439id30074gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Gear Lever: An Easier AppImage Manager for Linux (No AUR Needed)",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368558",
+    "description": "Looking for an easier way to manage AppImage applications on Linux without using the AUR or manually building packages? In this video, I'll introduce Gear Lever, an AppImage manager for Linux that you can install directly from Flathub using Flatpak.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368558",
+    "date": "Oct 28, 2026 15:15",
+    "published_at": "2026-10-28T15:15:49Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Canonical Reviving Their Immutable Ubuntu Core Desktop",
+    "link": "https://www.phoronix.com/news/Ubuntu-Core-Desktop-2026",
+    "description": "Canonical engineers back in 2023 outlined plans for Ubuntu Core Desktop as their immutable Linux desktop. They made some good initial progress but since 2024 it went rather silent. Now they are reviving Ubuntu Core Desktop as their immutable desktop  OS offering and with grand plans for the future...",
+    "guid": "https://www.phoronix.com/news/Ubuntu-Core-Desktop-2026",
+    "date": "Oct 28, 2026 15:11",
+    "published_at": "2026-10-28T15:11:24Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Google Begins Certifying Registered App Stores For Android",
+    "link": "https://tech.slashdot.org/story/26/10/28/0313217/google-begins-certifying-registered-app-stores-for-android?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from Ars Technica: Running an app ecosystem has gotten a lot more complex for Google after its loss in the Epic Games antitrust case. While U.S. users can access app stores in Google Play by court order, international users will use Google's voluntary Registered App Stores program. Google has announced that stores wishing to be part of that program are now free to apply, and support will roll out to some Android devices later this year. App stores accepted into the program will enjoy preferential treatment on the Android platform. Users of approved stores will be able to install apps with a single click, similar to the experience in the Play Store. These stores will also be allowed to update apps silently in the background like Google's store does.\n \n[...] Registered App Stores are still happening on Android, but they won't be supported in the U.S. -- you can go to Google Play for alternative stores stateside, but so far, Aptoide remains the only one listed. Those operating Android app storefronts who want to be included in the international program can now review the program and begin the enrollment process. Any store hoping to get approval will have to adhere to a number of requirements, including protecting intellectual property, removing illegal content, and publishing a privacy policy for both users and developers. Google also requires several ongoing security measures to ensure the stores do not give malware easier access to Android devices. As part of the application process, store operators must provide documentation for all these points (in English) and upload copies of all their apps.\n \nIt costs $10,000 per year to participate in the Android Registered App Stores program, and that fee must be paid before Google will review the application. Google says this fee covers the additional support necessary to run the program. There may also be additional review fees if Google detects a store has a problem with malware. Google plans to roll out support in dozens of nations, which includes most of the world outside of the U.S. and Europe. The program goes live on December 1, but it will only work on Android devices running the latest builds of Android 17. Google says support will start with Android 17 QPR2, which is expected to arrive on Pixel phones in the coming weeks.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 28, 2026 15:00",
+    "published_at": "2026-10-28T15:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "CachyOS vs. Fedora 45 vs. Ubuntu 26.10 Performance On AMD Ryzen 9",
+    "link": "https://www.phoronix.com/review/cachyos-ubuntu2610-fedora45",
+    "description": "With the recently released Ubuntu 26.10 and the nearly-released Fedora Workstation 45, Phoronix readers have begun inquiring about fresh benchmarks looking at how they stack up against the performance-optimized, Arch Linux based CachyOS. Up today are our first CachyOS vs. Fedora 45 vs. Ubuntu 26.10 benchmarks on an AMD Ryzen 9 9900X3D2 desktop system.",
+    "guid": "https://www.phoronix.com/review/cachyos-ubuntu2610-fedora45",
+    "date": "Oct 28, 2026 14:46",
+    "published_at": "2026-10-28T14:46:46Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "[$] The campaign to push Northstar into Linux distributions",
+    "link": "https://lwn.net/Articles/1102738/",
+    "description": "There is not a broad selection of mature, open-source web-browser engines\nfor Linux users. Most of the browsers available for Linux are based on one of\njust three projects: Chromium's Blink, Firefox's\nGecko, or WebKit. A new entrant would\ngenerally be seen as a welcome alternative, but the recent campaign to push one\nof the LLM-written Nordstjernen browsers\ninto Debian and  Arch Linux has raised some questions about\nthe project's development and security processes.",
+    "guid": "https://lwn.net/Articles/1102738/",
+    "date": "Oct 28, 2026 14:26",
+    "published_at": "2026-10-28T14:26:59Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "DietPi v10.6 Adds Orange Pi and Odroid Images",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368557",
+    "description": "DietPi v10.8 introduces a dedicated WireGuard management utility, named software package identifiers, and an updated HAProxy installation package. The October release also improves network configuration, expands storage device support on Quartz64 platforms, and addresses several bugs affecting system management and applications. DietPi: DietPi is a lightweight, Debian-based operating system…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368557",
+    "date": "Oct 28, 2026 14:06",
+    "published_at": "2026-10-28T14:06:49Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Redox OS ring buffers project summary",
+    "link": "https://lwn.net/Articles/1103359/",
+    "description": "The Redox OS project, which is a\nUnix-like microkernel-based operating system written in Rust, has published a report on the work\nthat it has done in the last year to implement io_uring-like\nI/O.\n\n\nLast year, the Redox team received a grant to develop io_uring-like Ring\nBuffer support at the system task level, as a first step towards ring buffer\ncommunications between the application and the majority of system services. This\nphase of the work finished up in September, as the last pieces were put in\nplace.\n\n[...] In addition to implementing the Ring Buffer machinery for our system\nservices and drivers that can support it, an io_uring and\nliburing-like API for applications was completed and\ndemonstrated. There was also substantial work done on support crates, including\nan async executor for drivers.\n\nAnd there was some very exciting work on various performance improvements, to\nallow much faster switching between applications and their system services. But\nI will let the team tell you all the technical details.\n\n\n",
+    "guid": "https://lwn.net/Articles/1103359/",
+    "date": "Oct 28, 2026 14:05",
+    "published_at": "2026-10-28T14:05:05Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "NetBSD Adds Alternative Text Editor To vi \u0026 xedit For Easing New Users",
+    "link": "https://www.phoronix.com/news/NetBSD-New-Text-Editor",
+    "description": "NetBSD-current has added a new command line text editor to its base set of packages for helping out new users as an alternative to their vi and xedit editors currently included...",
+    "guid": "https://www.phoronix.com/news/NetBSD-New-Text-Editor",
+    "date": "Oct 28, 2026 13:48",
+    "published_at": "2026-10-28T13:48:00Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Local AI Weekly #7: Bubble or Not?",
+    "link": "https://feed.itsfoss.com/link/24361/17508633/local-ai-weekly-7",
+    "description": "China's AI stocks lost $480 billion. But SK Hynix posted record profits and says RAM stays scarce till 2030. Bubbles pop, prices don't.\n",
+    "guid": "6ae1f3ee1b851a0001833ef8",
+    "date": "Oct 28, 2026 13:44",
+    "published_at": "2026-10-28T13:44:51Z",
+    "image": "https://itsfoss.com/content/images/2026/10/local-ai-weekly-7.webp",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "Security updates for Wednesday",
+    "link": "https://lwn.net/Articles/1103357/",
+    "description": "Security updates have been issued by AlmaLinux (emacs, thunderbird, and xdg-dbus-proxy), Debian (bind9, openjdk-21, pdns, php-mongodb, and thunderbird), Fedora (brotli, chromium, clevis, eog, flatpak, ghostscript, kernel, libinstpatch, libreswan, mingw-freetype, mingw-gstreamer1, mingw-gstreamer1-plugins-bad-free, mingw-gstreamer1-plugins-base, mingw-gstreamer1-plugins-good, openssh, perl-Alien-Brotli, perl-DBI, python3.12, rust-onefetch, stargz-snapshotter, util-linux, and webkitgtk), Mageia (cifs-utils, libxml2, packages, perl-Cpanel-JSON-XS, perl-Text-CSV_XS, sogo, util-linux, and weechat), Oracle (brotli, firefox, flatpak, gcc-toolset-15-gcc, kernel, libreswan, nodejs:22, nodejs:24, python-urllib3, skopeo, and xdg-dbus-proxy), Slackware (proftpd), SUSE (azure-storage-azcopy, containerd, corepack24, grok-build, ImageMagick, libsoup-2_4-1, matrix-synapse, podman, psqlODBC, python, python-M2Crypto-doc, python-Twisted-doc, and xen), and Ubuntu (authd).",
+    "guid": "https://lwn.net/Articles/1103357/",
+    "date": "Oct 28, 2026 13:10",
+    "published_at": "2026-10-28T13:10:19Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "Distro of the Week: Noid Linux KDE Plasma",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368559",
+    "description": "Of all the distros available that are based on Void, Algeria's Noid Linux stands out in a few ways. But not the least of which is this: Some might argue that it's the perfect entry point into the Void-based family of distros due to its polished Linux experience while letting the user dive deep when he or she chooses.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368559",
+    "date": "Oct 28, 2026 12:59",
+    "published_at": "2026-10-28T12:59:06Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "X.Org XCB Co-Creator Praises Wayland's Protocol Design",
+    "link": "https://www.phoronix.com/news/Jamey-Sharp-Praises-Wayland",
+    "description": "Open-source developer Jamey Sharp who is a longtime X.Org developer and co-creator of the X protocol C-language Binding (XCB) finally had the need to write a Wayland client and ended up praising its design...",
+    "guid": "https://www.phoronix.com/news/Jamey-Sharp-Praises-Wayland",
+    "date": "Oct 28, 2026 12:54",
+    "published_at": "2026-10-28T12:54:28Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Arriving this Winter, the frog town-building game Croakwood from the Parkitect devs looks lovely",
+    "link": "https://www.gamingonlinux.com/2026/10/arriving-this-winter-the-frog-town-building-game-croakwood-from-the-parkitect-devs-looks-lovely/",
+    "description": "Croakwood, the relaxed frog town-building and management game from the Parkitect devs has a newish trailer out now and it arrives sometime this Winter.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/10/arriving-this-winter-the-frog-town-building-game-croakwood-from-the-parkitect-devs-looks-lovely/",
+    "date": "Oct 28, 2026 12:37",
+    "published_at": "2026-10-28T12:37:11Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1652797527id30073gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Provenance Time Proposed As A New Timestamp For Linux",
+    "link": "https://www.phoronix.com/news/Linux-Provenance-Time-PTIME",
+    "description": "While the Linux kernel and various file-system drivers already support the notion of the birth time for tracking a file/directory's birth/creation time, a slightly different provenance time \"ptime\" is now being proposed for the Linux kernel...",
+    "guid": "https://www.phoronix.com/news/Linux-Provenance-Time-PTIME",
+    "date": "Oct 28, 2026 12:23",
+    "published_at": "2026-10-28T12:23:10Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Deep Rock Galactic: Survivor - Knockout Expansion arrives November 17",
+    "link": "https://www.gamingonlinux.com/2026/10/deep-rock-galactic-survivor-knockout-expansion-arrives-november-17/",
+    "description": "The popular bullet heaven survivor-like Deep Rock Galactic: Survivor is set for the Knockout Expansion to arrive on November 17th.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/10/deep-rock-galactic-survivor-knockout-expansion-arrives-november-17/",
+    "date": "Oct 28, 2026 12:22",
+    "published_at": "2026-10-28T12:22:04Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1815948677id30072gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "DayZ creators RocketWerkz reveal Gruntz, a multiplayer survival game inspired by Space Station 13",
+    "link": "https://www.gamingonlinux.com/2026/10/dayz-creators-rocketwerkz-reveal-gruntz-a-multiplayer-survival-game-inspired-by-space-station-13/",
+    "description": "DayZ creator Dean Hall of RocketWerkz just announced Gruntz, a top-down multiplayer horde survival game inspired by Space Station 13.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/10/dayz-creators-rocketwerkz-reveal-gruntz-a-multiplayer-survival-game-inspired-by-space-station-13/",
+    "date": "Oct 28, 2026 11:58",
+    "published_at": "2026-10-28T11:58:21Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1224289003id30071gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "All Things Open Isn’t Done Yet — and Neither Am I",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368561",
+    "description": "The folks at ATO said goodbye last week, but today they served up another helping of videos, photos, stats, and swag.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368561",
+    "date": "Oct 28, 2026 11:48",
+    "published_at": "2026-10-28T11:48:27Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Hyprland 0.57 Released With Compiz Inspired Wobbly Windows",
+    "link": "https://www.phoronix.com/news/Hyprland-0.57",
+    "description": "For those that want to reminisce  over the days long ago of Compiz and Beryl on the Linux desktop, the Hyprland 0.57 Wayland compositor released today and has added Compiz-inspired wobbly windows support...",
+    "guid": "https://www.phoronix.com/news/Hyprland-0.57",
+    "date": "Oct 28, 2026 11:45",
+    "published_at": "2026-10-28T11:45:33Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Alternate history 1950s Soviet Kyiv shooter You Are Empty: Absolute Edition released",
+    "link": "https://www.gamingonlinux.com/2026/10/alternate-history-1950s-soviet-kyiv-shooter-you-are-empty-absolute-edition-released/",
+    "description": "ZOOM Platform have revived another retro game here, with You Are Empty: Absolute Edition getting released with its alternate history 1950s Soviet Kyiv.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/10/alternate-history-1950s-soviet-kyiv-shooter-you-are-empty-absolute-edition-released/",
+    "date": "Oct 28, 2026 11:22",
+    "published_at": "2026-10-28T11:22:58Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1087424id30070gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Dark Messiah of Might \u0026 Magic: Community Edition is coming to Steam with major upgrades for the classic",
+    "link": "https://www.gamingonlinux.com/2026/10/dark-messiah-of-might-magic-community-edition-is-coming-to-steam-with-major-upgrades-for-the-classic/",
+    "description": "The Arkane Studios and Ubisoft classic Dark Messiah of Might \u0026 Magic was originally released 20 years ago, and now a new overhaul mod is on the way.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/10/dark-messiah-of-might-magic-community-edition-is-coming-to-steam-with-major-upgrades-for-the-classic/",
+    "date": "Oct 28, 2026 11:06",
+    "published_at": "2026-10-28T11:06:35Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1493382736id30069gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Astronomers May Have Just Discovered Our Solar System's Sixth Dwarf Planet",
+    "link": "https://science.slashdot.org/story/26/10/28/035218/astronomers-may-have-just-discovered-our-solar-systems-sixth-dwarf-planet?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Astronomers using the Vera C. Rubin Observatory have discovered 2026 ED138, a large object beyond Neptune that could become the solar system's sixth recognized dwarf planet if further observations confirm it is massive enough to be round. Located about 46 times farther from the Sun than Earth, the object is estimated to be 600 to 1,500 kilometers wide and had remained hidden because it lies against a particularly crowded field of Milky Way stars. Scientific American reports: The discovery was made by running billions of pieces of data collected by the Rubin Observatory through a search code developed by Center for Astrophysics | Harvard \u0026 Smithsonian astronomers Matthew Holman and Kevin Napier. \"My first reaction was one of excited disbelief,\" Holman said in a statement. \"Objects like this are very rare, so I immediately started checking whether I or the code had done something wrong.\"\n \nWhen Holman and his colleague Mario Juric of the University of Washington went to double-check, they found 30 more observations of the object by Rubin that dated to between March and July 2026. Looking at other observation tools, the pair found even more sightings going back to 2016. Together, these data allowed the astronomers to begin mapping out 2026 ED138's orbit. The suspected dwarf planet is about 46 times as far from the sun as Earth, making it even more remote than Pluto, which is just 40 times as far. The object is also tilted off the solar system's plane by around 25 degrees, an arrangement that could be linked to disruptions caused by Neptune's gravitational pull.\n \nInitial measurements indicate that 2026 ED138 has a diameter between 600 and 1,500 kilometers (373 and 932 miles), which makes it one of the largest dwarf planet candidates yet detected. But size isn't all that matters: further observations are required to determine if the object has enough mass to be pulled into a round shape, which is a key requirement for a dwarf planet. Despite its size, 2026 ED138 was able to avoid detection for all these years because it's located in a part of the night sky that's crowded with stars whose light drowned it out.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 28, 2026 11:00",
+    "published_at": "2026-10-28T11:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "VKD3D-Proton 3.1 brings a new stable release, ahead of more important changes to come",
+    "link": "https://www.gamingonlinux.com/2026/10/vkd3d-proton-3-1-brings-a-new-stable-release-ahead-of-more-important-changes-to-come/",
+    "description": "VKD3D-Proton is one of the major parts of Valve's Proton, that enables tons of Direct3D 12 games to run well on SteamOS / Linux. Version 3.1 is out now!Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/10/vkd3d-proton-3-1-brings-a-new-stable-release-ahead-of-more-important-changes-to-come/",
+    "date": "Oct 28, 2026 10:55",
+    "published_at": "2026-10-28T10:55:17Z",
+    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/proton%20logo%20official.jpg",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Steam Frame VR Headset Sees Mainline Support With Linux 7.4",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368519",
+    "description": "The mainline Linux 7.4 kernel will be capable of running on the Steam Frame VR headset…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368519",
+    "date": "Oct 28, 2026 10:29",
+    "published_at": "2026-10-28T10:29:55Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "VKD3D-Proton 3.1 Released With New Features Ahead Of Big v3.2 Release",
+    "link": "https://www.phoronix.com/news/VKD3D-Proton-3.1",
+    "description": "Hans-Kristian Arntzen of Valve's Linux team just tagged the VKD3D-Proton 3.1 release. This version comes with a number of new features and performance optimizations while being the stable point ahead of VKD3D-Proton beginning to see a lot of new feature code for what will then become VKD3D-Proton 3.2...",
+    "guid": "https://www.phoronix.com/news/VKD3D-Proton-3.1",
+    "date": "Oct 28, 2026 10:27",
+    "published_at": "2026-10-28T10:27:21Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "GhostBSD 26.2 Released As FreeBSD 15.1 Powered OS With New Installer",
+    "link": "https://www.phoronix.com/news/GhostBSD-26.2",
+    "description": "GhostBSD 26.2 is out as the latest feature release of this FreeBSD-powered desktop operating system...",
+    "guid": "https://www.phoronix.com/news/GhostBSD-26.2",
+    "date": "Oct 28, 2026 10:11",
+    "published_at": "2026-10-28T10:11:54Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Ghostty 1.4 Is Faster and Uses Less RAM, but Drops Ubuntu 24.04 LTS Support",
+    "link": "https://feed.itsfoss.com/link/24361/17508486/ghostty-1-4-release",
+    "description": "The Ubuntu 24.04 support drop is thanks to the native builds requiring some newer dependencies. Anyhow, there’s more to this Ghostty release than that.",
+    "guid": "6ae188df1b851a0001833bb3",
+    "date": "Oct 28, 2026 10:09",
+    "published_at": "2026-10-28T10:09:27Z",
+    "image": "https://itsfoss.com/content/images/2026/10/ghostty-1-4-release-banner.png",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "NTFS3 Hardened In Linux 7.4 Against Corrupted Or Maliciously-Crafted NTFS Volumes",
+    "link": "https://www.phoronix.com/news/Linux-7.4-NTFS3",
+    "description": "Paragon Software's Konstantin Komarov sent out the latest NTFS3 driver updates for this in-kernel NTFS read/write driver. With Linux 7.4, the NTFS3 driver is focused on being hardened against corrupted or maliciously-crafted NTFS volumes...",
+    "guid": "https://www.phoronix.com/news/Linux-7.4-NTFS3",
+    "date": "Oct 28, 2026 10:02",
+    "published_at": "2026-10-28T10:02:34Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Retiring BSD-Compress Proposed For Linux PPP Network Code",
+    "link": "https://www.phoronix.com/news/Linux-May-Retire-PPP-BSD-Comp",
+    "description": "A patch has been proposed to remove the BSD-Compress support from the Linux kernel for the Linux networking point-to-point protocol (PPP) due to being unmaintained and having fundamental issues with the code that can lead to a fatal error...",
+    "guid": "https://www.phoronix.com/news/Linux-May-Retire-PPP-BSD-Comp",
+    "date": "Oct 28, 2026 09:50",
+    "published_at": "2026-10-28T09:50:55Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Ghostty 1.4 Terminal Emulator Cuts Memory Usage, Boosts Performance",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368547",
+    "description": "Ghostty 1.4 delivers faster terminal processing, up to 90% lower scrollback memory usage, and major Linux rendering improvements.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368547",
+    "date": "Oct 28, 2026 09:27",
+    "published_at": "2026-10-28T09:27:36Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Scribus 1.6.7 Open-Source Desktop Publishing App Released with Improvements",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368554",
+    "description": "Scribus 1.6.7 has been released today as a new stable update in the Scribus 1.6 series of this open-source and cross-platform desktop publishing app for Linux, BSD, Solaris, macOS, and Windows systems.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368554",
+    "date": "Oct 28, 2026 08:13",
+    "published_at": "2026-10-28T08:13:25Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Ubuntu firmware HWE will prevent issues on older kernel",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368553",
+    "description": "Ubuntu is planning a new linux-firmware-hwe package, in an effort to reduce the risk of firmware updates for newer kernels causing problems for users running older ones. On Ubuntu long-term support (LTS) releases, you can stick with the standard (GA) kernel it was released with for the duration of its support period, or you can install the HWE update, which brings newer Linux kernel versions to…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368553",
+    "date": "Oct 28, 2026 07:02",
+    "published_at": "2026-10-28T07:02:26Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "CDC Warns of Rising Threat of Drug-Resistant Germs",
+    "link": "https://science.slashdot.org/story/26/10/28/0256204/cdc-warns-of-rising-threat-of-drug-resistant-germs?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "The CDC estimates that 19 drug-resistant pathogens cause 9.7 million infections and more than 50,000 deaths annually in the U.S., with resistance continuing to outpace development of new treatments. \"The agency considers this problem to be one of our most urgent public health threats,\" reports NBC News. From the report: The report is the CDC's first comprehensive assessment of these drug-resistant pathogens in seven years. [...] The new report offers a detailed picture of these threats in the U.S., including a ranking of which are the most urgent concerns, based on the number and severity of infections they cause and how easily preventable or transmissible they are. The ranking also factors in how many treatment options exist and their costs. [...] The report estimates that 19 drug-resistant germs cause 9.7 million infections annually in the U.S. Of these, four pathogens are ranked as most worrisome, including the fungus Candida auris and the bacteria that causes gonorrhea, which has become resistant to all but one class of antibiotics used to treat it.\n \nThe other two urgent threats, according to the CDC, are the bacteria Acinetobacter and Enterobacterales, both of which are resistant to a class of antibiotics widely considered a \"last resort\" for patients. In addition, the report adds a new bacteria to the list of \"concerning\" threats, which are considered less worrisome but still warrant monitoring: neisseria meningitidis, which causes meningococcal disease. The rare but life-threatening illness can be prevented through childhood vaccinations, but the bacteria that causes it is slowly developing a resistance to penicillin and another antibiotic called ciprofloxacin.\n \nThe report also offers some good news: The CDC determined that the bacteria Clostridioides difficile, or \"C. diff,\" which causes diarrhea and inflammation of the colon and can be deadly, is causing fewer cases year over year. The agency downgraded it to a serious threat, whereas it was categorized as urgent in the prior version of the report, which came out in 2019.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 28, 2026 07:00",
+    "published_at": "2026-10-28T07:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Robinson: Raspberry Pi 5 on Fedora",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368546",
+    "description": "Peter Robinson has written a blog post about the current state of Fedora support for Raspberry Pi 5 devices. According to Robinson, the upcoming Fedora 45 release will work—with caveats—on all variants of the Raspberry Pi Model 5B; the Compute Module 5 and Pi 500+ are still works in progress. For Fedora 44 release you need to have a temporary…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368546",
+    "date": "Oct 28, 2026 04:31",
+    "published_at": "2026-10-28T04:31:07Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Greenhouse Gas Levels Set Records In 2025, UN Says",
+    "link": "https://news.slashdot.org/story/26/10/27/2325218/greenhouse-gas-levels-set-records-in-2025-un-says?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from CBS News: Greenhouse gas concentrations in the atmosphere rose to record highs in 2025, locking in climate impacts that will persist for centuries, the United Nations said on Tuesday. Levels of the three main greenhouse gases -- the climate-warming carbon dioxide, methane and nitrous oxide -- all rose to unprecedented figures in 2025, the U.N.'s weather and climate agency said. The World Meteorological Organization said the rise would lead to more long-term temperature increases for the planet.\n \nThe bulletin looks at greenhouse gas concentrations -- the amount of those gases in the atmosphere -- rather than new annual emissions amounts as the world burns more coal, oil and gas. In 2025, carbon dioxide concentrations were at 426.8 parts per million (ppm); methane at 1,948 parts per billion, and nitrous oxide at 339.1 parts per billion. That takes them, respectively, to 153%, 267% and 126% of the pre-industrial levels witnessed before 1750. Of the three major greenhouse gases, CO2 accounts for about 66% of the warming effect on the climate.\n \nAround half of the total CO2 emitted each year remains in the atmosphere; the rest is absorbed by the land and oceans. From 2024 to 2025, the global average concentration of CO2 rose by 2.8 ppm -- smaller than the record surge from 2023 to 2024 of 3.6 ppm. WMO senior scientific officer Oksana Tarasova said this reflected the \"recovery of the land carbon sinks and reduced fire carbon emissions in 2025 after the strong 2023/2024 El Nino,\" the naturally occurring, climate-warming weather phenomenon. \"However, a 2.8 ppm annual increase is still a substantial addition of carbon to the atmosphere from fossil fuel burning.\" It is also above the average growth rate for the past decade of 2.6 ppm -- a figure that stood at 0.8 ppm in the 1960s. \"Another year, another new record,\" said WMO Deputy Secretary-General Ko Barrett. \"Greenhouse gases are trapping an unprecedented amount of heat in the atmosphere, providing energy for more extreme weather and associated risks to our economies and societies.\n \nFurther reading: UN Says Breaching 1.5C Warming Limit Is 'Imminent and Unavoidable'\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 28, 2026 03:30",
+    "published_at": "2026-10-28T03:30:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Fedora Linux 45 Delayed Again, New Release Date Set for November 3",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368548",
+    "description": "Fedora Linux 45 faces another delay due to unresolved blocker bugs, pushing its target release date to November 3, 2026.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368548",
+    "date": "Oct 28, 2026 03:26",
+    "published_at": "2026-10-28T03:26:17Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
     "title": "(Updated) ESP-Mosaico centers dual-core RISC-V ESP32-S31 around a 2.16-inch square AMOLED",
     "link": "https://lxer.com/module/newswire/ext_link.php?rid=368556",
     "description": "The Espressif ESP-Mosaico is an expandable smart-interaction development kit based on the ESP32-S31 microcontroller. The compact device integrates a 2.16-inch square touch display, audio hardware, motion and magnetic sensors, NAND storage, haptic feedback and dual expansion interfaces for HMI, edge voice and multimedia applications. The ESP32-S31NRV16 at the center of the board provides two…",
@@ -125,16 +562,6 @@
     "source_url": "https://slashdot.org/"
   },
   {
-    "title": "Robinson: Raspberry Pi 5 on Fedora",
-    "link": "https://lwn.net/Articles/1103212/",
-    "description": "Peter Robinson has written a blog post about\nthe current state of Fedora support for Raspberry Pi 5\ndevices. According to Robinson, the upcoming Fedora 45 release will\nwork—with caveats—on\nall variants of the Raspberry Pi Model 5B; the\nCompute Module 5 and Pi 500+ are still works in progress.\n\n\nFor Fedora 44 release you need to have a temporary workaround when booting. If\nyou update to the latest kernel/firmware straight away this isn't then needed\nbeyond the first boot. The workaround isn't needed for Fedora 45 so if you're\ngoing to try this out I suggest you go and grab your favourite flavour of Fedora\nfrom the Fedora 45 release candidates and jump straight in there! You will get\nan accelerated desktop with storage/network/USB. There's not currently any\nsupport for sound and a number of other things.\n\n\nSee Robinson's post for instructions on creating an Fedora image to use with\na Raspberry Pi 5.\n\n",
-    "guid": "https://lwn.net/Articles/1103212/",
-    "date": "Oct 27, 2026 18:11",
-    "published_at": "2026-10-27T18:11:48Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
     "title": "Apple's Foldable iPhone Duo Draws Early Complaints of the Screen Cracking",
     "link": "https://hardware.slashdot.org/story/26/10/27/1630226/apples-foldable-iphone-duo-draws-early-complaints-of-the-screen-cracking?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
     "description": "Apple has acknowledged an inner-display defect affecting a small number of its new $1,999 iPhone Duo foldables after customers reported hearing a crunch while unfolding the device before cracks, lines and other display failures appeared along the crease. Apple is replacing affected phones and investigating the problem.\n \niFixit believes a failing hinge component may be pressing into and cracking the display rather than the panel itself being defective. Bloomberg reports: Reports of the problem first surfaced on Reddit and other social media sites. Bloomberg News has since independently verified the issue with more than half a dozen customers, who provided photos showing damage to their devices or evidence of their support conversations with Apple. Apple acknowledged the issue in a statement, saying it was \"aware of an issue impacting the inner display on a small number of iPhone Duo units.\"\n \n\"If users experience issues with their iPhone Duo display, they should contact AppleCare for a replacement,\" the Cupertino, California-based company said. Most Duos aren't affected by the problem, and the units that are impacted exhibit the defect quickly, Apple said.\n\n\n\n\n\nRead more of this story at Slashdot.",
@@ -188,6 +615,17 @@
     "source_url": "https://slashdot.org/"
   },
   {
+    "title": "RefreshOS 3.1 Strengthens Its Debian Foundation With Independent Package Management",
+    "link": "https://www.linuxjournal.com/content/refreshos-31-strengthens-its-debian-foundation-independent-package-management",
+    "description": "\n    \n      \n              \n      \n            by George Whittaker\n      \n            The RefreshOS project has released RefreshOS 3.1, bringing an updated Debian foundation, a dedicated software repository, improved 32-bit application compatibility, and several refinements to its KDE Plasma desktop experience. Released on October 27, 2026, the update advances the distribution's 3.x \"Colorful Cosmos\" series while introducing infrastructure that could significantly improve how RefreshOS delivers its own packages and configuration changes.\n\nThe new release moves from Debian 13.4 to Debian 13.7 \"Trixie\", incorporates Linux kernel 6.12.113, and continues using KDE Plasma 6.3.6. However, the most important development is the introduction of an official RefreshOS APT repository with separate Stable, Testing, and Experimental channels. This gives the project a more structured way to distribute customized software while continuing to benefit from Debian's established package ecosystem.\n\nRefreshOS 3.1 also enables i386 architecture support, making it easier to install compatible 32-bit software and dependencies required by applications such as Steam. Additional changes address desktop localization, KDE integration, installer configuration, package permissions, and installation image cleanup. Together, these improvements represent an effort to make RefreshOS easier to maintain while preserving its focus on a ready-to-use Linux desktop.\n\nRefreshOS Builds on Debian's Stable Release Model\n\nRefreshOS is a Debian-based Linux distribution developed by eXybit Technologies, designed to provide a polished desktop environment without requiring users to configure every component manually. The project combines Debian's stable package foundation with KDE Plasma, preinstalled applications, hardware support, multimedia capabilities, and custom desktop styling.\n\nUnlike distributions that emphasize constant adoption of the newest software versions, RefreshOS prioritizes a relatively predictable desktop experience. Its Debian foundation provides access to established security maintenance, package management, and compatibility practices, while RefreshOS adds its own configuration choices to simplify everyday use.\n\nVersion 3.1 continues that philosophy by incorporating Debian 13.7, the seventh point release of Debian 13 \"Trixie.\" Debian published this update on September 12, 2026, primarily to consolidate security corrections and fixes for significant software problems. These point releases do not represent entirely new Debian generations. Instead, they refresh installation media and package selections so newly installed systems begin with a more current collection of fixes.\n      \n              Go to Full Article\n\n      \n    \n  ",
+    "guid": "1341474 at https://www.linuxjournal.com",
+    "date": "Oct 27, 2026 16:00",
+    "published_at": "2026-10-27T16:00:00Z",
+    "image": "https://www.linuxjournal.com/sites/default/files/nodeimage/story/refreshos-3-1-strengthens-its-debian-foundation-with-independent-package-management.jpg",
+    "source": "linuxjournal.com",
+    "source_url": "https://www.linuxjournal.com/"
+  },
+  {
     "title": "What is a Kernel? | Center of Operating System?",
     "link": "https://lxer.com/module/newswire/ext_link.php?rid=368525",
     "description": "The kernel is the core of the system that bridges the hardware and software layers and smoothly creates interaction between them to transport data.",
@@ -231,16 +669,6 @@
     "source_url": "https://slashdot.org/"
   },
   {
-    "title": "KWin-Type Introduced To Address KDE Wayland Usability Gap For Auto-Typing Text",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368507",
-    "description": "Open-source developer Jason Donenfeld known for his work on WireGuard announced today the release of kwin-type. KWin-type is a new Wayland-compatible program for auto-typing text from the standard input under the KWin Wayland compositor…",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368507",
-    "date": "Oct 27, 2026 14:37",
-    "published_at": "2026-10-27T14:37:38Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
     "title": "[$] Guidelines for panics in kernel code",
     "link": "https://lwn.net/Articles/1100873/",
     "description": "\nAlexandre Courbot spends most of his time working on the kernel doing code\nreviews. Recently, he's been wondering about what the standards should be for\nwhen Rust code is allowed to panic, and how it should do error handling more\ngenerally. Unlike many of the other talks at Kangrejos 2026, his talk was not\npresenting some existing work, but rather hoping to solicit opinions on the\ntopic from the assembled Rust for Linux developers. He brought along a collection of tricky\ncases that he had run into recently to prompt discussion.\n",
@@ -270,16 +698,6 @@
     "image": "https://cdn.mos.cms.futurecdn.net/tg95hzQEgMNoJTJZHb5oXU-1920-80.png",
     "source": "tomshardware.com",
     "source_url": "https://www.tomshardware.com/software/operating-systems/linux"
-  },
-  {
-    "title": "Noctalia 5.4 Wayland Shell Adds New Themes, Screenshot Features",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368484",
-    "description": "Noctalia 5.4 expands desktop theming, adds JPEG XL screenshot support, introduces new visual effects, and improves widgets and plugins.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368484",
-    "date": "Oct 27, 2026 13:16",
-    "published_at": "2026-10-27T13:16:53Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
   },
   {
     "title": "Pavee OS: Ikey Doherty's New Daily-Driver Desktop Distro Being Built Atop Barney",
@@ -324,16 +742,6 @@
     "source_url": "https://www.gamingonlinux.com/"
   },
   {
-    "title": "Intel IPU8 Support Upstreamed In Linux 7.4 For Nova Lake Laptops",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368510",
-    "description": "The media subsystem changes have been merged for the Linux 7.4 kernel. Most notable is Intel IPU8 support being introduced for the next-gen image processing unit in high-end Nova Lake laptops..",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368510",
-    "date": "Oct 27, 2026 12:10",
-    "published_at": "2026-10-27T12:10:23Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
     "title": "AMD EPYC Zen 6 PML Support, ARM64 On s390 Merged For Linux 7.4 KVM",
     "link": "https://www.phoronix.com/news/Linux-7.4-KVM",
     "description": "The many Kernel-based Virtual Machine (KVM) improvements have been merged for Linux 7.4 to deliver a number of new features for different server processors...",
@@ -355,27 +763,6 @@
     "source_url": "https://www.gamingonlinux.com/"
   },
   {
-    "title": "openSUSE Releases Agama 25 Installer with Web-Based Terminal, Exit Option",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368488",
-    "description": "Today, the openSUSE project released version 25 of its Agama web-based installer for Tumbleweed, Slowroll, and MicroOS distributions with a web-based terminal, an option to exit the installer, and enhanced port selection.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368488",
-    "date": "Oct 27, 2026 11:12",
-    "published_at": "2026-10-27T11:12:46Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Denmark Gives Up On Replacing Microsoft Office With Collabora",
-    "link": "https://tech.slashdot.org/story/26/10/26/2222246/denmark-gives-up-on-replacing-microsoft-office-with-collabora?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Denmark's Ministry of Digitization reportedly abandoned a pilot to replace Microsoft Office with the open-source Collabora suite less than six months after it began. Tom's Hardware reports: According to Danish publication Computerworld, the pilot project was launched in 2025 and involved 38 employees, all of whom would start using the British open-source Collabora office suite instead of Word, PowerPoint, and Excel. The experiment was initiated by the then Digitization Minister Caroline Stage, who wanted to reduce the country's dependence on American technology. Denmark isn't alone in moving away from U.S. software, with France and the Netherlands both taking steps to replace Microsoft Windows. However, it seemed that the experiment fizzled out less than six months after it started. It had reportedly ended by the time the Danish government called for an early election in February 2026, with some employees complaining about issues with style, paragraph formatting, blank pages, and challenges with tracking changes.\n \nBut even though it's been months since the experiment reportedly ended, Prof. Mikkel Flyberbom of the Copenhagen Business School complains that the project hasn't been properly evaluated. \"It's a good idea to test alternatives in a pilot project,\" the professor said in an email. \"However, I wish that the ministry would take the opportunity to learn from the pilot project and share those experiences with other parts of the public sector.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 27, 2026 11:00",
-    "published_at": "2026-10-27T11:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
     "title": "Accelerating HTTP Web Servers With In-Kernel eBPF Deliver Up To 4.5x Throughput",
     "link": "https://www.phoronix.com/news/Beeper-In-Kernel-Parsing-eBPF",
     "description": "An interesting new open-source project born out of university research is Beeper to provide application-layer parsing within the in-kernel eBPF. With an HTTP parser implemented by Beeper in eBPF and providing an in-kernel HTTP cache, the throughput for web servers could be improved by 3x at high rates...",
@@ -384,16 +771,6 @@
     "published_at": "2026-10-27T10:26:22Z",
     "source": "phoronix.com",
     "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "BSD Users Can Now Enjoy Omarchy Flavor",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368508",
-    "description": "Daemonarchy keeps Omarchy’s installer and look, with FreeBSD handling the system underneath.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368508",
-    "date": "Oct 27, 2026 10:21",
-    "published_at": "2026-10-27T10:21:09Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
   },
   {
     "title": "Linux's Modern NTFS Driver Now Supports Alternate Data Streams (ADS)",
@@ -425,236 +802,5 @@
     "published_at": "2026-10-27T09:52:30Z",
     "source": "phoronix.com",
     "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Command a being formed from thousands of leaves in Leafborn",
-    "link": "https://www.gamingonlinux.com/2026/10/command-a-being-formed-from-thousands-of-leaves-in-leafborn/",
-    "description": "Top marks for some protagonist originality here in Leafborn, with your character made up of a thousands leaves.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/10/command-a-being-formed-from-thousands-of-leaves-in-leafborn/",
-    "date": "Oct 27, 2026 09:40",
-    "published_at": "2026-10-27T09:40:52Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1698294455id30062gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Firefox 159 Released With AMD  Linux Graphics Fix For Excessive Memory Use",
-    "link": "https://www.phoronix.com/news/Firefox-159-Released",
-    "description": "Firefox 159 is out today as the latest bi-weekly feature release for Mozilla's web browser...",
-    "guid": "https://www.phoronix.com/news/Firefox-159-Released",
-    "date": "Oct 27, 2026 09:35",
-    "published_at": "2026-10-27T09:35:49Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Navigating Open Source Software Development in the Generative AI Era: Balancing Velocity and Community Health",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368509",
-    "description": "Over the past three decades, open source communities have absorbed one massive technological shift after another: the emergence of the web, the mobile revolution, and the rise of cloud native infrastructure. Through each transition, our ecosystem adapted, strengthened its collaborative norms, and grew more resilient. Yet generative AI introduces a fundamentally distinct dynamic, directly…",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368509",
-    "date": "Oct 27, 2026 09:23",
-    "published_at": "2026-10-27T09:23:32Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Steam Scream Fest V is here with discounts on spooky games",
-    "link": "https://www.gamingonlinux.com/2026/10/steam-scream-fest-v-is-here-with-discounts-on-spooky-games/",
-    "description": "Steam Scream Fest V has arrived and with it lots of discounts on various different types of games that will make you need fresh pants.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/10/steam-scream-fest-v-is-here-with-discounts-on-spooky-games/",
-    "date": "Oct 27, 2026 09:21",
-    "published_at": "2026-10-27T09:21:53Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1426083461id30061gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Classic survival-horrors Ecstatica and Ecstatica II get re-released with upgrades",
-    "link": "https://www.gamingonlinux.com/2026/10/classic-survival-horrors-ecstatica-and-ecstatica-ii-get-re-released-with-upgrades/",
-    "description": "Originally released in the late 90s, Ecstatica and Ecstatica II are survival-horror games with a unique style not to be missed.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/10/classic-survival-horrors-ecstatica-and-ecstatica-ii-get-re-released-with-upgrades/",
-    "date": "Oct 27, 2026 08:59",
-    "published_at": "2026-10-27T08:59:32Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/808359526id30060gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Steam Beta makes game invites simpler on SteamOS / Big Picture Mode",
-    "link": "https://www.gamingonlinux.com/2026/10/steam-beta-makes-game-invites-simpler-on-steamos-big-picture-mode/",
-    "description": "Valve released the latest Steam Beta for all supported platforms, with the October 26th update finally making game invites easier.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/10/steam-beta-makes-game-invites-simpler-on-steamos-big-picture-mode/",
-    "date": "Oct 27, 2026 08:43",
-    "published_at": "2026-10-27T08:43:26Z",
-    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/steamos-2025.jpg",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Half-Life: Alyx updated to bring Foveated Rendering on desktop",
-    "link": "https://www.gamingonlinux.com/2026/10/half-life-alyx-updated-to-bring-foveated-rendering-on-desktop/",
-    "description": "Valve are still adding in improvements to the excellent VR game Half-Life: Alyx, with the latest update out now.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/10/half-life-alyx-updated-to-bring-foveated-rendering-on-desktop/",
-    "date": "Oct 27, 2026 08:37",
-    "published_at": "2026-10-27T08:37:33Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1943145130id30058gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "KMSCON 10.1 Released With Support For Per-Monitor Configurations",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368511",
-    "description": "KMSCON as the user-space terminal emulator targeting Linux DRM/KMS interfaces as an alternative to the in-kernel VT now is able to individually configure monitors in multi-monitor setups. Plus a variety of other improvements with today's KMSCON 10.1 release…",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368511",
-    "date": "Oct 27, 2026 08:30",
-    "published_at": "2026-10-27T08:30:40Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Survey Says! AI Images and Video Lead Creative Searches",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368512",
-    "description": "If ‘Image Generation and AI Art’ were a Family Feud guess, it would be the top answer for AI creative searches nationwide.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368512",
-    "date": "Oct 27, 2026 07:32",
-    "published_at": "2026-10-27T07:32:19Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Industry Executives Knew For Decades That Microplastics Were Infiltrating the Human Body",
-    "link": "https://science.slashdot.org/story/26/10/27/0232248/industry-executives-knew-for-decades-that-microplastics-were-infiltrating-the-human-body?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Susanne Rust of the Los Angeles Times reports (paywalled) that industry executives knew for decades that microplastics were infiltrating the human body. Slashdot reader joshuark shares an excerpt from the report: Scientists today say we're just beginning to understand the harm that the tiny bits of plastic we drink, eat and breathe are doing to the human body. Internal memos among company scientists and executives obtained by The Times reveal that for at least half a century, the plastics industry has been aware of and concerned about the potential for microplastic contamination in the human body. But recently discovered chemical company documents dating back several decades show that industry scientists have long been aware of -- and concerned about -- the way microplastic particles migrate beyond the gut in animals and humans, depositing in important organs. And the potential for that knowledge to affect the plastic food packaging industry.\n \nTheir concern goes back to 1974 and a scientific meeting at a New York City hotel, where a German gastroenterologist presented a scientific paper that showed for the first time that ingested particles like microplastics could infiltrate the rest of the body. His presentation was largely overlooked by the government scientists in attendance but became a point of worried discussion among company scientists. Tracey Woodruff, professor of epidemiology and population health at Stanford University, who reviewed the documents, said they indicate scientists and executives at major chemical companies have known and remained silent even as microplastics accumulated in tissues. She likened it to other industries that knew about pollutants -- greenhouse gases, asbestos and tobacco -- but did not take action to make them safer.\n \nA spokesperson with the chemical industry's largest trade group took issue with that characterization. \"Scientific debate over what the evidence shows is not silence. It is how sound science and effective policy advance,\" said Craig Davis, senior director of plastics chemistry at the American Chemistry Council. \"Our industry is committed to advancing microplastics science by supporting independent research and policies that would do so.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 27, 2026 07:00",
-    "published_at": "2026-10-27T07:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "22 Things to Do After Installing Ubuntu 26.10 Stonking Stingray",
-    "link": "https://feed.itsfoss.com/link/24361/17507385/things-to-do-after-installing-ubuntu-26-10",
-    "description": "Make Ubuntu 26.10 yours by following these tweaks and tips.",
-    "guid": "6ad08c89965d0e00015a00d9",
-    "date": "Oct 27, 2026 05:52",
-    "published_at": "2026-10-27T05:52:06Z",
-    "image": "https://itsfoss.com/content/images/2026/10/things-to-do-after-installing-ubuntu-26-10.webp",
-    "source": "itsfoss.com",
-    "source_url": "https://itsfoss.com/"
-  },
-  {
-    "title": "Stalwart 1.0 Open-Source Mail Server Reaches Its First Stable Release",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368516",
-    "description": "After five years of development, Stalwart reaches version 1.0 with performance optimizations, database stability, and email collaboration capabilities.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368516",
-    "date": "Oct 27, 2026 05:42",
-    "published_at": "2026-10-27T05:42:17Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Mozilla Firefox 160 Enters Public Beta Testing, Here’s What to Expect",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368517",
-    "description": "Today, Mozilla promoted the next major release of its open-source web browser, Firefox 160, to the beta channel for public testing, so it’s time to take a look at the new features and improvements.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368517",
-    "date": "Oct 27, 2026 04:43",
-    "published_at": "2026-10-27T04:43:32Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "FOSS Office DevRoom Call for Papers",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368513",
-    "description": "We are inviting proposals for talks about “FOSS Office Software and Suites“. Office productivity software is one of the oldest and most interesting FOSS categories packed with developer interest. It is also an area where lots of new solutions are arriving with new desktop, web-based and mobile editors, as well",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368513",
-    "date": "Oct 27, 2026 03:51",
-    "published_at": "2026-10-27T03:51:32Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "US Designates Helium As a Critical Material",
-    "link": "https://news.slashdot.org/story/26/10/26/227203/us-designates-helium-as-a-critical-material?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "An anonymous reader quotes a report from the Associated Press: The U.S. designated helium as a critical material on Friday because it's indispensable for making semiconductors that are essential to energy generation, and the global supply is at risk of disruption, according to the Energy Department. The designation by the Energy Department means that more federal financing will be available for helium producers and that the government will monitor it more closely. Helium is primarily produced as a byproduct of natural gas processing. The United States is the world's largest producer of natural gas and of helium. Qatar and Russia are the other top helium producers.\n \n[...] Helium makes balloons rise, but that's not why the DOE is interested in it. Helium plays an important role in wind, solar and nuclear energy production, space exploration, medical imaging and research. Assistant Secretary of Energy Audrey Robertson said helium's unique properties make it irreplaceable, such as the fact that it's non-combustible and has the lowest boiling point of any gas. The nation needs an ample supply for semiconductors, quantum and super computing, and superconducting magnets, added Robertson, who oversees the Office of Critical Minerals and Energy Innovation.\n \n[...] Despite environmental concerns with recovering helium from natural gas, there are also opportunities, said Greeshma Gadikota, director of the Lenfast Center for Sustainable Energy at Columbia University. \"If we burn the natural gas, there are a lot of CO2 emissions associated with that,\" Gadikota said. \"But if you just extract the helium and use it, the uses of it don't contribute necessarily to greenhouse gas emissions. \"So from a climate standpoint, if we are going to continue down the line of extracting natural gas and recovering helium,\" she added, \"I would prefer to see natural gas being used in a form where we directly produce hydrogen and we produce solid carbon.\" Hydrogen is a clean burning fuel, and solid carbon can provide permanent carbon sequestration and can be used widely in industrial applications, including rubber and pigments.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 27, 2026 03:30",
-    "published_at": "2026-10-27T03:30:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Systemd Creator’s Startup Opens Signups for Private Preview of its Linux System",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368493",
-    "description": "Amutable Foundations is a read-only, image-based system where every machine produces signed reports of its own state.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368493",
-    "date": "Oct 27, 2026 02:51",
-    "published_at": "2026-10-27T02:51:54Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Initial Support For The Apple M4 \u0026 Apple A18 Pro Make It Into Linux 7.4",
-    "link": "https://www.phoronix.com/news/Linux-7.4-SoCs",
-    "description": "The many SoC patches have landed within the Linux 7.4 kernel providing support for dozens of new boards as well as a number of new SoCs like the Apple M4 and the A18 Pro as found in the MacBook Neo. The Google Tensor 5 was also finally mainlined along with Pixel 10 devices. Plus some unreleased Qualcomm SoC support rounds out the bunch...",
-    "guid": "https://www.phoronix.com/news/Linux-7.4-SoCs",
-    "date": "Oct 27, 2026 00:52",
-    "published_at": "2026-10-27T00:52:15Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Steam Frame VR Headset Sees Mainline Support With Linux 7.4",
-    "link": "https://www.phoronix.com/news/Steam-Frame-FR-Linux-7.4",
-    "description": "The mainline Linux 7.4 kernel will be capable of running  on the Steam Frame VR headset...",
-    "guid": "https://www.phoronix.com/news/Steam-Frame-FR-Linux-7.4",
-    "date": "Oct 27, 2026 00:36",
-    "published_at": "2026-10-27T00:36:40Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "PHP2Shell Security Flaws Now Successfully Exploited",
-    "link": "https://yro.slashdot.org/story/26/10/26/2150206/php2shell-security-flaws-now-successfully-exploited?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "The critical PHP2Shell vulnerabilities (CVE-2026-109618 and CVE-2026-109619) have now been successfully exploited in the wild, just days after patches were released and initial exploitation attempts failed. BleepingComputer reports: The malicious activity was caught by Adel Karimi, detection and response lead at Perplexity, whose honeypots recorded evidence of confirmed remote code execution against an Apache mod_php installation running PHP 8.4.26. \"This is now confirmed RCE with usable memory disclosure, not just a crash followed by a suspicious process. The response delivered an 800 KiB decoded cookie dump, and a function address derived from that dump using the public exploit's offsets appears in the subsequent execution payload,\" Karimi shared.\n \n\"The evidence demonstrates this chain on the intentionally favorable single-worker mod_php profile; it is not a measurement of exploit reliability on other worker counts, PHP builds, or applications,\" he added. Karimi's findings were also confirmed by Expel threat researcher Marcus Hutchins, who has been tracking a stream of alleged successful PHP2Shell exploitation reports.\n \n\"This is by far the highest quality confirmation of in-the-wild php2shell exploitation I've seen so far. Deep technical breakdown of a successful exploitation attempt against an Apache mod_php installation running PHP 8.4.26,\" Hutchins said.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 26, 2026 23:00",
-    "published_at": "2026-10-26T23:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Skydance Offers Buyouts, Gives 5-Day RTO Order",
-    "link": "https://slashdot.org/story/26/10/26/2128235/skydance-offers-buyouts-gives-5-day-rto-order?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Skydance, as it begins integrating Paramount and Warner Bros. Discovery, is offering voluntary buyouts to some employees and imposing a five-day-a-week office requirement. Layoffs are also expected as the company targets more than $6 billion in annualized cost savings within three years. Variety reports: The new program was outlined by chairman and CEO David Ellison and co-CEO Ynon Kreiz in a memo to staffers Monday. \"As we bring our teams together, we recognize that not everyone will see their future here, and we respect that. To give eligible employees the option to move on in a way that works for them, we are introducing a Voluntary Buyout (VBO) Program,\" the execs wrote. \"Those who qualify will receive an individual communication with their personalized details and terms, and a window to decide whether to accept this one-time offer.\"\n \nThey added, \"Please know we don't take any of this lightly. We are clear about what we're building: a company that tells the stories people around the world love, embraces new ways to connect with audiences, and leads the next era of media and entertainment. We have the talent, the creative firepower and the ambition to do it, and we will get there together.\"\n \n[...] In the Oct. 26 memo, Ellison and Kreiz also said the new Skydance is moving to a mandatory five-days-per-week in-office policy across the company. \"We believe in-person collaboration is vital to our culture and to the success of our business. Especially in a creative company like ours, the best ideas come from people in the same room, sharing perspectives, challenging one another and solving problems,\" the execs said. \"We truly believe this is in the best interest of our company and our people. We've seen the benefits firsthand at Paramount, and we want every part of Skydance to share in them.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 26, 2026 22:00",
-    "published_at": "2026-10-26T22:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Linux 7.4 Preps CXL For Very Neat Dynamic Capacity Devices \"DCD\"",
-    "link": "https://www.phoronix.com/news/Linux-7.4-CXL",
-    "description": "The Compute Express Link (CXL) subsystem changes were merged today for the Linux 7.4 kernel. The fun work this cycle is preparing to support Dynamic Capacity Devices...",
-    "guid": "https://www.phoronix.com/news/Linux-7.4-CXL",
-    "date": "Oct 26, 2026 21:05",
-    "published_at": "2026-10-26T21:05:32Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Firefox Tries to Bring Back the Internet's 'Good Old Days'",
-    "link": "https://news.slashdot.org/story/26/10/26/1931208/firefox-tries-to-bring-back-the-internets-good-old-days?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Mozilla launched a new ad campaign for Firefox that leverages early internet nostalgia in a bid to win back users who switched browsers. \"Today's internet tracks you, interrupts you, and asks for permissions it already took. But it wasn't always that way, and it's not how it's supposed to work,\" writes Mozilla CEO Anthony Enzor-DeMeo in a post on LinkedIn. \"It's how a few companies decided it should work, because it pays.\"\n \n\"We're making a different bet at Firefox. Remember us? Well, we're still here, and we don't think the internet should be like this...\" The ad features viral internet stars from yesteryear, including Tay Zonday of \"Chocolate Rain\" fame, Gary Brolsma of \"Numa Numa\", Noah Ritter, better known as the \"Apparently Kid\", and Laina Morris, the face of the \"Overly Attached Girlfriend\" meme, among others.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 26, 2026 21:00",
-    "published_at": "2026-10-26T21:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
   }
 ]
