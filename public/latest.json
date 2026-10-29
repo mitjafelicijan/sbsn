@@ -1,5 +1,182 @@
 [
   {
+    "title": "APT 3.3.5 Released with Up to 20% Faster Dependency Resolution",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368589",
+    "description": "APT 3.3.5 improves dependency solver performance by up to 20%, reduces page faults by 65%, and updates repository signing-key handling.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368589",
+    "date": "Oct 29, 2026 03:35",
+    "published_at": "2026-10-29T03:35:08Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Bank of America Kindly Asks That You Don't Share Your Password With Your AI Assistant",
+    "link": "https://yro.slashdot.org/story/26/10/28/2247205/bank-of-america-kindly-asks-that-you-dont-share-your-password-with-your-ai-assistant?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Longtime Slashdot reader schwit1 shares a report from TechCrunch: In an email blast to customers titled \"Protecting your finances in the Al World,\" Bank of America urged customers to never share their username and password with another person or an outside service, \"including an Al-enabled tool or agent that offers to act on your behalf.\" [...] A spokesperson for Bank of America confirmed the authenticity of the bank's email that was posted to social media. But heed the bank's warning, for if things go wrong, it's on you. Account agreements at most banks hold customers responsible for anyone they give their log-in to. \"If you do share your credentials,\" its email reads, \"keep in mind that you're responsible for activity resulting from that access.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 29, 2026 03:30",
+    "published_at": "2026-10-29T03:30:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Ubuntu Core Desktop ‘accelerating’ development ahead of 27.04",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368590",
+    "description": "Canonical has announced it’s ‘accelerating’ development of Ubuntu Core Desktop, its immutable, snap-based version of its desktop OS. Ubuntu Core Desktop was announced in 2023 and made available in preview for enthusiasts to try. But a lack of of obvious progress and direction (not to mention up-to-date builds) had left many wondering if Canonical was running cool on the idea. Now, things are…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368590",
+    "date": "Oct 29, 2026 02:22",
+    "published_at": "2026-10-29T02:22:00Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "DrupalCon Rotterdam Focuses on Digital Sovereignty and Microsoft 365",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368582",
+    "description": "Summit contributors weigh in on which would be better: Quitting Microsoft 365 cold turkey or a gradual withdrawal.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368582",
+    "date": "Oct 29, 2026 00:49",
+    "published_at": "2026-10-29T00:49:41Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "GXVK: 3Dfx Glide API Implemented Atop Vulkan For Modern Usage",
+    "link": "https://www.phoronix.com/news/GXVK-3Dfx-Glide-Vulkan",
+    "description": "The open-source D7VK project that implements the Direct3D 7 / 6 / 5 / 3 APIs atop the Vulkan API for faster, modern performance is out with a new release. This new D7VK 2.4 release came as a bit of a surprise since it was just last month D7VK announced its maturity status and more or less in maintenance mode. But brought up in today's D7VK 2.4 announcement is an even bigger surprise: there's now an implementation of the 3Dfx Glide API atop Vulkan...",
+    "guid": "https://www.phoronix.com/news/GXVK-3Dfx-Glide-Vulkan",
+    "date": "Oct 29, 2026 00:44",
+    "published_at": "2026-10-29T00:44:56Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "[$] LWN.net Weekly Edition for October 29, 2026",
+    "link": "https://lwn.net/Articles/1102136/",
+    "description": "Inside this week's LWN.net Weekly Edition:\n        \n        \n Front: Python JIT; Kernel clean up; Rust panics; Future Rust features; Northstar browser; 7.4 merge window; Smaller kernel stacks.\n             Briefs: KeePassXC 2.8.0; Redox ring buffers; Rust in systemd; Quotes; ...\n             Announcements: Newsletters, conferences, security updates, patches, and more.\n            ",
+    "guid": "https://lwn.net/Articles/1102136/",
+    "date": "Oct 29, 2026 00:19",
+    "published_at": "2026-10-29T00:19:08Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "RefreshOS 3.1 Strengthens Its Debian Foundation With Independent Package Management",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368583",
+    "description": "The RefreshOS project has released RefreshOS 3.1, bringing an updated Debian foundation, a dedicated software repository, improved 32-bit application compatibility, and several refinements to its KDE Plasma desktop experience. Released on October 27, 2026, the update advances the distribution's 3.x \"Colorful Cosmos\" series while introducing infrastructure that could significantly improve how…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368583",
+    "date": "Oct 28, 2026 23:35",
+    "published_at": "2026-10-28T23:35:25Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Anthropic Engineer Declares the Coding Interview Dead",
+    "link": "https://slashdot.org/story/26/10/28/2222217/anthropic-engineer-declares-the-coding-interview-dead?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An Anthropic engineering manager says he has stopped using traditional coding interviews because AI can now outperform candidates on the kinds of programming challenges they typically contain. \"There's no more point in giving you a little React challenge than there is in quizzing people about assembly; Claude is now better at both,\" said Felix Rieseberg in a blog post. \"Our most impactful builders are successful regardless of how good they are at these tests.\" The Register reports: \"I don't think the coding interview is going to come back,\" said Rieseberg. \"It's easy to get sentimental given how many copies of 'Algorithms and Data Structures' were bought in hopes of unlocking good jobs and a better future -- or how the death of the coding interview is another milestone in software engineering reaching a new level of abstraction.\"\n \nAt the same time, he's not certain what will replace it. \"I'm probably not the only manager trying to figure out how to interview for people who build well with AI,\" Rieseberg wrote. \"I haven't quite gotten there yet -- but I'm scanning resumes and portfolios for little prototypes that exhibit taste, empathy, and principled thinking. If you have figured out something better, I'd love to hear how.\" \nIn a response posted to social media, Jaana Dogan, principal engineer at Google, said: \"I'm not doing a ton of coding interviews nowadays but I'd be interested to interview how people use coding agents,\" she wrote. \"That itself gives me more signals about candidates' coding skills.\"\n \n\"We are not seeing tech companies abandon skills assessments widely across the industry -- at least not yet,\" added Nicole Bachaud, labor economist at ZipRecruiter. \"In fact, based on our October 2026 Employer Survey of 1,500 employers, we see the tech industry (Information sector specifically) is actually the most likely to test for skills, with 62.5 percent of employers requiring formal skill tests on initial applications.\"\n \n\"The change at Anthropic might be reflecting a shift away from technical skills towards more human, soft skills,\" said Bachaud. \"As AI becomes fully capable of writing code, tech employers may be pivoting away from rote technical testing and heavily toward human-centric soft skills.\" She argues that while AI may be able to code well, it can't replace critical thinking. \"A staggering 61.5 percent of Information employers now report that 'critical thinking' is a primary skill lacking in today's candidate pool,\" she said.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 28, 2026 23:00",
+    "published_at": "2026-10-28T23:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "A report from the LPC sched_ext microconference",
+    "link": "https://lwn.net/Articles/1103426/",
+    "description": "The Linux Plumbers Conference blog has a\nreport from the sched_ext microconference held in Prague.\n\n\n\tThree main topics dominated the discussions\n\t\n\t Priority inversion and how to handle it in sched_ext: lock holder and\n  \t     lock waiter preemption, time slice extension, and making proxy execution\n  \t     work together with BPF schedulers.\n         Paravirtualized scheduling: letting the host and guest schedulers\n  \t     cooperate across the VM boundary, with sched_ext as the policy engine on\n  \t     the host.\n         Device and topology-aware scheduling: using hardware feedback (Intel\n  \t     HFI), device/accelerator locality and cache topology to drive task\n  \t     placement.\n\t\n",
+    "guid": "https://lwn.net/Articles/1103426/",
+    "date": "Oct 28, 2026 22:11",
+    "published_at": "2026-10-28T22:11:43Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "Massive Leak Exposes 41,000 Homeland Security Workers",
+    "link": "https://yro.slashdot.org/story/26/10/28/2158201/massive-leak-exposes-41000-homeland-security-workers?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "A massive leak has exposed records tied to more than 41,000 DHS employees and contractors, including roughly 10,000 ICE personnel. The data, reportedly taken from DHS's Okta login system, reveals phone numbers, email and office addresses, reporting relationships, and permission groups associated with undercover operations, wiretapping and surveillance tools. Wired reports: In all, the leak provides a map of how DHS is organized and how it operates. The records, which span DHS itself as well as seven component agencies, including Immigration and Customs Enforcement and US Customs and Border Protection, were last updated on August 19, 2026.\n \nThe transparency nonprofit Distributed Denial of Secrets and cybersecurity researcher and journalist maia arson crimew previewed the data to WIRED, which they say they obtained from a group calling itself the Department of Peace. DDoSecrets published the archive, which it calls \"Icepick,\" on Wednesday. In a press release, DDoSecrets says the data is from DHS's Okta login system. In a note with the files, the hackers wrote, \"They have our information, so it's only fair that we have theirs.\" An Okta spokesperson tells WIRED that it is unaware of any breach of its systems. \"We are aware of this report. Okta is secure, and we have no evidence our data or systems were compromised,\" the spokesperson says.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 28, 2026 22:00",
+    "published_at": "2026-10-28T22:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Amazon Puts a Camera In Its Echo Studio So Alexa Can See",
+    "link": "https://yro.slashdot.org/story/26/10/28/191236/amazon-puts-a-camera-in-its-echo-studio-so-alexa-can-see?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Amazon has added a camera to its Echo Studio speaker, allowing Alexa to visually identify objects, help with tasks and remotely monitor a room. For those concerned about privacy, Amazon is keeping a camera-free version available. The Next Web reports: The camera speaker ships today for $249.99. Hold up a board game box and Alexa can explain the rules, or show it a box of cereal and it can help you reorder it, according to Amazon. Owners can also check in on the room from the Alexa app while they are away. The Echo Studio without a camera stays on sale at $219.99.\n \nA dedicated button turns off the microphones and any camera, and a visual indicator shows when a camera streams images or video to the cloud, Amazon said. Certain features require Alexa+, which is included with a Prime membership. Other devices Amazon unveiled today include an Echo Time alarm clock, an Alexa Photo Frame and the Echo Show 16.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 28, 2026 21:00",
+    "published_at": "2026-10-28T21:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Ghostty 1.4 Is Faster and Uses Less RAM, but Drops Ubuntu 24.04 LTS Support",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368564",
+    "description": "The Ubuntu 24.04 support drop is thanks to the native builds requiring some newer dependencies. Anyhow, there’s more to this Ghostty release than that.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368564",
+    "date": "Oct 28, 2026 20:02",
+    "published_at": "2026-10-28T20:02:45Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Are AI Execs Too Out of Touch To Build For the General Public?",
+    "link": "https://slashdot.org/story/26/10/28/199238/are-ai-execs-too-out-of-touch-to-build-for-the-general-public?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from TechCrunch: Former Yahoo CEO and early Google engineer Marissa Mayer is catching a lot of flak for how she uses AI. In an interview about her new app Dazzle, an AI assistant that learns from your camera roll, Mayer poses what she believes is an impressive flex for the product: It helped her come up with three bullet points about her 10-year-old daughter for a birthday presentation at school, describing her as \"empathetic, creative, and an animal lover.\"\n \nIt's a vague description, like a generic horoscope -- it could probably describe a lot of 10-year-olds. Some onlookers, like progressive activist Leah Greenberg, marveled that \"the fact that Marissa Mayer would voluntarily disclose this to a reporter is a pretty good demonstration of how deeply the culture of Silicon Valley has diverged from the rest of humanity.\" [...] After publication, Mayer defended herself in a long X post. She claims she was not relying on Dazzle to explain her child to her, but rather, she was testing what her prototype could do -- it resurfaced photos of \"forgotten kindergarten projects,\" like a \"snake devenomer\" or \"sandcat playground,\" illustrating her daughter's creativity and care for animals.\n \nFair enough. But Mayer remarks in the same interview that people could also use her AI to outsource the mental load of \"figuring out the theme for your child's birthday party.\" She says she's used her app to plan a playdate for her daughter, book family activities on vacation, and decide what to be for Halloween. She even proposes that her AI assistant could coordinate plans with her husband's AI assistant. When the reporter asks her if it's depressing to imagine this \"frictionless future planned by AI,\" Mayer replies, \"I haven't really thought that through.\" The bigger question is: What should we outsource to AI? \"What feels like grunt work to someone might be a meaningful part of parenthood for someone else,\" says Fortune's Emma Hinchliffe.\n \nMichael Tasner, Founder and CEO of No Joke Marketing, adds: \"Customers are drowning in AI slop, and they can spot it. Use AI for the low-stakes work behind the scenes. Keep the moments that matter to your customers human. Human connection is becoming the new premium.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 28, 2026 20:00",
+    "published_at": "2026-10-28T20:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Linux Kernel Developers Considering Removal Of KGDB Debugging Functionality",
+    "link": "https://www.phoronix.com/news/Linux-Considers-Dropping--KGDB",
+    "description": "Merged to the kernel all the way back in Linux  2.6.26 in 2008 was KGDB for improving the kernel debugging experience. KGDB works in conjunction with the GNU Debugger (GDB) to debug the kernel in a similar fashion to user-space debugging. KGDB requires the use of a second computer connected via serial or network cable. KGDB isn't widely used in recent years and a patch was floated today to remove it from the Linux kernel...",
+    "guid": "https://www.phoronix.com/news/Linux-Considers-Dropping--KGDB",
+    "date": "Oct 28, 2026 19:15",
+    "published_at": "2026-10-28T19:15:07Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Amazon Finds 'Tokenmaxxing' Lacks Productivity Gains",
+    "link": "https://tech.slashdot.org/story/26/10/28/1816223/amazon-finds-tokenmaxxing-lacks-productivity-gains?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Ancient Slashdot reader Gilmoure shares a report from Tom's Hardware, adding: \"Huh. Looks like consuming one's own slop does not turn the wheels of industry.\" From the report: Amazon wants its engineers to quit chasing token counts, warning that heavy AI usage does not automatically mean better work. In updated engineering guidelines published on October 27, the company laid out how developers and managers should gauge AI's real impact -- and the takeaway is blunt: consuming more tokens is not the same as delivering more value. [...]\n \nAccording to the memo, metrics such as AI adoption rates, token consumption, code changes, and code reviews become \"deeply flawed\" when they are disconnected from actual results. Turning them into targets, Amazon says, encourages wasteful behavior that clashes with its emphasis on \"frugality and simplicity\" and can raise both compute bills and software complexity.\n \nThe company's preferred yardstick is long-term results. \"We believe that it is best to measure, and be measured by, long-term outcomes,\" Amazon wrote. That does not mean managers should ignore usage data altogether, as input metrics remain useful when examined \"with care and judgment\" alongside other indicators. Amazon suggests looking at both the teams using AI the least and those using it the most to determine whether adoption is translating into better delivery.\n \n[...] The memo also pushes back on the idea that every task needs an AI tool. If current tooling does not benefit someone's work, Amazon says, that is \"a finding, not a failing.\" Engineers who can explain where today's tools fall short are demonstrating judgment rather than reluctance to adopt AI.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 28, 2026 19:00",
+    "published_at": "2026-10-28T19:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Hyprland 0.57 Released with New Blur Effects, Workspace Sharing",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368571",
+    "description": "Hyprland 0.57 introduces new blur effects, workspace-specific screen sharing, wobbly window animations, and Lua configuration improvements.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368571",
+    "date": "Oct 28, 2026 18:53",
+    "published_at": "2026-10-28T18:53:08Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Apple Announces Its First Touchscreen MacBook Pro",
+    "link": "https://hardware.slashdot.org/story/26/10/28/1732233/apple-announces-its-first-touchscreen-macbook-pro?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Apple has unveiled its first touchscreen MacBook Pro, reversing a position the company held for more than 15 years that touchscreens were poorly suited for laptops. 9to5Mac reports: The new machine features a light-up Apple logo, tandem OLED, and touch input on the display. It runs on the M5 Pro and M5 Max chips, like the existing MacBook Pro models without OLED touch displays. John Ternus, who is rocking a new profile picture with the new Mac, shared the first look at the new machine on X. Pricing for the new laptop starts at $2899 for the 14-inch model. The 16-inch version starts at $3399. \nPre-orders are available starting today with deliveries starting November 6.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 28, 2026 18:00",
+    "published_at": "2026-10-28T18:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
     "title": "System76 Introducing AMD-Powered Linux Small PC",
     "link": "https://www.phoronix.com/news/System76-Thelio-Prime-Mini-PC",
     "description": "System76 began teasing today the new Thelio Prime Desktop as an AMD-powered Linux mini PC that will begin shipping in November...",
@@ -334,17 +511,6 @@
     "source_url": "https://www.phoronix.com/"
   },
   {
-    "title": "Ghostty 1.4 Is Faster and Uses Less RAM, but Drops Ubuntu 24.04 LTS Support",
-    "link": "https://feed.itsfoss.com/link/24361/17508486/ghostty-1-4-release",
-    "description": "The Ubuntu 24.04 support drop is thanks to the native builds requiring some newer dependencies. Anyhow, there’s more to this Ghostty release than that.",
-    "guid": "6ae188df1b851a0001833bb3",
-    "date": "Oct 28, 2026 10:09",
-    "published_at": "2026-10-28T10:09:27Z",
-    "image": "https://itsfoss.com/content/images/2026/10/ghostty-1-4-release-banner.png",
-    "source": "itsfoss.com",
-    "source_url": "https://itsfoss.com/"
-  },
-  {
     "title": "NTFS3 Hardened In Linux 7.4 Against Corrupted Or Maliciously-Crafted NTFS Volumes",
     "link": "https://www.phoronix.com/news/Linux-7.4-NTFS3",
     "description": "Paragon Software's Konstantin Komarov sent out the latest NTFS3 driver updates for this in-kernel NTFS read/write driver. With Linux 7.4, the NTFS3 driver is focused on being hardened against corrupted or maliciously-crafted NTFS volumes...",
@@ -427,26 +593,6 @@
     "source_url": "https://slashdot.org/"
   },
   {
-    "title": "Fedora Linux 45 Delayed Again, New Release Date Set for November 3",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368548",
-    "description": "Fedora Linux 45 faces another delay due to unresolved blocker bugs, pushing its target release date to November 3, 2026.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368548",
-    "date": "Oct 28, 2026 03:26",
-    "published_at": "2026-10-28T03:26:17Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "(Updated) ESP-Mosaico centers dual-core RISC-V ESP32-S31 around a 2.16-inch square AMOLED",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368556",
-    "description": "The Espressif ESP-Mosaico is an expandable smart-interaction development kit based on the ESP32-S31 microcontroller. The compact device integrates a 2.16-inch square touch display, audio hardware, motion and magnetic sensors, NAND storage, haptic feedback and dual expansion interfaces for HMI, edge voice and multimedia applications. The ESP32-S31NRV16 at the center of the board provides two…",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368556",
-    "date": "Oct 28, 2026 02:11",
-    "published_at": "2026-10-28T02:11:46Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
     "title": "Wine Merges Support For MESA_map_buffer_client_pointer To Improve WoW64 32-bit OpenGL",
     "link": "https://www.phoronix.com/news/Wine-Mesa-Map-Buffer-Client-Ptr",
     "description": "An initiative led by CodeWeavers this year has come to fruition for improving OpenGL support with WoW64 for bettering Windows 32-bit application/game support while using 64-bit system libraries...",
@@ -468,33 +614,12 @@
     "source_url": "https://slashdot.org/"
   },
   {
-    "title": "LXer now speaks Markdown",
-    "link": "https://lxer.com/module/newswire/view/368552/index.html",
-    "description": "LXer's forums, story submissions and private mail now use Markdown, the plain-text way of formatting made popular by GitHub and others, complete with tables, footnotes and LaTeX math. Here is how it works on LXer, and how sixty years of text formatters, from RUNOFF to BBCode, led to it.",
-    "guid": "https://lxer.com/module/newswire/view/368552/index.html",
-    "date": "Oct 27, 2026 22:08",
-    "published_at": "2026-10-27T22:08:18Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
     "title": "Growing List of Firms Object to OKX-ICE Tokenized Stock Plans",
     "link": "https://news.slashdot.org/story/26/10/27/2130245/growing-list-of-firms-object-to-okx-ice-tokenized-stock-plans?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
     "description": "Intel, Oracle, IBM and IonQ have joined a growing list of companies objecting to having tokenized versions of their shares traded through OKX and Intercontinental Exchange's blockchain venture, bringing the total number of objections to 26. About 37% of the companies on OKXICE's original list have now opted out, according to CoinDesk. From the report: The four companies were named in an updated public notice (PDF) dated Monday, Oct. 26, from OKXICE, the two firms' joint venture. They join earlier objectors including Microsoft, Alphabet, Goldman Sachs, Cisco and Wells Fargo. The growing list underscores a hurdle for OKXICE and the SEC's new framework for tokenized stock trading: building a market that issuers are willing to join. The agency's five-year \"Innovation Exemption\" gives qualifying venues room to test round-the-clock blockchain-based trading of stocks, and it also gives public companies an option to block their shares from being offered.\n \nOKXICE issued its initial public notice on Oct. 4, outlining plans to use Uniswap v4 liquidity pools on OKX's XLayer blockchain, with transactions settled in stablecoins. The venue would use automated market makers -- software that executes trades through pools of assets rather than matching buyers and sellers through a conventional order book. Under the framework, venues must notify issuers and give them 30 days to object before offering tokenized versions of their shares.\n\n\n\n\n\nRead more of this story at Slashdot.",
     "guid": "",
     "date": "Oct 27, 2026 22:00",
     "published_at": "2026-10-27T22:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Code-Execution Flaw In UEFI Firmware Threatens Most Servers On Planet Earth",
-    "link": "https://it.slashdot.org/story/26/10/27/2121232/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Ars Technica's Dan Goodin reports: Defenders across the world face the burden of responding to yet another botched code-execution vulnerability, this time in boot-time firmware used by most of the world's server vendors and data centers. The vulnerability, with a severity rating of 9.5 out of 10, resides in the TianoCore EDK II, an open source codebase that hardware makers and cloud providers use to create the UEFI firmware that runs during the boot-up sequence. Last year, a representative of the UEFI Forum called (PDF) EDK2 the \"preeminent solution / implementation of the UEFI specifications.\" Virtually all UEFI suppliers (sometimes still called IBVs or independent BIOS vendors), including AMI, Insyde, and Phoenix, use the reference code extensively. Project Mu, Microsoft's hardened EDK2 fork, used the code containing the vulnerable component as well.\n \nThe vulnerability, tracked as CVE-2026-97631, is a memory-corruption flaw in an ICMP component that attackers can exploit to execute malicious code that runs before the operating system and firmware can implement defenses like Secure Boot, which establishes a chain of trust for all code, including the Trusted Platform Module (TPM), loaded during boot. While final payloads delivered by CVE-2026-97631 have no persistence -- meaning they run only once -- they can give attackers a wide opening to install other payloads that also run each time early in the boot process.\n \nThe parties that discovered CVE-2026-97631 -- Alex Matrosov of Anthropic and Dan Holmes of Google -- had arranged for it to stay under wraps until a coordinated disclosure that was scheduled for January. AMI, a maker of motherboards and other hardware, published this pull request last month that detailed the vulnerability and included a code fix. Once the post came to the attention of the discovering parties, TianoCore Project members published a public advisory last week. With publicly available patch code, it will be trivial for advanced hackers to learn how the vulnerability is triggered and to build working exploits. Further compounding the urgency, patching UEFI code vulnerabilities in millions of end devices sold and used by thousands of hardware makers and cloud providers is cumbersome and time-consuming.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 27, 2026 21:30",
-    "published_at": "2026-10-27T21:30:00Z",
     "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
     "source": "slashdot.org",
     "source_url": "https://slashdot.org/"
@@ -510,296 +635,12 @@
     "source_url": "https://www.phoronix.com/"
   },
   {
-    "title": "Mozilla Firefox 159 Improves Linux Wayland Support, Adds New Tab Search",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368523",
-    "description": "Firefox 159 fixes Wayland tab detachment and AMD GPU memory issues on Linux while adding tab search shortcuts and new web platform features.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368523",
-    "date": "Oct 27, 2026 20:30",
-    "published_at": "2026-10-27T20:30:21Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Google's Genie 4 World Model Adds Audio, More Realistic Worlds",
-    "link": "https://tech.slashdot.org/story/26/10/27/1841227/googles-genie-4-world-model-adds-audio-more-realistic-worlds?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "An anonymous reader quotes a report from TechCrunch: Google DeepMind released its newest world model, Genie 4, in research preview on Tuesday. The latest model generates the most photorealistic and interactive worlds yet, allowing users to type prompts mid-simulation to change the scene. The model also generates real-time audio that matches the simulated world, including music, ambient noises, and interactive dialogue.\n \n[...] Google released its predecessor, Genie 3, as a research preview a little over a year ago. Aside from being far more photorealistic and featuring audio, Genie 4 allows for freeform edits, like changing the weather or camera angle in real time or adding new people or objects. It can maintain a consistent scene for up to two minutes, double its predecessor's limit, and offers better physics and more human-like characters. Gemini, Google's AI model, is also mo \"What we'll increasingly see in the future are these hybrid world models, where you have a combination of Gemini writing code and text, and Genie ingesting that in real time and simulating reality at different levels of abstraction,\" Tejas Kulkarni, research director at Google, said during a briefing.\n \nGenie 4 is now available to select testers, with a broader rollout planned in the coming weeks for Google AI Ultra subscribers.\n \nYou can watch a demo of Genie 4 on YouTube.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 27, 2026 20:00",
-    "published_at": "2026-10-27T20:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
     "title": "Raspberry Pi Zero 3 W \u0026 Raspberry Pi 4 Model A Surface In Linux Kernel Patches",
     "link": "https://www.phoronix.com/news/Raspberry-Pi-Zero-3-W-Pi-4-A",
     "description": "It looks like a next-generation Raspberry Pi Zero is about to surface, the long-awaited Raspberry Pi Zero 3 W. And in an interesting twist in these times amid high PC component costs and supply chain constraints, a Raspberry Pi 4 Model A...",
     "guid": "https://www.phoronix.com/news/Raspberry-Pi-Zero-3-W-Pi-4-A",
     "date": "Oct 27, 2026 19:53",
     "published_at": "2026-10-27T19:53:34Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "In a Setback to VMWare, Tesco is Looking to Migrate to Proxmox",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368527",
-    "description": "Tired of the rising licensing cost of VMWare, Tesco seems to be looking to switch to Proxmox.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368527",
-    "date": "Oct 27, 2026 19:17",
-    "published_at": "2026-10-27T19:17:55Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Anduril Partners With Qualcomm to Build Laptops On US Soil",
-    "link": "https://news.slashdot.org/story/26/10/27/1833240/anduril-partners-with-qualcomm-to-build-laptops-on-us-soil?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Longtime Slashdot reader fadethepolice writes: Anduril, arguing that its manufacturing capabilities are directly applicable to laptop manufacturing, is starting a project for a fully 100% U.S.-sourced laptop. The computer will use a Qualcomm Snapdragon SoC. I did not see any information about the OS, but I'm assuming that, given the type of processor, this will be Linux-based? \"Other companies might design their computers in the U.S., Anduril makes them here,â the Anduril founder Palmer Luckey said in a YouTube video. \"We're making parts out of metals that the U.S. knows how to extract, knows how to refine, knows how to process, and knows how to mill at scale at a reasonable price; and that goes for the entire laptop. The same thing goes for the battery technology.\"\n \nThe project, called BlueChip, \"will take a phased approach, beginning with expanding domestic sourcing and manufacturing, progressing toward eliminating reliance on foreign suppliers, and ultimately establishing an end-to-end American supply chain.\" The first device is expected in April 2027.\n \nA press release with additional information is available here.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 27, 2026 19:00",
-    "published_at": "2026-10-27T19:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Apple's Foldable iPhone Duo Draws Early Complaints of the Screen Cracking",
-    "link": "https://hardware.slashdot.org/story/26/10/27/1630226/apples-foldable-iphone-duo-draws-early-complaints-of-the-screen-cracking?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Apple has acknowledged an inner-display defect affecting a small number of its new $1,999 iPhone Duo foldables after customers reported hearing a crunch while unfolding the device before cracks, lines and other display failures appeared along the crease. Apple is replacing affected phones and investigating the problem.\n \niFixit believes a failing hinge component may be pressing into and cracking the display rather than the panel itself being defective. Bloomberg reports: Reports of the problem first surfaced on Reddit and other social media sites. Bloomberg News has since independently verified the issue with more than half a dozen customers, who provided photos showing damage to their devices or evidence of their support conversations with Apple. Apple acknowledged the issue in a statement, saying it was \"aware of an issue impacting the inner display on a small number of iPhone Duo units.\"\n \n\"If users experience issues with their iPhone Duo display, they should contact AppleCare for a replacement,\" the Cupertino, California-based company said. Most Duos aren't affected by the problem, and the units that are impacted exhibit the defect quickly, Apple said.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 27, 2026 18:00",
-    "published_at": "2026-10-27T18:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Cybersecurity CEO Indicted For Allegedly Scamming Millions From Ransomware Victims",
-    "link": "https://it.slashdot.org/story/26/10/27/1550230/cybersecurity-ceo-indicted-for-allegedly-scamming-millions-from-ransomware-victims?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "An anonymous reader quotes a report from ProPublica: A Florida man who was the subject of a 2019 investigation by ProPublica was indicted last month on federal charges that he defrauded clients of his ransomware data recovery firm. According to the Justice Department, the man, Zohar Pinhasi, told customers he could recover their encrypted files without having to pay hackers, when, in reality, he paid the ransom and charged victims a hefty fee on top. The indictment mirrors the findings from ProPublica's 2019 article \"The Trade Secret,\" which centered on Pinhasi and his scheme.\n \nThe outlet found that the ransomware victims were being harmed twice: once by the hackers, who locked their targets' files and demanded ransom, and a second time by MonsterCloud, Pinhasi's Florida-based data recovery firm, which misled its clients about not paying ransoms. \"By falsely claiming to decrypt ransomware without paying off the ransomers, the defendant re-victimized his clients while extracting a hefty profit for himself,\" U.S. Attorney Joseph Nocella said in an Oct. 7 press release. \"Our Office will vigorously prosecute ransomware attackers who prey on Americans from across the world and those who cynically profit from their criminal activity.\" [...] Pinhasi, who went by the alias Zack Green, told ProPublica in 2019 that MonsterCloud never promised clients that their data will be recovered by any particular method. \"How we do it, it's our problem,\" he told ProPublica. \"You will get your data back. Sit back, relax and enjoy the ride.\" He called MonsterCloud's data recovery methods a \"trade secret.\"\n \n[...] Federal investigators found that, over the course of the scheme, Pinhasi allegedly charged clients more than $19 million and paid more than $8 million in ransom payments. In one example, Pinhasi made a ransom payment of about $8,200 but charged the client about $150,000. If convicted, he faces up to 20 years in prison. [...] In 2019, Pinhasi touted MonsterCloud's ties to law enforcement as evidence of its integrity. Pistole, who also headed the Transportation Security Administration under President Barack Obama, was listed on MonsterCloud's website as the only member of its \"Cyber Security Advisory Council.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 27, 2026 17:00",
-    "published_at": "2026-10-27T17:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "RefreshOS 3.1 Released with Debian 13.7 Base, New APT Repository",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368529",
-    "description": "RefreshOS 3.1 updates its Debian base to 13.7, introduces a dedicated APT repository, enables 32-bit support, and improves system maintenance.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368529",
-    "date": "Oct 27, 2026 16:52",
-    "published_at": "2026-10-27T16:52:50Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "KDE Fixes 15 Year Old Bug Over Inaccurate Notifications When Copying Files To USB Drives",
-    "link": "https://www.phoronix.com/news/KDE-Fixes-15-Year-Old-Bugs",
-    "description": "A long-standing KDE bug is set to be resolved with next month's KDE Frameworks 6.32 release...",
-    "guid": "https://www.phoronix.com/news/KDE-Fixes-15-Year-Old-Bugs",
-    "date": "Oct 27, 2026 16:50",
-    "published_at": "2026-10-27T16:50:22Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Apple Updates MacBook Pro With M6 Chips",
-    "link": "https://apple.slashdot.org/story/26/10/27/1541235/apple-updates-macbook-pro-with-m6-chips?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Ahead of the touchscreen MacBook Pro expected to debut tomorrow, Apple has refreshed its standard 14-inch MacBook Pro with the new M6 processor, promising up to 20% faster multithreaded performance, improved power efficiency, and more powerful on-device AI capabilities. The Verge reports: Announced this morning through a press release, the new 14-inch MacBook Pro features three Thunder 4 USB-C ports that all support charging and DisplayPort connectivity, a MagSafe 3 charging port, full-size HDMI, and an SDXC memory card slot accommodating photographers. Pricing for the new M6 version of the 14-inch MacBook Pro starts at $1,999 with 16GB of memory, the same as last year's M5 model. Preorders start on October 28th and shipping is expected to begin on November 6th.\n \nThe new M6 processor is Apple's first 2nm chip with a bump to a 12-core CPU, up from 10 cores in the M5, and the company says it offers up to 1.2x faster multithreaded performance when compared to its predecessor. The M6 also features a Dual 16-core Neural Engine to handle heavy on-device AI tasks, plus an upgraded 12-core GPU with a Neural Accelerator in each core. In addition to performance improvements, Apple says its M6 processor is more power efficient.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 27, 2026 16:00",
-    "published_at": "2026-10-27T16:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "RefreshOS 3.1 Strengthens Its Debian Foundation With Independent Package Management",
-    "link": "https://www.linuxjournal.com/content/refreshos-31-strengthens-its-debian-foundation-independent-package-management",
-    "description": "\n    \n      \n              \n      \n            by George Whittaker\n      \n            The RefreshOS project has released RefreshOS 3.1, bringing an updated Debian foundation, a dedicated software repository, improved 32-bit application compatibility, and several refinements to its KDE Plasma desktop experience. Released on October 27, 2026, the update advances the distribution's 3.x \"Colorful Cosmos\" series while introducing infrastructure that could significantly improve how RefreshOS delivers its own packages and configuration changes.\n\nThe new release moves from Debian 13.4 to Debian 13.7 \"Trixie\", incorporates Linux kernel 6.12.113, and continues using KDE Plasma 6.3.6. However, the most important development is the introduction of an official RefreshOS APT repository with separate Stable, Testing, and Experimental channels. This gives the project a more structured way to distribute customized software while continuing to benefit from Debian's established package ecosystem.\n\nRefreshOS 3.1 also enables i386 architecture support, making it easier to install compatible 32-bit software and dependencies required by applications such as Steam. Additional changes address desktop localization, KDE integration, installer configuration, package permissions, and installation image cleanup. Together, these improvements represent an effort to make RefreshOS easier to maintain while preserving its focus on a ready-to-use Linux desktop.\n\nRefreshOS Builds on Debian's Stable Release Model\n\nRefreshOS is a Debian-based Linux distribution developed by eXybit Technologies, designed to provide a polished desktop environment without requiring users to configure every component manually. The project combines Debian's stable package foundation with KDE Plasma, preinstalled applications, hardware support, multimedia capabilities, and custom desktop styling.\n\nUnlike distributions that emphasize constant adoption of the newest software versions, RefreshOS prioritizes a relatively predictable desktop experience. Its Debian foundation provides access to established security maintenance, package management, and compatibility practices, while RefreshOS adds its own configuration choices to simplify everyday use.\n\nVersion 3.1 continues that philosophy by incorporating Debian 13.7, the seventh point release of Debian 13 \"Trixie.\" Debian published this update on September 12, 2026, primarily to consolidate security corrections and fixes for significant software problems. These point releases do not represent entirely new Debian generations. Instead, they refresh installation media and package selections so newly installed systems begin with a more current collection of fixes.\n      \n              Go to Full Article\n\n      \n    \n  ",
-    "guid": "1341474 at https://www.linuxjournal.com",
-    "date": "Oct 27, 2026 16:00",
-    "published_at": "2026-10-27T16:00:00Z",
-    "image": "https://www.linuxjournal.com/sites/default/files/nodeimage/story/refreshos-3-1-strengthens-its-debian-foundation-with-independent-package-management.jpg",
-    "source": "linuxjournal.com",
-    "source_url": "https://www.linuxjournal.com/"
-  },
-  {
-    "title": "What is a Kernel? | Center of Operating System?",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368525",
-    "description": "The kernel is the core of the system that bridges the hardware and software layers and smoothly creates interaction between them to transport data.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368525",
-    "date": "Oct 27, 2026 15:45",
-    "published_at": "2026-10-27T15:45:52Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Rocky Linux Creator Built a New \"Not Linux\" Kernel in 11 Days Using AI",
-    "link": "https://feed.itsfoss.com/link/24361/17507740/ginux",
-    "description": "Ginux is not a Linux fork, yet it boots Rocky Linux 10 all the way to systemd. An OpenAI Codex agent wrote about 139,000 lines of it.",
-    "guid": "6ae0a89a8bfa1e0001939d0a",
-    "date": "Oct 27, 2026 15:31",
-    "published_at": "2026-10-27T15:31:43Z",
-    "image": "https://itsfoss.com/content/images/2026/10/ginux.png",
-    "source": "itsfoss.com",
-    "source_url": "https://itsfoss.com/"
-  },
-  {
-    "title": "Bullet Banshee puts a survivor-like spin on classic shoot 'em up action",
-    "link": "https://www.gamingonlinux.com/2026/10/bullet-banshee-puts-a-survivor-like-spin-on-classic-shoot-em-up-action/",
-    "description": "Bullet Banshee is a vertical-scrolling shoot 'em up that blends in the survivor-like bullet heaven mechanics for upgrades to great effect.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/10/bullet-banshee-puts-a-survivor-like-spin-on-classic-shoot-em-up-action/",
-    "date": "Oct 27, 2026 15:06",
-    "published_at": "2026-10-27T15:06:28Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1301632818id30067gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "In China, the AI Bubble Has Already Burst",
-    "link": "https://slashdot.org/story/26/10/27/0218203/in-china-the-ai-bubble-has-already-burst?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "An anonymous reader quotes a report from Reuters: While global tech stocks teeter, in China they have already crashed as lofty valuations collapse under worries about AI demand and curbs on Chinese exports. The meltdown, tanking the mainland STAR50 index of AI and semiconductor leaders by 40% in less than four months and vaporizing some $480 billion in market value, is an ill omen for wobbly world markets and a dampener on China's efforts at encouraging its savers into stocks to fund the AI boom. It has also slammed the brakes on a rally running two years, since economic stimulus promises sent shares soaring, and has stalled Beijing's push to break with a long boom-bust pattern and drive a \"slow bull\" market that delivers reliable performance. China's broad blue-chip index has dropped about 20% from highs made in June. \"The stock market later evolved into a speculative crazy bull,\" said Beijing-based fund manager Dong Baozhen. \"And now we see the bubble bursting.\" There was no clear trigger for the selloff in China, though traders pointed to high valuations, tax bills, and the threat of foreign bans on Chinese data center equipment. According to Goldman Sachs, AI stocks account for 42% of China's market capitalization and 57% of trading turnover, leaving investors widely exposed to the downturn. \n\"What's happening is now going to put a stop for many of the companies trying to get themselves listed,\" said Hong Hao, managing partner and chief investment officer at Lotus Asset Management in Hong Kong.\n \n\"Overemphasising the 'technology content' -- that is, the weighting of tech companies by market value in major indexes -- leads to a deviation, even a distortion, in capital behavior,\" said Leo Wang, partner at Beijing-based Qianchuang Capital. \"This created a severe bubble in certain sectors and a serious drain on others.\"\n \n\"Just like all other Chinese manufacturers, (chipmakers and AI suppliers) will eventually end up in a price war,\" said fund manager Wang Zhuo, partner at Shanghai Zhuozhu Investment Management. \"There's no exception,\" he said. \"All bubbles inevitably burst.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 27, 2026 15:00",
-    "published_at": "2026-10-27T15:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "[$] Guidelines for panics in kernel code",
-    "link": "https://lwn.net/Articles/1100873/",
-    "description": "\nAlexandre Courbot spends most of his time working on the kernel doing code\nreviews. Recently, he's been wondering about what the standards should be for\nwhen Rust code is allowed to panic, and how it should do error handling more\ngenerally. Unlike many of the other talks at Kangrejos 2026, his talk was not\npresenting some existing work, but rather hoping to solicit opinions on the\ntopic from the assembled Rust for Linux developers. He brought along a collection of tricky\ncases that he had run into recently to prompt discussion.\n",
-    "guid": "https://lwn.net/Articles/1100873/",
-    "date": "Oct 27, 2026 13:56",
-    "published_at": "2026-10-27T13:56:24Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "Security updates for Tuesday",
-    "link": "https://lwn.net/Articles/1103188/",
-    "description": "Security updates have been issued by AlmaLinux (bind, bind9.18, brotli, buildah, container-tools:4.0, container-tools:rhel8, firefox, flatpak, freeipmi, gcc, golang, grafana, httpd, kernel, kernel-rt, libreswan, libX11, lrzsz, nodejs:14, nodejs:18, oci-seccomp-bpf-hook, podman, python-urllib3, python3.9, python38:3.8 and python38-devel:3.8, skopeo, thunderbird, xorg-x11-server, and xz), Debian (inkscape, swupdate, thunderbird, and valkey), Fedora (brotli, dolphin, helix, kernel, libical, mingw-python3, nsd, perl-Alien-Brotli, perl-Plack, perl-Plack-Middleware-ReverseProxy, rust-dua-cli, rust-gengo-bin, rust-gitui, stgit, unshield, and webkitgtk), Mageia (evolution, freetype2, ghostscript, kronosnet, libde265, libical, libjxl, packages, perl-DBI, perl-ExtUtils-Typemaps-Default, perl-Imager, vim, and webkit2), Oracle (bind, bind9.18, brotli, buildah, ca-certificates, firefox, flatpak, freeipmi, grafana, httpd, kernel, libreswan, libX11, lrzsz, nodejs22, nodejs24, nodejs:22, oci-seccomp-bpf-hook, perl-DBI:1.641, perl:5.32, postfix, postgresql16-pgvector, postgresql18-pgvector, python3.9, skopeo, unbound, xorg-x11-server, and xz), Red Hat (grafana, grafana-pcp, python3.12-urllib3, and python3.14-urllib3), SUSE (ca-certificates-mozilla, chromium, gn, cifs-utils, containerd, cpupower, cyrus-sasl, gcc13, gcc7, go1.26, go1.27, google-osconfig-agent, kernel, kubernetes-old, libsoup, libX11, libXi, openssh, podman, python-nltk, python-PyJWT, python-social-auth-core, rekor, runc, suseconnect-ng, and unbound), and Ubuntu (brotli and nginx).",
-    "guid": "https://lwn.net/Articles/1103188/",
-    "date": "Oct 27, 2026 13:37",
-    "published_at": "2026-10-27T13:37:48Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": " Hacker awarded $50k bounty for reporting bug to Sony that allowed PS5 Linux exploit ",
-    "link": "https://www.tomshardware.com/video-games/playstation/hacker-awarded-usd50k-bounty-for-reporting-bug-to-sony-that-allowed-ps5-linux-exploit-move-sparks-backlash-from-jailbreaking-community",
-    "description": " The hypervisor bug that allowed PS5 users to install Linux on their consoles was patched before the launch of GTA VI, meaning they have to choose between experimenting with Linux and running the game. ",
-    "guid": "vuCkRZtd28D8XjeN2cVoh8",
-    "date": "Oct 27, 2026 13:22",
-    "published_at": "2026-10-27T13:22:04Z",
-    "image": "https://cdn.mos.cms.futurecdn.net/tg95hzQEgMNoJTJZHb5oXU-1920-80.png",
-    "source": "tomshardware.com",
-    "source_url": "https://www.tomshardware.com/software/operating-systems/linux"
-  },
-  {
-    "title": "Pavee OS: Ikey Doherty's New Daily-Driver Desktop Distro Being Built Atop Barney",
-    "link": "https://www.phoronix.com/news/Pavee-OS",
-    "description": "Back in September Ikey Doherty of Solus Linux and Serpent OS notoriety as well as being a former Intel Clear Linux developer announced  Barney as his planned showcase for how to \"properly\" build a modern Linux distribution in 2026+. Today he's provided an update on this Barney distro tooling effort as well as announcing Pavee OS as his planned daily-driver desktop distribution built atop it...",
-    "guid": "https://www.phoronix.com/news/Pavee-OS",
-    "date": "Oct 27, 2026 13:11",
-    "published_at": "2026-10-27T13:11:30Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "KDE Plasma 6.8.2 Released With Dozens Of Additional Bug Fixes",
-    "link": "https://www.phoronix.com/news/KDE-Plasma-6.8.2",
-    "description": "Debuting two weeks ago on the 30th anniversary of the KDE project was the Plasma 6.8 desktop with many exciting improvements. Last week it was succeeded by Plasma 6.8.1 with dozens of bug fixes and this week now brings Plasma 6.8.2 with yet more bug fixing...",
-    "guid": "https://www.phoronix.com/news/KDE-Plasma-6.8.2",
-    "date": "Oct 27, 2026 13:02",
-    "published_at": "2026-10-27T13:02:10Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Kingdom Come: Deliverance developer Warhorse Studios hit by cyberattack",
-    "link": "https://www.gamingonlinux.com/2026/10/kingdom-come-deliverance-developer-warhorse-studios-hit-by-cyberattack/",
-    "description": "Another recent incident, Kingdom Come: Deliverance developer Warhorse Studios revealed they've been hit in a cyberattack.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/10/kingdom-come-deliverance-developer-warhorse-studios-hit-by-cyberattack/",
-    "date": "Oct 27, 2026 12:50",
-    "published_at": "2026-10-27T12:50:29Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/984582025id30066gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Luanti (formerly Minetest) reveal a major ContentDB security incident",
-    "link": "https://www.gamingonlinux.com/2026/10/luanti-formerly-minetest-reveal-a-major-contentdb-security-incident/",
-    "description": "The team behind Luanti (formerly Minetest), just recently announced a security incident with their ContentDB system.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/10/luanti-formerly-minetest-reveal-a-major-contentdb-security-incident/",
-    "date": "Oct 27, 2026 12:13",
-    "published_at": "2026-10-27T12:13:43Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/225693291id30065gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "AMD EPYC Zen 6 PML Support, ARM64 On s390 Merged For Linux 7.4 KVM",
-    "link": "https://www.phoronix.com/news/Linux-7.4-KVM",
-    "description": "The many Kernel-based Virtual Machine (KVM) improvements have been merged for Linux 7.4 to deliver a number of new features for different server processors...",
-    "guid": "https://www.phoronix.com/news/Linux-7.4-KVM",
-    "date": "Oct 27, 2026 12:00",
-    "published_at": "2026-10-27T12:00:00Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Insane fever-dream retro FPS 'Divine Frequency' is out in Early Access",
-    "link": "https://www.gamingonlinux.com/2026/10/insane-fever-dream-retro-fps-divine-frequency-is-out-in-early-access/",
-    "description": "Divine Frequency is a new GZDoom / UZDoom powered FPS fever dream, one where you get to experience the total collapse of reality.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/10/insane-fever-dream-retro-fps-divine-frequency-is-out-in-early-access/",
-    "date": "Oct 27, 2026 11:43",
-    "published_at": "2026-10-27T11:43:33Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1730248322id30064gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Accelerating HTTP Web Servers With In-Kernel eBPF Deliver Up To 4.5x Throughput",
-    "link": "https://www.phoronix.com/news/Beeper-In-Kernel-Parsing-eBPF",
-    "description": "An interesting new open-source project born out of university research is Beeper to provide application-layer parsing within the in-kernel eBPF. With an HTTP parser implemented by Beeper in eBPF and providing an in-kernel HTTP cache, the throughput for web servers could be improved by 3x at high rates...",
-    "guid": "https://www.phoronix.com/news/Beeper-In-Kernel-Parsing-eBPF",
-    "date": "Oct 27, 2026 10:26",
-    "published_at": "2026-10-27T10:26:22Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Linux's Modern NTFS Driver Now Supports Alternate Data Streams (ADS)",
-    "link": "https://www.phoronix.com/news/NTFS-Linux-7.4-Improvements",
-    "description": "Merged back in Linux 7.1 was the new NTFS kernel driver implementation for better supporting Microsoft's NTFS file-system on Linux. Since then new features and improvements have continued to land for this NTFS driver with some more notable additions also coming in Linux 7.4...",
-    "guid": "https://www.phoronix.com/news/NTFS-Linux-7.4-Improvements",
-    "date": "Oct 27, 2026 10:11",
-    "published_at": "2026-10-27T10:11:29Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Build up a party of complete idiots in Outcast Tales, out now and it's free",
-    "link": "https://www.gamingonlinux.com/2026/10/build-up-a-party-of-complete-idiots-in-outcast-tales-out-now-and-its-free/",
-    "description": "Developed by Hardlane Studio and published by Inner Pocket, the story-rich adventure sends players into a post-apocalyptic frontier in search of riches.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/10/build-up-a-party-of-complete-idiots-in-outcast-tales-out-now-and-its-free/",
-    "date": "Oct 27, 2026 09:58",
-    "published_at": "2026-10-27T09:58:35Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1022565519id30063gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Linux 7.4 Expands Sensor Monitoring For More ASUS \u0026 MSI Motherboards, New Minisforum Driver",
-    "link": "https://www.phoronix.com/news/Linux-7.4-HWMON",
-    "description": "With the Linux 7.4 kernel there are more MSI and ASUS motherboards with sensor monitoring support along with a variety of other additions to help broaden the selection of supported systems for hardware sensor monitoring under Linux. It's another busy cycle for the HWMON subsystem...",
-    "guid": "https://www.phoronix.com/news/Linux-7.4-HWMON",
-    "date": "Oct 27, 2026 09:52",
-    "published_at": "2026-10-27T09:52:30Z",
     "source": "phoronix.com",
     "source_url": "https://www.phoronix.com/"
   }
