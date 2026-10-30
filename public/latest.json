@@ -1,5 +1,359 @@
 [
   {
+    "title": "Planet News Roundup",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368640",
+    "description": "This is a roundup of articles from the openSUSE community listed on planet.opensuse.org. This community blog feed aggregator lists the featured highlights below from Oct. 23 - 29. This week highlights five Tumbleweed snapshots for week 43 headlined by KDE Plasma 6.8.0, Qt 6.12.0, Linux Kernel 7.2.11 and PHP 8.5.12,…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368640",
+    "date": "Oct 30, 2026 17:23",
+    "published_at": "2026-10-30T17:23:59Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "UK Social Media Ban May Lock Out More Than 100,000 Teens Without ID",
+    "link": "https://news.slashdot.org/story/26/10/30/160254/uk-social-media-ban-may-lock-out-more-than-100000-teens-without-id?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Under the UK's planned social media ban, more than 100,000 British teenagers aged 16 and 17 could initially be locked out of social media because they lack a passport or driving license that may be needed as a fallback for age verification. The Guardian reports: Ofcom, the UK's online watchdog, said about 150,000 16- to 17-year-olds do not own a passport or driving licence, which are likely to be needed to access age-restricted platforms. The Australia-style ban on under-16s accessing social media services, including Instagram, TikTok and YouTube, is due to come into force next spring. The head of Ofcom, Melanie Dawes, said \"motivated children\" would seek to bypass the restrictions, as has happened in Australia.\n \nOn Thursday, Ofcom published an assessment of age verification measures that could underpin the ban, outlining four \"highly effective\" methods: checking a person's official ID against a live selfie, a bank verifying an account holder's age, an official digital ID service like the Young Scot card, or estimating someone's age via a selfie. However, the watchdog said a form of official ID would probably be needed as a \"backstop\" for other methods, such as facial age estimation, which could be inaccurate by several years. Ofcom said a cohort of 16- to 17-year-olds could miss out as a result. \"This means that people without a form of photo ID will likely need to take steps to obtain one to access age-restricted services,\" the regulator said. The report notes that more than nine out of 10 Britons over 16 have passports or driving licenses.\n \n\"We should expect that motivated children will seek to bypass the restrictions -- just like alcohol laws can't completely eradicate underage drinking -- but there'll be ways for platforms to mitigate this risk,\" said Dawes. \"This will be a huge cultural shift for our society, so it'll take time to adjust, and everyone will have a part to play.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 30, 2026 17:00",
+    "published_at": "2026-10-30T17:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Haas: Postgres 19 is late, and it's AI's fault",
+    "link": "https://lwn.net/Articles/1104210/",
+    "description": "PostgreSQL developer Robert Haas writes\nabout the struggles the project has encountered in putting together its\nnext release.\n\n\n\tIn the end, I don't think that the delay in shipping PostgreSQL 19\n\tis particularly concerning. It is not a long delay in the grand\n\tscheme of things, and it emerges directly from the project's\n\tconcern for quality.\n\n\tThe long-term picture is less clear and in some ways more\n\ttroubling: given that we have forty years of bugs that humans were\n\tunable to find but LLMs are quite capable of discovering, how are\n\twe ever going to catch up, and how will PostgreSQL continue to\n\tinnovate? Right now, I'm not sure. What I do know is that I, and\n\tmany others, are working really hard to figure it out.\n\n\nLWN looked at the PostgreSQL 19 release\nand its challenges in September.",
+    "guid": "https://lwn.net/Articles/1104210/",
+    "date": "Oct 30, 2026 16:52",
+    "published_at": "2026-10-30T16:52:59Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "Reddit Will Force Everyone to Log In",
+    "link": "https://tech.slashdot.org/story/26/10/30/0155237/reddit-will-force-everyone-to-log-in?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Reddit plans to require users to log in to browse the platform, ending its longstanding practice of allowing anonymous visitors to access posts and discussions. According to CEO Steve Huffman, a key reason behind the decision is to curb unauthorized scraping and automated traffic.\n \n\"This is a big change for Reddit, where we've allowed logged-out access to basically all of Reddit for the last two decades,\" Huffman says. \"And I don't know about you, but as someone whose life has been defined by the open internet, it's a big change for me. But I've come to the conclusion that this is the right decision for our platform and the right decision for our business.\" The Verge reports: There's no definitive timeline on when this change will roll out to all users, or how the site will work if you're logged out. (If I send my friend a link to a thread and they aren't logged in, what will they see?) To start, Reddit will test the logged-in requirement in \"select markets outside the US\" in the \"coming months,\" according to CEO Steve Huffman. \"We'll look at the impact on the user experience, on our business, and on the whole Reddit ecosystem, figure out where the right boundaries are, and go from there.\" Reddit has also rebuilt and is rereleasing the Reddit app's incognito mode.\n \nHuffman claims the login requirement is better for Reddit's user experience and its ads business and is \"more protective of Reddit data.\" The \"vast majority\" of unauthorized Reddit access happens \"through our logged-out experiences,\" though the company will still strike licensing deals of its data with companies, like the deals it made with OpenAI and Google in 2024. Huffman notes that Reddit does not need to know a logged-in user's identity -- \"Honestly, we don't want to know\" -- just that the user is logged in at all. And he says that more logged-in users lets the company deliver \"more relevant ads.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 30, 2026 16:00",
+    "published_at": "2026-10-30T16:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Remote code execution on Linux systems with multipath TCP",
+    "link": "https://lwn.net/Articles/1104192/",
+    "description": "\nOn October 27, LLM provider Anthropic\nreported\non a\n\nremotely exploitable use-after-free bug affecting systems with\nmultipath TCP listeners open. The bug works by triggering a response to a\nretransmitted SYN packet at the same moment that the TCP connection is\nestablished in another thread, causing the first thread to access the\nconnection's options structure after the second thread has freed it. The first\nthread can then disclose kernel memory or cause a buffer overflow, writing an\nattacker-controlled payload. The fix was\n\nto only free the structure after an RCU grace period.\nOn October 29, the Go security team\nadvised\nthat all programs written in Go use multipath TCP by default, so many\nsystems may be unknowingly vulnerable. And, of course, there is always the\npossibility of related bugs in other sections of the TCP stack. Users may be\nwise to update to a patched kernel as soon as one becomes available for their\ndistribution.\n",
+    "guid": "https://lwn.net/Articles/1104192/",
+    "date": "Oct 30, 2026 15:45",
+    "published_at": "2026-10-30T15:45:27Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "Binance Suffers Biggest Crypto Hack In History With $6.3 Billion Affected [UPDATE]",
+    "link": "https://slashdot.org/story/26/10/29/2143222/binance-suffers-biggest-crypto-hack-in-history-with-63-billion-affected-update?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "UPDATE 10/30/26: Binance has temporarily suspended customer withdrawals after suffering what investigators say is the biggest crypto hack in history. According to Binance CEO Yi He, the company estimates roughly $6.3 billion in funds were impacted, with roughly $3 billion in assets frozen on-chain so far. Rest assured, \"your money is safe, and we're covering every loss,\" said co-CEO Richard Teng in a LinkedIn post.\n \n\"This was a complex attack,\" said Teng. \"The attacker also used a self-destruct mechanism that destroyed tooling and tracers, making it more difficult for us to trace.\" From a report: Teng said the incident was not carried out by one person. While the initial investigation indicated the involvement of a compromised laptop, further digging revealed additional points of breach. [...] Blockchain analysis firms TRM Labs and Elliptic have linked the theft to North Korean hackers, with TRM attributing it \"with high confidence\" to a group known as TraderTraitor, the same group responsible for last year's Bybit hack.\n \nElliptic estimated Friday that about 44% of the stolen assets have been frozen, with stablecoins accounting for nearly all of those funds. The firm estimated that attackers still controlled over $3 billion in crypto that token issuers cannot directly freeze.\n \nThe hackers appear to have compromised Binance's wallet-signing infrastructure, allowing them to authorize transactions that drained billions of dollars in cryptocurrency across multiple blockchains, according to the firms. Binance, in its preliminary stage, has conducted an investigation into the hack, which suggests the incident may have begun with a compromised engineer's laptop. The exchange added that it has found no evidence that wallet passwords were leaked. Below is the original story from yesterday, Oct. 29th. \nBinance is investigating a potential hack after more than $2 billion in crypto was drained from one of its wallets into a new external account, with Blockaid estimating nearly $3.3 billion was moved.\n \n\"Our teams are aware of reports of a potential security issue and are actively investigating,\" said Binance on X.\n \n\"User funds are safe,\" said Binance founder CZ. \"It does look like a hack on Binance. Appreciate the quick freeze from Tether (~$971m) and Circle (~$823m). I don't manage Binance anymore, but as a shareholder, I expect all user funds will be fully covered.\"\n \nAt around the same time, crypto-based prediction market Polymarket reported its own security incident that wiped out around $2.7 million in user funds.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 30, 2026 15:30",
+    "published_at": "2026-10-30T15:30:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "AMD Ryzen Zen 6 Looks Like It Will Be In Good Shape With Linux 7.4, Laptop Improvements",
+    "link": "https://www.phoronix.com/news/Linux-7.4-x86-Platform-Driver",
+    "description": "The x86 platform driver changes were merged this week to the Linux 7.4 kernel ahead of the merge window closing this weekend...",
+    "guid": "https://www.phoronix.com/news/Linux-7.4-x86-Platform-Driver",
+    "date": "Oct 30, 2026 15:24",
+    "published_at": "2026-10-30T15:24:46Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "[$] System-call wrappers for glibc",
+    "link": "https://lwn.net/Articles/1101647/",
+    "description": "In a followup to his \nsession at the\n2025 Linux Plumbers Conference (LPC), Carlos O'Donell returned to the topic\nof system-call\nwrappers for the GNU C library (glibc) at this year's event.  This time\naround, he was joined by Florian Weimer, who is another glibc maintainer.\nThe idea was to give an update on what has happened over the last year with\nregard to Linux system calls that lack a glibc wrapper, thus are only\naccessible via\nsyscall().  In addition, they wanted to hear from attendees about their\nneeds in this area.",
+    "guid": "https://lwn.net/Articles/1101647/",
+    "date": "Oct 30, 2026 15:07",
+    "published_at": "2026-10-30T15:07:29Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "The Tragedy of Losing Your Wikipedia Page",
+    "link": "https://news.slashdot.org/story/26/10/30/0142219/the-tragedy-of-losing-your-wikipedia-page?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes an excerpt from a Wired article that explores the often-contentious process of nominating pages for deletion when their subjects fail to meet the encyclopedia's notability standards: What do you need to know -- need to know -- about Xavier Trudeau? The eldest son of former Canadian prime minister Justin, the teenage Trudeau has recently begun performing R\u0026B under the mononym Xav. But, with all due respect to Xav, do those facts make him a person of note? Should you expect to be able to read about him on Wikipedia? What about Evanescence guitarist Tim McCord, or 2012 Yachtmaster of the Year Rainer Holtorff? All three have had a biography on Wikipedia; all three of those biographies were considered for deletion this year on the grounds that the subjects were not notable enough to warrant a biography at all. Every day, dozens, sometimes hundreds, of Wikipedia biographies -- of child actors turned LA realtors, retired ambassadors, soccer players who have played less than 10 minutes of professional soccer -- are purged from the world's free encyclopedia.\n \nIt's not as though Wikipedia, which hosts over 7 million articles in the English language, doesn't have the space. But Wikipedia has only so many volunteers to monitor its contents. To this day, Wikipedia editors are discovering hoaxes that have gone undetected for decades. The time it takes to verify the release dates of Xav's three singles is better spent -- the logic goes -- by asking whether the American Civil War officer Nathaniel Lyon really drank mustard during battle, as was claimed in his Wikipedia biography for 17 years. Wikipedia removed the mustard claim, not because it was proven wrong, but because there was no reliable evidence for it. \"We're not really looking for what's true,\" Britta Gustafson, who has been editing Wikipedia since 2001, told me. \"We're looking for what's verifiable.\" Wikipedia editors do not themselves decide that a person is not notable, only that there is a lack of reliable evidence to support the claim...\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 30, 2026 15:00",
+    "published_at": "2026-10-30T15:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Best Linux Distros for Chromebooks in 2026 (10 Picks Compared)",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368649",
+    "description": "This guide covers the two ways to run Linux on a Chromebook, ten distros worth your time, and the checks that save you a wasted afternoon.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368649",
+    "date": "Oct 30, 2026 14:59",
+    "published_at": "2026-10-30T14:59:02Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Eight more stable kernel updates",
+    "link": "https://lwn.net/Articles/1104177/",
+    "description": "\nGreg Kroah-Hartman has announced the release of the 7.3.1,\n7.2.14,\n6.18.60,\n6.12.115,\n6.6.161,\n6.1.191,\n5.15.224, and\n5.10.273 stable kernels. As usual, he advises\nall users to update—advice that seems especially wise given the\nincreased number of security-relevant bug fixes that the kernel is seeing these days.\n[Edit: the 7.2.15 stable release is already in review as well.]\n",
+    "guid": "https://lwn.net/Articles/1104177/",
+    "date": "Oct 30, 2026 14:22",
+    "published_at": "2026-10-30T14:22:39Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "Denmark’s Digital Sovereignty Effort Stalls Amid Government Shakeup",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368650",
+    "description": "An unfinished Collabora trial has been cast as an open source failure. The timeline tells a different story.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368650",
+    "date": "Oct 30, 2026 13:50",
+    "published_at": "2026-10-30T13:50:15Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Security updates for Friday",
+    "link": "https://lwn.net/Articles/1104174/",
+    "description": "Security updates have been issued by AlmaLinux (aspell, cjose, curl, gcc-toolset-15-gcc, httpd:2.4, ignition, java-21-openjdk, libX11, libXi, libXrender, libXtst, mariadb:10.11, nodejs:24, python-pillow, python3.12-urllib3, and webkit2gtk3), Debian (imagemagick, libdatetime-timezone-perl, python-git, tor, tzdata, vlc, and wordpress), Fedora (accessibility-inspector, akonadi-calendar, akonadi-calendar-tools, akonadi-contacts, akonadi-import-wizard, akonadi-mime, akonadi-search, akonadi-server, akonadiconsole, akregator, alligator, analitza, angelfish, applet-window-buttons, arianna, ark, artikulate, audex, audiocd-kio, audiotube, aurorae, baloo-widgets, blinken, bluedevil, bomber, bovo, breeze-gtk, brotli, bup, calendarsupport, calindori, calligra, cantor, colord-kde, cxx-rust-cssparser, dolphin, dolphin-plugins, dragon, elisa-player, eventviews, falkon, fcitx-configtool, ffmpegthumbs, filelight, firefox, flatpak-kcm, francis, ghostwriter, granatier, grantlee-editor, grantleetheme, grub2-breeze-theme, gwenview, incidenceeditor, isoimagewriter, itinerary, juk, k3b, kaccounts-integration, kaccounts-providers, kactivitymanagerd, kaddressbook, kajongg, kalarm, kalgebra, kalk, kalm, kalzium, kamera, kamoso, kanagram, kapman, kapptemplate, kasts, kate, katomic, kbackup, kblackbox, kblocks, kbounce, kbruch, kcachegrind, kcalc, kcalutils, kcharselect, kclock, kcolorchooser, kcron, kde-cli-tools, kde-connect, kde-dev-scripts, kde-dev-utils, kde-gtk-config, kde-inotify-survey, kde-partitionmanager, kdebugsettings, kdecoration, kdeedu-data, kdegraphics-mobipocket, kdegraphics-thumbnailers, kdenetwork-filesharing, kdenlive, kdepim-addons, kdepim-runtime, kdeplasma-addons, kdesdk-kioslaves, kdesdk-thumbnailers, kdevelop, kdevelop-php, kdevelop-python, kdf, kdialog, kdiamond, kdnssd, kdominate, keditbookmarks, keepsecret, keysmith, kf6-baloo, kfind, kfourinline, kgeography, kget, kglobalacceld, kgoldrunner, kgpg, kgraphviewer, khangman, khealthcertificate, khelpcenter, kidentitymanagement, kig, kigo, killbots, kimagemapeditor, kimap, kinfocenter, kio-admin, kio-extras, kio-gdrive, kirigami-gallery, kiriki, kiten, kitinerary, kjournald, kjumpingcube, kldap, kleopatra, klettres, klickety, klines, kmag, kmahjongg, kmail, kmail-account-wizard, kmailtransport, kmbox, kmenuedit, kmines, kmix, kmousetool, kmouth, kmplot, knavalbattle, knetwalk, knights, knighttime, knot, koko, kolf, kollision, kolourpaint, kompare, kongress, konqueror, konquest, konsole, kontact, kontactinterface, kontrast, konversation, kopeninghours, korganizer, kosmindoormap, kpat, kpimtextedit, kpipewire, kpkpass, kpmcore, kpublictransport, kqtquickcharts, krdc, krdp, krecorder, kreversi, krfb, kruler, ksanecore, kscreen, kscreenlocker, kshisen, ksirk, ksmtp, ksnakeduel, kspaceduel, ksquares, ksshaskpass, ksudoku, ksystemlog, ksystemstats, kteatime, ktimer, ktnef, ktorrent, ktouch, ktrip, ktuberling, kturtle, kubrick, kunifiedpush, kup-backup, kwalletmanager5, kwave, kwayland, kwayland-integration, kweather, kweathercore, kwin, kwin-zones, kwordquiz, kwrited, layer-shell-qt, libgravatar, libkcddb, libkdcraw, libkdegames, libkdepim, libkeduvocdocument, libkexiv2, libkgapi, libkleo, libkmahjongg, libkomparediff2, libksane, libkscreen, libksieve, libksysguard, libktorrent, libplasma, libquotient, lokalize, lskat, mailcommon, mailimporter, marble, markdownpart, massif-visualizer, mbox-importer, merkuro, messagelib, mimetreeparser, mingw-python-certifi, minuet, neochat, ocean-sound-theme, okular, oxygen-sounds, palapeli, pam-kwallet, parley, perl-Alien-Brotli, picmi, pim-data-exporter, pim-sieve-editor, pimcommon, plasma-activities, plasma-activities-stats, plasma-bigscreen, plasma-breeze, plasma-browser-integration, plasma-camera, plasma-desktop, plasma-dialer, plasma-discover, plasma-disks, plasma-drkonqi, plasma-firewall, plasma-integration, plasma-keyboard, plasma-login-manager, plasma-milou, plasma-mobile, plasma-nano, plasma-nm, plasma-oxygen, plasma-pa, plasma-phonebook, plasma-print-manager, plasma-sdk, plasma-settings, plasma-setup, plasma-systemmonitor, plasma-systemsettings, plasma-thunderbolt, plasma-union, plasma-vault, plasma-wayland-protocols, plasma-welcome, plasma-workspace, plasma-workspace-wallpapers, plasma5support, plasmatube, plymouth-kcm, plymouth-theme-breeze, polkit-kde, powerdevil, poxml, qmlkonsole, qqc2-breeze-style, qrca, rocs, sddm-kcm, signon-kwallet-extension, skanlite, skanpage, skladnik, spacebar, spectacle, step, svgpart, sweeper, tokodon, trafficserver, umbrello, xdg-desktop-portal-kde, yakuake, and zanshin), Mageia (cfitsio, libsolv, tomcat, and xrdp), Oracle (bind, cjose, curl, dogtag-pki, expat, gcc-toolset-15-gcc, ignition, kernel, libX11, libXrender, libXtst, php, python3.12-urllib3, and webkit2gtk3), SUSE (389-ds, aws-nitro-enclaves-binaryblobs-upstream, brotli, chromium, firefox, flatpak, gnutls, google-osconfig-agent, haproxy, hawk2, kernel, libapr1, libtcnative-1-0, tomcat, liboath-devel, libpcre2-16-0, librecad, libXi-devel, libXtst-devel, python311, python313, python313-markdown2, python313-xhtml2pdf, rabbitmq-server, roundcubemail, rust-keylime, and xen), and Ubuntu (dotnet8, dotnet10, dotnet11).",
+    "guid": "https://lwn.net/Articles/1104174/",
+    "date": "Oct 30, 2026 13:37",
+    "published_at": "2026-10-30T13:37:12Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "OuijaCNC",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368642",
+    "description": "Spooky season is officially upon us. Check out this self-playing Ouija board built by one of our colleagues.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368642",
+    "date": "Oct 30, 2026 12:40",
+    "published_at": "2026-10-30T12:40:35Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Another Week, Another Vibe Coded OS; Closed-Source In The Name Of Security",
+    "link": "https://www.phoronix.com/news/NULLos",
+    "description": "With today's AI/LLM capabilities, there is almost a new operating system heard about each week \"coded from scratch\" predominantly via AI agents. This week was no exception with another project hitting our email inbox. Though most of them are open-source, this one is closed-source in the name of security...",
+    "guid": "https://www.phoronix.com/news/NULLos",
+    "date": "Oct 30, 2026 12:23",
+    "published_at": "2026-10-30T12:23:06Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "The popular idle clicker game Idle Slayer added Linux and macOS support",
+    "link": "https://www.gamingonlinux.com/2026/10/the-popular-idle-clicker-game-idle-slayer-added-linux-and-macos-support/",
+    "description": "With a mixture of idle and clicker mechanics, the popular and well-reviewed Idle Slayer is now support on both Linux and macOS.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/10/the-popular-idle-clicker-game-idle-slayer-added-linux-and-macos-support/",
+    "date": "Oct 30, 2026 12:07",
+    "published_at": "2026-10-30T12:07:14Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/390405321id30094gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Gelly is a GTK desktop music player for Jellyfin and Navidrome",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368634",
+    "description": "If you run your own music streaming server via Jellyfin or Navidrome/Subsonic, you’ll want a decent desktop player – Gelly is a solid choice for GNOME. It bills itself as “native, lightweight music player” for the aforementioned streaming servers (and compatible ones). It’s written in Rust and GTK4/libadwaita and, as a good players should, it lets you browse, play and control music playback.…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368634",
+    "date": "Oct 30, 2026 11:28",
+    "published_at": "2026-10-30T11:28:38Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "First Wired XR Glasses Powered By Android XR",
+    "link": "https://tech.slashdot.org/story/26/10/29/1839246/first-wired-xr-glasses-powered-by-android-xr?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "XREAL has launched the AURA, its first wired augmented reality glasses powered by Google's Android XR platform. They feature transparent Micro-OLED displays, a 70-degree field of view, Gemini AI integration, and a Snapdragon Reality Elite processor. TechPowerUp reports: The device is built around a simple idea: your apps, screens, entertainment, and AI assistant should be able to come with you wherever you go. On day-one, users have access to millions of familiar mobile apps and games from Google Play, alongside many experiences specifically for XR. Android XR brings familiar hand and voice inputs to AURA, while Gemini makes the experiences more natural and intuitive by working across what users see and do.\n \nWith Wired Mirroring, users can plug a computer or handheld gaming console directly into XREAL AURA via USB-C and instantly turn it into a massive private spatial window. That means a laptop, handheld gaming device, or other compatible USB-C device can sit alongside native Android XR apps in a user's spatial workspace. Whether turning a plane seat into a private multi-monitor setup, watching a movie on a large virtual screen, or playing Android and console games in an immersive spatial environment, XREAL AURA is designed to make spatial computing practical, portable, and useful.\n \n[...] For work, AURA creates a portable multi-window workspace without requiring a physical monitor. Users can open Android XR apps, mirror a laptop, place windows in virtual space, and use Gemini to help understand or act on what is on screen. For entertainment, AURA becomes a private theater on demand. Users can access familiar streaming apps, expand content into a large virtual display, and use electrochromic dimming to create a more immersive viewing experience while remaining aware of their surroundings when needed. For play, AURA supports Android games and compatible mirrored gaming devices, enabling users to play on a large and immersive private display. The glasses are available to order today, with limited-time pricing starting at $1,099 for the 12GB RAM and 256GB storage model. Devices are expected to begin shipping in mid-November.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 30, 2026 11:00",
+    "published_at": "2026-10-30T11:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Check out the demo for INANIMA, a retro survival-horror inspired by Resident Evil and SIGNALIS",
+    "link": "https://www.gamingonlinux.com/2026/10/check-out-the-demo-for-inanima-a-retro-survival-horror-inspired-by-resident-evil-and-signalis/",
+    "description": "INANIMA is an upcoming release from developer Obscure Tales (Lamentum) focused on you surviving in an isolated facility of a strange corporation.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/10/check-out-the-demo-for-inanima-a-retro-survival-horror-inspired-by-resident-evil-and-signalis/",
+    "date": "Oct 30, 2026 10:40",
+    "published_at": "2026-10-30T10:40:27Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1903666195id30093gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Open source evolution sim 'Thrive' v1.7 works towards completing the multicellular stage",
+    "link": "https://www.gamingonlinux.com/2026/10/open-source-evolution-sim-thrive-v1-7-works-towards-completing-the-multicellular-stage/",
+    "description": "The multicellular stage is getting more complete for the open source evolution sim Thrive, with version 1.7 out now.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/10/open-source-evolution-sim-thrive-v1-7-works-towards-completing-the-multicellular-stage/",
+    "date": "Oct 30, 2026 10:30",
+    "published_at": "2026-10-30T10:30:17Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/706065552id30092gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "AMD PerfOpt Makes it Into Linux 7.4 As A Nice Performance Boost For AMD iGPUs",
+    "link": "https://www.phoronix.com/news/Linux-7.4-IOMMU",
+    "description": "As anticipated, the AMD PerfOpt feature was picked up for the Linux 7.4 kernel. As shown already in multiple Phoronix benchmarks, AMD PerfOpt makes for a nice performance boost for AMD integrated graphics, especially for AI workloads...",
+    "guid": "https://www.phoronix.com/news/Linux-7.4-IOMMU",
+    "date": "Oct 30, 2026 10:21",
+    "published_at": "2026-10-30T10:21:54Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Yay 13.1 AUR Helper Released with Faster Dependency Resolution, Improved Search",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368579",
+    "description": "Yay 13.1 improves dependency resolution performance, package search accuracy, repository handling, and Lua scripting capabilities.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368579",
+    "date": "Oct 30, 2026 10:16",
+    "published_at": "2026-10-30T10:16:41Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Dune: Awakening's free Blood and Ice expansion launches December 1",
+    "link": "https://www.gamingonlinux.com/2026/10/dune-awakenings-free-blood-and-ice-expansion-launches-december-1/",
+    "description": "Funcom reveals the Blood and Ice expansion and detailed what's coming over the next three to four months - including new events, offline single-player and more.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/10/dune-awakenings-free-blood-and-ice-expansion-launches-december-1/",
+    "date": "Oct 30, 2026 10:08",
+    "published_at": "2026-10-30T10:08:41Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1491577585id30091gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Apple Silicon Linux Driver Adapted To Help Older Intel-Powered Macs",
+    "link": "https://www.phoronix.com/news/Linux-Patches-Intel-macsmc",
+    "description": "The Linux kernel's \"macsmc\" driver was developed for supporting the system management controller (SMC) on Apple Silicon Macs for supporting the light sensor, fan control, and other sensors. That macsmc driver now is seeing work to extend it for better supporting older Intel-powered Macs...",
+    "guid": "https://www.phoronix.com/news/Linux-Patches-Intel-macsmc",
+    "date": "Oct 30, 2026 10:05",
+    "published_at": "2026-10-30T10:05:47Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Vulkan 1.4.367 Released With VK_KHR_maintenance12",
+    "link": "https://www.phoronix.com/news/Vulkan-1.4.367",
+    "description": "Vulkan 1.4.367 is out this morning as the newest spec revision for this high performance graphics and compute API...",
+    "guid": "https://www.phoronix.com/news/Vulkan-1.4.367",
+    "date": "Oct 30, 2026 09:58",
+    "published_at": "2026-10-30T09:58:03Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "I3C Hub \u0026 HDR-DDR Support Merged For Linux 7.4",
+    "link": "https://www.phoronix.com/news/Linux-7.4-I3C",
+    "description": "The I3C changes for Linux 7.4 were submitted this week by Bootlin's Alexandre Belloni and subsequently merged...",
+    "guid": "https://www.phoronix.com/news/Linux-7.4-I3C",
+    "date": "Oct 30, 2026 09:50",
+    "published_at": "2026-10-30T09:50:29Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Multiplayer music playground 'Vibe Together' sounds like a super-fun idea",
+    "link": "https://www.gamingonlinux.com/2026/10/multiplayer-music-playground-vibe-together-sounds-like-a-super-fun-idea/",
+    "description": "Vibe Together is all about visually putting songs together, then playing through them. Sounds great, looks clever!Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/10/multiplayer-music-playground-vibe-together-sounds-like-a-super-fun-idea/",
+    "date": "Oct 30, 2026 09:49",
+    "published_at": "2026-10-30T09:49:10Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1919466153id30090gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Get 18 spooky games in the Fanatical FrightFest Ripper Bundle",
+    "link": "https://www.gamingonlinux.com/2026/10/get-18-spooky-games-in-the-fanatical-frightfest-ripper-bundle/",
+    "description": "Fanatical's FrightFest Ripper Bundle is live with 18 different games you can grab for one cheap price.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/10/get-18-spooky-games-in-the-fanatical-frightfest-ripper-bundle/",
+    "date": "Oct 30, 2026 09:38",
+    "published_at": "2026-10-30T09:38:56Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1883517535id30089gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Five more classics join the GOG Preservation Program",
+    "link": "https://www.gamingonlinux.com/2026/10/five-more-classics-join-the-gog-preservation-program/",
+    "description": "In addition to publishing more games, the GOG Preservation Program has expanded again with another five classic games added.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/10/five-more-classics-join-the-gog-preservation-program/",
+    "date": "Oct 30, 2026 09:25",
+    "published_at": "2026-10-30T09:25:25Z",
+    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/gog_logo.jpg",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "TUXEDO Nano Pro Gen15 Mini Linux PC Launches with Intel CPU, Up to 128 GB RAM",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368623",
+    "description": "Linux hardware vendor TUXEDO Computers unveiled today the 15th generation (Gen15) of the TUXEDO Nano Pro mini PC powered by an Intel CPU and featuring full Linux support.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368623",
+    "date": "Oct 30, 2026 09:06",
+    "published_at": "2026-10-30T09:06:26Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Epic Games Launcher Preview updated to fix logins on some Linux systems",
+    "link": "https://www.gamingonlinux.com/2026/10/epic-games-launcher-preview-updated-to-fix-logins-on-some-linux-systems/",
+    "description": "The in-development Epic Games Launcher Preview that has Linux support has seen another few updates, and now more Linux users should be able to actually login.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/10/epic-games-launcher-preview-updated-to-fix-logins-on-some-linux-systems/",
+    "date": "Oct 30, 2026 08:47",
+    "published_at": "2026-10-30T08:47:26Z",
+    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/epicgames.jpg",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Proton CEO Is In 'Full AI Psychosis'",
+    "link": "https://slashdot.org/story/26/10/30/0126236/proton-ceo-is-in-full-ai-psychosis?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "According to 404 Media, Proton CEO Andy Yen is aggressively pushing AI adoption while fostering what workers describe as a culture of fear that discourages raising security concerns or challenging leadership. The investigation is based on interviews with eight current and one former Proton employees, as well as internal Slack chats, meeting recordings, and an AI manifesto written by the company's CTO. Longtime Slashdot reader devnulljapan summarizes the findings: Engineers at Proton, which makes the encrypted email service Proton Mail and a suite of privacy- and security-focused products, including an encrypted drive service, an authenticator app, and a password manager, are being pushed to \"stop lovingly handcrafting all our code and use AI more.\" Workers describe an environment where employees have genuine concerns about security or being asked to develop security products with AI but feel unable to voice them, lest Yen berates them in front of everyone or threatens their employment at the company. \"The CEO is in full AI psychosis and has been for a while now,\" one of the sources told 404 Media. Yen reportedly dismissed an employee's request for additional security testing before releasing new code, calling it \"bullshit and loser thinking\" and insisting that \"only losers think like that.\" In a separate exchange over Proton's post-quantum encryption rollout, Yen criticized how the company communicated the feature's limitations and told employees that \"perception is more important than truth, the truth doesn't matter if you don't win on perception.\"\n \n\"The train is coming, get onboard or get crushed. Don't be the professional fax machine operator in the internet age,\" Yen wrote to the security Slack channel. \"I think by the end of this year most developers stop programming and start writing specs for tests that AI will code and run, to validate AI written code that humans will no longer be able to review. This will be the last year that we hire engineers, and starting next year we hire what we used to call product managers, to build things with AI.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 30, 2026 07:00",
+    "published_at": "2026-10-30T07:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "LibreOffice 26.8.2 Open-Source Office Suite Released with More Than 30 Bug Fixes",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368617",
+    "description": "The Document Foundation announced today the general availability of LibreOffice 26.8.2 as the second maintenance update to the latest and greatest LibreOffice 26.8 office suite series with compatibility and text import improvements.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368617",
+    "date": "Oct 30, 2026 06:49",
+    "published_at": "2026-10-30T06:49:48Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Is Ubuntu Eyeing Immutability? Canonical Restarts Core Desktop and Eyes a Firmware Change for LTS",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368613",
+    "description": "Core Desktop could run apps that can’t run natively in a sandbox, while linux-firmware-hwe is proposed as a safeguard against newer firmware causing problems.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368613",
+    "date": "Oct 30, 2026 04:27",
+    "published_at": "2026-10-30T04:27:35Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
     "title": "Polymarket Halted International Trading After Hackers Drained Accounts",
     "link": "https://it.slashdot.org/story/26/10/29/2347249/polymarket-halted-international-trading-after-hackers-drained-accounts?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
     "description": "An anonymous reader quotes a report from Wired: Trading has resumed on Polymarket's flagship international platform after a hack that drained money from the wallets of some traders. A third-party vendor based in the United Kingdom was breached, not the prediction market's website itself. Law enforcement in the UK have been notified of the incident, the company said. Trading was initially paused while the company investigated for several hours.\n \nOn X, prominent traders complained that they had lost money; Blockchain analytics firm Bubblemaps reported that around 700 users appear affected, with approximately $2.7 million stolen. Polymarket declined to comment when WIRED asked how many traders were impacted by the breach and how much money was lost, but said it will refund impacted traders.\n \nThe hack did not impact users on Polymarket US, the company's newer platform for people within the United States. Polymarket runs two separate prediction markets; Polymarket US operates as a federally regulated financial exchange within the country, while the flagship Polymarket is a cryptocurrency-based platform that is banned in the United States and a number of other countries. This is not the first time that Polymarket traders have experienced losses like this. \"A nearly identical vendor-compromise attack hit the platform in June, draining close to $3 million from at least 11 user wallets through the same kind of injected frontend script,\" reports StartupFortune.\n \nHours before Polymarket halted trading, more than $2 billion in cryptocurrency was drained from Binance wallets in just 40 minutes.\n\n\n\n\n\nRead more of this story at Slashdot.",
@@ -62,16 +416,6 @@
     "source_url": "https://slashdot.org/"
   },
   {
-    "title": "KDE Plasma 6.8.2 Released With More KWin and Wayland Fixes",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368628",
-    "description": "The KDE Project has released KDE Plasma 6.8.2, delivering another round of stability improvements for its Wayland-based Linux desktop environment. Released on October 27, 2026, the update arrives one week after Plasma 6.8.1 and two weeks after the anniversary release of Plasma 6.8, which marked 30 years since the KDE project's founding. This second maintenance release concentrates on correcting…",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368628",
-    "date": "Oct 29, 2026 22:24",
-    "published_at": "2026-10-29T22:24:15Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
     "title": "Fedora Linux 45 Shipping Next Week On 3 November",
     "link": "https://www.phoronix.com/news/Fedora-45-Ships-Next-Week",
     "description": "Fedora 45 is ready to ship! It will be formally released on Tuesday, 3 November...",
@@ -80,17 +424,6 @@
     "published_at": "2026-10-29T22:00:54Z",
     "source": "phoronix.com",
     "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Multi-Billion Binance Hack Hitting Crypto Markets",
-    "link": "https://slashdot.org/story/26/10/29/2143222/multi-billion-binance-hack-hitting-crypto-markets?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Binance is investigating a potential hack after more than $2 billion in crypto was drained from one of its wallets into a new external account, with Blockaid estimating nearly $3.3 billion was moved.\n \n\"Our teams are aware of reports of a potential security issue and are actively investigating,\" said Binance on X.\n \n\"User funds are safe,\" said Binance founder CZ. \"It does look like a hack on Binance. Appreciate the quick freeze from Tether (~$971m) and Circle (~$823m). I don't manage Binance anymore, but as a shareholder, I expect all user funds will be fully covered.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 29, 2026 22:00",
-    "published_at": "2026-10-29T22:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
   },
   {
     "title": "Xerxes Home Lab adds Jetson support, NVMe, and PoE",
@@ -167,16 +500,6 @@
     "source_url": "https://slashdot.org/"
   },
   {
-    "title": "Floorp Browser: A Blazing Fast Firefox Browser in Vivaldi Style",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368601",
-    "description": "Discover a blazingly fast browser built on Firefox, offering high customizability options similar to Vivaldi in comparison to Chrome.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368601",
-    "date": "Oct 29, 2026 17:50",
-    "published_at": "2026-10-29T17:50:33Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
     "title": "DoorDash Strikes $17 Billion Deal For US Rival Instacart",
     "link": "https://slashdot.org/story/26/10/29/1644224/doordash-strikes-17-billion-deal-for-us-rival-instacart?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
     "description": "DoorDash has agreed to acquire Instacart for about $17 billion as it expands beyond restaurant delivery and deeper into the U.S. grocery market. The deal, expected to close in late 2027 or the first half of 2028, could face regulatory scrutiny over further consolidation in the delivery industry. Reuters reports: DoorDash has offered Instacart shareholders $65 per share held, representing a premium of about 26% to the stock's closing price on October 22 before reports of deal talks first emerged. The consideration will be at least 75% cash, with Instacart shareholders able to elect cash, DoorDash stock or a combination of the two, the companies said.\n \n[...] The transaction is expected to close at the end of 2027 or the first half of 2028. The deal could face scrutiny over its impact on competition, with New York City's Department of Consumer and Worker Protection (DCWP) saying on Wednesday that a potential merger continued a \"troubling trend\" of corporate consolidation. DoorDash, however, pledged on Thursday that local grocers could continue to work with any delivery platform they choose.\n\n\n\n\n\nRead more of this story at Slashdot.",
@@ -198,14 +521,15 @@
     "source_url": "https://www.phoronix.com/"
   },
   {
-    "title": "DietPi v10.8 adds WireGuard management and network improvements",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368597",
-    "description": "DietPi v10.8 introduces a dedicated WireGuard management utility, named software package identifiers, and an updated HAProxy installation package. The October release also improves network configuration, expands storage device support on Quartz64 platforms, and addresses several bugs affecting system management and applications. DietPi: DietPi is a lightweight, Debian-based operating system…",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368597",
-    "date": "Oct 29, 2026 16:35",
-    "published_at": "2026-10-29T16:35:50Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
+    "title": "KDE Plasma 6.8.2 Released With More KWin and Wayland Fixes",
+    "link": "https://www.linuxjournal.com/content/kde-plasma-682-released-more-kwin-and-wayland-fixes",
+    "description": "\n    \n      \n              \n      \n            by George Whittaker\n      \n            The KDE Project has released KDE Plasma 6.8.2, delivering another round of stability improvements for its Wayland-based Linux desktop environment. Released on October 27, 2026, the update arrives one week after Plasma 6.8.1 and two weeks after the anniversary release of Plasma 6.8, which marked 30 years since the KDE project's founding.\n\nThis second maintenance release concentrates on correcting regressions discovered after the initial rollout. The largest collection of changes targets KWin, KDE's window manager and Wayland compositor, with fixes involving multi-GPU synchronization, display handling, pointer constraints, color pipelines, and window stacking. Additional improvements address disappearing desktop icons, application launcher behavior, remote desktop sessions, screen recording, accessibility, and system monitoring.\n\nAlthough Plasma 6.8.2 does not introduce major new desktop features, its corrections are particularly important because Plasma 6.8 completed KDE's transition away from native X11 desktop sessions. With Wayland now serving as Plasma's display foundation, improvements to KWin and its supporting components directly affect the reliability of the entire desktop environment.\n\nKDE Continues Stabilizing Its Anniversary Release\n\nKDE Plasma 6.8 arrived on October 14, 2026, coinciding with the project's 30th anniversary. The release introduced significant desktop changes, including the retirement of native X11 sessions, additional HDR improvements, expanded remote desktop capabilities, NVIDIA graphics optimizations, and further development of KDE's Union theming engine.\n\nThe transition represented an important architectural milestone, but major desktop releases frequently expose problems that were not encountered during development or beta testing. Linux desktops must operate across numerous combinations of graphics hardware, display configurations, drivers, input devices, and applications. Even extensive testing cannot always reproduce every environment used by the wider community.\n\nKDE acknowledged this challenge during the development cycle following Plasma 6.8, noting that users had discovered regressions that were not reported during the beta period. Contributors responded with a substantial collection of fixes, many of which have now reached the stable 6.8 branch through its first two maintenance releases.\n\nPlasma 6.8.2 continues that stabilization effort. Rather than changing the desktop's overall direction, it improves the reliability of existing functionality and addresses issues that could affect everyday workflows. The release includes corrections across KWin, Plasma Desktop, Plasma Workspace, Discover, KRDP, KPipeWire, and several other components.\n      \n              Go to Full Article\n\n      \n    \n  ",
+    "guid": "1341475 at https://www.linuxjournal.com",
+    "date": "Oct 29, 2026 16:00",
+    "published_at": "2026-10-29T16:00:00Z",
+    "image": "https://www.linuxjournal.com/sites/default/files/nodeimage/story/kde-plasma-6-8-2-released-with-more-kwin-and-wayland-fixes.jpg",
+    "source": "linuxjournal.com",
+    "source_url": "https://www.linuxjournal.com/"
   },
   {
     "title": "Reddit Is Getting a 'For You' Feed",
@@ -217,16 +541,6 @@
     "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
     "source": "slashdot.org",
     "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Tuning HDMI Monitors to work flawlessly with OpenSUSE Tumbleweed ( Assisted by Google AI )",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368602",
-    "description": "openSUSE defaults to hostonly=\"yes\": openSUSE aggressively optimizes for ramdisk size and boot speed. When you run an openSUSE installer over SSH or text mode, YaST builds an initramfs tailored strictly to the hardware it detected as active during that specific install phase. Since you bypassed the graphical display pipeline during the text/SSH run, openSUSE's Dracut config frequently omits the full-featured open-source video drivers and associated firmware, fallback-loading a basic VESA framebuffer (which locks you at 800x600).",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368602",
-    "date": "Oct 29, 2026 15:23",
-    "published_at": "2026-10-29T15:23:21Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
   },
   {
     "title": "'Please Let the Internet Die'",
@@ -249,16 +563,6 @@
     "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/872451181id30086gol.webp",
     "source": "gamingonlinux.com",
     "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Denmark Ends Open Source Office Pilot in Silence: What Went Wrong With Collabora",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368614",
-    "description": "Denmark’s digital ministry swapped Word for Collabora, then dropped the pilot without announcing it. Here is what broke and why no verdict exists.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368614",
-    "date": "Oct 29, 2026 14:16",
-    "published_at": "2026-10-29T14:16:59Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
   },
   {
     "title": "System76 tease the new mini Thelio Prime Desktop coming in November",
@@ -324,16 +628,6 @@
     "source_url": "https://lwn.net"
   },
   {
-    "title": "LibreOffice 26.8.2 improves stability, multimedia and compatibility",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368616",
-    "description": "Berlin, 29 October 2026 – The Document Foundation announces LibreOffice 26.8.2, the second minor release in the LibreOffice 26.8 family, available for Windows, macOS and Linux. The new version contains around 35 bug fixes, focusing on stability, multimedia playback and compatibility with legacy file formats. Several crashes and freezes have",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368616",
-    "date": "Oct 29, 2026 13:01",
-    "published_at": "2026-10-29T13:01:00Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
     "title": "Linux 7.4 Networking Brings Hardware Pacing Offload, New Drivers \u0026 More Performance",
     "link": "https://www.phoronix.com/news/Linux-7.4-Networking",
     "description": "The many Linux wired and wireless networking driver improvements were merged this week for the ongoing Linux 7.4 merge window....",
@@ -353,16 +647,6 @@
     "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/626001799id30083gol.webp",
     "source": "gamingonlinux.com",
     "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Canonical Reviving Their Immutable Ubuntu Core Desktop",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368578",
-    "description": "Canonical engineers back in 2023 outlined plans for Ubuntu Core Desktop as their immutable Linux desktop. They made some good initial progress but since 2024 it went rather silent. Now they are reviving Ubuntu Core Desktop as their immutable desktop OS offering and with grand plans for the future…",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368578",
-    "date": "Oct 29, 2026 11:50",
-    "published_at": "2026-10-29T11:50:42Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
   },
   {
     "title": "Build up your spooky game collection with the Horror Trifectas Humble Bundle",
@@ -387,28 +671,6 @@
     "source_url": "https://www.gamingonlinux.com/"
   },
   {
-    "title": "Is Ubuntu Eyeing Immutability? Canonical Restarts Core Desktop and Eyes a Firmware Change for LTS",
-    "link": "https://feed.itsfoss.com/link/24361/17510602/ubuntu-core-desktop-firmware-hwe",
-    "description": "Core Desktop could run apps that can’t run natively in a sandbox, while linux-firmware-hwe is proposed as a safeguard against newer firmware causing problems.",
-    "guid": "6ae2e0fc1b851a0001834b47",
-    "date": "Oct 29, 2026 11:01",
-    "published_at": "2026-10-29T11:01:02Z",
-    "image": "https://itsfoss.com/content/images/2026/10/ubuntu-core-desktop-banner.png",
-    "source": "itsfoss.com",
-    "source_url": "https://itsfoss.com/"
-  },
-  {
-    "title": "Google Struggling to Make AI Mode Searches Pay",
-    "link": "https://tech.slashdot.org/story/26/10/29/0444201/google-struggling-to-make-ai-mode-searches-pay?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Alphabet shares fell nearly 10% after Google disclosed that searches through its AI Mode generate less revenue than traditional search, even as overall search revenue grew 12% year over year to $63.25 billion. The Register reports: Alphabet on Wednesday reported its Q3 results, which included news that its year-over-year search query growth rate is the highest it's been in the last five years. Some of that growth comes from users adopting \"AI Mode\" -- Google's latest LLM-powered search system. Google's revenue from search rose 12 percent year-over-year to $63.25 billion, a little lower than the 14.5 percent growth the company reported in last year's Q3.\n \nDuring Alphabet's earnings call, chief business officer Philipp Schindler said the slowdown was caused by \"lower monetization we were seeing in AI Mode.\" That's a worry given that Google is spending enormous sums on infrastructure. $51.4 billion went out the door in Q3, around two thirds of it going towards servers and networking equipment. The rest funded datacenter builds. That spending appears to have impacted profitability, as Alphabet reported $26.17 billion net income for the quarter. Last year's Q3, during which Google revenue was $102.35 billion, produced $35 billion net income.\n \nSchindler argued that AI search will pay off. \"On AI Mode, many of these queries are upper funnel queries, allowing us to capture new, high-value commercial intent,\" he told investors. \"In addition, the majority of AI Mode queries are incremental, creating more monetization opportunities over time.\" Google tried to seize one of those opportunities today, by turning on ads alongside AI Mode searches around the world, after first testing them in the US only. But for now, AI Mode searches aren't as lucrative as Google's existing search business, which brought in just under half of Alphabet's $125.8 billion quarterly revenue.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 29, 2026 11:00",
-    "published_at": "2026-10-29T11:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
     "title": "Ubuntu Core Desktop has been restarted with a dedicated team with plans to improve Linux gaming",
     "link": "https://www.gamingonlinux.com/2026/10/ubuntu-core-desktop-has-been-restarted-with-a-dedicated-team-with-plans-to-improve-linux-gaming/",
     "description": "Ubuntu Core Desktop is Canonical's immutable version of Ubuntu Linux, and they're back to working on it for desktop users.Read the full article on GamingOnLinux.",
@@ -418,16 +680,6 @@
     "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/461090350id30080gol.webp",
     "source": "gamingonlinux.com",
     "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "System76 Teases Thelio Prime AMD Mini Linux PC Running Pop!_OS with COSMIC",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368581",
-    "description": "Today, Linux hardware vendor System76 is teasing an upcoming product, a new mini Linux PC called Thelio Prime, which runs the Pop!_OS 24.04 LTS distribution with the COSMIC desktop environment.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368581",
-    "date": "Oct 29, 2026 10:42",
-    "published_at": "2026-10-29T10:42:54Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
   },
   {
     "title": "Discord servers are set to become more public for web searches",
@@ -504,16 +756,6 @@
     "source_url": "https://www.phoronix.com/"
   },
   {
-    "title": "Linux Kernel Developers Considering Removal Of KGDB Debugging Functionality",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368588",
-    "description": "Merged to the kernel all the way back in Linux 2.6.26 in 2008 was KGDB for improving the kernel debugging experience. KGDB works in conjunction with the GNU Debugger (GDB) to debug the kernel in a similar fashion to user-space debugging. KGDB requires the use of a second computer connected via serial or network cable. KGDB isn't widely used in recent years and a patch was floated today to remove…",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368588",
-    "date": "Oct 29, 2026 09:34",
-    "published_at": "2026-10-29T09:34:43Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
     "title": "KSMBD Adds New  Options With Linux 7.4",
     "link": "https://www.phoronix.com/news/Linux-7.4-KSMBD",
     "description": "A number of improvements to KSMBD, the in-kernel SMB3 file server, were merged for the Linux 7.4 kernel...",
@@ -522,119 +764,5 @@
     "published_at": "2026-10-29T09:33:13Z",
     "source": "phoronix.com",
     "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Collabora advances Mali GPU support with Kraid compiler and Tyr Rust driver",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368560",
-    "description": "Collabora has announced two developments for open-source Arm Mali GPU support, with its Rust-based Kraid compiler becoming the default for newer Mali architectures in Mesa 27.0 and the Tyr kernel driver reaching a firmware-boot milestone in Linux 7.3. The updates improve shader compilation efficiency while advancing Rust-based GPU driver development in the Linux kernel. The…",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368560",
-    "date": "Oct 29, 2026 08:22",
-    "published_at": "2026-10-29T08:22:10Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Provenance Time Proposed As A New Timestamp For Linux",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368573",
-    "description": "While the Linux kernel and various file-system drivers already support the notion of the birth time for tracking a file/directory's birth/creation time, a slightly different provenance time \"ptime\" is now being proposed for the Linux kernel…",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368573",
-    "date": "Oct 29, 2026 07:06",
-    "published_at": "2026-10-29T07:06:13Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Ink Droplets In Motion Snag Top Prize In Nikon Small World Contest",
-    "link": "https://slashdot.org/story/26/10/29/0436243/ink-droplets-in-motion-snag-top-prize-in-nikon-small-world-contest?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "A 25-year-old German photographer won the 2026 Nikon Small World competition with a microscopic image freezing ink droplets in midair as an inkjet printer deposits them onto paper. Ars Technica reports that Ole Bielfeldt \"beat out 1,802 other entries hailing from 69 different countries.\" From the report: Bielfeldt became interested in photomicrography during the COVID-19 lockdown after discovering an old microscope in his parents' attic. He figured out how to build an adaptor out of a tube and some wood to connect the microscope to his father's camera and taught himself the art through trial and error, building custom tools as needed. He documents how he captures transformative images of everyday objects with behind-the-scenes videos posted to macrofying, his photography and videography brand.\n \nIt was Bielfeldt's curiosity about the inner workings of inkjet printers that inspired his winning entry, but capturing the action of ink drops being deposited on paper was a challenge, given that the process happens so quickly. The droplets, for instance, moved faster than the camera's shutter speed. Bielfeldt's solution was to deconstruct the printer so that the paper moved under a stationary (rather than moving) printhead, and then take the image in a dark room, using a flash to serve as the shutter, thereby freezing the ink drops mid-air. There was no need for pricey equipment. Bielfeldt does not use AI in his images, preferring to rely on traditional techniques. \"Ole Bielfeldt's winning image embodies what makes Nikon Small World so powerful: the intersection of microscope imaging, ingenuity, and artistry,\" said Eric Flem, a spokesperson for Nikon Instruments. \"By using a microscope objective in a different way, he transformed a familiar object into something altogether new and previously unseen. It is a reminder that the microscope is not only a scientific tool but also a creative one, capable of expanding how we see and imagine the world around us.\"\n \nThe full list of winners can be found here.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 29, 2026 07:00",
-    "published_at": "2026-10-29T07:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Armbian Imager 2.5 Released with First-Boot Profiles, Revamped Settings Page",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368587",
-    "description": "The Armbian team released Armbian Imager 2.5 today as a hefty update to this open-source utility for flashing the Armbian Linux operating system on single-board computers, bringing various new features and enhancements.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368587",
-    "date": "Oct 29, 2026 05:55",
-    "published_at": "2026-10-29T05:55:00Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "The sched_exit Microconference",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368595",
-    "description": "The sched_ext Microconference was very active this year at Linux Plumbers in Prague. It featured six talks, preceded by an opening discussion on the future direction of sched_ext.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368595",
-    "date": "Oct 29, 2026 04:42",
-    "published_at": "2026-10-29T04:42:34Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Bank of America Kindly Asks That You Don't Share Your Password With Your AI Assistant",
-    "link": "https://yro.slashdot.org/story/26/10/28/2247205/bank-of-america-kindly-asks-that-you-dont-share-your-password-with-your-ai-assistant?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Longtime Slashdot reader schwit1 shares a report from TechCrunch: In an email blast to customers titled \"Protecting your finances in the Al World,\" Bank of America urged customers to never share their username and password with another person or an outside service, \"including an Al-enabled tool or agent that offers to act on your behalf.\" [...] A spokesperson for Bank of America confirmed the authenticity of the bank's email that was posted to social media. But heed the bank's warning, for if things go wrong, it's on you. Account agreements at most banks hold customers responsible for anyone they give their log-in to. \"If you do share your credentials,\" its email reads, \"keep in mind that you're responsible for activity resulting from that access.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 29, 2026 03:30",
-    "published_at": "2026-10-29T03:30:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "GXVK: 3Dfx Glide API Implemented Atop Vulkan For Modern Usage",
-    "link": "https://www.phoronix.com/news/GXVK-3Dfx-Glide-Vulkan",
-    "description": "The open-source D7VK project that implements the Direct3D 7 / 6 / 5 / 3 APIs atop the Vulkan API for faster, modern performance is out with a new release. This new D7VK 2.4 release came as a bit of a surprise since it was just last month D7VK announced its maturity status and more or less in maintenance mode. But brought up in today's D7VK 2.4 announcement is an even bigger surprise: there's now an implementation of the 3Dfx Glide API atop Vulkan...",
-    "guid": "https://www.phoronix.com/news/GXVK-3Dfx-Glide-Vulkan",
-    "date": "Oct 29, 2026 00:44",
-    "published_at": "2026-10-29T00:44:56Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "[$] LWN.net Weekly Edition for October 29, 2026",
-    "link": "https://lwn.net/Articles/1102136/",
-    "description": "Inside this week's LWN.net Weekly Edition:\n        \n        \n Front: Python JIT; Kernel clean up; Rust panics; Future Rust features; Northstar browser; 7.4 merge window; Smaller kernel stacks.\n             Briefs: KeePassXC 2.8.0; Redox ring buffers; Rust in systemd; Quotes; ...\n             Announcements: Newsletters, conferences, security updates, patches, and more.\n            ",
-    "guid": "https://lwn.net/Articles/1102136/",
-    "date": "Oct 29, 2026 00:19",
-    "published_at": "2026-10-29T00:19:08Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "Anthropic Engineer Declares the Coding Interview Dead",
-    "link": "https://slashdot.org/story/26/10/28/2222217/anthropic-engineer-declares-the-coding-interview-dead?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "An Anthropic engineering manager says he has stopped using traditional coding interviews because AI can now outperform candidates on the kinds of programming challenges they typically contain. \"There's no more point in giving you a little React challenge than there is in quizzing people about assembly; Claude is now better at both,\" said Felix Rieseberg in a blog post. \"Our most impactful builders are successful regardless of how good they are at these tests.\" The Register reports: \"I don't think the coding interview is going to come back,\" said Rieseberg. \"It's easy to get sentimental given how many copies of 'Algorithms and Data Structures' were bought in hopes of unlocking good jobs and a better future -- or how the death of the coding interview is another milestone in software engineering reaching a new level of abstraction.\"\n \nAt the same time, he's not certain what will replace it. \"I'm probably not the only manager trying to figure out how to interview for people who build well with AI,\" Rieseberg wrote. \"I haven't quite gotten there yet -- but I'm scanning resumes and portfolios for little prototypes that exhibit taste, empathy, and principled thinking. If you have figured out something better, I'd love to hear how.\" \nIn a response posted to social media, Jaana Dogan, principal engineer at Google, said: \"I'm not doing a ton of coding interviews nowadays but I'd be interested to interview how people use coding agents,\" she wrote. \"That itself gives me more signals about candidates' coding skills.\"\n \n\"We are not seeing tech companies abandon skills assessments widely across the industry -- at least not yet,\" added Nicole Bachaud, labor economist at ZipRecruiter. \"In fact, based on our October 2026 Employer Survey of 1,500 employers, we see the tech industry (Information sector specifically) is actually the most likely to test for skills, with 62.5 percent of employers requiring formal skill tests on initial applications.\"\n \n\"The change at Anthropic might be reflecting a shift away from technical skills towards more human, soft skills,\" said Bachaud. \"As AI becomes fully capable of writing code, tech employers may be pivoting away from rote technical testing and heavily toward human-centric soft skills.\" She argues that while AI may be able to code well, it can't replace critical thinking. \"A staggering 61.5 percent of Information employers now report that 'critical thinking' is a primary skill lacking in today's candidate pool,\" she said.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 28, 2026 23:00",
-    "published_at": "2026-10-28T23:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "A report from the LPC sched_ext microconference",
-    "link": "https://lwn.net/Articles/1103426/",
-    "description": "The Linux Plumbers Conference blog has a\nreport from the sched_ext microconference held in Prague.\n\n\n\tThree main topics dominated the discussions\n\t\n\t Priority inversion and how to handle it in sched_ext: lock holder and\n  \t     lock waiter preemption, time slice extension, and making proxy execution\n  \t     work together with BPF schedulers.\n         Paravirtualized scheduling: letting the host and guest schedulers\n  \t     cooperate across the VM boundary, with sched_ext as the policy engine on\n  \t     the host.\n         Device and topology-aware scheduling: using hardware feedback (Intel\n  \t     HFI), device/accelerator locality and cache topology to drive task\n  \t     placement.\n\t\n",
-    "guid": "https://lwn.net/Articles/1103426/",
-    "date": "Oct 28, 2026 22:11",
-    "published_at": "2026-10-28T22:11:43Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "Massive Leak Exposes 41,000 Homeland Security Workers",
-    "link": "https://yro.slashdot.org/story/26/10/28/2158201/massive-leak-exposes-41000-homeland-security-workers?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "A massive leak has exposed records tied to more than 41,000 DHS employees and contractors, including roughly 10,000 ICE personnel. The data, reportedly taken from DHS's Okta login system, reveals phone numbers, email and office addresses, reporting relationships, and permission groups associated with undercover operations, wiretapping and surveillance tools. Wired reports: In all, the leak provides a map of how DHS is organized and how it operates. The records, which span DHS itself as well as seven component agencies, including Immigration and Customs Enforcement and US Customs and Border Protection, were last updated on August 19, 2026.\n \nThe transparency nonprofit Distributed Denial of Secrets and cybersecurity researcher and journalist maia arson crimew previewed the data to WIRED, which they say they obtained from a group calling itself the Department of Peace. DDoSecrets published the archive, which it calls \"Icepick,\" on Wednesday. In a press release, DDoSecrets says the data is from DHS's Okta login system. In a note with the files, the hackers wrote, \"They have our information, so it's only fair that we have theirs.\" An Okta spokesperson tells WIRED that it is unaware of any breach of its systems. \"We are aware of this report. Okta is secure, and we have no evidence our data or systems were compromised,\" the spokesperson says.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 28, 2026 22:00",
-    "published_at": "2026-10-28T22:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
   }
 ]
