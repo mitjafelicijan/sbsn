@@ -1,5 +1,261 @@
 [
   {
+    "title": "Google's AI Overviews Lowered Reddit's Traffic. Its Stock Dropped 29%",
+    "link": "https://tech.slashdot.org/story/26/10/31/0458218/googles-ai-overviews-lowered-reddits-traffic-its-stock-dropped-29?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Reddit's stock plunged 29.22% on Friday, reports CNBC, its worst drop since becoming a public company in 2024. \n\nThursday Reddit reported a sales growth that was weaker than previous quarters, and also forecast weak sales for the quarter to come (below analysts expectations):\n\nThe report comes as the company has seen a shift in its search referral traffic with the rise of Google's AI Overview. In an interview with CNBC, Reddit CEO Steve Huffman said search-referral traffic from Google went \"down meaningfully in this quarter\" due to AI... Multiple analysts downgraded the stock following Reddit's disappointing results, with Citizens noting that \"search changes highlight the problem with selling content to Google\" and that as referral problems worsen, uncertainty around user growth amid the login requirement switch \"puts more pressure on user monetization.\" \n\nReddit's CEO also said that forcing users to login will help the company's advertising business. \"Reddit is the last platform to provide basically unfettered logged-out access, and that's largely because of me. I've been holding that line.\" \n\n\"I think users will probably go through the same understanding that I have, which is that it's a sign of the times. It's an evolution of how these platforms work.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 31, 2026 15:50",
+    "published_at": "2026-10-31T15:50:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Enlightenment 0.28 Desktop Adds PipeWire Support, NetworkManager Module",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368684",
+    "description": "Enlightenment 0.28 has been released today by Carsten Haitzler as a major update to this free and open-source lightweight and modern desktop environment and window manager for Linux and BSD systems.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368684",
+    "date": "Oct 31, 2026 15:24",
+    "published_at": "2026-10-31T15:24:01Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Two US Senators Raise Privacy Concerns About Meta's 'Pervert Glasses'",
+    "link": "https://yro.slashdot.org/story/26/10/31/0553218/two-us-senators-raise-privacy-concerns-about-metas-pervert-glasses?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Meta's smart glasses face new questions from two U.S. Senators, reports Gizmodo.\n Oregon Sen. Ron Wyden and Massachusetts Sen. Edward Markey \"are requesting that Meta provide more information before Thanksgiving on whether it conducted detailed human rights due diligence and safety testing on the product before releasing it,\" reports Gizmodo. The Senators also requested information from Meta about \" how it evaluated the privacy risks posed by the glasses, and what kinds of safeguards are currently in place.\"\n\n\n\"Although Meta identified risks to bystander privacy and vulnerable populations before launching its glasses in 2021, it nevertheless launched a product tailor-made for invading the privacy of its users and bystanders,\" [the senators wrote in a letter Thursday...] The glasses have also been spotted on ICE agents during raids, and have raised potential surveillance concerns. The surveillance fears were even reportedly raised by the New York Police Department's counterterrorism unit in a memo issued earlier this year.... \n\n\"Meta's own disclosures confirm that imagery processed through its glasses' visual AI features may be retained and used to train AI systems, including with the assistance of human reviewers,\" the senators' letter states, calling the practice an invasion of privacy. \"Retaining that material for AI development, thereby extending the period during which it can be accessed, disclosed, or misused, exploits people's highly sensitive information for Meta's commercial benefit.\"\n\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 31, 2026 14:50",
+    "published_at": "2026-10-31T14:50:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Enlightenment 0.28 Released With Many Improvements",
+    "link": "https://www.phoronix.com/news/Enlightenment-0.28",
+    "description": "Enlightenment 0.27 released at the beginning of 2025 and since then there's been no major feature update, falling off their roughly 12 month release cadence. But out this Halloween is Enlightenment 0.28 now with the better part of two years worth of changes...",
+    "guid": "https://www.phoronix.com/news/Enlightenment-0.28",
+    "date": "Oct 31, 2026 14:46",
+    "published_at": "2026-10-31T14:46:26Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Linux Mint Developing New Apps For Terminal \u0026 System Monitoring",
+    "link": "https://www.phoronix.com/news/Linux-Mint-October-2026",
+    "description": "Linux Mint is out with their October 2026 status report to outline various initiatives they have underway in their lead-up to the Linux Mint 27 stable release happening on/around Christmas...",
+    "guid": "https://www.phoronix.com/news/Linux-Mint-October-2026",
+    "date": "Oct 31, 2026 14:36",
+    "published_at": "2026-10-31T14:36:11Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "How We Could Have Backdoored Bash (Hacktron blog)",
+    "link": "https://lwn.net/Articles/1104262/",
+    "description": "The Hacktron blog documents how\nthe group was able to compromise the GNU Savannah forge and could have\npushed malware into any of the projects hosted there.\n\n\n\tUsing Hacktron, we found that an email address like\n\t`touch${IFS}/tmp/savane-rce-proof`@attacker.example gave any\n\tregistered user code execution on its backend. From there, we made\n\tour account a superuser, impersonated Bash's maintainer, and\n\tconfirmed we could add an SSH key with push access to the upstream\n\tBash repository. An unpatched kernel gave us root access and access\n\tto a GNU backup server. We reported it to the FSF on May 11, 2026.\n",
+    "guid": "https://lwn.net/Articles/1104262/",
+    "date": "Oct 31, 2026 14:00",
+    "published_at": "2026-10-31T14:00:42Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "How to Install Yarn on Ubuntu 24.04 (via 3 Methods)",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368668",
+    "description": "Learn how to install the Yarn package manager on Ubuntu using NPM, Corepack, and the APT repository with practical examples.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368668",
+    "date": "Oct 31, 2026 12:35",
+    "published_at": "2026-10-31T12:35:38Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "New Linux 7.4 Feature For Reducing AI Noise Already Reverted Due To A \"Crazy Beast\"",
+    "link": "https://www.phoronix.com/news/Linux-7.4-Drops-Taint-Bind",
+    "description": "A new feature merged last week for Linux 7.4 to help reduce AI/LLM generated noise from invalid/irrelevant testing configurations is now reverted due to a \"crazy beast\" in the VFIO subsystem...",
+    "guid": "https://www.phoronix.com/news/Linux-7.4-Drops-Taint-Bind",
+    "date": "Oct 31, 2026 12:15",
+    "published_at": "2026-10-31T12:15:22Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Denmark’s Collabora Pilot Was Never The Microsoft Replacement it Was Made Out to Be",
+    "link": "https://feed.itsfoss.com/link/24361/17512053/denmark-collabora-pilot-update",
+    "description": "Collabora says a ministry merger paused the test, while the ministry says it was interrupted when the election was called.",
+    "guid": "6ae43b2f1b851a000184078f",
+    "date": "Oct 31, 2026 12:03",
+    "published_at": "2026-10-31T12:03:47Z",
+    "image": "https://itsfoss.com/content/images/2026/10/denmark-collabora-banner-1.png",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "This app lets you manage Nothing \u0026 CMF earbuds on Linux",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368639",
+    "description": "Adjusting active noise cancellation (ANC) on Nothing or CMF earbuds means taking out your phone to use the official mobile app. EarA, a new open-source tool, that. It’s a GTK4 app (with a CLI for those who prefer the terminal), and it controls settings on earbuds like the Nothing Ear (a) and CMF Buds 2, from your Linux desktop. Noise control/ANC levels can be switched with a click. There are…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368639",
+    "date": "Oct 31, 2026 11:20",
+    "published_at": "2026-10-31T11:20:41Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Supersonic Airliner In Doubt As Company Shifts to Powering AI Data Centers",
+    "link": "https://hardware.slashdot.org/story/26/10/30/2355244/supersonic-airliner-in-doubt-as-company-shifts-to-powering-ai-data-centers?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Boom Supersonic's plans to launch its Overture passenger jet by 2029 are facing growing doubts as the company pivots toward manufacturing natural gas turbines for AI data centers. Ars Technica reports: One of the company's first customers, United Airlines CEO Scott Kirby, has expressed doubts about Boom's original plan to deliver the first Overture supersonic airliner in 2029. Kirby's latest frank assessment came during an interview with the Office Hours: Business Edition podcast that appeared on October 28, 2026. \"'29 is their official timeline,\" Kirby told podcast host Monica Langley. \"It's not going to happen in '29 -- it's going to take longer.\"\n \n[...] Much of Boom's recent focus has been on developing natural gas turbines to power AI data centers as an additional revenue stream. On October 22, the company unveiled another factory in Centennial, Colorado, dedicated to producing a 42-megawatt natural gas turbine called Superpower for data centers. [...] Boom described its new Superpower factory as making turbine parts while still undergoing construction. It aims to deliver the first gas turbines to AI data center customers in mid-2027 while ramping up annual production to 25 turbines in 2028 and 50 turbines by 2029.\n \n[...] Still, Boom has characterized the development of a gas turbine for data centers as being synergistic with its design of the Symphony engine for the Overture airliner. During the October announcement, it also described having completed a prototype turbine core, called Sprint Core, that is intended to eventually power both the Superpower gas turbine and Symphony engine for the airliner. That turbine core is set to undergo testing at the Colorado Air \u0026 Space Port, with Boom planning to fire the turbine for the first time before Thanksgiving. That would be a concrete development milestone, but the company still has much to do in proving it can get both its AI data center and supersonic airliner ventures off the ground.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 31, 2026 11:00",
+    "published_at": "2026-10-31T11:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "KDE Plasma 6.9 Lands Some New Performance Optimizations",
+    "link": "https://www.phoronix.com/news/KDE-Plasma-6.9-More-Performance",
+    "description": "I love a good performance optimization and there are several this week in the KDE space with Plasma 6.9 development heating up...",
+    "guid": "https://www.phoronix.com/news/KDE-Plasma-6.9-More-Performance",
+    "date": "Oct 31, 2026 10:51",
+    "published_at": "2026-10-31T10:51:01Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Ceph In Linux 7.4 Adds Global Mount Option For Lazy I/O",
+    "link": "https://www.phoronix.com/news/Linux-7.4-Ceph",
+    "description": "The Ceph kernel client changes have been submitted for Linux 7.4 ahead of its merge window expected to wrap up on Sunday...",
+    "guid": "https://www.phoronix.com/news/Linux-7.4-Ceph",
+    "date": "Oct 31, 2026 10:30",
+    "published_at": "2026-10-31T10:30:00Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Tails 7.16 Privacy-Focused Linux Distro Released with Tor Browser 16",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368641",
+    "description": "Tails 7.16 updates Tor Browser to version 16, upgrades the Tor client, and fixes OpenPGP support in Thunderbird.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368641",
+    "date": "Oct 31, 2026 10:14",
+    "published_at": "2026-10-31T10:14:40Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "GNOME Now Has An Established RFC Process, GNOME OS Continues Improving",
+    "link": "https://www.phoronix.com/news/GNOME-Establishes-RFC",
+    "description": "In recent weeks GNOME developers have been discussing a formal Request For Comments \"RFC\" process for solving major technical questions and changes to GNOME. This formalized process for succeeding their ad-hoc processes up to now has reached consensus...",
+    "guid": "https://www.phoronix.com/news/GNOME-Establishes-RFC",
+    "date": "Oct 31, 2026 10:10",
+    "published_at": "2026-10-31T10:10:19Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "DXVK-NVAPI 0.9.3 Brings Nice Improvements For Linux Gamers On Latest NVIDIA Drivers",
+    "link": "https://www.phoronix.com/news/DXVK-NVAPI-0.9.3",
+    "description": "DXVK-NVAPI 0.9.3 is out this weekend as a new feature update to this NVIDIA NVAPI implementation used by Valve as part of Steam Play with Proton for nicely integrating NVIDIA technologies into various Windows games running on Linux...",
+    "guid": "https://www.phoronix.com/news/DXVK-NVAPI-0.9.3",
+    "date": "Oct 31, 2026 10:00",
+    "published_at": "2026-10-31T10:00:00Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "CUDA Oxide 0.3 Vastly Improves Rust Support For NVIDIA CUDA Programming",
+    "link": "https://www.phoronix.com/news/CUDA-Oxide-0.3",
+    "description": "NVIDIA software engineers released CUDA Oxide 0.3 for closing out October. CUDA Oxide as a reminder is their experimental Rust to CUDA compiler that has been seeing a lot of activity in recent months...",
+    "guid": "https://www.phoronix.com/news/CUDA-Oxide-0.3",
+    "date": "Oct 31, 2026 09:50",
+    "published_at": "2026-10-31T09:50:00Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Sculpt OS 26.10 Released - Now Powered By Genode's Custom Microkernel",
+    "link": "https://www.phoronix.com/news/Sculpt-OS-26.10",
+    "description": "Sculpt OS as the general purpose operating system project born out of the Genode initiative is now using the project's own microkernel rather than a third-party microkernel...",
+    "guid": "https://www.phoronix.com/news/Sculpt-OS-26.10",
+    "date": "Oct 31, 2026 09:37",
+    "published_at": "2026-10-31T09:37:22Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Mastering Zip and Unzip Commands on Linux",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368669",
+    "description": "This kickstart guide will teach you the distinctions between Zip and Tarball and the installation of Zip and Unzip on your chosen Linux system, with command examples.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368669",
+    "date": "Oct 31, 2026 09:03",
+    "published_at": "2026-10-31T09:03:38Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Remote code execution on Linux systems with multipath TCP",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368656",
+    "description": "On October 27, LLM provider Anthropic reported on a remotely exploitable use-after-free bug affecting systems with multipath TCP listeners open. The bug works by triggering a response to a retransmitted SYN packet at the same moment that the TCP connection is established in another thread, causing the first thread to access the connection's options structure after the second thread has freed it.…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368656",
+    "date": "Oct 31, 2026 07:49",
+    "published_at": "2026-10-31T07:49:45Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Google's First Data Center Satellite Is Online and Writing Poetry",
+    "link": "https://science.slashdot.org/story/26/10/30/2344228/googles-first-data-center-satellite-is-online-and-writing-poetry?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Google's first experimental space-based data center is operational after launching earlier this month, successfully running its Gemma 4 AI model aboard a satellite and generating a haiku about being in orbit. TechCrunch reports: The satellite, which carries four Google Tensor Processing Units (TPUs) and generates up to 1 kW of electricity, is intended to pave the way for future networks of close-flying satellites performing large inference workloads in orbit. However, the power demands of the TPU mean it can only turn one on for about 20 minutes at a time, complicating the already tricky business of space-to-ground communications.\n \nAfter a commissioning process that tested out the satellite's subsystems over about three weeks, the spacecraft was ready to work. When engineers on the ground sent their first prompt this week, they asked the model pre-loaded onto the satellite, Google DeepMind's Gemma 4, to write a haiku about being in space. And thus:\n \nBlue marble below\nData streams in silent grace\nStarlight feeds my core.\n \nThe ongoing test campaign will examine how the chips perform under thermal stress and in the space radiation environment. [...] If the TPUs onboard this spacecraft prove capable, the next step will be launching two more satellites equipped with the advanced chips in 2027. Those spacecraft will support higher power generation and demonstrate inter-satellite optical links.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 31, 2026 07:00",
+    "published_at": "2026-10-31T07:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Labwc 0.20.3 Wayland Compositor Adds Custom Pointer Acceleration",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368661",
+    "description": "Labwc 0.20.3 introduces custom pointer acceleration, new input settings, and fixes for screen locking, XWayland, and window management.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368661",
+    "date": "Oct 31, 2026 06:38",
+    "published_at": "2026-10-31T06:38:55Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "RISC-V Has A Nice Portable Performance Optimization With Linux 7.4",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368635",
+    "description": "The RISC-V architecture changes were merged today for the Linux 7.4 kernel with one nice optimization standing out…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368635",
+    "date": "Oct 31, 2026 05:25",
+    "published_at": "2026-10-31T05:25:25Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Szyszka: A Bulk File Renamer Written in Rust with GTK 4 for Linux",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368637",
+    "description": "Quickly bulk rename files or directories using a simple yet powerful tool named Szyszka on Linux, Windows, and macOS.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368637",
+    "date": "Oct 31, 2026 04:10",
+    "published_at": "2026-10-31T04:10:47Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Cisco Gives Engineer Unlimited AI Tokens To Rewrite Legacy Code",
+    "link": "https://developers.slashdot.org/story/26/10/30/2339234/cisco-gives-engineer-unlimited-ai-tokens-to-rewrite-legacy-code?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from Fortune: Gen Z can't catch a break. Entry-level jobs are vanishing; some 40% of bosses say they plan to hire fewer grads because AI can do the job cheaper, and young workers are routinely slammed for showing up late and refusing to put in overtime for free. Cisco's president and chief product officer Jeetu Patel isn't buying it -- he's just handed one of the company's biggest jobs to a 27-year-old he found hidden in the org chart \"five levels\" below him. \"I've given him unlimited tokens because he's going to refactor code,\" Patel told Fortune at a small roundtable dinner. \"So I'm like, you can go, you can go nuts.\"\n \nThe \"him\" is Padmanabhan Krishnamurthy, or \"Paddy,\" as Patel affectionately calls him. He joined Cisco in 2025 after the $429 billion tech giant acquired EzDubs, the real-time translation startup Krishnamurthy cofounded in 2023. And despite coming in as a former founder with CEO experience, he was, in Patel's words, \"buried away in the organization doing something unstrategic.\" That changed when Patel dropped into Cisco's San Francisco office, and the pair got talking.\n \nKrishnamurthy reckoned he could rewrite Cisco's legacy code with a two-person team. Patel says even the most AI-forward people on his own team weren't thinking that way. So he has given himself four weeks to prove it, with the final goal of rewriting 98% of Cisco's legacy code within 24 months. Now, he's on the hunt for more Paddys: young hires who will \"challenge the system and the status quo,\" or, as he puts it, be \"an energizer bunny that just goes out and kind of revs everyone up.\" \"The only way for us to keep accelerating is to make sure we're surrounded by people with a broad range of experience,\" said Patel. \"Roughly one-third of my team is experienced, scaled operators who understand how the Cisco engine works. The second third are systems thinkers from the market who bring the outside-in perspective. And the final third is made of entrepreneurial founders, CEOs, and engineers who are AI-native who operate in founder mode.\"\n \n\"Either of these groups by themselves aren't nearly as potent as when all three work together. It's what creates magic.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 31, 2026 03:30",
+    "published_at": "2026-10-31T03:30:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
     "title": "Working Exploit for a Linux Kernel Flaw Made Public",
     "link": "https://lxer.com/module/newswire/ext_link.php?rid=368663",
     "description": "Even before a bug received its CVE identifier or an upstream fix, the local privilege escalation vulnerability exploit found its way into the wild.",
@@ -92,6 +348,16 @@
     "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
     "source": "slashdot.org",
     "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Postgres 19 is late, and it's AI's fault",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368662",
+    "description": "Over the past decade, the timing of PostgreSQL major releases has become very predictable: no earlier than the middle of September, and no later than the middle of October. This year is going to be different. PostgreSQL 19 most likely won’t be released until November, and it’s not impossible that the project could decide to postpone the release further.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368662",
+    "date": "Oct 30, 2026 19:52",
+    "published_at": "2026-10-30T19:52:11Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
   },
   {
     "title": "US Tech Stocks See Sharp Falls As AI Spending Nears $1 Trillion",
@@ -199,16 +465,6 @@
     "source_url": "https://slashdot.org/"
   },
   {
-    "title": "Haas: Postgres 19 is late, and it's AI's fault",
-    "link": "https://lwn.net/Articles/1104210/",
-    "description": "PostgreSQL developer Robert Haas writes\nabout the struggles the project has encountered in putting together its\nnext release.\n\n\n\tIn the end, I don't think that the delay in shipping PostgreSQL 19\n\tis particularly concerning. It is not a long delay in the grand\n\tscheme of things, and it emerges directly from the project's\n\tconcern for quality.\n\n\tThe long-term picture is less clear and in some ways more\n\ttroubling: given that we have forty years of bugs that humans were\n\tunable to find but LLMs are quite capable of discovering, how are\n\twe ever going to catch up, and how will PostgreSQL continue to\n\tinnovate? Right now, I'm not sure. What I do know is that I, and\n\tmany others, are working really hard to figure it out.\n\n\nLWN looked at the PostgreSQL 19 release\nand its challenges in September.",
-    "guid": "https://lwn.net/Articles/1104210/",
-    "date": "Oct 30, 2026 16:52",
-    "published_at": "2026-10-30T16:52:59Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
     "title": "Reddit Will Force Everyone to Log In",
     "link": "https://tech.slashdot.org/story/26/10/30/0155237/reddit-will-force-everyone-to-log-in?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
     "description": "Reddit plans to require users to log in to browse the platform, ending its longstanding practice of allowing anonymous visitors to access posts and discussions. According to CEO Steve Huffman, a key reason behind the decision is to curb unauthorized scraping and automated traffic.\n \n\"This is a big change for Reddit, where we've allowed logged-out access to basically all of Reddit for the last two decades,\" Huffman says. \"And I don't know about you, but as someone whose life has been defined by the open internet, it's a big change for me. But I've come to the conclusion that this is the right decision for our platform and the right decision for our business.\" The Verge reports: There's no definitive timeline on when this change will roll out to all users, or how the site will work if you're logged out. (If I send my friend a link to a thread and they aren't logged in, what will they see?) To start, Reddit will test the logged-in requirement in \"select markets outside the US\" in the \"coming months,\" according to CEO Steve Huffman. \"We'll look at the impact on the user experience, on our business, and on the whole Reddit ecosystem, figure out where the right boundaries are, and go from there.\" Reddit has also rebuilt and is rereleasing the Reddit app's incognito mode.\n \nHuffman claims the login requirement is better for Reddit's user experience and its ads business and is \"more protective of Reddit data.\" The \"vast majority\" of unauthorized Reddit access happens \"through our logged-out experiences,\" though the company will still strike licensing deals of its data with companies, like the deals it made with OpenAI and Google in 2024. Huffman notes that Reddit does not need to know a logged-in user's identity -- \"Honestly, we don't want to know\" -- just that the user is logged in at all. And he says that more logged-in users lets the company deliver \"more relevant ads.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
@@ -218,16 +474,6 @@
     "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
     "source": "slashdot.org",
     "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Remote code execution on Linux systems with multipath TCP",
-    "link": "https://lwn.net/Articles/1104192/",
-    "description": "\nOn October 27, LLM provider Anthropic\nreported\non a\n\nremotely exploitable use-after-free bug affecting systems with\nmultipath TCP listeners open. The bug works by triggering a response to a\nretransmitted SYN packet at the same moment that the TCP connection is\nestablished in another thread, causing the first thread to access the\nconnection's options structure after the second thread has freed it. The first\nthread can then disclose kernel memory or cause a buffer overflow, writing an\nattacker-controlled payload. The fix was\n\nto only free the structure after an RCU grace period.\nOn October 29, the Go security team\nadvised\nthat all programs written in Go use multipath TCP by default, so many\nsystems may be unknowingly vulnerable. And, of course, there is always the\npossibility of related bugs in other sections of the TCP stack. Users may be\nwise to update to a patched kernel as soon as one becomes available for their\ndistribution.\n",
-    "guid": "https://lwn.net/Articles/1104192/",
-    "date": "Oct 30, 2026 15:45",
-    "published_at": "2026-10-30T15:45:27Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
   },
   {
     "title": "Binance Suffers Biggest Crypto Hack In History With $6.3 Billion Affected [UPDATE]",
@@ -272,16 +518,6 @@
     "source_url": "https://slashdot.org/"
   },
   {
-    "title": "Best Linux Distros for Chromebooks in 2026 (10 Picks Compared)",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368649",
-    "description": "This guide covers the two ways to run Linux on a Chromebook, ten distros worth your time, and the checks that save you a wasted afternoon.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368649",
-    "date": "Oct 30, 2026 14:59",
-    "published_at": "2026-10-30T14:59:02Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
     "title": "Eight more stable kernel updates",
     "link": "https://lwn.net/Articles/1104177/",
     "description": "\nGreg Kroah-Hartman has announced the release of the 7.3.1,\n7.2.14,\n6.18.60,\n6.12.115,\n6.6.161,\n6.1.191,\n5.15.224, and\n5.10.273 stable kernels. As usual, he advises\nall users to update—advice that seems especially wise given the\nincreased number of security-relevant bug fixes that the kernel is seeing these days.\n[Edit: the 7.2.15 stable release is already in review as well.]\n",
@@ -292,16 +528,6 @@
     "source_url": "https://lwn.net"
   },
   {
-    "title": "Denmark’s Digital Sovereignty Effort Stalls Amid Government Shakeup",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368650",
-    "description": "An unfinished Collabora trial has been cast as an open source failure. The timeline tells a different story.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368650",
-    "date": "Oct 30, 2026 13:50",
-    "published_at": "2026-10-30T13:50:15Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
     "title": "Security updates for Friday",
     "link": "https://lwn.net/Articles/1104174/",
     "description": "Security updates have been issued by AlmaLinux (aspell, cjose, curl, gcc-toolset-15-gcc, httpd:2.4, ignition, java-21-openjdk, libX11, libXi, libXrender, libXtst, mariadb:10.11, nodejs:24, python-pillow, python3.12-urllib3, and webkit2gtk3), Debian (imagemagick, libdatetime-timezone-perl, python-git, tor, tzdata, vlc, and wordpress), Fedora (accessibility-inspector, akonadi-calendar, akonadi-calendar-tools, akonadi-contacts, akonadi-import-wizard, akonadi-mime, akonadi-search, akonadi-server, akonadiconsole, akregator, alligator, analitza, angelfish, applet-window-buttons, arianna, ark, artikulate, audex, audiocd-kio, audiotube, aurorae, baloo-widgets, blinken, bluedevil, bomber, bovo, breeze-gtk, brotli, bup, calendarsupport, calindori, calligra, cantor, colord-kde, cxx-rust-cssparser, dolphin, dolphin-plugins, dragon, elisa-player, eventviews, falkon, fcitx-configtool, ffmpegthumbs, filelight, firefox, flatpak-kcm, francis, ghostwriter, granatier, grantlee-editor, grantleetheme, grub2-breeze-theme, gwenview, incidenceeditor, isoimagewriter, itinerary, juk, k3b, kaccounts-integration, kaccounts-providers, kactivitymanagerd, kaddressbook, kajongg, kalarm, kalgebra, kalk, kalm, kalzium, kamera, kamoso, kanagram, kapman, kapptemplate, kasts, kate, katomic, kbackup, kblackbox, kblocks, kbounce, kbruch, kcachegrind, kcalc, kcalutils, kcharselect, kclock, kcolorchooser, kcron, kde-cli-tools, kde-connect, kde-dev-scripts, kde-dev-utils, kde-gtk-config, kde-inotify-survey, kde-partitionmanager, kdebugsettings, kdecoration, kdeedu-data, kdegraphics-mobipocket, kdegraphics-thumbnailers, kdenetwork-filesharing, kdenlive, kdepim-addons, kdepim-runtime, kdeplasma-addons, kdesdk-kioslaves, kdesdk-thumbnailers, kdevelop, kdevelop-php, kdevelop-python, kdf, kdialog, kdiamond, kdnssd, kdominate, keditbookmarks, keepsecret, keysmith, kf6-baloo, kfind, kfourinline, kgeography, kget, kglobalacceld, kgoldrunner, kgpg, kgraphviewer, khangman, khealthcertificate, khelpcenter, kidentitymanagement, kig, kigo, killbots, kimagemapeditor, kimap, kinfocenter, kio-admin, kio-extras, kio-gdrive, kirigami-gallery, kiriki, kiten, kitinerary, kjournald, kjumpingcube, kldap, kleopatra, klettres, klickety, klines, kmag, kmahjongg, kmail, kmail-account-wizard, kmailtransport, kmbox, kmenuedit, kmines, kmix, kmousetool, kmouth, kmplot, knavalbattle, knetwalk, knights, knighttime, knot, koko, kolf, kollision, kolourpaint, kompare, kongress, konqueror, konquest, konsole, kontact, kontactinterface, kontrast, konversation, kopeninghours, korganizer, kosmindoormap, kpat, kpimtextedit, kpipewire, kpkpass, kpmcore, kpublictransport, kqtquickcharts, krdc, krdp, krecorder, kreversi, krfb, kruler, ksanecore, kscreen, kscreenlocker, kshisen, ksirk, ksmtp, ksnakeduel, kspaceduel, ksquares, ksshaskpass, ksudoku, ksystemlog, ksystemstats, kteatime, ktimer, ktnef, ktorrent, ktouch, ktrip, ktuberling, kturtle, kubrick, kunifiedpush, kup-backup, kwalletmanager5, kwave, kwayland, kwayland-integration, kweather, kweathercore, kwin, kwin-zones, kwordquiz, kwrited, layer-shell-qt, libgravatar, libkcddb, libkdcraw, libkdegames, libkdepim, libkeduvocdocument, libkexiv2, libkgapi, libkleo, libkmahjongg, libkomparediff2, libksane, libkscreen, libksieve, libksysguard, libktorrent, libplasma, libquotient, lokalize, lskat, mailcommon, mailimporter, marble, markdownpart, massif-visualizer, mbox-importer, merkuro, messagelib, mimetreeparser, mingw-python-certifi, minuet, neochat, ocean-sound-theme, okular, oxygen-sounds, palapeli, pam-kwallet, parley, perl-Alien-Brotli, picmi, pim-data-exporter, pim-sieve-editor, pimcommon, plasma-activities, plasma-activities-stats, plasma-bigscreen, plasma-breeze, plasma-browser-integration, plasma-camera, plasma-desktop, plasma-dialer, plasma-discover, plasma-disks, plasma-drkonqi, plasma-firewall, plasma-integration, plasma-keyboard, plasma-login-manager, plasma-milou, plasma-mobile, plasma-nano, plasma-nm, plasma-oxygen, plasma-pa, plasma-phonebook, plasma-print-manager, plasma-sdk, plasma-settings, plasma-setup, plasma-systemmonitor, plasma-systemsettings, plasma-thunderbolt, plasma-union, plasma-vault, plasma-wayland-protocols, plasma-welcome, plasma-workspace, plasma-workspace-wallpapers, plasma5support, plasmatube, plymouth-kcm, plymouth-theme-breeze, polkit-kde, powerdevil, poxml, qmlkonsole, qqc2-breeze-style, qrca, rocs, sddm-kcm, signon-kwallet-extension, skanlite, skanpage, skladnik, spacebar, spectacle, step, svgpart, sweeper, tokodon, trafficserver, umbrello, xdg-desktop-portal-kde, yakuake, and zanshin), Mageia (cfitsio, libsolv, tomcat, and xrdp), Oracle (bind, cjose, curl, dogtag-pki, expat, gcc-toolset-15-gcc, ignition, kernel, libX11, libXrender, libXtst, php, python3.12-urllib3, and webkit2gtk3), SUSE (389-ds, aws-nitro-enclaves-binaryblobs-upstream, brotli, chromium, firefox, flatpak, gnutls, google-osconfig-agent, haproxy, hawk2, kernel, libapr1, libtcnative-1-0, tomcat, liboath-devel, libpcre2-16-0, librecad, libXi-devel, libXtst-devel, python311, python313, python313-markdown2, python313-xhtml2pdf, rabbitmq-server, roundcubemail, rust-keylime, and xen), and Ubuntu (dotnet8, dotnet10, dotnet11).",
@@ -310,16 +536,6 @@
     "published_at": "2026-10-30T13:37:12Z",
     "source": "lwn.net",
     "source_url": "https://lwn.net"
-  },
-  {
-    "title": "OuijaCNC",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368642",
-    "description": "Spooky season is officially upon us. Check out this self-playing Ouija board built by one of our colleagues.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368642",
-    "date": "Oct 30, 2026 12:40",
-    "published_at": "2026-10-30T12:40:35Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
   },
   {
     "title": "Another Week, Another Vibe Coded OS; Closed-Source In The Name Of Security",
@@ -341,27 +557,6 @@
     "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/390405321id30094gol.webp",
     "source": "gamingonlinux.com",
     "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Gelly is a GTK desktop music player for Jellyfin and Navidrome",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368634",
-    "description": "If you run your own music streaming server via Jellyfin or Navidrome/Subsonic, you’ll want a decent desktop player – Gelly is a solid choice for GNOME. It bills itself as “native, lightweight music player” for the aforementioned streaming servers (and compatible ones). It’s written in Rust and GTK4/libadwaita and, as a good players should, it lets you browse, play and control music playback.…",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368634",
-    "date": "Oct 30, 2026 11:28",
-    "published_at": "2026-10-30T11:28:38Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "First Wired XR Glasses Powered By Android XR",
-    "link": "https://tech.slashdot.org/story/26/10/29/1839246/first-wired-xr-glasses-powered-by-android-xr?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "XREAL has launched the AURA, its first wired augmented reality glasses powered by Google's Android XR platform. They feature transparent Micro-OLED displays, a 70-degree field of view, Gemini AI integration, and a Snapdragon Reality Elite processor. TechPowerUp reports: The device is built around a simple idea: your apps, screens, entertainment, and AI assistant should be able to come with you wherever you go. On day-one, users have access to millions of familiar mobile apps and games from Google Play, alongside many experiences specifically for XR. Android XR brings familiar hand and voice inputs to AURA, while Gemini makes the experiences more natural and intuitive by working across what users see and do.\n \nWith Wired Mirroring, users can plug a computer or handheld gaming console directly into XREAL AURA via USB-C and instantly turn it into a massive private spatial window. That means a laptop, handheld gaming device, or other compatible USB-C device can sit alongside native Android XR apps in a user's spatial workspace. Whether turning a plane seat into a private multi-monitor setup, watching a movie on a large virtual screen, or playing Android and console games in an immersive spatial environment, XREAL AURA is designed to make spatial computing practical, portable, and useful.\n \n[...] For work, AURA creates a portable multi-window workspace without requiring a physical monitor. Users can open Android XR apps, mirror a laptop, place windows in virtual space, and use Gemini to help understand or act on what is on screen. For entertainment, AURA becomes a private theater on demand. Users can access familiar streaming apps, expand content into a large virtual display, and use electrochromic dimming to create a more immersive viewing experience while remaining aware of their surroundings when needed. For play, AURA supports Android games and compatible mirrored gaming devices, enabling users to play on a large and immersive private display. The glasses are available to order today, with limited-time pricing starting at $1,099 for the 12GB RAM and 256GB storage model. Devices are expected to begin shipping in mid-November.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 30, 2026 11:00",
-    "published_at": "2026-10-30T11:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
   },
   {
     "title": "Check out the demo for INANIMA, a retro survival-horror inspired by Resident Evil and SIGNALIS",
@@ -394,16 +589,6 @@
     "published_at": "2026-10-30T10:21:54Z",
     "source": "phoronix.com",
     "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Yay 13.1 AUR Helper Released with Faster Dependency Resolution, Improved Search",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368579",
-    "description": "Yay 13.1 improves dependency resolution performance, package search accuracy, repository handling, and Lua scripting capabilities.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368579",
-    "date": "Oct 30, 2026 10:16",
-    "published_at": "2026-10-30T10:16:41Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
   },
   {
     "title": "Dune: Awakening's free Blood and Ice expansion launches December 1",
@@ -480,16 +665,6 @@
     "source_url": "https://www.gamingonlinux.com/"
   },
   {
-    "title": "TUXEDO Nano Pro Gen15 Mini Linux PC Launches with Intel CPU, Up to 128 GB RAM",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368623",
-    "description": "Linux hardware vendor TUXEDO Computers unveiled today the 15th generation (Gen15) of the TUXEDO Nano Pro mini PC powered by an Intel CPU and featuring full Linux support.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368623",
-    "date": "Oct 30, 2026 09:06",
-    "published_at": "2026-10-30T09:06:26Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
     "title": "Epic Games Launcher Preview updated to fix logins on some Linux systems",
     "link": "https://www.gamingonlinux.com/2026/10/epic-games-launcher-preview-updated-to-fix-logins-on-some-linux-systems/",
     "description": "The in-development Epic Games Launcher Preview that has Linux support has seen another few updates, and now more Linux users should be able to actually login.Read the full article on GamingOnLinux.",
@@ -499,109 +674,5 @@
     "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/epicgames.jpg",
     "source": "gamingonlinux.com",
     "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "FAT32 File-System Seeing As Much As 265x Improvement With Linux 7.4",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368611",
-    "description": "A change merged for Linux 7.4 is showing some mighty big speed-ups for the FAT32 file-system…",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368611",
-    "date": "Oct 30, 2026 07:57",
-    "published_at": "2026-10-30T07:57:56Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Proton CEO Is In 'Full AI Psychosis'",
-    "link": "https://slashdot.org/story/26/10/30/0126236/proton-ceo-is-in-full-ai-psychosis?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "According to 404 Media, Proton CEO Andy Yen is aggressively pushing AI adoption while fostering what workers describe as a culture of fear that discourages raising security concerns or challenging leadership. The investigation is based on interviews with eight current and one former Proton employees, as well as internal Slack chats, meeting recordings, and an AI manifesto written by the company's CTO. Longtime Slashdot reader devnulljapan summarizes the findings: Engineers at Proton, which makes the encrypted email service Proton Mail and a suite of privacy- and security-focused products, including an encrypted drive service, an authenticator app, and a password manager, are being pushed to \"stop lovingly handcrafting all our code and use AI more.\" Workers describe an environment where employees have genuine concerns about security or being asked to develop security products with AI but feel unable to voice them, lest Yen berates them in front of everyone or threatens their employment at the company. \"The CEO is in full AI psychosis and has been for a while now,\" one of the sources told 404 Media. Yen reportedly dismissed an employee's request for additional security testing before releasing new code, calling it \"bullshit and loser thinking\" and insisting that \"only losers think like that.\" In a separate exchange over Proton's post-quantum encryption rollout, Yen criticized how the company communicated the feature's limitations and told employees that \"perception is more important than truth, the truth doesn't matter if you don't win on perception.\"\n \n\"The train is coming, get onboard or get crushed. Don't be the professional fax machine operator in the internet age,\" Yen wrote to the security Slack channel. \"I think by the end of this year most developers stop programming and start writing specs for tests that AI will code and run, to validate AI written code that humans will no longer be able to review. This will be the last year that we hire engineers, and starting next year we hire what we used to call product managers, to build things with AI.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 30, 2026 07:00",
-    "published_at": "2026-10-30T07:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "LibreOffice 26.8.2 Open-Source Office Suite Released with More Than 30 Bug Fixes",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368617",
-    "description": "The Document Foundation announced today the general availability of LibreOffice 26.8.2 as the second maintenance update to the latest and greatest LibreOffice 26.8 office suite series with compatibility and text import improvements.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368617",
-    "date": "Oct 30, 2026 06:49",
-    "published_at": "2026-10-30T06:49:48Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "NVIDIA Vera Single vs. Dual Socket CPU Performance",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368622",
-    "description": "For those curious how NVIDIA Vera is scaling between single and dual socket deployments, here are some benchmarks I carried out a while back exploring the power and performance from one to two Vera CPUs.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368622",
-    "date": "Oct 30, 2026 05:37",
-    "published_at": "2026-10-30T05:37:13Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Is Ubuntu Eyeing Immutability? Canonical Restarts Core Desktop and Eyes a Firmware Change for LTS",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368613",
-    "description": "Core Desktop could run apps that can’t run natively in a sandbox, while linux-firmware-hwe is proposed as a safeguard against newer firmware causing problems.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368613",
-    "date": "Oct 30, 2026 04:27",
-    "published_at": "2026-10-30T04:27:35Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Polymarket Halted International Trading After Hackers Drained Accounts",
-    "link": "https://it.slashdot.org/story/26/10/29/2347249/polymarket-halted-international-trading-after-hackers-drained-accounts?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "An anonymous reader quotes a report from Wired: Trading has resumed on Polymarket's flagship international platform after a hack that drained money from the wallets of some traders. A third-party vendor based in the United Kingdom was breached, not the prediction market's website itself. Law enforcement in the UK have been notified of the incident, the company said. Trading was initially paused while the company investigated for several hours.\n \nOn X, prominent traders complained that they had lost money; Blockchain analytics firm Bubblemaps reported that around 700 users appear affected, with approximately $2.7 million stolen. Polymarket declined to comment when WIRED asked how many traders were impacted by the breach and how much money was lost, but said it will refund impacted traders.\n \nThe hack did not impact users on Polymarket US, the company's newer platform for people within the United States. Polymarket runs two separate prediction markets; Polymarket US operates as a federally regulated financial exchange within the country, while the flagship Polymarket is a cryptocurrency-based platform that is banned in the United States and a number of other countries. This is not the first time that Polymarket traders have experienced losses like this. \"A nearly identical vendor-compromise attack hit the platform in June, draining close to $3 million from at least 11 user wallets through the same kind of injected frontend script,\" reports StartupFortune.\n \nHours before Polymarket halted trading, more than $2 billion in cryptocurrency was drained from Binance wallets in just 40 minutes.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 30, 2026 03:30",
-    "published_at": "2026-10-30T03:30:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "RISC-V Has A Nice Portable Performance Optimization With Linux 7.4",
-    "link": "https://www.phoronix.com/news/Linux-7.4-RISC-V",
-    "description": "The RISC-V architecture changes were merged today for the Linux 7.4 kernel with one nice optimization standing out...",
-    "guid": "https://www.phoronix.com/news/Linux-7.4-RISC-V",
-    "date": "Oct 30, 2026 00:36",
-    "published_at": "2026-10-30T00:36:39Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Trump's CTFC Steps In to Defend Kalshi As Utah Brings Criminal Charges Against Execs",
-    "link": "https://yro.slashdot.org/story/26/10/29/193242/trumps-ctfc-steps-in-to-defend-kalshi-as-utah-brings-criminal-charges-against-execs?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "The Commodity Futures Trading Commission (CFTC) has sued Utah to defend its claimed exclusive authority over federally registered prediction markets, as the state files (PDF) 14 criminal charges against Kalshi and its co-founders for allegedly violating anti-gambling laws. The Verge reports: On Wednesday, Utah's Attorney General Derek Brown filed charges against Kalshi co-founders Tarek Mansour and Luana Lopes Lara, including 12 counts of online gambling promotion, a third-degree felony, one count of a pattern of unlawful activity, a second-degree felony, and general gambling promotion, a Class A misdemeanor. The civil lawsuit calls Kalshi a \"back-alley gambling den,\" and Attorney General Brown didn't mince words in a statement to Gizmodo.\n \n\"Gambling is illegal in Utah, whether you place the bet, run the game, or promote it. Calling it a 'prediction market' doesn't change what it is, and being federally registered doesn't put a company above the law,\" said Brown. \"A federal court has already ruled that Utah's gambling laws apply to Kalshi,\" continued Brown. \"Kalshi kept taking bets from Utahns anyway. That is illegal, and we're putting a stop to it.\"\n \n[...] The Commodity Futures Trading Commission (CFTC) has been jumping into action to protect Kalshi and Polymarket by filing lawsuits against any state that brings charges against the betting sites. President Trump's son, Donald Trump Jr., is a paid advisor to both companies. The CFTC announced Wednesday that it was suing the state of Utah as part of its \"commitment to maintaining its exclusive jurisdiction over CFTC-registered prediction markets.\" The argument is that the feds alone should be regulating these sites.\n \n\"Utah seeks to shut down prediction markets across a wide variety of markets,\" CFTC Chairman Michael S. Selig said in a statement. \"Event contracts do not just serve hedging and investment purposes -- they also provide the public with information about the outcome of future events. Congress entrusted the CFTC to be the federal regulator with sole responsibility to oversee these markets,\" continued Selig. \"As I've said before, the CFTC has the expertise and responsibility to defend its exclusive jurisdiction over commodity derivatives, and that's exactly what we'll do.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 29, 2026 23:00",
-    "published_at": "2026-10-29T23:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Fedora Linux 45 Shipping Next Week On 3 November",
-    "link": "https://www.phoronix.com/news/Fedora-45-Ships-Next-Week",
-    "description": "Fedora 45 is ready to ship! It will be formally released on Tuesday, 3 November...",
-    "guid": "https://www.phoronix.com/news/Fedora-45-Ships-Next-Week",
-    "date": "Oct 29, 2026 22:00",
-    "published_at": "2026-10-29T22:00:54Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Patrick Stewart, 'Star Trek' Captain and 'X-Men' Superhero, Dies At 86",
-    "link": "https://entertainment.slashdot.org/story/26/10/29/2059216/patrick-stewart-star-trek-captain-and-x-men-superhero-dies-at-86?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Slashdot readers Cpt_Kirks, eklektic, sconeu, and Vrallis share the unfortunate news of Patrick Stewart's passing. Longtime spokesperson Kelly Bush Novak said Stewart died Wednesday at the age of 86 at his home in Los Angeles following \"a brief and poignant journey with Alzheimer's disease and Lewy body dementia.\"\n \n\"He has been held in the warm embrace of family and friends, surrounded by live music, prayer, tears, laughter and the kind of profound emotion that only he could inspire after a lifetime of devotion to us all,\" Bush Novak wrote. \"We will forever cherish the peaceful ease and reflection on his face, an enduring reminder of his invincible grace.\"\n \nThe acclaimed British actor became a science-fiction icon as Capt. Jean-Luc Picard in Star Trek: The Next Generation and Professor Charles Xavier in the X-Men films. Beyond those iconic roles, Stewart earned multiple Emmy and Golden Globe nominations for performances in Moby Dick, The Lion in Winter, Extras, Hamlet, and Blunt Talk. He later returned to his most famous role in Star Trek: Picard.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 29, 2026 21:00",
-    "published_at": "2026-10-29T21:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
   }
 ]
