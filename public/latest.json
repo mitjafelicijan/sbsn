@@ -1,5 +1,183 @@
 [
   {
+    "title": "Working Exploit for a Linux Kernel Flaw Made Public",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368663",
+    "description": "Even before a bug received its CVE identifier or an upstream fix, the local privilege escalation vulnerability exploit found its way into the wild.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368663",
+    "date": "Oct 31, 2026 01:52",
+    "published_at": "2026-10-31T01:52:26Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Shelly 3.1.10 Arch Linux Package Manager Improves AUR Builds",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368654",
+    "description": "Shelly 3.1.10 improves AUR dependency handling, system upgrades, error reporting, and desktop usability for Arch Linux users.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368654",
+    "date": "Oct 31, 2026 00:42",
+    "published_at": "2026-10-31T00:42:33Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Wine 11.21 Released With Better WoW64 OpenGL Performance",
+    "link": "https://www.phoronix.com/news/Wine-11.21-Released",
+    "description": "Wine 11.21 is out as the newest bi-weekly development release of Wine and as we near Wine 12.0 stable release happenings getting underway in about one month with the official v12.0 release expected early in the new year...",
+    "guid": "https://www.phoronix.com/news/Wine-11.21-Released",
+    "date": "Oct 31, 2026 00:29",
+    "published_at": "2026-10-31T00:29:01Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Apple Is Entering Its Slop Era",
+    "link": "https://apple.slashdot.org/story/26/10/30/216221/apple-is-entering-its-slop-era?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "In an opinion piece for 404 Media, Matthew Gault argues that Apple has entered its \"slop era,\" abandoning its reputation for innovative hardware in favor of recycled ideas and questionable design choices. Here's an excerpt: My ears perked up when I heard Apple's new foldable phones were cracking. I licked my lips when the company announced it's releasing a touch-screen laptop. This was a company that once charged $19 for a polishing cloth, asked $200 for a VESA mount, and sold $700 wheels for the Mac Pro. Now it's borrowing tired ideas from its competitors and launching hardware its previous leaders rejected.\n \nThe once dominant company is struggling to find its feet in an AI-driven post-Tim Cook world. John Ternus is the new CEO -- a 25 year veteran of the company with a track record of pushing harebrained hardware schemes like the much reviled Touch Bar and lawsuit inducing butterfly keyboard.\n \nWith Ternus at the helm, I feel there's a good chance Apple's best days are behind it, that it will have to make do with less, that it's declasse. Apple, blindsided by AI and relying on crowdpleasing hardware gimmicks, is downwardly mobile. It's in its slop era. The company that once asked consumers to \"Think Different\" is now releasing hardware that's just like everything else on the market.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 30, 2026 23:00",
+    "published_at": "2026-10-30T23:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Shelly 3.1.10 Brings More Reliable AUR Builds and a New “Shell” Progress Bar",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368657",
+    "description": "Shelly 3.1.10 has been released today as a new maintenance update in the Shelly 3.1 series of this modern, open-source, and free pacman alternative for Arch Linux and derivatives, with AUR build and upgrade improvements.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368657",
+    "date": "Oct 30, 2026 22:22",
+    "published_at": "2026-10-30T22:22:41Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Meta Settles Another Social Media Addiction Case Just Before Trial",
+    "link": "https://yro.slashdot.org/story/26/10/30/213231/meta-settles-another-social-media-addiction-case-just-before-trial?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Meta has reached an undisclosed settlement in another social media addiction lawsuit, avoiding a trial scheduled for next month and leaving Snap as the sole remaining defendant. Engadget reports: The lawsuit was brought by an 18-year-old woman from Mississippi known as K.D.B who, according to Reuters, has \"described staying awake for hours scrolling social media, losing focus in class and engaging in self-harm using methods shown in social media videos.\" Jury selection kicked off earlier this week in Los Angeles.\n \nOn Friday, K.D.B's lawyer announced that she had reached a settlement with Meta after previously settling with TikTok and YouTube. \"We remain committed to improving safety for kids on social media apps and holding tech companies accountable, and we are pleased to have brought this matter to a just resolution on behalf of our client,\" attorney Emily Jeffcott said in a statement.\n \nNow, Snap is the only remaining defendant in the case. CEO Evan Spiegel is expected to testify in the trial that could last several weeks. If he does take the stand, it will be the first time the Snap founder has appeared in a social media addiction trial. Snap previously settled in another high-profile case involving similar claims. A jury later ruled against Meta and YouTube in the trial and the two were ordered to pay $6 million in damages.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 30, 2026 22:00",
+    "published_at": "2026-10-30T22:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "r/opensource Bans AI-Assisted and AI-Related Projects",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368653",
+    "description": "The de facto subreddit for all things open source has not only banned AI-related projects but also users who \"don't speak English.\"",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368653",
+    "date": "Oct 30, 2026 21:07",
+    "published_at": "2026-10-30T21:07:40Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Sam Altman Thinks Your PC Is Wasting Precious RAM",
+    "link": "https://hardware.slashdot.org/story/26/10/30/2017206/sam-altman-thinks-your-pc-is-wasting-precious-ram?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "\"Looks like OpenAI CEO Sam Altman wants to own all the computing resources and rent out terminals to the world as a way of propping up his business plan, now that debt-ridden AI companies are teetering on the edge,\" writes ancient Slashdot reader Gilmoure. Tom's Hardware reports: In an interview over beers with the YouTube channel Cheeky Pint, Altman said that local inference, and, by extension, people having DRAM in computers at home, is \"quite terrible.\" When discussing local inference on home computers with open-source models, Altman discussed the assumption that people will be able to run local AI on their own computers, the ones they may already own or want to build.\n \nThen he explained why that's a bad idea (at the 29-minute mark): \"From a global allocation perspective, actually, it's quite terrible to have everybody have a bunch of the world's limited supply of DRAM sitting in their own computer and being used 5% of the time,\" Altman said. \"You want maximum utilization in the cloud if you're trying to deal with this very supply-constrained environment. And somehow many people's intuition is the opposite of that.\"\n \nWhile OpenAI does have some open-source models, its primary business is in closed-source models that run in data centers, so he's really defending the company's business model. OpenAI isn't exactly threatened by some laptops and gaming rigs just yet, but local AI could mean people one day paying less for subscriptions to models like GPT-6 Luna if they have the power to run them at home. Altman's talk suggests that the company would prefer that more RAM go to OpenAI's data centers rather than home computers, which also sparks enthusiast fears of not being able to own your own hardware or software, but rather rent an agent and a computer in the cloud.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 30, 2026 21:00",
+    "published_at": "2026-10-30T21:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Thousands of 'Ghost Students' Use AI to Steal Millions In Student Loans, DOJ Says",
+    "link": "https://yro.slashdot.org/story/26/10/30/204230/thousands-of-ghost-students-use-ai-to-steal-millions-in-student-loans-doj-says?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "The Justice Department has charged five people in a crackdown on \"ghost student\" fraud, in which scammers allegedly use stolen identities and AI to enroll fake students in colleges, complete coursework, and collect federal student loan funds. Ars Technica reports: In a press release Thursday, the Department of Justice said it had uncovered a large-scale scheme relying partly on AI. The DOJ seized more than $750,000 in cryptocurrency from \"a network associated with Kenyan nationals\" after data analysis helped flag likely fraudsters. Assistant Attorney General Colin M. McDonald of the DOJ's National Fraud Enforcement Division credited new fraud-detection measures implemented by the Trump administration for the arrests. He said that \"this is the first international seizure of its kind in Kenya,\" while warning fraudsters that the crackdown has only just begun.\n \n[...] At a press conference, McDonald was joined by FBI and Department of Education officials to explain how the scheme works. It starts with bad actors purchasing personally identifiable information (PII) of Americans -- most frequently targeting high school graduates who never attended college and went straight into the workforce. Once they have that sensitive data, they fill out the Free Application for Federal Student Aid (FAFSA) while seeking to enroll in universities and community colleges. If accepted, student aid is distributed first to schools to cover tuition and fees, but any leftover money is deposited into bank accounts controlled by the fraudsters. Dozens of Americans have opened bank accounts to act as money mules for fraudsters, the DOJ said.\n \nTo keep money flowing, bad actors use AI to fill out applications, complete coursework, and even make it appear that a student is attending virtual sessions. \"It looks like the ghost student is actually completing the class,\" McDonald said at the press conference. \"Some even create the appearance of a fake student in an online classroom to trick schools into believing a real person is present. The goal is to keep the ghost student in school for as long as possible, semester after semester after semester.\" So far, the DOE has \"identified over 830,000 potentially fraudulent federal student aid accounts created by using this PII of US citizens,\" officials said at the press conference. If all those accounts are ghost students, total losses come close to $130 million, the DOJ said.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 30, 2026 20:07",
+    "published_at": "2026-10-30T20:07:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "US Tech Stocks See Sharp Falls As AI Spending Nears $1 Trillion",
+    "link": "https://news.slashdot.org/story/26/10/30/1843213/us-tech-stocks-see-sharp-falls-as-ai-spending-nears-1-trillion?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "U.S. technology stocks plunged for a second consecutive day on Friday as investors grew increasingly concerned about the enormous cost of artificial intelligence development and whether those investments will pay off. The Nasdaq fell more than 3.5%, while Intel shares dropped as much as 30%, Reddit fell 26%, and Alphabet extended its losses after shedding more than $500 billion in market value Thursday. The BBC notes that Meta, Alphabet, Oracle, Amazon, and Microsoft have collectively committed to spending $800.6 billion on AI in 2026. From the report: Chris Low, from investment management firm FHN Financial, said the bulk of what was happening in the stock market was in reaction to some of the biggest tech players such as Amazon and Google. He told Reuters the companies were \"showing some pretty significant growing pains as they aggressively pursue the AI build-out.\" \"The thinking is that these signs suggest that the entire sector is going to slow down.\"\n \nKathleen Brookes, research director at trading firm XTB, said there have been many ups and downs in AI trade in recent months. \"Investors have turned ruthless, punishing any signs of disappointment in [third quarter] earnings,\" she said. \"The AI trade has had a good run in recent years, but now investors want payback, and companies like Alphabet and Intel are in the crosshairs.\" [...] Brookes noted that November is typically a strong month for stocks. \"If we see AI stocks continue to struggle in the coming days, it could suggest the AI trade is past its peak, and investors will be looking for a new theme to drive markets,\" she said.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 30, 2026 19:00",
+    "published_at": "2026-10-30T19:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Pulsar 1.133 Code Editor Brings Better Terminal Integration, Faster Editing",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368647",
+    "description": "Pulsar 1.133 improves terminal integration, fixes large-file editing slowdowns, upgrades to Electron 32, and redesigns file watching.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368647",
+    "date": "Oct 30, 2026 18:39",
+    "published_at": "2026-10-30T18:39:49Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Proton Experimental brings new fixes for Helldivers 2, BeamNG.drive and more",
+    "link": "https://www.gamingonlinux.com/2026/10/proton-experimental-brings-new-fixes-for-helldivers-2-beamng-drive-and-more/",
+    "description": "Valve released the latest upgrade for Proton Experimental bringing a fresh set of fixes for Windows games on SteamOS / Linux for October 30th.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/10/proton-experimental-brings-new-fixes-for-helldivers-2-beamng-drive-and-more/",
+    "date": "Oct 30, 2026 18:08",
+    "published_at": "2026-10-30T18:08:21Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/2036704149id30096gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "PostgreSQL 19 Running Behind Schedule Due To AI/LLM Burden",
+    "link": "https://www.phoronix.com/news/PostgreSQL-19-Late",
+    "description": "The PostgreSQL database server typically sees its annual feature release every September~October, but it's not coming until at least November if not longer this year. Due to the increased developer burden due to increased bug reporting and patches via AI/LLM activity, the PostgreSQL developers have been overwhelmed...",
+    "guid": "https://www.phoronix.com/news/PostgreSQL-19-Late",
+    "date": "Oct 30, 2026 18:06",
+    "published_at": "2026-10-30T18:06:06Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "GM Reaches $220 Million Settlement Over Selling Drivers' Private Data",
+    "link": "https://yro.slashdot.org/story/26/10/30/168202/gm-reaches-220-million-settlement-over-selling-drivers-private-data?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from TechCrunch: General Motors will pay $220 million to 36 states to settle allegations that it illegally sold private driving behavior and location information to data brokers. As part of the settlement, GM must get drivers' express consent before it collects or shares their driving and location data -- terms that are in line with separate agreements it previously reached with California and the Federal Trade Commission (FTC). This settlement does contain a new requirement that GM must have a third party assess the automaker's compliance with the privacy program it has put in place.\n \nThe agreement announced Thursday settles a lawsuit brought by a coalition of attorneys general from 36 states that alleged GM had sold the information to data brokers, which in turn then sold it to insurance providers. \"This agreement addresses Smart Driver, a product we ended in 2024, and reinforces steps we've taken to strengthen our privacy practices,\" GM said in an emailed statement. \"Safer, more helpful and personalized experiences are enabled by connected vehicle data, and GM is committed to being clear about what information is used, how it's protected, and the choices customers have about what they share.\"\n \nThe settlement comes more than two years after a New York Times report showed how GM and OnStar collected, used, and sold drivers' precise geolocation data and driving behavior to third parties, including data brokers LexisNexis and Verisk. The data was collected through GM's Smart Driver program, a free feature contained within its connected car apps that tracked and rated driving behaviors and seat belt use. Data brokers sold this information to insurance providers, which could affect customers' rates, the NYT reported at the time.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 30, 2026 18:00",
+    "published_at": "2026-10-30T18:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Northgard Battlegrounds takes the strategy game into a new auto-battling direction",
+    "link": "https://www.gamingonlinux.com/2026/10/northgard-battlegrounds-takes-the-strategy-game-into-a-new-auto-battling-direction/",
+    "description": "Available now in Early Access, Northgard Battlegrounds takes the classic strategy game into a completely different direction.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/10/northgard-battlegrounds-takes-the-strategy-game-into-a-new-auto-battling-direction/",
+    "date": "Oct 30, 2026 17:59",
+    "published_at": "2026-10-30T17:59:06Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1555632477id30095gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "[$] Removing binder.c",
+    "link": "https://lwn.net/Articles/1102982/",
+    "description": "\nThe final talk at Kangrejos 2026 was about the removal of the C implementation\nof Android's\n\nBinder driver, the primary interprocess communication mechanism\nused on Android devices. Carlos Llamas announced that he had deleted the C\ncode to general applause, and then shared some insights about what went into\nreplacing the C implementation. Alice Ryhl, who has worked on the Rust\nimplementation for some years, added her own thoughts about what the most\ndifficult and interesting parts of the transition were.\n",
+    "guid": "https://lwn.net/Articles/1102982/",
+    "date": "Oct 30, 2026 17:46",
+    "published_at": "2026-10-30T17:46:46Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "Ubuntu 27.04 \"Tenacious T-Rex\" Opens For Development",
+    "link": "https://www.phoronix.com/news/Ubuntu-27.04-Opens-For-Dev",
+    "description": "Following this month's release of Ubuntu 26.10, Ubuntu 27.04 development formally got underway today...",
+    "guid": "https://www.phoronix.com/news/Ubuntu-27.04-Opens-For-Dev",
+    "date": "Oct 30, 2026 17:32",
+    "published_at": "2026-10-30T17:32:48Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
     "title": "Planet News Roundup",
     "link": "https://lxer.com/module/newswire/ext_link.php?rid=368640",
     "description": "This is a roundup of articles from the openSUSE community listed on planet.opensuse.org. This community blog feed aggregator lists the featured highlights below from Oct. 23 - 29. This week highlights five Tumbleweed snapshots for week 43 headlined by KDE Plasma 6.8.0, Qt 6.12.0, Linux Kernel 7.2.11 and PHP 8.5.12,…",
@@ -323,6 +501,16 @@
     "source_url": "https://www.gamingonlinux.com/"
   },
   {
+    "title": "FAT32 File-System Seeing As Much As 265x Improvement With Linux 7.4",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368611",
+    "description": "A change merged for Linux 7.4 is showing some mighty big speed-ups for the FAT32 file-system…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368611",
+    "date": "Oct 30, 2026 07:57",
+    "published_at": "2026-10-30T07:57:56Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
     "title": "Proton CEO Is In 'Full AI Psychosis'",
     "link": "https://slashdot.org/story/26/10/30/0126236/proton-ceo-is-in-full-ai-psychosis?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
     "description": "According to 404 Media, Proton CEO Andy Yen is aggressively pushing AI adoption while fostering what workers describe as a culture of fear that discourages raising security concerns or challenging leadership. The investigation is based on interviews with eight current and one former Proton employees, as well as internal Slack chats, meeting recordings, and an AI manifesto written by the company's CTO. Longtime Slashdot reader devnulljapan summarizes the findings: Engineers at Proton, which makes the encrypted email service Proton Mail and a suite of privacy- and security-focused products, including an encrypted drive service, an authenticator app, and a password manager, are being pushed to \"stop lovingly handcrafting all our code and use AI more.\" Workers describe an environment where employees have genuine concerns about security or being asked to develop security products with AI but feel unable to voice them, lest Yen berates them in front of everyone or threatens their employment at the company. \"The CEO is in full AI psychosis and has been for a while now,\" one of the sources told 404 Media. Yen reportedly dismissed an employee's request for additional security testing before releasing new code, calling it \"bullshit and loser thinking\" and insisting that \"only losers think like that.\" In a separate exchange over Proton's post-quantum encryption rollout, Yen criticized how the company communicated the feature's limitations and told employees that \"perception is more important than truth, the truth doesn't matter if you don't win on perception.\"\n \n\"The train is coming, get onboard or get crushed. Don't be the professional fax machine operator in the internet age,\" Yen wrote to the security Slack channel. \"I think by the end of this year most developers stop programming and start writing specs for tests that AI will code and run, to validate AI written code that humans will no longer be able to review. This will be the last year that we hire engineers, and starting next year we hire what we used to call product managers, to build things with AI.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
@@ -340,6 +528,16 @@
     "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368617",
     "date": "Oct 30, 2026 06:49",
     "published_at": "2026-10-30T06:49:48Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "NVIDIA Vera Single vs. Dual Socket CPU Performance",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368622",
+    "description": "For those curious how NVIDIA Vera is scaling between single and dual socket deployments, here are some benchmarks I carried out a while back exploring the power and performance from one to two Vera CPUs.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368622",
+    "date": "Oct 30, 2026 05:37",
+    "published_at": "2026-10-30T05:37:13Z",
     "source": "lxer.com",
     "source_url": "https://lxer.com/"
   },
@@ -365,26 +563,6 @@
     "source_url": "https://slashdot.org/"
   },
   {
-    "title": "Tiny Linux box packs Panther Lake, Arc graphics and dual 2.5GbE",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368636",
-    "description": "The Nano Pro Gen15 is a compact Linux mini PC powered by Intel’s Core Ultra X7 358H processor with integrated Arc B390 graphics. Developed by TUXEDO Computers, the system supports up to 128GB of DDR5 memory, dual NVMe SSDs, four 4K displays, and dual 2.5GbE connectivity. It can be used for software development, local AI…",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368636",
-    "date": "Oct 30, 2026 02:00",
-    "published_at": "2026-10-30T02:00:28Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Matrix takes sovereign messaging into the realm of the tech giants",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368605",
-    "description": "Once more, with feeling: 'First they ignore you, then they laugh at you, then they fight you'",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368605",
-    "date": "Oct 30, 2026 00:53",
-    "published_at": "2026-10-30T00:53:13Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
     "title": "RISC-V Has A Nice Portable Performance Optimization With Linux 7.4",
     "link": "https://www.phoronix.com/news/Linux-7.4-RISC-V",
     "description": "The RISC-V architecture changes were merged today for the Linux 7.4 kernel with one nice optimization standing out...",
@@ -393,16 +571,6 @@
     "published_at": "2026-10-30T00:36:39Z",
     "source": "phoronix.com",
     "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Tor Browser 16.0 Anonymous Browser Brings Native ARM Support on Linux",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368629",
-    "description": "The Tor project released Tor Browser 16.0 today as a major update to this open-source, cross-platform, and free web browser designed to protect you against tracking, surveillance, and censorship using the Tor anonymous network.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368629",
-    "date": "Oct 29, 2026 23:37",
-    "published_at": "2026-10-29T23:37:00Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
   },
   {
     "title": "Trump's CTFC Steps In to Defend Kalshi As Utah Brings Criminal Charges Against Execs",
@@ -426,16 +594,6 @@
     "source_url": "https://www.phoronix.com/"
   },
   {
-    "title": "Xerxes Home Lab adds Jetson support, NVMe, and PoE",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368596",
-    "description": "Australian company Rapid Analysis has launched a new Kickstarter campaign for its Xerxes Home Lab platform, featuring updated carrier boards for Raspberry Pi Compute Modules and NVIDIA Jetson systems. The lineup includes the Xerxes Pi 2026, Xerxes Nano, and an RK3566-based compute module, targeting home servers, embedded systems, and local AI applications. The campaign follows…",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368596",
-    "date": "Oct 29, 2026 21:19",
-    "published_at": "2026-10-29T21:19:17Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
     "title": "Patrick Stewart, 'Star Trek' Captain and 'X-Men' Superhero, Dies At 86",
     "link": "https://entertainment.slashdot.org/story/26/10/29/2059216/patrick-stewart-star-trek-captain-and-x-men-superhero-dies-at-86?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
     "description": "Slashdot readers Cpt_Kirks, eklektic, sconeu, and Vrallis share the unfortunate news of Patrick Stewart's passing. Longtime spokesperson Kelly Bush Novak said Stewart died Wednesday at the age of 86 at his home in Los Angeles following \"a brief and poignant journey with Alzheimer's disease and Lewy body dementia.\"\n \n\"He has been held in the warm embrace of family and friends, surrounded by live music, prayer, tears, laughter and the kind of profound emotion that only he could inspire after a lifetime of devotion to us all,\" Bush Novak wrote. \"We will forever cherish the peaceful ease and reflection on his face, an enduring reminder of his invincible grace.\"\n \nThe acclaimed British actor became a science-fiction icon as Capt. Jean-Luc Picard in Star Trek: The Next Generation and Professor Charles Xavier in the X-Men films. Beyond those iconic roles, Stewart earned multiple Emmy and Golden Globe nominations for performances in Moby Dick, The Lion in Winter, Extras, Hamlet, and Blunt Talk. He later returned to his most famous role in Star Trek: Picard.\n\n\n\n\n\nRead more of this story at Slashdot.",
@@ -445,324 +603,5 @@
     "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
     "source": "slashdot.org",
     "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "openEuler New Releases Come With a Heavy Dose of AI and Agents",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368621",
-    "description": "openEuler is pushing for a developer focused Linux distro with AI at its core. From PolyMind to Witty, the AI agents are part of the package.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368621",
-    "date": "Oct 29, 2026 20:01",
-    "published_at": "2026-10-29T20:01:40Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Nvidia Chief Seen As Target of Chinese Spy Plot",
-    "link": "https://slashdot.org/story/26/10/29/189230/nvidia-chief-seen-as-target-of-chinese-spy-plot?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "An anonymous reader quotes a report from The New York Times: American spy agencies had gathered striking intelligence. A top executive at a Singapore-based data center company was under scrutiny for possibly steering advanced Nvidia A.I. chips to China. And now American officials had concluded that she was a Chinese intelligence asset (source paywalled; alternative source), funneling information to Beijing. But what came next was even more alarming. Surveillance of the executive, Alice Huang or Huang Le, a Chinese citizen, revealed that she had developed a close relationship with Jensen Huang, Nvidia's chief executive.\n \nFor years, Washington has worked to deny China the technology needed to match or surpass the United States in the intense global competition for superiority in artificial intelligence. The discovery that Beijing was getting reports from someone with direct access to Mr. Huang, one of the most powerful figures in the A.I. revolution as well as an influential ally of President Trump's, set off alarms at the White House. Roughly a year ago, Mr. Trump was briefed about the intelligence findings, which have not been previously reported, and chose not to do anything with the information. Mr. Trump has been wary of disrupting Nvidia's chip sales, which are helping to drive the economy and the stock market, and of further complicating the trading relationship with China.\n \nThis account is based on interviews with people briefed on the surveillance, who spoke on the condition of anonymity because the findings are drawn from classified intelligence, as well as other officials and industry executives and analysts. American officials already suspected that Ms. Huang was helping China evade constraints on its ability to gain access to advanced A.I. chips. But the revelation that she was feeding information directly to Beijing raised more troubling possibilities, including that Mr. Huang had insights into Mr. Trump's thinking on an issue of vital importance to both nations, one likely to come up when the president visits China next month. And it left questions about whether she could be gleaning information about Nvidia, which as much as any company accounts for the lead the United States has maintained in developing cutting-edge A.I. models. The surveillance of Ms. Huang continues, they said, and companies that have been affiliated with her continued this year to purchase Nvidia chips. \n\nNvidia said in a statement: \"Jensen's interactions with Ms. Huang are not unusual or unexpected. Meetings with customers are part of a CEO's job; Jensen talks with thousands of customer executives every year.\" Nvidia is \"confident that if the U.S. government believes that any person is a threat to American industry, it would let us know.\" Customers like Megaspeed, the company that employed Ms. Huang, \"receive ordinary business information -- not sensitive Nvidia trade secrets -- and zero information relevant to national security,\" the company added.\n \nIn a statement to The New York Times, Megaspeed said that its \"current leadership\" takes the matter \"extremely seriously and is committed to getting to the facts behind these allegations.\" It added that \"outside counsel has been retained to conduct a thorough internal investigation and has notified the U.S. government that we are fully committed to cooperating.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 29, 2026 20:00",
-    "published_at": "2026-10-29T20:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Alphabet Heads For a $500 Billion Drop In Market Value",
-    "link": "https://news.slashdot.org/story/26/10/29/1756212/alphabet-heads-for-a-500-billion-drop-in-market-value?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Yesterday, Google reported its Q3 results that showed searches made through its AI Mode generate less revenue than traditional search, even as overall search revenue grew 12% year over year to $63.25 billion. The news sent Alphabet shares plunging, with Bespoke Investment Group reporting that the stock is on track for its steepest post-earnings decline since the company went public in 2004. Yahoo Finance reports: At its low, Alphabet had lost $524 billion in stock market value, the second-biggest one-day loss ever for a US-listed company. Only Nvidia has lost more, about $593 billion on Jan. 27, 2025, the day China's DeepSeek rattled AI investors. Alphabet would need to close at about $274.75, down roughly 15%, to take Nvidia's record, by Yahoo Finance calculations. It has already blown past the $400 billion SpaceX lost on June 22, the previous No. 2.\n \nIn dollars, it's Alphabet's worst day by far. Its previous worst was about $275 billion on July 23. It's also on track for the stock's steepest drop after an earnings report since the company went public, according to Bespoke Investment Group. The previous low was a slide of nearly 10% in July 2008.\n \n[...] US-listed stocks have shed $200 billion or more in a single session 18 times this year through Wednesday. That's up from 13 in all of 2025 and none before 2022, according to Yahoo Finance calculations from Bloomberg data. Alphabet alone has lost about $1.4 trillion since its record in May.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 29, 2026 19:00",
-    "published_at": "2026-10-29T19:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Powered by Raspberry Pi – from Stockholm to Sydney, South Korea to Slovakia",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368603",
-    "description": "From the practicalities of everyday life to creative endeavours, Raspberry Pi power is behind hundreds of products.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368603",
-    "date": "Oct 29, 2026 18:53",
-    "published_at": "2026-10-29T18:53:23Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Canada to Join EU Network of Supercomputers",
-    "link": "https://news.slashdot.org/story/26/10/29/1741210/canada-to-join-eu-network-of-supercomputers?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Canada is joining the European Union's supercomputing network to give Canadian companies, startups, and researchers access to European computing resources for AI development. The partnership aims to strengthen AI cooperation and reduce dependence on US technology. Politico reports: The EU's supercomputing network is run by the EuroHPC Joint Undertaking, an EU public-private vehicle with an 8.2 billion-euro budget. The network consists of 14 supercomputers (some ranked in the global top 10), 19 AI-focused AI factories and 10 quantum computers. The vehicle will also run seven massive AI data center hubs, known as AI gigafactories, set to be built next year with a total investment cost of 30 billion euros.\n \nExperts praised a possible EU-Canadian compute power team-up, but warned it's only the start. \"Compute cooperation is one of the most obvious short-term 'middle power' cooperation plays in AI,\" said Anton Leicht, technology and international affairs fellow at Carnegie Endowment for International Peace. But he added that for now \"it doesn't put a dent into the actual dependence\" on the U.S. \"As long as the U.S. builds gigawatt-scale clusters, no amount of cooperation that doesn't result in massive buildouts will help,\" he said.\n \nCanada's engagement in the EU's supercomputer network builds further on Canada's previous partial involvement in the EU's flagship research and development program, Horizon Europe. Horizon Europe partially funds EuroHPC. To date, 38 countries have participated in the EU's supercomputing network: 27 EU member countries plus non-EU countries including Norway, Switzerland, the United Kingdom, Israel and Turkey.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 29, 2026 18:00",
-    "published_at": "2026-10-29T18:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "DoorDash Strikes $17 Billion Deal For US Rival Instacart",
-    "link": "https://slashdot.org/story/26/10/29/1644224/doordash-strikes-17-billion-deal-for-us-rival-instacart?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "DoorDash has agreed to acquire Instacart for about $17 billion as it expands beyond restaurant delivery and deeper into the U.S. grocery market. The deal, expected to close in late 2027 or the first half of 2028, could face regulatory scrutiny over further consolidation in the delivery industry. Reuters reports: DoorDash has offered Instacart shareholders $65 per share held, representing a premium of about 26% to the stock's closing price on October 22 before reports of deal talks first emerged. The consideration will be at least 75% cash, with Instacart shareholders able to elect cash, DoorDash stock or a combination of the two, the companies said.\n \n[...] The transaction is expected to close at the end of 2027 or the first half of 2028. The deal could face scrutiny over its impact on competition, with New York City's Department of Consumer and Worker Protection (DCWP) saying on Wednesday that a potential merger continued a \"troubling trend\" of corporate consolidation. DoorDash, however, pledged on Thursday that local grocers could continue to work with any delivery platform they choose.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 29, 2026 17:00",
-    "published_at": "2026-10-29T17:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "F2FS Adds Opt-In Multi-Grain Timestamps With Linux 7.4, Other Improvements",
-    "link": "https://www.phoronix.com/news/F2FS-Linux-7.4",
-    "description": "The F2FS (Flash Friendly File-System) improvements have been merged for Linux 7.4 to further enhance this flash-optimized solution...",
-    "guid": "https://www.phoronix.com/news/F2FS-Linux-7.4",
-    "date": "Oct 29, 2026 16:52",
-    "published_at": "2026-10-29T16:52:52Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "KDE Plasma 6.8.2 Released With More KWin and Wayland Fixes",
-    "link": "https://www.linuxjournal.com/content/kde-plasma-682-released-more-kwin-and-wayland-fixes",
-    "description": "\n    \n      \n              \n      \n            by George Whittaker\n      \n            The KDE Project has released KDE Plasma 6.8.2, delivering another round of stability improvements for its Wayland-based Linux desktop environment. Released on October 27, 2026, the update arrives one week after Plasma 6.8.1 and two weeks after the anniversary release of Plasma 6.8, which marked 30 years since the KDE project's founding.\n\nThis second maintenance release concentrates on correcting regressions discovered after the initial rollout. The largest collection of changes targets KWin, KDE's window manager and Wayland compositor, with fixes involving multi-GPU synchronization, display handling, pointer constraints, color pipelines, and window stacking. Additional improvements address disappearing desktop icons, application launcher behavior, remote desktop sessions, screen recording, accessibility, and system monitoring.\n\nAlthough Plasma 6.8.2 does not introduce major new desktop features, its corrections are particularly important because Plasma 6.8 completed KDE's transition away from native X11 desktop sessions. With Wayland now serving as Plasma's display foundation, improvements to KWin and its supporting components directly affect the reliability of the entire desktop environment.\n\nKDE Continues Stabilizing Its Anniversary Release\n\nKDE Plasma 6.8 arrived on October 14, 2026, coinciding with the project's 30th anniversary. The release introduced significant desktop changes, including the retirement of native X11 sessions, additional HDR improvements, expanded remote desktop capabilities, NVIDIA graphics optimizations, and further development of KDE's Union theming engine.\n\nThe transition represented an important architectural milestone, but major desktop releases frequently expose problems that were not encountered during development or beta testing. Linux desktops must operate across numerous combinations of graphics hardware, display configurations, drivers, input devices, and applications. Even extensive testing cannot always reproduce every environment used by the wider community.\n\nKDE acknowledged this challenge during the development cycle following Plasma 6.8, noting that users had discovered regressions that were not reported during the beta period. Contributors responded with a substantial collection of fixes, many of which have now reached the stable 6.8 branch through its first two maintenance releases.\n\nPlasma 6.8.2 continues that stabilization effort. Rather than changing the desktop's overall direction, it improves the reliability of existing functionality and addresses issues that could affect everyday workflows. The release includes corrections across KWin, Plasma Desktop, Plasma Workspace, Discover, KRDP, KPipeWire, and several other components.\n      \n              Go to Full Article\n\n      \n    \n  ",
-    "guid": "1341475 at https://www.linuxjournal.com",
-    "date": "Oct 29, 2026 16:00",
-    "published_at": "2026-10-29T16:00:00Z",
-    "image": "https://www.linuxjournal.com/sites/default/files/nodeimage/story/kde-plasma-6-8-2-released-with-more-kwin-and-wayland-fixes.jpg",
-    "source": "linuxjournal.com",
-    "source_url": "https://www.linuxjournal.com/"
-  },
-  {
-    "title": "Reddit Is Getting a 'For You' Feed",
-    "link": "https://tech.slashdot.org/story/26/10/29/0518249/reddit-is-getting-a-for-you-feed?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Reddit is overhauling its homepage with separate \"For You\" and \"Following\" feeds, with the former combining posts from subscribed communities and algorithmic recommendations based on users' interests and activity. The Verge reports: It's a big shift for the platform, but not an entirely surprising one, as Reddit hasn't been shy about wanting to switch up the homepage. Earlier this year, the company announced it would be deprecating r/all, which surfaced posts that were popular across the platform, as part of its \"ongoing efforts to simplify Reddit and improve Home feed personalization.\" \"This new feed experience is a first step in helping drive discovery that leads to something novel and relevant -- an idea, a connection, a unique perspective, or even a new interest,\" Reddit says. \"A more human internet is not just something you sit back and watch, it is something you find value in and want to participate in.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 29, 2026 16:00",
-    "published_at": "2026-10-29T16:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "'Please Let the Internet Die'",
-    "link": "https://tech.slashdot.org/story/26/10/29/052237/please-let-the-internet-die?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Slashdot reader fjo3 shares an article from Wired: The internet must be put out of its misery. Any rational observer can admit that the current iteration of the web -- and the social fabric woven there -- is not what they signed up for. Symptoms of advanced cultural decay can no longer be ignored. This thing is eating itself. Giants including Meta and Google have been forced to settle massive consumer lawsuits brought over privacy violations and mental health harms allegedly caused by the addictive mechanisms of their platforms. Schools are banning smartphones as multiple countries institute social media restrictions for under-16s. Parents are in a panic about their kids aspiring to careers as social media celebrities, losing themselves in a vast ecosystem of online casinos, or joining extremist movements. Generative AI, briefly considered an amusing novelty, is now a turbocharged slop engine for the web, filling feeds and comment sections with useless, grotesque content. As humans scroll past headlines about AI taking their jobs, confusing fantasy for reality, and contributing to cognitive decline, any consumer appeal the technology might have is turning to anguish. The data centers that power it have become increasingly unpopular, and politically radioactive.\n \nTo be online, many now admit, is to be endlessly manipulated and exploited. In December, Oxford University Press declared rage bait to be the word of the year, noting that use of the term had tripled over the previous 12 months. The lexical spike represented a heightened awareness that monetized social accounts churn out bad-faith takes and extremist content, automating this abusive behavior with generative AI, simply to profit off hostile engagement. Billionaire oligarchs have opened the floodgates to such inauthentic activity, conspiracy-mongering, and hate speech by rolling back moderation. In short, when you hang around online in 2026, you see little worth saving. Perhaps a decade ago, you felt that the glimmers of community and joy, of artistic and intellectual exchange, were enough to balance out the toxic junk. No longer.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 29, 2026 15:00",
-    "published_at": "2026-10-29T15:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Jagex are now publishing Melvor Idle 2 as an official RuneScape game",
-    "link": "https://www.gamingonlinux.com/2026/10/jagex-are-now-publishing-melvor-idle-2-as-an-official-runescape-game/",
-    "description": "Melvor Idle 2 (now Melvor Idle 2: A RuneScape Adventure) massively expands on the very popular original game and now has publishing help.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/10/jagex-are-now-publishing-melvor-idle-2-as-an-official-runescape-game/",
-    "date": "Oct 29, 2026 14:29",
-    "published_at": "2026-10-29T14:29:11Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/872451181id30086gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "System76 tease the new mini Thelio Prime Desktop coming in November",
-    "link": "https://www.gamingonlinux.com/2026/10/system76-tease-the-new-mini-thelio-prime-desktop-coming-in-november/",
-    "description": "System76 have been busy cooking, with a teaser of their new mini Thelio Prime Desktop that will be launching November 18th.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/10/system76-tease-the-new-mini-thelio-prime-desktop-coming-in-november/",
-    "date": "Oct 29, 2026 14:08",
-    "published_at": "2026-10-29T14:08:11Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/696623925id30085gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "[$] Containers as a recognized kernel object",
-    "link": "https://lwn.net/Articles/1102593/",
-    "description": "The foundation of the design for containers in the kernel is that there\nisn't one; there is no container abstraction that the kernel recognizes.\nInstead, the kernel provides a long list of components — namespaces,\ncontrol groups, sandboxing mechanisms, and more — along with a note that\nsays, in effect, \"some assembly required\".  There have been attempts (repeatedly) over the years to turn containers\ninto first-class objects with kernel support, but they have never gotten\nfar.  Now Josef Bacik is making a\ntry with a concept that he calls \"cells\".",
-    "guid": "https://lwn.net/Articles/1102593/",
-    "date": "Oct 29, 2026 14:02",
-    "published_at": "2026-10-29T14:02:30Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "GOG and Retrovibe team up for indie game publishing",
-    "link": "https://www.gamingonlinux.com/2026/10/gog-and-retrovibe-team-up-for-indie-game-publishing/",
-    "description": "Indie game publisher Retrovibe and GOG are formally teaming up to offer more ways for indie game developers to get published.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/10/gog-and-retrovibe-team-up-for-indie-game-publishing/",
-    "date": "Oct 29, 2026 13:53",
-    "published_at": "2026-10-29T13:53:51Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1313420702id30084gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "FOSS Weekly #26.44: Ginux, Dead Distros, Resurrected Projects, Dangerous Commands and More (Scary) Linux Stuff",
-    "link": "https://feed.itsfoss.com/link/24361/17510669/foss-weekly-26-44",
-    "description": "Do you know why programmers always mix up Halloween and Christmas? Because Oct 31 = Dec 25",
-    "guid": "6ae1b50a1b851a0001833d4b",
-    "date": "Oct 29, 2026 13:53",
-    "published_at": "2026-10-29T13:53:00Z",
-    "image": "https://itsfoss.com/content/images/2026/10/foss-weekly-halloween-stuff.webp",
-    "source": "itsfoss.com",
-    "source_url": "https://itsfoss.com/"
-  },
-  {
-    "title": "NVIDIA Vera Single vs. Dual Socket CPU Performance",
-    "link": "https://www.phoronix.com/review/nvidia-vera-1p-2p",
-    "description": "For those curious how NVIDIA Vera is scaling between single and dual socket deployments, here are some benchmarks I carried out a while back exploring the power and performance from one to two Vera CPUs.",
-    "guid": "https://www.phoronix.com/review/nvidia-vera-1p-2p",
-    "date": "Oct 29, 2026 13:36",
-    "published_at": "2026-10-29T13:36:24Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Security updates for Thursday",
-    "link": "https://lwn.net/Articles/1103666/",
-    "description": "Security updates have been issued by AlmaLinux (cjose, emacs, expat, gcc-toolset-15-gcc, java-17-openjdk, java-25-openjdk, kernel, kernel-rt, libX11, libXi, libXrender, libXtst, mod_auth_openidc:2.3, pki-deps:10.6, thunderbird, webkit2gtk3, and yggdrasil), Debian (chromium, firefox-esr, and openjdk-25), Fedora (firefox, librabbitmq, libreswan, python-pillow, and unbound), Mageia (fio and python3, python-pip), Oracle (buildah, cjose, container-tools:ol8, emacs, flute, libbase, libfonts, libformula, liblayout, libloader, libreoffice, librepository, libserializer, pentaho-libxml, pentaho-reporting-flow-engine, and sac, kernel, libX11, libXi, libXrender, libXtst, podman, python-urllib3, thunderbird, and yggdrasil), Red Hat (firefox, goose, kernel, kernel package, kernel-rt, librsvg2, multiple packages, php:7.4, sudo, thunderbird, and xorg-x11-server), and SUSE (alsa, ca-certificates-mozilla, chromedriver, cifs-utils, coredns, coreutils, cpupower, curl, cyrus-sasl, docker, dpdk, haproxy, kernel, libpoppler-cpp3, libsndfile-devel, libzbar-devel, mozilla-nss, MozillaFirefox, nginx, openai-codex, and perl-Cpanel-JSON-XS).",
-    "guid": "https://lwn.net/Articles/1103666/",
-    "date": "Oct 29, 2026 13:18",
-    "published_at": "2026-10-29T13:18:42Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "Linux 7.4 Networking Brings Hardware Pacing Offload, New Drivers \u0026 More Performance",
-    "link": "https://www.phoronix.com/news/Linux-7.4-Networking",
-    "description": "The many Linux wired and wireless networking driver improvements were merged this week for the ongoing Linux 7.4 merge window....",
-    "guid": "https://www.phoronix.com/news/Linux-7.4-Networking",
-    "date": "Oct 29, 2026 12:55",
-    "published_at": "2026-10-29T12:55:00Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "No Man's Sky Forsaken update brings Seamless Warping, New Cockpits, Forsaken Traders and more",
-    "link": "https://www.gamingonlinux.com/2026/10/no-mans-sky-forsaken-update-brings-seamless-warping-new-cockpits-forsaken-traders-and-more/",
-    "description": "Somehow, Hello Games keep on adding impressive new bits into their ageing space survival game, with the No Man's Sky Forsaken update out now.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/10/no-mans-sky-forsaken-update-brings-seamless-warping-new-cockpits-forsaken-traders-and-more/",
-    "date": "Oct 29, 2026 12:01",
-    "published_at": "2026-10-29T12:01:05Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/626001799id30083gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Build up your spooky game collection with the Horror Trifectas Humble Bundle",
-    "link": "https://www.gamingonlinux.com/2026/10/build-up-your-spooky-game-collection-with-the-horror-trifectas-humble-bundle/",
-    "description": "A great game bundle has arrived for fans of spooky games, just in time for Halloween in the Horror Trifectas Humble Bundle.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/10/build-up-your-spooky-game-collection-with-the-horror-trifectas-humble-bundle/",
-    "date": "Oct 29, 2026 11:44",
-    "published_at": "2026-10-29T11:44:36Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/145285790id30082gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "CachyOS Linux working on a dedicated kernel for supporting Easy Anti-Cheat v2",
-    "link": "https://www.gamingonlinux.com/2026/10/cachyos-linux-working-on-a-dedicated-kernel-for-supporting-easy-anti-cheat-v2/",
-    "description": "With the new Epic Games Launcher supported on Linux, along with a remade Easy Anti-Cheat coming, the CachyOS team are working on kernel support for EAC v2.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/10/cachyos-linux-working-on-a-dedicated-kernel-for-supporting-easy-anti-cheat-v2/",
-    "date": "Oct 29, 2026 11:27",
-    "published_at": "2026-10-29T11:27:55Z",
-    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/cachyos-logo_gol2_ff07b5be.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Ubuntu Core Desktop has been restarted with a dedicated team with plans to improve Linux gaming",
-    "link": "https://www.gamingonlinux.com/2026/10/ubuntu-core-desktop-has-been-restarted-with-a-dedicated-team-with-plans-to-improve-linux-gaming/",
-    "description": "Ubuntu Core Desktop is Canonical's immutable version of Ubuntu Linux, and they're back to working on it for desktop users.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/10/ubuntu-core-desktop-has-been-restarted-with-a-dedicated-team-with-plans-to-improve-linux-gaming/",
-    "date": "Oct 29, 2026 10:49",
-    "published_at": "2026-10-29T10:49:09Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/461090350id30080gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Discord servers are set to become more public for web searches",
-    "link": "https://www.gamingonlinux.com/2026/10/discord-servers-are-set-to-become-more-public-for-web-searches/",
-    "description": "One long-standing issue with platforms like Discord is how they're like a walled-garden, but part of that is going to be changing soon.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/10/discord-servers-are-set-to-become-more-public-for-web-searches/",
-    "date": "Oct 29, 2026 10:34",
-    "published_at": "2026-10-29T10:34:08Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/469278466id30079gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Mesa 26.2.6 brings fixes for The Witcher 3 Remastered and various other Linux driver issues",
-    "link": "https://www.gamingonlinux.com/2026/10/mesa-26-2-6-brings-fixes-for-the-witcher-3-remastered-and-various-other-linux-driver-issues/",
-    "description": "Mesa 26.2.6 is out now as the latest upgrade for Linux open source graphics drivers, focused on fixing up some bugs reported.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/10/mesa-26-2-6-brings-fixes-for-the-witcher-3-remastered-and-various-other-linux-driver-issues/",
-    "date": "Oct 29, 2026 10:23",
-    "published_at": "2026-10-29T10:23:32Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/786806110id30078gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "AMD's ROCm HRX Loom v0.1 Released For Targeting AMD CPUs, GPUs \u0026 NPUs",
-    "link": "https://www.phoronix.com/news/AMD-ROCm-HRX-Loom-0.1",
-    "description": "At this year's AMD Advancing AI event Hyperloom was announced among the ROCm improvements to expect. Hyperloom aims for agentic  workload optimizations and more with quote powerful abilities if everything works out right. As part of the latest round of ROCm advancements, the Loom SDK v0.1 release was released today...",
-    "guid": "https://www.phoronix.com/news/AMD-ROCm-HRX-Loom-0.1",
-    "date": "Oct 29, 2026 10:22",
-    "published_at": "2026-10-29T10:22:15Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "DLSS Updater 5.2 released with AMD FSR 4.1.2 support",
-    "link": "https://www.gamingonlinux.com/2026/10/dlss-updater-5-2-released-with-amd-fsr-4-1-2-support/",
-    "description": "DLSS Updater enables you to scan your system for games, and then replace their upscaling and frame-generation with updated versions or something else entirely.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/10/dlss-updater-5-2-released-with-amd-fsr-4-1-2-support/",
-    "date": "Oct 29, 2026 10:16",
-    "published_at": "2026-10-29T10:16:35Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1828161151id30077gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "D7VK 2.4 released along with GXVK for Vulkan-based 3Dfx Glide",
-    "link": "https://www.gamingonlinux.com/2026/10/d7vk-2-4-released-along-with-gxvk-for-vulkan-based-3dfx-glide/",
-    "description": "A nice surprise for more retro gaming! Along with the release of D7VK 2.4 for older Direct3D, we also now have GXVK for Vulkan-based 3Dfx Glide.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/10/d7vk-2-4-released-along-with-gxvk-for-vulkan-based-3dfx-glide/",
-    "date": "Oct 29, 2026 10:08",
-    "published_at": "2026-10-29T10:08:23Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1413286219id30076gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "FAT32 File-System Seeing As Much As 265x Improvement With Linux 7.4",
-    "link": "https://www.phoronix.com/news/Linux-7.4-Faster-FAT32",
-    "description": "A change merged for Linux 7.4 is showing some mighty big speed-ups for the FAT32 file-system...",
-    "guid": "https://www.phoronix.com/news/Linux-7.4-Faster-FAT32",
-    "date": "Oct 29, 2026 10:06",
-    "published_at": "2026-10-29T10:06:09Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Graphics/NPU Driver Changes Already Begin Queuing Up For What Will Be Linux 7.5",
-    "link": "https://www.phoronix.com/news/Linux-7.5-drm-misc-next",
-    "description": "Since last week drm-misc-next pull requests have already been sent out to DRM-Next to begin staging new feature code for what's intended for the Linux 7.5 kernel cycle kicking off at the end of the year...",
-    "guid": "https://www.phoronix.com/news/Linux-7.5-drm-misc-next",
-    "date": "Oct 29, 2026 09:48",
-    "published_at": "2026-10-29T09:48:22Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "KSMBD Adds New  Options With Linux 7.4",
-    "link": "https://www.phoronix.com/news/Linux-7.4-KSMBD",
-    "description": "A number of improvements to KSMBD, the in-kernel SMB3 file server, were merged for the Linux 7.4 kernel...",
-    "guid": "https://www.phoronix.com/news/Linux-7.4-KSMBD",
-    "date": "Oct 29, 2026 09:33",
-    "published_at": "2026-10-29T09:33:13Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
   }
 ]
