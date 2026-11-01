@@ -1,0 +1,467 @@
+[
+  {
+    "title": "Binance Replenishes 90% of Stolen $6.3B, Pledges They'll Cover It All, Reopen Sunday",
+    "link": "https://news.slashdot.org/story/26/11/01/0129237/binance-replenishes-90-of-stolen-63b-pledges-theyll-cover-it-all-reopen-sunday?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "\"We've now replenished 90% of the stolen assets, and we're committed to covering the remaining 10%,\" Binance co-CEO Richard Teng posted on X, adding that \"Our users will not bear the financial impact of this incident.\" \n\n\"Binance said it was able to replace the funds taken in the record hack by using company money to buy new tokens,\" reports NBC News:\n\nThe remaining 10% consists of tokens that are less liquid, meaning they may take longer to buy, it said in a statement posted on X... Binance said it has set aside around $6.34 billion of company funds internally to cover the losses. The money spent re-buying tokens came from using part of its $1 billion Secure Asset Fund for Users, a bitcoin reserve it holds to protect customers in the event of security breaches, as well as some of its Futures Insurance Fund, and the company's own corporate treasury, it said on X. \n\nNBC News reports that the FBI blames the breach on a North Korea-sponsored group known as TraderTraitor:\n\nMembers of [TraderTraitor] were observed by law enforcement converting stolen assets into the cryptocurrency ethereum, the FBI said in a statement, adding that it expects \"further laundering\" of the assets through the use of related technology... After the hack, the exchange stopped allowing customers to withdraw their funds, but it said Saturday it was still on track to reopen withdrawals Sunday.\n \n\nCNBC reports:\n\n\nThe world's largest crypto exchange initially said the hack may involve \"a compromised DevOps engineer's laptop, which allowed an attacker to gain access to a service container and submit unauthorized withdrawal transactions.\" However, Co-CEO Richard Teng later said the attack involved a more complex process rather than the misuse of a single engineer's permissions.\n \n\nThe New York Times describes what happened when Binance first spotted \"a multibillion-dollar deluge of digital coins\" pouring out of its accounts:\n\n\nAs the news spread, Binance's top executives put together an informal war room on Wea, the company's internal messaging system, with about 100 participants, including specialized cryptocurrency tracers and security personnel. They eventually transitioned to a mass conference call, with 100 boxes on the screen, where employees took turns muting and then unmuting, communicating in a mixture of English and Chinese. Among them was He Yi, Binance's co-chief executive, who is seven months pregnant, and worked through the night from her base in Abu Dhabi, taking a call at 3 a.m. local time.... \n\nMuch of the drama played out in public. Almost all crypto transactions are recorded on the blockchain, a ledger of money movements that anyone can look up. That meant crypto analysts could see funds leaving Binance in real time... North Koreans have targeted crypto companies for years, using the proceeds of those thefts to fund its nuclear program, according to Western officials. The hackers have developed increasingly complex strategies to steal crypto and launder the proceeds, a painstaking endeavor that can take months to complete. In a blog post on Friday, Chainalysis said the attackers had deployed \"laundering patterns we have not seen before,\" conducting thousands of transactions over a short period, probably with the help of automation. \n\nAt the same time, Binance's colleagues in the industry mobilized to intercept some of the laundered crypto. Certain digital coin issuers can freeze funds, allowing them to halt a money-laundering operation in its tracks. Soon after the hack, Tether and Circle, two major issuers, announced that they had frozen stashes of their own coins that the hackers had seized from Binance, a combined total of more than $2 billion in crypto. Binance is now working to gain access to those funds, the company said. But $2.4 billion in crypto is already \"beyond any issuer's reach,\" according to [blockchain intelligence firmm] TRM. \n\nThe article also includes President Trump's reaction when asked Friday about the breach. \"I've always felt it was a little bit dangerous. But they say they have it pretty much under control. We'll see.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 01, 2026 01:34",
+    "published_at": "2026-11-01T01:34:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Woodpecker CI 3.20 Released with Pipeline Improvements, Security Fixes",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368693",
+    "description": "Woodpecker CI 3.20 adds manual workflow selection, tighter agent restrictions, faster queue scheduling, and security improvements.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368693",
+    "date": "Nov 01, 2026 00:51",
+    "published_at": "2026-11-01T00:51:51Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Brief Server Downtime Expected Tonight",
+    "link": "https://www.phoronix.com/news/RAID-Drive-Replacement-Tonight",
+    "description": "Just a friendly heads up that Phoronix.com and associated sites will be down briefly at around midnight PST / 3AM EST on 1 November for a failed drive in the NVMe SSD RAID array...",
+    "guid": "https://www.phoronix.com/news/RAID-Drive-Replacement-Tonight",
+    "date": "Nov 01, 2026 00:32",
+    "published_at": "2026-11-01T00:32:00Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "OpenShot 4.1 Released With Auto-Optimize, CLI Automation \u0026 ARM64 Linux Builds",
+    "link": "https://www.phoronix.com/news/OpenShot-4.1-Released",
+    "description": "OpenShot is closing out the month of October by releasing OpenShot 4.1 as the latest major feature release for this useful open-source video editing solution...",
+    "guid": "https://www.phoronix.com/news/OpenShot-4.1-Released",
+    "date": "Oct 31, 2026 23:28",
+    "published_at": "2026-10-31T23:28:50Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "A massive pile of security updates for Saturday",
+    "link": "https://lwn.net/Articles/1104612/",
+    "description": "Security updates have been issued by AlmaLinux (.NET 10.0, .NET 11.0, .NET 8.0, .NET 9.0, aspell, bind, bind9.18, container-tools:1.0, container-tools:rhel8, curl, dogtag-pki, ignition, java-21-openjdk, python-pillow, tomcat, and virt:rhel, virt-devel:rhel), Debian (antiword, cyrus-sasl2, dovecot, dpdk, nss, python-git, and thunderbird), Fedora (7zip, aegisub, aom, apptainer, arm-none-eabi-binutils-cs, assimp, avr-binutils, baresip, barman, bind9-next, btrfs-backup-ng, chezmoi, chromium, cifs-utils, clevis-pin-trustee, composer, containerd, curl, docker-buildx, dotnet10.0, evolution, evolution-data-server, evolution-ews, exim, fips-provider, firefox, flare-im, forgejo, freeipa, freerdp, gcc, gegl04, ghostscript, GitPython, glib-networking, gnome-shell-extension-gsconnect, golang-x-mobile, hcloud, helix, httpd, ImageMagick, iperf3, jfrog-cli, jupyterlab, keepassxc, kernel, knot-resolver, krb5, kryoptic, libdigidocpp, libheif, libindi, libinstpatch, libpng12, libpng15, librabbitmq, libre, libXi, libzip, linux-firmware, Lmod, log4net, markdownlint-cli2, mingw-freetype, mingw-gstreamer1, mingw-gstreamer1-plugins-bad-free, mingw-gstreamer1-plugins-base, mingw-gstreamer1-plugins-good, mingw-libpng, mingw-LibRaw, mingw-python-certifi, mingw-python3, mongo-c-driver, mstflint, mutt, nant, nebula, nix, nsd, ntpsec, openbao, openjpeg, openssl3, openvpn, perl-Badger, perl-CLI-Simple, perl-Cpanel-JSON-XS, perl-CSS-Inliner, perl-Encoding-FixLatin, perl-ExtUtils-Typemaps-Default, perl-GD-SecurityImage, perl-HTML-Query, perl-libnet, perl-Markdown-Render, perl-Net-IDN-Encode, perl-Net-Whois-Raw, perl-Plack, perl-Plack-Middleware-ReverseProxy, perl-Text-CSV_XS, pgbouncer, php-getid3, php-pecl-mongodb2, python-boto3, python-botocore, python-cairosvg, python-django5, python-django6, python-jupyter-builder, python-mkdocs-rss-plugin, python-nbdime, python-nh3, python-notebook, python-pydantic-core, python-pypdf, python-uv-build, python3.10, python3.11, python3.12, python3.13, python3.14, qdigidoc, qdl, qt5-qtbase, radicale, rclone, rt, ruff, rust-ammonia, rust-archive-trait, rust-astral-html, rust-astral-ini, rust-astral-mail-headers, rust-astral-pubgrub, rust-astral-version-ranges, rust-astral_async_http_range_reader, rust-astral_async_zip, rust-asyncband, rust-backtrace, rust-blake2b_simd, rust-blake3, rust-cargo-semver-checks, rust-chrono, rust-clap-cargo, rust-constant_time_eq, rust-dua-cli, rust-faster-hex, rust-gengo-bin, rust-gitui, rust-lzma-rust2, rust-object, rust-object0.37, rust-object0.38, rust-object0.39, rust-onefetch, rust-ppmd-rust, rust-quick-junit, rust-rbw, rust-regorus, rust-reqsign, rust-reqsign-aliyun-oss, rust-reqsign-aws-core, rust-reqsign-aws-v4, rust-reqsign-aws-v4a, rust-reqsign-azure-storage, rust-reqsign-command-execute-tokio, rust-reqsign-core, rust-reqsign-file-read-tokio, rust-reqsign-google, rust-reqsign-http-send-reqwest, rust-reqsign-huaweicloud-obs, rust-reqsign-oracle, rust-reqsign-tencent-cos, rust-reqsign-volcengine-tos, rust-routinator, rust-rustls, rust-ruzstd, rust-sccache, rust-tar-codec, rust-tar-framing, rust-tokei, rust-totp-rs, rust-trustfall-rustdoc-adapter, rust-trustfall-rustdoc-adapter57, rust-trustfall-rustdoc-adapter60, rust-typed-path, rust-zip, rust-zip0.6, rust-zip2, rustup, samba, SDL3_image, socat, stargz-snapshotter, stgit, sudo, syncthing, thunderbird, tor, trafficserver, ty, unbound, unshield, uv, webkitgtk, wordpress, xorg-x11-server, xorg-x11-server-Xwayland, zchunk, and zvbi), Mageia (libgit2), Red Hat (go-toolset:rhel8 and rhc), SUSE (ab-av1, ansible-core, aws-nitro-enclaves-cli, bouncycastle, cadvisor, chromium, cifs-utils, coredns, crun, dr_libs-devel-20260901, dssim, epiphany, expat, forgejo, freetype2-devel, fuseiso-20260614, gh, ghostscript, gosec, gvfs, hashcat, hauler, hugo, ImageMagick, kernel-devel, kubevirt1.9, libmikmod, libsoup, percona-toolkit, perl-cpanel-json-xs, perl-dancer2-plugin-auth-extensible, perl-mozilla-ca, pocketbase, putty, python-brotli, python-CairoSVG, python-cairosvg, python-django, python-pypdf, python-urllib3_1, roundcubemail, rsyslog, shadowsocks-rust, shadowsocks-libev, stgit, suseconnect-ng, tailscale, trivy, and vlc), and Ubuntu (brotli).",
+    "guid": "https://lwn.net/Articles/1104612/",
+    "date": "Oct 31, 2026 22:34",
+    "published_at": "2026-10-31T22:34:30Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "Haruna 1.9 Media Player Improves YouTube Handling and Playlist Management",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368688",
+    "description": "KDE's Haruna 1.9 optimizes YouTube URL processing, changes how playlists load at startup, and adds new customization options.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368688",
+    "date": "Oct 31, 2026 22:32",
+    "published_at": "2026-10-31T22:32:56Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Computer Simulations Suggest Building Blocks of Life Didn't Arrive on Prehistoric Comets",
+    "link": "https://science.slashdot.org/story/26/10/31/2142240/computer-simulations-suggest-building-blocks-of-life-didnt-arrive-on-prehistoric-comets?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "CNN reports:\n\n\nThe popular theory that comets were crucial in kick-starting life on Earth billions of years ago may not hold up, according to new computer simulations that counter decades of scientific thinking. The finding suggests the fragile organic molecules supposedly carried by the icy objects would have been destroyed on impact, upending an established origin of life theory that dates back to at least 1961 [with earlier versions postulated in 1908]... \n\nEarly in its history — over 4 billion years ago — Earth may have experienced a period of heavy bombardment from more than 100,000 comets larger than 100 meters (328 feet), according to the new study, published Wednesday in the journal Scientific Reports. Those impacts, however, were mostly too heavy for life-starting molecules to withstand. The team used the latest models of comet formation and evolution to simulate this early planetary period 100,000 times. \"Given what we know about surface environments on the early Earth, on average, our simulations found that there were no successful impacts,\" said lead study author Richard Anslow, who conducted the research while completing his doctorate at the Institute of Astronomy of the University of Cambridge in the United Kingdom... \"The typical velocities of these comets when they impact the Earth meant that actually very few, if any, would have been able to deliver intact organic molecules, so comets actually don't seem to be as useful for prebiotic chemistry as was previously thought,\" Anslow said. \n\nMore precisely, 54% of the simulations showed no impact at all, while the remaining 46% had at least one and a \"tiny minority\" returned up to three collisions, Anslow said. \"We can't rule out confidently that there was never a successful impact — there could have been one of these fluke impacts.\" However, such flukes had to occur in a \"perfect location\" that already met several important conditions, including the presence of liquid water and other chemicals needed to support life. That combination makes the overall process unlikely, he added. \nThe article notes his argument that even if a successful impact occurred, it's unlikely an important chemical like hydrogen cyanide (HCN) could survive the impact, and would've dissolved in an ocean impact. Plus, \"many other precursor molecules are also needed, such as compounds that contain phosphorus and sulfur, but these are not routinely found in comets, Anslow said.\"\n\nAn alternative cosmic source of organic material could have been asteroids, which typically struck Earth more slowly and in greater numbers. Anslow pointed to recent findings on samples from asteroids Bennu and Ryugu, which contain the majority of protein-building amino acids. The recent study also raises another intriguing possibility: While Earth may not have had the ideal conditions to foster HCN from comet impacts, ancient Mars might have been better suited. \"Because Mars is much smaller than Earth and further away from the sun, the typical impact velocity of comets is much lower, so while these impacts on Earth were destroying most of the HCN, this wasn't the case so much for Mars,\" Anslow said. This idea could add another dimension to the long-standing question of whether the red planet once supported life. \n\nWhile the authors closely analyzed how HCN could have survived comet impact, the chemical may have undergone reactions before the icy bodies entered Earth's atmosphere, said Queenie Chan, an associate professor of Earth sciences at Royal Holloway University of London, who was not involved with the study. This process could have created biologically important compounds, such as those protein building blocks, that are less volatile and more likely to survive.\n\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 31, 2026 21:50",
+    "published_at": "2026-10-31T21:50:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "GNU Mtools 4.0.50 Released With Security Fix",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368689",
+    "description": "The longtime GNU utility collection lets users work with DOS disks and FAT filesystems without mounting them.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368689",
+    "date": "Oct 31, 2026 21:16",
+    "published_at": "2026-10-31T21:16:41Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Recycling ANSI Art: Tracing the Origins of BBS Logon Screens",
+    "link": "https://games.slashdot.org/story/26/10/31/2038237/recycling-ansi-art-tracing-the-origins-of-bbs-logon-screens?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "BBS-era \"door\" games are preserved by the site Break Into Chat, along with their history. Now the site's actually traced the origins of several ANSI art screens in the 1980s and \"how different people later transformed the original images,\" starting from one of the most popular bulletin board systems in St. Louis, Missouri. \n\nSlashdot reader Kirkman14 writes:\n\n\"Fire Escape\" was curator of the authoritative list of bulletin board systems in St. Louis's area code and sysop of the area's most popular board. Like many sysops of that time, Fire Escape enlivened her bulletin board by finding and repurposing older ANSI art. Eventually her BBS had 18 different logon screens in its rotation, many of which featured flames or mushroom clouds or made liberal use of red and yellow. \n\nBreak Into Chat follows the trail:\n\nSome, maybe even most, of Fire Escape's logon screens had actually been adapted from old school \"public domain\" ANSI art drawn in the late 1980s and early 1990s by folks such as Michael C. Ling, Lora Ruffner (aka \"Ebony Eyes\") and Violet Stymacks.... Stymacks was unusually generous with her ANSI art. When she first began drawing, she combed through Fidonet node lists looking for bulletin boards with interesting or inspiring names. When she found one, she would draw an ANSI screen that fit the board's theme, then send it to the sysop. Eventually, sysops began seeking her out, too. By late 1990, she claimed that 500 bulletin boards were using her screens. Three years later, that total had tripled, according to Boardwatch . I believe it — I have located more than 1,100 of her pieces so far. She was so prolific that it would be surprising if she hadn't reused or remixed her own work over the years... \n\n[D]id they intend for other people to do so? Or would they have considered such borrowing or adapting as \"ripping\" or just plain \"stealing\"? These questions have dogged the BBS, ASCII art, and ANSI art scenes from the beginning. A freelance writer named Patrick Grote grappled with this ethical dilemma in 1990. He had begun to publish archives of ANSI art that he had collected from various public messageboards and networks. But what were people allowed to do with the ANSI screens in these collections? Was it okay to modify them? \"Tough call,\" Grote said. \"I know some people copyright their screens by inserting a little '(C)' on it,\" Grote wrote in a README file included in these collections. \"Is this 'true' copyrighting? I would say yes, but then again, I don't feel like having any legal action taken against me for using an ANSI screen. In my opinion, I would say leave the ones that say '(C)' alone, but make every effort to contact the artist and ask for permission....\" \n\nWhen I corresponded with Fire Escape this year, she admitted her memory wasn't what it used to be, but felt certain that she had not asked any artists for permission because she didn't know who they were or how to reach them. \"I figured if anyone had an issue, I'd just remove the screen,\" she said. \n\"But no one ever said anything about it.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 31, 2026 20:50",
+    "published_at": "2026-10-31T20:50:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Securing Internet-Critical Software: How We Could Have Backdoored Bash",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368685",
+    "description": "A shell injection hidden in an email address gave us code execution on GNU Savannah, then root, then the ability to push to the upstream Bash repository. We reported it, kept auditing, and helped the FSF fix 26 vulnerabilities in the forge that hosts GNU.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368685",
+    "date": "Oct 31, 2026 20:05",
+    "published_at": "2026-10-31T20:05:27Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "French Lawmakers Back Per-Gigabyte Internet Traffic Tax",
+    "link": "https://tech.slashdot.org/story/26/10/31/1857243/french-lawmakers-back-per-gigabyte-internet-traffic-tax?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Companies like Google, Netflix, TikTok, and Meta may soon owe the French government, reports Tom's Hardware:\n\nFrance has approved a proposed tax that aims to tax the amount of internet data per gigabyte sent to French users in the country... According to minutes released by the National Assembly, members voted 11-10 in support of the motion on October 30 — which now means the new law has been added to the country's next budget, despite major opposition from the government side and the finance committee rapporteur. The latest amendment, introduced by socialist lawmaker Laurent Lhardit, could see content providers pay €0.055 (roughly $0.06) to the government for every gigabyte of content distributed to French users. With approximately 154 million users and counting in France, the proposal's authors say such a tax could generate around €10 billion ($11.2 billion) in annual revenue for the government. \n\nThe said proposal, though yet to be passed as it must survive further parliamentary scrutiny, aims at companies that generate substantial internet traffic as opposed to taxing their advertising revenue, profits and subscriptions. Its explanatory notes particularly mention Google, Meta, Netflix, Amazon, and content delivery network Akamai as major potential contributors. Notably, TikTok and other similar platforms could fall under this broader scope depending on how these rules are applied. Internet service providers, including Orange Free and Liad, would be required to measure the volume of data and identify the companies responsible for sending it to French users. The Data will then be collected and submitted quarterly to France's tax administration under the supervision of telecommunications watchdog Arcep. \n\nThe measure becomes law if it clears the remaining stages of France's budget process, the article points out, \"with parliament scheduled to vote on the budget's first section in early November.\"\n\n\"VideoLAN, the French nonprofit organization behind the VLC media player, warned that the proposed levy could cost it more than €1 million annually,\" reports CircleID. \"Its response illustrates how traffic-based taxation could affect organizations distributing large volumes of data without corresponding commercial revenue.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 31, 2026 19:50",
+    "published_at": "2026-10-31T19:50:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Linux Lite 8.2 Released with Linux Kernel 7.3, Based on Ubuntu 26.04 LTS",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368679",
+    "description": "Linux Lite 8.2 has been released today as the second installment in the Linux Lite 8 series of this Ubuntu-based distribution featuring the lightweight Xfce desktop environment.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368679",
+    "date": "Oct 31, 2026 18:55",
+    "published_at": "2026-10-31T18:55:51Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "NASA Seeks Proposals for Reboosting the Hubble Space Telescope",
+    "link": "https://science.slashdot.org/story/26/10/31/1817218/nasa-seeks-proposals-for-reboosting-the-hubble-space-telescope?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "The Hubble Space Telescope \"will plunge back into the atmosphere in the early-to-mid-2030s,\" reports Ars Technica. \n\nSo now NASA has released a Request For Information (RFI) \"asking commercial companies for ideas on how to reboost, service, or a controlled disposal of Hubble.\"\n\nSpecifically, NASA is looking for information about companies' current and near-term capabilities for capturing Hubble and boosting it to an altitude of at least 373 miles (600 km), enhancing the telescope's performance, or guiding Hubble to a controlled reentry. \"The requirement includes that the boost and/or servicing mission must not harm the HST and that this mission is expected to occur by 2032,\" NASA wrote in the RFI. The contractor would be responsible for providing the launch vehicle, servicing spacecraft, mission operations, and \"crew if applicable.\" \nNASA is not committing to buying a Hubble rescue mission, but officials want to know who might be interested in mounting such a mission, how much it would cost, and which companies would have a realistic shot at reaching Hubble before it falls out of orbit and burns up on reentry. Orbital dynamicists currently predict that it will likely happen in 2033 or 2034 without intervention, but reentry forecasts can change based on solar activity... A reboost to NASA's requirement of 373 miles (600 km) would likely keep Hubble in orbit for at least 25 more years. \n\n\n\"NASA last raised the orbit of Hubble in 2002,\" the article points out, \"when the Space Shuttle Columbia visited the observatory for a servicing mission.\"\n\nThe final shuttle servicing flight in 2009 did not reboost the telescope's orbit, and with the retirement of the shuttle fleet two years later, Hubble has steadily lost altitude with no way to stave off eventual destruction... NASA's newer flagship observatories, sometimes described as successors to Hubble, are not actually one-for-one replacements. Hubble is tuned to observe the Universe in visible and ultraviolet light, while the Webb and Roman telescopes peer deeper into the infrared Universe. Astronomers will likely have to wait for the launch of NASA's Habitable Worlds Observatory in the 2040s for an improvement on Hubble's visible and ultraviolet vision.\n\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 31, 2026 18:50",
+    "published_at": "2026-10-31T18:50:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Dozens of Unexplained Drones Have Buzzed America's Nuclear Plants Since 2024",
+    "link": "https://news.slashdot.org/story/26/10/31/1742209/dozens-of-unexplained-drones-have-buzzed-americas-nuclear-plants-since-2024?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Slashdot reader ElectricVs shares this report from American Buildout, a new site covering \"the intersection of data centers, energy and power, finance, and Main Street.\"\n\nDozens of unexplained drones flew over and near U.S. nuclear facilities between February 2024 and March 2026, according to records the Nuclear Regulatory Commission made public this week. In all, facility operators filed 67 reports of drones over or near 28 sites in 17 states. They include the Three Mile Island site near Middletown, Pennsylvania., where Constellation Energy plans to restart Unit 1 as the Crane Clean Energy Center. In one incident, about five drones flew roughly 100 feet above the [970-megawatt] reactor building at River Bend Station in Louisiana. \n\n\n The story was first reported by the publication The Liberation Times. The NRC published the documents on its website in response to the publication's freedom of information request... Every entry carries the status \"Closed Unresolved.\" \n\"Most of the incidents happened after dark,\" the article points out, \"and none of the records identifies a drone operator. About half of the incidents, 33 of 67, occurred in an eight-week window between Dec. 3, 2024, and Jan. 24, 2025.\" (Virginia's Surry Power Station experienced five different incidents in December of 2024, including one involving \"at least eight drones in two waves.\") 100 miles west of Chicago, \"drone activity\" continued for more than two hours at the Byron Nuclear Station, where two separate drones were reported. In Waterford, Connecticut, \"security observed four drones flying back and forth...\" \n\nThe article notes a 2024 paper from the Nuclear Regulatory Commission citing a 2019 analysis that \"concluded U.S. plants had no risk-significant vulnerabilities that adversaries could exploit with commercially available drones to cause radiological sabotage, or theft or diversion of special nuclear material.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 31, 2026 17:50",
+    "published_at": "2026-10-31T17:50:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Flock Reinstalled Its Cameras After Another City Canceled Its Contract",
+    "link": "https://yro.slashdot.org/story/26/10/31/0238210/flock-reinstalled-its-cameras-after-another-city-canceled-its-contract?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Earlier The Drive reported a police chief \"had to direct his staff to disconnect the power cords from Flock cameras in Plymouth, Minnesota after Flock Safety ignored and failed to respond to the department's notice the city was canceling its service. \n\"But in other instances Flock's gone and reinstalled cameras without permission,\" The Drive reported this week:\n\n\nOn September 29th the city of Dayton, Minnesota posted a community update on its Facebook page alerting residents that Flock had installed and put into service two cameras against the City's direction without authorization... \"The City notified Flock on September 18, 2026, that the program was on hold, and no work orders were to be completed. Unfortunately, the City's direction was not followed, and the camera was placed back into service without authorization.\" The statement continued and noted, \"Following the report, City staff reviewed locations throughout the community to determine whether any additional cameras had been reinstalled, and one additional location was identified. The Police Department has been notified, and both cameras will be removed promptly....\" \n\nThe Minnesota cities of both St. Paul and Crystal told Kare 11 that they removed the Flock cameras themselves following their respective city council votes in August and September respectively. The cameras are stored and are still waiting to be picked up by Flock. Crystal Chief of Police Pete Underthun told Kare 11, \"Once we made this decision, I personally went to the locations and removed the cameras and poles myself.\" Chief Underthun noted, \"We are still working with the company to close out our contract and for them to pick the cameras up from our garage.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 31, 2026 16:50",
+    "published_at": "2026-10-31T16:50:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Denmark’s Collabora Pilot Was Never The Microsoft Replacement it Was Made Out to Be",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368677",
+    "description": "Collabora says a ministry merger paused the test, while the ministry says it was interrupted when the election was called.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368677",
+    "date": "Oct 31, 2026 16:37",
+    "published_at": "2026-10-31T16:37:25Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Google's AI Overviews Lowered Reddit's Traffic. Its Stock Dropped 29%",
+    "link": "https://tech.slashdot.org/story/26/10/31/0458218/googles-ai-overviews-lowered-reddits-traffic-its-stock-dropped-29?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Reddit's stock plunged 29.22% on Friday, reports CNBC, its worst drop since becoming a public company in 2024. \n\nThursday Reddit reported a sales growth that was weaker than previous quarters, and also forecast weak sales for the quarter to come (below analysts expectations):\n\nThe report comes as the company has seen a shift in its search referral traffic with the rise of Google's AI Overview. In an interview with CNBC, Reddit CEO Steve Huffman said search-referral traffic from Google went \"down meaningfully in this quarter\" due to AI... Multiple analysts downgraded the stock following Reddit's disappointing results, with Citizens noting that \"search changes highlight the problem with selling content to Google\" and that as referral problems worsen, uncertainty around user growth amid the login requirement switch \"puts more pressure on user monetization.\" \n\nReddit's CEO also said that forcing users to login will help the company's advertising business. \"Reddit is the last platform to provide basically unfettered logged-out access, and that's largely because of me. I've been holding that line.\" \n\n\"I think users will probably go through the same understanding that I have, which is that it's a sign of the times. It's an evolution of how these platforms work.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 31, 2026 15:50",
+    "published_at": "2026-10-31T15:50:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Enlightenment 0.28 Desktop Adds PipeWire Support, NetworkManager Module",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368684",
+    "description": "Enlightenment 0.28 has been released today by Carsten Haitzler as a major update to this free and open-source lightweight and modern desktop environment and window manager for Linux and BSD systems.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368684",
+    "date": "Oct 31, 2026 15:24",
+    "published_at": "2026-10-31T15:24:01Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Two US Senators Raise Privacy Concerns About Meta's 'Pervert Glasses'",
+    "link": "https://yro.slashdot.org/story/26/10/31/0553218/two-us-senators-raise-privacy-concerns-about-metas-pervert-glasses?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Meta's smart glasses face new questions from two U.S. Senators, reports Gizmodo.\n Oregon Sen. Ron Wyden and Massachusetts Sen. Edward Markey \"are requesting that Meta provide more information before Thanksgiving on whether it conducted detailed human rights due diligence and safety testing on the product before releasing it,\" reports Gizmodo. The Senators also requested information from Meta about \" how it evaluated the privacy risks posed by the glasses, and what kinds of safeguards are currently in place.\"\n\n\n\"Although Meta identified risks to bystander privacy and vulnerable populations before launching its glasses in 2021, it nevertheless launched a product tailor-made for invading the privacy of its users and bystanders,\" [the senators wrote in a letter Thursday...] The glasses have also been spotted on ICE agents during raids, and have raised potential surveillance concerns. The surveillance fears were even reportedly raised by the New York Police Department's counterterrorism unit in a memo issued earlier this year.... \n\n\"Meta's own disclosures confirm that imagery processed through its glasses' visual AI features may be retained and used to train AI systems, including with the assistance of human reviewers,\" the senators' letter states, calling the practice an invasion of privacy. \"Retaining that material for AI development, thereby extending the period during which it can be accessed, disclosed, or misused, exploits people's highly sensitive information for Meta's commercial benefit.\"\n\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 31, 2026 14:50",
+    "published_at": "2026-10-31T14:50:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Enlightenment 0.28 Released With Many Improvements",
+    "link": "https://www.phoronix.com/news/Enlightenment-0.28",
+    "description": "Enlightenment 0.27 released at the beginning of 2025 and since then there's been no major feature update, falling off their roughly 12 month release cadence. But out this Halloween is Enlightenment 0.28 now with the better part of two years worth of changes...",
+    "guid": "https://www.phoronix.com/news/Enlightenment-0.28",
+    "date": "Oct 31, 2026 14:46",
+    "published_at": "2026-10-31T14:46:26Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Linux Mint Developing New Apps For Terminal \u0026 System Monitoring",
+    "link": "https://www.phoronix.com/news/Linux-Mint-October-2026",
+    "description": "Linux Mint is out with their October 2026 status report to outline various initiatives they have underway in their lead-up to the Linux Mint 27 stable release happening on/around Christmas...",
+    "guid": "https://www.phoronix.com/news/Linux-Mint-October-2026",
+    "date": "Oct 31, 2026 14:36",
+    "published_at": "2026-10-31T14:36:11Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "How We Could Have Backdoored Bash (Hacktron blog)",
+    "link": "https://lwn.net/Articles/1104262/",
+    "description": "The Hacktron blog documents how\nthe group was able to compromise the GNU Savannah forge and could have\npushed malware into any of the projects hosted there.\n\n\n\tUsing Hacktron, we found that an email address like\n\t`touch${IFS}/tmp/savane-rce-proof`@attacker.example gave any\n\tregistered user code execution on its backend. From there, we made\n\tour account a superuser, impersonated Bash's maintainer, and\n\tconfirmed we could add an SSH key with push access to the upstream\n\tBash repository. An unpatched kernel gave us root access and access\n\tto a GNU backup server. We reported it to the FSF on May 11, 2026.\n",
+    "guid": "https://lwn.net/Articles/1104262/",
+    "date": "Oct 31, 2026 14:00",
+    "published_at": "2026-10-31T14:00:42Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "How to Install Yarn on Ubuntu 24.04 (via 3 Methods)",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368668",
+    "description": "Learn how to install the Yarn package manager on Ubuntu using NPM, Corepack, and the APT repository with practical examples.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368668",
+    "date": "Oct 31, 2026 12:35",
+    "published_at": "2026-10-31T12:35:38Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "New Linux 7.4 Feature For Reducing AI Noise Already Reverted Due To A \"Crazy Beast\"",
+    "link": "https://www.phoronix.com/news/Linux-7.4-Drops-Taint-Bind",
+    "description": "A new feature merged last week for Linux 7.4 to help reduce AI/LLM generated noise from invalid/irrelevant testing configurations is now reverted due to a \"crazy beast\" in the VFIO subsystem...",
+    "guid": "https://www.phoronix.com/news/Linux-7.4-Drops-Taint-Bind",
+    "date": "Oct 31, 2026 12:15",
+    "published_at": "2026-10-31T12:15:22Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "This app lets you manage Nothing \u0026 CMF earbuds on Linux",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368639",
+    "description": "Adjusting active noise cancellation (ANC) on Nothing or CMF earbuds means taking out your phone to use the official mobile app. EarA, a new open-source tool, that. It’s a GTK4 app (with a CLI for those who prefer the terminal), and it controls settings on earbuds like the Nothing Ear (a) and CMF Buds 2, from your Linux desktop. Noise control/ANC levels can be switched with a click. There are…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368639",
+    "date": "Oct 31, 2026 11:20",
+    "published_at": "2026-10-31T11:20:41Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Supersonic Airliner In Doubt As Company Shifts to Powering AI Data Centers",
+    "link": "https://hardware.slashdot.org/story/26/10/30/2355244/supersonic-airliner-in-doubt-as-company-shifts-to-powering-ai-data-centers?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Boom Supersonic's plans to launch its Overture passenger jet by 2029 are facing growing doubts as the company pivots toward manufacturing natural gas turbines for AI data centers. Ars Technica reports: One of the company's first customers, United Airlines CEO Scott Kirby, has expressed doubts about Boom's original plan to deliver the first Overture supersonic airliner in 2029. Kirby's latest frank assessment came during an interview with the Office Hours: Business Edition podcast that appeared on October 28, 2026. \"'29 is their official timeline,\" Kirby told podcast host Monica Langley. \"It's not going to happen in '29 -- it's going to take longer.\"\n \n[...] Much of Boom's recent focus has been on developing natural gas turbines to power AI data centers as an additional revenue stream. On October 22, the company unveiled another factory in Centennial, Colorado, dedicated to producing a 42-megawatt natural gas turbine called Superpower for data centers. [...] Boom described its new Superpower factory as making turbine parts while still undergoing construction. It aims to deliver the first gas turbines to AI data center customers in mid-2027 while ramping up annual production to 25 turbines in 2028 and 50 turbines by 2029.\n \n[...] Still, Boom has characterized the development of a gas turbine for data centers as being synergistic with its design of the Symphony engine for the Overture airliner. During the October announcement, it also described having completed a prototype turbine core, called Sprint Core, that is intended to eventually power both the Superpower gas turbine and Symphony engine for the airliner. That turbine core is set to undergo testing at the Colorado Air \u0026 Space Port, with Boom planning to fire the turbine for the first time before Thanksgiving. That would be a concrete development milestone, but the company still has much to do in proving it can get both its AI data center and supersonic airliner ventures off the ground.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 31, 2026 11:00",
+    "published_at": "2026-10-31T11:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "KDE Plasma 6.9 Lands Some New Performance Optimizations",
+    "link": "https://www.phoronix.com/news/KDE-Plasma-6.9-More-Performance",
+    "description": "I love a good performance optimization and there are several this week in the KDE space with Plasma 6.9 development heating up...",
+    "guid": "https://www.phoronix.com/news/KDE-Plasma-6.9-More-Performance",
+    "date": "Oct 31, 2026 10:51",
+    "published_at": "2026-10-31T10:51:01Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Ceph In Linux 7.4 Adds Global Mount Option For Lazy I/O",
+    "link": "https://www.phoronix.com/news/Linux-7.4-Ceph",
+    "description": "The Ceph kernel client changes have been submitted for Linux 7.4 ahead of its merge window expected to wrap up on Sunday...",
+    "guid": "https://www.phoronix.com/news/Linux-7.4-Ceph",
+    "date": "Oct 31, 2026 10:30",
+    "published_at": "2026-10-31T10:30:00Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Tails 7.16 Privacy-Focused Linux Distro Released with Tor Browser 16",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368641",
+    "description": "Tails 7.16 updates Tor Browser to version 16, upgrades the Tor client, and fixes OpenPGP support in Thunderbird.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368641",
+    "date": "Oct 31, 2026 10:14",
+    "published_at": "2026-10-31T10:14:40Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "GNOME Now Has An Established RFC Process, GNOME OS Continues Improving",
+    "link": "https://www.phoronix.com/news/GNOME-Establishes-RFC",
+    "description": "In recent weeks GNOME developers have been discussing a formal Request For Comments \"RFC\" process for solving major technical questions and changes to GNOME. This formalized process for succeeding their ad-hoc processes up to now has reached consensus...",
+    "guid": "https://www.phoronix.com/news/GNOME-Establishes-RFC",
+    "date": "Oct 31, 2026 10:10",
+    "published_at": "2026-10-31T10:10:19Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "DXVK-NVAPI 0.9.3 Brings Nice Improvements For Linux Gamers On Latest NVIDIA Drivers",
+    "link": "https://www.phoronix.com/news/DXVK-NVAPI-0.9.3",
+    "description": "DXVK-NVAPI 0.9.3 is out this weekend as a new feature update to this NVIDIA NVAPI implementation used by Valve as part of Steam Play with Proton for nicely integrating NVIDIA technologies into various Windows games running on Linux...",
+    "guid": "https://www.phoronix.com/news/DXVK-NVAPI-0.9.3",
+    "date": "Oct 31, 2026 10:00",
+    "published_at": "2026-10-31T10:00:00Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "CUDA Oxide 0.3 Vastly Improves Rust Support For NVIDIA CUDA Programming",
+    "link": "https://www.phoronix.com/news/CUDA-Oxide-0.3",
+    "description": "NVIDIA software engineers released CUDA Oxide 0.3 for closing out October. CUDA Oxide as a reminder is their experimental Rust to CUDA compiler that has been seeing a lot of activity in recent months...",
+    "guid": "https://www.phoronix.com/news/CUDA-Oxide-0.3",
+    "date": "Oct 31, 2026 09:50",
+    "published_at": "2026-10-31T09:50:00Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Sculpt OS 26.10 Released - Now Powered By Genode's Custom Microkernel",
+    "link": "https://www.phoronix.com/news/Sculpt-OS-26.10",
+    "description": "Sculpt OS as the general purpose operating system project born out of the Genode initiative is now using the project's own microkernel rather than a third-party microkernel...",
+    "guid": "https://www.phoronix.com/news/Sculpt-OS-26.10",
+    "date": "Oct 31, 2026 09:37",
+    "published_at": "2026-10-31T09:37:22Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Mastering Zip and Unzip Commands on Linux",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368669",
+    "description": "This kickstart guide will teach you the distinctions between Zip and Tarball and the installation of Zip and Unzip on your chosen Linux system, with command examples.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368669",
+    "date": "Oct 31, 2026 09:03",
+    "published_at": "2026-10-31T09:03:38Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Remote code execution on Linux systems with multipath TCP",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368656",
+    "description": "On October 27, LLM provider Anthropic reported on a remotely exploitable use-after-free bug affecting systems with multipath TCP listeners open. The bug works by triggering a response to a retransmitted SYN packet at the same moment that the TCP connection is established in another thread, causing the first thread to access the connection's options structure after the second thread has freed it.…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368656",
+    "date": "Oct 31, 2026 07:49",
+    "published_at": "2026-10-31T07:49:45Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Google's First Data Center Satellite Is Online and Writing Poetry",
+    "link": "https://science.slashdot.org/story/26/10/30/2344228/googles-first-data-center-satellite-is-online-and-writing-poetry?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Google's first experimental space-based data center is operational after launching earlier this month, successfully running its Gemma 4 AI model aboard a satellite and generating a haiku about being in orbit. TechCrunch reports: The satellite, which carries four Google Tensor Processing Units (TPUs) and generates up to 1 kW of electricity, is intended to pave the way for future networks of close-flying satellites performing large inference workloads in orbit. However, the power demands of the TPU mean it can only turn one on for about 20 minutes at a time, complicating the already tricky business of space-to-ground communications.\n \nAfter a commissioning process that tested out the satellite's subsystems over about three weeks, the spacecraft was ready to work. When engineers on the ground sent their first prompt this week, they asked the model pre-loaded onto the satellite, Google DeepMind's Gemma 4, to write a haiku about being in space. And thus:\n \nBlue marble below\nData streams in silent grace\nStarlight feeds my core.\n \nThe ongoing test campaign will examine how the chips perform under thermal stress and in the space radiation environment. [...] If the TPUs onboard this spacecraft prove capable, the next step will be launching two more satellites equipped with the advanced chips in 2027. Those spacecraft will support higher power generation and demonstrate inter-satellite optical links.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 31, 2026 07:00",
+    "published_at": "2026-10-31T07:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Labwc 0.20.3 Wayland Compositor Adds Custom Pointer Acceleration",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368661",
+    "description": "Labwc 0.20.3 introduces custom pointer acceleration, new input settings, and fixes for screen locking, XWayland, and window management.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368661",
+    "date": "Oct 31, 2026 06:38",
+    "published_at": "2026-10-31T06:38:55Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "RISC-V Has A Nice Portable Performance Optimization With Linux 7.4",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368635",
+    "description": "The RISC-V architecture changes were merged today for the Linux 7.4 kernel with one nice optimization standing out…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368635",
+    "date": "Oct 31, 2026 05:25",
+    "published_at": "2026-10-31T05:25:25Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Szyszka: A Bulk File Renamer Written in Rust with GTK 4 for Linux",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368637",
+    "description": "Quickly bulk rename files or directories using a simple yet powerful tool named Szyszka on Linux, Windows, and macOS.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368637",
+    "date": "Oct 31, 2026 04:10",
+    "published_at": "2026-10-31T04:10:47Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Cisco Gives Engineer Unlimited AI Tokens To Rewrite Legacy Code",
+    "link": "https://developers.slashdot.org/story/26/10/30/2339234/cisco-gives-engineer-unlimited-ai-tokens-to-rewrite-legacy-code?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from Fortune: Gen Z can't catch a break. Entry-level jobs are vanishing; some 40% of bosses say they plan to hire fewer grads because AI can do the job cheaper, and young workers are routinely slammed for showing up late and refusing to put in overtime for free. Cisco's president and chief product officer Jeetu Patel isn't buying it -- he's just handed one of the company's biggest jobs to a 27-year-old he found hidden in the org chart \"five levels\" below him. \"I've given him unlimited tokens because he's going to refactor code,\" Patel told Fortune at a small roundtable dinner. \"So I'm like, you can go, you can go nuts.\"\n \nThe \"him\" is Padmanabhan Krishnamurthy, or \"Paddy,\" as Patel affectionately calls him. He joined Cisco in 2025 after the $429 billion tech giant acquired EzDubs, the real-time translation startup Krishnamurthy cofounded in 2023. And despite coming in as a former founder with CEO experience, he was, in Patel's words, \"buried away in the organization doing something unstrategic.\" That changed when Patel dropped into Cisco's San Francisco office, and the pair got talking.\n \nKrishnamurthy reckoned he could rewrite Cisco's legacy code with a two-person team. Patel says even the most AI-forward people on his own team weren't thinking that way. So he has given himself four weeks to prove it, with the final goal of rewriting 98% of Cisco's legacy code within 24 months. Now, he's on the hunt for more Paddys: young hires who will \"challenge the system and the status quo,\" or, as he puts it, be \"an energizer bunny that just goes out and kind of revs everyone up.\" \"The only way for us to keep accelerating is to make sure we're surrounded by people with a broad range of experience,\" said Patel. \"Roughly one-third of my team is experienced, scaled operators who understand how the Cisco engine works. The second third are systems thinkers from the market who bring the outside-in perspective. And the final third is made of entrepreneurial founders, CEOs, and engineers who are AI-native who operate in founder mode.\"\n \n\"Either of these groups by themselves aren't nearly as potent as when all three work together. It's what creates magic.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 31, 2026 03:30",
+    "published_at": "2026-10-31T03:30:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Working Exploit for a Linux Kernel Flaw Made Public",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368663",
+    "description": "Even before a bug received its CVE identifier or an upstream fix, the local privilege escalation vulnerability exploit found its way into the wild.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368663",
+    "date": "Oct 31, 2026 01:52",
+    "published_at": "2026-10-31T01:52:26Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Wine 11.21 Released With Better WoW64 OpenGL Performance",
+    "link": "https://www.phoronix.com/news/Wine-11.21-Released",
+    "description": "Wine 11.21 is out as the newest bi-weekly development release of Wine and as we near Wine 12.0 stable release happenings getting underway in about one month with the official v12.0 release expected early in the new year...",
+    "guid": "https://www.phoronix.com/news/Wine-11.21-Released",
+    "date": "Oct 31, 2026 00:29",
+    "published_at": "2026-10-31T00:29:01Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Apple Is Entering Its Slop Era",
+    "link": "https://apple.slashdot.org/story/26/10/30/216221/apple-is-entering-its-slop-era?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "In an opinion piece for 404 Media, Matthew Gault argues that Apple has entered its \"slop era,\" abandoning its reputation for innovative hardware in favor of recycled ideas and questionable design choices. Here's an excerpt: My ears perked up when I heard Apple's new foldable phones were cracking. I licked my lips when the company announced it's releasing a touch-screen laptop. This was a company that once charged $19 for a polishing cloth, asked $200 for a VESA mount, and sold $700 wheels for the Mac Pro. Now it's borrowing tired ideas from its competitors and launching hardware its previous leaders rejected.\n \nThe once dominant company is struggling to find its feet in an AI-driven post-Tim Cook world. John Ternus is the new CEO -- a 25 year veteran of the company with a track record of pushing harebrained hardware schemes like the much reviled Touch Bar and lawsuit inducing butterfly keyboard.\n \nWith Ternus at the helm, I feel there's a good chance Apple's best days are behind it, that it will have to make do with less, that it's declasse. Apple, blindsided by AI and relying on crowdpleasing hardware gimmicks, is downwardly mobile. It's in its slop era. The company that once asked consumers to \"Think Different\" is now releasing hardware that's just like everything else on the market.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 30, 2026 23:00",
+    "published_at": "2026-10-30T23:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Meta Settles Another Social Media Addiction Case Just Before Trial",
+    "link": "https://yro.slashdot.org/story/26/10/30/213231/meta-settles-another-social-media-addiction-case-just-before-trial?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Meta has reached an undisclosed settlement in another social media addiction lawsuit, avoiding a trial scheduled for next month and leaving Snap as the sole remaining defendant. Engadget reports: The lawsuit was brought by an 18-year-old woman from Mississippi known as K.D.B who, according to Reuters, has \"described staying awake for hours scrolling social media, losing focus in class and engaging in self-harm using methods shown in social media videos.\" Jury selection kicked off earlier this week in Los Angeles.\n \nOn Friday, K.D.B's lawyer announced that she had reached a settlement with Meta after previously settling with TikTok and YouTube. \"We remain committed to improving safety for kids on social media apps and holding tech companies accountable, and we are pleased to have brought this matter to a just resolution on behalf of our client,\" attorney Emily Jeffcott said in a statement.\n \nNow, Snap is the only remaining defendant in the case. CEO Evan Spiegel is expected to testify in the trial that could last several weeks. If he does take the stand, it will be the first time the Snap founder has appeared in a social media addiction trial. Snap previously settled in another high-profile case involving similar claims. A jury later ruled against Meta and YouTube in the trial and the two were ordered to pay $6 million in damages.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 30, 2026 22:00",
+    "published_at": "2026-10-30T22:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Sam Altman Thinks Your PC Is Wasting Precious RAM",
+    "link": "https://hardware.slashdot.org/story/26/10/30/2017206/sam-altman-thinks-your-pc-is-wasting-precious-ram?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "\"Looks like OpenAI CEO Sam Altman wants to own all the computing resources and rent out terminals to the world as a way of propping up his business plan, now that debt-ridden AI companies are teetering on the edge,\" writes ancient Slashdot reader Gilmoure. Tom's Hardware reports: In an interview over beers with the YouTube channel Cheeky Pint, Altman said that local inference, and, by extension, people having DRAM in computers at home, is \"quite terrible.\" When discussing local inference on home computers with open-source models, Altman discussed the assumption that people will be able to run local AI on their own computers, the ones they may already own or want to build.\n \nThen he explained why that's a bad idea (at the 29-minute mark): \"From a global allocation perspective, actually, it's quite terrible to have everybody have a bunch of the world's limited supply of DRAM sitting in their own computer and being used 5% of the time,\" Altman said. \"You want maximum utilization in the cloud if you're trying to deal with this very supply-constrained environment. And somehow many people's intuition is the opposite of that.\"\n \nWhile OpenAI does have some open-source models, its primary business is in closed-source models that run in data centers, so he's really defending the company's business model. OpenAI isn't exactly threatened by some laptops and gaming rigs just yet, but local AI could mean people one day paying less for subscriptions to models like GPT-6 Luna if they have the power to run them at home. Altman's talk suggests that the company would prefer that more RAM go to OpenAI's data centers rather than home computers, which also sparks enthusiast fears of not being able to own your own hardware or software, but rather rent an agent and a computer in the cloud.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 30, 2026 21:00",
+    "published_at": "2026-10-30T21:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  }
+]

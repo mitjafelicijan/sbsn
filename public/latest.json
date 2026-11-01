@@ -1,5 +1,172 @@
 [
   {
+    "title": "Binance Replenishes 90% of Stolen $6.3B, Pledges They'll Cover It All, Reopen Sunday",
+    "link": "https://news.slashdot.org/story/26/11/01/0129237/binance-replenishes-90-of-stolen-63b-pledges-theyll-cover-it-all-reopen-sunday?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "\"We've now replenished 90% of the stolen assets, and we're committed to covering the remaining 10%,\" Binance co-CEO Richard Teng posted on X, adding that \"Our users will not bear the financial impact of this incident.\" \n\n\"Binance said it was able to replace the funds taken in the record hack by using company money to buy new tokens,\" reports NBC News:\n\nThe remaining 10% consists of tokens that are less liquid, meaning they may take longer to buy, it said in a statement posted on X... Binance said it has set aside around $6.34 billion of company funds internally to cover the losses. The money spent re-buying tokens came from using part of its $1 billion Secure Asset Fund for Users, a bitcoin reserve it holds to protect customers in the event of security breaches, as well as some of its Futures Insurance Fund, and the company's own corporate treasury, it said on X. \n\nNBC News reports that the FBI blames the breach on a North Korea-sponsored group known as TraderTraitor:\n\nMembers of [TraderTraitor] were observed by law enforcement converting stolen assets into the cryptocurrency ethereum, the FBI said in a statement, adding that it expects \"further laundering\" of the assets through the use of related technology... After the hack, the exchange stopped allowing customers to withdraw their funds, but it said Saturday it was still on track to reopen withdrawals Sunday.\n \n\nCNBC reports:\n\n\nThe world's largest crypto exchange initially said the hack may involve \"a compromised DevOps engineer's laptop, which allowed an attacker to gain access to a service container and submit unauthorized withdrawal transactions.\" However, Co-CEO Richard Teng later said the attack involved a more complex process rather than the misuse of a single engineer's permissions.\n \n\nThe New York Times describes what happened when Binance first spotted \"a multibillion-dollar deluge of digital coins\" pouring out of its accounts:\n\n\nAs the news spread, Binance's top executives put together an informal war room on Wea, the company's internal messaging system, with about 100 participants, including specialized cryptocurrency tracers and security personnel. They eventually transitioned to a mass conference call, with 100 boxes on the screen, where employees took turns muting and then unmuting, communicating in a mixture of English and Chinese. Among them was He Yi, Binance's co-chief executive, who is seven months pregnant, and worked through the night from her base in Abu Dhabi, taking a call at 3 a.m. local time.... \n\nMuch of the drama played out in public. Almost all crypto transactions are recorded on the blockchain, a ledger of money movements that anyone can look up. That meant crypto analysts could see funds leaving Binance in real time... North Koreans have targeted crypto companies for years, using the proceeds of those thefts to fund its nuclear program, according to Western officials. The hackers have developed increasingly complex strategies to steal crypto and launder the proceeds, a painstaking endeavor that can take months to complete. In a blog post on Friday, Chainalysis said the attackers had deployed \"laundering patterns we have not seen before,\" conducting thousands of transactions over a short period, probably with the help of automation. \n\nAt the same time, Binance's colleagues in the industry mobilized to intercept some of the laundered crypto. Certain digital coin issuers can freeze funds, allowing them to halt a money-laundering operation in its tracks. Soon after the hack, Tether and Circle, two major issuers, announced that they had frozen stashes of their own coins that the hackers had seized from Binance, a combined total of more than $2 billion in crypto. Binance is now working to gain access to those funds, the company said. But $2.4 billion in crypto is already \"beyond any issuer's reach,\" according to [blockchain intelligence firmm] TRM. \n\nThe article also includes President Trump's reaction when asked Friday about the breach. \"I've always felt it was a little bit dangerous. But they say they have it pretty much under control. We'll see.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 01, 2026 01:34",
+    "published_at": "2026-11-01T01:34:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Woodpecker CI 3.20 Released with Pipeline Improvements, Security Fixes",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368693",
+    "description": "Woodpecker CI 3.20 adds manual workflow selection, tighter agent restrictions, faster queue scheduling, and security improvements.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368693",
+    "date": "Nov 01, 2026 00:51",
+    "published_at": "2026-11-01T00:51:51Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Brief Server Downtime Expected Tonight",
+    "link": "https://www.phoronix.com/news/RAID-Drive-Replacement-Tonight",
+    "description": "Just a friendly heads up that Phoronix.com and associated sites will be down briefly at around midnight PST / 3AM EST on 1 November for a failed drive in the NVMe SSD RAID array...",
+    "guid": "https://www.phoronix.com/news/RAID-Drive-Replacement-Tonight",
+    "date": "Nov 01, 2026 00:32",
+    "published_at": "2026-11-01T00:32:00Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "OpenShot 4.1 Released With Auto-Optimize, CLI Automation \u0026 ARM64 Linux Builds",
+    "link": "https://www.phoronix.com/news/OpenShot-4.1-Released",
+    "description": "OpenShot is closing out the month of October by releasing OpenShot 4.1 as the latest major feature release for this useful open-source video editing solution...",
+    "guid": "https://www.phoronix.com/news/OpenShot-4.1-Released",
+    "date": "Oct 31, 2026 23:28",
+    "published_at": "2026-10-31T23:28:50Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "A massive pile of security updates for Saturday",
+    "link": "https://lwn.net/Articles/1104612/",
+    "description": "Security updates have been issued by AlmaLinux (.NET 10.0, .NET 11.0, .NET 8.0, .NET 9.0, aspell, bind, bind9.18, container-tools:1.0, container-tools:rhel8, curl, dogtag-pki, ignition, java-21-openjdk, python-pillow, tomcat, and virt:rhel, virt-devel:rhel), Debian (antiword, cyrus-sasl2, dovecot, dpdk, nss, python-git, and thunderbird), Fedora (7zip, aegisub, aom, apptainer, arm-none-eabi-binutils-cs, assimp, avr-binutils, baresip, barman, bind9-next, btrfs-backup-ng, chezmoi, chromium, cifs-utils, clevis-pin-trustee, composer, containerd, curl, docker-buildx, dotnet10.0, evolution, evolution-data-server, evolution-ews, exim, fips-provider, firefox, flare-im, forgejo, freeipa, freerdp, gcc, gegl04, ghostscript, GitPython, glib-networking, gnome-shell-extension-gsconnect, golang-x-mobile, hcloud, helix, httpd, ImageMagick, iperf3, jfrog-cli, jupyterlab, keepassxc, kernel, knot-resolver, krb5, kryoptic, libdigidocpp, libheif, libindi, libinstpatch, libpng12, libpng15, librabbitmq, libre, libXi, libzip, linux-firmware, Lmod, log4net, markdownlint-cli2, mingw-freetype, mingw-gstreamer1, mingw-gstreamer1-plugins-bad-free, mingw-gstreamer1-plugins-base, mingw-gstreamer1-plugins-good, mingw-libpng, mingw-LibRaw, mingw-python-certifi, mingw-python3, mongo-c-driver, mstflint, mutt, nant, nebula, nix, nsd, ntpsec, openbao, openjpeg, openssl3, openvpn, perl-Badger, perl-CLI-Simple, perl-Cpanel-JSON-XS, perl-CSS-Inliner, perl-Encoding-FixLatin, perl-ExtUtils-Typemaps-Default, perl-GD-SecurityImage, perl-HTML-Query, perl-libnet, perl-Markdown-Render, perl-Net-IDN-Encode, perl-Net-Whois-Raw, perl-Plack, perl-Plack-Middleware-ReverseProxy, perl-Text-CSV_XS, pgbouncer, php-getid3, php-pecl-mongodb2, python-boto3, python-botocore, python-cairosvg, python-django5, python-django6, python-jupyter-builder, python-mkdocs-rss-plugin, python-nbdime, python-nh3, python-notebook, python-pydantic-core, python-pypdf, python-uv-build, python3.10, python3.11, python3.12, python3.13, python3.14, qdigidoc, qdl, qt5-qtbase, radicale, rclone, rt, ruff, rust-ammonia, rust-archive-trait, rust-astral-html, rust-astral-ini, rust-astral-mail-headers, rust-astral-pubgrub, rust-astral-version-ranges, rust-astral_async_http_range_reader, rust-astral_async_zip, rust-asyncband, rust-backtrace, rust-blake2b_simd, rust-blake3, rust-cargo-semver-checks, rust-chrono, rust-clap-cargo, rust-constant_time_eq, rust-dua-cli, rust-faster-hex, rust-gengo-bin, rust-gitui, rust-lzma-rust2, rust-object, rust-object0.37, rust-object0.38, rust-object0.39, rust-onefetch, rust-ppmd-rust, rust-quick-junit, rust-rbw, rust-regorus, rust-reqsign, rust-reqsign-aliyun-oss, rust-reqsign-aws-core, rust-reqsign-aws-v4, rust-reqsign-aws-v4a, rust-reqsign-azure-storage, rust-reqsign-command-execute-tokio, rust-reqsign-core, rust-reqsign-file-read-tokio, rust-reqsign-google, rust-reqsign-http-send-reqwest, rust-reqsign-huaweicloud-obs, rust-reqsign-oracle, rust-reqsign-tencent-cos, rust-reqsign-volcengine-tos, rust-routinator, rust-rustls, rust-ruzstd, rust-sccache, rust-tar-codec, rust-tar-framing, rust-tokei, rust-totp-rs, rust-trustfall-rustdoc-adapter, rust-trustfall-rustdoc-adapter57, rust-trustfall-rustdoc-adapter60, rust-typed-path, rust-zip, rust-zip0.6, rust-zip2, rustup, samba, SDL3_image, socat, stargz-snapshotter, stgit, sudo, syncthing, thunderbird, tor, trafficserver, ty, unbound, unshield, uv, webkitgtk, wordpress, xorg-x11-server, xorg-x11-server-Xwayland, zchunk, and zvbi), Mageia (libgit2), Red Hat (go-toolset:rhel8 and rhc), SUSE (ab-av1, ansible-core, aws-nitro-enclaves-cli, bouncycastle, cadvisor, chromium, cifs-utils, coredns, crun, dr_libs-devel-20260901, dssim, epiphany, expat, forgejo, freetype2-devel, fuseiso-20260614, gh, ghostscript, gosec, gvfs, hashcat, hauler, hugo, ImageMagick, kernel-devel, kubevirt1.9, libmikmod, libsoup, percona-toolkit, perl-cpanel-json-xs, perl-dancer2-plugin-auth-extensible, perl-mozilla-ca, pocketbase, putty, python-brotli, python-CairoSVG, python-cairosvg, python-django, python-pypdf, python-urllib3_1, roundcubemail, rsyslog, shadowsocks-rust, shadowsocks-libev, stgit, suseconnect-ng, tailscale, trivy, and vlc), and Ubuntu (brotli).",
+    "guid": "https://lwn.net/Articles/1104612/",
+    "date": "Oct 31, 2026 22:34",
+    "published_at": "2026-10-31T22:34:30Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "Haruna 1.9 Media Player Improves YouTube Handling and Playlist Management",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368688",
+    "description": "KDE's Haruna 1.9 optimizes YouTube URL processing, changes how playlists load at startup, and adds new customization options.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368688",
+    "date": "Oct 31, 2026 22:32",
+    "published_at": "2026-10-31T22:32:56Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Computer Simulations Suggest Building Blocks of Life Didn't Arrive on Prehistoric Comets",
+    "link": "https://science.slashdot.org/story/26/10/31/2142240/computer-simulations-suggest-building-blocks-of-life-didnt-arrive-on-prehistoric-comets?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "CNN reports:\n\n\nThe popular theory that comets were crucial in kick-starting life on Earth billions of years ago may not hold up, according to new computer simulations that counter decades of scientific thinking. The finding suggests the fragile organic molecules supposedly carried by the icy objects would have been destroyed on impact, upending an established origin of life theory that dates back to at least 1961 [with earlier versions postulated in 1908]... \n\nEarly in its history — over 4 billion years ago — Earth may have experienced a period of heavy bombardment from more than 100,000 comets larger than 100 meters (328 feet), according to the new study, published Wednesday in the journal Scientific Reports. Those impacts, however, were mostly too heavy for life-starting molecules to withstand. The team used the latest models of comet formation and evolution to simulate this early planetary period 100,000 times. \"Given what we know about surface environments on the early Earth, on average, our simulations found that there were no successful impacts,\" said lead study author Richard Anslow, who conducted the research while completing his doctorate at the Institute of Astronomy of the University of Cambridge in the United Kingdom... \"The typical velocities of these comets when they impact the Earth meant that actually very few, if any, would have been able to deliver intact organic molecules, so comets actually don't seem to be as useful for prebiotic chemistry as was previously thought,\" Anslow said. \n\nMore precisely, 54% of the simulations showed no impact at all, while the remaining 46% had at least one and a \"tiny minority\" returned up to three collisions, Anslow said. \"We can't rule out confidently that there was never a successful impact — there could have been one of these fluke impacts.\" However, such flukes had to occur in a \"perfect location\" that already met several important conditions, including the presence of liquid water and other chemicals needed to support life. That combination makes the overall process unlikely, he added. \nThe article notes his argument that even if a successful impact occurred, it's unlikely an important chemical like hydrogen cyanide (HCN) could survive the impact, and would've dissolved in an ocean impact. Plus, \"many other precursor molecules are also needed, such as compounds that contain phosphorus and sulfur, but these are not routinely found in comets, Anslow said.\"\n\nAn alternative cosmic source of organic material could have been asteroids, which typically struck Earth more slowly and in greater numbers. Anslow pointed to recent findings on samples from asteroids Bennu and Ryugu, which contain the majority of protein-building amino acids. The recent study also raises another intriguing possibility: While Earth may not have had the ideal conditions to foster HCN from comet impacts, ancient Mars might have been better suited. \"Because Mars is much smaller than Earth and further away from the sun, the typical impact velocity of comets is much lower, so while these impacts on Earth were destroying most of the HCN, this wasn't the case so much for Mars,\" Anslow said. This idea could add another dimension to the long-standing question of whether the red planet once supported life. \n\nWhile the authors closely analyzed how HCN could have survived comet impact, the chemical may have undergone reactions before the icy bodies entered Earth's atmosphere, said Queenie Chan, an associate professor of Earth sciences at Royal Holloway University of London, who was not involved with the study. This process could have created biologically important compounds, such as those protein building blocks, that are less volatile and more likely to survive.\n\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 31, 2026 21:50",
+    "published_at": "2026-10-31T21:50:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "GNU Mtools 4.0.50 Released With Security Fix",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368689",
+    "description": "The longtime GNU utility collection lets users work with DOS disks and FAT filesystems without mounting them.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368689",
+    "date": "Oct 31, 2026 21:16",
+    "published_at": "2026-10-31T21:16:41Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Recycling ANSI Art: Tracing the Origins of BBS Logon Screens",
+    "link": "https://games.slashdot.org/story/26/10/31/2038237/recycling-ansi-art-tracing-the-origins-of-bbs-logon-screens?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "BBS-era \"door\" games are preserved by the site Break Into Chat, along with their history. Now the site's actually traced the origins of several ANSI art screens in the 1980s and \"how different people later transformed the original images,\" starting from one of the most popular bulletin board systems in St. Louis, Missouri. \n\nSlashdot reader Kirkman14 writes:\n\n\"Fire Escape\" was curator of the authoritative list of bulletin board systems in St. Louis's area code and sysop of the area's most popular board. Like many sysops of that time, Fire Escape enlivened her bulletin board by finding and repurposing older ANSI art. Eventually her BBS had 18 different logon screens in its rotation, many of which featured flames or mushroom clouds or made liberal use of red and yellow. \n\nBreak Into Chat follows the trail:\n\nSome, maybe even most, of Fire Escape's logon screens had actually been adapted from old school \"public domain\" ANSI art drawn in the late 1980s and early 1990s by folks such as Michael C. Ling, Lora Ruffner (aka \"Ebony Eyes\") and Violet Stymacks.... Stymacks was unusually generous with her ANSI art. When she first began drawing, she combed through Fidonet node lists looking for bulletin boards with interesting or inspiring names. When she found one, she would draw an ANSI screen that fit the board's theme, then send it to the sysop. Eventually, sysops began seeking her out, too. By late 1990, she claimed that 500 bulletin boards were using her screens. Three years later, that total had tripled, according to Boardwatch . I believe it — I have located more than 1,100 of her pieces so far. She was so prolific that it would be surprising if she hadn't reused or remixed her own work over the years... \n\n[D]id they intend for other people to do so? Or would they have considered such borrowing or adapting as \"ripping\" or just plain \"stealing\"? These questions have dogged the BBS, ASCII art, and ANSI art scenes from the beginning. A freelance writer named Patrick Grote grappled with this ethical dilemma in 1990. He had begun to publish archives of ANSI art that he had collected from various public messageboards and networks. But what were people allowed to do with the ANSI screens in these collections? Was it okay to modify them? \"Tough call,\" Grote said. \"I know some people copyright their screens by inserting a little '(C)' on it,\" Grote wrote in a README file included in these collections. \"Is this 'true' copyrighting? I would say yes, but then again, I don't feel like having any legal action taken against me for using an ANSI screen. In my opinion, I would say leave the ones that say '(C)' alone, but make every effort to contact the artist and ask for permission....\" \n\nWhen I corresponded with Fire Escape this year, she admitted her memory wasn't what it used to be, but felt certain that she had not asked any artists for permission because she didn't know who they were or how to reach them. \"I figured if anyone had an issue, I'd just remove the screen,\" she said. \n\"But no one ever said anything about it.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 31, 2026 20:50",
+    "published_at": "2026-10-31T20:50:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Securing Internet-Critical Software: How We Could Have Backdoored Bash",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368685",
+    "description": "A shell injection hidden in an email address gave us code execution on GNU Savannah, then root, then the ability to push to the upstream Bash repository. We reported it, kept auditing, and helped the FSF fix 26 vulnerabilities in the forge that hosts GNU.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368685",
+    "date": "Oct 31, 2026 20:05",
+    "published_at": "2026-10-31T20:05:27Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "French Lawmakers Back Per-Gigabyte Internet Traffic Tax",
+    "link": "https://tech.slashdot.org/story/26/10/31/1857243/french-lawmakers-back-per-gigabyte-internet-traffic-tax?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Companies like Google, Netflix, TikTok, and Meta may soon owe the French government, reports Tom's Hardware:\n\nFrance has approved a proposed tax that aims to tax the amount of internet data per gigabyte sent to French users in the country... According to minutes released by the National Assembly, members voted 11-10 in support of the motion on October 30 — which now means the new law has been added to the country's next budget, despite major opposition from the government side and the finance committee rapporteur. The latest amendment, introduced by socialist lawmaker Laurent Lhardit, could see content providers pay €0.055 (roughly $0.06) to the government for every gigabyte of content distributed to French users. With approximately 154 million users and counting in France, the proposal's authors say such a tax could generate around €10 billion ($11.2 billion) in annual revenue for the government. \n\nThe said proposal, though yet to be passed as it must survive further parliamentary scrutiny, aims at companies that generate substantial internet traffic as opposed to taxing their advertising revenue, profits and subscriptions. Its explanatory notes particularly mention Google, Meta, Netflix, Amazon, and content delivery network Akamai as major potential contributors. Notably, TikTok and other similar platforms could fall under this broader scope depending on how these rules are applied. Internet service providers, including Orange Free and Liad, would be required to measure the volume of data and identify the companies responsible for sending it to French users. The Data will then be collected and submitted quarterly to France's tax administration under the supervision of telecommunications watchdog Arcep. \n\nThe measure becomes law if it clears the remaining stages of France's budget process, the article points out, \"with parliament scheduled to vote on the budget's first section in early November.\"\n\n\"VideoLAN, the French nonprofit organization behind the VLC media player, warned that the proposed levy could cost it more than €1 million annually,\" reports CircleID. \"Its response illustrates how traffic-based taxation could affect organizations distributing large volumes of data without corresponding commercial revenue.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 31, 2026 19:50",
+    "published_at": "2026-10-31T19:50:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Linux Lite 8.2 Released with Linux Kernel 7.3, Based on Ubuntu 26.04 LTS",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368679",
+    "description": "Linux Lite 8.2 has been released today as the second installment in the Linux Lite 8 series of this Ubuntu-based distribution featuring the lightweight Xfce desktop environment.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368679",
+    "date": "Oct 31, 2026 18:55",
+    "published_at": "2026-10-31T18:55:51Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "NASA Seeks Proposals for Reboosting the Hubble Space Telescope",
+    "link": "https://science.slashdot.org/story/26/10/31/1817218/nasa-seeks-proposals-for-reboosting-the-hubble-space-telescope?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "The Hubble Space Telescope \"will plunge back into the atmosphere in the early-to-mid-2030s,\" reports Ars Technica. \n\nSo now NASA has released a Request For Information (RFI) \"asking commercial companies for ideas on how to reboost, service, or a controlled disposal of Hubble.\"\n\nSpecifically, NASA is looking for information about companies' current and near-term capabilities for capturing Hubble and boosting it to an altitude of at least 373 miles (600 km), enhancing the telescope's performance, or guiding Hubble to a controlled reentry. \"The requirement includes that the boost and/or servicing mission must not harm the HST and that this mission is expected to occur by 2032,\" NASA wrote in the RFI. The contractor would be responsible for providing the launch vehicle, servicing spacecraft, mission operations, and \"crew if applicable.\" \nNASA is not committing to buying a Hubble rescue mission, but officials want to know who might be interested in mounting such a mission, how much it would cost, and which companies would have a realistic shot at reaching Hubble before it falls out of orbit and burns up on reentry. Orbital dynamicists currently predict that it will likely happen in 2033 or 2034 without intervention, but reentry forecasts can change based on solar activity... A reboost to NASA's requirement of 373 miles (600 km) would likely keep Hubble in orbit for at least 25 more years. \n\n\n\"NASA last raised the orbit of Hubble in 2002,\" the article points out, \"when the Space Shuttle Columbia visited the observatory for a servicing mission.\"\n\nThe final shuttle servicing flight in 2009 did not reboost the telescope's orbit, and with the retirement of the shuttle fleet two years later, Hubble has steadily lost altitude with no way to stave off eventual destruction... NASA's newer flagship observatories, sometimes described as successors to Hubble, are not actually one-for-one replacements. Hubble is tuned to observe the Universe in visible and ultraviolet light, while the Webb and Roman telescopes peer deeper into the infrared Universe. Astronomers will likely have to wait for the launch of NASA's Habitable Worlds Observatory in the 2040s for an improvement on Hubble's visible and ultraviolet vision.\n\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 31, 2026 18:50",
+    "published_at": "2026-10-31T18:50:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Dozens of Unexplained Drones Have Buzzed America's Nuclear Plants Since 2024",
+    "link": "https://news.slashdot.org/story/26/10/31/1742209/dozens-of-unexplained-drones-have-buzzed-americas-nuclear-plants-since-2024?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Slashdot reader ElectricVs shares this report from American Buildout, a new site covering \"the intersection of data centers, energy and power, finance, and Main Street.\"\n\nDozens of unexplained drones flew over and near U.S. nuclear facilities between February 2024 and March 2026, according to records the Nuclear Regulatory Commission made public this week. In all, facility operators filed 67 reports of drones over or near 28 sites in 17 states. They include the Three Mile Island site near Middletown, Pennsylvania., where Constellation Energy plans to restart Unit 1 as the Crane Clean Energy Center. In one incident, about five drones flew roughly 100 feet above the [970-megawatt] reactor building at River Bend Station in Louisiana. \n\n\n The story was first reported by the publication The Liberation Times. The NRC published the documents on its website in response to the publication's freedom of information request... Every entry carries the status \"Closed Unresolved.\" \n\"Most of the incidents happened after dark,\" the article points out, \"and none of the records identifies a drone operator. About half of the incidents, 33 of 67, occurred in an eight-week window between Dec. 3, 2024, and Jan. 24, 2025.\" (Virginia's Surry Power Station experienced five different incidents in December of 2024, including one involving \"at least eight drones in two waves.\") 100 miles west of Chicago, \"drone activity\" continued for more than two hours at the Byron Nuclear Station, where two separate drones were reported. In Waterford, Connecticut, \"security observed four drones flying back and forth...\" \n\nThe article notes a 2024 paper from the Nuclear Regulatory Commission citing a 2019 analysis that \"concluded U.S. plants had no risk-significant vulnerabilities that adversaries could exploit with commercially available drones to cause radiological sabotage, or theft or diversion of special nuclear material.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 31, 2026 17:50",
+    "published_at": "2026-10-31T17:50:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Flock Reinstalled Its Cameras After Another City Canceled Its Contract",
+    "link": "https://yro.slashdot.org/story/26/10/31/0238210/flock-reinstalled-its-cameras-after-another-city-canceled-its-contract?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Earlier The Drive reported a police chief \"had to direct his staff to disconnect the power cords from Flock cameras in Plymouth, Minnesota after Flock Safety ignored and failed to respond to the department's notice the city was canceling its service. \n\"But in other instances Flock's gone and reinstalled cameras without permission,\" The Drive reported this week:\n\n\nOn September 29th the city of Dayton, Minnesota posted a community update on its Facebook page alerting residents that Flock had installed and put into service two cameras against the City's direction without authorization... \"The City notified Flock on September 18, 2026, that the program was on hold, and no work orders were to be completed. Unfortunately, the City's direction was not followed, and the camera was placed back into service without authorization.\" The statement continued and noted, \"Following the report, City staff reviewed locations throughout the community to determine whether any additional cameras had been reinstalled, and one additional location was identified. The Police Department has been notified, and both cameras will be removed promptly....\" \n\nThe Minnesota cities of both St. Paul and Crystal told Kare 11 that they removed the Flock cameras themselves following their respective city council votes in August and September respectively. The cameras are stored and are still waiting to be picked up by Flock. Crystal Chief of Police Pete Underthun told Kare 11, \"Once we made this decision, I personally went to the locations and removed the cameras and poles myself.\" Chief Underthun noted, \"We are still working with the company to close out our contract and for them to pick the cameras up from our garage.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Oct 31, 2026 16:50",
+    "published_at": "2026-10-31T16:50:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Denmark’s Collabora Pilot Was Never The Microsoft Replacement it Was Made Out to Be",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368677",
+    "description": "Collabora says a ministry merger paused the test, while the ministry says it was interrupted when the election was called.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368677",
+    "date": "Oct 31, 2026 16:37",
+    "published_at": "2026-10-31T16:37:25Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
     "title": "Google's AI Overviews Lowered Reddit's Traffic. Its Stock Dropped 29%",
     "link": "https://tech.slashdot.org/story/26/10/31/0458218/googles-ai-overviews-lowered-reddits-traffic-its-stock-dropped-29?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
     "description": "Reddit's stock plunged 29.22% on Friday, reports CNBC, its worst drop since becoming a public company in 2024. \n\nThursday Reddit reported a sales growth that was weaker than previous quarters, and also forecast weak sales for the quarter to come (below analysts expectations):\n\nThe report comes as the company has seen a shift in its search referral traffic with the rise of Google's AI Overview. In an interview with CNBC, Reddit CEO Steve Huffman said search-referral traffic from Google went \"down meaningfully in this quarter\" due to AI... Multiple analysts downgraded the stock following Reddit's disappointing results, with Citizens noting that \"search changes highlight the problem with selling content to Google\" and that as referral problems worsen, uncertainty around user growth amid the login requirement switch \"puts more pressure on user monetization.\" \n\nReddit's CEO also said that forcing users to login will help the company's advertising business. \"Reddit is the last platform to provide basically unfettered logged-out access, and that's largely because of me. I've been holding that line.\" \n\n\"I think users will probably go through the same understanding that I have, which is that it's a sign of the times. It's an evolution of how these platforms work.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
@@ -80,17 +247,6 @@
     "published_at": "2026-10-31T12:15:22Z",
     "source": "phoronix.com",
     "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Denmark’s Collabora Pilot Was Never The Microsoft Replacement it Was Made Out to Be",
-    "link": "https://feed.itsfoss.com/link/24361/17512053/denmark-collabora-pilot-update",
-    "description": "Collabora says a ministry merger paused the test, while the ministry says it was interrupted when the election was called.",
-    "guid": "6ae43b2f1b851a000184078f",
-    "date": "Oct 31, 2026 12:03",
-    "published_at": "2026-10-31T12:03:47Z",
-    "image": "https://itsfoss.com/content/images/2026/10/denmark-collabora-banner-1.png",
-    "source": "itsfoss.com",
-    "source_url": "https://itsfoss.com/"
   },
   {
     "title": "This app lets you manage Nothing \u0026 CMF earbuds on Linux",
@@ -266,16 +422,6 @@
     "source_url": "https://lxer.com/"
   },
   {
-    "title": "Shelly 3.1.10 Arch Linux Package Manager Improves AUR Builds",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368654",
-    "description": "Shelly 3.1.10 improves AUR dependency handling, system upgrades, error reporting, and desktop usability for Arch Linux users.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368654",
-    "date": "Oct 31, 2026 00:42",
-    "published_at": "2026-10-31T00:42:33Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
     "title": "Wine 11.21 Released With Better WoW64 OpenGL Performance",
     "link": "https://www.phoronix.com/news/Wine-11.21-Released",
     "description": "Wine 11.21 is out as the newest bi-weekly development release of Wine and as we near Wine 12.0 stable release happenings getting underway in about one month with the official v12.0 release expected early in the new year...",
@@ -297,16 +443,6 @@
     "source_url": "https://slashdot.org/"
   },
   {
-    "title": "Shelly 3.1.10 Brings More Reliable AUR Builds and a New “Shell” Progress Bar",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368657",
-    "description": "Shelly 3.1.10 has been released today as a new maintenance update in the Shelly 3.1 series of this modern, open-source, and free pacman alternative for Arch Linux and derivatives, with AUR build and upgrade improvements.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368657",
-    "date": "Oct 30, 2026 22:22",
-    "published_at": "2026-10-30T22:22:41Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
     "title": "Meta Settles Another Social Media Addiction Case Just Before Trial",
     "link": "https://yro.slashdot.org/story/26/10/30/213231/meta-settles-another-social-media-addiction-case-just-before-trial?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
     "description": "Meta has reached an undisclosed settlement in another social media addiction lawsuit, avoiding a trial scheduled for next month and leaving Snap as the sole remaining defendant. Engadget reports: The lawsuit was brought by an 18-year-old woman from Mississippi known as K.D.B who, according to Reuters, has \"described staying awake for hours scrolling social media, losing focus in class and engaging in self-harm using methods shown in social media videos.\" Jury selection kicked off earlier this week in Los Angeles.\n \nOn Friday, K.D.B's lawyer announced that she had reached a settlement with Meta after previously settling with TikTok and YouTube. \"We remain committed to improving safety for kids on social media apps and holding tech companies accountable, and we are pleased to have brought this matter to a just resolution on behalf of our client,\" attorney Emily Jeffcott said in a statement.\n \nNow, Snap is the only remaining defendant in the case. CEO Evan Spiegel is expected to testify in the trial that could last several weeks. If he does take the stand, it will be the first time the Snap founder has appeared in a social media addiction trial. Snap previously settled in another high-profile case involving similar claims. A jury later ruled against Meta and YouTube in the trial and the two were ordered to pay $6 million in damages.\n\n\n\n\n\nRead more of this story at Slashdot.",
@@ -318,16 +454,6 @@
     "source_url": "https://slashdot.org/"
   },
   {
-    "title": "r/opensource Bans AI-Assisted and AI-Related Projects",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368653",
-    "description": "The de facto subreddit for all things open source has not only banned AI-related projects but also users who \"don't speak English.\"",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368653",
-    "date": "Oct 30, 2026 21:07",
-    "published_at": "2026-10-30T21:07:40Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
     "title": "Sam Altman Thinks Your PC Is Wasting Precious RAM",
     "link": "https://hardware.slashdot.org/story/26/10/30/2017206/sam-altman-thinks-your-pc-is-wasting-precious-ram?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
     "description": "\"Looks like OpenAI CEO Sam Altman wants to own all the computing resources and rent out terminals to the world as a way of propping up his business plan, now that debt-ridden AI companies are teetering on the edge,\" writes ancient Slashdot reader Gilmoure. Tom's Hardware reports: In an interview over beers with the YouTube channel Cheeky Pint, Altman said that local inference, and, by extension, people having DRAM in computers at home, is \"quite terrible.\" When discussing local inference on home computers with open-source models, Altman discussed the assumption that people will be able to run local AI on their own computers, the ones they may already own or want to build.\n \nThen he explained why that's a bad idea (at the 29-minute mark): \"From a global allocation perspective, actually, it's quite terrible to have everybody have a bunch of the world's limited supply of DRAM sitting in their own computer and being used 5% of the time,\" Altman said. \"You want maximum utilization in the cloud if you're trying to deal with this very supply-constrained environment. And somehow many people's intuition is the opposite of that.\"\n \nWhile OpenAI does have some open-source models, its primary business is in closed-source models that run in data centers, so he's really defending the company's business model. OpenAI isn't exactly threatened by some laptops and gaming rigs just yet, but local AI could mean people one day paying less for subscriptions to models like GPT-6 Luna if they have the power to run them at home. Altman's talk suggests that the company would prefer that more RAM go to OpenAI's data centers rather than home computers, which also sparks enthusiast fears of not being able to own your own hardware or software, but rather rent an agent and a computer in the cloud.\n\n\n\n\n\nRead more of this story at Slashdot.",
@@ -337,342 +463,5 @@
     "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
     "source": "slashdot.org",
     "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Thousands of 'Ghost Students' Use AI to Steal Millions In Student Loans, DOJ Says",
-    "link": "https://yro.slashdot.org/story/26/10/30/204230/thousands-of-ghost-students-use-ai-to-steal-millions-in-student-loans-doj-says?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "The Justice Department has charged five people in a crackdown on \"ghost student\" fraud, in which scammers allegedly use stolen identities and AI to enroll fake students in colleges, complete coursework, and collect federal student loan funds. Ars Technica reports: In a press release Thursday, the Department of Justice said it had uncovered a large-scale scheme relying partly on AI. The DOJ seized more than $750,000 in cryptocurrency from \"a network associated with Kenyan nationals\" after data analysis helped flag likely fraudsters. Assistant Attorney General Colin M. McDonald of the DOJ's National Fraud Enforcement Division credited new fraud-detection measures implemented by the Trump administration for the arrests. He said that \"this is the first international seizure of its kind in Kenya,\" while warning fraudsters that the crackdown has only just begun.\n \n[...] At a press conference, McDonald was joined by FBI and Department of Education officials to explain how the scheme works. It starts with bad actors purchasing personally identifiable information (PII) of Americans -- most frequently targeting high school graduates who never attended college and went straight into the workforce. Once they have that sensitive data, they fill out the Free Application for Federal Student Aid (FAFSA) while seeking to enroll in universities and community colleges. If accepted, student aid is distributed first to schools to cover tuition and fees, but any leftover money is deposited into bank accounts controlled by the fraudsters. Dozens of Americans have opened bank accounts to act as money mules for fraudsters, the DOJ said.\n \nTo keep money flowing, bad actors use AI to fill out applications, complete coursework, and even make it appear that a student is attending virtual sessions. \"It looks like the ghost student is actually completing the class,\" McDonald said at the press conference. \"Some even create the appearance of a fake student in an online classroom to trick schools into believing a real person is present. The goal is to keep the ghost student in school for as long as possible, semester after semester after semester.\" So far, the DOE has \"identified over 830,000 potentially fraudulent federal student aid accounts created by using this PII of US citizens,\" officials said at the press conference. If all those accounts are ghost students, total losses come close to $130 million, the DOJ said.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 30, 2026 20:07",
-    "published_at": "2026-10-30T20:07:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Postgres 19 is late, and it's AI's fault",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368662",
-    "description": "Over the past decade, the timing of PostgreSQL major releases has become very predictable: no earlier than the middle of September, and no later than the middle of October. This year is going to be different. PostgreSQL 19 most likely won’t be released until November, and it’s not impossible that the project could decide to postpone the release further.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368662",
-    "date": "Oct 30, 2026 19:52",
-    "published_at": "2026-10-30T19:52:11Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "US Tech Stocks See Sharp Falls As AI Spending Nears $1 Trillion",
-    "link": "https://news.slashdot.org/story/26/10/30/1843213/us-tech-stocks-see-sharp-falls-as-ai-spending-nears-1-trillion?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "U.S. technology stocks plunged for a second consecutive day on Friday as investors grew increasingly concerned about the enormous cost of artificial intelligence development and whether those investments will pay off. The Nasdaq fell more than 3.5%, while Intel shares dropped as much as 30%, Reddit fell 26%, and Alphabet extended its losses after shedding more than $500 billion in market value Thursday. The BBC notes that Meta, Alphabet, Oracle, Amazon, and Microsoft have collectively committed to spending $800.6 billion on AI in 2026. From the report: Chris Low, from investment management firm FHN Financial, said the bulk of what was happening in the stock market was in reaction to some of the biggest tech players such as Amazon and Google. He told Reuters the companies were \"showing some pretty significant growing pains as they aggressively pursue the AI build-out.\" \"The thinking is that these signs suggest that the entire sector is going to slow down.\"\n \nKathleen Brookes, research director at trading firm XTB, said there have been many ups and downs in AI trade in recent months. \"Investors have turned ruthless, punishing any signs of disappointment in [third quarter] earnings,\" she said. \"The AI trade has had a good run in recent years, but now investors want payback, and companies like Alphabet and Intel are in the crosshairs.\" [...] Brookes noted that November is typically a strong month for stocks. \"If we see AI stocks continue to struggle in the coming days, it could suggest the AI trade is past its peak, and investors will be looking for a new theme to drive markets,\" she said.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 30, 2026 19:00",
-    "published_at": "2026-10-30T19:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Pulsar 1.133 Code Editor Brings Better Terminal Integration, Faster Editing",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368647",
-    "description": "Pulsar 1.133 improves terminal integration, fixes large-file editing slowdowns, upgrades to Electron 32, and redesigns file watching.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368647",
-    "date": "Oct 30, 2026 18:39",
-    "published_at": "2026-10-30T18:39:49Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Proton Experimental brings new fixes for Helldivers 2, BeamNG.drive and more",
-    "link": "https://www.gamingonlinux.com/2026/10/proton-experimental-brings-new-fixes-for-helldivers-2-beamng-drive-and-more/",
-    "description": "Valve released the latest upgrade for Proton Experimental bringing a fresh set of fixes for Windows games on SteamOS / Linux for October 30th.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/10/proton-experimental-brings-new-fixes-for-helldivers-2-beamng-drive-and-more/",
-    "date": "Oct 30, 2026 18:08",
-    "published_at": "2026-10-30T18:08:21Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/2036704149id30096gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "PostgreSQL 19 Running Behind Schedule Due To AI/LLM Burden",
-    "link": "https://www.phoronix.com/news/PostgreSQL-19-Late",
-    "description": "The PostgreSQL database server typically sees its annual feature release every September~October, but it's not coming until at least November if not longer this year. Due to the increased developer burden due to increased bug reporting and patches via AI/LLM activity, the PostgreSQL developers have been overwhelmed...",
-    "guid": "https://www.phoronix.com/news/PostgreSQL-19-Late",
-    "date": "Oct 30, 2026 18:06",
-    "published_at": "2026-10-30T18:06:06Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "GM Reaches $220 Million Settlement Over Selling Drivers' Private Data",
-    "link": "https://yro.slashdot.org/story/26/10/30/168202/gm-reaches-220-million-settlement-over-selling-drivers-private-data?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "An anonymous reader quotes a report from TechCrunch: General Motors will pay $220 million to 36 states to settle allegations that it illegally sold private driving behavior and location information to data brokers. As part of the settlement, GM must get drivers' express consent before it collects or shares their driving and location data -- terms that are in line with separate agreements it previously reached with California and the Federal Trade Commission (FTC). This settlement does contain a new requirement that GM must have a third party assess the automaker's compliance with the privacy program it has put in place.\n \nThe agreement announced Thursday settles a lawsuit brought by a coalition of attorneys general from 36 states that alleged GM had sold the information to data brokers, which in turn then sold it to insurance providers. \"This agreement addresses Smart Driver, a product we ended in 2024, and reinforces steps we've taken to strengthen our privacy practices,\" GM said in an emailed statement. \"Safer, more helpful and personalized experiences are enabled by connected vehicle data, and GM is committed to being clear about what information is used, how it's protected, and the choices customers have about what they share.\"\n \nThe settlement comes more than two years after a New York Times report showed how GM and OnStar collected, used, and sold drivers' precise geolocation data and driving behavior to third parties, including data brokers LexisNexis and Verisk. The data was collected through GM's Smart Driver program, a free feature contained within its connected car apps that tracked and rated driving behaviors and seat belt use. Data brokers sold this information to insurance providers, which could affect customers' rates, the NYT reported at the time.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 30, 2026 18:00",
-    "published_at": "2026-10-30T18:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Northgard Battlegrounds takes the strategy game into a new auto-battling direction",
-    "link": "https://www.gamingonlinux.com/2026/10/northgard-battlegrounds-takes-the-strategy-game-into-a-new-auto-battling-direction/",
-    "description": "Available now in Early Access, Northgard Battlegrounds takes the classic strategy game into a completely different direction.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/10/northgard-battlegrounds-takes-the-strategy-game-into-a-new-auto-battling-direction/",
-    "date": "Oct 30, 2026 17:59",
-    "published_at": "2026-10-30T17:59:06Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1555632477id30095gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "[$] Removing binder.c",
-    "link": "https://lwn.net/Articles/1102982/",
-    "description": "\nThe final talk at Kangrejos 2026 was about the removal of the C implementation\nof Android's\n\nBinder driver, the primary interprocess communication mechanism\nused on Android devices. Carlos Llamas announced that he had deleted the C\ncode to general applause, and then shared some insights about what went into\nreplacing the C implementation. Alice Ryhl, who has worked on the Rust\nimplementation for some years, added her own thoughts about what the most\ndifficult and interesting parts of the transition were.\n",
-    "guid": "https://lwn.net/Articles/1102982/",
-    "date": "Oct 30, 2026 17:46",
-    "published_at": "2026-10-30T17:46:46Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "Ubuntu 27.04 \"Tenacious T-Rex\" Opens For Development",
-    "link": "https://www.phoronix.com/news/Ubuntu-27.04-Opens-For-Dev",
-    "description": "Following this month's release of Ubuntu 26.10, Ubuntu 27.04 development formally got underway today...",
-    "guid": "https://www.phoronix.com/news/Ubuntu-27.04-Opens-For-Dev",
-    "date": "Oct 30, 2026 17:32",
-    "published_at": "2026-10-30T17:32:48Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Planet News Roundup",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368640",
-    "description": "This is a roundup of articles from the openSUSE community listed on planet.opensuse.org. This community blog feed aggregator lists the featured highlights below from Oct. 23 - 29. This week highlights five Tumbleweed snapshots for week 43 headlined by KDE Plasma 6.8.0, Qt 6.12.0, Linux Kernel 7.2.11 and PHP 8.5.12,…",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368640",
-    "date": "Oct 30, 2026 17:23",
-    "published_at": "2026-10-30T17:23:59Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "UK Social Media Ban May Lock Out More Than 100,000 Teens Without ID",
-    "link": "https://news.slashdot.org/story/26/10/30/160254/uk-social-media-ban-may-lock-out-more-than-100000-teens-without-id?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Under the UK's planned social media ban, more than 100,000 British teenagers aged 16 and 17 could initially be locked out of social media because they lack a passport or driving license that may be needed as a fallback for age verification. The Guardian reports: Ofcom, the UK's online watchdog, said about 150,000 16- to 17-year-olds do not own a passport or driving licence, which are likely to be needed to access age-restricted platforms. The Australia-style ban on under-16s accessing social media services, including Instagram, TikTok and YouTube, is due to come into force next spring. The head of Ofcom, Melanie Dawes, said \"motivated children\" would seek to bypass the restrictions, as has happened in Australia.\n \nOn Thursday, Ofcom published an assessment of age verification measures that could underpin the ban, outlining four \"highly effective\" methods: checking a person's official ID against a live selfie, a bank verifying an account holder's age, an official digital ID service like the Young Scot card, or estimating someone's age via a selfie. However, the watchdog said a form of official ID would probably be needed as a \"backstop\" for other methods, such as facial age estimation, which could be inaccurate by several years. Ofcom said a cohort of 16- to 17-year-olds could miss out as a result. \"This means that people without a form of photo ID will likely need to take steps to obtain one to access age-restricted services,\" the regulator said. The report notes that more than nine out of 10 Britons over 16 have passports or driving licenses.\n \n\"We should expect that motivated children will seek to bypass the restrictions -- just like alcohol laws can't completely eradicate underage drinking -- but there'll be ways for platforms to mitigate this risk,\" said Dawes. \"This will be a huge cultural shift for our society, so it'll take time to adjust, and everyone will have a part to play.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 30, 2026 17:00",
-    "published_at": "2026-10-30T17:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Reddit Will Force Everyone to Log In",
-    "link": "https://tech.slashdot.org/story/26/10/30/0155237/reddit-will-force-everyone-to-log-in?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Reddit plans to require users to log in to browse the platform, ending its longstanding practice of allowing anonymous visitors to access posts and discussions. According to CEO Steve Huffman, a key reason behind the decision is to curb unauthorized scraping and automated traffic.\n \n\"This is a big change for Reddit, where we've allowed logged-out access to basically all of Reddit for the last two decades,\" Huffman says. \"And I don't know about you, but as someone whose life has been defined by the open internet, it's a big change for me. But I've come to the conclusion that this is the right decision for our platform and the right decision for our business.\" The Verge reports: There's no definitive timeline on when this change will roll out to all users, or how the site will work if you're logged out. (If I send my friend a link to a thread and they aren't logged in, what will they see?) To start, Reddit will test the logged-in requirement in \"select markets outside the US\" in the \"coming months,\" according to CEO Steve Huffman. \"We'll look at the impact on the user experience, on our business, and on the whole Reddit ecosystem, figure out where the right boundaries are, and go from there.\" Reddit has also rebuilt and is rereleasing the Reddit app's incognito mode.\n \nHuffman claims the login requirement is better for Reddit's user experience and its ads business and is \"more protective of Reddit data.\" The \"vast majority\" of unauthorized Reddit access happens \"through our logged-out experiences,\" though the company will still strike licensing deals of its data with companies, like the deals it made with OpenAI and Google in 2024. Huffman notes that Reddit does not need to know a logged-in user's identity -- \"Honestly, we don't want to know\" -- just that the user is logged in at all. And he says that more logged-in users lets the company deliver \"more relevant ads.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 30, 2026 16:00",
-    "published_at": "2026-10-30T16:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Binance Suffers Biggest Crypto Hack In History With $6.3 Billion Affected [UPDATE]",
-    "link": "https://slashdot.org/story/26/10/29/2143222/binance-suffers-biggest-crypto-hack-in-history-with-63-billion-affected-update?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "UPDATE 10/30/26: Binance has temporarily suspended customer withdrawals after suffering what investigators say is the biggest crypto hack in history. According to Binance CEO Yi He, the company estimates roughly $6.3 billion in funds were impacted, with roughly $3 billion in assets frozen on-chain so far. Rest assured, \"your money is safe, and we're covering every loss,\" said co-CEO Richard Teng in a LinkedIn post.\n \n\"This was a complex attack,\" said Teng. \"The attacker also used a self-destruct mechanism that destroyed tooling and tracers, making it more difficult for us to trace.\" From a report: Teng said the incident was not carried out by one person. While the initial investigation indicated the involvement of a compromised laptop, further digging revealed additional points of breach. [...] Blockchain analysis firms TRM Labs and Elliptic have linked the theft to North Korean hackers, with TRM attributing it \"with high confidence\" to a group known as TraderTraitor, the same group responsible for last year's Bybit hack.\n \nElliptic estimated Friday that about 44% of the stolen assets have been frozen, with stablecoins accounting for nearly all of those funds. The firm estimated that attackers still controlled over $3 billion in crypto that token issuers cannot directly freeze.\n \nThe hackers appear to have compromised Binance's wallet-signing infrastructure, allowing them to authorize transactions that drained billions of dollars in cryptocurrency across multiple blockchains, according to the firms. Binance, in its preliminary stage, has conducted an investigation into the hack, which suggests the incident may have begun with a compromised engineer's laptop. The exchange added that it has found no evidence that wallet passwords were leaked. Below is the original story from yesterday, Oct. 29th. \nBinance is investigating a potential hack after more than $2 billion in crypto was drained from one of its wallets into a new external account, with Blockaid estimating nearly $3.3 billion was moved.\n \n\"Our teams are aware of reports of a potential security issue and are actively investigating,\" said Binance on X.\n \n\"User funds are safe,\" said Binance founder CZ. \"It does look like a hack on Binance. Appreciate the quick freeze from Tether (~$971m) and Circle (~$823m). I don't manage Binance anymore, but as a shareholder, I expect all user funds will be fully covered.\"\n \nAt around the same time, crypto-based prediction market Polymarket reported its own security incident that wiped out around $2.7 million in user funds.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 30, 2026 15:30",
-    "published_at": "2026-10-30T15:30:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "AMD Ryzen Zen 6 Looks Like It Will Be In Good Shape With Linux 7.4, Laptop Improvements",
-    "link": "https://www.phoronix.com/news/Linux-7.4-x86-Platform-Driver",
-    "description": "The x86 platform driver changes were merged this week to the Linux 7.4 kernel ahead of the merge window closing this weekend...",
-    "guid": "https://www.phoronix.com/news/Linux-7.4-x86-Platform-Driver",
-    "date": "Oct 30, 2026 15:24",
-    "published_at": "2026-10-30T15:24:46Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "[$] System-call wrappers for glibc",
-    "link": "https://lwn.net/Articles/1101647/",
-    "description": "In a followup to his \nsession at the\n2025 Linux Plumbers Conference (LPC), Carlos O'Donell returned to the topic\nof system-call\nwrappers for the GNU C library (glibc) at this year's event.  This time\naround, he was joined by Florian Weimer, who is another glibc maintainer.\nThe idea was to give an update on what has happened over the last year with\nregard to Linux system calls that lack a glibc wrapper, thus are only\naccessible via\nsyscall().  In addition, they wanted to hear from attendees about their\nneeds in this area.",
-    "guid": "https://lwn.net/Articles/1101647/",
-    "date": "Oct 30, 2026 15:07",
-    "published_at": "2026-10-30T15:07:29Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "The Tragedy of Losing Your Wikipedia Page",
-    "link": "https://news.slashdot.org/story/26/10/30/0142219/the-tragedy-of-losing-your-wikipedia-page?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "An anonymous reader quotes an excerpt from a Wired article that explores the often-contentious process of nominating pages for deletion when their subjects fail to meet the encyclopedia's notability standards: What do you need to know -- need to know -- about Xavier Trudeau? The eldest son of former Canadian prime minister Justin, the teenage Trudeau has recently begun performing R\u0026B under the mononym Xav. But, with all due respect to Xav, do those facts make him a person of note? Should you expect to be able to read about him on Wikipedia? What about Evanescence guitarist Tim McCord, or 2012 Yachtmaster of the Year Rainer Holtorff? All three have had a biography on Wikipedia; all three of those biographies were considered for deletion this year on the grounds that the subjects were not notable enough to warrant a biography at all. Every day, dozens, sometimes hundreds, of Wikipedia biographies -- of child actors turned LA realtors, retired ambassadors, soccer players who have played less than 10 minutes of professional soccer -- are purged from the world's free encyclopedia.\n \nIt's not as though Wikipedia, which hosts over 7 million articles in the English language, doesn't have the space. But Wikipedia has only so many volunteers to monitor its contents. To this day, Wikipedia editors are discovering hoaxes that have gone undetected for decades. The time it takes to verify the release dates of Xav's three singles is better spent -- the logic goes -- by asking whether the American Civil War officer Nathaniel Lyon really drank mustard during battle, as was claimed in his Wikipedia biography for 17 years. Wikipedia removed the mustard claim, not because it was proven wrong, but because there was no reliable evidence for it. \"We're not really looking for what's true,\" Britta Gustafson, who has been editing Wikipedia since 2001, told me. \"We're looking for what's verifiable.\" Wikipedia editors do not themselves decide that a person is not notable, only that there is a lack of reliable evidence to support the claim...\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Oct 30, 2026 15:00",
-    "published_at": "2026-10-30T15:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Eight more stable kernel updates",
-    "link": "https://lwn.net/Articles/1104177/",
-    "description": "\nGreg Kroah-Hartman has announced the release of the 7.3.1,\n7.2.14,\n6.18.60,\n6.12.115,\n6.6.161,\n6.1.191,\n5.15.224, and\n5.10.273 stable kernels. As usual, he advises\nall users to update—advice that seems especially wise given the\nincreased number of security-relevant bug fixes that the kernel is seeing these days.\n[Edit: the 7.2.15 stable release is already in review as well.]\n",
-    "guid": "https://lwn.net/Articles/1104177/",
-    "date": "Oct 30, 2026 14:22",
-    "published_at": "2026-10-30T14:22:39Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "Security updates for Friday",
-    "link": "https://lwn.net/Articles/1104174/",
-    "description": "Security updates have been issued by AlmaLinux (aspell, cjose, curl, gcc-toolset-15-gcc, httpd:2.4, ignition, java-21-openjdk, libX11, libXi, libXrender, libXtst, mariadb:10.11, nodejs:24, python-pillow, python3.12-urllib3, and webkit2gtk3), Debian (imagemagick, libdatetime-timezone-perl, python-git, tor, tzdata, vlc, and wordpress), Fedora (accessibility-inspector, akonadi-calendar, akonadi-calendar-tools, akonadi-contacts, akonadi-import-wizard, akonadi-mime, akonadi-search, akonadi-server, akonadiconsole, akregator, alligator, analitza, angelfish, applet-window-buttons, arianna, ark, artikulate, audex, audiocd-kio, audiotube, aurorae, baloo-widgets, blinken, bluedevil, bomber, bovo, breeze-gtk, brotli, bup, calendarsupport, calindori, calligra, cantor, colord-kde, cxx-rust-cssparser, dolphin, dolphin-plugins, dragon, elisa-player, eventviews, falkon, fcitx-configtool, ffmpegthumbs, filelight, firefox, flatpak-kcm, francis, ghostwriter, granatier, grantlee-editor, grantleetheme, grub2-breeze-theme, gwenview, incidenceeditor, isoimagewriter, itinerary, juk, k3b, kaccounts-integration, kaccounts-providers, kactivitymanagerd, kaddressbook, kajongg, kalarm, kalgebra, kalk, kalm, kalzium, kamera, kamoso, kanagram, kapman, kapptemplate, kasts, kate, katomic, kbackup, kblackbox, kblocks, kbounce, kbruch, kcachegrind, kcalc, kcalutils, kcharselect, kclock, kcolorchooser, kcron, kde-cli-tools, kde-connect, kde-dev-scripts, kde-dev-utils, kde-gtk-config, kde-inotify-survey, kde-partitionmanager, kdebugsettings, kdecoration, kdeedu-data, kdegraphics-mobipocket, kdegraphics-thumbnailers, kdenetwork-filesharing, kdenlive, kdepim-addons, kdepim-runtime, kdeplasma-addons, kdesdk-kioslaves, kdesdk-thumbnailers, kdevelop, kdevelop-php, kdevelop-python, kdf, kdialog, kdiamond, kdnssd, kdominate, keditbookmarks, keepsecret, keysmith, kf6-baloo, kfind, kfourinline, kgeography, kget, kglobalacceld, kgoldrunner, kgpg, kgraphviewer, khangman, khealthcertificate, khelpcenter, kidentitymanagement, kig, kigo, killbots, kimagemapeditor, kimap, kinfocenter, kio-admin, kio-extras, kio-gdrive, kirigami-gallery, kiriki, kiten, kitinerary, kjournald, kjumpingcube, kldap, kleopatra, klettres, klickety, klines, kmag, kmahjongg, kmail, kmail-account-wizard, kmailtransport, kmbox, kmenuedit, kmines, kmix, kmousetool, kmouth, kmplot, knavalbattle, knetwalk, knights, knighttime, knot, koko, kolf, kollision, kolourpaint, kompare, kongress, konqueror, konquest, konsole, kontact, kontactinterface, kontrast, konversation, kopeninghours, korganizer, kosmindoormap, kpat, kpimtextedit, kpipewire, kpkpass, kpmcore, kpublictransport, kqtquickcharts, krdc, krdp, krecorder, kreversi, krfb, kruler, ksanecore, kscreen, kscreenlocker, kshisen, ksirk, ksmtp, ksnakeduel, kspaceduel, ksquares, ksshaskpass, ksudoku, ksystemlog, ksystemstats, kteatime, ktimer, ktnef, ktorrent, ktouch, ktrip, ktuberling, kturtle, kubrick, kunifiedpush, kup-backup, kwalletmanager5, kwave, kwayland, kwayland-integration, kweather, kweathercore, kwin, kwin-zones, kwordquiz, kwrited, layer-shell-qt, libgravatar, libkcddb, libkdcraw, libkdegames, libkdepim, libkeduvocdocument, libkexiv2, libkgapi, libkleo, libkmahjongg, libkomparediff2, libksane, libkscreen, libksieve, libksysguard, libktorrent, libplasma, libquotient, lokalize, lskat, mailcommon, mailimporter, marble, markdownpart, massif-visualizer, mbox-importer, merkuro, messagelib, mimetreeparser, mingw-python-certifi, minuet, neochat, ocean-sound-theme, okular, oxygen-sounds, palapeli, pam-kwallet, parley, perl-Alien-Brotli, picmi, pim-data-exporter, pim-sieve-editor, pimcommon, plasma-activities, plasma-activities-stats, plasma-bigscreen, plasma-breeze, plasma-browser-integration, plasma-camera, plasma-desktop, plasma-dialer, plasma-discover, plasma-disks, plasma-drkonqi, plasma-firewall, plasma-integration, plasma-keyboard, plasma-login-manager, plasma-milou, plasma-mobile, plasma-nano, plasma-nm, plasma-oxygen, plasma-pa, plasma-phonebook, plasma-print-manager, plasma-sdk, plasma-settings, plasma-setup, plasma-systemmonitor, plasma-systemsettings, plasma-thunderbolt, plasma-union, plasma-vault, plasma-wayland-protocols, plasma-welcome, plasma-workspace, plasma-workspace-wallpapers, plasma5support, plasmatube, plymouth-kcm, plymouth-theme-breeze, polkit-kde, powerdevil, poxml, qmlkonsole, qqc2-breeze-style, qrca, rocs, sddm-kcm, signon-kwallet-extension, skanlite, skanpage, skladnik, spacebar, spectacle, step, svgpart, sweeper, tokodon, trafficserver, umbrello, xdg-desktop-portal-kde, yakuake, and zanshin), Mageia (cfitsio, libsolv, tomcat, and xrdp), Oracle (bind, cjose, curl, dogtag-pki, expat, gcc-toolset-15-gcc, ignition, kernel, libX11, libXrender, libXtst, php, python3.12-urllib3, and webkit2gtk3), SUSE (389-ds, aws-nitro-enclaves-binaryblobs-upstream, brotli, chromium, firefox, flatpak, gnutls, google-osconfig-agent, haproxy, hawk2, kernel, libapr1, libtcnative-1-0, tomcat, liboath-devel, libpcre2-16-0, librecad, libXi-devel, libXtst-devel, python311, python313, python313-markdown2, python313-xhtml2pdf, rabbitmq-server, roundcubemail, rust-keylime, and xen), and Ubuntu (dotnet8, dotnet10, dotnet11).",
-    "guid": "https://lwn.net/Articles/1104174/",
-    "date": "Oct 30, 2026 13:37",
-    "published_at": "2026-10-30T13:37:12Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "Another Week, Another Vibe Coded OS; Closed-Source In The Name Of Security",
-    "link": "https://www.phoronix.com/news/NULLos",
-    "description": "With today's AI/LLM capabilities, there is almost a new operating system heard about each week \"coded from scratch\" predominantly via AI agents. This week was no exception with another project hitting our email inbox. Though most of them are open-source, this one is closed-source in the name of security...",
-    "guid": "https://www.phoronix.com/news/NULLos",
-    "date": "Oct 30, 2026 12:23",
-    "published_at": "2026-10-30T12:23:06Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "The popular idle clicker game Idle Slayer added Linux and macOS support",
-    "link": "https://www.gamingonlinux.com/2026/10/the-popular-idle-clicker-game-idle-slayer-added-linux-and-macos-support/",
-    "description": "With a mixture of idle and clicker mechanics, the popular and well-reviewed Idle Slayer is now support on both Linux and macOS.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/10/the-popular-idle-clicker-game-idle-slayer-added-linux-and-macos-support/",
-    "date": "Oct 30, 2026 12:07",
-    "published_at": "2026-10-30T12:07:14Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/390405321id30094gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Check out the demo for INANIMA, a retro survival-horror inspired by Resident Evil and SIGNALIS",
-    "link": "https://www.gamingonlinux.com/2026/10/check-out-the-demo-for-inanima-a-retro-survival-horror-inspired-by-resident-evil-and-signalis/",
-    "description": "INANIMA is an upcoming release from developer Obscure Tales (Lamentum) focused on you surviving in an isolated facility of a strange corporation.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/10/check-out-the-demo-for-inanima-a-retro-survival-horror-inspired-by-resident-evil-and-signalis/",
-    "date": "Oct 30, 2026 10:40",
-    "published_at": "2026-10-30T10:40:27Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1903666195id30093gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Open source evolution sim 'Thrive' v1.7 works towards completing the multicellular stage",
-    "link": "https://www.gamingonlinux.com/2026/10/open-source-evolution-sim-thrive-v1-7-works-towards-completing-the-multicellular-stage/",
-    "description": "The multicellular stage is getting more complete for the open source evolution sim Thrive, with version 1.7 out now.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/10/open-source-evolution-sim-thrive-v1-7-works-towards-completing-the-multicellular-stage/",
-    "date": "Oct 30, 2026 10:30",
-    "published_at": "2026-10-30T10:30:17Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/706065552id30092gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "AMD PerfOpt Makes it Into Linux 7.4 As A Nice Performance Boost For AMD iGPUs",
-    "link": "https://www.phoronix.com/news/Linux-7.4-IOMMU",
-    "description": "As anticipated, the AMD PerfOpt feature was picked up for the Linux 7.4 kernel. As shown already in multiple Phoronix benchmarks, AMD PerfOpt makes for a nice performance boost for AMD integrated graphics, especially for AI workloads...",
-    "guid": "https://www.phoronix.com/news/Linux-7.4-IOMMU",
-    "date": "Oct 30, 2026 10:21",
-    "published_at": "2026-10-30T10:21:54Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Dune: Awakening's free Blood and Ice expansion launches December 1",
-    "link": "https://www.gamingonlinux.com/2026/10/dune-awakenings-free-blood-and-ice-expansion-launches-december-1/",
-    "description": "Funcom reveals the Blood and Ice expansion and detailed what's coming over the next three to four months - including new events, offline single-player and more.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/10/dune-awakenings-free-blood-and-ice-expansion-launches-december-1/",
-    "date": "Oct 30, 2026 10:08",
-    "published_at": "2026-10-30T10:08:41Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1491577585id30091gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Apple Silicon Linux Driver Adapted To Help Older Intel-Powered Macs",
-    "link": "https://www.phoronix.com/news/Linux-Patches-Intel-macsmc",
-    "description": "The Linux kernel's \"macsmc\" driver was developed for supporting the system management controller (SMC) on Apple Silicon Macs for supporting the light sensor, fan control, and other sensors. That macsmc driver now is seeing work to extend it for better supporting older Intel-powered Macs...",
-    "guid": "https://www.phoronix.com/news/Linux-Patches-Intel-macsmc",
-    "date": "Oct 30, 2026 10:05",
-    "published_at": "2026-10-30T10:05:47Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Vulkan 1.4.367 Released With VK_KHR_maintenance12",
-    "link": "https://www.phoronix.com/news/Vulkan-1.4.367",
-    "description": "Vulkan 1.4.367 is out this morning as the newest spec revision for this high performance graphics and compute API...",
-    "guid": "https://www.phoronix.com/news/Vulkan-1.4.367",
-    "date": "Oct 30, 2026 09:58",
-    "published_at": "2026-10-30T09:58:03Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "I3C Hub \u0026 HDR-DDR Support Merged For Linux 7.4",
-    "link": "https://www.phoronix.com/news/Linux-7.4-I3C",
-    "description": "The I3C changes for Linux 7.4 were submitted this week by Bootlin's Alexandre Belloni and subsequently merged...",
-    "guid": "https://www.phoronix.com/news/Linux-7.4-I3C",
-    "date": "Oct 30, 2026 09:50",
-    "published_at": "2026-10-30T09:50:29Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Multiplayer music playground 'Vibe Together' sounds like a super-fun idea",
-    "link": "https://www.gamingonlinux.com/2026/10/multiplayer-music-playground-vibe-together-sounds-like-a-super-fun-idea/",
-    "description": "Vibe Together is all about visually putting songs together, then playing through them. Sounds great, looks clever!Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/10/multiplayer-music-playground-vibe-together-sounds-like-a-super-fun-idea/",
-    "date": "Oct 30, 2026 09:49",
-    "published_at": "2026-10-30T09:49:10Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1919466153id30090gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Get 18 spooky games in the Fanatical FrightFest Ripper Bundle",
-    "link": "https://www.gamingonlinux.com/2026/10/get-18-spooky-games-in-the-fanatical-frightfest-ripper-bundle/",
-    "description": "Fanatical's FrightFest Ripper Bundle is live with 18 different games you can grab for one cheap price.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/10/get-18-spooky-games-in-the-fanatical-frightfest-ripper-bundle/",
-    "date": "Oct 30, 2026 09:38",
-    "published_at": "2026-10-30T09:38:56Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1883517535id30089gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Five more classics join the GOG Preservation Program",
-    "link": "https://www.gamingonlinux.com/2026/10/five-more-classics-join-the-gog-preservation-program/",
-    "description": "In addition to publishing more games, the GOG Preservation Program has expanded again with another five classic games added.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/10/five-more-classics-join-the-gog-preservation-program/",
-    "date": "Oct 30, 2026 09:25",
-    "published_at": "2026-10-30T09:25:25Z",
-    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/gog_logo.jpg",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Epic Games Launcher Preview updated to fix logins on some Linux systems",
-    "link": "https://www.gamingonlinux.com/2026/10/epic-games-launcher-preview-updated-to-fix-logins-on-some-linux-systems/",
-    "description": "The in-development Epic Games Launcher Preview that has Linux support has seen another few updates, and now more Linux users should be able to actually login.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/10/epic-games-launcher-preview-updated-to-fix-logins-on-some-linux-systems/",
-    "date": "Oct 30, 2026 08:47",
-    "published_at": "2026-10-30T08:47:26Z",
-    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/epicgames.jpg",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
   }
 ]
