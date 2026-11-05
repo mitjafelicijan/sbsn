@@ -1,5 +1,191 @@
 [
   {
+    "title": "Schools That Say No to Google’s AI Will Be Saying Goodbye to its Search Too",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368849",
+    "description": "Meanwhile, schools in six German states can choose an open source cloud solution.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368849",
+    "date": "Nov 05, 2026 03:45",
+    "published_at": "2026-11-05T03:45:51Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Vietnam Jails Pirate Football Streamers For Up To a Year",
+    "link": "https://yro.slashdot.org/story/26/11/05/0322258/vietnam-jails-pirate-football-streamers-for-up-to-a-year?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from TorrentFreak: A Vietnamese court has sentenced 14 people who worked on the pirate football streaming site Bun Cha TV, handing out the first prison terms we've seen since the country's piracy crackdown began earlier this year. [...] Four defendants, including the heads of the content, programming and operations teams, were sentenced to 12 months in prison. Five others received ten months, and two were sentenced to eight months. Notably, three of the site's commentators were not sent to prison. Their ten-month sentences were suspended. All 14 defendants reportedly admitted the charges and cooperated with the authorities. According to investigators, Bun Cha TV streamed more than 150,000 sports matches and it allegedly made more than 20 billion dong, roughly $760,000, in illegal profits from betting and gambling ads.\n \nThe verdict reports don't mention a total. Instead, they list illegal gains per person or team. The leader of the content team allegedly gained more than 430 million dong, while commentators made from more than 31 million to more than 480 million dong each. The verdict was picked up by Rouse, the law firm that represents the Motion Picture Association in Vietnam. In an article headlined \"Strong Vietnam criminal penalties,\" published on Lexology on November 3, the firm calls the ruling another victory for Vietnam's IP landscape.\n \n\"The defendants were all sentenced to terms of 8-12 months in prison,\" Rouse writes. While Rouse is correct on the length of the terms, it doesn't mention that three of the sentences were suspended. Instead, Rouse stresses that the ruling is part of a tougher enforcement trend. \"This ruling reflects a shift in enforcement strategy by Vietnamese authorities, who are increasingly moving past preliminary domain blocking to deliver criminal convictions against the operators of commercial-scale piracy rings,\" the firm notes. \"This perhaps reflects the strength of the national crackdown following the USTR pressure in May,\" the firm adds. According to the indictment, Bui Ba Hien, who runs a company called S24, allegedly directed employees and collaborators to build and operate Bun Cha TV. However, Hien is not among the 14 defendants named in reports, which also do not identify the affected rightsholders.\n \n\"Interestingly, in September, Bac Ninh police issued a wanted notice for a man of the same name, Bui Ba Hien, CEO of esports company Box Vietnam,\" reports TorrentFreak. \"This person is also charged under the same copyright statute.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 05, 2026 03:30",
+    "published_at": "2026-11-05T03:30:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "openSUSE Leap 16.1 Unifies Traditional and Immutable Linux With Transactional Updates",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368848",
+    "description": "The openSUSE Project has officially released openSUSE Leap 16.1, introducing a major change to how the distribution can be installed, maintained, and deployed. Released on November 3, 2026, the update brings an integrated Immutable Mode that allows users to install a transactionally updated operating system with a read-only root filesystem, while continuing to offer the traditional Linux…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368848",
+    "date": "Nov 05, 2026 02:12",
+    "published_at": "2026-11-05T02:12:53Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "MPV 0.42 Media Player Brings Wayland Improvements, Improved HDR",
+    "link": "https://www.phoronix.com/news/MPV-0.42-Released",
+    "description": "MPV as the open-source, cross-platform media player originally based on MPlayer/mplayer2 is finally out with a new release...",
+    "guid": "https://www.phoronix.com/news/MPV-0.42-Released",
+    "date": "Nov 05, 2026 01:44",
+    "published_at": "2026-11-05T01:44:08Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "LXQt 2.5 Released With Enhanced QTerminal, Removing The Final LXDE Dependency",
+    "link": "https://www.phoronix.com/news/LXQt-2.5-Released",
+    "description": "LXQt 2.5 released today as the newest feature update to this lightweight, Qt6-based desktop environment...",
+    "guid": "https://www.phoronix.com/news/LXQt-2.5-Released",
+    "date": "Nov 05, 2026 01:21",
+    "published_at": "2026-11-05T01:21:30Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Pocket-sized Linux AI box runs on 256-TOPS Axera chip",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368838",
+    "description": "Sipeed has recently shared additional details about the MaixStation, a Linux AI workstation powered by Axera’s AX8860P processor, which combines a 16-core Arm CPU with an NPU rated at 256 TOPS FP4. The system supports up to 128GB of LPDDR5X memory, 273GB/s memory bandwidth, 10G SFP+ networking, and PCIe 5.0 expansion for local AI inference…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368838",
+    "date": "Nov 05, 2026 01:03",
+    "published_at": "2026-11-05T01:03:56Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "[$] LWN.net Weekly Edition for November 5, 2026",
+    "link": "https://lwn.net/Articles/1103480/",
+    "description": "Inside this week's LWN.net Weekly Edition:\n        \n        \n Front: Kernel cells; Debian LLM reviews; glibc system-call wrappers; Binder in Rust; Kernel CVE flood; Fedora KDE and X11 removal; 7.4 merge window part two; Portable Python.\n             Briefs: MTCP RCE; Bash security; XCPE botnet; Bazzite 45; Fedora 45; openSUSE Leap 16.1; Tor Browser 16.0; Quotes; ...\n             Announcements: Newsletters, conferences, security updates, patches, and more.\n            ",
+    "guid": "https://lwn.net/Articles/1103480/",
+    "date": "Nov 05, 2026 00:42",
+    "published_at": "2026-11-05T00:42:51Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "Axon Sued Over AI-Powered License Plate Reader Network",
+    "link": "https://yro.slashdot.org/story/26/11/04/2319208/axon-sued-over-ai-powered-license-plate-reader-network?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Axon has been sued in a proposed class action accusing the Taser and police body-camera maker of illegally collecting and storing license plate data on millions of California drivers through its AI-powered surveillance network. Reuters reports the details: - The lawsuit (PDF), filed on Tuesday in federal court in San Francisco by law firms Hausfeld and Gibbs Mura, alleges Axon has failed to comply with a California privacy provision by not disclosing how it collects, uses and shares plate data gathered through its camera systems\n- \"Axon has created a mass-surveillance infrastructure that is practically impossible to avoid,\" the lawsuit said\n- Scottsdale, Arizona-based Axon did not immediately respond to a request for comment. The lawsuit said the company has more than 1,000 cameras in California and alleges millions of drivers may have been affected\n- Some Axon cameras are installed in high-traffic areas and collect plate information as vehicles pass by. Other cameras are placed inside police vehicles, the lawsuit said\n- The proposed class covers drivers whose vehicle plate information was captured by an automated license plate reader in California and processed or stored by Axon's system since 2023\n- The lawsuit seeks more than $5 million in damages, in addition to a court order stopping Axon from its allegedly unlawful practices\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 05, 2026 00:00",
+    "published_at": "2026-11-05T00:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Rocky Linux Unveils Testrarc for Transparent Release Testing",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368847",
+    "description": "Rocky Linux unveils Testrarc, a new open-source platform for tracking release testing, validation results, and community contributions.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368847",
+    "date": "Nov 04, 2026 23:45",
+    "published_at": "2026-11-04T23:45:19Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "OpenAI Says ChatGPT Is Catching Up to Google In Search",
+    "link": "https://tech.slashdot.org/story/26/11/04/207222/openai-says-chatgpt-is-catching-up-to-google-in-search?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Adam Fry, OpenAI's consumer product lead for ChatGPT, says the number of searches performed through ChatGPT has grown to roughly 20% of Google's search volume. The company defines a search as a ChatGPT query that triggers a web search, suggesting the chatbot is becoming an increasingly significant competitor to traditional search engines. The Verge reports: Having one-fifth as many searches as Google is still a long way from overtaking it, but for comparison, Microsoft CEO Satya Nadella said during Google's 2023 antitrust trial that Bing had about 3 percent of the search engine market share after trying for more than a decade. During the trial, Google described AI as a potential disruptor, arguing ChatGPT was poised to seriously compete with it -- now, OpenAI seems to agree. (OpenAI likely uses Microsoft Bing for a significant part of its searches, along with its in-house search index, although there is still some speculation that it routes some queries through Google.) As for ads, which OpenAI started testing earlier this year, Fry said they haven't produced a lasting backlash. \"Ads have not negatively impacted the product or the usage of the product,\" he said, adding that \"most people do not seem to mind ads in the product.\"\n \nLast month, OpenAI announced plans to introduce images of sponsored products and services in ChatGPT.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 04, 2026 23:00",
+    "published_at": "2026-11-04T23:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "NVIDIA 620 Linux Graphics Driver Released with Wayland Improvements",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368841",
+    "description": "NVIDIA released the NVIDIA 620 series of graphics drivers for Linux, FreeBSD, and Solaris systems, with new features, improvements, and the usual bug fixes.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368841",
+    "date": "Nov 04, 2026 22:36",
+    "published_at": "2026-11-04T22:36:52Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Netflix Launches First AI-Branded Content Recommendations Feature on TVs",
+    "link": "https://entertainment.slashdot.org/story/26/11/04/2034237/netflix-launches-first-ai-branded-content-recommendations-feature-on-tvs?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Netflix is testing its first consumer-facing feature explicitly branded as AI-powered. Called \"AI Discover,\" the feature generates personalized TV and movie recommendations in real time based on viewing history, preferences, trending content and selectable themes like \"Something Light\" or \"Quick Watches.\" Variety reports: The streamer will begin rolling out AI Discover in the U.S. to customers who use Netflix in English on supported smart TVs. If you have access to it, you will see a \"Discover\" tab with a red gem-shaped icon and a \"New\" label in the top navigation bar on your TV. The company plans to expand the feature to more regions and customers in the coming weeks.\n \nNetflix has long used machine-learning and AI technologies to personalize content recommendations, but AI Discover is the first user-facing application that the company is branding as powered by artificial intelligence. The hope is that the AI-recommended titles will be another tool to drive up Netflix's total watch time among viewers, especially in the U.S.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 04, 2026 22:00",
+    "published_at": "2026-11-04T22:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "LZ4 1.11 Introduces Multi-Threaded Compression For liblz4, Other Performance Gains",
+    "link": "https://www.phoronix.com/news/LZ4-1.11-Released",
+    "description": "For those making use of the LZ4 extremely fast compression algorithm, LZ4 1.11 released today and brings multi-threaded compression support to its library (liblz4)...",
+    "guid": "https://www.phoronix.com/news/LZ4-1.11-Released",
+    "date": "Nov 04, 2026 21:53",
+    "published_at": "2026-11-04T21:53:33Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "NVIDIA CUDA 13.5 Released With Production Support For Vera Rubin",
+    "link": "https://www.phoronix.com/news/NVIDIA-CUDA-13.5",
+    "description": "Along with today's release of the NVIDIA 620.70.06 Linux driver, NVIDIA also released CUDA 13.5 that brings general availability (GA) support for Vera Rubin...",
+    "guid": "https://www.phoronix.com/news/NVIDIA-CUDA-13.5",
+    "date": "Nov 04, 2026 21:11",
+    "published_at": "2026-11-04T21:11:41Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Waymo Cuts Ties With Uber, Will Serve Riders Directly",
+    "link": "https://tech.slashdot.org/story/26/11/04/2021250/waymo-cuts-ties-with-uber-will-serve-riders-directly?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Waymo plans to end its exclusive Uber robotaxi partnership in Austin and Atlanta in January 2028 and let customers hail its vehicles directly through the Waymo app. In an interview on The Circuit, Waymo co-CEO Tekedra Mawakana called the current Uber experience a \"crapshoot\" because riders aren't guaranteed a Waymo. Bloomberg reports: \"In the early days, we would partner because we didn't have the scale, and in that partnering, it was a little bit of a crapshoot. Will I get a Waymo? Will I not get a Waymo?,\" Mawakana said in a wide-ranging interview on The Circuit with Emily Chang. She cited customers' growing demand for a consistent offering from a single app, especially from riders from San Francisco or other markets, where Waymo offers the self-driving service via its own consumer app that competes with Uber.\n \n\"It's important for us to have that relationship with the rider. We've gotten that feedback from the riders in those markets,\" Mawakana said. \"And at the same time, learning and partnering with Uber has been a really important part of our journey,\" she added.\n \n[...] The comments reflect Waymo's evolving relationship with the ride-hailing giant as the Alphabet unit trials different pathways to commercialize its capital-intensive autonomous technology. Waymo has leaned on partners like Uber and Lyft, as well as fleet management companies, to help operate its roughly 4,000 vehicles across the US. The company currently does more than 500,000 trips per week in 14 cities.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 04, 2026 21:00",
+    "published_at": "2026-11-04T21:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "CVE-2026-109518 APT vulnerability fixes available",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368853",
+    "description": "Fixes are available in Ubuntu for the CVE-2026-109518 vulnerability affecting APT.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368853",
+    "date": "Nov 04, 2026 20:15",
+    "published_at": "2026-11-04T20:15:13Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "OpenAI Acquires Pierre Computer to Supercharge Codex",
+    "link": "https://developers.slashdot.org/story/26/11/04/1957217/openai-acquires-pierre-computer-to-supercharge-codex?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "OpenAI has acquired developer tools startup Pierre Computer Company to strengthen Codex. \"The deal, announced today, signals OpenAI's aggressive push into the developer tools market as the AI arms race intensifies,\" reports The Tech Buzz. Financial terms weren't disclosed. From the report: \nPierre Computer Company had been building specialized tools for code analysis and review, capabilities that complement Codex's existing strength in code generation. For developers, this could mean a more seamless experience -- using AI not just to write initial code snippets, but to understand legacy codebases, spot potential bugs, and conduct thorough reviews before deployment. That's a workflow improvement that enterprise engineering teams have been demanding.\n \n[...] For Pierre Computer Company, the acquisition likely provides the resources and distribution that startups in this space desperately need. Building AI developer tools requires massive compute infrastructure and access to cutting-edge models -- both of which OpenAI has in abundance. Pierre's team will now have access to OpenAI's latest models, including the technology behind ChatGPT and the recently announced Shepherd model for AI research validation.\n \nThe integration timeline remains unclear, but developers using Codex should expect to see Pierre's capabilities rolling out in the coming months. OpenAI has been moving quickly to ship new features -- it just launched Dots, transforming its coding tools into an always-on AI assistant. Adding Pierre's code review and analysis features could make Codex a genuine end-to-end solution for software development teams.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 04, 2026 20:00",
+    "published_at": "2026-11-04T20:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Intel One Mono Font Family Updated With Various Enhancements",
+    "link": "https://www.phoronix.com/news/Intel-One-Mono-1.5",
+    "description": "Back in 2023 Intel introduced One Mono as a new font for developers. Intel in September had discontinued the One Mono project but then days later revived it. Now the project is out with its first update since that mishap...",
+    "guid": "https://www.phoronix.com/news/Intel-One-Mono-1.5",
+    "date": "Nov 04, 2026 19:27",
+    "published_at": "2026-11-04T19:27:03Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
     "title": "Simulation Agama Web UI in Virtual environment as KVM Guest",
     "link": "https://lxer.com/module/newswire/ext_link.php?rid=368850",
     "description": "Simulating the Agama Web UI in a virtualized environment as a KVM guest provides a sandboxed, easily reproducible, and risk-free environment to test next-generation installer workflows, remote deployment configurations, and automated storage provisioning without modifying bare-metal hardware. Web UI Native Testing: Agama is designed with a decoupled architecture where the installer engine runs as a service and exposes a Web UI. A KVM guest allows you to easily simulate a true headless server deployment, letting you test connecting to the installer's port from a host web browser.",
@@ -123,17 +309,6 @@
     "published_at": "2026-11-04T15:54:44Z",
     "source": "lwn.net",
     "source_url": "https://lwn.net"
-  },
-  {
-    "title": "Schools That Say No to Google’s AI Will Be Saying Goodbye to its Search Too",
-    "link": "https://feed.itsfoss.com/link/24361/17515402/google-school-search-ai",
-    "description": "Meanwhile, schools in six German states can choose an open source cloud solution.",
-    "guid": "6aeac6e55f3ba700015101a9",
-    "date": "Nov 04, 2026 15:06",
-    "published_at": "2026-11-04T15:06:00Z",
-    "image": "https://itsfoss.com/content/images/2026/11/google-ai-locked-for-schools.png",
-    "source": "itsfoss.com",
-    "source_url": "https://itsfoss.com/"
   },
   {
     "title": "Migrating away from unmaintained NetworkManager VPN plugins (vpnc and fortisslvpn)",
@@ -470,16 +645,6 @@
     "source_url": "https://www.phoronix.com/"
   },
   {
-    "title": "Linux 7.4 is \"Much Healthier\" Thanks to AI",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368816",
-    "description": "At nearly 42 million lines, Linux 7.4 is the largest merge in the history of the kernel.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368816",
-    "date": "Nov 04, 2026 00:25",
-    "published_at": "2026-11-04T00:25:06Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
     "title": "iOS 27.3 Adds Vertical Tabs, Adaptive Dark Mode to Safari",
     "link": "https://tech.slashdot.org/story/26/11/03/2347212/ios-273-adds-vertical-tabs-adaptive-dark-mode-to-safari?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
     "description": "Apple is adding vertical tabs and an Adaptive Dark Mode to Safari with iOS 27.3, iPadOS 27.3 and macOS Golden Gate 27.3. The December updates will also expand Siri's browser controls, including organizing tabs and clearing site-specific history, with a later feature allowing Siri to understand and answer questions about content across multiple open webpages. MacRumors reports: Vertical Tabs are located on the left side of the display and use icons by default to save space, but there is an option to make the tab bar wider to show website titles as well. Vertical Tabs work with both Topics and Tab Groups to keep things organized. Topics are created when automatic Apple Intelligence tab sorting is turned on in iOS 27. Pinning tabs by dragging, quickly swapping between Tab Groups, and other features also continue to work.\n \n[...] Apple is adding Adaptive Dark Mode for websites that don't have a dark mode design option by default. If you use Dark Mode and then browse to a website with a bright background color, Safari will offer an option to \"Try\" Adaptive Dark Mode. After tapping Try, Safari renders a Dark Mode version of the page that makes the background darker, changes text contrast, inverts logos and graphics, recolors vector artwork, lifts raised surfaces, and rebalances layered shadows.\n \nEach website will be adapted based on what's needed to make it readable, so not every tweak is applied to every site. You can opt to turn Adaptive Dark Mode on for all sites or on a site-by-site basis after using it. If a site has a native dark mode or has a dark design already, Adaptive Dark Mode won't activate. Developers can also add a tag that causes Safari to ignore Adaptive Dark Mode and show the website as the developer intended.\n\n\n\n\n\nRead more of this story at Slashdot.",
@@ -489,27 +654,6 @@
     "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
     "source": "slashdot.org",
     "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "EU Court Advisor Warns Google AI Chatbot May Breach Copyright Rules",
-    "link": "https://yro.slashdot.org/story/26/11/03/2144244/eu-court-advisor-warns-google-ai-chatbot-may-breach-copyright-rules?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "An adviser to the EU's highest court says Google's Gemini may violate publishers' copyright when it reproduces recognizable portions of their articles or circumvents paywalls and other technical protections to generate answers. Reuters reports: The case before the Luxembourg-based Court of Justice of the European Union pitted Hungarian website operator Like Company against US-based Google's artificial intelligence chatbot Gemini. A ruling against Google, which could force the tech giant to pay fees for the use of such content, could throw a lifeline to online media such as Like Company. They have seen traffic dwindle as news summaries written by AI chatbots like Gemini increasingly replace traditional search engines' results, which include hyperlinks to the media websites.\n \n\"When an LLM (large language model)-driven chatbot retrieves a publication from a press publisher's website, reuses that publication to generate an answer, and provides that answer to the user, the press publisher's right may be infringed in certain circumstances,\" Advocate General Maciej Szpunar said. Gemini's answers fall under the publishers' right of reproduction when chatbots access publications by unlawfully \"circumventing paywalls or other technical barriers, or when they reuse \"the form of expression of that publication in a recognizable manner,\" he said.\n \nCopyright rules do not protect the \"mere facts\" reported by press publications, but \"only the specific form of expression,\" he added. On the other hand, he said, the use of material protected by copyright to train LLMs -- AI systems that use vast amounts of text to generate human-like responses and summarize information -- is \"freely permitted under the text and data mining exception.\" Szpunar said there was no evidence that Google had used the Hungarian publisher's articles to train Gemini. The court, which follows the majority of its advisers' non-binding opinions, will rule in the coming months. \"Google's powerful gatekeeping role in search makes this particularly important. Publishers depend on Google to reach readers, while Google increasingly delivers AI-generated answers directly to users,\" said Angela Mills Wade, the council's executive director.\n \n\"Publishers should not have to choose between search visibility and protecting their rights. Nor should Google's control over access to audiences become leverage to secure publishers' content for AI services,\" she said.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 03, 2026 23:00",
-    "published_at": "2026-11-03T23:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Fedora Asahi Remix 45 Released for Apple Silicon Macs with KDE Plasma 6.8",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368806",
-    "description": "The Fedora Asahi SIG and Asahi Linux projects announced the general availability of Fedora Asahi Remix 45 as the latest version of this distribution developed for Apple Silicon Macs.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368806",
-    "date": "Nov 03, 2026 22:51",
-    "published_at": "2026-11-03T22:51:37Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
   },
   {
     "title": "GIMP 3.2.8 Released With Many Refinements, Numerous Security Fixes Due To AI Reports",
@@ -528,244 +672,6 @@
     "guid": "https://www.phoronix.com/news/NetBSD-11.1-Released",
     "date": "Nov 03, 2026 22:09",
     "published_at": "2026-11-03T22:09:52Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Bethesda Confirms The Elder Scrolls 6 Is Called 'Sentinel'",
-    "link": "https://games.slashdot.org/story/26/11/03/2113209/bethesda-confirms-the-elder-scrolls-6-is-called-sentinel?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "During a video celebrating Bethesda's 40th anniversary, the studio officially confirmed that The Elder Scrolls VI will be titled The Elder Scrolls VI: Sentinel. \"Thank you for 40 years of shared memories,\" wrote Bethesda in a separate tweet. \"We can't wait to make even more together with The Elder Scrolls VI: Sentinel. Development continues, and while it'll be some time before we're ready to share more, it feels great to finally reveal the name and location with you.\" Video Games Chronicle reports: \"You know, as we're here in the 40th anniversary, we think about all of the games we've made,\" Bethesda's executive producer Todd Howard said in the video, walking past a display case. \"And you know, every day when I walk by this case, obviously I look at the games and think about them, but more so I think about the teams that made them, and the time and the passion that everybody put into the games. And then what they meant to all of you, and hearing from you, and the time that you spent in them, how meaningful that was to you, and to let you know when we hear that, how meaningful that is to us.\n \nAnd so even though yes, we're looking back, we're also looking forward to all we're doing, particularly with the Fallout franchise and obviously The Elder Scrolls. You know, everybody's always asking about Elder Scrolls 6. And we thought, hey, given the the moment, what a perfect time to tell you what The Elder Scrolls 6 is actually called.\" The video then showed the logo for the game.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 03, 2026 22:00",
-    "published_at": "2026-11-03T22:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "What’s New for Fedora Atomic Desktops in Fedora Linux 45",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368799",
-    "description": "Fedora 45 is now available! 🎉 So let’s see what this new release for the Fedora Atomic Desktops variants includes for Silverblue, Kinoite, Sway Atomic, Budgie Atomic and COSMIC Atomic. Changes for all Atomic Desktops Completed the migration to the new Fedora forge Everything related to the Atomic Desktops now resides in the atomic-desktops organization.…",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368799",
-    "date": "Nov 03, 2026 21:21",
-    "published_at": "2026-11-03T21:21:47Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Firefox's New Mini Window Is Every Multitasker's Dream",
-    "link": "https://news.slashdot.org/story/26/11/03/214205/firefoxs-new-mini-window-is-every-multitaskers-dream?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Mozilla is testing a new Firefox Nightly feature called Mini Window that lets users pop an entire webpage into a small, always-on-top window stripped of most browser controls. \"The idea behind the Firefox Mini Window feature is simple: allow users to move a currently open tab (or a section of a tab) into a separate mini window,\" writes ZDNet's Jack Wallen. \"Think of it as moving a tab from one window to what appears like a web app.\" From the report: At first blush, there's no address bar, controls, scroll bar, or anything else that would normally be associated with Firefox. The Mini Window appears to be a web app, without having to actually create it. However, when I hover my cursor inside the Mini Window, I do see the address bar, the back/forward/reload buttons, and the window close button -- and that's it. The browser gets out of your way, so the only thing I see is the content.\n \nOn top of that (pun intended), the Mini Window stays on top of other Firefox windows, so I can have that popped-out content always in focus while I work on other things. This feature comes in handy when I'm working with limited display space (say, on a laptop) and need to reference a page while working on another. For multitasking, it comes in very handy. [...] Let's say I'm writing a paper on Linux and need to read a particular article for background information. I could have my document open in the main window, and then open the article in question in a Mini Window. I could then reference the article without having to click back and forth between them -- even when working on a smaller display.\n \nHere's another use case I've found: When using MacOS's Stage Manager feature, I only have one window available at a time. The Mini Window bypasses that limitation, so I can have my main browser window focused as well as the page open in the Mini Window. Another handy way I like to use Mini Window is to open a favorite search engine, move it to a Mini Window, and then I have an always-ready search tool at my fingertips. I could also open my favorite AI service and use it in the same way.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 03, 2026 21:05",
-    "published_at": "2026-11-03T21:05:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "GhostBSD 26.2 takes the fright out of FreeBSD with a friendlier installer",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368801",
-    "description": "Full-disk encryption joins the toolkit, MATE and Xfce stay while Gershwin sits this one out",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368801",
-    "date": "Nov 03, 2026 20:08",
-    "published_at": "2026-11-03T20:08:20Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Binance Says Hackers Used Fake Job Interviews, AI Tool to Steal $6.3 Billion In Crypto",
-    "link": "https://it.slashdot.org/story/26/11/03/1939254/binance-says-hackers-used-fake-job-interviews-ai-tool-to-steal-63-billion-in-crypto?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Binance says hackers spent months infiltrating its systems through fake job interviews, a tampered developer tool and compromised internal AI tools before stealing $6.34 billion in crypto in the Oct. 29 attack. Co-CEO Richard Teng said Binance has replenished 98% of the affected assets, and that it is still in the process of purchasing outstanding, more illiquid assets. CNBC reports: Preparations for the attack began in June, when a Binance Wallet DevOps engineer downloaded a tampered Homebrew installation \"to install a popular AI coding tool after searching for it on a search engine,\" according to a security report published by Binance Tuesday. It said it detected the suspicious activity, replaced the engineer's device and rotated credentials as a precaution, but that by then the employee's \"role and his related colleagues on our wallet infrastructure team was exposed to the hacker.\"\n \n[...] As of Tuesday Binance has rebuilt the affected wallet system and internal AI tool, replaced compromised devices, decommissioned credentials and tokens associated with the affected engineers and expanded security scans across employee devices, Teng told \"Squawk on the Street.\"\n \n\"We're also getting an independent expert to review everything that we have done, and we'll keep strengthening our defenses as the investigation continues,\" Teng said. \"We're working around the clock with law enforcement agencies and with industry partners to trace and freeze the stolen funds for that front.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 03, 2026 20:00",
-    "published_at": "2026-11-03T20:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Fujifilm To Boost Tape Production 5x As AI Fuels Archiving Demand",
-    "link": "https://hardware.slashdot.org/story/26/11/03/190206/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "An anonymous reader quotes a report from Ars Technica: In an announcement released Thursday, Fujifilm said it will invest roughly 10 billion yen (about $63 million) to increase its production capacity fivefold for an unlikely beneficiary of the AI era: magnetic tape. Fujifilm attributes the surge in archiving demand to the spread of generative AI, which the company remarked is producing \"exponential growth\" in data needs worldwide. The 5x increase in production capacity will be measured against fiscal year 2025 production levels.\n \nThe investment in Fujifilm's Kanagawa Factory, Odawara site will make it \"the largest investment Fujifilm has made to date in dedicated LTO tape facilities.\" The project will run from fiscal years 2026 through 2028 to fund manufacturing expansion and additional personnel, primarily to produce the latest-generation \"FUJIFILM LTO Ultrium10\" tape. [...]\n \nAccording to Fujifilm, \"major cloud service and data center operators\" have been expanding their use of magnetic tape because it can store large data volumes at relatively low cost. Tape backups can be easily disconnected and stored in a drawer, a vault, or a separate facility. Fujifilm highlights the ability to air-gap tape cartridges as a last defense for user data: \"Given the sophistication of cyberattacks, magnetic tape is attracting increasing attention as a means of protecting data from threats such as ransomware.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 03, 2026 19:01",
-    "published_at": "2026-11-03T19:01:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "What’s New in Fedora Workstation 45",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368791",
-    "description": "Fedora Workstation features the latest six months of meticulous polish, under-the-hood responsiveness, and security hardening for F45, based on GNOME 51. Whether you are multitasking across monitors, managng daily appointments, or organizing large sets of files, GNOME 51 brings thoughtful refinements to your daily workflow on Fedora Workstation. Silky-Smooth Responsiveness: Reworked Frame…",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368791",
-    "date": "Nov 03, 2026 18:59",
-    "published_at": "2026-11-03T18:59:15Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Google Will Turn Off Search For Schools That Reject AI",
-    "link": "https://news.slashdot.org/story/26/11/03/1711242/google-will-turn-off-search-for-schools-that-reject-ai?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Google will disable AI tools by default for K-12 students early next year unless school administrators explicitly enable them, but schools that choose to block AI entirely will also lose student access to Google Search. The New York Times reports: Executives at the tech giant said they wanted to be responsive to educators and parents who have asked for more control in how children interact with A.I. But there is a catch: Schools that choose to restrict A.I. entirely will also lose access to Google search. A.I. features are now a standard part of Google's commercially available search engine.\n \n\"Search and A.I. are deeply integrated,\" said Chris Phillips, vice president for education at Google. If a school has banned A.I., he added, students \"will not have access to search, and they'll see a message from their school that indicates it's not available.\" [...] The company's new strategy underscores Google's powerful role in American education. If school leaders want continued student access to search within the company's ecosystem, they will be forced to embrace Google's A.I.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 03, 2026 18:00",
-    "published_at": "2026-11-03T18:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Schools in Six German States Can Now Opt For a Nextcloud-Based Open Source Cloud Solution",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368771",
-    "description": "IONOS has been picked as a contractor, and the service would run inside data centers in Germany.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368771",
-    "date": "Nov 03, 2026 17:45",
-    "published_at": "2026-11-03T17:45:06Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "OpenSUSE Leap 16.1",
-    "link": "https://lwn.net/Articles/1105131/",
-    "description": "\nThe openSUSE project has announced the release of openSUSE Leap 16.1. The release is notable for allowing both traditional installations and immutable images with transactional updates. While immutable images had previously been available for Leap Micro, they are now available across all platforms that Leap supports, including servers, desktops, and virtual machines.\n\n\n\n\"Leap's image gives the best of both for traditional and immutable users, and we expect that Tumbleweed will follow when Agama becomes the default installer for Tumbleweed as well.\" said Leap release manager Lubos Kocman. \"The Leap Micro experience people relied on is still here, but now it shares the same release, the same life cycle and the same maintenance updates as the rest of Leap, so users only have to pick the mode that fits their workload.\"\n",
-    "guid": "https://lwn.net/Articles/1105131/",
-    "date": "Nov 03, 2026 17:09",
-    "published_at": "2026-11-03T17:09:48Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "openSUSE Leap 16.1 Unifies Traditional and Immutable Linux With Transactional Updates",
-    "link": "https://www.linuxjournal.com/content/opensuse-leap-161-unifies-traditional-and-immutable-linux-transactional-updates",
-    "description": "\n    \n      \n              \n      \n            by George Whittaker\n      \n            The openSUSE Project has officially released openSUSE Leap 16.1, introducing a major change to how the distribution can be installed, maintained, and deployed. Released on November 3, 2026, the update brings an integrated Immutable Mode that allows users to install a transactionally updated operating system with a read-only root filesystem, while continuing to offer the traditional Linux installation model.\n\nThe new approach also marks the beginning of the end for openSUSE Leap Micro as a separate distribution. Its functionality is now incorporated into Leap 16.1, giving administrators a unified platform for desktops, conventional servers, container hosts, virtual machines, and edge computing environments. Users can select the installation model that best fits their workloads without switching to an entirely different openSUSE product.\n\nBeyond the new installation architecture, Leap 16.1 updates KDE Plasma to version 6.6, retains GNOME 48 with additional maintenance fixes, introduces LXQt 2.4, and continues using the Linux 6.12 long-term support kernel series. The release also expands container tooling, improves system monitoring, updates security components, and introduces changes designed to make enterprise-oriented Linux deployments more predictable.\n\nImmutable Mode Becomes the Defining Feature of Leap 16.1\n\nThe most important addition to openSUSE Leap 16.1 is its new Immutable Mode, which allows the operating system to use a read-only root filesystem and transactional updates. Instead of modifying the active operating system directly whenever packages are installed or updated, the immutable configuration prepares changes in a separate filesystem snapshot.\n\nThis approach differs from a conventional Linux installation, where package managers typically modify files in the active root filesystem. On a traditional system, an update can replace libraries, executables, and configuration components while applications continue running. Although Linux package managers handle these operations carefully, interrupted updates or incompatible package combinations can sometimes leave a system in an inconsistent state.\n\nImmutable Mode reduces this risk by preparing operating-system changes separately from the currently running environment. Updates become active after a reboot, allowing the system to start using a consistent set of packages and configuration changes. If an update introduces problems, administrators can return to an earlier snapshot rather than manually reversing individual package modifications.\n\nThe underlying technology is not entirely new to openSUSE. Similar functionality has been available through Leap Micro, which was designed for lightweight, transactionally updated server and infrastructure deployments. What changes in Leap 16.1 is that this operating model becomes an installation choice within the main Leap distribution.\n      \n              Go to Full Article\n\n      \n    \n  ",
-    "guid": "1341476 at https://www.linuxjournal.com",
-    "date": "Nov 03, 2026 17:00",
-    "published_at": "2026-11-03T17:00:00Z",
-    "image": "https://www.linuxjournal.com/sites/default/files/nodeimage/story/opensuse-leap-16-1-unifies-traditional-and-immutable-linux-with-transactional-updates.jpg",
-    "source": "linuxjournal.com",
-    "source_url": "https://www.linuxjournal.com/"
-  },
-  {
-    "title": "Linux 7.4 Features Steam Frame VR Headset, More AMD Zen 6 Enablement \u0026 Initial Apple M4 / A18 Pro Bring-Up",
-    "link": "https://www.phoronix.com/review/linux-74-features",
-    "description": "The Linux 7.4 kernel is hopefully going to be this year's Long Term Support (LTS) kernel version and is coming jam-packed with new features and changes.",
-    "guid": "https://www.phoronix.com/review/linux-74-features",
-    "date": "Nov 03, 2026 16:42",
-    "published_at": "2026-11-03T16:42:22Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "LibreOffice 26.2.7 is available for download",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368779",
-    "description": "Berlin, 3 November 2026 – The Document Foundation today announced the release of LibreOffice 26.2.7, the seventh maintenance update to the LibreOffice 26.2 branch. Building on the major feature release published on 4 February 2026, this update delivers targeted bug fixes and stability improvements contributed by a global community of",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368779",
-    "date": "Nov 03, 2026 16:31",
-    "published_at": "2026-11-03T16:31:22Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "[$] LLM reviews for Debian's new queue spark debate",
-    "link": "https://lwn.net/Articles/1103674/",
-    "description": "The Debian project has wrestled with the topic of LLM usage for years, which\nculminated in a general-resolution\nvote this August. The project voted in favor of the fifth, out of\neight, option: \"Responsible Use of\nGenerative AI\". With the door open to LLM use, the DFSG, Licensing \u0026 New Packages\nTeam (usually shortened to \"DFSG team\"), which is relatively new, has started to employ LLMs in\nsending out reviews of packages entering Debian's new queue. The practice has\nraised a number of objections and questions about where lines should be drawn in\nthe use of LLM-generated output.",
-    "guid": "https://lwn.net/Articles/1103674/",
-    "date": "Nov 03, 2026 16:28",
-    "published_at": "2026-11-03T16:28:40Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "RadeonSI \u0026 RADV Now Enabling D16 Support For GFX8 Era GPUs",
-    "link": "https://www.phoronix.com/news/RadeonSI-RADV-GFX8-D16",
-    "description": "Thanks to the latest work by Georg Lehmann of Valve's Linux graphics team, the AMD GFX8 generation of GPUs that stretch from GCN Volcanic Islands through Polaris GPUs is still seeing improved Linux support. The latest work to land and benefiting both RadeonSI OpenGL and RADV Vulkan is enabling D16 support...",
-    "guid": "https://www.phoronix.com/news/RadeonSI-RADV-GFX8-D16",
-    "date": "Nov 03, 2026 15:18",
-    "published_at": "2026-11-03T15:18:18Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Fedora Linux 45 released",
-    "link": "https://lwn.net/Articles/1105121/",
-    "description": "Fedora Linux\n45 has been released. This includes all editions: Fedora Workstation, Fedora KDE Plasma Desktop, Fedora Server, Fedora Cloud, Fedora CoreOS, and Fedora IoT, as well as the Atomic Desktops and Spins.\n\nThis release adds support for installation\non Stratis storage using Anaconda or Kickstart installs, retires\nunmaintained VPN plugins for NetworkManager, and updates Fedora's desktop\nenvironments, developer toolchains, and system packages. See the Fedora wiki\nChangeSet page for a list of major changes.\n\n",
-    "guid": "https://lwn.net/Articles/1105121/",
-    "date": "Nov 03, 2026 15:11",
-    "published_at": "2026-11-03T15:11:32Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "Fedora 45 Released With Many Leading-Edge Linux Innovations",
-    "link": "https://www.phoronix.com/news/Fedora-45-Released",
-    "description": "After challenged by two release delays, Fedora 45 is officially out as the latest six-month update to this leading Linux distribution...",
-    "guid": "https://www.phoronix.com/news/Fedora-45-Released",
-    "date": "Nov 03, 2026 14:32",
-    "published_at": "2026-11-03T14:32:09Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Security updates for Tuesday",
-    "link": "https://lwn.net/Articles/1105111/",
-    "description": "Security updates have been issued by AlmaLinux (bind, bind9.16, firefox, freerdp, ghostscript, kernel, kernel-rt, libXi, perl-YAML:1.24, perl:5.32, pipewire, qt5-qtbase, redis:6, tomcat, and wireshark), Debian (chromium, git-annex, incus, kernel, and strongswan), Fedora (barman, erlang-hex_core, glib-networking, kernel, knot, liblerc, libsoup3, mingw-cfitsio, openjpeg, perl-libnet, pipx, python-pillow, python-uv-build, radicale, ruff, rust-archive-trait, rust-astral-ini, rust-astral-mail-headers, rust-astral-pubgrub, rust-astral-version-ranges, rust-astral_async_zip, rust-quick-junit, rust-tar-codec, rust-tar-framing, tpm2-tss, ty, uv, and zvbi), Mageia (unbound), Red Hat (buildah, compat-openssl10, compat-openssl11, container-tools:rhel8, delve, golang-github-openprinting-ipp-usb, grafana, grafana-pcp, kernel, oci-seccomp-bpf-hook, openssl, opentelemetry-collector, osbuild-composer, podman, rhc, and skopeo), Slackware (expat), SUSE (ansible-core, apache-arrow, apache-commons-codec, apache-commons-io, apache-commons- logging, avalon-framework, avalon-logkit, glassfish-jsp, jsch, maven-file- management, opentest4j, aws-nitro-enclaves-cli, bouncycastle, chromedriver, chromium, cifs-utils, expat, firefox, gcc48, ghostscript, GraphicsMagick, guava, j2objc-annotations, gvfs, ImageMagick, in-toto, libsoup, nodejs22, nodejs24, praat, python-Pillow, python-PyJWT, python-soupsieve, python-sqlparse, python313-OpenEXR, python313-vllm, rootlesskit, and rqlite), and Ubuntu (kernel, linux, linux-aws, linux-aws-5.15, linux-aws-fips, linux-azure, linux-azure-5.15, linux-azure-fde-5.15, linux-azure-fips, linux-fips, linux-gcp, linux-gcp-5.15, linux-gcp-fips, linux-gke, linux-gkeop, linux-hwe-5.15, linux-ibm, linux-ibm-5.15, linux-intel-iot-realtime, linux-intel-iotg, linux-intel-iotg-5.15, linux-kvm, linux-lowlatency, linux-lowlatency-hwe-5.15, linux-nvidia, linux-oracle, linux-oracle-5.15, linux-realtime, linux, linux-aws, linux-aws-fips, linux-azure, linux-azure-5.4, linux-azure-fips, linux-fips, linux-gcp, linux-gcp-5.4, linux-gcp-fips, linux-hwe-5.4, linux-ibm, linux-ibm-5.4, linux-iot, linux-kvm, linux-oracle, linux-oracle-5.4, linux-xilinx-zynqmp, linux, linux-aws, linux-fips, linux-kvm, linux-lts-xenial, linux, linux-aws, linux-gcp, linux-hwe-7.0, linux-ibm, linux-oracle, linux-aws, linux-azure-fde, linux-bluefield, linux-nvidia-tegra, linux-nvidia-tegra-5.15, linux-nvidia-tegra-igx, and linux-oem-7.0).",
-    "guid": "https://lwn.net/Articles/1105111/",
-    "date": "Nov 03, 2026 14:10",
-    "published_at": "2026-11-03T14:10:12Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "These Linux Distros Can Run on Apple Silicon Mac",
-    "link": "https://feed.itsfoss.com/link/24361/17514520/apple-silicon-linux-distros",
-    "description": "Here are a few distros that are making it possible for you to run Linux on Apple Mac. Read the fine prints though, as not all M processors are supported.",
-    "guid": "6ae8609c3a20a700010e02f5",
-    "date": "Nov 03, 2026 14:06",
-    "published_at": "2026-11-03T14:06:00Z",
-    "image": "https://itsfoss.com/content/images/2026/11/apple-linux-distros-banner.png",
-    "source": "itsfoss.com",
-    "source_url": "https://itsfoss.com/"
-  },
-  {
-    "title": "Linux Preparing Faster FAT32 Performance In 2027 With Up To 4.06x Improvement",
-    "link": "https://www.phoronix.com/news/Faster-FAT32-Linux-In-2027",
-    "description": "In addition to some significant performance improvements for FAT32 in Linux 7.4, more performance improvements are on the way. For what will likely land in Linux 7.5 is up to a 4.06x improvement demonstrated for this aging file-system...",
-    "guid": "https://www.phoronix.com/news/Faster-FAT32-Linux-In-2027",
-    "date": "Nov 03, 2026 13:23",
-    "published_at": "2026-11-03T13:23:29Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "openSUSE Leap 16.1 Released With Immutable Sever Integration",
-    "link": "https://www.phoronix.com/news/openSUSE-Leap-16.1",
-    "description": "The openSUSE Leap 16.1 Linux distribution is out today and built from the same sources as SUSE Linux Enterprise Server 16.1...",
-    "guid": "https://www.phoronix.com/news/openSUSE-Leap-16.1",
-    "date": "Nov 03, 2026 12:57",
-    "published_at": "2026-11-03T12:57:44Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "One Open-Source Repo to Replace Adobe, Microsoft, and Salesforce",
-    "link": "https://feed.itsfoss.com/link/24361/17514438/puter-everything",
-    "description": "This \"Everything\" project from Puter aims to rebuild every major SaaS product from scratch, free and open source.",
-    "guid": "6ae5f1b31b851a000184153d",
-    "date": "Nov 03, 2026 12:31",
-    "published_at": "2026-11-03T12:31:49Z",
-    "image": "https://itsfoss.com/content/images/2026/11/puter-everything.webp",
-    "source": "itsfoss.com",
-    "source_url": "https://itsfoss.com/"
-  },
-  {
-    "title": "The Linux Kernel Preparing To Remove The Last Of Its MMX Optimized Code",
-    "link": "https://www.phoronix.com/news/Linux-Dropping-Last-MMX-Opt",
-    "description": "For what will likely be merged to the Linux 7.5 kernel, the mainline kernel is preparing to drop its last optimization its been carrying for far outdated MMX processors. This affects the likes of Intel Pentium MMX and Pentium II processors running modern software with up-to-date kernels when Linux 7.5 is released in 2027...",
-    "guid": "https://www.phoronix.com/news/Linux-Dropping-Last-MMX-Opt",
-    "date": "Nov 03, 2026 11:18",
-    "published_at": "2026-11-03T11:18:16Z",
     "source": "phoronix.com",
     "source_url": "https://www.phoronix.com/"
   }
