@@ -1,5 +1,382 @@
 [
   {
+    "title": "Two stable kernels for Friday",
+    "link": "https://lwn.net/Articles/1105899/",
+    "description": "Greg Kroah-Hartman has released the 7.3.2\nand 6.18.61 stable kernels. Each contains quite\na few changes throughout the tree; users are advised to upgrade.\n\n",
+    "guid": "https://lwn.net/Articles/1105899/",
+    "date": "Nov 06, 2026 18:09",
+    "published_at": "2026-11-06T18:09:16Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "Tesla to Wind Down Cybertruck Production",
+    "link": "https://tech.slashdot.org/story/26/11/06/1736259/tesla-to-wind-down-cybertruck-production?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Elon Musk says Tesla will be \"winding down\" Cybertruck production at its Texas Gigafactory around mid-2027 to free up capacity for increased production of its Cybercab robotaxi. CNBC reports: The Cybertruck is exclusively produced at the company's plant in Texas alongside the Tesla Model Y and two-seat Cybercab, which Musk has touted as a crucial product for the automaker moving forward. Musk did not say whether the company would produce the Cybertruck at a different facility, but he later responded to a user on X who called the update an \"end of an era\" and said the Cybertruck was the \"best vehicle Tesla has ever made.\" \"True, but the Cybertruck fleet will be around for a long time,\" Musk said.\n \nThe Cybertruck and its polarizing design gained a niche following, but it did not achieve mass-market sales, despite Musk's pre-launch prediction that annual sales would eventually total 250,000. \"Trucks have been the same for a very long time,\" Musk said when the truck was unveiled in 2019. \"Like 100 years. Trucks have been basically the same. We want to try something different.\" While Tesla does not break out its sales by model or region, Cox Automotive estimated sales of the Cybertruck last year at 20,237 units in the U.S., down 48% from 38,965 in 2024. Thank you Slashdot reader Dan Posluns for sharing the news.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 06, 2026 18:00",
+    "published_at": "2026-11-06T18:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Britain to Make Salary Disclosure In Job Ads Mandatory",
+    "link": "https://news.slashdot.org/story/26/11/06/1640241/britain-to-make-salary-disclosure-in-job-ads-mandatory?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Britain plans to require employers to disclose salaries in job advertisements. \"Whether you're a young person starting out or a parent trying to support your family, you should know what a job pays before spending your time and effort applying for it,\" Prime Minister Andy Burnham said in a statement. Reuters reports: The government said requiring companies to disclose pay in job ads would help young people applying for their first jobs, while boosting pay transparency and helping tackle disparities that can disadvantage women. Just over two in five employers always publish salary ranges, while fewer than one in five always disclose specific salaries, Burnham's office said, citing estimates from the Chartered Institute of Personnel and Development.\n \nThe government will soon introduce legislation to parliament making salary disclosures mandatory, Burnham's office said, although it did not provide a timeline. Nearly one million, or 13%, of 16 to 24 year-olds in Britain are not in employment, education or training, one of the highest shares in Europe. A government review into youth inactivity is due to be published later in November.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 06, 2026 17:00",
+    "published_at": "2026-11-06T17:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Firefox has a hidden game – here’s how to play it",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368911",
+    "description": "If you get bored and fancy a quick game of something, you can play one in Firefox’s address bar – one you know how. Mozilla’s browser boasts an easter-egg, as spotted by Soeren Hentzschel, that is only triggered when using the address bar’s calculator feature. Normally, the sum of a calculation appears with an icon to copy the value to your clipboard. But if that sum is 150, a Firefox icon…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368911",
+    "date": "Nov 06, 2026 16:45",
+    "published_at": "2026-11-06T16:45:53Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Linux 7.4-rc2 Change Yields As Much As 162x Improvement For FAT32",
+    "link": "https://www.phoronix.com/news/Linux-7.4-rc2-FAT32",
+    "description": "In addition to a FAT32 optimization yielding as much as a 265x improvement that was merged for the Linux 7.4 cycle and separately another big FAT32 improvement expected for Linux 7.5, merged this week as part of the non-MM fixes for Linux 7.4-rc2 was another big FAT32 performance optimization...",
+    "guid": "https://www.phoronix.com/news/Linux-7.4-rc2-FAT32",
+    "date": "Nov 06, 2026 16:21",
+    "published_at": "2026-11-06T16:21:38Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Sony Revives the Original Walkman Headphones, Adds USB-C",
+    "link": "https://entertainment.slashdot.org/story/26/11/06/0711224/sony-revives-the-original-walkman-headphones-adds-usb-c?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from Ars Technica: Sony has brought back the MDR-3-series headphones that debuted in 1979 alongside the Walkman TPS-L2 cassette player. [...] The new MDR-3R (originally called the \"MDR-3L2\") headphones look just like the originals and come with orange and blue ear cushions. New headphones are often wireless these days, but the MDR-3R continues the wired tradition of the MDR-3, with an essential twist: a USB-C connector. For better or worse, the new headphones also use \"the same 23 mm driver units as the MDR-3 to reproduce sound quality close to the original,\" per Sony. Audiophiles will prefer something more advanced, perhaps with additional acoustic features. In addition to the USB-C connector, the MDR-3R also adds an in-line remote control and an integrated microphone. They are available for $60.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 06, 2026 16:00",
+    "published_at": "2026-11-06T16:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "ESP32-S3 USB dongle adds microphone, IR and hardware security",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368912",
+    "description": "LILYGO has expanded its T-Dongle lineup with the T-Dongle S3 Plus, an ESP32-S3 development board housed in a transparent USB flash-drive enclosure. The device combines a 0.96-inch color display, 16MB flash, 8MB PSRAM, and microSD storage with additional features including a microphone, infrared functionality, and an optional hardware security chip. For context, LILYGO introduced the…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368912",
+    "date": "Nov 06, 2026 15:32",
+    "published_at": "2026-11-06T15:32:05Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Arch Linux vs. CachyOS vs. Omarchy 4.5 Performance Benchmarks",
+    "link": "https://www.phoronix.com/review/cachyos-omarchy-benchmarks",
+    "description": "With CachyOS recently having rolled out its Linux 7.3 based kernel and various other improvements plus with Omarchy 4.5 having been released this week, this article provides a look at how CachyOS and Omarchy are competing on the performance front relative to upstream Arch Linux.",
+    "guid": "https://www.phoronix.com/review/cachyos-omarchy-benchmarks",
+    "date": "Nov 06, 2026 14:55",
+    "published_at": "2026-11-06T14:55:52Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Planet News Roundup",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368913",
+    "description": "This is a roundup of articles from the openSUSE community listed on planet.opensuse.org. This community blog feed aggregator lists the featured highlights below from Oct. 30 - Nov. 5. This week highlights the release of openSUSE Leap 16.1, which unites traditional and immutable installations in one release, six Tumbleweed snapshots…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368913",
+    "date": "Nov 06, 2026 14:14",
+    "published_at": "2026-11-06T14:14:48Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Linux x86 32-bit Patches Clean Old Kernel Code After Recently Removing Vintage CPUs",
+    "link": "https://www.phoronix.com/news/Linux-2026-x86-32-bit-Cleanup",
+    "description": "With the Linux kernel having phased out i486 CPU support and dropping old AMD Elan SoC code along with removing other obsolete and stagnate 32-bit x86 hardware support, some x86 32-bit clean-ups are proceeding along with being able to make the kernel depend unconditionally now on some features...",
+    "guid": "https://www.phoronix.com/news/Linux-2026-x86-32-bit-Cleanup",
+    "date": "Nov 06, 2026 14:11",
+    "published_at": "2026-11-06T14:11:31Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Security updates for Friday",
+    "link": "https://lwn.net/Articles/1105881/",
+    "description": "Security updates have been issued by AlmaLinux (cockpit-files, container-tools:rhel8, delve, gcc-toolset-12-binutils, gimp:2.8, glibc, go-toolset:rhel8, kernel, libfastjson, mariadb:10.3, mod_auth_openidc:2.3, mysql:8.0, php:8.0, pki-core:10.6 and pki-deps:10.6, squid:4, tang, tesseract, thunderbird, and virt:rhel and virt-devel:rhel), Debian (chromium, ntfs-3g, puppet-agent, and trapperkeeper-authorization-clojure), Fedora (freerdp, goose, gpsd, hatch, perl-HTTP-Headers-ActionPack, perl-MIME-tools, perl-Plack, perl-Starman, proftpd, python-mistune, ruby-build, rust-crypto-bigint, rust-ctutils, rust-elliptic-curve, rust-num-bigint, rust-num-bigint0.4, rust-num-modular, rust-num-modular0.6, rust-num-prime, rust-zmij, rust-zstd, rust-zstd-safe, rust-zstd-safe7, rust-zstd-sys, rust-zstd0.13, scribus, sofia-sip, tailscale, tor, and wordpress), Oracle (cockpit-files, delve, firefox, gimp:2.8, kernel, and osbuild-composer), Red Hat (delve, git-lfs, go-toolset:rhel8, grafana, ignition, opentelemetry-collector, osbuild-composer, python-pillow, and yggdrasil), Slackware (openssh), SUSE (bind, brotli, cpupower, expat, fuse-overlayfs, go1.26, google-guest-agent, helm, ibus-typing-booster, kernel, kyverno, libmodplug-devel, librsvg, libX11, nvidia-open-driver-G06-signed, owntone, parted, perl-Cpanel-JSON-XS, perl-Text-CSV_XS, php8, python-Brotli, regclient, roundcubemail, rsyslog, and tomcat), and Ubuntu (ca-certificates, frr, haproxy, linux-nvidia-7.0, linux-nvidia-bos, linux-nvidia-tegra, and nginx).",
+    "guid": "https://lwn.net/Articles/1105881/",
+    "date": "Nov 06, 2026 14:04",
+    "published_at": "2026-11-06T14:04:54Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "FEX Awaits The Linux Kernel To Align With Windows \u0026 macOS On ARM Register Usage",
+    "link": "https://www.phoronix.com/news/FEX-2611-Released",
+    "description": "FEX 2611 is out for running Linux (and Wine) x86/x86_64 games/applications on AArch64 Linux. FEX 2611 brings JIT improvements while also waiting for the Linux kernel to align with the AArch64 specification and Windows on ARM and macOS Apple Silicon behavior around a particular register's usage...",
+    "guid": "https://www.phoronix.com/news/FEX-2611-Released",
+    "date": "Nov 06, 2026 13:12",
+    "published_at": "2026-11-06T13:12:24Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "The past, present and future of office suites",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368915",
+    "description": "Summary The office suite market is large, profitable and growing, and this attracts new entrants: low-cost clones, open-core products and, more recently, suites built largely with artificial intelligence. Most of them compete on price and on native support for OOXML, a format whose evolution remains in practice under Microsoft’s control.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368915",
+    "date": "Nov 06, 2026 13:08",
+    "published_at": "2026-11-06T13:08:00Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Roguefort is an open-world roguelike RPG where magic comes from cheesemaking",
+    "link": "https://www.gamingonlinux.com/2026/11/roguefort-is-an-open-world-roguelike-rpg-where-magic-comes-from-cheesemaking/",
+    "description": "Want some cheese? You're going to need plenty in Roguefort, a new open-world traditional roguelike RPG that has some peculiar ideas.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/11/roguefort-is-an-open-world-roguelike-rpg-where-magic-comes-from-cheesemaking/",
+    "date": "Nov 06, 2026 13:07",
+    "published_at": "2026-11-06T13:07:14Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/38814113id30144gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Kitty 0.50 Picks Up Where You Left Off After a System Restart",
+    "link": "https://feed.itsfoss.com/link/24361/17516546/kitty-0-50-release",
+    "description": "The release also adds docked windows, three new cursor trail shaders, and touchscreen support on Wayland.",
+    "guid": "6aec35f6d42c060001890d23",
+    "date": "Nov 06, 2026 12:17",
+    "published_at": "2026-11-06T12:17:21Z",
+    "image": "https://itsfoss.com/content/images/2026/11/kitty-0-50-release-banner.png",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "EXD - Extra Dimensional adds Steam Frame support with a big update",
+    "link": "https://www.gamingonlinux.com/2026/11/exd-extra-dimensional-adds-steam-frame-support-with-a-big-update/",
+    "description": "Action-adventure VR game EXD - Extra Dimensional recently had a huge upgrade, and with it support for the Steam Frame was added.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/11/exd-extra-dimensional-adds-steam-frame-support-with-a-big-update/",
+    "date": "Nov 06, 2026 11:41",
+    "published_at": "2026-11-06T11:41:17Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/411080329id30143gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Ubuntu Moving Ahead With Plans For Splitting Up Linux-Firmware, HWE Option",
+    "link": "https://www.phoronix.com/news/Ubuntu-Going-With-Firmware-HWE",
+    "description": "A few months back were discussions of a Linux firmware HWE package for Ubuntu to carry updated firmware blobs under the hardware enablement (HWE) umbrella. Plus also splitting up the monolithic linux-firmware package for easing of firmware updates. Those plans didn't materialize in time for the official Ubuntu 26.10 release but are now being pursued for Ubuntu 27.04 and may then be SRU'ed into Ubuntu 26.10 and potentially Ubuntu 26.04 LTS...",
+    "guid": "https://www.phoronix.com/news/Ubuntu-Going-With-Firmware-HWE",
+    "date": "Nov 06, 2026 11:19",
+    "published_at": "2026-11-06T11:19:09Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Star Trek: Infection gets official Steam Frame standalone support",
+    "link": "https://www.gamingonlinux.com/2026/11/star-trek-infection-gets-official-steam-frame-standalone-support/",
+    "description": "Star Trek: Infection gets official Steam Frame standalone support, with the developer bringing over their Meta Quest 3 build with enhancements.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/11/star-trek-infection-gets-official-steam-frame-standalone-support/",
+    "date": "Nov 06, 2026 11:18",
+    "published_at": "2026-11-06T11:18:54Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1625957138id30142gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "mpv 4.20 adds support soft DVD \u0026 Blu-Ray menus, Wayland HDR",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368896",
+    "description": "A new version of mpv, the open-source command line media player is out. mpv v0.42 is now able to navigate DVD menus, and the two menu systems that Blu-ray discs use, HDMV and BD-J (the latter requires Java). DVD-Audio support was also added, a nich format that offers higher-resolution audio. Plus, if you have any .iso backups of DVDs or Blu-ray Discs, mpv 0.42 can play those directly – no need to…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368896",
+    "date": "Nov 06, 2026 11:10",
+    "published_at": "2026-11-06T11:10:50Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Linux Developers Look To Drop RT_GROUP_SCHED As It's \"Broken Beyond Repair\"",
+    "link": "https://www.phoronix.com/news/Linux-Drop-RT_GROUP_SCHED",
+    "description": "Linux kernel developers are looking at dropping the RT_GROUP_SCHED feature that is used for group scheduling of real-time tasks using cgroups...",
+    "guid": "https://www.phoronix.com/news/Linux-Drop-RT_GROUP_SCHED",
+    "date": "Nov 06, 2026 11:09",
+    "published_at": "2026-11-06T11:09:14Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Blue Origin Announces New Glenn Third Stage, New Booster Engine",
+    "link": "https://science.slashdot.org/story/26/11/06/0648255/blue-origin-announces-new-glenn-third-stage-new-booster-engine?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Blue Origin has unveiled a third stage called GS3 for its New Glenn rocket, designed to deliver satellite constellations directly to geostationary orbit and support heavy-lift missions to the Moon and deep space. The company also announced Northstar, a new methalox booster engine that it says produces 715,000 pounds of thrust while cutting mass by 30% and parts by 50% compared with the BE-4. Space.com reports: The new stage will be powered by one BE-7 engine, which the company developed for use on its Blue Moon spacecraft, one of the two private vehicles that NASA selected to be crewed lunar landers for its Artemis program. (The other is SpaceX's Starship.) Blue Moon landing missions won't need to launch on GS3-equipped New Glenn rockets, according to Blue Origin. But the third stage \"can support sustained operations around the moon,\" the company wrote in today's blog post. \"By delivering significant payload mass directly to trans-lunar injection (TLI), GS3 enables faster transit times while preserving propellant for on-orbit operations.\" And there's already demand for such services: Blue Origin also announced today that a government customer (which it did not name) has booked a GS3 mission to cislunar (Earth-moon) space, with launch targeted for 2028.\n \nAnd the company dropped yet more news today -- that it's working on a new first-stage engine, called Northstar. Like Blue Origin's other booster engine, the BE-4, Northstar burns liquid oxygen and liquid methane propellant, a combination known as methalox. But the new engine is more powerful and less complex. \"Compared to the BE-4 engine, Northstar reduces mass by 30% and parts count by 50%, while increasing thrust from 640,000 to 715,000 pounds-force,\" Blue Origin said in a second blog post today. \"Manufacturing advancements have also significantly shortened production timelines, enabling assembly in less than a day.\" Northstar went from program approval to development testing in just 11 months, according to the company. But today's update did not say when the new engine will fly for the first time.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 06, 2026 11:00",
+    "published_at": "2026-11-06T11:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Sound Subsystem Seeing Lots Of Fixes \u0026 Laptop/Device Quirks For Linux 7.4-rc2",
+    "link": "https://www.phoronix.com/news/Linux-7.4-rc2-Sound",
+    "description": "The sound subsystem is seeing a \"unsurprisingly high amount\" fixes and device workarounds/quirks for this weekend's Linux 7.4-rc2 kernel release...",
+    "guid": "https://www.phoronix.com/news/Linux-7.4-rc2-Sound",
+    "date": "Nov 06, 2026 10:58",
+    "published_at": "2026-11-06T10:58:08Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "OpenCV 5.1 Brings More AVX-512 Optimizations, Other Improvements",
+    "link": "https://www.phoronix.com/news/OpenCV-5.1-Released",
+    "description": "OpenCV 5.0 debuted back in June with a rewritten DNN engine and many other exciting improvements for this widely-used computer vision (CV) library. Out today is OpenCV 5.1 with tons of fixes and other incremental improvements to this important code...",
+    "guid": "https://www.phoronix.com/news/OpenCV-5.1-Released",
+    "date": "Nov 06, 2026 10:36",
+    "published_at": "2026-11-06T10:36:58Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Fate of the Galaxy is a big new free Star Wars space combat sim based on FreeSpace Open",
+    "link": "https://www.gamingonlinux.com/2026/11/fate-of-the-galaxy-is-a-big-new-free-star-wars-space-combat-sim-based-on-freespace-open/",
+    "description": "Fate of the Galaxy is a free total conversion for FreeSpace Open developed by a team of fan volunteers, and it looks really impressive.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/11/fate-of-the-galaxy-is-a-big-new-free-star-wars-space-combat-sim-based-on-freespace-open/",
+    "date": "Nov 06, 2026 10:25",
+    "published_at": "2026-11-06T10:25:52Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/827589305id30141gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Alchi, a deck-builder built around a unique card-mixing system adds Linux and macOS versions",
+    "link": "https://www.gamingonlinux.com/2026/11/alchi-a-deck-builder-built-around-a-unique-card-mixing-system-adds-linux-and-macos-versions/",
+    "description": "With some fun looking scribbly artwork, Alchi is a deck-builder for those of you that want something a bit different with the mixing system.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/11/alchi-a-deck-builder-built-around-a-unique-card-mixing-system-adds-linux-and-macos-versions/",
+    "date": "Nov 06, 2026 10:05",
+    "published_at": "2026-11-06T10:05:15Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/401519214id30140gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "How to Install Proton Mail Desktop App on Ubuntu",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368908",
+    "description": "Discover a step-by-step guide to install the Proton Mail Desktop App on Ubuntu and RedHat-based distributions with practical examples.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368908",
+    "date": "Nov 06, 2026 10:04",
+    "published_at": "2026-11-06T10:04:09Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Knives Out-inspired mystery thriller from the Duck Detective devs, 'Apple Crumble' arrives December 2",
+    "link": "https://www.gamingonlinux.com/2026/11/knives-out-inspired-mystery-thriller-from-the-duck-detective-devs-apple-crumble-arrives-december-2/",
+    "description": "Ready for a new mystery thriller adventure? Duck Detective devs next game is a Knives Out-inspired mystery thriller, 'Apple Crumble' set to arrive December 2nd.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/11/knives-out-inspired-mystery-thriller-from-the-duck-detective-devs-apple-crumble-arrives-december-2/",
+    "date": "Nov 06, 2026 09:21",
+    "published_at": "2026-11-06T09:21:01Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1178054181id30139gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "A slot machine is your weapon in the new release of Slots \u0026 Skulls",
+    "link": "https://www.gamingonlinux.com/2026/11/a-slot-machine-is-your-weapon-in-the-new-release-of-slots-skulls/",
+    "description": "A slot machine as a weapon? Well, they can be pretty dangerous to your wallet but in Slots \u0026 Skulls you spin to fight.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/11/a-slot-machine-is-your-weapon-in-the-new-release-of-slots-skulls/",
+    "date": "Nov 06, 2026 08:53",
+    "published_at": "2026-11-06T08:53:13Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1242405238id30138gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "itch.io founder announces the 'return of Flash games' thanks to open source",
+    "link": "https://www.gamingonlinux.com/2026/11/itch-io-founder-announces-the-return-of-flash-games-thanks-to-open-source/",
+    "description": "After dealing with all the AI slop, the founder of itch.io has announced that Flash games are set to make a fun return thanks to open source.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/11/itch-io-founder-announces-the-return-of-flash-games-thanks-to-open-source/",
+    "date": "Nov 06, 2026 08:39",
+    "published_at": "2026-11-06T08:39:43Z",
+    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/itch-logo.jpg",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "EA bring back many classic games to Steam including Road Rash, Wing Commander, Ultima and more",
+    "link": "https://www.gamingonlinux.com/2026/11/ea-bring-back-many-classic-games-to-steam-including-road-rash-wing-commander-ultima-and-more/",
+    "description": "Along with the GOG Showcase that mentioned some revamped classics - EA also restored many classic games and put them on Steam for the first time.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/11/ea-bring-back-many-classic-games-to-steam-including-road-rash-wing-commander-ultima-and-more/",
+    "date": "Nov 06, 2026 08:19",
+    "published_at": "2026-11-06T08:19:49Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1669268822id30136gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Get some great casual games in Hamble's Farming Games Collection Humble Bundle",
+    "link": "https://www.gamingonlinux.com/2026/11/get-some-great-casual-games-in-hambles-farming-games-collection-humble-bundle/",
+    "description": "Love your more sweet and casual games? Check out the brand new Hamble's Farming Games Collection Humble Bundle.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/11/get-some-great-casual-games-in-hambles-farming-games-collection-humble-bundle/",
+    "date": "Nov 06, 2026 08:08",
+    "published_at": "2026-11-06T08:08:52Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1703273235id30135gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Ubuntu Pro is now available on AWS Deep Learning Amazon Machine Images (DLAMI)",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368889",
+    "description": "In September 2026, Amazon Web Services (AWS) published its first DLAMIs built on Ubuntu Pro in the Base GPU family. By choosing Ubuntu Pro, enterprises launching DLAMIs gain a stronger security maintenance posture at launch thanks to Expanded Security Maintenance (ESM). What are the DLAMIs? The DLAMIs are AWS-maintained machine images for GPU and accelerator…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368889",
+    "date": "Nov 06, 2026 07:39",
+    "published_at": "2026-11-06T07:39:46Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "FAA Phases Out Floppy Disks From Air Traffic Control",
+    "link": "https://hardware.slashdot.org/story/26/11/05/2239227/faa-phases-out-floppy-disks-from-air-traffic-control?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "The FAA announced today that it is finally phasing out floppy disks from air traffic control systems at more than 400 facilities. Engadget reports: They'll be replaced by a more modern system called Enterprise -- Information Display System (E-IDS), which is comprised of a digital display for relaying status information, updates and other alerts to air traffic teams. The FAA plans to have E-IDS installed in 435 sites by the end of 2028; the first five locations to receive the upgrades are the Atlantic City International Airport, Nashville International Airport and Greater Rochester International Airport, as well as data processing hubs in Atlanta and Salt Lake City.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 06, 2026 07:00",
+    "published_at": "2026-11-06T07:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "openSUSE Leap 16.1 gives Linux users the right to remain immutable",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368899",
+    "description": "One installer now offers conventional and read-only systems as separate Micro distro bows out",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368899",
+    "date": "Nov 06, 2026 06:29",
+    "published_at": "2026-11-06T06:29:56Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Beginners Guide for History Command in Linux",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368907",
+    "description": "The history command can be used to display a list of commands with event numbers (including date and timestamp) that executed in the past on your Linux system.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368907",
+    "date": "Nov 06, 2026 05:11",
+    "published_at": "2026-11-06T05:11:45Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Passbolt is an Open Source Password Manager Built Specially For Teams",
+    "link": "https://feed.itsfoss.com/link/24361/17516378/passbolt-review",
+    "description": "Passbolt offers both a free self-hosted edition and a managed cloud version of its team focused password management solution.",
+    "guid": "6ae059278bfa1e0001939b19",
+    "date": "Nov 06, 2026 05:00",
+    "published_at": "2026-11-06T05:00:36Z",
+    "image": "https://itsfoss.com/content/images/2026/10/passbolt-banner-1.png",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
     "title": "Ubuntu refreshes time zone data for Canadian clock changes",
     "link": "https://lxer.com/module/newswire/ext_link.php?rid=368906",
     "description": "This time of the year, clocks spring forward and fall back across the globe, but some places are making permanent changes – and Ubuntu needs to keep pace. Over recent weeks, Canonical has refresh Ubuntu’s system time zone database package tzdata on all supported releases to ensure the system reflects the local time in parts of Canada, where: The system needs to show the right time for obvious…",
@@ -157,6 +534,16 @@
     "source_url": "https://slashdot.org/"
   },
   {
+    "title": "Omarchy 4.5 Adds Floating Desktop Mode, Apple Silicon Support",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368875",
+    "description": "Omarchy 4.5 introduces floating workspaces, Apple Silicon support, 50 languages, faster installation, and improved AI integration.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368875",
+    "date": "Nov 05, 2026 18:42",
+    "published_at": "2026-11-05T18:42:31Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
     "title": "A new GOG Galaxy is coming in 2027 with full Linux support",
     "link": "https://www.gamingonlinux.com/2026/11/a-new-gog-galaxy-is-coming-in-2027-with-full-linux-support/",
     "description": "GOG just held their first GOG Showcase, and in it they confirmed that in 2027 we'll see GOG Galaxy fully supported on Linux.Read the full article on GamingOnLinux.",
@@ -190,6 +577,16 @@
     "source_url": "https://slashdot.org/"
   },
   {
+    "title": "OpenAI Finds 948 Local Privilege Escalation Bugs In The Linux Kernel",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368879",
+    "description": "OpenAI published a blog post outlining their work on autonomous vulnerability discovery. To showcase their AI potential, they found 948 valid local privilege escalation vulnerabilities within the Linux kernel…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368879",
+    "date": "Nov 05, 2026 17:24",
+    "published_at": "2026-11-05T17:24:43Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
     "title": "Linux's RAID6 Check Tool Sees 3x Performance Via Batching",
     "link": "https://www.phoronix.com/news/Linux-3x-Faster-raid6check",
     "description": "For those that use Linux's raid6check command for checking/repairing an MD RAID6 software RAID array's device for errors, newly-merged code is showing up to a 3x performance improvement...",
@@ -209,16 +606,6 @@
     "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
     "source": "slashdot.org",
     "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Install Docker and Docker Compose in Linux (Ultimate Guide)",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368866",
-    "description": "In this article, you will learn what Docker and Docker Compose are, their usage and drawbacks, and how to install them in major Linux distributions.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368866",
-    "date": "Nov 05, 2026 16:14",
-    "published_at": "2026-11-05T16:14:59Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
   },
   {
     "title": "Microsoft's Imagine Cup 'Evolves' From Student Competition To AI Startup Contest",
@@ -253,16 +640,6 @@
     "source_url": "https://www.phoronix.com/"
   },
   {
-    "title": "Systemd-Free Artix Linux 2026.11 Is Out with Wayland-Only KDE Plasma Desktop",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368862",
-    "description": "The Artix Linux development team released Artix Linux 2026.11 today as the official ISO refresh for this Arch Linux-based, systemd-free distribution, which features multiple editions and init systems.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368862",
-    "date": "Nov 05, 2026 14:58",
-    "published_at": "2026-11-05T14:58:58Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
     "title": "[$] User namespaces + file capabilities = trouble",
     "link": "https://lwn.net/Articles/1103429/",
     "description": "User namespaces are a key part of the\nkernel's toolkit for assembling containers; processes within a user\nnamespace can appear to have full root access to the system while gaining\nno extra privileges in the wider system.  At least, that is the intent.  In\npractice, keeping privilege contained within a user namespace has often\nturned out to be difficult.  As an example, consider this\nsmall patch series from Josef Bacik, which is intended to address some\nsituations where a process within a user namespace can elevate the\nprivileges of processes outside of it.",
@@ -291,16 +668,6 @@
     "published_at": "2026-11-05T14:11:33Z",
     "source": "phoronix.com",
     "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Critical security vulnerability affects OpenSSH on Alpine Linux systems",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368883",
-    "description": "Version 10.6p2 of OpenSSH has been released with a workaround for a critical vulnerability that affects Linux systems that use musl libc with PAM disabled, such as Alpine Linux. OpenSSH developer Damien Miller said: If you operate a Linux system that uses musl libc without PAM (Alpine Linux is one example) then stop reading and set PasswordAuthentication=no or disable SSH for these systems…",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368883",
-    "date": "Nov 05, 2026 13:53",
-    "published_at": "2026-11-05T13:53:15Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
   },
   {
     "title": "FOSS Weekly #26.45: Fedora 45, Immutable Ubuntu, Mint New Feature, Dual Boot Without USB and More Linux Stuff",
@@ -345,14 +712,14 @@
     "source_url": "https://www.phoronix.com/"
   },
   {
-    "title": "Linux 7.3 Will More Than Likely Be This Year's LTS Kernel",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368835",
-    "description": "While the Linux 7.4 kernel will be released in the 2026 calendar year in the last week or two of December if the schedule holds, it turns out Linux 7.3 is likely to be this year's Long Term Support kernel version…",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368835",
-    "date": "Nov 05, 2026 11:16",
-    "published_at": "2026-11-05T11:16:41Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
+    "title": "Critical security vulnerability affects OpenSSH on Alpine Linux systems",
+    "link": "https://lwn.net/Articles/1105464/",
+    "description": "Version 10.6p2 of\nOpenSSH has been released with a workaround for a critical vulnerability that\naffects Linux systems that use musl libc\nwith PAM disabled, such as Alpine\nLinux. OpenSSH developer Damien Miller said:\n\n\nIf you operate a Linux system that uses musl libc without PAM (Alpine Linux\nis one example) then stop reading and set PasswordAuthentication=no or disable\nSSH for these systems IMMEDIATELY.\n\nThis vulnerability does not exist on non-Linux systems, Linux/glibc systems\nand Linux systems that use PAM for password authentication.\n\nWe consider the root cause of this bug to be outside OpenSSH itself, but\nwe're in a good position to deliver a mitigation quickly.\n\n\nThe Alpine Linux project has announced that\nit will be backporting the OpenSSH fix \"all the way back to Alpine 3.16\",\nwhich was released in May\n2022.",
+    "guid": "https://lwn.net/Articles/1105464/",
+    "date": "Nov 05, 2026 11:39",
+    "published_at": "2026-11-05T11:39:10Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
   },
   {
     "title": "Tripwire Presents expands publishing to focus on support of smaller indie teams",
@@ -376,273 +743,12 @@
     "source_url": "https://www.phoronix.com/"
   },
   {
-    "title": "NASA Announces X-70 Experimental Aircraft to Advance Flight Research",
-    "link": "https://science.slashdot.org/story/26/11/05/0527244/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "NASA has unveiled the X-70 Fractal, a new crewed experimental aircraft \"designed to accelerate the development and testing of advanced aviation technologies.\" From a press release: The crewed X-70 features advanced, rapidly reconfigurable flight-control technology that will allow NASA to explore aircraft maneuverability in ways never before demonstrated in crewed flight. The aircraft can also accommodate up to 2,000 pounds of experimental payloads in internal and external locations, enabling a wide range of research and flight-testing opportunities.\n \nThe X-70 Fractal has a takeoff weight of 10,000 pounds and is designed to cruise at Mach .75, reach altitudes of up to 45,000 feet, and provide an operational range exceeding about 1,726 miles (1,500 nautical miles). These capabilities will enable NASA to conduct demanding flight research across a broad range of operating conditions.\n \nThe X-70 joins a storied legacy of experimental aircraft that have helped establish America's leadership in aviation. From the Bell X-1, which first broke the sound barrier in 1947, to the X-15 hypersonic research aircraft and today's X-59 quiet supersonic demonstrator, NASA has spent decades pushing the boundaries of flight. With the X-70, NASA will expand its capacity to conduct experimental flight research, accelerate the testing of emerging technologies, and advance the next generation of American aviation.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 05, 2026 11:00",
-    "published_at": "2026-11-05T11:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
     "title": "Mesa Merges A Common Vulkan Layer For Working Around Cross-Driver Game Bugs",
     "link": "https://www.phoronix.com/news/Mesa-Common-Layer-Game-Bugs",
     "description": "Merged to Mesa 27.0-devel is a new common Vulkan layer within Mesa's Vulkan Runtime for being able to carry common game/engine/app workarounds that affect multiple drivers...",
     "guid": "https://www.phoronix.com/news/Mesa-Common-Layer-Game-Bugs",
     "date": "Nov 05, 2026 10:47",
     "published_at": "2026-11-05T10:47:28Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "This Overlooked Linux mv Option Replaces Three Commands With One",
-    "link": "https://feed.itsfoss.com/link/24361/17515859/mv-exchange",
-    "description": "Still swapping Linux files with three commands and a temporary filename? The mv command has an option that does it in one step. It works for directories too, with one detail you need to get right.",
-    "guid": "6aec5558d42c060001890dc4",
-    "date": "Nov 05, 2026 10:40",
-    "published_at": "2026-11-05T10:40:11Z",
-    "image": "https://itsfoss.com/content/images/2026/11/mv-exchange.png",
-    "source": "itsfoss.com",
-    "source_url": "https://itsfoss.com/"
-  },
-  {
-    "title": "AMD-Backed Lemonade Local AI Server Ships Redesigned Desktop App \u0026 Web UI",
-    "link": "https://www.phoronix.com/news/Lemonade-2026.45.3",
-    "description": "The AMD-backed Lemonade local AI server shipped its version 2026.45.3 update on Wednesday that introduces a completely redesigned desktop app and web UI...",
-    "guid": "https://www.phoronix.com/news/Lemonade-2026.45.3",
-    "date": "Nov 05, 2026 10:34",
-    "published_at": "2026-11-05T10:34:45Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Omarchy 4.5 Released With Apple Silicon Support, More Desktop Customizations",
-    "link": "https://www.phoronix.com/news/Omarchy-4.5-Released",
-    "description": "Omarchy 4.5 is out today as a big feature update to this Arch Linux based operating system...",
-    "guid": "https://www.phoronix.com/news/Omarchy-4.5-Released",
-    "date": "Nov 05, 2026 10:23",
-    "published_at": "2026-11-05T10:23:50Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "OpenAI Finds 948 Local Privilege Escalation Bugs In The Linux Kernel",
-    "link": "https://www.phoronix.com/news/OpenAI-948-Linux-LPE-Bugs",
-    "description": "OpenAI published a blog post outlining their work on autonomous vulnerability discovery. To showcase their AI potential, they found 948 valid local privilege escalation vulnerabilities within the Linux kernel...",
-    "guid": "https://www.phoronix.com/news/OpenAI-948-Linux-LPE-Bugs",
-    "date": "Nov 05, 2026 10:00",
-    "published_at": "2026-11-05T10:00:58Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Ubuntu users say Canonical “asleep at the wheel” over critical Linux kernel bug",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368860",
-    "description": "Canonical is fixing a critical Linux kernel flaw in Ubuntu, weeks after Debian and other distros did – and users aren’t happy about the wait. As of 3 November, patched kernels for CVE-2026-98432 are in testing for Ubuntu 22.04, 24.04 and 26.04 LTS, but are yet to hit the stable updates pocket. Canonical hasn’t given a date for when it expects them to. 9.8 CVE on Linux servers since 2016 The CVE…",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368860",
-    "date": "Nov 05, 2026 09:45",
-    "published_at": "2026-11-05T09:45:18Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Pillars of Eternity and Pillars of Eternity II: Deadfire get major updates with controller support in Beta",
-    "link": "https://www.gamingonlinux.com/2026/11/pillars-of-eternity-and-pillars-of-eternity-ii-deadfire-get-major-updates-with-controller-support-in-beta/",
-    "description": "Obsidian Entertainment are again revamping some older games with both Pillars of Eternity and Pillars of Eternity II: Deadfire getting controller support.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/11/pillars-of-eternity-and-pillars-of-eternity-ii-deadfire-get-major-updates-with-controller-support-in-beta/",
-    "date": "Nov 05, 2026 09:27",
-    "published_at": "2026-11-05T09:27:46Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1083985414id30130gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Build a safari park, clone animals, then watch it go wrong in Captain Contraption's Safari Park",
-    "link": "https://www.gamingonlinux.com/2026/11/build-a-safari-park-clone-animals-then-watch-it-go-wrong-in-captain-contraptions-safari-park/",
-    "description": "From Pill Bug Interactive (Captain Contraption's Chocolate Factory) is a new chaotic roguelite building management sim with Captain Contraption's Safari Park.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/11/build-a-safari-park-clone-animals-then-watch-it-go-wrong-in-captain-contraptions-safari-park/",
-    "date": "Nov 05, 2026 09:03",
-    "published_at": "2026-11-05T09:03:03Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/866627514id30129gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "I Wanna Be a Supernova is a sweet upcoming casual incremental about devouring celestial bodies",
-    "link": "https://www.gamingonlinux.com/2026/11/i-wanna-be-a-supernova-is-a-sweet-upcoming-casual-incremental-about-devouring-celestial-bodies/",
-    "description": "Build your own sky and swallow every star you can find in I Wanna Be a Supernova, an upcoming casual incremental game that looks really sweet.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/11/i-wanna-be-a-supernova-is-a-sweet-upcoming-casual-incremental-about-devouring-celestial-bodies/",
-    "date": "Nov 05, 2026 08:55",
-    "published_at": "2026-11-05T08:55:41Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1231830490id30128gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "The LEGO-like co-op pirate roguelite Sink My Bricks! looks like chaotic fun",
-    "link": "https://www.gamingonlinux.com/2026/11/the-lego-like-co-op-pirate-roguelite-sink-my-bricks-looks-like-chaotic-fun/",
-    "description": "Everything looks like it's made out of LEGO-styled bricks in the co-op pirate roguelite Sink My Bricks!Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/11/the-lego-like-co-op-pirate-roguelite-sink-my-bricks-looks-like-chaotic-fun/",
-    "date": "Nov 05, 2026 08:43",
-    "published_at": "2026-11-05T08:43:00Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/125194919id30127gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Best System Monitors for Linux in 2026: What to Use and Why",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368859",
-    "description": "top, htop, btop, Glances, Netdata. Which Linux system monitor is worth installing? We compare features, resource use, and the best use case for each.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368859",
-    "date": "Nov 05, 2026 08:18",
-    "published_at": "2026-11-05T08:18:14Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "UK moving towards banning chat in games for under 16s",
-    "link": "https://www.gamingonlinux.com/2026/11/uk-moving-towards-banning-chat-in-games-for-under-16s/",
-    "description": "The UK Online Safety Act expands next year to ban social media for under 16s, but the government plans to expand it even further to target video game chat too.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/11/uk-moving-towards-banning-chat-in-games-for-under-16s/",
-    "date": "Nov 05, 2026 08:11",
-    "published_at": "2026-11-05T08:11:46Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/539942353id30126gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "3M To Pay Over $7 Billion To Settle 'Forever Chemical' Groundwater Claims",
-    "link": "https://yro.slashdot.org/story/26/11/05/052220/3m-to-pay-over-7-billion-to-settle-forever-chemical-groundwater-claims?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "3M has agreed to pay up to $7.35 billion over nine years to settle claims from as many as 120,000 people who say they were sickened by PFAS-contaminated groundwater near military bases, airports and other locations where firefighting foam was used. The Associated Press reports that 3M \"did not admit liability,\" noting that the settlement comes on top of the more than $10 billion the company previously agreed to pay U.S. public drinking water systems over PFAS contamination. From the report: 3M chairman William Brown called the settlement a \"significant milestone\" that substantially reduces uncertainty from the litigation. [...] Fred Thompson, an attorney with the Motley Rice law firm that helped negotiate the 3M settlement for the plaintiffs, called it welcome news for \"the thousands of victims who have sought answers and accountability for nearly a decade.\" He said in a news release that the plaintiffs urgently need help covering mounting medical bills and other costs.\n \nUnder the terms of the settlement, the payouts will begin with $50 million this year, followed by yearly payments of more than $1 billion each year from 2028 to 2033. 3M could make additional payments if enough plaintiffs participate. If too few sign on, 3M has the option to cancel the settlement and continue fighting the lawsuit.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 05, 2026 07:00",
-    "published_at": "2026-11-05T07:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Two weeks on: what happened to October's critical vulnerabilities",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368857",
-    "description": "Which of PHP2Shell, Node2Shell, Plex2Shell, the CVSS 10 GitLab bug and eMudhra’s CA keys are exploited in the wild, what’s fixed, and what’s still open.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368857",
-    "date": "Nov 05, 2026 06:39",
-    "published_at": "2026-11-05T06:39:40Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Debian's APT Affected By Man-In-The-Middle Attack For Arbitrary Code Execution As Root",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368834",
-    "description": "A new vulnerability was disclosed today affecting Debian's APT package manager where a man-in-the-middle attacker could carry out arbitrary code execution as root…",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368834",
-    "date": "Nov 05, 2026 05:13",
-    "published_at": "2026-11-05T05:13:37Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Schools That Say No to Google’s AI Will Be Saying Goodbye to its Search Too",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368849",
-    "description": "Meanwhile, schools in six German states can choose an open source cloud solution.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368849",
-    "date": "Nov 05, 2026 03:45",
-    "published_at": "2026-11-05T03:45:51Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Vietnam Jails Pirate Football Streamers For Up To a Year",
-    "link": "https://yro.slashdot.org/story/26/11/05/0322258/vietnam-jails-pirate-football-streamers-for-up-to-a-year?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "An anonymous reader quotes a report from TorrentFreak: A Vietnamese court has sentenced 14 people who worked on the pirate football streaming site Bun Cha TV, handing out the first prison terms we've seen since the country's piracy crackdown began earlier this year. [...] Four defendants, including the heads of the content, programming and operations teams, were sentenced to 12 months in prison. Five others received ten months, and two were sentenced to eight months. Notably, three of the site's commentators were not sent to prison. Their ten-month sentences were suspended. All 14 defendants reportedly admitted the charges and cooperated with the authorities. According to investigators, Bun Cha TV streamed more than 150,000 sports matches and it allegedly made more than 20 billion dong, roughly $760,000, in illegal profits from betting and gambling ads.\n \nThe verdict reports don't mention a total. Instead, they list illegal gains per person or team. The leader of the content team allegedly gained more than 430 million dong, while commentators made from more than 31 million to more than 480 million dong each. The verdict was picked up by Rouse, the law firm that represents the Motion Picture Association in Vietnam. In an article headlined \"Strong Vietnam criminal penalties,\" published on Lexology on November 3, the firm calls the ruling another victory for Vietnam's IP landscape.\n \n\"The defendants were all sentenced to terms of 8-12 months in prison,\" Rouse writes. While Rouse is correct on the length of the terms, it doesn't mention that three of the sentences were suspended. Instead, Rouse stresses that the ruling is part of a tougher enforcement trend. \"This ruling reflects a shift in enforcement strategy by Vietnamese authorities, who are increasingly moving past preliminary domain blocking to deliver criminal convictions against the operators of commercial-scale piracy rings,\" the firm notes. \"This perhaps reflects the strength of the national crackdown following the USTR pressure in May,\" the firm adds. According to the indictment, Bui Ba Hien, who runs a company called S24, allegedly directed employees and collaborators to build and operate Bun Cha TV. However, Hien is not among the 14 defendants named in reports, which also do not identify the affected rightsholders.\n \n\"Interestingly, in September, Bac Ninh police issued a wanted notice for a man of the same name, Bui Ba Hien, CEO of esports company Box Vietnam,\" reports TorrentFreak. \"This person is also charged under the same copyright statute.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 05, 2026 03:30",
-    "published_at": "2026-11-05T03:30:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "openSUSE Leap 16.1 Unifies Traditional and Immutable Linux With Transactional Updates",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368848",
-    "description": "The openSUSE Project has officially released openSUSE Leap 16.1, introducing a major change to how the distribution can be installed, maintained, and deployed. Released on November 3, 2026, the update brings an integrated Immutable Mode that allows users to install a transactionally updated operating system with a read-only root filesystem, while continuing to offer the traditional Linux…",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368848",
-    "date": "Nov 05, 2026 02:12",
-    "published_at": "2026-11-05T02:12:53Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "MPV 0.42 Media Player Brings Wayland Improvements, Improved HDR",
-    "link": "https://www.phoronix.com/news/MPV-0.42-Released",
-    "description": "MPV as the open-source, cross-platform media player originally based on MPlayer/mplayer2 is finally out with a new release...",
-    "guid": "https://www.phoronix.com/news/MPV-0.42-Released",
-    "date": "Nov 05, 2026 01:44",
-    "published_at": "2026-11-05T01:44:08Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "LXQt 2.5 Released With Enhanced QTerminal, Removing The Final LXDE Dependency",
-    "link": "https://www.phoronix.com/news/LXQt-2.5-Released",
-    "description": "LXQt 2.5 released today as the newest feature update to this lightweight, Qt6-based desktop environment...",
-    "guid": "https://www.phoronix.com/news/LXQt-2.5-Released",
-    "date": "Nov 05, 2026 01:21",
-    "published_at": "2026-11-05T01:21:30Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "[$] LWN.net Weekly Edition for November 5, 2026",
-    "link": "https://lwn.net/Articles/1103480/",
-    "description": "Inside this week's LWN.net Weekly Edition:\n        \n        \n Front: Kernel cells; Debian LLM reviews; glibc system-call wrappers; Binder in Rust; Kernel CVE flood; Fedora KDE and X11 removal; 7.4 merge window part two; Portable Python.\n             Briefs: MTCP RCE; Bash security; XCPE botnet; Bazzite 45; Fedora 45; openSUSE Leap 16.1; Tor Browser 16.0; Quotes; ...\n             Announcements: Newsletters, conferences, security updates, patches, and more.\n            ",
-    "guid": "https://lwn.net/Articles/1103480/",
-    "date": "Nov 05, 2026 00:42",
-    "published_at": "2026-11-05T00:42:51Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "Axon Sued Over AI-Powered License Plate Reader Network",
-    "link": "https://yro.slashdot.org/story/26/11/04/2319208/axon-sued-over-ai-powered-license-plate-reader-network?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Axon has been sued in a proposed class action accusing the Taser and police body-camera maker of illegally collecting and storing license plate data on millions of California drivers through its AI-powered surveillance network. Reuters reports the details: - The lawsuit (PDF), filed on Tuesday in federal court in San Francisco by law firms Hausfeld and Gibbs Mura, alleges Axon has failed to comply with a California privacy provision by not disclosing how it collects, uses and shares plate data gathered through its camera systems\n- \"Axon has created a mass-surveillance infrastructure that is practically impossible to avoid,\" the lawsuit said\n- Scottsdale, Arizona-based Axon did not immediately respond to a request for comment. The lawsuit said the company has more than 1,000 cameras in California and alleges millions of drivers may have been affected\n- Some Axon cameras are installed in high-traffic areas and collect plate information as vehicles pass by. Other cameras are placed inside police vehicles, the lawsuit said\n- The proposed class covers drivers whose vehicle plate information was captured by an automated license plate reader in California and processed or stored by Axon's system since 2023\n- The lawsuit seeks more than $5 million in damages, in addition to a court order stopping Axon from its allegedly unlawful practices\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 05, 2026 00:00",
-    "published_at": "2026-11-05T00:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "OpenAI Says ChatGPT Is Catching Up to Google In Search",
-    "link": "https://tech.slashdot.org/story/26/11/04/207222/openai-says-chatgpt-is-catching-up-to-google-in-search?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Adam Fry, OpenAI's consumer product lead for ChatGPT, says the number of searches performed through ChatGPT has grown to roughly 20% of Google's search volume. The company defines a search as a ChatGPT query that triggers a web search, suggesting the chatbot is becoming an increasingly significant competitor to traditional search engines. The Verge reports: Having one-fifth as many searches as Google is still a long way from overtaking it, but for comparison, Microsoft CEO Satya Nadella said during Google's 2023 antitrust trial that Bing had about 3 percent of the search engine market share after trying for more than a decade. During the trial, Google described AI as a potential disruptor, arguing ChatGPT was poised to seriously compete with it -- now, OpenAI seems to agree. (OpenAI likely uses Microsoft Bing for a significant part of its searches, along with its in-house search index, although there is still some speculation that it routes some queries through Google.) As for ads, which OpenAI started testing earlier this year, Fry said they haven't produced a lasting backlash. \"Ads have not negatively impacted the product or the usage of the product,\" he said, adding that \"most people do not seem to mind ads in the product.\"\n \nLast month, OpenAI announced plans to introduce images of sponsored products and services in ChatGPT.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 04, 2026 23:00",
-    "published_at": "2026-11-04T23:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "LZ4 1.11 Introduces Multi-Threaded Compression For liblz4, Other Performance Gains",
-    "link": "https://www.phoronix.com/news/LZ4-1.11-Released",
-    "description": "For those making use of the LZ4 extremely fast compression algorithm, LZ4 1.11 released today and brings multi-threaded compression support to its library (liblz4)...",
-    "guid": "https://www.phoronix.com/news/LZ4-1.11-Released",
-    "date": "Nov 04, 2026 21:53",
-    "published_at": "2026-11-04T21:53:33Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "NVIDIA CUDA 13.5 Released With Production Support For Vera Rubin",
-    "link": "https://www.phoronix.com/news/NVIDIA-CUDA-13.5",
-    "description": "Along with today's release of the NVIDIA 620.70.06 Linux driver, NVIDIA also released CUDA 13.5 that brings general availability (GA) support for Vera Rubin...",
-    "guid": "https://www.phoronix.com/news/NVIDIA-CUDA-13.5",
-    "date": "Nov 04, 2026 21:11",
-    "published_at": "2026-11-04T21:11:41Z",
     "source": "phoronix.com",
     "source_url": "https://www.phoronix.com/"
   }
