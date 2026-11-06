@@ -1,5 +1,151 @@
 [
   {
+    "title": "Ubuntu refreshes time zone data for Canadian clock changes",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368906",
+    "description": "This time of the year, clocks spring forward and fall back across the globe, but some places are making permanent changes – and Ubuntu needs to keep pace. Over recent weeks, Canonical has refresh Ubuntu’s system time zone database package tzdata on all supported releases to ensure the system reflects the local time in parts of Canada, where: The system needs to show the right time for obvious…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368906",
+    "date": "Nov 06, 2026 04:06",
+    "published_at": "2026-11-06T04:06:57Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "The Great Pacific Garbage Patch Is Changing the Color of the Ocean",
+    "link": "https://news.slashdot.org/story/26/11/05/2236227/the-great-pacific-garbage-patch-is-changing-the-color-of-the-ocean?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from Scientific American: The Great Pacific Garbage Patch, an area in the Pacific Ocean where debris naturally accumulates, is full of tiny bits of plastic -- so full, in fact, that it seems to be changing the color of the ocean. [...] To better understand how microplastics may have influenced the ocean's color, [Daniel Koestner, a postdoctoral fellow at the University of Bergen in Norway] and his colleagues looked at 20 years of satellite data from the spot in the ocean with perhaps the most of plastic -- the Great Pacific Garbage Patch, a zone between Hawaii and California where trash trapped by ocean currents accumulates.\n \nBetween 2002 and 2022, the researchers found, waters near the garbage patch have gotten brighter in both blue and green wavelengths compared with surrounding areas. The results, published in the journal Communications Earth \u0026 Environment on Thursday, don't yet prove that microplastics have directly brightened the ocean, the researchers emphasize, though their findings are backed up by lab experiments with microplastics. But without taking direct ocean samples, it's hard to know for sure what's causing the ocean's color to change.\n\"We're still one step away from proving definitively that microplastics are causing the shift in color that that we're seeing,\" adds study co-author Shea Cheatham, a Ph.D. student also at the University of Bergen. \"We just have to get in there [to the garbage patch] to verify.\"\n \nThe hope is that detecting these color shifts could help identify other areas around the world where microplastics have accumulated.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 06, 2026 03:30",
+    "published_at": "2026-11-06T03:30:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "OpenVPN 2.7.9 Released with Linux and GUI Improvements, Bug Fixes",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368901",
+    "description": "The OpenVPN project released OpenVPN 2.7.9 today as the ninth maintenance update to the latest OpenVPN 2.7 series of this open-source software for connecting to virtual private networks (VPN).",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368901",
+    "date": "Nov 06, 2026 01:41",
+    "published_at": "2026-11-06T01:41:39Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "OpenSSH 10.6p2 Released to Fix Critical Password Authentication Bypass",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368902",
+    "description": "OpenSSH 10.6p2 fixes a critical password authentication bypass affecting certain Linux systems and includes several additional bug fixes.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368902",
+    "date": "Nov 06, 2026 00:29",
+    "published_at": "2026-11-06T00:29:10Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Applebee's Exposed Customers' Personal Data After Leaving Database Password In App",
+    "link": "https://yro.slashdot.org/story/26/11/05/2230215/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Joe_Dragon shares a report from TechCrunch: Applebee's has fixed a security flaw that allowed anyone to access the personal information of its registered customers, after a researcher found a password for an internal database inside Applebee's mobile app, TechCrunch has learned. The popular restaurant chain confirmed [last Thursday] that it had taken action to address the security issue to prevent any unauthorized access to its customer database. [...] The exposed database contained customer names, email addresses (including whether or not the customer verified their email), dates of birth, phone numbers, and ZIP codes. The data also included veteran status, the number of times customers had logged in, when their accounts were created, and the IP addresses of their most recent log-ins, which can be used to reveal the person's approximate location.\n \n[...] When asked by TechCrunch, the spokesperson would not say if the company has server logs that it can review to determine whether anyone accessed the database, or if it has any logs at all. \"Our investigation is ongoing, and we will take appropriate steps based on our findings,\" the company added. It's unclear how many customers were affected by the data exposure. [...] Applebee's had at least 8.5 million customers enrolled in its rewards program as of last year, though the company would not provide a number of how many customers had their personal information exposed by this security flaw.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 06, 2026 00:00",
+    "published_at": "2026-11-06T00:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "October’s Critical CVEs, Two Weeks On",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368903",
+    "description": "Which of PHP2Shell, Node2Shell, Plex2Shell, the CVSS 10 GitLab bug and eMudhra’s CA keys are exploited in the wild, what’s fixed, and what’s still open.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368903",
+    "date": "Nov 05, 2026 23:21",
+    "published_at": "2026-11-05T23:21:21Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "OpenAI Responds to US Midterm Elections With New Commitment to Communities",
+    "link": "https://politics.slashdot.org/story/26/11/05/2150249/openai-responds-to-us-midterm-elections-with-new-commitment-to-communities?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "\"OpenAI has published a new National Community Compact and Compute Campus Policy Blueprint, apparently in response to the Blue Wave Midterm Elections,\" writes ancient Slashdot reader Gilmoure. \"Instead of moving into communities like a juggernaut, they say they will be dangling friendly carrots going forward.\" Here's an excerpt from OpenAI's article: Every future compute campus OpenAI owns and operates will have its own local compact. We'll engage residents early enough to ensure their input shapes project plans, give them a local point of contact throughout the life of the campus, and report publicly each year on how we're doing. Each compact will reflect local priorities and include a common set of commitments:\n \n - Pay our own way on energy and infrastructure. We'll pay the full cost of the electricity we use and the infrastructure needed to serve us. Before major spending begins, we'll provide financial assurances so other customers are protected if a project is delayed, reduced, or canceled.\n - Protect local resources and report on our impact. We'll develop a water plan for each campus, prioritize closed-loop or low-water cooling, and publish site-level water and electricity use. We'll publish construction plans and independent noise studies before operations begin and annually afterward. And we will not use non-disclosure agreements (NDAs) with public officials, allowing only narrow protections covering legitimate security information, trade secrets, or proprietary or competitively sensitive information.\n - Create opportunities for local workers and businesses. We'll publish the jobs we expect to create, work with unions and training providers to help residents prepare for them, and report annually on hiring and apprenticeships. We'll also make sustained investments in priorities residents help select.\n \n[...] The investments that help America compete globally can also help communities prosper locally. That starts with giving residents a say while plans can still change and a way to hold developers accountable for delivering on their commitments. That's what we're committing to at the campuses we own and operate, and what we believe people should be able to count on wherever AI infrastructure is built across the country.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 05, 2026 23:00",
+    "published_at": "2026-11-05T23:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Systemd Wants Rust in, But its Core Will Have to Wait",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368876",
+    "description": "The rustification is ongoing, with Rust-written programs now allowed and existing C code not being ported.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368876",
+    "date": "Nov 05, 2026 22:14",
+    "published_at": "2026-11-05T22:14:20Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "AMDGPU Driver Seeing HDMI 2.2 FRL Fixes For Linux 7.4",
+    "link": "https://www.phoronix.com/news/AMDGPU-HDMI-2.2-FRL-Fixes",
+    "description": "With Linux 7.4 the AMDGPU driver enables HDMI 2.1 FRL functionality by default for driving higher refresh rate and higher resolution displays. That default enabling comes as HDMI FreeSync/VRR and ALLM features are also in place for Linux 7.4. Now coming by way of fixes for Linux 7.4 is also improving the Fixed Rate Link support with the newer HDMI 2.2 specification...",
+    "guid": "https://www.phoronix.com/news/AMDGPU-HDMI-2.2-FRL-Fixes",
+    "date": "Nov 05, 2026 22:07",
+    "published_at": "2026-11-05T22:07:00Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "OpenSSH Flaw Lets Attackers Log Into Password-Disabled Linux Accounts",
+    "link": "https://it.slashdot.org/story/26/11/05/2140208/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "A newly disclosed OpenSSH flaw dubbed \"*sshole\" can allow attackers to log in to password-disabled accounts on certain musl-based Linux systems simply by submitting a password longer than 256 bytes. \"Apparently certain varieties of musl Linux (Alpine, OpenWrt, Buildroot, Yocto, etc.) have had this OpenSSH vulnerability for about a decade,\" writes longtime Slashdot reader AlteredEgg. \"Upgrade now!\" BleepingComputer reports: Security researcher Ozgun Kultekin, who discovered and released details on the vulnerability today, says the flaw has existed since 2016 and stems from how OpenSSH handles password verification errors on systems using the musl C library. Linux accounts can be configured to prevent password logins by replacing their password hash with an asterisk (*) in the /etc/shadow file. Because this is not a valid password hash, no password should allow access to those accounts. However, a patch introduced in OpenSSH in 2016 to fix a username enumeration vulnerability tracked as CVE-2016-6210 changed how OpenSSH handled accounts without usable password hashes.\n \nTo prevent attackers from identifying valid usernames through different response times, OpenSSH was modified to perform password hashing even when an account had no usable password hash, including accounts configured with * to block password logins. The problem is that the musl C library's crypt() function also returns * when password hashing fails, including when a submitted password exceeds its 256-byte limit. This means an attacker can submit an oversized password and cause OpenSSH to compare the returned * against the account's stored *, resulting in a successful login.\n \nTo be clear, the flaw does not allow attackers to bypass passwords on accounts with valid password hashes. [...] Admins who can't immediately install the update can mitigate the issue by turning off SSH password authentication with PasswordAuthentication no in their SSH server configuration and restarting SSH. Kultekin says admins can also check for signs of exploitation by examining SSH authentication logs for password-based logins for accounts that should not allow them.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 05, 2026 22:00",
+    "published_at": "2026-11-05T22:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Linux 7.4's Build Time Performance From Optimizations But Also Larger Codebase",
+    "link": "https://www.phoronix.com/news/Linux-7.4-rc1-Build-Times",
+    "description": "With Linux 7.4 the patches to speed-up the kernel build process began to land. This is the work that's yielded extremely fast incremental builds and noop builds. The patch series in full is also allowing kernel build times approaching just ten seconds with enough CPU cores. In today's article is a look at the Linux 7.3 vs. 7.4-rc1 build time performance on the Framework Laptop 13 Pro powered by Intel Panther Lake...",
+    "guid": "https://www.phoronix.com/news/Linux-7.4-rc1-Build-Times",
+    "date": "Nov 05, 2026 21:44",
+    "published_at": "2026-11-05T21:44:05Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Apple Is Putting Employees On an AI Budget",
+    "link": "https://apple.slashdot.org/story/26/11/05/203200/apple-is-putting-employees-on-an-ai-budget?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "According to Bloomberg, Apple is cutting employee AI spending limits to reduce costs, lowering some engineers from $300 to $200 per day and considering limits as low as $100, with some teams capped at $25. Employees are also being encouraged to use cheaper models or on-device AI. MacRumors reports: Engineers at Apple have the largest budgets because using AI for coding can consume a large number of tokens. Apple lets employees use Claude, ChatGPT, Gemini, and other models. Some Apple employees told Bloomberg that few were using their full $300 daily limit, so the savings may be small. Apple has also hired outside productivity consultants for some divisions. Combined with the AI cost cuts, the reviews have fueled worries about possible restructuring.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 05, 2026 21:00",
+    "published_at": "2026-11-05T21:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Want to Rent an Internet Address at the White House?",
+    "link": "https://it.slashdot.org/story/26/11/05/1924217/want-to-rent-an-internet-address-at-the-white-house?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Longtime Slashdot reader bbsguru shares a report from KrebsOnSecurity: Several staffers at the White House are using computers or mobile devices equipped with residential proxy services that render their internet address available for others to rent, security experts warned today. One of the proxy services is a Russian company whose founder's web hosting business was ground zero for cyberattacks against election systems in Arizona and Illinois in 2016. The security firm Layer3 Intel said it detected multiple residential proxy nodes beaconing out from the internet address network reserved for the Executive Office of the President (AS2650). Layer3 said the proxy activity was relatively persistent between October 5 to November 3, and that a review of the proxies available from AS2650 showed they exited from the White House network 236 times during that period.\n \nThe proxy tracking company Synthient said on Twitter/X that the activity it saw coming from AS2650 was related to multiple Windows 11 installations of a service called Infatica, a proxy program that is often integrated into \"free\" mobile and desktop applications. Infatica's founder Vladimir Fomenko is a Russian man whose hosting firm King Servers was home to six of the eight internet addresses used by Russia's state security services to compromise databases for election systems in Arizona and Illinois in 2016. [...] Layer3 Intel said the proxy exit nodes at the White House came from six internet addresses, on 26 of the 30 days, and that most of the activity happens in the evening, between 5 p.m. and midnight. Incredibly, Infatica was not the only proxy service that reportedly has been reselling access to White House internet addresses: Layer3 Intel said it found 28 separate residential proxy services were able to exit through this network. \"This is public access,\" the Layer3 Intel team wrote. \"Anybody can obtain it by signing up to a public residential proxy service, paying a few dollars and sending requests through it. We did not selectively target this network or try to make our probes exit from it. We caught this by chance, simply by requesting global rotating access through these services.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 05, 2026 20:00",
+    "published_at": "2026-11-05T20:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Panther Lake joins AAEON’s Pico-ITX SBC lineup",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368871",
+    "description": "Measuring just 100 × 72mm, the PICO-PTH4 is described by AAEON as the world’s first Pico-ITX SBC powered by Intel Core Ultra Series 3 processors (Panther Lake). The board supports up to 32GB of LPDDR5X memory, PCIe 5.0 NVMe storage, dual 2.5GbE, and Ubuntu, with up to 180 TOPS of combined AI performance. The PICO-PTH4…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368871",
+    "date": "Nov 05, 2026 19:47",
+    "published_at": "2026-11-05T19:47:38Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
     "title": "Discord Is Ditching Electron For Rust",
     "link": "https://tech.slashdot.org/story/26/11/05/193239/discord-is-ditching-electron-for-rust?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
     "description": "Discord is replacing Electron with a desktop client built fully in Rust, which the company says should significantly reduce the app's notoriously high resource usage while improving performance and memory safety. \"We've been early adopters of Rust since 2018 and a lot of our infra, voice tech, and even some of the current client is already Rust, the holy grail was getting the whole client there,\" explains Discord chief technology officer Stanislav Vishnevskiy in a post on X. \"That means Electron goes away, and so does React Native, mobile keeps native UI but shares app code with desktop via Rust.\" The Verge reports: Vishnevskiy also shared an image of the Discord Windows client using just 290MB of RAM, which is a clear improvement as you only have to participate in a few servers and RAM usage can easily hit 1GB or more using the current Windows app. It's not clear when Discord will make the full switch over to Rust, but Vishnevskiy says the company \"hope to get it into testing with users soon.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
@@ -147,6 +293,16 @@
     "source_url": "https://www.phoronix.com/"
   },
   {
+    "title": "Critical security vulnerability affects OpenSSH on Alpine Linux systems",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368883",
+    "description": "Version 10.6p2 of OpenSSH has been released with a workaround for a critical vulnerability that affects Linux systems that use musl libc with PAM disabled, such as Alpine Linux. OpenSSH developer Damien Miller said: If you operate a Linux system that uses musl libc without PAM (Alpine Linux is one example) then stop reading and set PasswordAuthentication=no or disable SSH for these systems…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368883",
+    "date": "Nov 05, 2026 13:53",
+    "published_at": "2026-11-05T13:53:15Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
     "title": "FOSS Weekly #26.45: Fedora 45, Immutable Ubuntu, Mint New Feature, Dual Boot Without USB and More Linux Stuff",
     "link": "https://feed.itsfoss.com/link/24361/17515970/foss-weekly-26-45",
     "description": "Fedora 45 is finally here as Mint gears up for the next release with new features. Stay updated with the latest FOSS Weekly newsletter.",
@@ -189,14 +345,14 @@
     "source_url": "https://www.phoronix.com/"
   },
   {
-    "title": "Critical security vulnerability affects OpenSSH on Alpine Linux systems",
-    "link": "https://lwn.net/Articles/1105464/",
-    "description": "Version 10.6p2 of\nOpenSSH has been released with a workaround for a critical vulnerability that\naffects Linux systems that use musl libc\nwith PAM disabled, such as Alpine\nLinux. OpenSSH developer Damien Miller said:\n\n\nIf you operate a Linux system that uses musl libc without PAM (Alpine Linux\nis one example) then stop reading and set PasswordAuthentication=no or disable\nSSH for these systems IMMEDIATELY.\n\nThis vulnerability does not exist on non-Linux systems, Linux/glibc systems\nand Linux systems that use PAM for password authentication.\n\nWe consider the root cause of this bug to be outside OpenSSH itself, but\nwe're in a good position to deliver a mitigation quickly.\n\n\nThe Alpine Linux project has announced that\nit will be backporting the OpenSSH fix \"all the way back to Alpine 3.16\",\nwhich was released in May\n2022.",
-    "guid": "https://lwn.net/Articles/1105464/",
-    "date": "Nov 05, 2026 11:39",
-    "published_at": "2026-11-05T11:39:10Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
+    "title": "Linux 7.3 Will More Than Likely Be This Year's LTS Kernel",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368835",
+    "description": "While the Linux 7.4 kernel will be released in the 2026 calendar year in the last week or two of December if the schedule holds, it turns out Linux 7.3 is likely to be this year's Long Term Support kernel version…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368835",
+    "date": "Nov 05, 2026 11:16",
+    "published_at": "2026-11-05T11:16:41Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
   },
   {
     "title": "Tripwire Presents expands publishing to focus on support of smaller indie teams",
@@ -270,17 +426,6 @@
     "published_at": "2026-11-05T10:23:50Z",
     "source": "phoronix.com",
     "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Systemd Wants Rust in, But its Core Will Have to Wait",
-    "link": "https://feed.itsfoss.com/link/24361/17515808/systemd-rust-support",
-    "description": "The rustification is ongoing, with Rust-written programs now allowed and existing C code not being ported.",
-    "guid": "6aec18e1d42c060001890c4c",
-    "date": "Nov 05, 2026 10:12",
-    "published_at": "2026-11-05T10:12:32Z",
-    "image": "https://itsfoss.com/content/images/2026/11/systemd-rust-banner.png",
-    "source": "itsfoss.com",
-    "source_url": "https://itsfoss.com/"
   },
   {
     "title": "OpenAI Finds 948 Local Privilege Escalation Bugs In The Linux Kernel",
@@ -389,6 +534,16 @@
     "source_url": "https://lxer.com/"
   },
   {
+    "title": "Debian's APT Affected By Man-In-The-Middle Attack For Arbitrary Code Execution As Root",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368834",
+    "description": "A new vulnerability was disclosed today affecting Debian's APT package manager where a man-in-the-middle attacker could carry out arbitrary code execution as root…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368834",
+    "date": "Nov 05, 2026 05:13",
+    "published_at": "2026-11-05T05:13:37Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
     "title": "Schools That Say No to Google’s AI Will Be Saying Goodbye to its Search Too",
     "link": "https://lxer.com/module/newswire/ext_link.php?rid=368849",
     "description": "Meanwhile, schools in six German states can choose an open source cloud solution.",
@@ -440,16 +595,6 @@
     "source_url": "https://www.phoronix.com/"
   },
   {
-    "title": "Pocket-sized Linux AI box runs on 256-TOPS Axera chip",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368838",
-    "description": "Sipeed has recently shared additional details about the MaixStation, a Linux AI workstation powered by Axera’s AX8860P processor, which combines a 16-core Arm CPU with an NPU rated at 256 TOPS FP4. The system supports up to 128GB of LPDDR5X memory, 273GB/s memory bandwidth, 10G SFP+ networking, and PCIe 5.0 expansion for local AI inference…",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368838",
-    "date": "Nov 05, 2026 01:03",
-    "published_at": "2026-11-05T01:03:56Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
     "title": "[$] LWN.net Weekly Edition for November 5, 2026",
     "link": "https://lwn.net/Articles/1103480/",
     "description": "Inside this week's LWN.net Weekly Edition:\n        \n        \n Front: Kernel cells; Debian LLM reviews; glibc system-call wrappers; Binder in Rust; Kernel CVE flood; Fedora KDE and X11 removal; 7.4 merge window part two; Portable Python.\n             Briefs: MTCP RCE; Bash security; XCPE botnet; Bazzite 45; Fedora 45; openSUSE Leap 16.1; Tor Browser 16.0; Quotes; ...\n             Announcements: Newsletters, conferences, security updates, patches, and more.\n            ",
@@ -471,43 +616,12 @@
     "source_url": "https://slashdot.org/"
   },
   {
-    "title": "Rocky Linux Unveils Testrarc for Transparent Release Testing",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368847",
-    "description": "Rocky Linux unveils Testrarc, a new open-source platform for tracking release testing, validation results, and community contributions.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368847",
-    "date": "Nov 04, 2026 23:45",
-    "published_at": "2026-11-04T23:45:19Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
     "title": "OpenAI Says ChatGPT Is Catching Up to Google In Search",
     "link": "https://tech.slashdot.org/story/26/11/04/207222/openai-says-chatgpt-is-catching-up-to-google-in-search?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
     "description": "Adam Fry, OpenAI's consumer product lead for ChatGPT, says the number of searches performed through ChatGPT has grown to roughly 20% of Google's search volume. The company defines a search as a ChatGPT query that triggers a web search, suggesting the chatbot is becoming an increasingly significant competitor to traditional search engines. The Verge reports: Having one-fifth as many searches as Google is still a long way from overtaking it, but for comparison, Microsoft CEO Satya Nadella said during Google's 2023 antitrust trial that Bing had about 3 percent of the search engine market share after trying for more than a decade. During the trial, Google described AI as a potential disruptor, arguing ChatGPT was poised to seriously compete with it -- now, OpenAI seems to agree. (OpenAI likely uses Microsoft Bing for a significant part of its searches, along with its in-house search index, although there is still some speculation that it routes some queries through Google.) As for ads, which OpenAI started testing earlier this year, Fry said they haven't produced a lasting backlash. \"Ads have not negatively impacted the product or the usage of the product,\" he said, adding that \"most people do not seem to mind ads in the product.\"\n \nLast month, OpenAI announced plans to introduce images of sponsored products and services in ChatGPT.\n\n\n\n\n\nRead more of this story at Slashdot.",
     "guid": "",
     "date": "Nov 04, 2026 23:00",
     "published_at": "2026-11-04T23:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "NVIDIA 620 Linux Graphics Driver Released with Wayland Improvements",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368841",
-    "description": "NVIDIA released the NVIDIA 620 series of graphics drivers for Linux, FreeBSD, and Solaris systems, with new features, improvements, and the usual bug fixes.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368841",
-    "date": "Nov 04, 2026 22:36",
-    "published_at": "2026-11-04T22:36:52Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Netflix Launches First AI-Branded Content Recommendations Feature on TVs",
-    "link": "https://entertainment.slashdot.org/story/26/11/04/2034237/netflix-launches-first-ai-branded-content-recommendations-feature-on-tvs?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Netflix is testing its first consumer-facing feature explicitly branded as AI-powered. Called \"AI Discover,\" the feature generates personalized TV and movie recommendations in real time based on viewing history, preferences, trending content and selectable themes like \"Something Light\" or \"Quick Watches.\" Variety reports: The streamer will begin rolling out AI Discover in the U.S. to customers who use Netflix in English on supported smart TVs. If you have access to it, you will see a \"Discover\" tab with a red gem-shaped icon and a \"New\" label in the top navigation bar on your TV. The company plans to expand the feature to more regions and customers in the coming weeks.\n \nNetflix has long used machine-learning and AI technologies to personalize content recommendations, but AI Discover is the first user-facing application that the company is branding as powered by artificial intelligence. The hope is that the AI-recommended titles will be another tool to drive up Netflix's total watch time among viewers, especially in the U.S.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 04, 2026 22:00",
-    "published_at": "2026-11-04T22:00:00Z",
     "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
     "source": "slashdot.org",
     "source_url": "https://slashdot.org/"
@@ -531,223 +645,5 @@
     "published_at": "2026-11-04T21:11:41Z",
     "source": "phoronix.com",
     "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Waymo Cuts Ties With Uber, Will Serve Riders Directly",
-    "link": "https://tech.slashdot.org/story/26/11/04/2021250/waymo-cuts-ties-with-uber-will-serve-riders-directly?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Waymo plans to end its exclusive Uber robotaxi partnership in Austin and Atlanta in January 2028 and let customers hail its vehicles directly through the Waymo app. In an interview on The Circuit, Waymo co-CEO Tekedra Mawakana called the current Uber experience a \"crapshoot\" because riders aren't guaranteed a Waymo. Bloomberg reports: \"In the early days, we would partner because we didn't have the scale, and in that partnering, it was a little bit of a crapshoot. Will I get a Waymo? Will I not get a Waymo?,\" Mawakana said in a wide-ranging interview on The Circuit with Emily Chang. She cited customers' growing demand for a consistent offering from a single app, especially from riders from San Francisco or other markets, where Waymo offers the self-driving service via its own consumer app that competes with Uber.\n \n\"It's important for us to have that relationship with the rider. We've gotten that feedback from the riders in those markets,\" Mawakana said. \"And at the same time, learning and partnering with Uber has been a really important part of our journey,\" she added.\n \n[...] The comments reflect Waymo's evolving relationship with the ride-hailing giant as the Alphabet unit trials different pathways to commercialize its capital-intensive autonomous technology. Waymo has leaned on partners like Uber and Lyft, as well as fleet management companies, to help operate its roughly 4,000 vehicles across the US. The company currently does more than 500,000 trips per week in 14 cities.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 04, 2026 21:00",
-    "published_at": "2026-11-04T21:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "CVE-2026-109518 APT vulnerability fixes available",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368853",
-    "description": "Fixes are available in Ubuntu for the CVE-2026-109518 vulnerability affecting APT.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368853",
-    "date": "Nov 04, 2026 20:15",
-    "published_at": "2026-11-04T20:15:13Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "OpenAI Acquires Pierre Computer to Supercharge Codex",
-    "link": "https://developers.slashdot.org/story/26/11/04/1957217/openai-acquires-pierre-computer-to-supercharge-codex?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "OpenAI has acquired developer tools startup Pierre Computer Company to strengthen Codex. \"The deal, announced today, signals OpenAI's aggressive push into the developer tools market as the AI arms race intensifies,\" reports The Tech Buzz. Financial terms weren't disclosed. From the report: \nPierre Computer Company had been building specialized tools for code analysis and review, capabilities that complement Codex's existing strength in code generation. For developers, this could mean a more seamless experience -- using AI not just to write initial code snippets, but to understand legacy codebases, spot potential bugs, and conduct thorough reviews before deployment. That's a workflow improvement that enterprise engineering teams have been demanding.\n \n[...] For Pierre Computer Company, the acquisition likely provides the resources and distribution that startups in this space desperately need. Building AI developer tools requires massive compute infrastructure and access to cutting-edge models -- both of which OpenAI has in abundance. Pierre's team will now have access to OpenAI's latest models, including the technology behind ChatGPT and the recently announced Shepherd model for AI research validation.\n \nThe integration timeline remains unclear, but developers using Codex should expect to see Pierre's capabilities rolling out in the coming months. OpenAI has been moving quickly to ship new features -- it just launched Dots, transforming its coding tools into an always-on AI assistant. Adding Pierre's code review and analysis features could make Codex a genuine end-to-end solution for software development teams.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 04, 2026 20:00",
-    "published_at": "2026-11-04T20:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Intel One Mono Font Family Updated With Various Enhancements",
-    "link": "https://www.phoronix.com/news/Intel-One-Mono-1.5",
-    "description": "Back in 2023 Intel introduced One Mono as a new font for developers. Intel in September had discontinued the One Mono project but then days later revived it. Now the project is out with its first update since that mishap...",
-    "guid": "https://www.phoronix.com/news/Intel-One-Mono-1.5",
-    "date": "Nov 04, 2026 19:27",
-    "published_at": "2026-11-04T19:27:03Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Simulation Agama Web UI in Virtual environment as KVM Guest",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368850",
-    "description": "Simulating the Agama Web UI in a virtualized environment as a KVM guest provides a sandboxed, easily reproducible, and risk-free environment to test next-generation installer workflows, remote deployment configurations, and automated storage provisioning without modifying bare-metal hardware. Web UI Native Testing: Agama is designed with a decoupled architecture where the installer engine runs as a service and exposes a Web UI. A KVM guest allows you to easily simulate a true headless server deployment, letting you test connecting to the installer's port from a host web browser.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368850",
-    "date": "Nov 04, 2026 19:06",
-    "published_at": "2026-11-04T19:06:59Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "French Blood Banks Hit Alongside Cyberattack On European Supermarkets",
-    "link": "https://it.slashdot.org/story/26/11/04/1834253/french-blood-banks-hit-alongside-cyberattack-on-european-supermarkets?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "An anonymous reader quotes a report from Reuters: The refrigerators at three regional blood banks in France were hit by a cyberattack overnight between Sunday and Monday, at the same time hackers struck supermarkets from Sweden to Belgium. \"Several regional facilities of the French Blood Establishment (EFS) were affected by a cybersecurity incident that impacted certain cold storage room monitoring and control systems,\" the health ministry said in a statement.\n \nThe incident had no impact on blood supplies, EFS spokesperson Charley Dubois said. \"We have staff round the clock since blood can be needed at any time. They were warned about the problems by alerts and moved the blood to other refrigerators that were not connected,\" she said. [...] Investigations are under way into how the attack was carried out, what equipment may have been affected and when systems can safely return to service. The attack followed a similar incident in France last month when police said hackers seized control of cooling units at hundreds of supermarkets, causing fires and food losses.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 04, 2026 19:00",
-    "published_at": "2026-11-04T19:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "AMD Expects To Outsell Intel For the First Time",
-    "link": "https://news.slashdot.org/story/26/11/04/1825235/amd-expects-to-outsell-intel-for-the-first-time?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "AMD expects its fourth-quarter revenue to reach roughly $17 billion, potentially surpassing Intel's projected $15 billion to $16 billion and putting AMD ahead of its longtime rival in quarterly sales for the first time. The milestone is being driven largely by booming demand for Epyc server processors and Instinct AI accelerators, with AMD's data center business already accounting for 64% of revenue and expected to exceed 80% in 2027. Tom's Hardware reports: For those of our readers who have been following the CPU market in general as well as AMD and Intel in particular for decades, arguably the most earth-shattering part of AMD's earnings report is its outlook for the fourth quarter. The company expects revenue of approximately $17 billion, plus or minus 3%, which implies a 66% year-over-year increase and 27% sequential growth at the midpoint. In contrast, Intel expects fourth-quarter revenue of $15 billion to $16 billion amid weakening PC demand and manufacturing capacity constraints.\n \nIf AMD meets its guidance, its quarterly sales will surpass those of its considerably bigger rival Intel for the first time in history. In fact, AMD will not only leave Intel formally behind, but its projected advantage will be approximately $1.5 billion at the midpoint of both companies' forecasts, which is a tangible lead. The development reflects the companies' increasingly different positions on the market: AMD is rapidly expanding its data center CPU and AI accelerator businesses, while Intel continues to depend heavily on PC and enterprise server processors, which sales face headwinds due to high memory prices and components shortages.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 04, 2026 18:30",
-    "published_at": "2026-11-04T18:30:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Rsync 3.5.2 Fixes Security Vulnerability, Improves Interrupted Transfers",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368822",
-    "description": "Rsync 3.5.2 addresses CVE-2026-119741, fixes interrupted file transfers, and introduces new options for process priorities and symlink handling.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368822",
-    "date": "Nov 04, 2026 18:19",
-    "published_at": "2026-11-04T18:19:00Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Japanese Bank to Stop Allowing ATM Cards, PCs For Account Access",
-    "link": "https://news.slashdot.org/story/26/11/04/0656220/japanese-bank-to-stop-allowing-atm-cards-pcs-for-account-access?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Mitsubishi UFJ Financial Group plans to launch Emut Bank in early 2027 as the first digital bank affiliated with a major Japanese financial institution to eliminate ATM cards, \"instead having customers confirm identities using the bank's smartphone app for additional security amid a rising tide of cyberattacks,\" reports Nikkei Asia Review. The smartphone app will also be the only way to manage deposits, with no PC-based banking. From the report: Security has become a greater concern recently. As artificial intelligence advances, Japan has seen a surge in cyberattacks targeting companies, as well as a rise in phishing attacks aimed at stealing personal information, often targeting bank accounts. The technology being used by Emut was developed by Seven Bank, the consumer finance unit of Seven \u0026 i Holdings, operator of 7-Eleven convenience stores. Emut customers will be able to withdraw money from Seven Bank's roughly 28,000 ATMs. The network is expected to gradually expand to cover the 16,000 or so ATMs at FamilyMart convenience stores. Although MUFG Bank ATMs will not be accessible, MUFG will consider changing this in the future.\n \nScrapping cash cards represents a shift in what has for decades been consumers' main method of withdrawing money. The former Sumitomo Bank -- a predecessor of Sumitomo Mitsui Banking Corp. -- is believed to have been Japan's first bank to implement cash cards, in 1969. The step away from cash cards by MUFG, Japan's largest financial institution, is likely to spur other banks to follow suit. [...] Eschewing cash cards will reduce Emut's costs, which will let it offer interest rates on deposits that are expected to be higher than MUFG Bank's usual 0.5%, depending on the terms. Interest can be paid out daily, rather than twice a year -- a first for a Japanese bank.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 04, 2026 17:00",
-    "published_at": "2026-11-04T17:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "[$] Plasma X11 session removal surprises some Fedora users",
-    "link": "https://lwn.net/Articles/1105130/",
-    "description": "The KDE Project announced, in 2025, that Plasma 6.7 would\nbe the last version of the desktop environment that would support X11\nsessions. Those who keep up with KDE's announcements no doubt expected it when\nPlasma 6.8\ndropped X11 support as promised. What seems to have come as a surprise, at\nleast to a number of Fedora KDE Plasma\nDesktop users, is that the Fedora 44 release—which shipped in\nApril with Plasma 6.6—received\nan update to Plasma 6.8 that swept away the X11 session without much warning.\nDespite the surprise, it is gone for good: the Fedora Engineering Steering\nCommittee (FESCo) has voted\nagainst a request to revert the update for Fedora 44 and the just-released\nFedora 45.",
-    "guid": "https://lwn.net/Articles/1105130/",
-    "date": "Nov 04, 2026 16:33",
-    "published_at": "2026-11-04T16:33:11Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "Deadly Days: Roadtrip 1.0 review",
-    "link": "https://www.gamingonlinux.com/2026/11/deadly-days-roadtrip-1-0-review/",
-    "description": "Now Deadly Days: Roadtrip has left Early Access as a full and complete game, here's my thoughts on this zombie-slaying bullet heaven inventory management game.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/11/deadly-days-roadtrip-1-0-review/",
-    "date": "Nov 04, 2026 16:07",
-    "published_at": "2026-11-04T16:07:03Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1854420236id30124gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Linux 7.4 Showing Few Performance Gains With Initial Benchmarks On AMD Ryzen Threadripper",
-    "link": "https://www.phoronix.com/review/linux-74-threadripper",
-    "description": "In the first round of benchmarking the in-development Linux 7.4 kernel there are some performance improvements -- and some small regressions -- worth noting over the current Linux 7.3 stable kernel. This first round of Linux 7.4 kernel benchmarking was on a System76 Thelio Major workstation with AMD Ryzen Threadripper 9980X.",
-    "guid": "https://www.phoronix.com/review/linux-74-threadripper",
-    "date": "Nov 04, 2026 16:00",
-    "published_at": "2026-11-04T16:00:00Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Bazzite 45 released",
-    "link": "https://lwn.net/Articles/1105395/",
-    "description": "Version\n45 of Bazzite, the image-based gaming distribution based on\nFedora Linux, has been released. Notable changes in this release include a\nrebase to Fedora 45, updated Open Gaming Collective (OGC)\nkernels, support for Logitech TrueWheel devices, and more.\n\nLWN covered Bazzite in\nDecember 2025.",
-    "guid": "https://lwn.net/Articles/1105395/",
-    "date": "Nov 04, 2026 15:54",
-    "published_at": "2026-11-04T15:54:44Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "[$] Portable Python scripts with dependencies",
-    "link": "https://lwn.net/Articles/1104646/",
-    "description": "A basic Python script is portable: it can be copied between machines with little concern about compatibility.\nA script that depends on third-party packages requires quite a bit more\ncare and consideration, however.\nIn 2023, PEP\n723 (\"Inline script metadata\") introduced a standard for declaring a Python script's\ndependencies inside the script itself.\nSeveral third-party tools can now automatically install and manage those dependencies, but there is still little official support for this standard within Python itself.",
-    "guid": "https://lwn.net/Articles/1104646/",
-    "date": "Nov 04, 2026 14:45",
-    "published_at": "2026-11-04T14:45:02Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "NVIDIA 620.70.06 Linux Driver Released With Wayland Fixes \u0026 Performance Work",
-    "link": "https://www.phoronix.com/news/NVIDIA-620.70.06-Linux-Driver",
-    "description": "Out today is the first NVIDIA Linux driver release in the R620 release branch. This NVIDIA 620.70.06 Linux driver release isn't too feature heavy but comes with some bug fixes, improved performance of explicit sync on Wayland, and some other refinements...",
-    "guid": "https://www.phoronix.com/news/NVIDIA-620.70.06-Linux-Driver",
-    "date": "Nov 04, 2026 14:29",
-    "published_at": "2026-11-04T14:29:06Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Security updates for Wednesday",
-    "link": "https://lwn.net/Articles/1105378/",
-    "description": "Security updates have been issued by AlmaLinux (cockpit, dpdk, fence-agents, firefox, freerdp, gimp, opentelemetry-collector, python-dns, qemu-kvm, and raptor2), Debian (apt and squid), Fedora (ags, apptainer, chromium, fractal, mingw-harfbuzz, mingw-qt5-qtwebkit, mingw-qt6-qt5compat, python-mistune, python3-docs, python3.14, python3.9, rubygem-gist, rust-app-store-connect, rust-qemu-rdp, rust-redlib, and selenium-manager), Mageia (java-latest-openjdk, java-17-openjdk, java-21-openjdk, timezone), Oracle (.NET 10.0, .NET 8.0, .NET 9.0, bind, bind9.16, cockpit, firefox, freerdp, gcc, ghostscript, glibc, grafana, java-17-openjdk, java-21-openjdk, kernel, kernel-uek, libXi, pipewire, pki-deps:10.6, podman, python-jwt, python-pillow, python-pyasn1, qt5-qtbase, thunderbird, tomcat, util-linux, and wireshark), Red Hat (dnsmasq, fence-agents, freerdp, pki-core:10.6, and thunderbird), SUSE (amazon-ssm-agent, aom-tools, apache2, brotli, cadvisor, chromium, cups, curl, distribution-registry, eog, gh, go-containerregistry, google-guest-agent, gvfs, haproxy, hauler, helm3, kernel, libBasicUsageEnvironment2, libcdio, libinstpatch-1_0-2, libosmocore, libreoffice, libX11, nodejs22, nvidia-open-driver-G06-signed, openssh, parted, perl-DBI, perl-mime-tools, python-pypdf, rootlesskit, rqlite, rsyslog, sssd, tomcat10, warewulf4, and xen), and Ubuntu (apt-cacher, bind9, bitlbee, cakephp, deluge, dmitry, e17, feh, gnome-shell, golang-github-gin-contrib-cors, gvfs, haproxy, jabberd2, libmspack, libnet-easytcp-perl, libphp-swiftmailer, libsoup2.4, libsoup3, libuser, pcre2, rear, ruby-rack, ruby-sprockets, rxvt-unicode, shapelib, sogo, vips, and yaws).",
-    "guid": "https://lwn.net/Articles/1105378/",
-    "date": "Nov 04, 2026 14:13",
-    "published_at": "2026-11-04T14:13:24Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "Local AI Weekly #8: All Your RAM Are Belong to Us",
-    "link": "https://feed.itsfoss.com/link/24361/17515249/local-ai-weekly-8",
-    "description": "Sam Altman thinks the RAM in your PC would be better off in a data center. ",
-    "guid": "6aeb32b05f3ba700015104b3",
-    "date": "Nov 04, 2026 14:11",
-    "published_at": "2026-11-04T14:11:07Z",
-    "image": "https://itsfoss.com/content/images/2026/11/sam-ram.webp",
-    "source": "itsfoss.com",
-    "source_url": "https://itsfoss.com/"
-  },
-  {
-    "title": "Debian's APT Affected By Man-In-The-Middle Attack For Arbitrary Code Execution As Root",
-    "link": "https://www.phoronix.com/news/Debian-APT-MITM-RCE",
-    "description": "A new vulnerability was disclosed today affecting Debian's APT package manager where a man-in-the-middle attacker could carry out arbitrary code execution as root...",
-    "guid": "https://www.phoronix.com/news/Debian-APT-MITM-RCE",
-    "date": "Nov 04, 2026 13:10",
-    "published_at": "2026-11-04T13:10:19Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Linux 7.3 Will More Than Likely Be This Year's LTS Kernel",
-    "link": "https://www.phoronix.com/news/Linux-7.3-Likely-LTS",
-    "description": "While the Linux 7.4 kernel will be released in the 2026 calendar year in the last week or two of December if the schedule holds, it turns out Linux 7.3 is likely to be this year's Long Term Support kernel version...",
-    "guid": "https://www.phoronix.com/news/Linux-7.3-Likely-LTS",
-    "date": "Nov 04, 2026 12:55",
-    "published_at": "2026-11-04T12:55:08Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "systemd With Its Initial Support For Rust",
-    "link": "https://www.phoronix.com/news/systemd-Loves-Rust",
-    "description": "Systemd recently merged support for Rust programs. This initial systemd Rust support is limited to leaf components / individual binaries while eventually they hope to be able to support Rust within root components of systemd. More details on this initiative were shared this week...",
-    "guid": "https://www.phoronix.com/news/systemd-Loves-Rust",
-    "date": "Nov 04, 2026 12:44",
-    "published_at": "2026-11-04T12:44:36Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Megaquarium dev reveals Plantlife, a botanical farming management sim",
-    "link": "https://www.gamingonlinux.com/2026/11/megaquarium-dev-reveals-plantlife-a-botanical-farming-management-sim/",
-    "description": "Megaquarium developer Twice Circled just revealed Plantlife, a really sweet looking botanical farming management building sim.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/11/megaquarium-dev-reveals-plantlife-a-botanical-farming-management-sim/",
-    "date": "Nov 04, 2026 11:54",
-    "published_at": "2026-11-04T11:54:14Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1347937881id30123gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
   }
 ]
