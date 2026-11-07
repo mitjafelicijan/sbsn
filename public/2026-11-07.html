@@ -432,6 +432,352 @@
             <div class="grid">
                 
                 <article>
+                    <h2><a href="https://linux.slashdot.org/story/26/11/07/0330255/almalinux-shows-advantages-of-abi-compatibility-after-rhel-restricted-source-code-access?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" target="_blank">AlmaLinux Shows Advantages of ABI Compatibility After RHEL Restricted Source Code Access</a></h2>
+                    <div class="meta">
+                        Nov 07, 2026 17:00 | 
+                        Source: <a href="https://slashdot.org/" target="_blank">slashdot.org</a>
+                    </div>
+                    
+                    <img src="https://a.fsdn.com/sd/twitter_icon_large.png">
+                    
+                    <p>&#34;AlmaLinux OS charted a new path in 2023 when Red Hat restricted source code access to Red Hat Enterprise Linux,&#34; remembers Linux Magazine.
+
+&#34;Rather than pursue 1:1 compatibility with RHEL like other Enterprise Linux alternatives, the AlmaLinux OS Foundation chose application binary interface (ABI) compatibility, which guarantees that applications and kernel modules that work on RHEL will work on AlmaLinux OS.&#34;
+
+No longer constrained by the 1:1 promise, AlmaLinux can offer new features, or add back deprecated ones, while still remaining a stable, drop-in replacement for RHEL... The release of AlmaLinux OS 10.2 in May 2026 reveals just how far AlmaLinux has come.... 
+
+When RHEL 10 increased the x86-64-v2 architecture baseline to x86-64-v3, many older server platforms (and some new ones) were left in the lurch. These older servers couldn&#39;t support the modern CPU feature sets in x86-64-v3, including AVX2 CPU instructions. AlmaLinux recognized that many community members employed older hardware that relied on x86-64-v2. While x86-64-v3 is enabled by default in AlmaLinux OS 10 and AlmaLinux OS Kitten 10, an additional x86-64-v2 build is also available. The x86-64-v2 build works best for environments that rely on standard OS packages or that can rebuild any additional packages required by x86-64-v2. For users with older hardware, the additional x86-64-v2 build allows continued use of current hardware, saving money and keeping servers from the landfill. AlmaLinux OS 10 is actively supported through 2030 with security support through 2035, significantly extending the life of older hardware.... 
+
+Many legacy applications and containerized workloads still run on i686, a 32-bit computer processor architecture belonging to the Intel x86 family, including software that only ships as i686, CI pipelines that require a specific 32-bit glibc, and seemingly normal looking containers that require a 32-bit environment. RHEL 10 completely removed 32-bit application support and multilib libraries after deprecating support in earlier releases... AlmaLinux OS 10.2 has added package repos and official container images for 32-bit x86 (but not a 32-bit kernel or installer)... 
+
+NVIDIA GPUs, ubiquitous in modern computing, have been a pain point for Linux users. Getting the closed-source NVIDIA drivers has required extra steps and manual installation. When NVIDIA released an open source version of their graphics driver, AlmaLinux integrated the drivers, along with the associated CUDA components, into the AlmaLinux repository starting with AlmaLinux OS 9 and 10. AlmaLinux also signs the open source drivers, allowing secure boot with the NVIDIA drivers they ship. Unlike RHEL users, AlmaLinux users now have native support, allowing them to skip manual installation. AlmaLinux users can now enjoy a fully integrated NVIDIA experience. 
+In addition, &#34;Thanks to ABI compatibility, AlmaLinux can sometimes deliver patches more quickly than RHEL,&#34; the article points out. And it lists other points where AlmaLinux OS 10.2 diverges from RHEL 10:
+
+Re-enabling frame pointers disabled by default in RHEL and CentOS Stream to provide system-wide, real-time tracing and profiling to diagnose and optimize code.
+ Enabling both kernel and userspace components that allow installation of AlmaLinux on a Btrfs filesystem
+
+ Adding SPICE support dropped in RHEL 9, allowing users to interact with a virtual machine&#39;s desktop remotely instead of just from the host server.
+ Restoring support for older storage and network drivers disabled upstream, including Adaptec, Dell PERC, HP, Mellanox, QLogic, Emulex, LSI, and Broadcom.
+
+
+
+
+
+
+Read more of this story at Slashdot.</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://lxer.com/module/newswire/ext_link.php?rid=368948" target="_blank">ESP32-P4 development boards combine RISC-V with Wi-Fi 6 or PoE</a></h2>
+                    <div class="meta">
+                        Nov 07, 2026 16:11 | 
+                        Source: <a href="https://lxer.com/" target="_blank">lxer.com</a>
+                    </div>
+                    
+                    <p>SparkFun today launched two ESP32-P4-based IoT RedBoards, offering either dual-band Wi-Fi 6 through an ESP32-C5 companion or wired Ethernet with Power over Ethernet. Both boards feature dual-core RISC-V processing, 32MB PSRAM, 16MB flash, MIPI camera and display connectors, and Arduino-style expansion headers for embedded and HMI applications. The boards use the ESP32-P4NRW32X, which integrates…</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://slashdot.org/story/26/11/07/0234213/chinas-top-spy-agency-recruited-woman-who-targeted-jensen-huang?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" target="_blank">China&#39;s Top Spy Agency Recruited Woman Who Targeted Jensen Huang</a></h2>
+                    <div class="meta">
+                        Nov 07, 2026 16:00 | 
+                        Source: <a href="https://slashdot.org/" target="_blank">slashdot.org</a>
+                    </div>
+                    
+                    <img src="https://a.fsdn.com/sd/twitter_icon_large.png">
+                    
+                    <p>An anonymous reader quotes a report from The New York Times: A Chinese businesswoman who had a close relationship with the chief executive of one of the most important artificial intelligence companies in the United States was a spy for China&#39;s Ministry of State Security, Beijing&#39;s top intelligence agency, according to people briefed on U.S. surveillance. The businesswoman, Alice Huang, was recruited by the ministry to collect intelligence on Jensen Huang, the chief executive of Nvidia, as part of a drive to learn more about American A.I. chips and potentially influence the company to push for its most advanced chips to be made available to China, the people said.
+ 
+[...] The New York Times reported last week that Mr. Huang was a target of a Chinese intelligence operation, and that U.S. intelligence agencies were conducting electronic surveillance of Ms. Huang, a Chinese citizen, for at least a year. The Times reported that Mr. Trump had been briefed last year about Mr. Huang&#39;s relationship with her, but chose not to do anything about it. Ms. Huang speaks English well and has relationships with executives at the highest levels of the A.I. chip industry, including Mr. Huang and the leaders of Gigabyte, one of the top assemblers of Nvidia supercomputers, said people who have met her. She has attended industry conferences and private executive dinners. It is unclear when Ms. Huang first met Nvidia&#39;s leader. In 2024, around the time the two of them were photographed together at a bar in Taipei, her company, Megaspeed, began a multibillion-dollar purchase of advanced A.I. microchips.
+ 
+To many in the industry, the well-funded push by Megaspeed into A.I. appeared to come out of nowhere. Ms. Huang was connected to a network of companies and investors clustered around Shanghai and Zhejiang province that had used their ties to local officials in Shanghai to push aggressively from mobile video games into data centers, which provide the computing power behind artificial intelligence. Megaspeed has been building data centers in Southeast Asia and then renting their computing power to Alibaba, the giant Chinese internet firm, giving China a backdoor way of getting access to advanced Nvidia chips. Nvidia is restricted by the United States from selling those chips directly to China. Beyond its local connections, the network also has a financial link to the Chinese military establishment, through an investment in a cybersecurity subsidiary of China Electronics Technology Group, one of the country&#39;s largest makers of military technology. Following the report, top Republican lawmakers have asked Jensen Huang to appear before Congress to answer questions. &#34;Recent reports raise significant national security concerns regarding the People&#39;s Republic of China&#39;s access to sensitive US technology and information,&#34; representatives John Moolenaar, Brian Mast, and Rick Crawford said. &#34;The issue of PRC infiltration and access to cutting-edge US technology is core to the investigative work of our three committees this Congress. It is vital that Congress determines the extent to which US national security has been placed at risk,&#34; the lawmakers added.
+
+
+
+
+
+Read more of this story at Slashdot.</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://www.phoronix.com/news/GNU-Automake-1.20" target="_blank">Automake 1.20 Brings New Features, Desires To Re-Establish GNU As Leading Build System</a></h2>
+                    <div class="meta">
+                        Nov 07, 2026 15:22 | 
+                        Source: <a href="https://www.phoronix.com/" target="_blank">phoronix.com</a>
+                    </div>
+                    
+                    <p>Out today is GNU Automake 1.20 with the new --enable-jobserver option and opting for GPLv3&#43; licensing...</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://lxer.com/module/newswire/ext_link.php?rid=368934" target="_blank">Ubuntu Summit 26.10: Less than a week away!</a></h2>
+                    <div class="meta">
+                        Nov 07, 2026 14:40 | 
+                        Source: <a href="https://lxer.com/" target="_blank">lxer.com</a>
+                    </div>
+                    
+                    <p>Ubuntu Summit 26.10: Less than a week away! Here in London, the long summer has stepped aside for cooler nights and damp, misty mornings. The trees are turning amber and the sunlight is low on the horizon, which can only mean one thing: the next Ubuntu Summit is just around the corner. In fact, it’s…</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://lxer.com/module/newswire/ext_link.php?rid=368951" target="_blank">Online setup openSUSE Leap 16.1 on bare metal and tuning correct resolution for HDMI Monitor</a></h2>
+                    <div class="meta">
+                        Nov 07, 2026 13:07 | 
+                        Source: <a href="https://lxer.com/" target="_blank">lxer.com</a>
+                    </div>
+                    
+                    <p>What is Agama&#39;s SSH Injection Advantage: By injecting public key into Agama during the network deployment phase, the very first boot of the newly installed operating system will have the OpenSSH daemon (sshd) active and your authorized keys populated.This gives you a guaranteed SSH hook into the target host. You don&#39;t have to look at the unreadable HDMI screen to execute the configuration script below you can run it smoothly from a remote machine, cleanly stripping away the problematic SDDM prompt and tailoring the Wayland desktop profile securely.</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://www.phoronix.com/news/HyprBSD" target="_blank">HyprBSD Provides Wayland-Based Desktop Built Atop FreeBSD, Complete With Steam Gaming</a></h2>
+                    <div class="meta">
+                        Nov 07, 2026 12:45 | 
+                        Source: <a href="https://www.phoronix.com/" target="_blank">phoronix.com</a>
+                    </div>
+                    
+                    <p>While FreeBSD has been working to improve its desktop and laptop experience, that work isn&#39;t yet shipping in released form for the OS installer and other ongoing efforts. Now there&#39;s a new desktop FreeBSD distribution on the scene with HyprBSD providing a Wayland-based desktop experience and with the Linux binary compatibility layer even an easy route to gaming with Steam...</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://www.phoronix.com/news/Kmorph-Linux-Crash-Recovery" target="_blank">Kmorph Aims To Provide Rebootless Linux Kernel Crash Recovery</a></h2>
+                    <div class="meta">
+                        Nov 07, 2026 12:05 | 
+                        Source: <a href="https://www.phoronix.com/" target="_blank">phoronix.com</a>
+                    </div>
+                    
+                    <p>Kmorph aims to provide reboot-less kernel crash recovery for Linux systems and can yield as little as ~2 second downtime for recovering the Nginx web server or other important services in the case of a kernel crash...</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://www.gamingonlinux.com/2026/11/give-your-brain-a-challenge-with-the-non-non-nonograms-humble-bundle/" target="_blank">Give your brain a challenge with the Non Non Nonograms Humble Bundle</a></h2>
+                    <div class="meta">
+                        Nov 07, 2026 12:02 | 
+                        Source: <a href="https://www.gamingonlinux.com/" target="_blank">gamingonlinux.com</a>
+                    </div>
+                    
+                    <img src="https://www.gamingonlinux.com/uploads/articles/tagline_images/2049027965id30147gol.webp">
+                    
+                    <p>Stop your brain from getting bored with the new Non Non Nonograms Humble Bundle which is overall a pretty great deal.Read the full article on GamingOnLinux.</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://www.gamingonlinux.com/2026/11/steamos-0-5-8-beta-for-steam-frame-and-steamvr-beta-2-19-2-released/" target="_blank">SteamOS 0.5.8 Beta for Steam Frame and SteamVR Beta 2.19.2 released</a></h2>
+                    <div class="meta">
+                        Nov 07, 2026 11:53 | 
+                        Source: <a href="https://www.gamingonlinux.com/" target="_blank">gamingonlinux.com</a>
+                    </div>
+                    
+                    <img src="https://www.gamingonlinux.com/uploads/tagline_gallery/steam-frame-eye_gol2_2fe88a5d.webp">
+                    
+                    <p>Valve just released SteamOS 0.5.8 Beta for Steam Frame and SteamVR Beta 2.19.2 for all users, bringing numerous improvements to smoothen some rough edges.Read the full article on GamingOnLinux.</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://lxer.com/module/newswire/ext_link.php?rid=368942" target="_blank">A RISC-V Based TEE With AMD Zen 6 CPUs</a></h2>
+                    <div class="meta">
+                        Nov 07, 2026 11:36 | 
+                        Source: <a href="https://lxer.com/" target="_blank">lxer.com</a>
+                    </div>
+                    
+                    <p>An interesting technical detail I noticed today from the latest AMD Linux activity is that Zen 6 processors apparently are featuring a RISC-V based Trusted Execution Environment (TEE) where in the past it was an ARM-based core…</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://www.phoronix.com/news/KDE-Plasma-6.9-Leak-Desktop" target="_blank">KDE Plasma 6.9 Will Stop Leaking Memory When Right Clicking Files/Folders On Desktop</a></h2>
+                    <div class="meta">
+                        Nov 07, 2026 11:34 | 
+                        Source: <a href="https://www.phoronix.com/" target="_blank">phoronix.com</a>
+                    </div>
+                    
+                    <p>With Plasma 6.8 stable approaching one month old, KDE developers continue ramping up work toward Plasma 6.9. Here is some of the interesting work they&#39;ve been up to so far in November...</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://news.slashdot.org/story/26/11/07/0249215/cryosphere-faces-permanent-damage-when-world-overshoots-15c-scientists-warn?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" target="_blank">Cryosphere Faces Permanent Damage When World Overshoots 1.5C, Scientists Warn</a></h2>
+                    <div class="meta">
+                        Nov 07, 2026 11:00 | 
+                        Source: <a href="https://slashdot.org/" target="_blank">slashdot.org</a>
+                    </div>
+                    
+                    <img src="https://a.fsdn.com/sd/twitter_icon_large.png">
+                    
+                    <p>A UN-backed report warns that even temporarily overshooting the Paris agreement&#39;s 1.5C warming target could cause permanent and widespread losses of glaciers, snow and polar ice sheets. With Greenland and Antarctic ice sheets already melting about six times faster than in the 1990s, the report argues that global temperatures should ultimately be brought back below 1C. The Guardian reports: The report, which comes as world leaders and diplomats converge on Turkey for the 31st annual Cop climate conference, documented rapid and accelerating melting of the cryosphere and polar oceans, with damages that range from the loss of the Greenland and Antarctic ice sheets, driving sea level rises that threaten hundreds of millions of people, to thawing permafrost, which releases more planet-heating gas. Glaciers, which are still responding to historical warming, would only preserve about 70% of their current volume over a timescale of centuries if long-term heating were brought back down to 0.8C, the report found.
+ 
+Meanwhile, the ice sheets covering Greenland and Antarctica, which are melting about six times faster today than in the 1990s, would continue to lose ice even in scenarios where overshoot is brief and temperature rise returns to 1.5C, the report found. The scientists said a safe, long-term temperature limit for polar ice sheets lies much closer to 1.0C of global heating, and possibly even lower. &#34;Snow and ice respond rapidly to every fraction of a degree of warming,&#34; said [James Kirkham, a glaciologist at ICCI and the lead author of the report. &#34;But most of these systems will take centuries or millennia to recover after overshoot, especially if tipping points are crossed that cause changes to become essentially irreversible.&#34;
+ 
+Last month, a UNEP report found the world must cut emissions by 18% by 2030 and by 45% by 2035 to have a good chance of keeping temperatures from rising 1.7C above preindustrial levels. It found there were &#34;no good outcomes&#34; of remaining above 1.5C. The cryosphere report found that current policies, which will result in 2.8C of global heating, would reduce the mass of glacier ice to below 10% in the Rockies, Alps, Iceland and Scandinavia. If warming was limited to 1.5C, about 20-35% of the mass would remain. In the Hindu Kush Himalayas, where glaciers are a source of water for nearly a quarter of humanity, current policies will leave just 41% of the ice mass. If warming was limited to 1.5C, 83% would remain.
+
+
+
+
+
+Read more of this story at Slashdot.</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://www.phoronix.com/news/Vulkan-1.4.368" target="_blank">Vulkan 1.4.368 Released With New Extensions From Valve &amp; NVIDIA</a></h2>
+                    <div class="meta">
+                        Nov 07, 2026 10:53 | 
+                        Source: <a href="https://www.phoronix.com/" target="_blank">phoronix.com</a>
+                    </div>
+                    
+                    <p>Vulkan 1.4.368 is out as the newest weekly spec update for this high performance graphics and compute API...</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://www.phoronix.com/news/Azure-Linux-3.0.2022" target="_blank">Microsoft&#39;s Azure Linux 3.0.2022 Ships With More Than 470 Security Fixes</a></h2>
+                    <div class="meta">
+                        Nov 07, 2026 10:37 | 
+                        Source: <a href="https://www.phoronix.com/" target="_blank">phoronix.com</a>
+                    </div>
+                    
+                    <p>Microsoft released Azure Linux 3.0.2022 on Friday night as the newest version of their in-house Linux distribution. Given the rampant AI/LLM-fueled bug reporting and security research, Azure Linux 3.0.2022 ends up incorporating more than 470 security fixes for different CVEs across the many open-source projects making up Azure Linux...</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://www.phoronix.com/news/Asahi-Linux-7.3-Report" target="_blank">Asahi Linux Makes Progress On Gaming, More Apple Silicon Upstreaming</a></h2>
+                    <div class="meta">
+                        Nov 07, 2026 10:21 | 
+                        Source: <a href="https://www.phoronix.com/" target="_blank">phoronix.com</a>
+                    </div>
+                    
+                    <p>Given the recent Linux 7.3 upstream kernel release, the Asahi Linux project published a new status report to outline recent code they have upstreamed to the mainline kernel as well as other efforts taking shape in their downstream codebase...</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://lxer.com/module/newswire/ext_link.php?rid=368945" target="_blank">KDE’s Kwi Terminal Nears First Release, Split-Pane Support Planned</a></h2>
+                    <div class="meta">
+                        Nov 07, 2026 10:08 | 
+                        Source: <a href="https://lxer.com/" target="_blank">lxer.com</a>
+                    </div>
+                    
+                    <p>KDE&#39;s Ghostty-powered Kwi terminal prepares for version 0.1 with improved rendering, tab management, search, and keyboard shortcuts.</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://lwn.net/Articles/1105936/" target="_blank">Asahi Linux 7.3 progress report</a></h2>
+                    <div class="meta">
+                        Nov 07, 2026 09:49 | 
+                        Source: <a href="https://lwn.net" target="_blank">lwn.net</a>
+                    </div>
+                    
+                    <p>The Asahi Linux developers have put out a new report
+on their progress toward a Linux distribution for Apple devices.
+
+
+	Some time ago, we were made aware of multiple attempts to exploit
+	our permissive licensing to hijack our work, with a direct view to
+	replacing the project and aggressively monetising Linux on Apple
+	Silicon. In some extreme cases, in-development feature code was
+	being lifted straight out of our personal forks and published
+	without attribution or lazily rewritten with LLM assistance to
+	obfuscate its origin. The MIT licence explicitly allows this, and
+	has no carveouts to protect against bad faith actors.
+
+	As such, we made the difficult decision to begin the process of
+	transitioning all of our repositories to the GNU General Public
+	License version 2 or later. Going forward all Asahi Linux code will
+	be licenced under strong copyleft licences only. Those who do not
+	learn from history are doomed to repeat it.
+</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://lwn.net/Articles/1105934/" target="_blank">Amutable Foundations: A Technical Overview</a></h2>
+                    <div class="meta">
+                        Nov 07, 2026 09:32 | 
+                        Source: <a href="https://lwn.net" target="_blank">lwn.net</a>
+                    </div>
+                    
+                    <p>Lennart Poettering, Michael Vogt, and Joaquim Rocha have put together a
+detailed overview of what the Amutable Operating System (AOS) and
+associated infrastructure will look like.
+
+
+	The image-based OS approach enables us to enforce some very strict
+	but powerful security properties, which elevate the security
+	posture of the system substantially above traditional Linux
+	systems. Specifically, let&#39;s highlight seven major essential
+	security properties of AOS here:
+
+ No Shell &#43; No SSH &#43; No Language Interpreters. By default AOS
+     does not install a UNIX shell, nor makes remote access via SSH
+     available on the nodes. Moreover, we do not install any of the usual
+     language interpreters (Python, Perl, …) by default. For most nodes a
+     shell or interpreted language support is not required and it removes a
+     whole class of attacks.
+ Signed Images Only. On AOS only images that come with Verity
+     data signed by a signing key listed in the Verity keyring may be
+     activated.
+ [...]
+
+</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://lxer.com/module/newswire/ext_link.php?rid=368921" target="_blank">Kitty 0.50 Picks Up Where You Left Off After a System Restart</a></h2>
+                    <div class="meta">
+                        Nov 07, 2026 08:39 | 
+                        Source: <a href="https://lxer.com/" target="_blank">lxer.com</a>
+                    </div>
+                    
+                    <p>The release also adds docked windows, three new cursor trail shaders, and touchscreen support on Wayland.</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://lxer.com/module/newswire/ext_link.php?rid=368923" target="_blank">The missing piece: bringing up to 15 years of support to Zephyr for microcontroller-based ECUs</a></h2>
+                    <div class="meta">
+                        Nov 07, 2026 07:07 | 
+                        Source: <a href="https://lxer.com/" target="_blank">lxer.com</a>
+                    </div>
+                    
+                    <p>We recently announced the launch of Zephyr 26.04 LTS, bringing up to 15 years of security maintenance per LTS and enterprise lifecycle management to microcontroller-grade devices. While central high-performance computer ECUs capture most of the industry spotlight in software-defined vehicle (SDV) architectures, the operational reality of modern vehicles is far more distributed. Under the chassis…</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://science.slashdot.org/story/26/11/07/0216257/vibrating-mattress-helps-clear-alzheimers-protein-from-the-brain?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" target="_blank">Vibrating Mattress Helps Clear Alzheimer&#39;s Protein From the Brain</a></h2>
+                    <div class="meta">
+                        Nov 07, 2026 07:00 | 
+                        Source: <a href="https://slashdot.org/" target="_blank">slashdot.org</a>
+                    </div>
+                    
+                    <img src="https://a.fsdn.com/sd/twitter_icon_large.png">
+                    
+                    <p>A vibrating mattress combined with two pills that release nitric oxide enhanced the brain&#39;s ability to clear an Alzheimer&#39;s-related protein. According to New Scientist, the experiment &#34;caused the brain&#39;s blood vessels to swell and constrict more strongly, which enhanced the glymphatic system&#39;s clearance of [the protein].&#34; From the report: [Kesa Kiviniemi at the University of Oulu in Finland] and his colleagues recruited 29 adults who hadn&#39;t been diagnosed with Alzheimer&#39;s disease or any other cognitive issues. The participants took a pill that dissolves when under the tongue, releasing nitric oxide. They then lay on a mattress that caused their bodies to gently vibrate for 40 minutes, taking another pill halfway through. Blood samples revealed that their levels of a type of protein called beta-amyloid 42 increased by 35 per cent, on average, after the intervention. This protein, which usually helps neurons signal and connect to each other, misfolds and form clumps in Alzheimer&#39;s disease.
+ 
+&#34;The treatment seemed to enhance the glymphatic system&#39;s ability to clear beta-amyloid from the brain to the blood,&#34; says Kiviniemi. &#34;A 35 per cent increase in circulating beta-amyloid 42 is a substantial and very interesting acute effect,&#34; says Tuomas Lilius at the University of Helsinki, who wasn&#39;t involved in the work. &#34;It is certainly possible it could become biologically, and eventually clinically, relevant.&#34; Side effects were mild and minimal, with six of the participants experiencing issues such as nausea and headache. However, this could partly be due to the expectation of an effect from the nitric oxide pills. The researchers hope to overcome this in future work by including placebo pills.
+ 
+Brain scans suggest the treatment enhanced the flow of fluid along glymphatic channels, probably by widening the brain&#39;s blood vessels and making them pump more strongly, says Kiviniemi. But other mechanisms could also be at play, says Brown. For instance, this intervention may slow the breakdown of beta-amyloid 42 by the liver, leading to higher amounts in the bloodstream, he says. Future studies could get around this by injecting markers into cerebrospinal fluid, which moves through the glymphatic system, to more directly measure its flow, says Brown. Additional experiments by Kiviniemi and his colleagues tested either only the mattress vibrations or only the nitric oxide pills on the same participants, at least a week before or after they underwent the combined approach. Based on brain scans, these solo interventions seemed to have less than half the effect on the glymphatic system than when they were combined. The findings have been published in the journal Nature Communications.
+
+
+
+
+
+Read more of this story at Slashdot.</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://lxer.com/module/newswire/ext_link.php?rid=368928" target="_blank">Six German States Choose Nextcloud for a Sovereign School Cloud</a></h2>
+                    <div class="meta">
+                        Nov 07, 2026 05:38 | 
+                        Source: <a href="https://lxer.com/" target="_blank">lxer.com</a>
+                    </div>
+                    
+                    <p>A shared cloud initiative aims to keep school data in Germany while teaching digital skills — not dependence on individual technology providers.</p>
+                </article>
+                
+                <article>
+                    <h2><a href="https://lxer.com/module/newswire/ext_link.php?rid=368930" target="_blank">Arch Linux vs. CachyOS vs. Omarchy 4.5 Performance Benchmarks</a></h2>
+                    <div class="meta">
+                        Nov 07, 2026 04:06 | 
+                        Source: <a href="https://lxer.com/" target="_blank">lxer.com</a>
+                    </div>
+                    
+                    <p>With CachyOS recently having rolled out its Linux 7.3 based kernel and various other improvements plus with Omarchy 4.5 having been released this week, this article provides a look at how CachyOS and Omarchy are competing on the performance front relative to upstream Arch Linux.</p>
+                </article>
+                
+                <article>
                     <h2><a href="https://yro.slashdot.org/story/26/11/07/025259/mexicos-senate-approves-isp-rules-to-disconnect-persistent-online-pirates?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" target="_blank">Mexico&#39;s Senate Approves ISP Rules To Disconnect Persistent Online Pirates</a></h2>
                     <div class="meta">
                         Nov 07, 2026 03:30 | 
@@ -564,16 +910,6 @@ Read more of this story at Slashdot.</p>
                 </article>
                 
                 <article>
-                    <h2><a href="https://lxer.com/module/newswire/ext_link.php?rid=368932" target="_blank">Six German States Choose Nextcloud-Based Collaboration for Schools</a></h2>
-                    <div class="meta">
-                        Nov 06, 2026 21:43 | 
-                        Source: <a href="https://lxer.com/" target="_blank">lxer.com</a>
-                    </div>
-                    
-                    <p>Schools in six German states gain access to a Nextcloud-based collaboration platform hosted by IONOS under a four-year agreement.</p>
-                </article>
-                
-                <article>
                     <h2><a href="https://tech.slashdot.org/story/26/11/06/2051253/developer-pulls-rokus-popular-fish-tank-screensaver-following-fox-sale?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" target="_blank">Developer Pulls Roku&#39;s Popular Fish Tank Screensaver Following Fox Sale</a></h2>
                     <div class="meta">
                         Nov 06, 2026 21:00 | 
@@ -631,16 +967,6 @@ Read more of this story at Slashdot.</p>
 
 
 Read more of this story at Slashdot.</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://www.phoronix.com/news/AMD-Zen-6-TEE-RISC-V-Based" target="_blank">A RISC-V Based TEE With AMD Zen 6 CPUs</a></h2>
-                    <div class="meta">
-                        Nov 06, 2026 19:30 | 
-                        Source: <a href="https://www.phoronix.com/" target="_blank">phoronix.com</a>
-                    </div>
-                    
-                    <p>An interesting technical detail I noticed today from the latest AMD Linux activity is that Zen 6 processors apparently are featuring a RISC-V based Trusted Execution Environment (TEE) where in the past it was an ARM-based core...</p>
                 </article>
                 
                 <article>
@@ -768,6 +1094,16 @@ Read more of this story at Slashdot.</p>
                 </article>
                 
                 <article>
+                    <h2><a href="https://lxer.com/module/newswire/ext_link.php?rid=368904" target="_blank">Linux 7.4&#39;s Build Time Performance From Optimizations But Also Larger Codebase</a></h2>
+                    <div class="meta">
+                        Nov 06, 2026 17:55 | 
+                        Source: <a href="https://lxer.com/" target="_blank">lxer.com</a>
+                    </div>
+                    
+                    <p>With Linux 7.4 the patches to speed-up the kernel build process began to land. This is the work that&#39;s yielded extremely fast incremental builds and noop builds. The patch series in full is also allowing kernel build times approaching just ten seconds with enough CPU cores. In today&#39;s article is a look at the Linux 7.3 vs. 7.4-rc1 build time performance on the Framework Laptop 13 Pro powered by…</p>
+                </article>
+                
+                <article>
                     <h2><a href="https://news.slashdot.org/story/26/11/06/1640241/britain-to-make-salary-disclosure-in-job-ads-mandatory?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" target="_blank">Britain to Make Salary Disclosure In Job Ads Mandatory</a></h2>
                     <div class="meta">
                         Nov 06, 2026 17:00 | 
@@ -836,16 +1172,6 @@ Read more of this story at Slashdot.</p>
                 </article>
                 
                 <article>
-                    <h2><a href="https://www.phoronix.com/review/cachyos-omarchy-benchmarks" target="_blank">Arch Linux vs. CachyOS vs. Omarchy 4.5 Performance Benchmarks</a></h2>
-                    <div class="meta">
-                        Nov 06, 2026 14:55 | 
-                        Source: <a href="https://www.phoronix.com/" target="_blank">phoronix.com</a>
-                    </div>
-                    
-                    <p>With CachyOS recently having rolled out its Linux 7.3 based kernel and various other improvements plus with Omarchy 4.5 having been released this week, this article provides a look at how CachyOS and Omarchy are competing on the performance front relative to upstream Arch Linux.</p>
-                </article>
-                
-                <article>
                     <h2><a href="https://lxer.com/module/newswire/ext_link.php?rid=368913" target="_blank">Planet News Roundup</a></h2>
                     <div class="meta">
                         Nov 06, 2026 14:14 | 
@@ -908,18 +1234,6 @@ Read more of this story at Slashdot.</p>
                 </article>
                 
                 <article>
-                    <h2><a href="https://feed.itsfoss.com/link/24361/17516546/kitty-0-50-release" target="_blank">Kitty 0.50 Picks Up Where You Left Off After a System Restart</a></h2>
-                    <div class="meta">
-                        Nov 06, 2026 12:17 | 
-                        Source: <a href="https://itsfoss.com/" target="_blank">itsfoss.com</a>
-                    </div>
-                    
-                    <img src="https://itsfoss.com/content/images/2026/11/kitty-0-50-release-banner.png">
-                    
-                    <p>The release also adds docked windows, three new cursor trail shaders, and touchscreen support on Wayland.</p>
-                </article>
-                
-                <article>
                     <h2><a href="https://www.gamingonlinux.com/2026/11/exd-extra-dimensional-adds-steam-frame-support-with-a-big-update/" target="_blank">EXD - Extra Dimensional adds Steam Frame support with a big update</a></h2>
                     <div class="meta">
                         Nov 06, 2026 11:41 | 
@@ -951,16 +1265,6 @@ Read more of this story at Slashdot.</p>
                     <img src="https://www.gamingonlinux.com/uploads/articles/tagline_images/1625957138id30142gol.webp">
                     
                     <p>Star Trek: Infection gets official Steam Frame standalone support, with the developer bringing over their Meta Quest 3 build with enhancements.Read the full article on GamingOnLinux.</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://lxer.com/module/newswire/ext_link.php?rid=368896" target="_blank">mpv 4.20 adds support soft DVD &amp; Blu-Ray menus, Wayland HDR</a></h2>
-                    <div class="meta">
-                        Nov 06, 2026 11:10 | 
-                        Source: <a href="https://lxer.com/" target="_blank">lxer.com</a>
-                    </div>
-                    
-                    <p>A new version of mpv, the open-source command line media player is out. mpv v0.42 is now able to navigate DVD menus, and the two menu systems that Blu-ray discs use, HDMV and BD-J (the latter requires Java). DVD-Audio support was also added, a nich format that offers higher-resolution audio. Plus, if you have any .iso backups of DVDs or Blu-ray Discs, mpv 0.42 can play those directly – no need to…</p>
                 </article>
                 
                 <article>
@@ -1038,16 +1342,6 @@ Read more of this story at Slashdot.</p>
                 </article>
                 
                 <article>
-                    <h2><a href="https://lxer.com/module/newswire/ext_link.php?rid=368908" target="_blank">How to Install Proton Mail Desktop App on Ubuntu</a></h2>
-                    <div class="meta">
-                        Nov 06, 2026 10:04 | 
-                        Source: <a href="https://lxer.com/" target="_blank">lxer.com</a>
-                    </div>
-                    
-                    <p>Discover a step-by-step guide to install the Proton Mail Desktop App on Ubuntu and RedHat-based distributions with practical examples.</p>
-                </article>
-                
-                <article>
                     <h2><a href="https://www.gamingonlinux.com/2026/11/knives-out-inspired-mystery-thriller-from-the-duck-detective-devs-apple-crumble-arrives-december-2/" target="_blank">Knives Out-inspired mystery thriller from the Duck Detective devs, &#39;Apple Crumble&#39; arrives December 2</a></h2>
                     <div class="meta">
                         Nov 06, 2026 09:21 | 
@@ -1057,231 +1351,6 @@ Read more of this story at Slashdot.</p>
                     <img src="https://www.gamingonlinux.com/uploads/articles/tagline_images/1178054181id30139gol.webp">
                     
                     <p>Ready for a new mystery thriller adventure? Duck Detective devs next game is a Knives Out-inspired mystery thriller, &#39;Apple Crumble&#39; set to arrive December 2nd.Read the full article on GamingOnLinux.</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://www.gamingonlinux.com/2026/11/a-slot-machine-is-your-weapon-in-the-new-release-of-slots-skulls/" target="_blank">A slot machine is your weapon in the new release of Slots &amp; Skulls</a></h2>
-                    <div class="meta">
-                        Nov 06, 2026 08:53 | 
-                        Source: <a href="https://www.gamingonlinux.com/" target="_blank">gamingonlinux.com</a>
-                    </div>
-                    
-                    <img src="https://www.gamingonlinux.com/uploads/articles/tagline_images/1242405238id30138gol.webp">
-                    
-                    <p>A slot machine as a weapon? Well, they can be pretty dangerous to your wallet but in Slots &amp; Skulls you spin to fight.Read the full article on GamingOnLinux.</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://www.gamingonlinux.com/2026/11/itch-io-founder-announces-the-return-of-flash-games-thanks-to-open-source/" target="_blank">itch.io founder announces the &#39;return of Flash games&#39; thanks to open source</a></h2>
-                    <div class="meta">
-                        Nov 06, 2026 08:39 | 
-                        Source: <a href="https://www.gamingonlinux.com/" target="_blank">gamingonlinux.com</a>
-                    </div>
-                    
-                    <img src="https://www.gamingonlinux.com/uploads/tagline_gallery/itch-logo.jpg">
-                    
-                    <p>After dealing with all the AI slop, the founder of itch.io has announced that Flash games are set to make a fun return thanks to open source.Read the full article on GamingOnLinux.</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://www.gamingonlinux.com/2026/11/ea-bring-back-many-classic-games-to-steam-including-road-rash-wing-commander-ultima-and-more/" target="_blank">EA bring back many classic games to Steam including Road Rash, Wing Commander, Ultima and more</a></h2>
-                    <div class="meta">
-                        Nov 06, 2026 08:19 | 
-                        Source: <a href="https://www.gamingonlinux.com/" target="_blank">gamingonlinux.com</a>
-                    </div>
-                    
-                    <img src="https://www.gamingonlinux.com/uploads/articles/tagline_images/1669268822id30136gol.webp">
-                    
-                    <p>Along with the GOG Showcase that mentioned some revamped classics - EA also restored many classic games and put them on Steam for the first time.Read the full article on GamingOnLinux.</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://www.gamingonlinux.com/2026/11/get-some-great-casual-games-in-hambles-farming-games-collection-humble-bundle/" target="_blank">Get some great casual games in Hamble&#39;s Farming Games Collection Humble Bundle</a></h2>
-                    <div class="meta">
-                        Nov 06, 2026 08:08 | 
-                        Source: <a href="https://www.gamingonlinux.com/" target="_blank">gamingonlinux.com</a>
-                    </div>
-                    
-                    <img src="https://www.gamingonlinux.com/uploads/articles/tagline_images/1703273235id30135gol.webp">
-                    
-                    <p>Love your more sweet and casual games? Check out the brand new Hamble&#39;s Farming Games Collection Humble Bundle.Read the full article on GamingOnLinux.</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://lxer.com/module/newswire/ext_link.php?rid=368889" target="_blank">Ubuntu Pro is now available on AWS Deep Learning Amazon Machine Images (DLAMI)</a></h2>
-                    <div class="meta">
-                        Nov 06, 2026 07:39 | 
-                        Source: <a href="https://lxer.com/" target="_blank">lxer.com</a>
-                    </div>
-                    
-                    <p>In September 2026, Amazon Web Services (AWS) published its first DLAMIs built on Ubuntu Pro in the Base GPU family. By choosing Ubuntu Pro, enterprises launching DLAMIs gain a stronger security maintenance posture at launch thanks to Expanded Security Maintenance (ESM). What are the DLAMIs? The DLAMIs are AWS-maintained machine images for GPU and accelerator…</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://hardware.slashdot.org/story/26/11/05/2239227/faa-phases-out-floppy-disks-from-air-traffic-control?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" target="_blank">FAA Phases Out Floppy Disks From Air Traffic Control</a></h2>
-                    <div class="meta">
-                        Nov 06, 2026 07:00 | 
-                        Source: <a href="https://slashdot.org/" target="_blank">slashdot.org</a>
-                    </div>
-                    
-                    <img src="https://a.fsdn.com/sd/twitter_icon_large.png">
-                    
-                    <p>The FAA announced today that it is finally phasing out floppy disks from air traffic control systems at more than 400 facilities. Engadget reports: They&#39;ll be replaced by a more modern system called Enterprise -- Information Display System (E-IDS), which is comprised of a digital display for relaying status information, updates and other alerts to air traffic teams. The FAA plans to have E-IDS installed in 435 sites by the end of 2028; the first five locations to receive the upgrades are the Atlantic City International Airport, Nashville International Airport and Greater Rochester International Airport, as well as data processing hubs in Atlanta and Salt Lake City.
-
-
-
-
-
-Read more of this story at Slashdot.</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://lxer.com/module/newswire/ext_link.php?rid=368899" target="_blank">openSUSE Leap 16.1 gives Linux users the right to remain immutable</a></h2>
-                    <div class="meta">
-                        Nov 06, 2026 06:29 | 
-                        Source: <a href="https://lxer.com/" target="_blank">lxer.com</a>
-                    </div>
-                    
-                    <p>One installer now offers conventional and read-only systems as separate Micro distro bows out</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://lxer.com/module/newswire/ext_link.php?rid=368907" target="_blank">Beginners Guide for History Command in Linux</a></h2>
-                    <div class="meta">
-                        Nov 06, 2026 05:11 | 
-                        Source: <a href="https://lxer.com/" target="_blank">lxer.com</a>
-                    </div>
-                    
-                    <p>The history command can be used to display a list of commands with event numbers (including date and timestamp) that executed in the past on your Linux system.</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://feed.itsfoss.com/link/24361/17516378/passbolt-review" target="_blank">Passbolt is an Open Source Password Manager Built Specially For Teams</a></h2>
-                    <div class="meta">
-                        Nov 06, 2026 05:00 | 
-                        Source: <a href="https://itsfoss.com/" target="_blank">itsfoss.com</a>
-                    </div>
-                    
-                    <img src="https://itsfoss.com/content/images/2026/10/passbolt-banner-1.png">
-                    
-                    <p>Passbolt offers both a free self-hosted edition and a managed cloud version of its team focused password management solution.</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://lxer.com/module/newswire/ext_link.php?rid=368906" target="_blank">Ubuntu refreshes time zone data for Canadian clock changes</a></h2>
-                    <div class="meta">
-                        Nov 06, 2026 04:06 | 
-                        Source: <a href="https://lxer.com/" target="_blank">lxer.com</a>
-                    </div>
-                    
-                    <p>This time of the year, clocks spring forward and fall back across the globe, but some places are making permanent changes – and Ubuntu needs to keep pace. Over recent weeks, Canonical has refresh Ubuntu’s system time zone database package tzdata on all supported releases to ensure the system reflects the local time in parts of Canada, where: The system needs to show the right time for obvious…</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://news.slashdot.org/story/26/11/05/2236227/the-great-pacific-garbage-patch-is-changing-the-color-of-the-ocean?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" target="_blank">The Great Pacific Garbage Patch Is Changing the Color of the Ocean</a></h2>
-                    <div class="meta">
-                        Nov 06, 2026 03:30 | 
-                        Source: <a href="https://slashdot.org/" target="_blank">slashdot.org</a>
-                    </div>
-                    
-                    <img src="https://a.fsdn.com/sd/twitter_icon_large.png">
-                    
-                    <p>An anonymous reader quotes a report from Scientific American: The Great Pacific Garbage Patch, an area in the Pacific Ocean where debris naturally accumulates, is full of tiny bits of plastic -- so full, in fact, that it seems to be changing the color of the ocean. [...] To better understand how microplastics may have influenced the ocean&#39;s color, [Daniel Koestner, a postdoctoral fellow at the University of Bergen in Norway] and his colleagues looked at 20 years of satellite data from the spot in the ocean with perhaps the most of plastic -- the Great Pacific Garbage Patch, a zone between Hawaii and California where trash trapped by ocean currents accumulates.
- 
-Between 2002 and 2022, the researchers found, waters near the garbage patch have gotten brighter in both blue and green wavelengths compared with surrounding areas. The results, published in the journal Communications Earth &amp; Environment on Thursday, don&#39;t yet prove that microplastics have directly brightened the ocean, the researchers emphasize, though their findings are backed up by lab experiments with microplastics. But without taking direct ocean samples, it&#39;s hard to know for sure what&#39;s causing the ocean&#39;s color to change.
-&#34;We&#39;re still one step away from proving definitively that microplastics are causing the shift in color that that we&#39;re seeing,&#34; adds study co-author Shea Cheatham, a Ph.D. student also at the University of Bergen. &#34;We just have to get in there [to the garbage patch] to verify.&#34;
- 
-The hope is that detecting these color shifts could help identify other areas around the world where microplastics have accumulated.
-
-
-
-
-
-Read more of this story at Slashdot.</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://lxer.com/module/newswire/ext_link.php?rid=368897" target="_blank">Linux&#39;s RAID6 Check Tool Sees 3x Performance Via Batching</a></h2>
-                    <div class="meta">
-                        Nov 06, 2026 02:53 | 
-                        Source: <a href="https://lxer.com/" target="_blank">lxer.com</a>
-                    </div>
-                    
-                    <p>For those that use Linux&#39;s raid6check command for checking/repairing an MD RAID6 software RAID array&#39;s device for errors, newly-merged code is showing up to a 3x performance improvement…</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://lxer.com/module/newswire/ext_link.php?rid=368901" target="_blank">OpenVPN 2.7.9 Released with Linux and GUI Improvements, Bug Fixes</a></h2>
-                    <div class="meta">
-                        Nov 06, 2026 01:41 | 
-                        Source: <a href="https://lxer.com/" target="_blank">lxer.com</a>
-                    </div>
-                    
-                    <p>The OpenVPN project released OpenVPN 2.7.9 today as the ninth maintenance update to the latest OpenVPN 2.7 series of this open-source software for connecting to virtual private networks (VPN).</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://yro.slashdot.org/story/26/11/05/2230215/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" target="_blank">Applebee&#39;s Exposed Customers&#39; Personal Data After Leaving Database Password In App</a></h2>
-                    <div class="meta">
-                        Nov 06, 2026 00:00 | 
-                        Source: <a href="https://slashdot.org/" target="_blank">slashdot.org</a>
-                    </div>
-                    
-                    <img src="https://a.fsdn.com/sd/twitter_icon_large.png">
-                    
-                    <p>Joe_Dragon shares a report from TechCrunch: Applebee&#39;s has fixed a security flaw that allowed anyone to access the personal information of its registered customers, after a researcher found a password for an internal database inside Applebee&#39;s mobile app, TechCrunch has learned. The popular restaurant chain confirmed [last Thursday] that it had taken action to address the security issue to prevent any unauthorized access to its customer database. [...] The exposed database contained customer names, email addresses (including whether or not the customer verified their email), dates of birth, phone numbers, and ZIP codes. The data also included veteran status, the number of times customers had logged in, when their accounts were created, and the IP addresses of their most recent log-ins, which can be used to reveal the person&#39;s approximate location.
- 
-[...] When asked by TechCrunch, the spokesperson would not say if the company has server logs that it can review to determine whether anyone accessed the database, or if it has any logs at all. &#34;Our investigation is ongoing, and we will take appropriate steps based on our findings,&#34; the company added. It&#39;s unclear how many customers were affected by the data exposure. [...] Applebee&#39;s had at least 8.5 million customers enrolled in its rewards program as of last year, though the company would not provide a number of how many customers had their personal information exposed by this security flaw.
-
-
-
-
-
-Read more of this story at Slashdot.</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://politics.slashdot.org/story/26/11/05/2150249/openai-responds-to-us-midterm-elections-with-new-commitment-to-communities?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" target="_blank">OpenAI Responds to US Midterm Elections With New Commitment to Communities</a></h2>
-                    <div class="meta">
-                        Nov 05, 2026 23:00 | 
-                        Source: <a href="https://slashdot.org/" target="_blank">slashdot.org</a>
-                    </div>
-                    
-                    <img src="https://a.fsdn.com/sd/twitter_icon_large.png">
-                    
-                    <p>&#34;OpenAI has published a new National Community Compact and Compute Campus Policy Blueprint, apparently in response to the Blue Wave Midterm Elections,&#34; writes ancient Slashdot reader Gilmoure. &#34;Instead of moving into communities like a juggernaut, they say they will be dangling friendly carrots going forward.&#34; Here&#39;s an excerpt from OpenAI&#39;s article: Every future compute campus OpenAI owns and operates will have its own local compact. We&#39;ll engage residents early enough to ensure their input shapes project plans, give them a local point of contact throughout the life of the campus, and report publicly each year on how we&#39;re doing. Each compact will reflect local priorities and include a common set of commitments:
- 
- - Pay our own way on energy and infrastructure. We&#39;ll pay the full cost of the electricity we use and the infrastructure needed to serve us. Before major spending begins, we&#39;ll provide financial assurances so other customers are protected if a project is delayed, reduced, or canceled.
- - Protect local resources and report on our impact. We&#39;ll develop a water plan for each campus, prioritize closed-loop or low-water cooling, and publish site-level water and electricity use. We&#39;ll publish construction plans and independent noise studies before operations begin and annually afterward. And we will not use non-disclosure agreements (NDAs) with public officials, allowing only narrow protections covering legitimate security information, trade secrets, or proprietary or competitively sensitive information.
- - Create opportunities for local workers and businesses. We&#39;ll publish the jobs we expect to create, work with unions and training providers to help residents prepare for them, and report annually on hiring and apprenticeships. We&#39;ll also make sustained investments in priorities residents help select.
- 
-[...] The investments that help America compete globally can also help communities prosper locally. That starts with giving residents a say while plans can still change and a way to hold developers accountable for delivering on their commitments. That&#39;s what we&#39;re committing to at the campuses we own and operate, and what we believe people should be able to count on wherever AI infrastructure is built across the country.
-
-
-
-
-
-Read more of this story at Slashdot.</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://www.phoronix.com/news/AMDGPU-HDMI-2.2-FRL-Fixes" target="_blank">AMDGPU Driver Seeing HDMI 2.2 FRL Fixes For Linux 7.4</a></h2>
-                    <div class="meta">
-                        Nov 05, 2026 22:07 | 
-                        Source: <a href="https://www.phoronix.com/" target="_blank">phoronix.com</a>
-                    </div>
-                    
-                    <p>With Linux 7.4 the AMDGPU driver enables HDMI 2.1 FRL functionality by default for driving higher refresh rate and higher resolution displays. That default enabling comes as HDMI FreeSync/VRR and ALLM features are also in place for Linux 7.4. Now coming by way of fixes for Linux 7.4 is also improving the Fixed Rate Link support with the newer HDMI 2.2 specification...</p>
-                </article>
-                
-                <article>
-                    <h2><a href="https://www.phoronix.com/news/Linux-7.4-rc1-Build-Times" target="_blank">Linux 7.4&#39;s Build Time Performance From Optimizations But Also Larger Codebase</a></h2>
-                    <div class="meta">
-                        Nov 05, 2026 21:44 | 
-                        Source: <a href="https://www.phoronix.com/" target="_blank">phoronix.com</a>
-                    </div>
-                    
-                    <p>With Linux 7.4 the patches to speed-up the kernel build process began to land. This is the work that&#39;s yielded extremely fast incremental builds and noop builds. The patch series in full is also allowing kernel build times approaching just ten seconds with enough CPU cores. In today&#39;s article is a look at the Linux 7.3 vs. 7.4-rc1 build time performance on the Framework Laptop 13 Pro powered by Intel Panther Lake...</p>
                 </article>
                 
             </div>
