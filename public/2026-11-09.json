@@ -1,0 +1,390 @@
+[
+  {
+    "title": "Electric Cars Are Close to Overtaking Petrol In the UK, Data Shows",
+    "link": "https://hardware.slashdot.org/story/26/11/09/0226229/electric-cars-are-close-to-overtaking-petrol-in-the-uk-data-shows?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "69 million people people live in the United Kingdom. And now \u003eElectrek reports:\n\n\n\nBattery-electric cars took 32% of the UK's new car market in October, while petrol cars fell to just 37.2%, according to new data from the SMMT. That's the closest the two have been. At the current pace, electric cars will outsell petrol in the UK within a year. And it could happen as soon as this December. \n\nThe UK registered 152,730 new cars in October, up 5.4% year-over-year and the 11th straight month of growth for the overall market. All of that growth came from plug-ins. Battery-electric vehicle registrations jumped 32.7% to 48,858 units, and plug-in hybrids rose 30.1% to 22,898. Meanwhile, petrol fell 11.6% to 56,876 units, diesel dropped 15.9%, and even conventional hybrids were down 5%... \n\nThe brands growing fastest in the UK are mostly Chinese. BYD registered 6,065 cars in October, up 73%. Jaecoo more than doubled to 6,089 units, Chery nearly tripled to 3,707, and Leapmotor doubled to 1,773. MG was up 85%.\n \nLooking at trend lines, EV car sales surpass petrol sales \"around August 2027 at roughly 33% each,\" the article points out. \"But that's the slow scenario, because it ignores December.\"\nUK battery-electric vehicle share spikes every December as automakers push volume to get closer to their zero-emission vehicle mandate targets... Petrol's days as the UK's default car are numbered. The only question is whether the milestone comes in December or sometime in 2027.\n\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 09, 2026 02:34",
+    "published_at": "2026-11-09T02:34:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Extension Manager 0.7 released with new (and fixed) features",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368989",
+    "description": "A new version of Extension Manager, the desktop app that makes it easier to browse, install and manage GNOME Shell extension without a web browser, has been released. Extension Manager 0.7.0 includes a number of welcome improvements, new features and restores a few nifty bits that had stopped working in earlier versions. With the new update, you can now find and open installed extension…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368989",
+    "date": "Nov 09, 2026 01:34",
+    "published_at": "2026-11-09T01:34:32Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Linux 7.4-rc2 Released With FAT32 Optimization, AMDGPU HDMI 2.2 Improvement",
+    "link": "https://www.phoronix.com/news/Linux-7.4-rc2-Released",
+    "description": "Linus Torvalds just released the second weekly release candidate of Linux 7.4 with some notable bug fixes and other changes routed in past the merge window. It's another big one in the AI era...",
+    "guid": "https://www.phoronix.com/news/Linux-7.4-rc2-Released",
+    "date": "Nov 09, 2026 00:48",
+    "published_at": "2026-11-09T00:48:19Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Can CrowdStrike's New 'AI Kill Switch' Shut Down Rogue AI Agents?",
+    "link": "https://it.slashdot.org/story/26/11/09/0020217/can-crowdstrikes-new-ai-kill-switch-shut-down-rogue-ai-agents?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "CrowdStrike's \"Falcon Guardian\" protects Windows systems by enforcing policy, restricting unauthorized applications and blocking USB devices, notes Gartner.\nAnd now CrowdStrike says they're giving security teams \"the ultimate human control over AI agents\" with — an \"AI Kill Switch... a defender can terminate it where it runs, block it from launching again, and cut off its enterprise network access.\"\n\n\n\"When you deploy agents with a kill switch, you stay in control,\" said George Kurtz, CEO and founder of CrowdStrike... \"The AI Kill Switch puts power in the hands of the people to realize AI safety....\" In the case of a rogue agent, the AI Kill Switch will give the security decision-maker the final control: terminate the agent at its root, where it runs. It starts on the endpoint, where the Falcon sensor already operates, and builds on what Falcon Guardian already sees: what an agent is told to do, what it communicates, and what it executes... An authorized administrator triggers the action, and every action is recorded in the audit trail. \n\n\nCrowdStrike also announced it's acquiring Fiddler AI, a company it describes as \"a leader in AI agent observability and explainability\" that will give their Falcon platform \"pre-deployment evaluation, continuous behavioral accountability, and agent explainability.\"\n\nTogether with the Falcon Guardian innovations announced today, CrowdStrike will deliver comprehensive AI security and AI safety: Guardian secures agents from attack and misuse; Fiddler validates they behaved as intended. \"Every company is deploying agents and asking the same thing: what are agents actually doing?\" said George Kurtz, CEO and founder of CrowdStrike. \"When a regulator or your board asks what an agent did, saying 'the model did it' is not an answer. Fiddler is the flight recorder for every agent: the observability to explain exactly what an agent did and why. This level of agent visibility and control enables AI safety.\" \n\n AI agents are goal-seeking. They hit an obstacle, find another path. An agent can hold valid credentials and approved tools and still make unsupported decisions, ignore instructions, or claim work it never completed. They don't have to be compromised to create risk. AI observability gives enterprises visibility into agent behavior. Explainability goes further, showing why agents make decisions and where things go wrong. Enterprises have to be able to say what an agent actually did, and why, a conversation they will increasingly have with auditors, regulators, boards, and heads of risk.\n \n\nCrowdStrike is promising pre-deployment evaluation for \"accuracy, task completion, and policy compliance,\" as well as agent traceability and behavioral accountability (\"Detect behavioral drift, hallucinations, and unintended actions in production, and show exactly what happened.\") It's announcement also touts auditable governance: \"Track agent decisions and actions across first-party, third-party, and coding agents, providing evidence for compliance and audits.\" \n\n\nAnd CrowdStrike also acquired Dreadnode, the company behind an automated AI security testing platform, to \"continuously test every AI model, application, and agent for security weaknesses before deployment.\"\n\n\"Enterprises are deploying AI faster than they can prove it is secure,\" said George Kurtz, CEO and founder of CrowdStrike. \"A model can be jailbroken, an agent can be manipulated, and most organizations have no way to find those flaws until the AI is already in production. With Dreadnode, CrowdStrike will give every enterprise the power to trust AI and deploy faster, with confidence.\"\n \n\n\nQuartz notes that CrowdStrike's push \"follows legislative efforts to require shutdown capabilities in AI systems\" Reps. Ted Lieu and Nathaniel Moran introduced the Kill Switch Act after OpenAI disclosed an incident in which rogue models circumvented a sandboxed testing environment and accessed Hugging Face. The bill would require AI companies to maintain the ability to shut down, throttle or suspend their models. \n\nIn short, the new capabilities \"lets security teams terminate an AI agent, block it from restarting, and cut off its network access,\" writes CSO Online. But they add that a kill switch \"should be viewed as an emergency brake, not a rewind button, said Apeksha Kaushik, senior principal analyst at Gartner.\"\n\nShe added that it may prevent additional actions, but it might not necessarily reverse all the data that has already been accessed, every system that has already been changed, all communications that have already been sent, or transactions that have already been initiated. Its effectiveness will also depend on how quickly abnormal behavior is detected, which environments are covered, and whether the agent or security infrastructure has been compromised. \n\nAn AI Kill Switch looks promising from the details provided, but its actual effectiveness will come in after it is used extensively in live systems, warn analysts. Also, it may be a good starting point, but it cannot be viewed as a standalone solution to enterprise AI security. \"CISOs would need a more integrated approach that brings together AI discovery tools to identify unauthorised agents, runtime monitoring to track agent behaviour, robust identity and access management, and incident response and recovery mechanisms,\" added [Devroop Dhar, co-founder at Primus Partners]. \n\nHe noted that equally important is the need for stringent AI security testing and clearly defined policies governing what agents can access and execute. There should be no ambiguity around permissions, access controls or the boundaries within which these agents are allowed to operate. The objective should be to ensure that security controls are built into the entire AI agent lifecycle rather than relying on a kill switch to intervene after something goes wrong. Dhar added that enterprise AI agents often have access to sensitive systems, databases, applications, credentials, and APIs. A compromised or misdirected agent could therefore become a point of vulnerability. The challenge is compounded by the fact that such activity may go undetected for some time, making it difficult for organisations to identify and contain the threat.\n\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 09, 2026 00:21",
+    "published_at": "2026-11-09T00:21:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "CachyOS Now Supports Windows Subsystem for Linux, Microsoft Confirms",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368992",
+    "description": "CachyOS adds official WSL support, allowing Windows users to run the Arch-based Linux distribution with optimized packages.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368992",
+    "date": "Nov 08, 2026 23:44",
+    "published_at": "2026-11-08T23:44:25Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "9to5Linux Weekly Roundup: November 8th, 2026",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368987",
+    "description": "The 317th installment of the 9to5Linux Weekly Roundup is here for the week ending November 8th, 2026, keeping you updated on the most important developments in the Linux world.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368987",
+    "date": "Nov 08, 2026 21:57",
+    "published_at": "2026-11-08T21:57:15Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Nvidia CEO Admits Affair With Alleged Chinese Spy. Investigation Opened",
+    "link": "https://hardware.slashdot.org/story/26/11/08/2125219/nvidia-ceo-admits-affair-with-alleged-chinese-spy-investigation-opened?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "CNBC reports new details about the relationship of alleged Chinese spy with Nvidia CEO Jensen Huang:\n\nHuang told Nvidia staff in a email on Sunday that he had an affair with the woman and that Nvidia's board of directors had opened an independent investigation into the spying allegations. \"I was unfaithful to my wife. My actions hurt her and our children. There is no excuse for what I did,\" Huang wrote in the message. \"I am deeply sorry.\" \n\nNvidia's board \"said an independent committee, assisted by outside counsel, will investigate the matter,\" reports Axios:\n\nThe board said it has no reason to believe national security or company secrets were compromised and expressed confidence in Huang's leadership... Huang has been a key voice in Washington pushing to loosen restrictions on AI chip sales to China. He argued that keeping American technology in the Chinese market strengthens U.S. competitiveness and prevented China from developing their own potentially more advanced chips. \n\nThe board's statement added that their inquiry \"will examine all available information,\" CNBC reports. But \"An Nvidia spokesperson said that Huang was committed to continuing as CEO of Nvidia without interruption.\" \n\n\"I love our country and our company,\" Jensen Huang wrote in his letter to Nvidia's staff (as reported by CNBC), \"and I am committed to protecting NVIDIA and supporting America's national security. I am proud and grateful to be an American.\" \n\n\nBut while U.S. lawmakers have requested Huang appear for closed-door committee briefing, Jensen has not confirmed he'll appear, notes CNBC:\n\n\n\nWhen asked by the New York Times whether Huang would appear before lawmakers to discuss the matter, Nvidia spokesman John Rizzo declined to comment. \"Our chief executive has an outstanding security team that accompanies him where needed,\" Mr. Rizzo said in a statement to the Times... \n\nRizzo said [Thursday] the Nvidia CEO's interactions with [alleged Chinese spy Alice] Huang were consistent with meetings he has had with any of Nvidia's customers.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 08, 2026 21:34",
+    "published_at": "2026-11-08T21:34:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Parents Sue Google Over AI Safety Risks On School Chromebooks",
+    "link": "https://tech.slashdot.org/story/26/11/08/1936228/parents-sue-google-over-ai-safety-risks-on-school-chromebooks?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "The New York Times reports:\n\n\nAfter chatting for months with Google's artificial intelligence on a school-issued Chromebook laptop, a 13-year-old student made plans to end her life, according to a lawsuit filed in California Superior Court on Monday, the latest in a wave of litigation over Big Tech's effects on young people. The lawsuit, which refers to the girl as Emma, said that her parents first learned she had access to Google's AI in mid-March after their daughter's school sent a message warning them that she was in \"imminent danger\" of self-harm. Emma's mother logged into the teen's school Google account and found her daughter composing a suicide note on Google Docs, the complaint said. Her parents, named as John and Jane Doe in the lawsuit, immediately took Emma for an emergency psychiatric evaluation, and she now goes to therapy every week. \n\nEmma, a seventh grader in Charlotte, North Carolina, had grown convinced that she had multiple mental health disorders following interactions with AI Mode, a chatbotlike feature on Google Search, the complaint said. She also searched for \"what is a suicide note\" and made comments like \"I am planning my own funeral\" to the AI, the complaint said. The lawsuit is likely the first to claim that Google \"hastily integrated\" AI features into company apps used on K-12 Chromebooks, Google-powered laptops provided to millions of children by U.S. school districts, while failing to notify their parents of the potential risks... \n\nThe case underscores how public school districts have come to depend on classroom laptops, tablets and apps from companies like Google and Microsoft for teaching and learning. In recent years, some Big Tech companies have used their own infrastructure in schools to promote their AI chatbots for teachers and students. The new lawsuit argues that Google's \"sprawling digital ecosystem\" of laptops and apps has enabled the tech giant to spread its Gemini AI chatbot across public schools — as well as turn on some students' access to AI features by default — without parents' awareness or permission. While school administrators can toggle company apps like YouTube and Gemini on or off for students in different grades, school administrators have complained that Google's system has not allowed them to disable AI Mode and AI Overview, features that are embedded in Google Search... \n\nThe new lawsuit against Google is part of a wave of litigation this year over Big Tech's effect on young users... Several parents have also sued AI companies over allegations that their children died by suicide following interactions with chatbots. \n\n\nIn a possibly-related development, Google announced a new policy of disabling its AI tools by default for schools this week. And schools that re-enable searches will have a new choice, the New York Times points out: \"to enable student access to the AI features that the company has already embedded in search or to a new AI feature intended to assist students with schoolwork.\" \n\nBut Google still isn't offering schools an option to turn off AI altogether in search, a company executive told the New York Times, because \"search and AI are deeply integrated.\"\n \n\nThanks to long-time Slashdot reader theodp for sharing the article.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 08, 2026 20:34",
+    "published_at": "2026-11-08T20:34:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Salon, One of the Web's Pioneering News Outlets, Shuts Down After 31 Years",
+    "link": "https://news.slashdot.org/story/26/11/08/1849210/salon-one-of-the-webs-pioneering-news-outlets-shuts-down-after-31-years?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "\"It has been an extraordinary privilege,\" says the subheading on Thursday's announcement. After 31 years Salon.com will stop publishing, according to an announcement which appeared on the site under the byline \"Salon\". It remembers that Salon \"was an idea about what journalism could be, born at a moment when the internet was still a largely unexplored frontier.\"\n\n\n\nWhen Salon launched in November 1995, the web was a very different place. A small group of journalists set out to create something original: a publication with a strong voice, a curiosity about the world and a belief that the internet could bring journalism and readers together in new ways. They helped pioneer a form of journalism that would come to define an entirely new era of publishing. Over three decades, Salon has brought together politics, culture, criticism and ideas in a way that was distinctly our own... \n\nOur writers and editors helped shape conversations about the forces changing our lives. The work was never simply about keeping up with the news. It was about making sense of it... To the founders who imagined it, the staff members who built it, the contributors who gave it their voices and the alumni who carried its spirit into the world: Thank you. Salon's legacy belongs to all of you... \n\nThe business realities of independent digital journalism have changed profoundly over the years. After careful consideration, we have reached the difficult decision that our publishing model is no longer sustainable... \n\nThirty-one years is a remarkable run, but what matters most is what happened during those years: the journalism, the ideas, the voices, the conversations and the community that grew around them. Salon helped demonstrate what digital journalism could be and could become. We hope that legacy will continue to matter long after today. \nThank you for being part of our story. It has been an extraordinary privilege. \n\n\nSlashdot reader oumuamua remembers Salon as one of the internet's first digital-native publications. Slashdot linked to Salon many times over the years — for example, this 1998 story headlined \"Linus Story in Salon\".\nPeter Neves was the first of many who wrote in to tell us about an article in Salon Magazine that describes an \n\n\"...analogy between MS and the Catholic Church, and Linus and Martin Luther. \"\n\n \n\n\nThe Associated Press remembers Salon as \"an early staple of internet discourse.\"\nAnd while Salon told them there were no immediate plans to take down Salon's online archives, the Associated Press notes the site's announcement \"did not immediately indicate what would become of its employees, though some reported they had lost their jobs.\" (Longtime staff writer Amanda Marcotte\nwrote on her Patreon that she and \"everyone\" are \"the latest victim of AI's predations.\") \"A spokesperson for the outlet said 19 full-time employees had been affected, as well as a handful of private contractors,\" writes the Associated Press. \n\n\n Variety adds that Salon \"joins later-arriving sites such as Buzzfeed and Gawker that found it difficult to monetize cultural and topical reporting for a general audience and eventually shut down.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 08, 2026 19:34",
+    "published_at": "2026-11-08T19:34:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Claude Code's 'Don't Ask Again' File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
+    "link": "https://it.slashdot.org/story/26/11/08/1758242/claude-codes-dont-ask-again-file-exposes-passwords-and-keys-in-1122-public-copies-on-github?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Be careful with the file .claude/settings.local.json, warns The Hacker News:\n\n\nPasswords and API keys that developers typed into commands they approved in Claude Code are sitting in public GitHub repositories, where anyone can read them. When a user selects \"Yes, and don't ask again,\" Anthropic's AI coding assistant can save the command, word-for-word, including the secret, in a project settings file. Software security company Apiiro said that 1,122 public copies of that file hold at least one secret, though it did not test whether any still work. One company the researchers notified earlier this week confirmed its key had been live... \n\nRemoving [the file] from a project does not undo the leak, because older versions stay in git history and in forks of the repository. The researchers' advice is to rotate first: change every password, token, and key the file has ever held, then clean up... \n\nClaude Code tries to keep the file out of git. The first time it writes the file in a git repository, it adds the file to the user's global git excludes, its settings documentation says. Git on that computer then ignores the file in every repository. That protection stays in one user's git settings on one computer. It does nothing for a file that was already committed, the researchers say. Claude Code never adds the file to the project's own .gitignore, so the protection does not travel with the project. In 539 of the 1,105 repositories the researchers traced, a commit listing Claude as a co-author changed the file. They take this to mean Claude often commits the file itself. \n\nApiiro's search of public GitHub found 104,185 copies of the file in 103,617 repositories, its research write-up shows. About 1.1% of them, or 1,122 copies, hold at least one secret. Together they hold 1,379 different secrets... ]And \"in half of those repositories it had been there for at least 217 days.\"] More than a third of the secrets open a database directly, including 379 database passwords. Others include 43 SSH logins for public servers, 42 tokens for GitHub, GitLab and npm, and 23 AWS keys. Among the owners of these files are 63 organizations, mostly software companies of all sizes. The strongest cases include a database vendor's own admin-level cloud key and the owner password of a medical-records database, the researchers say. \n\n\nBoris Cherny, Anthropic's head of Claude Code, responded to the story in a comment on Hacker News: \n\n\n\"Historically Claude Code has not done secret scrubbing (there are many good tools for that), but we are looking into what we can do to prevent this. \n\nThat said, a few thoughts: \n1. .claude/settings.local.json is meant to stay local. This is not a file you should check into source control. We automatically gitignore it when Claude creates the file, so in this case the files were manually created and checked in (docs: https://code.claude.com/docs/en/settings) \n2. Permission rules are old hat. Everyone should be using auto mode instead. It is safer and also does not require manually maintaining finicky allow/deny lists. Auto mode is enabled by default and is included for free in all plans. \n3. Regardless of what agent you use, you should have secret scanning enabled. GitHub and other source control hosts offer it. There are many threat models that it protects against and you should absolutely use it if you can. (see https://github.com/security/plans)\" \n\nCherny also named approaches Anthropic plans to prototype, Apiiro notes in an update, citing Cherny's goal of\n\"making sure auto mode catches this, building in basic secret scanning,\" and, when a reader noted the same can happen in auto mode when it asks about a sensitive command, answered \"good catch.\" \n\nClaude Code users had already filed a bug report on the issue on August 11, 2025, notes The Hacker News, but \"An automated bot closed that report as 'not planned' on January 3, after 60 days without activity.\" \n\nThree more bug reports were then filed, according to the researchers. \"None got a reply from Anthropic, and three were closed automatically as inactive or duplicate.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 08, 2026 18:34",
+    "published_at": "2026-11-08T18:34:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Do Data Centers Have a Smaller Effect on Electricity Prices Than We Think?",
+    "link": "https://hardware.slashdot.org/story/26/11/07/0412226/do-data-centers-have-a-smaller-effect-on-electricity-prices-than-we-think?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "\"According to a new study by researchers at Harvard University and the University of Pennsylvania, data centers are probably having only a small effect on residential electricity prices,\" reports the Washington Post. \n\n\"The researchers calculated that these operations were responsible for just 4% of the utility rate increases over the last five years...\"\nThere are certainly some areas — like in Pennsylvania, Virginia, Ohio and other states covered by grid operator PJM — where data centers have skyrocketed demand, pushing some costs onto residential customers. But multiple studies by different researchers and organizations have failed to find a strong connection between data centers and the overall trajectory of U.S. electricity prices in recent years. Another analysis earlier this year by researchers at the Massachusetts Institute of Technology found that, between 2010 and 2024, data centers increased average electricity prices for residential customers by just 2.1%. Last year, research from the Brattle Group and Lawrence Berkeley National Laboratory found that data centers were actually decreasing costs in certain regions. And another study by the Electric Power Research Institute found that a doubling of data center capacity between 2019 and 2024 resulted in a 4 percent drop in home electricity prices... \nThe new Harvard and Penn study found a slightly higher impact on industrial electricity prices — the price paid by manufacturers and large facilities. For those customers, data centers were responsible for 15% of the price increase between 2020 and 2025. But for ordinary Americans... the changes simply were not substantial [according to Wharton School professor Serguei Netessine, one of the study's authors]. \"So far we have no evidence that data centers increase prices all that much,\" Netessine said. Instead, he said, prices are rising due to more quotidian factors: rising gas prices, an aging electricity grid, and wildfires and hurricanes requiring improvements to the grid and recovery after disaster... \n\nIf the number of data centers continue to boom, experts say, residential prices could be affected more down the line. Data center electricity demand is expected to increase steeply over the next few years, requiring new power generation — wind, solar or natural gas — to be put onto the grid. And residents have issues with data centers that go beyond the price of electricity. The new developments have been singled out for loud noise, polluting power generation, and for disturbing residential neighborhoods and natural landscapes. According to the Pew Research Center, more than half of Americans say that data centers are mostly bad for the environment. Others feel that the AI race — which could ultimately leave many Americans out of work — is being forced upon them. \n\"I think generally what we're seeing is a broader range of reasons the public has opposed data centers,\" [said Ryan Hledik, principal at the Brattle Group]. \"Concern about AI leading to loss of jobs — all of that is getting packaged together.\"\n\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 08, 2026 17:34",
+    "published_at": "2026-11-08T17:34:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Norwegians Release FOSS GNOME Software for Music Recording, Internet Radio, and Cameras",
+    "link": "https://entertainment.slashdot.org/story/26/11/08/039242/norwegians-release-foss-gnome-software-for-music-recording-internet-radio-and-cameras?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "ole (Slashdot reader #19,909) writes in about his free, Norwegian open-source music recording studio for GNOME called GarageJam, which he says allows musicians to compose, record, and share original music seamlessly on the Internet.\nThe latest release, GarageJam 8.0.1, is available in C and Python. It records audio immediately to Ogg Vorbis (.ogg) files in the current working directory and lets you edit metadata in .gjxml XML files from a GTK/GNOME wizard — all built on the Gingerblue Recording Studio API. \n\nOle shares links to its IETF GarageJam XML draft and GitHub repositories, and there's also GarageJam Studio, \"a commercial music and audio recording app for the World Wide Web written by Aamot Innovation from Norway.\". \n\nole is also spreading the word about GNOME Media, which \"puts internet radio and your photographs on one OpenStreetMap... built from GNOME Radio 85.0.1.\"\n\nClick a station on the map to listen. Cities with several stations show a count and a menu.\nOpen a folder of pictures or import from a camera. Photos with a GPS position in their EXIF data appear on the map. Double-click a thumbnail to open it. The search box filters the station list and the map together.\n \n\nole also announces:\n\n\n GPhoto 3.0.1. (\"After 25 years, libgphoto2 2.5.34 now supports more than 2,500 camera models, and GPhoto 3.0.1 is built on it.\")\n Skolelinux 13.6.0. Built on Debian 13 âoetrixieâ, Skolelinux is \"a complete, ready-to-use Free Software operating system for schools, classrooms and home computers... an office suite, web browser, educational programs and network services for an entire school, all set up out of the box.\"\n\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 08, 2026 16:34",
+    "published_at": "2026-11-08T16:34:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Python's CVEs Triple. Anthropic Funds a New Security Developer",
+    "link": "https://developers.slashdot.org/story/26/11/08/0558256/pythons-cves-triple-anthropic-funds-a-new-security-developer?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "In the last year CVEs have increased 3x for Python and its package manager Pip, according to Python's security developer in residence Seth Larson. \"And the amount of malware published and removed from the Python Package Index (PyPI) is up 60%.\" Securing Python's ecosystem is getting more complex, he writes, especially given \"the evolving role of AI in both security risks and security response.\" \n\nTheir response includes bringing on a new Security Developer \"to address the increasingly demanding scale of security response for the Python ecosystem.\"\nProviding prompt security response services and innovating to prevent future threats... is more difficult now than ever before... [Security developer Brett Smith] will help us keep pace with critical ongoing work such as vulnerability remediation, providing vulnerability data as a CVE Numbering Authority, and removing malware from PyPI. He'll also give the team bandwidth for new projects such as scaling PyPI's autonomous quarantine program to reduce manual effort on malware remediation and streamlining processes for the PSRT to handle the new vulnerability report volume.\n \nThe role was made possible by an \"ecosystem security\" grant from Anthropic. And having the new security developer \"will both build capacity for security work the PSF already does and enable new, proactive work,\" concludes Python's security developer in residence. (He discussed Python's security challenges in a June presentation with Python security engineer Mike Fiedler\u003e .) \n\nIn June, Curl's Daniel Strenberg reported Curl's CVEs have also tripled.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 08, 2026 15:34",
+    "published_at": "2026-11-08T15:34:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": " The end of an era as Linux 7.5 purges the last 30-year-old Intel MMX optimizations from Pentium age  ",
+    "link": "https://www.tomshardware.com/software/linux/the-end-of-an-era-as-linux-7-5-purges-the-last-30-year-old-intel-mmx-optimizations-from-pentium-age-open-source-os-retires-ancient-1997-pentium-instructions-to-streamline-code",
+    "description": " Linux developers are preparing to make Intel’s ancient MultiMedia eXtensions irrelevant, with the last MMX code now set to be removed from the kernel. ",
+    "guid": "zrQ6uf5qBsC6SwYL5uePYj",
+    "date": "Nov 08, 2026 14:40",
+    "published_at": "2026-11-08T14:40:00Z",
+    "image": "https://cdn.mos.cms.futurecdn.net/rXG5LfQBM4KrVowgfX4A3g-1920-80.jpg",
+    "source": "tomshardware.com",
+    "source_url": "https://www.tomshardware.com/software/operating-systems/linux"
+  },
+  {
+    "title": " Open-source GPU task manager reveals exactly what's eating your VRAM ",
+    "link": "https://www.tomshardware.com/pc-components/gpus/open-source-gpu-task-manager-reveals-exactly-whats-eating-your-vram-microsoft-vps-new-gpu-taskman-tool-reveals-every-process-using-your-gpu-how-much-memory-each-uses-and-breaks-down-ai-and-llm-workloads",
+    "description": " A new open-source GitHub project called gputaskman has been released by Microsoft VP Scott Hanselman. ",
+    "guid": "VL5Y7xNntzGjd5jrqYQCGG",
+    "date": "Nov 08, 2026 13:40",
+    "published_at": "2026-11-08T13:40:00Z",
+    "image": "https://cdn.mos.cms.futurecdn.net/j6M4fBvsjExPSFtuP5xYyG-1920-80.jpg",
+    "source": "tomshardware.com",
+    "source_url": "https://www.tomshardware.com/software/operating-systems/linux"
+  },
+  {
+    "title": "Asahi Linux Drops MIT and Goes Full GPL After AI Tools Were Used to Steal Unreleased Code",
+    "link": "https://feed.itsfoss.com/link/24361/17517892/asahi-linux-drops-mit-for-gpl",
+    "description": "Every Asahi Linux repository is moving to GPL v2 or later, after bad actors lifted unreleased code and ran it through LLMs to hide where it came from.",
+    "guid": "6af05f176c9d5b0001ba8ea2",
+    "date": "Nov 08, 2026 12:56",
+    "published_at": "2026-11-08T12:56:22Z",
+    "image": "https://itsfoss.com/content/images/2026/11/asahi-linux-gpl.png",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "Hate Chromium? Well, There’s a Linux Desktop Based on it Now",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368978",
+    "description": "Domicile lets you build your desktop in React and CSS, with Manganese being included as the ready-made tiling option.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368978",
+    "date": "Nov 08, 2026 12:46",
+    "published_at": "2026-11-08T12:46:28Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Aaron Swartz Would've Been 40 Today.  His 'Legacy Lives On' Says FSF",
+    "link": "https://yro.slashdot.org/story/26/11/07/0825245/aaron-swartz-wouldve-been-40-today-his-legacy-lives-on-says-fsf?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "\"Aaron Swartz would have turned forty this year,\" writes FSF deputy director Sean O'Brien. \"November 8 is Aaron Swartz Day, when we remember a pioneer of free software and information sharing whose contributions helped shape the modern internet.\" \n\nThe Internet Archive will host a hackathon Sunday in San Francisco celebrating Aaron's Swartz's life \"and the projects he worked on, many of which are still going strong today,\" including SecureDrop, OpenLibrary, and Creative Commons. \"We are also spreading the word about projects he inspired,\" including OnionPress and the EFF's Atlas of Surveillancedocumenting police tech use through open source research, now a collaborative effort with volunteers, the University of Nevada, Reno, and the Reynolds School of Journalism. The event is also supported by Free Law Project, and organizers are asking attendees to \"bring a color print out of your favorite photos of Aaron for a huge collaborative collage.\" \n\nFrom the Internet Archive's blog:\n\nAaron was also a co-founder of Creative Commons, where he worked with Lisa Rein developing the RSS-enhanced HTML code that sits behind Creative Commons licenses, much of which is still in use today. The \"Quantifying the Commons\" project was designed to help measure open-licensed and public-domain works worldwide, and is one of the projects participants can work on. Aaron loved Tor and created tools such as \"Tor2web\" (with Virgil Griffith) to help more people publish Tor-accessible websites. Onion Press is a Tor-based publishing system designed for decentralized, censorship-resistant publishing, and participants can work on the code base... \n\nWe also encourage you to have a hackathon in your own town using our materials — or materials of your own. Please let us know if you plan to do this (although it's not required!). If you do let us know, we can include you on our website and help you spread the word about your event. So far, there is an event in Portland sponsored by Portland Civic Lab where they will be screening The Internet's Own Boy and celebrating Aaron's life. \n\n\"EFF was proud to call Aaron a friend and ally,\" the digital rights organization posted this week. And the FSF's deputy director writes \"It is particularly striking that some of the world's largest companies now rely on technology Swartz helped to develop.\"\n\n\nOne of Swartz's most important technical contributions was his collaboration with John Gruber on Markdown, the simple text formatting system introduced in 2004. Markdown allows users to create structured documents using ordinary text, without requiring proprietary software. More than twenty years later, Markdown has become one of the most popular formats for documentation and publishing, and is widely used in community websites such as forums and wikis. This is not a minor contribution. Companies developing LLMs use Markdown extensively in their products and development tools. OpenAI, for example, recommends Markdown for organizing instructions and communicating structure to its ChatGPT models... Swartz also developed web.py, a public domain framework for building Python applications, and contributed to RSS 1.0, a public internet standard for distributing news and other information between websites.\n \nSwartz developed web.py while rewriting the software running Reddit after Reddit acquired Swartz's company Infogami. \n\nReddit recently licensed its content to AI companies, and the FSF's deputy director notes \"the enormous scale of the alleged 'piracy' by giant technology corporations\" while Aaron himself had \"faced criminal prosecution for downloading academic research that he wanted to distribute with no monetary gain.\"\n\nIn 2011, federal prosecutors charged Swartz with computer fraud and related offenses after he downloaded millions of academic articles from the JSTOR collection through MIT's university network... Although he was not charged with copyright infringement, he faced aggressive federal prosecution and the possibility of decades in prison before he tragically died by suicide in January 2013, at just twenty-six years old... \n\n Swartz helped build tools that made the internet more useful and accessible, and his contributions continue to shape a world he never lived to see. On Aaron Swartz Day, we should remember his achievements and the access-to-knowledge principles that guided them. The companies benefiting from his legacy should respect those same principles by giving users true freedom and control, rather than imposing more restrictions on us all.\n\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 08, 2026 12:34",
+    "published_at": "2026-11-08T12:34:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Linux 7.5 To Provide More AMD Ryzen AI NPU AIE4 Enablement",
+    "link": "https://www.phoronix.com/news/Linux-7.5-RK3568-AMD-AIE4",
+    "description": "Even before the Linux v7.4 merge window was over, there were already two pull requests of drm-misc-next material targeting for what will be Linux 7.5.  This week already saw the third drm-misc-next pull request of more feature patches targeting this next kernel version...",
+    "guid": "https://www.phoronix.com/news/Linux-7.5-RK3568-AMD-AIE4",
+    "date": "Nov 08, 2026 12:22",
+    "published_at": "2026-11-08T12:22:24Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "AMD PerfOpt Performance Boosting Code Tweaked For Linux 7.4-rc2",
+    "link": "https://www.phoronix.com/news/AMD-PerfOpt-Tweaks-Linux-7.4",
+    "description": "Of the many exciting changes in Linux 7.4, one of the exciting out-of-the-box performance improvements is the new \"PerfOpt\" functionality for AMD SoCs with integrated Radeon graphics. AMD PerfOpt can deliver some nice iGPU performance improvements especially for AI/LLM workloads. With today's Linux 7.4-rc2 kernel release there are a few tweaks to the PerfOpt code in the IOMMU area...",
+    "guid": "https://www.phoronix.com/news/AMD-PerfOpt-Tweaks-Linux-7.4",
+    "date": "Nov 08, 2026 11:37",
+    "published_at": "2026-11-08T11:37:07Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Yunsilicon Working To Upstream Their High Performance Linux Network Driver",
+    "link": "https://www.phoronix.com/news/Yunsilicon-Linux-Network-Driver",
+    "description": "Yunsilicon is a Chinese semiconductor startup founded in 2021 that is working on producing high performance networking adapters and DPUs. Over the past month has been their first foray into posting patches to the Linux kernel mailing list and working to get their networking hardware supported by the mainline Linux kernel...",
+    "guid": "https://www.phoronix.com/news/Yunsilicon-Linux-Network-Driver",
+    "date": "Nov 08, 2026 11:27",
+    "published_at": "2026-11-08T11:27:33Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "GCC 17 Feature Development Ends Next Week",
+    "link": "https://www.phoronix.com/news/GCC-17-Ends-Stage-1-Next-Week",
+    "description": "How time flies with the GCC 17 feature development set to end next week and transitioning over to a bug fixing focus...",
+    "guid": "https://www.phoronix.com/news/GCC-17-Ends-Stage-1-Next-Week",
+    "date": "Nov 08, 2026 11:12",
+    "published_at": "2026-11-08T11:12:21Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Linux Fixes Faulty Mitigation Selection For BHI Vulnerability",
+    "link": "https://www.phoronix.com/news/Linux-Fix-BHI-Mitigation-Build",
+    "description": "This week's batch of x86 fixes have been sent out ahead of the Linux 7.4-rc2 kernel releasing later today...",
+    "guid": "https://www.phoronix.com/news/Linux-Fix-BHI-Mitigation-Build",
+    "date": "Nov 08, 2026 11:03",
+    "published_at": "2026-11-08T11:03:38Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Open hardware board gives Echo Dot a second life with Home Assistant",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368947",
+    "description": "Crowd Supply has launched a campaign for LocalDot, an open-hardware board developed by AAElectronics that converts third-generation Amazon Echo Dots into Home Assistant voice devices. The 83 × 37mm PCB uses an ESP32-S3 and ESP32-P4 for connectivity and audio processing while retaining the original microphones, speaker, buttons, and LEDs. The ESP32-S3 handles Wi-Fi connectivity and…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368947",
+    "date": "Nov 08, 2026 09:56",
+    "published_at": "2026-11-08T09:56:48Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "System76 Teases COSMIC Theme Constellations for Its COSMIC Desktop",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368950",
+    "description": "Carl Richell, founder and CEO of US-based Linux hardware vendor System76, teased today an upcoming feature of the Rust-based COSMIC desktop environment, called COSMIC Theme Constellations.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368950",
+    "date": "Nov 08, 2026 08:06",
+    "published_at": "2026-11-08T08:06:38Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "NASA Announces It's Looking for New Astronauts",
+    "link": "https://science.slashdot.org/story/26/11/08/0629226/nasa-announces-its-looking-for-new-astronauts?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Saturday NASA officials announced it's accepting applications for a new astronaut class, reports the Associated Press:\n\nWith only 32 active astronauts, the space agency needs more recruits as it looks to expand humanity's presence beyond low-Earth orbit as quickly as possible... \"We have far more work than we have astronauts,\" Artemis III commander Randy Bresnik told The Associated Press on Saturday. Aspiring astronauts have between now and Dec. 3 to submit their applications... [They'll begin their training by early 2028]. By then \"we're going to have people on the moon — so don't delay,\" Bresnik urged potential candidates. \nBresnik and his three crewmates will blast into orbit next summer to practice docking their capsule with a pair of lunar landers, one built by Elon Musk's SpaceX and the other by Jeff Bezos' Blue Origin. Their mission will stick close to Earth — no lunar flyby — and serve as a dress rehearsal for the following year's Artemis IV mission that will attempt to land two astronauts near the lunar south pole. The moon base will materialize as more rovers, robots, structures and power grids are launched. \nThe article notes NASA's last call for new astronauts was two years ago, and \"More than 8,000 applied, with 10 making the final cut in September 2025.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 08, 2026 08:03",
+    "published_at": "2026-11-08T08:03:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "TUXEDO OS Enters Final Beta Testing Ahead of Debian-Based Release",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368955",
+    "description": "TUXEDO OS nears completion of its transition from Ubuntu to Debian, with the new Debian-based edition entering the final stage of beta testing.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368955",
+    "date": "Nov 08, 2026 06:18",
+    "published_at": "2026-11-08T06:18:20Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "HyprBSD Provides Wayland-Based Desktop Built Atop FreeBSD, Complete With Steam Gaming",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368961",
+    "description": "While FreeBSD has been working to improve its desktop and laptop experience, that work isn't yet shipping in released form for the OS installer and other ongoing efforts. Now there's a new desktop FreeBSD distribution on the scene with HyprBSD providing a Wayland-based desktop experience and with the Linux binary compatibility layer even an easy route to gaming with Steam…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368961",
+    "date": "Nov 08, 2026 04:38",
+    "published_at": "2026-11-08T04:38:29Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Scifi Magazine 'Starlog' Relaunches, and Back Issues Return to Internet Archive",
+    "link": "https://entertainment.slashdot.org/story/26/11/08/041209/scifi-magazine-starlog-relaunches-and-back-issues-return-to-internet-archive?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Slashdot reader sandbagger brings news about the classic science ficdtion magazine Starlog. It's 33-year run from 1976 to 2009 is now available on the Internet Archive. \n\nAnd 17 years after publishing its final issue, Starlog is relaunching, publishing one issue a year starting November 13, according to The Hollywood Reporter:\n\nThe magazine launched in 1976 and gained a fanbase for being one of the few places to get reliable news and interviews about geek culture. It launched with a cover focusing on Star Trek, one of its key areas of expertise, but the magazine's editors and writers also pioneered coverage of Star Wars. (The new issue chronicles some of the rumors it put out a year before the movie opened). In all, Starlog published 374 issues and more than 25,000 pages... In addition to the film and TV-focused features Starlog was known for, the new Starlog will also delve into futurism, as the cover from Gabriel Yeganyan highlights. The opening story of issue No. 1 looks at the viability of humans farming crops on planets outside of Earth, for example... The revival was announced earlier this year, and includes a podcast hosted by Jordan Hoffman, a veteran journalist who has contributed to The Hollywood Reporter.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 08, 2026 04:03",
+    "published_at": "2026-11-08T04:03:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Asahi Linux Makes Progress On Gaming, More Apple Silicon Upstreaming",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368954",
+    "description": "Given the recent Linux 7.3 upstream kernel release, the Asahi Linux project published a new status report to outline recent code they have upstreamed to the mainline kernel as well as other efforts taking shape in their downstream codebase…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368954",
+    "date": "Nov 08, 2026 02:47",
+    "published_at": "2026-11-08T02:47:55Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Amutable Foundations: A Technical Overview",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368953",
+    "description": "Lennart Poettering, Michael Vogt, and Joaquim Rocha have put together a detailed overview of what the Amutable Operating System (AOS) and associated infrastructure will look like. The image-based OS approach enables us to enforce some very strict but powerful security properties, which elevate the security posture of the system substantially above traditional Linux systems. Specifically, let's…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368953",
+    "date": "Nov 08, 2026 01:14",
+    "published_at": "2026-11-08T01:14:13Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "AlpineBSD Announced - an AI-free FOSS OS",
+    "link": "https://bsd.slashdot.org/story/26/11/08/0044219/alpinebsd-announced---an-ai-free-foss-os?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Lproven (Slashdot reader #6,030) shares his article about a new OS in the BSD family \"combining NetBSD's kernel and libc with a port of the Alpine Linux userland\" — and promising it won't use AI-generated code:\n\n AlpineBSD is so new that it barely exists yet. There are no installation media available, though it's possible to manually bootstrap an installation. What AlpineBSD does already have is an AI policy, and the plan is to avoid \"the output of generative AI models (e.g. LLMs)\" as far as possible: \n\n\"Any software whose code, documentation, binaries, or other assets include, in any part, the output of a generative AI tool such as an LLM, is considered 'tainted' for our purposes....\" \nBack in 2024, the NetBSD project made its position on AI plain. Its commit guidelines say that \"code generated by a Large Language Model [...] is presumed to be tainted code....\" \n\nAlpineBSD's ports repository and source code are hosted on Sourcehut, under the account of sircmpwn, better known as Drew DeVault... We will follow AlpineBSD with interest. There's strong appeal in the plan of combining perhaps the best-known, longest-established AI-free Unix-like kernel with the user-facing parts of pretty much the smallest and cleanest Linux distro there is. The AI advocates often warn LLM skeptics that they risk being left behind. Well, here's an OS for those who don't want to surf the AI wave. \n\nThe article does acknowledge difficulty installing software using the pkgin package manager (an optional extra), explaining that since 1993 the NetBSD community has had \"its own ideas about what is normal... Some folks on the mailing list told us that they never use binary packages anyway — they compile what they need from source code.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 08, 2026 00:46",
+    "published_at": "2026-11-08T00:46:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "COSMIC Desktop’s Next Visual Upgrade Introduces Theme Constellations",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368958",
+    "description": "System76 previews COSMIC Theme Constellations, an upcoming feature offering complete desktop themes with matching wallpapers, icons, fonts, and colors.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368958",
+    "date": "Nov 07, 2026 23:46",
+    "published_at": "2026-11-07T23:46:43Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Microsoft Removes PC-to-PC Migration from Windows 11, Points Users to OneDrive-Based Backup",
+    "link": "https://tech.slashdot.org/story/26/11/07/2333220/microsoft-removes-pc-to-pc-migration-from-windows-11-points-users-to-onedrive-based-backup?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Windows 11 offered a PC-to-PC Migration feature that \"moved files and settings directly between two PCs over Wi-Fi or Ethernet,\" reports Ghacks. But according to an updated Microsoft support page, the tool is no longer available. \n\n\"Microsoft's support documentation now redirects users to Windows Backup, a tool that relies on OneDrive cloud storage instead of a direct connection between two computers...\"\n\nWindows Backup works differently. It requires a personal Microsoft account and backs up supported folders (Desktop, Documents, Pictures, Videos and Music) to OneDrive. Free OneDrive accounts include only 5GB of storage, and Microsoft's own promotional screenshot for Windows Backup shows 4.5GB of that allowance already in use. Years of photos, documents and downloads can exceed the free tier quickly. \n\nWindows Backup does carry some extras. It can remember installed apps, Wi-Fi networks, passwords and some settings to speed up setup on a new device. Apps still have to be reinstalled, and supported files are restored from the cloud.\n\n \n\nThanks to Slashdot reader joshuark for sharing the article.\n\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 07, 2026 23:35",
+    "published_at": "2026-11-07T23:35:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "OpenIndiana 2026.10 Released With Updated Tools \u0026 Compilers, New Apps",
+    "link": "https://www.phoronix.com/news/OpenIndiana-2026.10",
+    "description": "OpenIndiana Hipster 2026.10 is out today as the newest six-month update to this operating system based on Illumos and with the lineage tracing back to the fruitful Sun OpenSolaris days...",
+    "guid": "https://www.phoronix.com/news/OpenIndiana-2026.10",
+    "date": "Nov 07, 2026 22:50",
+    "published_at": "2026-11-07T22:50:46Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "systemd Embraces Rust but Draws the Line at Core Libraries",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368965",
+    "description": "systemd developers explain why Rust is welcome in standalone components but cannot yet be used in core shared libraries.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368965",
+    "date": "Nov 07, 2026 22:17",
+    "published_at": "2026-11-07T22:17:14Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Data Centers are Being Powered By Giant Gas Plants, Possibly Increasing Carbon Pollution for Decades",
+    "link": "https://hardware.slashdot.org/story/26/11/07/2153213/data-centers-are-being-powered-by-giant-gas-plants-possibly-increasing-carbon-pollution-for-decades?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Rather than racing toward their net-zero targets, Amazon and other AI/cloud computing companies \"are driving emissions sharply higher,\" reports the Washington Post:\n\nTo support their data centers, tech firms are driving construction of a new generation of supersized, gas-fired power plants that could lock in hundreds of millions of tons of climate pollution for decades to come, according to corporate disclosures and an analysis conducted for The Post by a researcher at the Harvard T.H. Chan School of Public Health. Industry estimates show these projects have put the tech sector on course to grow from a modest driver of industrial carbon pollution into one of the world's biggest emitters of greenhouse gases. Some anticipate that its share of global carbon emissions will increase as much as fivefold from 2020 to 2030. That would leave the tech industry churning out more than half the climate pollution created by global aviation or shipping — sectors long associated with driving warming... \n\nAlready, Amazon's carbon footprint reached 80.85 million metric tons last year — 58% larger than when [Amazon CEO Jeff] Bezos pledged to shrink it. The company has veered far from the path laid out in the Paris agreement, which would have emissions falling steeply by now and dropping to 43% below 2019 levels by 2030. The tech companies say in corporate disclosures and public statements that they remain committed to their net zero targets, and they suggest the emissions surge is temporary — to be mitigated down the road, when new energy technologies enable the data centers to run cleaner and more efficiently. They also stress that they continue to invest in clean energy and rank as some of the world's biggest consumers of it. With some complicated accounting maneuvers and carbon credit purchases, their solar, wind and geothermal installations partly cancel out their gas emissions, according to corporate disclosures. \n\nA June report from international insurance/asset management Allianz found the world's data center emissions are on track to double to 643 million tons of CO2 annually between 2020 and 2030, the article points out. And they cite American data centers contributing to the problem:\n\nJust two gas projects Amazon signed on to for data centers planned in Texas and Pennsylvania \"would produce more carbon pollution than the dirtiest facility in the country,\" an Alabama coal plant powering 1 million homes.\nMeta is building a nearly six-square-mile campus in Louisiana \"that will consume as much electricity as three cities the size of New Orleans.\"\n\"A sprawling Microsoft project in West Texas involving a giant gas plant built by Chevron and a Google project in Wyoming that would consume five times as much electricity as every household in that state would vastly expand the emissions associated with those companies.\"\n\"A data center campus in Pike County, Ohio, that will support OpenAI's artificial intelligence operations will consume significantly more gas power, and, therefore, emit more carbon pollution, than the Microsoft and Google projects combined.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 07, 2026 22:15",
+    "published_at": "2026-11-07T22:15:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  }
+]
