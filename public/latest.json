@@ -1,5 +1,435 @@
 [
   {
+    "title": "GNU groff 1.25.0 Arrives With Typesetting Fixes and Refinements",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369025",
+    "description": "GNU’s long-running typesetting system gains clearer warnings, new formatting controls, and bug fixes in its latest release.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369025",
+    "date": "Nov 09, 2026 21:23",
+    "published_at": "2026-11-09T21:23:52Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "France Accuses Iran of Supermarket Fridge Hacking",
+    "link": "https://it.slashdot.org/story/26/11/09/2032202/france-accuses-iran-of-supermarket-fridge-hacking?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "France has accused Iran's Islamic Revolutionary Guard Corps of being behind last month's cyberattacks on fridges and freezers across the country. French Foreign Minister Jean-Noel Barrot said the attack was \"unprecedented in both its scale and its level of aggression,\" adding those who were responsible would be hit with sanctions \"at the European level.\" The BBC reports: The cyber-attack last month saw fridges and freezers in hundreds of supermarkets across France heated up, which spoilt fresh and frozen food estimated to be worth millions of euros. Then last week, dozens of supermarkets across several other European countries were also impacted by a cyber-attack that targeted fridges and freezers. It is not known if the instances are linked.\n \nBarrot said the attack on France's supermarkets \"marks the first large-scale cyber-attack aimed at sabotage on our national territory, and it constitutes a major attack on the nation's interests and the security of the French people.\" He said the government had summoned the Iranian ambassador to Paris to \"lodge a very strong protest against this extremely grave act.\" France will take \"any other necessary and proportionate measures\" to respond to the incident and \"deter anyone who might seek to repeat it,\" Barrot added.\n \nSeparately on Monday, the Paris prosecutor said an investigation had been opened into the head of an offensive cyber unit associated with Iran's Islamic Revolutionary Guard Corps (IRGC) as well as his two deputies. Laure Beccuau named the unit as Shahid Kaveh, which she said had an affiliation with the electronic and cyber centre of the IRGC. Shahid Kaveh is the name given to a cluster of hackers thought to be directly employed by the Iranian regime. [...] The French government has not said how it reached the conclusion that Iran was responsible, and attribution of cyber attacks is extremely hard as hackers are able to hide their locations.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 09, 2026 21:00",
+    "published_at": "2026-11-09T21:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Anthropic Launches New Claude Fable and Mythos 5.2 Models",
+    "link": "https://slashdot.org/story/26/11/09/2018231/anthropic-launches-new-claude-fable-and-mythos-52-models?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Anthropic has released Claude Mythos 5.2 and Fable 5.2 with \"improvements in areas like coding, reasoning, and vision,\" while cutting Fable's input price and claiming 30% faster responses. TechCrunch reports: It's Anthropic's first model release since the arrival of a third-party report from the assessment group METR, which suggested the lab might be approaching recursive self-improvement (RSI) -- or the ability for AI models to carry on model training independently. The METR report found internal models were speeding up Anthropic's AI progress by roughly 2x, although many uncertainties remain. Still, Anthropic's release notes significant ongoing challenges in accurately testing model capabilities. \"Claude Mythos 5.2 and Fable 5.2 each voice suspicion that they are being evaluated more often than any of our recent models, which challenges our ability to assess how they will act in real-world settings. As these settings expand and capabilities increase with future models, we expect this challenge to grow.\"\n \nAnthropic maintains that the new version of Mythos does not have the ability to act covertly against its user, a verdict that's detailed further in Mythos 5.2's system card. \"Claude Mythos 5.2 shows stronger covert capabilities than prior Claude models on several of our evaluations, particularly when its reasoning is hidden from the monitor,\" the system card reads. \"That said, we believe that low levels of absolute performance on our new covert evaluations support claims that rely on detection of harmful actions in high-stakes situations.\" Fable 5.2 has been available to select parties in pre-release for some time, and Anthropic says the model has already \"solved two open problems in theoretical physics, formalized Fermat's Last Theorem, and supported numerous other research projects.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 09, 2026 20:20",
+    "published_at": "2026-11-09T20:20:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Best SSH Clients for Linux in 2026: Free and Paid Options",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369020",
+    "description": "Looking for the best SSH client on Linux? We compared OpenSSH, PuTTY, Termius, MobaXterm and more, with honest pros and cons for each one.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369020",
+    "date": "Nov 09, 2026 20:15",
+    "published_at": "2026-11-09T20:15:49Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "AMDGPU Linux Driver Patches Posted For Enabling GFX13 Graphics IP - RDNA5",
+    "link": "https://www.phoronix.com/news/AMDGPU-Patches-GFX13",
+    "description": "Since the beginning of the year there have been AMDGPU LLVM back-end patches for GFX13 as AMD's next-generation graphics IP. This is most likely for RDNA 5 graphics. Now out today are the GFX13 patches finally surfacing for the AMDGPU Linux kernel graphics driver...",
+    "guid": "https://www.phoronix.com/news/AMDGPU-Patches-GFX13",
+    "date": "Nov 09, 2026 19:11",
+    "published_at": "2026-11-09T19:11:37Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "SuperPoD OS and Agentic Infra Take Center Stage at openEuler Summit 2026",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369023",
+    "description": "The November 13-14 event in Beijing will focus on SuperPoD OS, infrastructure for AI agents, and industry deployment experiences. All this under the theme \"Building Agentic Infra from the OS Up.\"",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369023",
+    "date": "Nov 09, 2026 19:04",
+    "published_at": "2026-11-09T19:04:48Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Commerce Dept. Chip Inquiry Was Halted After Nvidia Intervention",
+    "link": "https://tech.slashdot.org/story/26/11/09/1758238/commerce-dept-chip-inquiry-was-halted-after-nvidia-intervention?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from The New York Times: Investigators at the Commerce Department were deep into a monthslong investigation of a Singaporean company that they suspected of smuggling Nvidia's artificial intelligence chips into China when their work came to a sudden halt late last year. The investigation centered on Megaspeed, a data center company led by an executive who U.S. officials now believe to be a Chinese spy who had a relationship with Nvidia's chief executive, Jensen Huang. But the case was abruptly transferred to the Justice Department last year. The shift came after Commerce Department investigators working on the case received an email from Nvidia's general counsel seeking information about the inquiry into Megaspeed.\n \nIt is not necessarily unusual for Commerce Department agents working on a case to speak with a company's representatives about issues involving their firm. But what was unusual was the content of the message. Tim Teter, Nvidia's general counsel, said that Jeff Kessler, a top official at the department, had given Nvidia permission to reach out about the case. The agents were alarmed that Nvidia had invoked the name of Mr. Kessler, their superior, who was nominated to his role by President Trump. Some viewed Mr. Kessler's interaction with Nvidia as violating government procedure and potentially tainting the case, according to current and former government officials and others familiar with the incident.\n \nIt is not clear what led to Mr. Teter's outreach to the department, but the recent revelations about Mr. Huang's acknowledged affair with a Megaspeed executive have only intensified scrutiny of Nvidia's role in influencing policy on chip sales to China. [...] The incident raised questions about what Mr. Kessler, who reports directly to Commerce Secretary Howard Lutnick, had discussed with Nvidia. It also raised the possibility that those discussions could become their own subject of inquiry. Perhaps inadvertently, some officials said, Mr. Kessler had opened himself to accusations of undue influence and potentially jeopardized his department's work on Megaspeed. The case was quickly transferred to the Justice Department in an effort to avoid any potential compromise of the government's investigation of Megaspeed, these people said. The Justice Department is conducting a criminal inquiry into Megaspeed, according to people familiar with the matter.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 09, 2026 19:00",
+    "published_at": "2026-11-09T19:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Google Unveils Two New Specialized AI Chips to Widen Its Challenge to Nvidia",
+    "link": "https://tech.slashdot.org/story/26/11/09/1721229/google-unveils-two-new-specialized-ai-chips-to-widen-its-challenge-to-nvidia?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Google is expanding its AI chip lineup with two specialized TPUs arriving next year: the TPU 8tx, which encrypts sensitive data at the chip level for confidential computing, and the TPU 8i Max, which combines two TPU chips to provide more processing power and memory for long-context workloads. The move broadens Google's challenge to Nvidia as demand outstrips supply, with Google saying every TPU it currently has is already committed to customers. Quartz reports: The 8tx is designed for sensitive, privacy-focused jobs run by clients including public-sector bodies and businesses in heavily regulated sectors, according to Bloomberg. It pairs with a central processing unit from Advanced Micro Devices and encrypts data at the chip level. Normally, data must be decrypted in memory as the machine works on it, [said Amin Vahdat, Chief Technologist for AI \u0026 Infrastructure at Google].\n \nThe 8i Max is meant for AI applications that need long context windows, meaning the volume of information a model can take into account within one request. Vahdat said that matters for drug discovery, math and coding. The chip packs two TPU chips together, giving it extra processing muscle and memory.\n \nBoth variations are reconfigured versions of existing silicon rather than new designs, Vahdat said. Google changed them to handle tasks customers have requested. They follow two TPU models Google released this year, according to Bloomberg, which said the chip unit used to release one new processor every two years. \"We could build a single chip that tries to address the whole market, or by building specialized versions of the chips, we actually can deliver much more value,\" Vahdat said, according to Bloomberg.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 09, 2026 18:00",
+    "published_at": "2026-11-09T18:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Huawei Says It's Made a 100% Chinese PC",
+    "link": "https://hardware.slashdot.org/story/26/11/09/056241/huawei-says-its-made-a-100-chinese-pc?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Huawei has unveiled the Qingyun HM650, a desktop PC it claims is made entirely from Chinese-manufactured components, including its own 10-core Kirin X90 processor and an enterprise version of HarmonyOS. \"While Huawei has reportedly claimed local companies manufactured 100 percent of the components in the machine, it is unclear if all those components use Chinese designs,\" notes The Register. From the report: A single Chinese government agency has reportedly signed up for 600 of the machines. That's not an indication this machine is a curiosity, because Beijing has ordered all government entities to shift from Wintel boxes to local alternatives. [...] Even if Huawei is using some parts that aren't entirely Chinese, the debut of the Qingyun HM650 is bad news for Intel, AMD, and Qualcomm, as all are suffering as the PC market shrinks due to the rising cost of memory. China's government is an enormous buyer, and losing the chance to bid for its business is unlikely to be helpful.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 09, 2026 17:00",
+    "published_at": "2026-11-09T17:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Theropods review - the joy of discovery without words",
+    "link": "https://www.gamingonlinux.com/2026/11/theropods-review-the-joy-of-discovery-without-words/",
+    "description": "Theropods is a pixel-art point and click adventure set in prehistoric times of dinosaurs and cave-dwellers, and it proves you don't need words for a good time.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/11/theropods-review-the-joy-of-discovery-without-words/",
+    "date": "Nov 09, 2026 16:01",
+    "published_at": "2026-11-09T16:01:26Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/250320448id30155gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Reddit Founder Says Building Social Media Apps Is 'Not Cool Anymore'",
+    "link": "https://tech.slashdot.org/story/26/11/09/050235/reddit-founder-says-building-social-media-apps-is-not-cool-anymore?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from Wired: Alexis Ohanian wants to figure out the future of user-generated content. According to the Reddit cofounder, building social media apps is \"not cool anymore\" and so much of the internet has been compromised. \"I'm expecting some better version of the group chat to be that new version of UGC,\" Ohanian told WIRED senior correspondent Lauren Goode at the inaugural WIRED World Fair. [...] Ohanian is a proponent of the \"Dead Internet Theory\"—the idea that a lot of online activity and content is being generated by bots. Large language models have turbocharged this, with AI agents outrunning human users. \"The internet that I grew up on that was really built for humans first; user interfaces and experiences are going to go away,\" said Ohanian, \"because more of the internet is going to get created for these agents to use, [rather] than for people.\"\n \nIn some ways, the advance in generative AI has been lucrative for sites like Reddit, which has licensed its vast archive of human conversations to companies including Google and OpenAI to train AI models. \"Platforms like ours became very, very valuable to LLMs,\" Ohanian said. But the technology has also undermined the business. Reddit shares plunged 29 percent last week after the platform warned that Google's AI-powered search was hurting referral traffic. Ohanian also worries the commercialization of these conversations means they are full of \"bullshit.\" \"The internet has gotten so manipulated because it is so incredibly valuable to do so,\" he said.\n \nReddit recently said it would require users to sign in to fight third-party scraping and keep up user engagement. While Ohanian declined to say whether he agrees with the move, \"there has to be provable humanity on the internet without being creepy.\" An early Anthropic investor, Ohanian is nonetheless optimistic about the potential benefits of AI. He is especially excited to see medical breakthroughs from the technology. \"There is still a very real chance that this technology can cause a lot of harm for sure,\" he said. \"I think we have to be sober about how we're building and what we're doing, but I still can't help but see all of the things that can get so demonstrably better.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 09, 2026 16:00",
+    "published_at": "2026-11-09T16:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Here's Everything New Coming to Linux Mint 27 This Christmas",
+    "link": "https://feed.itsfoss.com/link/24361/17518528/linux-mint-27-features",
+    "description": "It is a release that has taken a year to develop, with major changes like a Wayland session that is no longer experimental.",
+    "guid": "6af1553b6c9d5b0001ba932e",
+    "date": "Nov 09, 2026 15:56",
+    "published_at": "2026-11-09T15:56:29Z",
+    "image": "https://itsfoss.com/content/images/2026/11/mint-27-feature.webp",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "[$] Git considers voting to determine its LLM policy",
+    "link": "https://lwn.net/Articles/1104195/",
+    "description": "One of the dominant themes of 2026 has been the debate within development\nprojects about the terms under which LLM-written contributions should be\naccepted — if, indeed, they should be accepted at all.  The Git project has not been immune to this\ntrend; the topic was discussed\nat the recent Git Contributor's Summit.  In this case, the path to a\nresolution may be somewhat circuitous; the project, which has never been\ngoverned as a democracy, is considering adopting a voting process as a way\nof bringing the discussion to an acceptable conclusion.",
+    "guid": "https://lwn.net/Articles/1104195/",
+    "date": "Nov 09, 2026 15:05",
+    "published_at": "2026-11-09T15:05:07Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "Kernel prepatch 7.4-rc2",
+    "link": "https://lwn.net/Articles/1106300/",
+    "description": "Linus Torvalds has released the 7.4-rc2\nprepatch and it will come as no surprise that it is a large one (\"a\nbig -rc2 to go with the largest ever -rc1\").  Much of the size was made\nup of some automated Coccinelle updates that were spread out all over the\ntree; once those are factored out, the rest looks fairly normal:\n\n\nWhen masking that noise out from the diffstat, the shape of it changes\n- not spread out over thousands of files any more. But it does not\nlook unusual: a third is drivers (gpu, networking and sound account\nfor most of it, but there's a bit of everything), another third is\nnetworking and bpf, and the final third is \"the rest\" (mostly\nfilesystems, mm, arch updates).\n\nAnd yes, much of this was driven by various AI fixes. I think I'll\nstop repeating that, and we can just take it for granted. But this\ntime around Alexei [Starovoitov] claims that on the bpf side at least the fixes are\nnow coming in faster than the new reports, and that sounds lovely if\ntrue.\n",
+    "guid": "https://lwn.net/Articles/1106300/",
+    "date": "Nov 09, 2026 14:55",
+    "published_at": "2026-11-09T14:55:38Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "OpenIndiana 2026.10 released",
+    "link": "https://lwn.net/Articles/1106285/",
+    "description": "Version\n2026.10 of the OpenIndiana operating\nsystem has been released. OpenIndiana is based on Illumos, which in turn was\nbased on OpenSolaris\nafter Oracle discontinued it.\n\nNotable changes in this release include UEFI framebuffer support for the live\nimage, updates to many applications and development tools, as well as the\ninclusion of new applications such as TeX Live 2026, the Foliate ebook reader,\nand more.\n\n",
+    "guid": "https://lwn.net/Articles/1106285/",
+    "date": "Nov 09, 2026 14:09",
+    "published_at": "2026-11-09T14:09:57Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "Security updates for Monday",
+    "link": "https://lwn.net/Articles/1106282/",
+    "description": "Security updates have been issued by Debian (cjose, kernel, libreoffice, rsync, ruby3.3, telegram-desktop, vim, and zlib), Fedora (bind, composer, copyparty, dnf5, elixir, fasterxml-oss-parent, gnome-remote-desktop, goose, jackson-annotations, jackson-bom, jackson-core, jackson-databind, jackson-jaxrs-providers, jackson-modules-base, jackson-parent, java-21-openjdk, java-21-openjdk-portable, jupyterlab, kryoptic, luksmeta, mingw-cfitsio, mingw-expat, mingw-freetype, mingw-glib-networking, mingw-harfbuzz, mingw-qt5-qtbase, mingw-qt5-qtdeclarative, mingw-qt5-qtwebkit, mingw-qt6-qtbase, mtools, NetworkManager-l2tp, nginx, nginx-mod-brotli, nginx-mod-fancyindex, nginx-mod-headers-more, nginx-mod-js-challenge, nginx-mod-modsecurity, nginx-mod-naxsi, nginx-mod-vts, nodejs-pnpm12, pcre2, perl-Spreadsheet-XLSX, pie, python-boto3, python-botocore, python-joserfc, python-jupyter-builder, python-jupyterlab-server, python-jupytext, python-nbdime, python-notebook, python-s3transfer, python3.12, rccl, rsync, rust-blake2b_simd, rust-blake3, rust-constant_time_eq, rust-lzma-rust2, rust-ppmd-rust, rust-regorus, rust-sccache, rust-totp-rs, rust-typed-path, rust-zip, rust-zip0.6, rust-zip2, sofia-sip, suricata, wordpress, and xen), Mageia (gimp, python-gitpython, and suricata), Red Hat (osbuild-composer), Slackware (httpd), SUSE (bind, brotli, ca-certificates-mozilla, chromedriver, containerized-data-importer1.65-api, corepack24, docker-compose, flatpak, fuse-overlayfs, git-lfs, gitoxide, go1.27, google-cloud-sap-agent, google-guest-agent, gotosocial, kubevirt1.8, kubevirt1.8-container-disk, kubevirt1.9-container-disk, libmariadbd-devel, libntpc1, libopenscap33, libsndfile-devel, libspice-server-devel, libtirpc-devel, matomo, mihomo, mozilla-nss, nano, nmap, nodejs22, perl-Mozilla-CA, python-Brotli, python-CairoSVG, python-certifi, python313-Pillow, rsyslog, stgit, and thunderbird), and Ubuntu (python-tornado).",
+    "guid": "https://lwn.net/Articles/1106282/",
+    "date": "Nov 09, 2026 14:02",
+    "published_at": "2026-11-09T14:02:31Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "Darling Now Embraces AI For Running macOS Binaries On Linux",
+    "link": "https://www.phoronix.com/news/Darling-Using-AI-macOS-Linux",
+    "description": "Darling is the software project more than a decade in development that is designed to run macOS binaries on Linux. This macOS compatibility layer for Linux is now gaining more brisk developments as it turns to AI/LLMs to assist in this creation...",
+    "guid": "https://www.phoronix.com/news/Darling-Using-AI-macOS-Linux",
+    "date": "Nov 09, 2026 13:02",
+    "published_at": "2026-11-09T13:02:13Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "ChaCha AVX-512 Optimization For Linux 7.5 Yields Up To 99% Improvement On AMD Zen 5",
+    "link": "https://www.phoronix.com/news/ChaCha-AVX-512-Linux-7.5",
+    "description": "The Linux kernel's ChaCha symmetric stream cipher code has long had an AVX-512 optimized code path but it was catering to the early generations of Intel CPUs with AVX-512 (Skylake) that suffered from down-clocking under use. But now slated for arrival with Linux 7.5 is tuning the code to perform better on today's AVX-512 Intel and AMD processors that don't suffer from this limitation. In turn the ChaCha performance is as much as 99% faster with current-generation AMD Zen 5 processors...",
+    "guid": "https://www.phoronix.com/news/ChaCha-AVX-512-Linux-7.5",
+    "date": "Nov 09, 2026 12:35",
+    "published_at": "2026-11-09T12:35:12Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Orbiter Detects Signs of Possible Volcanic Activity on Mars",
+    "link": "https://science.slashdot.org/story/26/11/09/0516221/orbiter-detects-signs-of-possible-volcanic-activity-on-mars?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Futurism reports:\n\nWhile many scientists have long held that Mars is \"geologically dead\" inside, new research is adding to the growing body of evidence to the contrary. \n\nAs detailed in a new paper published in the journal Science Advances, an international team of researchers examined data collected by the European and Russian ExoMars Trace Gas Orbiter in 2021, which found that Mars is slowly belching hydrogen chloride gas. The researchers suggest this gas is being released from hot magma deep beneath its surface after discovering intriguing new fissures along a massive volcano, indicating the planet may be geologically active after all — or at least it was until relatively recently. \n\nThe research could have significant implications for the possibility of ancient life on the Red Planet, hinting at a far warmer and thicker atmosphere — and an abundance of liquid water on its surface — in its not-too-distant past.... The team discovered new fissures measuring thousands of feet in length... suggesting ongoing activity underneath the surface. The researchers discovered discolorations along these fissures, concluding that they may be the result of seeping gases leaving mineral deposits similar to volcanic gas vents on Earth... The fissures could also be a perfect place to find evidence of past life on the Red Planet [argued Daniel Mège, the study's colead author and a Polish Academy of Sciences professor]... \"If hydrothermal systems are active, they could contain the ingredients and energy needed for microorganisms to develop, and shield microorganisms from the hostile and changing environment above the surface.\"\n\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 09, 2026 12:34",
+    "published_at": "2026-11-09T12:34:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": " Spoof program monitors and emails your RAM usage to Sam Altman if under 90% utilization ",
+    "link": "https://www.tomshardware.com/pc-components/ram/spoof-program-monitors-and-emails-your-ram-usage-to-sam-altman-if-under-90-percent-utilization-ram-altman-logs-usage-and-reports-you-for-wasting-memory",
+    "description": " A new GitHub repository dubbed ram-altman features a script to monitor your PC’s RAM usage and report back to the eponymous OpenAI boss. ",
+    "guid": "9JU8WwWBHEcyWBGsA6seab",
+    "date": "Nov 09, 2026 12:31",
+    "published_at": "2026-11-09T12:31:12Z",
+    "image": "https://cdn.mos.cms.futurecdn.net/NdXst9hGKJ5uK63S9FQhVC-1920-80.jpg",
+    "source": "tomshardware.com",
+    "source_url": "https://www.tomshardware.com/software/operating-systems/linux"
+  },
+  {
+    "title": "Long-range Wi-Fi HaLow gateway offers OpenWrt and dual GbE",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369003",
+    "description": "Morse Micro’s “HaLowLink 2” gateway runs OpenWrt on a MediaTek MT7621 processor with an MM8108 Wi-Fi HaLow radio supporting ranges of up to 1km and PHY data rates of up to 43.3Mbps. Originally announced in September 2025, the gateway is now available through distributors including Seeed Studio, Mouser Electronics, and DigiKey. The gateway’s main wireless…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369003",
+    "date": "Nov 09, 2026 12:16",
+    "published_at": "2026-11-09T12:16:20Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Linux Seeing Driver Work For MSI Mystic Light On Latest Ryzen Motherboards",
+    "link": "https://www.phoronix.com/news/MSI-Mystic-Light-Linux",
+    "description": "MSI's latest Ryzen motherboards with AMD 800 series chipsets feature a new capability marked as Mystic Light for RGB lighting controls of the motherboard as well as compatible graphics cards and cases. MSI Mystic Light control software is only offered for Microsoft Windows but thanks to an open-source developer with the help of Claude Code, a Mystic Light open-source driver is being worked on for the Linux kernel...",
+    "guid": "https://www.phoronix.com/news/MSI-Mystic-Light-Linux",
+    "date": "Nov 09, 2026 11:20",
+    "published_at": "2026-11-09T11:20:49Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Linux 7.5 To Convey To User-Space Multi-Grain Timestamp Usage On Files",
+    "link": "https://www.phoronix.com/news/Linux-7.5-Statx-MG-TImestamp",
+    "description": "Merged for Linux 6.13 back in 2024 was multigrain timestamp support for being able to switch between coarse and fine-grained change/modification time reporting on a per-file basis. This is useful if caring about accuracy more than the once-per-jiffy timestamps on files and was originally devised as a way of addressing NFS caching issues. A limitation of multigrain timestamps though has been the lack of  user-space to know whether a file's timestamps are multi-grain or not...",
+    "guid": "https://www.phoronix.com/news/Linux-7.5-Statx-MG-TImestamp",
+    "date": "Nov 09, 2026 11:08",
+    "published_at": "2026-11-09T11:08:22Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Agama Unattended installation via profile.json of Tumbleweed's KVM Guests",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369006",
+    "description": "Tumbleweed updates continuously, manual interactive installations frequently break due to rapid package, installer (Agama), or kernel shifts. Unattended automation ensures predictable, reproducible, and verifiable states for disaster recovery and testing. Mitigating Rolling-Release Fluctuation: Tumbleweed moves extremely fast. An unattended deployment via structured templates (profile.json) ensures that the initial bootstrap bypasses manual package selection errors and unpredictable installer UI changes.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369006",
+    "date": "Nov 09, 2026 11:06",
+    "published_at": "2026-11-09T11:06:58Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Call of Duty Zombies merged with Team Fortress 2 - Mann Versus Zombies is coming to Steam",
+    "link": "https://www.gamingonlinux.com/2026/11/call-of-duty-zombies-merged-with-team-fortress-2-mann-versus-zombies-is-coming-to-steam/",
+    "description": "Love the idea of fighting off zombies in the Team Fortress 2 world? Mann Versus Zombies is bringing the action to Steam.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/11/call-of-duty-zombies-merged-with-team-fortress-2-mann-versus-zombies-is-coming-to-steam/",
+    "date": "Nov 09, 2026 10:53",
+    "published_at": "2026-11-09T10:53:32Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1189640149id30156gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "New Linux Patches Bring-Up The Samsung Galaxy XR Headset, Qualcomm Halliday SoC",
+    "link": "https://www.phoronix.com/news/Linux-Samsung-Galaxy-XR",
+    "description": "Samsung's Galaxy XR headset runs on Android XR by default with its own downstream kernel patches. A user leveraging AI with multiple LLMs has now drafted an initial set of patches getting the Galaxy XR headset working on the mainline kernel along with bringing up the Qualcomm Snapdragon XR2+ Gen 2 \"Halliday\" SoC that powers this VR/XR headset...",
+    "guid": "https://www.phoronix.com/news/Linux-Samsung-Galaxy-XR",
+    "date": "Nov 09, 2026 10:46",
+    "published_at": "2026-11-09T10:46:20Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Intel ANV Lands Bitrate Control For AV1 Encoding",
+    "link": "https://www.phoronix.com/news/Intel-ANV-AV1-Bitrate-Control",
+    "description": "Hyunjun Ko of Igalia continues working on enhancing the Vulkan Video support in the Mesa ANV driver for better open-source video acceleration support...",
+    "guid": "https://www.phoronix.com/news/Intel-ANV-AV1-Bitrate-Control",
+    "date": "Nov 09, 2026 10:30",
+    "published_at": "2026-11-09T10:30:24Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Lumen Keeper looks like a fun mixture of roguelite action meets tower defense",
+    "link": "https://www.gamingonlinux.com/2026/11/lumen-keeper-looks-like-a-fun-mixture-of-roguelite-action-meets-tower-defense/",
+    "description": "Fight off the swarms while you also build up defences, and push back the darkness in Lumen Keeper.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/11/lumen-keeper-looks-like-a-fun-mixture-of-roguelite-action-meets-tower-defense/",
+    "date": "Nov 09, 2026 10:20",
+    "published_at": "2026-11-09T10:20:06Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/525649370id30154gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Path of Exile 2 releases December 11 with a huge update and it goes free to play",
+    "link": "https://www.gamingonlinux.com/2026/11/path-of-exile-2-releases-december-11-with-a-huge-update-it-goes-free-to-play/",
+    "description": "The big day is approaching, Path of Exile 2 hits the 1.0 on December 11 when it will also finally go free to play.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/11/path-of-exile-2-releases-december-11-with-a-huge-update-it-goes-free-to-play/",
+    "date": "Nov 09, 2026 09:50",
+    "published_at": "2026-11-09T09:50:39Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1810570473id30153gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "New skateboarding deckbuilder Grab Your Deck looks very unique",
+    "link": "https://www.gamingonlinux.com/2026/11/new-skateboarding-deckbuilder-grab-your-deck-looks-very-unique/",
+    "description": "Jump onto your deck and build up some tricks using cards in Grab Your Deck, a new skateboarding deckbuilder that looks unique.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/11/new-skateboarding-deckbuilder-grab-your-deck-looks-very-unique/",
+    "date": "Nov 09, 2026 09:37",
+    "published_at": "2026-11-09T09:37:42Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/225700195id30152gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Linuxiac Weekly Wrap-Up: Week 45, 2026 (November 2 -8)",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368993",
+    "description": "Catch up on the latest Linux news: Fedora 45, openSUSE Leap 16.1, aerynOS 2026.11, Omarchy 4.5, Cinnamon 6.8, LXQt 2.5, systemd embraces Rust, and more.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368993",
+    "date": "Nov 09, 2026 09:19",
+    "published_at": "2026-11-09T09:19:44Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Surprise for Cast of 'Return of the Living Dead' Sequel. They Were Replaced by AI",
+    "link": "https://entertainment.slashdot.org/story/26/11/09/0625231/surprise-for-cast-of-return-of-the-living-dead-sequel-they-were-replaced-by-ai?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "A crowdfunded sequel to the movie Return of the Living Dead was uploaded last weekend — but producer Richard Driscoll is drawing criticism for what he did to the 1985 punk/zombie classic. \n\nKotaku reports:\n[The release of the movie came as a] surprise to the original cast, who were attached to star in the follow-up. Instead it seems Driscoll opted to use AI to generate the film... \n\nIn 2024, Driscoll, who operates his own no-budget streaming service \"DragonFLIX,\" launched an Indiegogo page for \"TRASH's REVENGE Return of the Living Dead Universe.\" Unlike other fan projects, this one had a large portion of the original cast involved, with stars Randolph and Linnea Quigley acting as producers. It also threw in Quigley's fellow Sorority Babe in the Slimeball Bowl-O-Rama Michelle Bauer and the Oscar nominated Eric Roberts, who has seemingly been in everything except The Living Dead.... \n\nBut after some confusion and radio silence between the cast and director, this incredible movie did not come to be. Last Halloween night, Driscoll pushed out [the almost entirely AI-generated] The Return of the Living Dead: Aftermath... The results won't surprise you. Robotic line delivery. Nonsensical sequence of events. Object impermanence. Everything's wet. Everyone looks shocked. At one point the video just flips around like you're watching on a phone someone dropped. And while the Return cast didn't film any of this footage, their likenesses are peppered throughout. \n\n\"It turned out to be a fiasco,\" says Quigley. \"I warned him, \"Whatever you do, don't do any AI, because people don't like it, the fans don't like it.\" Living Dead alumni, even those who weren't attached to this film, have spoken out against Aftermath. They seem most concerned about the existing and continued use of their likeness, given that Driscoll has seemingly pivoted 'Trash's Revenge' into an additional project. Randolph encourages those who provided any funding to ask for a refund through their credit card company. While Romero's original film was public domain, Return of the Living Dead was not. Randolph also encourages Amazon, who bought MGM in 2022, to take legal action. \n\nA review on Reddit calls it \"the worst 'film' I've ever seen,\" a production that \"manages to not only be the worst zombie film ever made but is also the nadir of exploitation filmmaking.\n\n\n[T]hings quickly descend into madness and we get lots of bits of A.I. reporters out on the streets being attacked by A.I. zombies... [T]here are some A.I. cops battling it out too...\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 09, 2026 08:34",
+    "published_at": "2026-11-09T08:34:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Fight through the districts of a dead city in the demo of SAMOPAL Protocol",
+    "link": "https://www.gamingonlinux.com/2026/11/fight-through-the-districts-of-a-dead-city-in-the-demo-of-samopal-protocol/",
+    "description": "If you're in need of more interesting retro shooters, how about check out SAMOPAL Protocol. Inspired by 1960s Eastern Europe.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/11/fight-through-the-districts-of-a-dead-city-in-the-demo-of-samopal-protocol/",
+    "date": "Nov 09, 2026 08:23",
+    "published_at": "2026-11-09T08:23:20Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1945141994id30151gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Aftermind is a promising looking boomer-shooter set inside a coma patient's nightmares",
+    "link": "https://www.gamingonlinux.com/2026/11/aftermind-is-a-promising-looking-boomer-shooter-set-inside-a-coma-patients-nightmares/",
+    "description": "Things look a bit spooky and full of gibs in the boomer-shooter Aftermind, set inside the mind of a coma patient.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/11/aftermind-is-a-promising-looking-boomer-shooter-set-inside-a-coma-patients-nightmares/",
+    "date": "Nov 09, 2026 08:16",
+    "published_at": "2026-11-09T08:16:24Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1598607750id30150gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "GNU Automake 1.20 Moves to GPLv3 and Tunes Up the Build System",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368990",
+    "description": "Arriving just two months after its predecessor, the release adds jobserver support, safer build behavior, and nine bug fixes.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368990",
+    "date": "Nov 09, 2026 08:14",
+    "published_at": "2026-11-09T08:14:49Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Under-equipped and far from help, retro shooter DERELIKT arrives November 13",
+    "link": "https://www.gamingonlinux.com/2026/11/under-equipped-and-far-from-help-retro-shooter-derelikt-arrives-november-13/",
+    "description": "DERELIKT is a narrative retro FPS built for fans of claustrophobic PS1-era sci-fi horror, and it's set to release on November 13.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/11/under-equipped-and-far-from-help-retro-shooter-derelikt-arrives-november-13/",
+    "date": "Nov 09, 2026 08:07",
+    "published_at": "2026-11-09T08:07:25Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1411767010id30149gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Heroes of Might and Magic 2 project fheroes2 version 1.1.18 is out now",
+    "link": "https://www.gamingonlinux.com/2026/11/heroes-of-might-and-magic-2-project-fheroes2-version-1-1-18-is-out-now/",
+    "description": "Dear players of HoMM2 and fans of the fheroes2 project! After a very long delay and endless waiting, we are finally releasing the next version.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/11/heroes-of-might-and-magic-2-project-fheroes2-version-1-1-18-is-out-now/",
+    "date": "Nov 09, 2026 07:25",
+    "published_at": "2026-11-09T07:25:52Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1056516569id30148gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Asahi Linux Drops MIT and Goes Full GPL After AI Tools Were Used to Steal Unreleased Code",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368986",
+    "description": "Every Asahi Linux repository is moving to GPL v2 or later, after bad actors lifted unreleased code and ran it through LLMs to hide where it came from.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368986",
+    "date": "Nov 09, 2026 06:56",
+    "published_at": "2026-11-09T06:56:39Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Asking My Virtual Assistant: Best Linux Distro for Beginners?",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368994",
+    "description": "Hey everyone! Just dropped a quick 1-minute tech showcase featuring virtual assistant named Lune (powered by Python, PyQt, Ollama, and Piper TTS with the Cori voice model, running on EndeavourOS). In this video, I asked Lune directly via mic: \"What is the best Linux distro for new users?\"",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368994",
+    "date": "Nov 09, 2026 05:46",
+    "published_at": "2026-11-09T05:46:48Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Asahi Linux Drops MIT and Goes Full GPL After Spotting LLM-Assisted License Laundering",
+    "link": "https://news.slashdot.org/story/26/11/09/0440238/asahi-linux-drops-mit-and-goes-full-gpl-after-spotting-llm-assisted-license-laundering?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "It's FOSS reports:\n\n\nAsahi Linux is the reason you can run Linux on an Apple Silicon Mac today. For years, the project put most of its own code under the MIT license so that anyone, including the BSDs, could reuse it as needed... They have announced that Asahi is moving all of its repositories to the GNU General Public License version 2 or later. Going forward, all Asahi Linux code will be under strong copyleft licenses only. \nAsahi Linux compares their dilemma to the 1990s, when \"permissively licenced projects were viewed by tech companies as free real estate to pilfer and exploit,\" adding that \"Those who do not learn from history are doomed to repeat it... The malicious practices of the 90s and 2000s have reared their ugly heads once again, this time driven in large part by both the insatiable appetite of frontier AI labs for high-quality training data, and militant animosity toward the Free Software community.\" In short, they argue that for Asahi Linux, using the permissive MIT license \"is no longer viable.\"\nSome time ago, we were made aware of multiple attempts to exploit our permissive licensing to hijack our work, with a direct view to replacing the project and aggressively monetising Linux on Apple Silicon. In some extreme cases, in-development feature code was being lifted straight out of our personal forks and published without attribution or lazily rewritten with LLM assistance to obfuscate its origin. The MIT licence explicitly allows this, and has no carveouts to protect against bad faith actors. As such, we made the difficult decision to begin the process of transitioning all of our repositories to the GNU General Public License version 2 or later. Going forward all Asahi Linux code will be licenced under strong copyleft licences only. \n\nIt's FOSS explains that \"Under the GPL, anyone who distributes a modified version has to release the source under the same license. You can't legally build a closed, paid Apple Silicon distro on top of GPL code. And if a product's source has to be public, the copying is easier to spot.\" \n\nAnd their article also points out that before AI, bad actors attempting code laundering \"usually meant manually rewriting code line by line, renaming variables and stuff, and shuffling functions around until it no longer looked like the original. LLMs made it much more easy and cheaper of course.\"\n\n In case you did not know, Asahi Linux forbids AI generated code contribution... As far as I can tell, this is the first time a major open source project has moved to copyleft specifically because of AI-assisted code laundering. Projects have relicensed before, but usually to stop cloud providers from reselling their work as a service. This one is specifically about AI... \n\nThe move has drawn criticism, particularly from the BSD side, which was one of the main reasons Asahi chose MIT in the first place. OpenBSD's Apple Silicon support relies on Asahi's m1n1 bootloader.\n\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 09, 2026 05:35",
+    "published_at": "2026-11-09T05:35:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Zabbix 8.0 LTS Monitoring Platform Released with OpenTelemetry, ClickHouse, and AI Integration",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368985",
+    "description": "Zabbix 8.0 LTS adds OpenTelemetry observability, ClickHouse storage, AI integration, and advanced event processing.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368985",
+    "date": "Nov 09, 2026 04:31",
+    "published_at": "2026-11-09T04:31:58Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
     "title": "Electric Cars Are Close to Overtaking Petrol In the UK, Data Shows",
     "link": "https://hardware.slashdot.org/story/26/11/09/0226229/electric-cars-are-close-to-overtaking-petrol-in-the-uk-data-shows?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
     "description": "69 million people people live in the United Kingdom. And now \u003eElectrek reports:\n\n\n\nBattery-electric cars took 32% of the UK's new car market in October, while petrol cars fell to just 37.2%, according to new data from the SMMT. That's the closest the two have been. At the current pace, electric cars will outsell petrol in the UK within a year. And it could happen as soon as this December. \n\nThe UK registered 152,730 new cars in October, up 5.4% year-over-year and the 11th straight month of growth for the overall market. All of that growth came from plug-ins. Battery-electric vehicle registrations jumped 32.7% to 48,858 units, and plug-in hybrids rose 30.1% to 22,898. Meanwhile, petrol fell 11.6% to 56,876 units, diesel dropped 15.9%, and even conventional hybrids were down 5%... \n\nThe brands growing fastest in the UK are mostly Chinese. BYD registered 6,065 cars in October, up 73%. Jaecoo more than doubled to 6,089 units, Chery nearly tripled to 3,707, and Leapmotor doubled to 1,773. MG was up 85%.\n \nLooking at trend lines, EV car sales surpass petrol sales \"around August 2027 at roughly 33% each,\" the article points out. \"But that's the slow scenario, because it ignores December.\"\nUK battery-electric vehicle share spikes every December as automakers push volume to get closer to their zero-emission vehicle mandate targets... Petrol's days as the UK's default car are numbered. The only question is whether the milestone comes in December or sometime in 2027.\n\n\n\n\n\n\nRead more of this story at Slashdot.",
@@ -106,39 +536,6 @@
     "source_url": "https://slashdot.org/"
   },
   {
-    "title": "Do Data Centers Have a Smaller Effect on Electricity Prices Than We Think?",
-    "link": "https://hardware.slashdot.org/story/26/11/07/0412226/do-data-centers-have-a-smaller-effect-on-electricity-prices-than-we-think?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "\"According to a new study by researchers at Harvard University and the University of Pennsylvania, data centers are probably having only a small effect on residential electricity prices,\" reports the Washington Post. \n\n\"The researchers calculated that these operations were responsible for just 4% of the utility rate increases over the last five years...\"\nThere are certainly some areas — like in Pennsylvania, Virginia, Ohio and other states covered by grid operator PJM — where data centers have skyrocketed demand, pushing some costs onto residential customers. But multiple studies by different researchers and organizations have failed to find a strong connection between data centers and the overall trajectory of U.S. electricity prices in recent years. Another analysis earlier this year by researchers at the Massachusetts Institute of Technology found that, between 2010 and 2024, data centers increased average electricity prices for residential customers by just 2.1%. Last year, research from the Brattle Group and Lawrence Berkeley National Laboratory found that data centers were actually decreasing costs in certain regions. And another study by the Electric Power Research Institute found that a doubling of data center capacity between 2019 and 2024 resulted in a 4 percent drop in home electricity prices... \nThe new Harvard and Penn study found a slightly higher impact on industrial electricity prices — the price paid by manufacturers and large facilities. For those customers, data centers were responsible for 15% of the price increase between 2020 and 2025. But for ordinary Americans... the changes simply were not substantial [according to Wharton School professor Serguei Netessine, one of the study's authors]. \"So far we have no evidence that data centers increase prices all that much,\" Netessine said. Instead, he said, prices are rising due to more quotidian factors: rising gas prices, an aging electricity grid, and wildfires and hurricanes requiring improvements to the grid and recovery after disaster... \n\nIf the number of data centers continue to boom, experts say, residential prices could be affected more down the line. Data center electricity demand is expected to increase steeply over the next few years, requiring new power generation — wind, solar or natural gas — to be put onto the grid. And residents have issues with data centers that go beyond the price of electricity. The new developments have been singled out for loud noise, polluting power generation, and for disturbing residential neighborhoods and natural landscapes. According to the Pew Research Center, more than half of Americans say that data centers are mostly bad for the environment. Others feel that the AI race — which could ultimately leave many Americans out of work — is being forced upon them. \n\"I think generally what we're seeing is a broader range of reasons the public has opposed data centers,\" [said Ryan Hledik, principal at the Brattle Group]. \"Concern about AI leading to loss of jobs — all of that is getting packaged together.\"\n\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 08, 2026 17:34",
-    "published_at": "2026-11-08T17:34:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Norwegians Release FOSS GNOME Software for Music Recording, Internet Radio, and Cameras",
-    "link": "https://entertainment.slashdot.org/story/26/11/08/039242/norwegians-release-foss-gnome-software-for-music-recording-internet-radio-and-cameras?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "ole (Slashdot reader #19,909) writes in about his free, Norwegian open-source music recording studio for GNOME called GarageJam, which he says allows musicians to compose, record, and share original music seamlessly on the Internet.\nThe latest release, GarageJam 8.0.1, is available in C and Python. It records audio immediately to Ogg Vorbis (.ogg) files in the current working directory and lets you edit metadata in .gjxml XML files from a GTK/GNOME wizard — all built on the Gingerblue Recording Studio API. \n\nOle shares links to its IETF GarageJam XML draft and GitHub repositories, and there's also GarageJam Studio, \"a commercial music and audio recording app for the World Wide Web written by Aamot Innovation from Norway.\". \n\nole is also spreading the word about GNOME Media, which \"puts internet radio and your photographs on one OpenStreetMap... built from GNOME Radio 85.0.1.\"\n\nClick a station on the map to listen. Cities with several stations show a count and a menu.\nOpen a folder of pictures or import from a camera. Photos with a GPS position in their EXIF data appear on the map. Double-click a thumbnail to open it. The search box filters the station list and the map together.\n \n\nole also announces:\n\n\n GPhoto 3.0.1. (\"After 25 years, libgphoto2 2.5.34 now supports more than 2,500 camera models, and GPhoto 3.0.1 is built on it.\")\n Skolelinux 13.6.0. Built on Debian 13 âoetrixieâ, Skolelinux is \"a complete, ready-to-use Free Software operating system for schools, classrooms and home computers... an office suite, web browser, educational programs and network services for an entire school, all set up out of the box.\"\n\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 08, 2026 16:34",
-    "published_at": "2026-11-08T16:34:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Python's CVEs Triple. Anthropic Funds a New Security Developer",
-    "link": "https://developers.slashdot.org/story/26/11/08/0558256/pythons-cves-triple-anthropic-funds-a-new-security-developer?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "In the last year CVEs have increased 3x for Python and its package manager Pip, according to Python's security developer in residence Seth Larson. \"And the amount of malware published and removed from the Python Package Index (PyPI) is up 60%.\" Securing Python's ecosystem is getting more complex, he writes, especially given \"the evolving role of AI in both security risks and security response.\" \n\nTheir response includes bringing on a new Security Developer \"to address the increasingly demanding scale of security response for the Python ecosystem.\"\nProviding prompt security response services and innovating to prevent future threats... is more difficult now than ever before... [Security developer Brett Smith] will help us keep pace with critical ongoing work such as vulnerability remediation, providing vulnerability data as a CVE Numbering Authority, and removing malware from PyPI. He'll also give the team bandwidth for new projects such as scaling PyPI's autonomous quarantine program to reduce manual effort on malware remediation and streamlining processes for the PSRT to handle the new vulnerability report volume.\n \nThe role was made possible by an \"ecosystem security\" grant from Anthropic. And having the new security developer \"will both build capacity for security work the PSF already does and enable new, proactive work,\" concludes Python's security developer in residence. (He discussed Python's security challenges in a June presentation with Python security engineer Mike Fiedler\u003e .) \n\nIn June, Curl's Daniel Strenberg reported Curl's CVEs have also tripled.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 08, 2026 15:34",
-    "published_at": "2026-11-08T15:34:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
     "title": " The end of an era as Linux 7.5 purges the last 30-year-old Intel MMX optimizations from Pentium age  ",
     "link": "https://www.tomshardware.com/software/linux/the-end-of-an-era-as-linux-7-5-purges-the-last-30-year-old-intel-mmx-optimizations-from-pentium-age-open-source-os-retires-ancient-1997-pentium-instructions-to-streamline-code",
     "description": " Linux developers are preparing to make Intel’s ancient MultiMedia eXtensions irrelevant, with the last MMX code now set to be removed from the kernel. ",
@@ -150,241 +547,13 @@
     "source_url": "https://www.tomshardware.com/software/operating-systems/linux"
   },
   {
-    "title": " Open-source GPU task manager reveals exactly what's eating your VRAM ",
-    "link": "https://www.tomshardware.com/pc-components/gpus/open-source-gpu-task-manager-reveals-exactly-whats-eating-your-vram-microsoft-vps-new-gpu-taskman-tool-reveals-every-process-using-your-gpu-how-much-memory-each-uses-and-breaks-down-ai-and-llm-workloads",
-    "description": " A new open-source GitHub project called gputaskman has been released by Microsoft VP Scott Hanselman. ",
-    "guid": "VL5Y7xNntzGjd5jrqYQCGG",
-    "date": "Nov 08, 2026 13:40",
-    "published_at": "2026-11-08T13:40:00Z",
-    "image": "https://cdn.mos.cms.futurecdn.net/j6M4fBvsjExPSFtuP5xYyG-1920-80.jpg",
-    "source": "tomshardware.com",
-    "source_url": "https://www.tomshardware.com/software/operating-systems/linux"
-  },
-  {
-    "title": "Asahi Linux Drops MIT and Goes Full GPL After AI Tools Were Used to Steal Unreleased Code",
-    "link": "https://feed.itsfoss.com/link/24361/17517892/asahi-linux-drops-mit-for-gpl",
-    "description": "Every Asahi Linux repository is moving to GPL v2 or later, after bad actors lifted unreleased code and ran it through LLMs to hide where it came from.",
-    "guid": "6af05f176c9d5b0001ba8ea2",
-    "date": "Nov 08, 2026 12:56",
-    "published_at": "2026-11-08T12:56:22Z",
-    "image": "https://itsfoss.com/content/images/2026/11/asahi-linux-gpl.png",
-    "source": "itsfoss.com",
-    "source_url": "https://itsfoss.com/"
-  },
-  {
-    "title": "Hate Chromium? Well, There’s a Linux Desktop Based on it Now",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368978",
-    "description": "Domicile lets you build your desktop in React and CSS, with Manganese being included as the ready-made tiling option.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368978",
-    "date": "Nov 08, 2026 12:46",
-    "published_at": "2026-11-08T12:46:28Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Aaron Swartz Would've Been 40 Today.  His 'Legacy Lives On' Says FSF",
-    "link": "https://yro.slashdot.org/story/26/11/07/0825245/aaron-swartz-wouldve-been-40-today-his-legacy-lives-on-says-fsf?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "\"Aaron Swartz would have turned forty this year,\" writes FSF deputy director Sean O'Brien. \"November 8 is Aaron Swartz Day, when we remember a pioneer of free software and information sharing whose contributions helped shape the modern internet.\" \n\nThe Internet Archive will host a hackathon Sunday in San Francisco celebrating Aaron's Swartz's life \"and the projects he worked on, many of which are still going strong today,\" including SecureDrop, OpenLibrary, and Creative Commons. \"We are also spreading the word about projects he inspired,\" including OnionPress and the EFF's Atlas of Surveillancedocumenting police tech use through open source research, now a collaborative effort with volunteers, the University of Nevada, Reno, and the Reynolds School of Journalism. The event is also supported by Free Law Project, and organizers are asking attendees to \"bring a color print out of your favorite photos of Aaron for a huge collaborative collage.\" \n\nFrom the Internet Archive's blog:\n\nAaron was also a co-founder of Creative Commons, where he worked with Lisa Rein developing the RSS-enhanced HTML code that sits behind Creative Commons licenses, much of which is still in use today. The \"Quantifying the Commons\" project was designed to help measure open-licensed and public-domain works worldwide, and is one of the projects participants can work on. Aaron loved Tor and created tools such as \"Tor2web\" (with Virgil Griffith) to help more people publish Tor-accessible websites. Onion Press is a Tor-based publishing system designed for decentralized, censorship-resistant publishing, and participants can work on the code base... \n\nWe also encourage you to have a hackathon in your own town using our materials — or materials of your own. Please let us know if you plan to do this (although it's not required!). If you do let us know, we can include you on our website and help you spread the word about your event. So far, there is an event in Portland sponsored by Portland Civic Lab where they will be screening The Internet's Own Boy and celebrating Aaron's life. \n\n\"EFF was proud to call Aaron a friend and ally,\" the digital rights organization posted this week. And the FSF's deputy director writes \"It is particularly striking that some of the world's largest companies now rely on technology Swartz helped to develop.\"\n\n\nOne of Swartz's most important technical contributions was his collaboration with John Gruber on Markdown, the simple text formatting system introduced in 2004. Markdown allows users to create structured documents using ordinary text, without requiring proprietary software. More than twenty years later, Markdown has become one of the most popular formats for documentation and publishing, and is widely used in community websites such as forums and wikis. This is not a minor contribution. Companies developing LLMs use Markdown extensively in their products and development tools. OpenAI, for example, recommends Markdown for organizing instructions and communicating structure to its ChatGPT models... Swartz also developed web.py, a public domain framework for building Python applications, and contributed to RSS 1.0, a public internet standard for distributing news and other information between websites.\n \nSwartz developed web.py while rewriting the software running Reddit after Reddit acquired Swartz's company Infogami. \n\nReddit recently licensed its content to AI companies, and the FSF's deputy director notes \"the enormous scale of the alleged 'piracy' by giant technology corporations\" while Aaron himself had \"faced criminal prosecution for downloading academic research that he wanted to distribute with no monetary gain.\"\n\nIn 2011, federal prosecutors charged Swartz with computer fraud and related offenses after he downloaded millions of academic articles from the JSTOR collection through MIT's university network... Although he was not charged with copyright infringement, he faced aggressive federal prosecution and the possibility of decades in prison before he tragically died by suicide in January 2013, at just twenty-six years old... \n\n Swartz helped build tools that made the internet more useful and accessible, and his contributions continue to shape a world he never lived to see. On Aaron Swartz Day, we should remember his achievements and the access-to-knowledge principles that guided them. The companies benefiting from his legacy should respect those same principles by giving users true freedom and control, rather than imposing more restrictions on us all.\n\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 08, 2026 12:34",
-    "published_at": "2026-11-08T12:34:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
     "title": "Linux 7.5 To Provide More AMD Ryzen AI NPU AIE4 Enablement",
-    "link": "https://www.phoronix.com/news/Linux-7.5-RK3568-AMD-AIE4",
-    "description": "Even before the Linux v7.4 merge window was over, there were already two pull requests of drm-misc-next material targeting for what will be Linux 7.5.  This week already saw the third drm-misc-next pull request of more feature patches targeting this next kernel version...",
-    "guid": "https://www.phoronix.com/news/Linux-7.5-RK3568-AMD-AIE4",
-    "date": "Nov 08, 2026 12:22",
-    "published_at": "2026-11-08T12:22:24Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "AMD PerfOpt Performance Boosting Code Tweaked For Linux 7.4-rc2",
-    "link": "https://www.phoronix.com/news/AMD-PerfOpt-Tweaks-Linux-7.4",
-    "description": "Of the many exciting changes in Linux 7.4, one of the exciting out-of-the-box performance improvements is the new \"PerfOpt\" functionality for AMD SoCs with integrated Radeon graphics. AMD PerfOpt can deliver some nice iGPU performance improvements especially for AI/LLM workloads. With today's Linux 7.4-rc2 kernel release there are a few tweaks to the PerfOpt code in the IOMMU area...",
-    "guid": "https://www.phoronix.com/news/AMD-PerfOpt-Tweaks-Linux-7.4",
-    "date": "Nov 08, 2026 11:37",
-    "published_at": "2026-11-08T11:37:07Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Yunsilicon Working To Upstream Their High Performance Linux Network Driver",
-    "link": "https://www.phoronix.com/news/Yunsilicon-Linux-Network-Driver",
-    "description": "Yunsilicon is a Chinese semiconductor startup founded in 2021 that is working on producing high performance networking adapters and DPUs. Over the past month has been their first foray into posting patches to the Linux kernel mailing list and working to get their networking hardware supported by the mainline Linux kernel...",
-    "guid": "https://www.phoronix.com/news/Yunsilicon-Linux-Network-Driver",
-    "date": "Nov 08, 2026 11:27",
-    "published_at": "2026-11-08T11:27:33Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "GCC 17 Feature Development Ends Next Week",
-    "link": "https://www.phoronix.com/news/GCC-17-Ends-Stage-1-Next-Week",
-    "description": "How time flies with the GCC 17 feature development set to end next week and transitioning over to a bug fixing focus...",
-    "guid": "https://www.phoronix.com/news/GCC-17-Ends-Stage-1-Next-Week",
-    "date": "Nov 08, 2026 11:12",
-    "published_at": "2026-11-08T11:12:21Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Linux Fixes Faulty Mitigation Selection For BHI Vulnerability",
-    "link": "https://www.phoronix.com/news/Linux-Fix-BHI-Mitigation-Build",
-    "description": "This week's batch of x86 fixes have been sent out ahead of the Linux 7.4-rc2 kernel releasing later today...",
-    "guid": "https://www.phoronix.com/news/Linux-Fix-BHI-Mitigation-Build",
-    "date": "Nov 08, 2026 11:03",
-    "published_at": "2026-11-08T11:03:38Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Open hardware board gives Echo Dot a second life with Home Assistant",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368947",
-    "description": "Crowd Supply has launched a campaign for LocalDot, an open-hardware board developed by AAElectronics that converts third-generation Amazon Echo Dots into Home Assistant voice devices. The 83 × 37mm PCB uses an ESP32-S3 and ESP32-P4 for connectivity and audio processing while retaining the original microphones, speaker, buttons, and LEDs. The ESP32-S3 handles Wi-Fi connectivity and…",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368947",
-    "date": "Nov 08, 2026 09:56",
-    "published_at": "2026-11-08T09:56:48Z",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368984",
+    "description": "Even before the Linux v7.4 merge window was over, there were already two pull requests of drm-misc-next material targeting for what will be Linux 7.5. This week already saw the third drm-misc-next pull request of more feature patches targeting this next kernel version…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368984",
+    "date": "Nov 08, 2026 14:37",
+    "published_at": "2026-11-08T14:37:51Z",
     "source": "lxer.com",
     "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "System76 Teases COSMIC Theme Constellations for Its COSMIC Desktop",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368950",
-    "description": "Carl Richell, founder and CEO of US-based Linux hardware vendor System76, teased today an upcoming feature of the Rust-based COSMIC desktop environment, called COSMIC Theme Constellations.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368950",
-    "date": "Nov 08, 2026 08:06",
-    "published_at": "2026-11-08T08:06:38Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "NASA Announces It's Looking for New Astronauts",
-    "link": "https://science.slashdot.org/story/26/11/08/0629226/nasa-announces-its-looking-for-new-astronauts?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Saturday NASA officials announced it's accepting applications for a new astronaut class, reports the Associated Press:\n\nWith only 32 active astronauts, the space agency needs more recruits as it looks to expand humanity's presence beyond low-Earth orbit as quickly as possible... \"We have far more work than we have astronauts,\" Artemis III commander Randy Bresnik told The Associated Press on Saturday. Aspiring astronauts have between now and Dec. 3 to submit their applications... [They'll begin their training by early 2028]. By then \"we're going to have people on the moon — so don't delay,\" Bresnik urged potential candidates. \nBresnik and his three crewmates will blast into orbit next summer to practice docking their capsule with a pair of lunar landers, one built by Elon Musk's SpaceX and the other by Jeff Bezos' Blue Origin. Their mission will stick close to Earth — no lunar flyby — and serve as a dress rehearsal for the following year's Artemis IV mission that will attempt to land two astronauts near the lunar south pole. The moon base will materialize as more rovers, robots, structures and power grids are launched. \nThe article notes NASA's last call for new astronauts was two years ago, and \"More than 8,000 applied, with 10 making the final cut in September 2025.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 08, 2026 08:03",
-    "published_at": "2026-11-08T08:03:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "TUXEDO OS Enters Final Beta Testing Ahead of Debian-Based Release",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368955",
-    "description": "TUXEDO OS nears completion of its transition from Ubuntu to Debian, with the new Debian-based edition entering the final stage of beta testing.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368955",
-    "date": "Nov 08, 2026 06:18",
-    "published_at": "2026-11-08T06:18:20Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "HyprBSD Provides Wayland-Based Desktop Built Atop FreeBSD, Complete With Steam Gaming",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368961",
-    "description": "While FreeBSD has been working to improve its desktop and laptop experience, that work isn't yet shipping in released form for the OS installer and other ongoing efforts. Now there's a new desktop FreeBSD distribution on the scene with HyprBSD providing a Wayland-based desktop experience and with the Linux binary compatibility layer even an easy route to gaming with Steam…",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368961",
-    "date": "Nov 08, 2026 04:38",
-    "published_at": "2026-11-08T04:38:29Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Scifi Magazine 'Starlog' Relaunches, and Back Issues Return to Internet Archive",
-    "link": "https://entertainment.slashdot.org/story/26/11/08/041209/scifi-magazine-starlog-relaunches-and-back-issues-return-to-internet-archive?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Slashdot reader sandbagger brings news about the classic science ficdtion magazine Starlog. It's 33-year run from 1976 to 2009 is now available on the Internet Archive. \n\nAnd 17 years after publishing its final issue, Starlog is relaunching, publishing one issue a year starting November 13, according to The Hollywood Reporter:\n\nThe magazine launched in 1976 and gained a fanbase for being one of the few places to get reliable news and interviews about geek culture. It launched with a cover focusing on Star Trek, one of its key areas of expertise, but the magazine's editors and writers also pioneered coverage of Star Wars. (The new issue chronicles some of the rumors it put out a year before the movie opened). In all, Starlog published 374 issues and more than 25,000 pages... In addition to the film and TV-focused features Starlog was known for, the new Starlog will also delve into futurism, as the cover from Gabriel Yeganyan highlights. The opening story of issue No. 1 looks at the viability of humans farming crops on planets outside of Earth, for example... The revival was announced earlier this year, and includes a podcast hosted by Jordan Hoffman, a veteran journalist who has contributed to The Hollywood Reporter.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 08, 2026 04:03",
-    "published_at": "2026-11-08T04:03:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Asahi Linux Makes Progress On Gaming, More Apple Silicon Upstreaming",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368954",
-    "description": "Given the recent Linux 7.3 upstream kernel release, the Asahi Linux project published a new status report to outline recent code they have upstreamed to the mainline kernel as well as other efforts taking shape in their downstream codebase…",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368954",
-    "date": "Nov 08, 2026 02:47",
-    "published_at": "2026-11-08T02:47:55Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Amutable Foundations: A Technical Overview",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368953",
-    "description": "Lennart Poettering, Michael Vogt, and Joaquim Rocha have put together a detailed overview of what the Amutable Operating System (AOS) and associated infrastructure will look like. The image-based OS approach enables us to enforce some very strict but powerful security properties, which elevate the security posture of the system substantially above traditional Linux systems. Specifically, let's…",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368953",
-    "date": "Nov 08, 2026 01:14",
-    "published_at": "2026-11-08T01:14:13Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "AlpineBSD Announced - an AI-free FOSS OS",
-    "link": "https://bsd.slashdot.org/story/26/11/08/0044219/alpinebsd-announced---an-ai-free-foss-os?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Lproven (Slashdot reader #6,030) shares his article about a new OS in the BSD family \"combining NetBSD's kernel and libc with a port of the Alpine Linux userland\" — and promising it won't use AI-generated code:\n\n AlpineBSD is so new that it barely exists yet. There are no installation media available, though it's possible to manually bootstrap an installation. What AlpineBSD does already have is an AI policy, and the plan is to avoid \"the output of generative AI models (e.g. LLMs)\" as far as possible: \n\n\"Any software whose code, documentation, binaries, or other assets include, in any part, the output of a generative AI tool such as an LLM, is considered 'tainted' for our purposes....\" \nBack in 2024, the NetBSD project made its position on AI plain. Its commit guidelines say that \"code generated by a Large Language Model [...] is presumed to be tainted code....\" \n\nAlpineBSD's ports repository and source code are hosted on Sourcehut, under the account of sircmpwn, better known as Drew DeVault... We will follow AlpineBSD with interest. There's strong appeal in the plan of combining perhaps the best-known, longest-established AI-free Unix-like kernel with the user-facing parts of pretty much the smallest and cleanest Linux distro there is. The AI advocates often warn LLM skeptics that they risk being left behind. Well, here's an OS for those who don't want to surf the AI wave. \n\nThe article does acknowledge difficulty installing software using the pkgin package manager (an optional extra), explaining that since 1993 the NetBSD community has had \"its own ideas about what is normal... Some folks on the mailing list told us that they never use binary packages anyway — they compile what they need from source code.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 08, 2026 00:46",
-    "published_at": "2026-11-08T00:46:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "COSMIC Desktop’s Next Visual Upgrade Introduces Theme Constellations",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368958",
-    "description": "System76 previews COSMIC Theme Constellations, an upcoming feature offering complete desktop themes with matching wallpapers, icons, fonts, and colors.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368958",
-    "date": "Nov 07, 2026 23:46",
-    "published_at": "2026-11-07T23:46:43Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Microsoft Removes PC-to-PC Migration from Windows 11, Points Users to OneDrive-Based Backup",
-    "link": "https://tech.slashdot.org/story/26/11/07/2333220/microsoft-removes-pc-to-pc-migration-from-windows-11-points-users-to-onedrive-based-backup?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Windows 11 offered a PC-to-PC Migration feature that \"moved files and settings directly between two PCs over Wi-Fi or Ethernet,\" reports Ghacks. But according to an updated Microsoft support page, the tool is no longer available. \n\n\"Microsoft's support documentation now redirects users to Windows Backup, a tool that relies on OneDrive cloud storage instead of a direct connection between two computers...\"\n\nWindows Backup works differently. It requires a personal Microsoft account and backs up supported folders (Desktop, Documents, Pictures, Videos and Music) to OneDrive. Free OneDrive accounts include only 5GB of storage, and Microsoft's own promotional screenshot for Windows Backup shows 4.5GB of that allowance already in use. Years of photos, documents and downloads can exceed the free tier quickly. \n\nWindows Backup does carry some extras. It can remember installed apps, Wi-Fi networks, passwords and some settings to speed up setup on a new device. Apps still have to be reinstalled, and supported files are restored from the cloud.\n\n \n\nThanks to Slashdot reader joshuark for sharing the article.\n\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 07, 2026 23:35",
-    "published_at": "2026-11-07T23:35:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "OpenIndiana 2026.10 Released With Updated Tools \u0026 Compilers, New Apps",
-    "link": "https://www.phoronix.com/news/OpenIndiana-2026.10",
-    "description": "OpenIndiana Hipster 2026.10 is out today as the newest six-month update to this operating system based on Illumos and with the lineage tracing back to the fruitful Sun OpenSolaris days...",
-    "guid": "https://www.phoronix.com/news/OpenIndiana-2026.10",
-    "date": "Nov 07, 2026 22:50",
-    "published_at": "2026-11-07T22:50:46Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "systemd Embraces Rust but Draws the Line at Core Libraries",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368965",
-    "description": "systemd developers explain why Rust is welcome in standalone components but cannot yet be used in core shared libraries.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368965",
-    "date": "Nov 07, 2026 22:17",
-    "published_at": "2026-11-07T22:17:14Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Data Centers are Being Powered By Giant Gas Plants, Possibly Increasing Carbon Pollution for Decades",
-    "link": "https://hardware.slashdot.org/story/26/11/07/2153213/data-centers-are-being-powered-by-giant-gas-plants-possibly-increasing-carbon-pollution-for-decades?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Rather than racing toward their net-zero targets, Amazon and other AI/cloud computing companies \"are driving emissions sharply higher,\" reports the Washington Post:\n\nTo support their data centers, tech firms are driving construction of a new generation of supersized, gas-fired power plants that could lock in hundreds of millions of tons of climate pollution for decades to come, according to corporate disclosures and an analysis conducted for The Post by a researcher at the Harvard T.H. Chan School of Public Health. Industry estimates show these projects have put the tech sector on course to grow from a modest driver of industrial carbon pollution into one of the world's biggest emitters of greenhouse gases. Some anticipate that its share of global carbon emissions will increase as much as fivefold from 2020 to 2030. That would leave the tech industry churning out more than half the climate pollution created by global aviation or shipping — sectors long associated with driving warming... \n\nAlready, Amazon's carbon footprint reached 80.85 million metric tons last year — 58% larger than when [Amazon CEO Jeff] Bezos pledged to shrink it. The company has veered far from the path laid out in the Paris agreement, which would have emissions falling steeply by now and dropping to 43% below 2019 levels by 2030. The tech companies say in corporate disclosures and public statements that they remain committed to their net zero targets, and they suggest the emissions surge is temporary — to be mitigated down the road, when new energy technologies enable the data centers to run cleaner and more efficiently. They also stress that they continue to invest in clean energy and rank as some of the world's biggest consumers of it. With some complicated accounting maneuvers and carbon credit purchases, their solar, wind and geothermal installations partly cancel out their gas emissions, according to corporate disclosures. \n\nA June report from international insurance/asset management Allianz found the world's data center emissions are on track to double to 643 million tons of CO2 annually between 2020 and 2030, the article points out. And they cite American data centers contributing to the problem:\n\nJust two gas projects Amazon signed on to for data centers planned in Texas and Pennsylvania \"would produce more carbon pollution than the dirtiest facility in the country,\" an Alabama coal plant powering 1 million homes.\nMeta is building a nearly six-square-mile campus in Louisiana \"that will consume as much electricity as three cities the size of New Orleans.\"\n\"A sprawling Microsoft project in West Texas involving a giant gas plant built by Chevron and a Google project in Wyoming that would consume five times as much electricity as every household in that state would vastly expand the emissions associated with those companies.\"\n\"A data center campus in Pike County, Ohio, that will support OpenAI's artificial intelligence operations will consume significantly more gas power, and, therefore, emit more carbon pollution, than the Microsoft and Google projects combined.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 07, 2026 22:15",
-    "published_at": "2026-11-07T22:15:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
   }
 ]
