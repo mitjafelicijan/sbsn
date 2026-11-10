@@ -1,5 +1,109 @@
 [
   {
+    "title": "LibreOffice vs WPS Office: Which Is Really Free — and What Costs Extra?",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369015",
+    "description": "LibreOffice is free for business, but WPS Office's free edition has licensing limits. Compare the PDF, cloud, AI, and compatibility trade-offs.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369015",
+    "date": "Nov 10, 2026 04:46",
+    "published_at": "2026-11-10T04:46:08Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "FDA Warns GLP-1s May Increase Risk of Sudden Blindness",
+    "link": "https://science.slashdot.org/story/26/11/09/231215/fda-warns-glp-1s-may-increase-risk-of-sudden-blindness?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from NBC News: The Food and Drug Administration said Monday that GLP-1 drugmakers must add a warning label about a rare eye condition that can cause sudden blindness. The condition, called nonarteritic anterior ischemic optic neuropathy, or NAION, affects the optic nerve, which carries signals from the eye to the brain. When blood flow to the nerve is reduced or blocked, it can cause sudden vision loss. The condition is permanent with no known treatment. The FDA said \"there is a potential increased risk of rare NAION\" in people taking GLP-1 drugs. The agency's requirement applies to all GLP-1s, including Novo Nordisk's Ozempic and Wegovy and Eli Lilly's Mounjaro and Zepbound, as well as several older GLP-1 diabetes medications. [...] Previous research has found that GLP-1 use may increase the risk of NAION, and Lilly has said it was aware of studies on the potential link.\n \nThe FDA said it began looking into a possible link after a 2024 study published in JAMA Ophthalmology that found diabetes patients prescribed semaglutide were four times as likely to develop NAION as those not prescribed the drug. The agency said it reviewed reports of side effects submitted to its adverse event monitoring system and analyzed data from multiple clinical trials. Cases of NAION have been reported for all currently marketed GLP-1 drugs, the FDA found. However, FDA scientists were not able to identify a mechanism for how the drugs could increase the risk of the eye condition. Risk factors for NAION can overlap with conditions seen in people taking GLP-1 drugs, including Type 2 diabetes, obesity, sleep apnea and hypertension. \"Patients and caregivers should be aware of a potential increased risk of NAION, a rare condition that can result in acute, painless, decreased vision in one eye, including permanent vision loss,\" with GLP-1 use, the FDA said in the release.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 10, 2026 03:30",
+    "published_at": "2026-11-10T03:30:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Agama Is Coming to Tumbleweed",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369024",
+    "description": "The openSUSE Project’s rolling release Tumbleweed will switch to the Agama installer before the end of the year, according to an announcement on the Factory mailing list. Agama-based images are expected to replace the legacy YaST installer as the main download on get.opensuse.org within the coming weeks. The project is…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369024",
+    "date": "Nov 10, 2026 02:12",
+    "published_at": "2026-11-10T02:12:41Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Mozilla Firefox 160 Is Now Available for Download, Here’s What’s New",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369030",
+    "description": "Continuing its two-week release cycle, Mozilla published today the final builds of the Firefox 160 open-source web browser ahead of the official unveiling on November 10th, 2026.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369030",
+    "date": "Nov 10, 2026 00:53",
+    "published_at": "2026-11-10T00:53:32Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Mesa 26.3 Released With VK_AMD_anti_lag For RADV, Many Other Vulkan Improvements",
+    "link": "https://www.phoronix.com/news/Mesa-26.3-Released",
+    "description": "Mesa 26.3 is out today as the fourth quarter Mesa3D feature release for this collection of open-source OpenGL and Vulkan drivers...",
+    "guid": "https://www.phoronix.com/news/Mesa-26.3-Released",
+    "date": "Nov 10, 2026 00:19",
+    "published_at": "2026-11-10T00:19:46Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Microsoft Took 31 Years to Let You Kill Windows 11's Sticky Keys Popup",
+    "link": "https://build.slashdot.org/story/26/11/09/2224257/microsoft-took-31-years-to-let-you-kill-windows-11s-sticky-keys-popup?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Microsoft is testing a Windows 11 option that lets users permanently disable the Sticky Keys and Filter Keys activation prompts directly from the pop-ups themselves, ending a 31-year-old annoyance without requiring a trip into Settings. Windows Latest reports: Sadly, the dialog is still the same aging Win32 window, but we spotted Microsoft's design boss replying under an X post reply about this, saying he is working on modernizing legacy dialogs. The popup might be annoying, but did you know that it exists because of a pinball game from 1995? [...] The change is in Build 26340.9882 (Experimental) and Build 26320.9876 (Beta), both released on November 6 and based on Windows 11 version 26H2. Microsoft says you can \"choose not to be asked again\" from the Sticky Keys and Filter Keys dialogs, but it's a Controlled Feature Rollout in Experimental, so you may not see it yet.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 10, 2026 00:00",
+    "published_at": "2026-11-10T00:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Self-sufficient mobile weather station",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369029",
+    "description": "A weather research station powered by the weather itself.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369029",
+    "date": "Nov 09, 2026 23:48",
+    "published_at": "2026-11-09T23:48:59Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Firefox 160 Available With Speech-To-Text, MKV Files With FLAC / MP3 / PCM Audio",
+    "link": "https://www.phoronix.com/news/Firefox-160-Released",
+    "description": "The Firefox 160.0 release builds are now available as the latest bi-weekly stable update to Mozilla's web browser...",
+    "guid": "https://www.phoronix.com/news/Firefox-160-Released",
+    "date": "Nov 09, 2026 23:12",
+    "published_at": "2026-11-09T23:12:33Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Trump Backs Nvidia CEO Jensen Huang Amid Chinese Spy Affair Investigation",
+    "link": "https://yro.slashdot.org/story/26/11/09/2253208/trump-backs-nvidia-ceo-jensen-huang-amid-chinese-spy-affair-investigation?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "President Donald Trump says the FBI is investigating Nvidia CEO Jensen Huang's affair with a woman alleged by U.S. intelligence to have gathered information for Beijing. \"I know the FBI is looking into it in terms of something else, and I think that he'll be in good shape,\" Trump said at a White House briefing. The Associated Press reports: Trump suggested the extraordinary step of directly involving himself in a counterintelligence investigation, a sign of his friendly relationship with Huang and the possible geopolitical stakes. \"I did speak to him today just to see if he's feeling all right, how you're doing,\" Trump said. \"He said he had absolutely no idea that the person in question was a spy.\"\n \nTrump is slated to meet next week with Chinese leader Xi Jinping in Shenzhen, China, at the Asia-Pacific Economic Cooperation summit, but he was noncommittal about bringing up the situation with Xi. \"No, I don't think so,\" Trump said. \"I mean, maybe. I'm sure President XI will ask me about it. I just know Jensen very well. I just think he's a very honorable man.\"\n\n Nvidia has launched its own independent investigation into whether Huang was targeted by a foreign intelligence operation. Meanwhile, China has denied the allegations. \"The so-called Chinese spy allegation is unsubstantiated. It is nothing but smears against China,\" Chinese Foreign Ministry spokesperson Guo Jiakun said during a regular news briefing Monday.\n \n\nFurther reading: Commerce Dept. Chip Inquiry Was Halted After Nvidia Intervention\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 09, 2026 23:00",
+    "published_at": "2026-11-09T23:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Epic Games Comments On Planned Linux Distribution Support",
+    "link": "https://games.slashdot.org/story/26/11/09/2154207/epic-games-comments-on-planned-linux-distribution-support?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Epic Games says it plans to support its new Linux launcher on as many distributions as possible, specifically naming Fedora, SteamOS, CachyOS and Omarchy. GamingOnLinux's Liam Squires-Hand reports: Speaking to Jake Jones, Communications Director at Epic Games, they said: \"Hey Liam! The new Epic Games Launcher is still in Preview and we plan to support as many Linux distributions as possible, including Fedora, SteamOS, Cachy, Omarchy, and more. We're testing and evaluating packaging formats for distribution, and we'll restore AppImage this month.\"\n \nWith that in mind, until things settle down, you might see different packaging types appear or disappear until they decide firmly how they plan to support different distributions each with their own different packaging formats. Or, perhaps they might see the Flatpak light and just put it up officially on Flathub. Would make it even easier for SteamOS then too with Flathub, since it would just be a quick pop to Desktop Mode to install it directly in the Discover app.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 09, 2026 22:00",
+    "published_at": "2026-11-09T22:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
     "title": "GNU groff 1.25.0 Arrives With Typesetting Fixes and Refinements",
     "link": "https://lxer.com/module/newswire/ext_link.php?rid=369025",
     "description": "GNU’s long-running typesetting system gains clearer warnings, new formatting controls, and bug fixes in its latest release.",
@@ -488,71 +592,6 @@
     "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368987",
     "date": "Nov 08, 2026 21:57",
     "published_at": "2026-11-08T21:57:15Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Nvidia CEO Admits Affair With Alleged Chinese Spy. Investigation Opened",
-    "link": "https://hardware.slashdot.org/story/26/11/08/2125219/nvidia-ceo-admits-affair-with-alleged-chinese-spy-investigation-opened?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "CNBC reports new details about the relationship of alleged Chinese spy with Nvidia CEO Jensen Huang:\n\nHuang told Nvidia staff in a email on Sunday that he had an affair with the woman and that Nvidia's board of directors had opened an independent investigation into the spying allegations. \"I was unfaithful to my wife. My actions hurt her and our children. There is no excuse for what I did,\" Huang wrote in the message. \"I am deeply sorry.\" \n\nNvidia's board \"said an independent committee, assisted by outside counsel, will investigate the matter,\" reports Axios:\n\nThe board said it has no reason to believe national security or company secrets were compromised and expressed confidence in Huang's leadership... Huang has been a key voice in Washington pushing to loosen restrictions on AI chip sales to China. He argued that keeping American technology in the Chinese market strengthens U.S. competitiveness and prevented China from developing their own potentially more advanced chips. \n\nThe board's statement added that their inquiry \"will examine all available information,\" CNBC reports. But \"An Nvidia spokesperson said that Huang was committed to continuing as CEO of Nvidia without interruption.\" \n\n\"I love our country and our company,\" Jensen Huang wrote in his letter to Nvidia's staff (as reported by CNBC), \"and I am committed to protecting NVIDIA and supporting America's national security. I am proud and grateful to be an American.\" \n\n\nBut while U.S. lawmakers have requested Huang appear for closed-door committee briefing, Jensen has not confirmed he'll appear, notes CNBC:\n\n\n\nWhen asked by the New York Times whether Huang would appear before lawmakers to discuss the matter, Nvidia spokesman John Rizzo declined to comment. \"Our chief executive has an outstanding security team that accompanies him where needed,\" Mr. Rizzo said in a statement to the Times... \n\nRizzo said [Thursday] the Nvidia CEO's interactions with [alleged Chinese spy Alice] Huang were consistent with meetings he has had with any of Nvidia's customers.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 08, 2026 21:34",
-    "published_at": "2026-11-08T21:34:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Parents Sue Google Over AI Safety Risks On School Chromebooks",
-    "link": "https://tech.slashdot.org/story/26/11/08/1936228/parents-sue-google-over-ai-safety-risks-on-school-chromebooks?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "The New York Times reports:\n\n\nAfter chatting for months with Google's artificial intelligence on a school-issued Chromebook laptop, a 13-year-old student made plans to end her life, according to a lawsuit filed in California Superior Court on Monday, the latest in a wave of litigation over Big Tech's effects on young people. The lawsuit, which refers to the girl as Emma, said that her parents first learned she had access to Google's AI in mid-March after their daughter's school sent a message warning them that she was in \"imminent danger\" of self-harm. Emma's mother logged into the teen's school Google account and found her daughter composing a suicide note on Google Docs, the complaint said. Her parents, named as John and Jane Doe in the lawsuit, immediately took Emma for an emergency psychiatric evaluation, and she now goes to therapy every week. \n\nEmma, a seventh grader in Charlotte, North Carolina, had grown convinced that she had multiple mental health disorders following interactions with AI Mode, a chatbotlike feature on Google Search, the complaint said. She also searched for \"what is a suicide note\" and made comments like \"I am planning my own funeral\" to the AI, the complaint said. The lawsuit is likely the first to claim that Google \"hastily integrated\" AI features into company apps used on K-12 Chromebooks, Google-powered laptops provided to millions of children by U.S. school districts, while failing to notify their parents of the potential risks... \n\nThe case underscores how public school districts have come to depend on classroom laptops, tablets and apps from companies like Google and Microsoft for teaching and learning. In recent years, some Big Tech companies have used their own infrastructure in schools to promote their AI chatbots for teachers and students. The new lawsuit argues that Google's \"sprawling digital ecosystem\" of laptops and apps has enabled the tech giant to spread its Gemini AI chatbot across public schools — as well as turn on some students' access to AI features by default — without parents' awareness or permission. While school administrators can toggle company apps like YouTube and Gemini on or off for students in different grades, school administrators have complained that Google's system has not allowed them to disable AI Mode and AI Overview, features that are embedded in Google Search... \n\nThe new lawsuit against Google is part of a wave of litigation this year over Big Tech's effect on young users... Several parents have also sued AI companies over allegations that their children died by suicide following interactions with chatbots. \n\n\nIn a possibly-related development, Google announced a new policy of disabling its AI tools by default for schools this week. And schools that re-enable searches will have a new choice, the New York Times points out: \"to enable student access to the AI features that the company has already embedded in search or to a new AI feature intended to assist students with schoolwork.\" \n\nBut Google still isn't offering schools an option to turn off AI altogether in search, a company executive told the New York Times, because \"search and AI are deeply integrated.\"\n \n\nThanks to long-time Slashdot reader theodp for sharing the article.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 08, 2026 20:34",
-    "published_at": "2026-11-08T20:34:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Salon, One of the Web's Pioneering News Outlets, Shuts Down After 31 Years",
-    "link": "https://news.slashdot.org/story/26/11/08/1849210/salon-one-of-the-webs-pioneering-news-outlets-shuts-down-after-31-years?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "\"It has been an extraordinary privilege,\" says the subheading on Thursday's announcement. After 31 years Salon.com will stop publishing, according to an announcement which appeared on the site under the byline \"Salon\". It remembers that Salon \"was an idea about what journalism could be, born at a moment when the internet was still a largely unexplored frontier.\"\n\n\n\nWhen Salon launched in November 1995, the web was a very different place. A small group of journalists set out to create something original: a publication with a strong voice, a curiosity about the world and a belief that the internet could bring journalism and readers together in new ways. They helped pioneer a form of journalism that would come to define an entirely new era of publishing. Over three decades, Salon has brought together politics, culture, criticism and ideas in a way that was distinctly our own... \n\nOur writers and editors helped shape conversations about the forces changing our lives. The work was never simply about keeping up with the news. It was about making sense of it... To the founders who imagined it, the staff members who built it, the contributors who gave it their voices and the alumni who carried its spirit into the world: Thank you. Salon's legacy belongs to all of you... \n\nThe business realities of independent digital journalism have changed profoundly over the years. After careful consideration, we have reached the difficult decision that our publishing model is no longer sustainable... \n\nThirty-one years is a remarkable run, but what matters most is what happened during those years: the journalism, the ideas, the voices, the conversations and the community that grew around them. Salon helped demonstrate what digital journalism could be and could become. We hope that legacy will continue to matter long after today. \nThank you for being part of our story. It has been an extraordinary privilege. \n\n\nSlashdot reader oumuamua remembers Salon as one of the internet's first digital-native publications. Slashdot linked to Salon many times over the years — for example, this 1998 story headlined \"Linus Story in Salon\".\nPeter Neves was the first of many who wrote in to tell us about an article in Salon Magazine that describes an \n\n\"...analogy between MS and the Catholic Church, and Linus and Martin Luther. \"\n\n \n\n\nThe Associated Press remembers Salon as \"an early staple of internet discourse.\"\nAnd while Salon told them there were no immediate plans to take down Salon's online archives, the Associated Press notes the site's announcement \"did not immediately indicate what would become of its employees, though some reported they had lost their jobs.\" (Longtime staff writer Amanda Marcotte\nwrote on her Patreon that she and \"everyone\" are \"the latest victim of AI's predations.\") \"A spokesperson for the outlet said 19 full-time employees had been affected, as well as a handful of private contractors,\" writes the Associated Press. \n\n\n Variety adds that Salon \"joins later-arriving sites such as Buzzfeed and Gawker that found it difficult to monetize cultural and topical reporting for a general audience and eventually shut down.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 08, 2026 19:34",
-    "published_at": "2026-11-08T19:34:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Claude Code's 'Don't Ask Again' File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
-    "link": "https://it.slashdot.org/story/26/11/08/1758242/claude-codes-dont-ask-again-file-exposes-passwords-and-keys-in-1122-public-copies-on-github?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Be careful with the file .claude/settings.local.json, warns The Hacker News:\n\n\nPasswords and API keys that developers typed into commands they approved in Claude Code are sitting in public GitHub repositories, where anyone can read them. When a user selects \"Yes, and don't ask again,\" Anthropic's AI coding assistant can save the command, word-for-word, including the secret, in a project settings file. Software security company Apiiro said that 1,122 public copies of that file hold at least one secret, though it did not test whether any still work. One company the researchers notified earlier this week confirmed its key had been live... \n\nRemoving [the file] from a project does not undo the leak, because older versions stay in git history and in forks of the repository. The researchers' advice is to rotate first: change every password, token, and key the file has ever held, then clean up... \n\nClaude Code tries to keep the file out of git. The first time it writes the file in a git repository, it adds the file to the user's global git excludes, its settings documentation says. Git on that computer then ignores the file in every repository. That protection stays in one user's git settings on one computer. It does nothing for a file that was already committed, the researchers say. Claude Code never adds the file to the project's own .gitignore, so the protection does not travel with the project. In 539 of the 1,105 repositories the researchers traced, a commit listing Claude as a co-author changed the file. They take this to mean Claude often commits the file itself. \n\nApiiro's search of public GitHub found 104,185 copies of the file in 103,617 repositories, its research write-up shows. About 1.1% of them, or 1,122 copies, hold at least one secret. Together they hold 1,379 different secrets... ]And \"in half of those repositories it had been there for at least 217 days.\"] More than a third of the secrets open a database directly, including 379 database passwords. Others include 43 SSH logins for public servers, 42 tokens for GitHub, GitLab and npm, and 23 AWS keys. Among the owners of these files are 63 organizations, mostly software companies of all sizes. The strongest cases include a database vendor's own admin-level cloud key and the owner password of a medical-records database, the researchers say. \n\n\nBoris Cherny, Anthropic's head of Claude Code, responded to the story in a comment on Hacker News: \n\n\n\"Historically Claude Code has not done secret scrubbing (there are many good tools for that), but we are looking into what we can do to prevent this. \n\nThat said, a few thoughts: \n1. .claude/settings.local.json is meant to stay local. This is not a file you should check into source control. We automatically gitignore it when Claude creates the file, so in this case the files were manually created and checked in (docs: https://code.claude.com/docs/en/settings) \n2. Permission rules are old hat. Everyone should be using auto mode instead. It is safer and also does not require manually maintaining finicky allow/deny lists. Auto mode is enabled by default and is included for free in all plans. \n3. Regardless of what agent you use, you should have secret scanning enabled. GitHub and other source control hosts offer it. There are many threat models that it protects against and you should absolutely use it if you can. (see https://github.com/security/plans)\" \n\nCherny also named approaches Anthropic plans to prototype, Apiiro notes in an update, citing Cherny's goal of\n\"making sure auto mode catches this, building in basic secret scanning,\" and, when a reader noted the same can happen in auto mode when it asks about a sensitive command, answered \"good catch.\" \n\nClaude Code users had already filed a bug report on the issue on August 11, 2025, notes The Hacker News, but \"An automated bot closed that report as 'not planned' on January 3, after 60 days without activity.\" \n\nThree more bug reports were then filed, according to the researchers. \"None got a reply from Anthropic, and three were closed automatically as inactive or duplicate.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 08, 2026 18:34",
-    "published_at": "2026-11-08T18:34:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": " The end of an era as Linux 7.5 purges the last 30-year-old Intel MMX optimizations from Pentium age  ",
-    "link": "https://www.tomshardware.com/software/linux/the-end-of-an-era-as-linux-7-5-purges-the-last-30-year-old-intel-mmx-optimizations-from-pentium-age-open-source-os-retires-ancient-1997-pentium-instructions-to-streamline-code",
-    "description": " Linux developers are preparing to make Intel’s ancient MultiMedia eXtensions irrelevant, with the last MMX code now set to be removed from the kernel. ",
-    "guid": "zrQ6uf5qBsC6SwYL5uePYj",
-    "date": "Nov 08, 2026 14:40",
-    "published_at": "2026-11-08T14:40:00Z",
-    "image": "https://cdn.mos.cms.futurecdn.net/rXG5LfQBM4KrVowgfX4A3g-1920-80.jpg",
-    "source": "tomshardware.com",
-    "source_url": "https://www.tomshardware.com/software/operating-systems/linux"
-  },
-  {
-    "title": "Linux 7.5 To Provide More AMD Ryzen AI NPU AIE4 Enablement",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=368984",
-    "description": "Even before the Linux v7.4 merge window was over, there were already two pull requests of drm-misc-next material targeting for what will be Linux 7.5. This week already saw the third drm-misc-next pull request of more feature patches targeting this next kernel version…",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=368984",
-    "date": "Nov 08, 2026 14:37",
-    "published_at": "2026-11-08T14:37:51Z",
     "source": "lxer.com",
     "source_url": "https://lxer.com/"
   }
