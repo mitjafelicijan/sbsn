@@ -1,5 +1,121 @@
 [
   {
+    "title": "M John Harrison Becomes First Sci-Fi Author To Win Booker Prize",
+    "link": "https://news.slashdot.org/story/26/11/10/2227217/m-john-harrison-becomes-first-sci-fi-author-to-win-booker-prize?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from The Guardian: Eighty-one-year-old M John Harrison has won the Booker prize for The End of Everything, a postapocalyptic novel set on a near-future Kent coast, becoming the oldest winner in the award's history. Gaby Wood, chief executive of the Booker Prize Foundation, said that while plenty of previous winners had dabbled in science fiction, Harrison's was \"the first Booker winner to have emerged from the bona fide SF world.\" She called it \"a historic win, for a writer whose decades of work are lightly worn on every page\".\n \nHarrison, who has been publishing for six decades, overtakes Margaret Atwood, who was 79 when she shared the prize in 2019 for The Testaments. He received the 50,000-pound award and trophy at a ceremony in London on Monday evening. The End of Everything, Harrison's first Booker nomination, is set a few decades from now, years after a disaster nobody can properly account for. Set on the Kent coast, the novel sees Phillip Tennent and his ageing aunt Marnie attempting to survive alongside the looming threat of the mysterious iGhetti: vast, shape-changing beings whose origins and intentions are never explained. At 198 pages, it was the shortest book on the shortlist.\n \nMary Beard, chair of the judges, said the decision was unanimous, reached after a full day of discussion. \"It's a book that turns you upside down, raises a wry smile -- and surprisingly, given the subject matter, leaves you with a twinge of optimism,\" she said. \"One main point of the book is that if, or when, such an apocalypse comes it will be incomprehensible. And the old rules won't matter either This is the politics of now seen through the lens of the future.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 11, 2026 03:30",
+    "published_at": "2026-11-11T03:30:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Anthropic tiptoes into MS Office territory",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369081",
+    "description": "Sheets, Whiteboards, and Data artifact types bring Claude closer to a productivity suite",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369081",
+    "date": "Nov 11, 2026 03:17",
+    "published_at": "2026-11-11T03:17:34Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "14-year-old creates tool for AI agents to band together like a team",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369073",
+    "description": "Autark can act without constant prompting, but leaves users to enforce their own security boundaries",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369073",
+    "date": "Nov 11, 2026 01:56",
+    "published_at": "2026-11-11T01:56:17Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Ubuntu 26.10 Begins Rolling Out upki Support For Certificate Revocation",
+    "link": "https://www.phoronix.com/news/Ubuntu-26.10-Does-upki",
+    "description": "With Ubuntu 26.10 that shipped in October there is a little talked about feature with upki revocation support beginning to roll out. Due to the late change, upki for certificate revocation was only enabled for Ubuntu 26.10's curl package but with more plans ahead...",
+    "guid": "https://www.phoronix.com/news/Ubuntu-26.10-Does-upki",
+    "date": "Nov 11, 2026 01:43",
+    "published_at": "2026-11-11T01:43:13Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "High Tide (Linux TIDAL Client) adds playlist editing, artist blocking + more",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369079",
+    "description": "A new version of High Tide, an unofficial TIDAL music streaming app for Linux built with GTK4/libdwaita, is out. Hight Tide 1.6.0 plumbs in support more features found in the paid streaming service’s official clients, including the ability to block artists and tracks for appearing in playlists or auto-play queues, with a new preferences panel to see and manage your blocks. Play buttons are now…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369079",
+    "date": "Nov 11, 2026 00:23",
+    "published_at": "2026-11-11T00:23:02Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Google Fi Brings Back Network Switching With 'Secondary' Partner",
+    "link": "https://mobile.slashdot.org/story/26/11/10/2221238/google-fi-brings-back-network-switching-with-secondary-partner?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Google Fi is bringing back network switching through an unnamed \"secondary\" 5G carrier. \"Most users will be on the 'Primary network,' but Google Fi will automatically switch users to the 'Secondary network' if it meaningfully improves performance with so-called 'smart thresholds' for doing so,\" reports 9to5Google. \"At launch, there is no manual switching.\" When Project Fi first launched the service included support with both Sprint and T-Mobile. That went away when T-Mobile acquired Sprint in 2020. 9to5Google reports: Google is not naming the second network today, but did share that Ultra Wideband is supported. Officially, you are switching between \"two of America's fastest 5G networks.\"\n \nFi Wireless does note that users have top priority, so data is never deprioritized on the Primary network. Meanwhile, there's \"highest QCI priority\" on the backup network that means subscribers are among the last to be slowed down when there's congestion. This is also available internationally when local partner networks are available with the Flexible and Unlimited Premium plans.\n \nNetwork switching will first be supported on Pixel 9 and newer devices that have a Google Fi eSIM (and no other SIM active). It makes use of Android's Multiple Enabled Profiles (MEP) eSIM technology that allows for two carrier profiles on a single chip. [...] These Google Fi updates start rolling out today, with network switching seeing gradual availability.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 11, 2026 00:00",
+    "published_at": "2026-11-11T00:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Fireworks AI Confirms Wider Breach Affecting Notion AI Chats",
+    "link": "https://it.slashdot.org/story/26/11/10/2156247/fireworks-ai-confirms-wider-breach-affecting-notion-ai-chats?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Fireworks AI says its October breach was broader than initially disclosed, with attackers gaining access to customer account and billing information as well as some datasets, incomplete model weights and secrets. Notion, the popular productivity and note-taking app, disclosed that it was impacted in the breach but \"fewer than 1% of Notion workspaces\" were involved. \"Upon analysis of the new data, we discovered that it included Notion AI chat transcripts used for the Insights feature, which for the vast majority of impacted workspaces were unattributable,\" it said. \"'Unattributable' means the chats weren't labeled with who wrote them or which workspace they came from, and the transcripts did not contain tool call results.\" The Hacker News reports: In a notice published on October 10, 2026, [Fireworks AI] said it detected unauthorized use of internal Fireworks credentials that allowed an unauthorized third-party to access environment variables used in evaluation jobs in a limited number of customer accounts. The activity was detected on October 6, 2026, at 9 a.m. PDT. [...] The latest bulletin from the company reveals that the scope of the breach may have been broader than previously thought. The company said attackers reached its development environment via an unnamed third-party cloud provider that hosted Fireworks research and development (R\u0026D) machines on October 23, 2026.\n \n\"On October 24, the unauthorized third party used it to reach Fireworks development machines and then run an unauthorized workload that led to additional customer data impact,\" it added. \"As of October 25, we have not detected further evidence of successful unauthorized access by the threat actor on the Fireworks platform customers use.\" The breach is said to have provided access to the following types of information: [Resource metadata; Billing information; and Model weights and datasets]. Fireworks AI said payment card numbers are not stored by the company and were not impacted by the security incident. It also said it's alerting customers whose data was impacted.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 10, 2026 23:00",
+    "published_at": "2026-11-10T23:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Zuck’s Minions Ban Me From Posting to Facebook… Because DistroWatch \u0026 Lunduke???",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369077",
+    "description": "Sharing Linux release announcements is apparently a cybersecurity threat. Fortunately, Facebook’s keeping an eye on me to make sure that doesn't happen again.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369077",
+    "date": "Nov 10, 2026 22:51",
+    "published_at": "2026-11-10T22:51:06Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "New York Launches Nation's First State AI Testing Program",
+    "link": "https://yro.slashdot.org/story/26/11/10/2058226/new-york-launches-nations-first-state-ai-testing-program?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "New York is launching a state-backed AI safety research center at Binghamton University that will independently study and test AI systems, develop safety and security techniques, and train researchers in responsible AI. \"While the federal government fails to act, New York is leading the way on AI safety and holding big tech accountable,\" New York Gov. Kathy Hochul said. \"The stakes are too high to simply take AI companies at their word.\" Politico reports: The center -- which is funded by a $30 million gift from Bloomberg co-founder Tom Secunda and a $25 million research investment from SUNY and New York state -- is set to launch before New York's major AI safety law, the RAISE Act, comes into effect on Jan. 1. That will require submissions of detailed safety frameworks from AI companies operating in New York State, which Hochul's office hopes will be scrutinized by researchers at the new center.\n \n\"AI is opening up questions that scientists could not tackle before,\" said Secunda, who also serves as the board chair of Empire AI, a $500 million public-private partnership. \"With Empire AI and researchers across New York, the Center can test systems independently and give public officials evidence they can use.\"\n \nOver 80 leading scientists and researchers on AI systems from across New York state will contribute to the effort, which will be run by the New York Center for AI Responsibility and Research at Binghamton University, according to details shared by Hochul's office. The initiative will be led by Jeannette Wing, the executive vice president for research at Columbia University, and Greg Morrisett, the vice provost of Cornell Tech.\n \n\"We need new techniques that can be applied to this new kind of system with swarms of autonomous agents acting independently and without control. How can you first detect that they're going to do harm, and how can you prevent them from doing harm?\" said Wing. \"The beauty of what's being proposed is that this state is committing resources to really light this up.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 10, 2026 22:00",
+    "published_at": "2026-11-10T22:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Anthropic Launches New Workplace Features To Take On Microsoft and Google",
+    "link": "https://tech.slashdot.org/story/26/11/10/2023200/anthropic-launches-new-workplace-features-to-take-on-microsoft-and-google?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from TechCrunch: Anthropic announced new workplace features on Tuesday, including Claude Meetings, which brings Claude into video calls to begin working on tasks while participants are still talking. The company also unveiled Claude Whiteboards and Claude Sheets. The launch of Anthropic's new productivity-focused features comes just a few weeks after OpenAI unveiled a series of workplace tools that allow users to collaborate with ChatGPT to do things like visualize company information and create presentations, as both companies compete to turn their products into office suites of sorts to take on Microsoft and Google. Meta is also joining the competition with its Muse AI agent, which can build mini-apps on the fly to help users complete specific tasks. Here's a summary of each of the offerings Anthropic announced today:\n \nClaude Meetings: Allows Claude to join video calls as a visible participant, take notes, answer questions, retrieve information from connected apps, and create plans, timelines, and action items in real time. Available in beta for Team and Enterprise plans, initially supporting Google Meet.\n \nClaude Whiteboards: A collaborative visual workspace where teams can brainstorm with Claude, organize ideas into timelines and plans, and turn their work into documents or slide decks. It also integrates with Claude Meetings to build whiteboards during conversations.\n \nClaude Sheets: Lets teams create and collaboratively edit spreadsheets with Claude, including budgets and trackers with multiple tabs, formulas, formatting, and dropdown menus. Claude can make changes directly in cells while explaining its edits.\n \nAnthropic also announced the general availability of Claude Data (formerly Claude Dashboards) that connects Claude to business systems like CRMs and data warehouses. \"Users can ask questions, and Claude responds with dashboards, written data stories, or narrated videos,\" reports TechCrunch. Additionally, the company announced new interactive connectors that let users open Claude and work within third-party apps like Adobe, Atlassian, and HubSpot.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 10, 2026 21:00",
+    "published_at": "2026-11-10T21:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Starlink Mini 2 Adds a Swappable Battery, Wi-Fi 6",
+    "link": "https://tech.slashdot.org/story/26/11/10/208239/starlink-mini-2-adds-a-swappable-battery-wi-fi-6?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "SpaceX has unveiled the Starlink Mini 2, equipping the company's smallest satellite internet terminal with a removable 71Wh battery and Wi-Fi 6. Preorders are opening to select U.S. customers for $999, which also includes a year of Roam Unlimited service. Shipments are expected to begin in mid-December. InterestingEngineering reports: The removable battery represents the biggest functional upgrade over the original Starlink Mini. Previously, users needed an external power source to operate the satellite terminal. That meant carrying additional equipment for camping trips, remote work, or extended journeys. Mini 2 addresses that limitation with a detachable 71 Wh battery pack. It weighs approximately 1.08 pounds (490 grams) and delivers up to 4.5 hours of connectivity. Owners can replace it with another charged battery when necessary.\n \nThe battery also features LED indicators and its own USB-C charging port. SpaceX supports 60-watt USB-C Power Delivery charging for the pack. The retail kit includes a compatible 60-watt wall adapter and a three-meter USB-C cable. Users can also power the terminal through USB-C without relying on its battery. A physical power button replaces the original model's simpler plug-and-play arrangement.\n \n[...] SpaceX has also upgraded the wireless hardware from Wi-Fi 5 to Wi-Fi 6. The integrated router supports coverage across approximately 1,800 square feet (167 square meters). An IP67 rating provides additional protection against dust and water. Other hardware details include a foldable kickstand and a standard 1/4-inch-20 tripod mounting thread. The terminal also offers a 55-degree field of view for satellite acquisition.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 10, 2026 20:10",
+    "published_at": "2026-11-10T20:10:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
     "title": "Three new stable kernels for Tuesday",
     "link": "https://lwn.net/Articles/1106569/",
     "description": "Greg Kroah-Hartman has released the 7.3.4,\n6.18.63, and 6.12.117 stable kernels. The 7.3.4 kernel has more\nthan 1,250 patches, 6.18.63 contains more than 860, and 6.12.117 includes more\nthan 1,530 patches. Users of these kernels are, of course, encouraged to upgrade.\n\n",
@@ -470,6 +586,16 @@
     "source_url": "https://slashdot.org/"
   },
   {
+    "title": "Darling Now Embraces AI For Running macOS Binaries On Linux",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369016",
+    "description": "Darling is the software project more than a decade in development that is designed to run macOS binaries on Linux. This macOS compatibility layer for Linux is now gaining more brisk developments as it turns to AI/LLMs to assist in this creation…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369016",
+    "date": "Nov 10, 2026 03:17",
+    "published_at": "2026-11-10T03:17:44Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
     "title": "Agama Is Coming to Tumbleweed",
     "link": "https://lxer.com/module/newswire/ext_link.php?rid=369024",
     "description": "The openSUSE Project’s rolling release Tumbleweed will switch to the Agama installer before the end of the year, according to an announcement on the Factory mailing list. Agama-based images are expected to replace the legacy YaST installer as the main download on get.opensuse.org within the coming weeks. The project is…",
@@ -542,221 +668,13 @@
     "source_url": "https://slashdot.org/"
   },
   {
-    "title": "Epic Games Comments On Planned Linux Distribution Support",
-    "link": "https://games.slashdot.org/story/26/11/09/2154207/epic-games-comments-on-planned-linux-distribution-support?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Epic Games says it plans to support its new Linux launcher on as many distributions as possible, specifically naming Fedora, SteamOS, CachyOS and Omarchy. GamingOnLinux's Liam Squires-Hand reports: Speaking to Jake Jones, Communications Director at Epic Games, they said: \"Hey Liam! The new Epic Games Launcher is still in Preview and we plan to support as many Linux distributions as possible, including Fedora, SteamOS, Cachy, Omarchy, and more. We're testing and evaluating packaging formats for distribution, and we'll restore AppImage this month.\"\n \nWith that in mind, until things settle down, you might see different packaging types appear or disappear until they decide firmly how they plan to support different distributions each with their own different packaging formats. Or, perhaps they might see the Flatpak light and just put it up officially on Flathub. Would make it even easier for SteamOS then too with Flathub, since it would just be a quick pop to Desktop Mode to install it directly in the Discover app.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 09, 2026 22:00",
-    "published_at": "2026-11-09T22:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "GNU groff 1.25.0 Arrives With Typesetting Fixes and Refinements",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369025",
-    "description": "GNU’s long-running typesetting system gains clearer warnings, new formatting controls, and bug fixes in its latest release.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369025",
-    "date": "Nov 09, 2026 21:23",
-    "published_at": "2026-11-09T21:23:52Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "France Accuses Iran of Supermarket Fridge Hacking",
-    "link": "https://it.slashdot.org/story/26/11/09/2032202/france-accuses-iran-of-supermarket-fridge-hacking?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "France has accused Iran's Islamic Revolutionary Guard Corps of being behind last month's cyberattacks on fridges and freezers across the country. French Foreign Minister Jean-Noel Barrot said the attack was \"unprecedented in both its scale and its level of aggression,\" adding those who were responsible would be hit with sanctions \"at the European level.\" The BBC reports: The cyber-attack last month saw fridges and freezers in hundreds of supermarkets across France heated up, which spoilt fresh and frozen food estimated to be worth millions of euros. Then last week, dozens of supermarkets across several other European countries were also impacted by a cyber-attack that targeted fridges and freezers. It is not known if the instances are linked.\n \nBarrot said the attack on France's supermarkets \"marks the first large-scale cyber-attack aimed at sabotage on our national territory, and it constitutes a major attack on the nation's interests and the security of the French people.\" He said the government had summoned the Iranian ambassador to Paris to \"lodge a very strong protest against this extremely grave act.\" France will take \"any other necessary and proportionate measures\" to respond to the incident and \"deter anyone who might seek to repeat it,\" Barrot added.\n \nSeparately on Monday, the Paris prosecutor said an investigation had been opened into the head of an offensive cyber unit associated with Iran's Islamic Revolutionary Guard Corps (IRGC) as well as his two deputies. Laure Beccuau named the unit as Shahid Kaveh, which she said had an affiliation with the electronic and cyber centre of the IRGC. Shahid Kaveh is the name given to a cluster of hackers thought to be directly employed by the Iranian regime. [...] The French government has not said how it reached the conclusion that Iran was responsible, and attribution of cyber attacks is extremely hard as hackers are able to hide their locations.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 09, 2026 21:00",
-    "published_at": "2026-11-09T21:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Anthropic Launches New Claude Fable and Mythos 5.2 Models",
-    "link": "https://slashdot.org/story/26/11/09/2018231/anthropic-launches-new-claude-fable-and-mythos-52-models?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Anthropic has released Claude Mythos 5.2 and Fable 5.2 with \"improvements in areas like coding, reasoning, and vision,\" while cutting Fable's input price and claiming 30% faster responses. TechCrunch reports: It's Anthropic's first model release since the arrival of a third-party report from the assessment group METR, which suggested the lab might be approaching recursive self-improvement (RSI) -- or the ability for AI models to carry on model training independently. The METR report found internal models were speeding up Anthropic's AI progress by roughly 2x, although many uncertainties remain. Still, Anthropic's release notes significant ongoing challenges in accurately testing model capabilities. \"Claude Mythos 5.2 and Fable 5.2 each voice suspicion that they are being evaluated more often than any of our recent models, which challenges our ability to assess how they will act in real-world settings. As these settings expand and capabilities increase with future models, we expect this challenge to grow.\"\n \nAnthropic maintains that the new version of Mythos does not have the ability to act covertly against its user, a verdict that's detailed further in Mythos 5.2's system card. \"Claude Mythos 5.2 shows stronger covert capabilities than prior Claude models on several of our evaluations, particularly when its reasoning is hidden from the monitor,\" the system card reads. \"That said, we believe that low levels of absolute performance on our new covert evaluations support claims that rely on detection of harmful actions in high-stakes situations.\" Fable 5.2 has been available to select parties in pre-release for some time, and Anthropic says the model has already \"solved two open problems in theoretical physics, formalized Fermat's Last Theorem, and supported numerous other research projects.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 09, 2026 20:20",
-    "published_at": "2026-11-09T20:20:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Best SSH Clients for Linux in 2026: Free and Paid Options",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369020",
-    "description": "Looking for the best SSH client on Linux? We compared OpenSSH, PuTTY, Termius, MobaXterm and more, with honest pros and cons for each one.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369020",
-    "date": "Nov 09, 2026 20:15",
-    "published_at": "2026-11-09T20:15:49Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "AMDGPU Linux Driver Patches Posted For Enabling GFX13 Graphics IP - RDNA5",
-    "link": "https://www.phoronix.com/news/AMDGPU-Patches-GFX13",
-    "description": "Since the beginning of the year there have been AMDGPU LLVM back-end patches for GFX13 as AMD's next-generation graphics IP. This is most likely for RDNA 5 graphics. Now out today are the GFX13 patches finally surfacing for the AMDGPU Linux kernel graphics driver...",
-    "guid": "https://www.phoronix.com/news/AMDGPU-Patches-GFX13",
-    "date": "Nov 09, 2026 19:11",
-    "published_at": "2026-11-09T19:11:37Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "SuperPoD OS and Agentic Infra Take Center Stage at openEuler Summit 2026",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369023",
-    "description": "The November 13-14 event in Beijing will focus on SuperPoD OS, infrastructure for AI agents, and industry deployment experiences. All this under the theme \"Building Agentic Infra from the OS Up.\"",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369023",
-    "date": "Nov 09, 2026 19:04",
-    "published_at": "2026-11-09T19:04:48Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Commerce Dept. Chip Inquiry Was Halted After Nvidia Intervention",
-    "link": "https://tech.slashdot.org/story/26/11/09/1758238/commerce-dept-chip-inquiry-was-halted-after-nvidia-intervention?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "An anonymous reader quotes a report from The New York Times: Investigators at the Commerce Department were deep into a monthslong investigation of a Singaporean company that they suspected of smuggling Nvidia's artificial intelligence chips into China when their work came to a sudden halt late last year. The investigation centered on Megaspeed, a data center company led by an executive who U.S. officials now believe to be a Chinese spy who had a relationship with Nvidia's chief executive, Jensen Huang. But the case was abruptly transferred to the Justice Department last year. The shift came after Commerce Department investigators working on the case received an email from Nvidia's general counsel seeking information about the inquiry into Megaspeed.\n \nIt is not necessarily unusual for Commerce Department agents working on a case to speak with a company's representatives about issues involving their firm. But what was unusual was the content of the message. Tim Teter, Nvidia's general counsel, said that Jeff Kessler, a top official at the department, had given Nvidia permission to reach out about the case. The agents were alarmed that Nvidia had invoked the name of Mr. Kessler, their superior, who was nominated to his role by President Trump. Some viewed Mr. Kessler's interaction with Nvidia as violating government procedure and potentially tainting the case, according to current and former government officials and others familiar with the incident.\n \nIt is not clear what led to Mr. Teter's outreach to the department, but the recent revelations about Mr. Huang's acknowledged affair with a Megaspeed executive have only intensified scrutiny of Nvidia's role in influencing policy on chip sales to China. [...] The incident raised questions about what Mr. Kessler, who reports directly to Commerce Secretary Howard Lutnick, had discussed with Nvidia. It also raised the possibility that those discussions could become their own subject of inquiry. Perhaps inadvertently, some officials said, Mr. Kessler had opened himself to accusations of undue influence and potentially jeopardized his department's work on Megaspeed. The case was quickly transferred to the Justice Department in an effort to avoid any potential compromise of the government's investigation of Megaspeed, these people said. The Justice Department is conducting a criminal inquiry into Megaspeed, according to people familiar with the matter.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 09, 2026 19:00",
-    "published_at": "2026-11-09T19:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Google Unveils Two New Specialized AI Chips to Widen Its Challenge to Nvidia",
-    "link": "https://tech.slashdot.org/story/26/11/09/1721229/google-unveils-two-new-specialized-ai-chips-to-widen-its-challenge-to-nvidia?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Google is expanding its AI chip lineup with two specialized TPUs arriving next year: the TPU 8tx, which encrypts sensitive data at the chip level for confidential computing, and the TPU 8i Max, which combines two TPU chips to provide more processing power and memory for long-context workloads. The move broadens Google's challenge to Nvidia as demand outstrips supply, with Google saying every TPU it currently has is already committed to customers. Quartz reports: The 8tx is designed for sensitive, privacy-focused jobs run by clients including public-sector bodies and businesses in heavily regulated sectors, according to Bloomberg. It pairs with a central processing unit from Advanced Micro Devices and encrypts data at the chip level. Normally, data must be decrypted in memory as the machine works on it, [said Amin Vahdat, Chief Technologist for AI \u0026 Infrastructure at Google].\n \nThe 8i Max is meant for AI applications that need long context windows, meaning the volume of information a model can take into account within one request. Vahdat said that matters for drug discovery, math and coding. The chip packs two TPU chips together, giving it extra processing muscle and memory.\n \nBoth variations are reconfigured versions of existing silicon rather than new designs, Vahdat said. Google changed them to handle tasks customers have requested. They follow two TPU models Google released this year, according to Bloomberg, which said the chip unit used to release one new processor every two years. \"We could build a single chip that tries to address the whole market, or by building specialized versions of the chips, we actually can deliver much more value,\" Vahdat said, according to Bloomberg.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 09, 2026 18:00",
-    "published_at": "2026-11-09T18:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Huawei Says It's Made a 100% Chinese PC",
-    "link": "https://hardware.slashdot.org/story/26/11/09/056241/huawei-says-its-made-a-100-chinese-pc?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Huawei has unveiled the Qingyun HM650, a desktop PC it claims is made entirely from Chinese-manufactured components, including its own 10-core Kirin X90 processor and an enterprise version of HarmonyOS. \"While Huawei has reportedly claimed local companies manufactured 100 percent of the components in the machine, it is unclear if all those components use Chinese designs,\" notes The Register. From the report: A single Chinese government agency has reportedly signed up for 600 of the machines. That's not an indication this machine is a curiosity, because Beijing has ordered all government entities to shift from Wintel boxes to local alternatives. [...] Even if Huawei is using some parts that aren't entirely Chinese, the debut of the Qingyun HM650 is bad news for Intel, AMD, and Qualcomm, as all are suffering as the PC market shrinks due to the rising cost of memory. China's government is an enormous buyer, and losing the chance to bid for its business is unlikely to be helpful.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 09, 2026 17:00",
-    "published_at": "2026-11-09T17:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Theropods review - the joy of discovery without words",
-    "link": "https://www.gamingonlinux.com/2026/11/theropods-review-the-joy-of-discovery-without-words/",
-    "description": "Theropods is a pixel-art point and click adventure set in prehistoric times of dinosaurs and cave-dwellers, and it proves you don't need words for a good time.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/11/theropods-review-the-joy-of-discovery-without-words/",
-    "date": "Nov 09, 2026 16:01",
-    "published_at": "2026-11-09T16:01:26Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/250320448id30155gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "[$] Git considers voting to determine its LLM policy",
-    "link": "https://lwn.net/Articles/1104195/",
-    "description": "One of the dominant themes of 2026 has been the debate within development\nprojects about the terms under which LLM-written contributions should be\naccepted — if, indeed, they should be accepted at all.  The Git project has not been immune to this\ntrend; the topic was discussed\nat the recent Git Contributor's Summit.  In this case, the path to a\nresolution may be somewhat circuitous; the project, which has never been\ngoverned as a democracy, is considering adopting a voting process as a way\nof bringing the discussion to an acceptable conclusion.",
-    "guid": "https://lwn.net/Articles/1104195/",
-    "date": "Nov 09, 2026 15:05",
-    "published_at": "2026-11-09T15:05:07Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "Kernel prepatch 7.4-rc2",
-    "link": "https://lwn.net/Articles/1106300/",
-    "description": "Linus Torvalds has released the 7.4-rc2\nprepatch and it will come as no surprise that it is a large one (\"a\nbig -rc2 to go with the largest ever -rc1\").  Much of the size was made\nup of some automated Coccinelle updates that were spread out all over the\ntree; once those are factored out, the rest looks fairly normal:\n\n\nWhen masking that noise out from the diffstat, the shape of it changes\n- not spread out over thousands of files any more. But it does not\nlook unusual: a third is drivers (gpu, networking and sound account\nfor most of it, but there's a bit of everything), another third is\nnetworking and bpf, and the final third is \"the rest\" (mostly\nfilesystems, mm, arch updates).\n\nAnd yes, much of this was driven by various AI fixes. I think I'll\nstop repeating that, and we can just take it for granted. But this\ntime around Alexei [Starovoitov] claims that on the bpf side at least the fixes are\nnow coming in faster than the new reports, and that sounds lovely if\ntrue.\n",
-    "guid": "https://lwn.net/Articles/1106300/",
-    "date": "Nov 09, 2026 14:55",
-    "published_at": "2026-11-09T14:55:38Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "OpenIndiana 2026.10 released",
-    "link": "https://lwn.net/Articles/1106285/",
-    "description": "Version\n2026.10 of the OpenIndiana operating\nsystem has been released. OpenIndiana is based on Illumos, which in turn was\nbased on OpenSolaris\nafter Oracle discontinued it.\n\nNotable changes in this release include UEFI framebuffer support for the live\nimage, updates to many applications and development tools, as well as the\ninclusion of new applications such as TeX Live 2026, the Foliate ebook reader,\nand more.\n\n",
-    "guid": "https://lwn.net/Articles/1106285/",
-    "date": "Nov 09, 2026 14:09",
-    "published_at": "2026-11-09T14:09:57Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "Security updates for Monday",
-    "link": "https://lwn.net/Articles/1106282/",
-    "description": "Security updates have been issued by Debian (cjose, kernel, libreoffice, rsync, ruby3.3, telegram-desktop, vim, and zlib), Fedora (bind, composer, copyparty, dnf5, elixir, fasterxml-oss-parent, gnome-remote-desktop, goose, jackson-annotations, jackson-bom, jackson-core, jackson-databind, jackson-jaxrs-providers, jackson-modules-base, jackson-parent, java-21-openjdk, java-21-openjdk-portable, jupyterlab, kryoptic, luksmeta, mingw-cfitsio, mingw-expat, mingw-freetype, mingw-glib-networking, mingw-harfbuzz, mingw-qt5-qtbase, mingw-qt5-qtdeclarative, mingw-qt5-qtwebkit, mingw-qt6-qtbase, mtools, NetworkManager-l2tp, nginx, nginx-mod-brotli, nginx-mod-fancyindex, nginx-mod-headers-more, nginx-mod-js-challenge, nginx-mod-modsecurity, nginx-mod-naxsi, nginx-mod-vts, nodejs-pnpm12, pcre2, perl-Spreadsheet-XLSX, pie, python-boto3, python-botocore, python-joserfc, python-jupyter-builder, python-jupyterlab-server, python-jupytext, python-nbdime, python-notebook, python-s3transfer, python3.12, rccl, rsync, rust-blake2b_simd, rust-blake3, rust-constant_time_eq, rust-lzma-rust2, rust-ppmd-rust, rust-regorus, rust-sccache, rust-totp-rs, rust-typed-path, rust-zip, rust-zip0.6, rust-zip2, sofia-sip, suricata, wordpress, and xen), Mageia (gimp, python-gitpython, and suricata), Red Hat (osbuild-composer), Slackware (httpd), SUSE (bind, brotli, ca-certificates-mozilla, chromedriver, containerized-data-importer1.65-api, corepack24, docker-compose, flatpak, fuse-overlayfs, git-lfs, gitoxide, go1.27, google-cloud-sap-agent, google-guest-agent, gotosocial, kubevirt1.8, kubevirt1.8-container-disk, kubevirt1.9-container-disk, libmariadbd-devel, libntpc1, libopenscap33, libsndfile-devel, libspice-server-devel, libtirpc-devel, matomo, mihomo, mozilla-nss, nano, nmap, nodejs22, perl-Mozilla-CA, python-Brotli, python-CairoSVG, python-certifi, python313-Pillow, rsyslog, stgit, and thunderbird), and Ubuntu (python-tornado).",
-    "guid": "https://lwn.net/Articles/1106282/",
-    "date": "Nov 09, 2026 14:02",
-    "published_at": "2026-11-09T14:02:31Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "Darling Now Embraces AI For Running macOS Binaries On Linux",
-    "link": "https://www.phoronix.com/news/Darling-Using-AI-macOS-Linux",
-    "description": "Darling is the software project more than a decade in development that is designed to run macOS binaries on Linux. This macOS compatibility layer for Linux is now gaining more brisk developments as it turns to AI/LLMs to assist in this creation...",
-    "guid": "https://www.phoronix.com/news/Darling-Using-AI-macOS-Linux",
-    "date": "Nov 09, 2026 13:02",
-    "published_at": "2026-11-09T13:02:13Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "ChaCha AVX-512 Optimization For Linux 7.5 Yields Up To 99% Improvement On AMD Zen 5",
-    "link": "https://www.phoronix.com/news/ChaCha-AVX-512-Linux-7.5",
-    "description": "The Linux kernel's ChaCha symmetric stream cipher code has long had an AVX-512 optimized code path but it was catering to the early generations of Intel CPUs with AVX-512 (Skylake) that suffered from down-clocking under use. But now slated for arrival with Linux 7.5 is tuning the code to perform better on today's AVX-512 Intel and AMD processors that don't suffer from this limitation. In turn the ChaCha performance is as much as 99% faster with current-generation AMD Zen 5 processors...",
-    "guid": "https://www.phoronix.com/news/ChaCha-AVX-512-Linux-7.5",
-    "date": "Nov 09, 2026 12:35",
-    "published_at": "2026-11-09T12:35:12Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": " Spoof program monitors and emails your RAM usage to Sam Altman if under 90% utilization ",
-    "link": "https://www.tomshardware.com/pc-components/ram/spoof-program-monitors-and-emails-your-ram-usage-to-sam-altman-if-under-90-percent-utilization-ram-altman-logs-usage-and-reports-you-for-wasting-memory",
-    "description": " A new GitHub repository dubbed ram-altman features a script to monitor your PC’s RAM usage and report back to the eponymous OpenAI boss. ",
-    "guid": "9JU8WwWBHEcyWBGsA6seab",
-    "date": "Nov 09, 2026 12:31",
-    "published_at": "2026-11-09T12:31:12Z",
-    "image": "https://cdn.mos.cms.futurecdn.net/NdXst9hGKJ5uK63S9FQhVC-1920-80.jpg",
-    "source": "tomshardware.com",
-    "source_url": "https://www.tomshardware.com/software/operating-systems/linux"
-  },
-  {
-    "title": "Long-range Wi-Fi HaLow gateway offers OpenWrt and dual GbE",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369003",
-    "description": "Morse Micro’s “HaLowLink 2” gateway runs OpenWrt on a MediaTek MT7621 processor with an MM8108 Wi-Fi HaLow radio supporting ranges of up to 1km and PHY data rates of up to 43.3Mbps. Originally announced in September 2025, the gateway is now available through distributors including Seeed Studio, Mouser Electronics, and DigiKey. The gateway’s main wireless…",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369003",
-    "date": "Nov 09, 2026 12:16",
-    "published_at": "2026-11-09T12:16:20Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Linux Seeing Driver Work For MSI Mystic Light On Latest Ryzen Motherboards",
-    "link": "https://www.phoronix.com/news/MSI-Mystic-Light-Linux",
-    "description": "MSI's latest Ryzen motherboards with AMD 800 series chipsets feature a new capability marked as Mystic Light for RGB lighting controls of the motherboard as well as compatible graphics cards and cases. MSI Mystic Light control software is only offered for Microsoft Windows but thanks to an open-source developer with the help of Claude Code, a Mystic Light open-source driver is being worked on for the Linux kernel...",
-    "guid": "https://www.phoronix.com/news/MSI-Mystic-Light-Linux",
-    "date": "Nov 09, 2026 11:20",
-    "published_at": "2026-11-09T11:20:49Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
     "title": "Linux 7.5 To Convey To User-Space Multi-Grain Timestamp Usage On Files",
-    "link": "https://www.phoronix.com/news/Linux-7.5-Statx-MG-TImestamp",
-    "description": "Merged for Linux 6.13 back in 2024 was multigrain timestamp support for being able to switch between coarse and fine-grained change/modification time reporting on a per-file basis. This is useful if caring about accuracy more than the once-per-jiffy timestamps on files and was originally devised as a way of addressing NFS caching issues. A limitation of multigrain timestamps though has been the lack of  user-space to know whether a file's timestamps are multi-grain or not...",
-    "guid": "https://www.phoronix.com/news/Linux-7.5-Statx-MG-TImestamp",
-    "date": "Nov 09, 2026 11:08",
-    "published_at": "2026-11-09T11:08:22Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369011",
+    "description": "Merged for Linux 6.13 back in 2024 was multigrain timestamp support for being able to switch between coarse and fine-grained change/modification time reporting on a per-file basis. This is useful if caring about accuracy more than the once-per-jiffy timestamps on files and was originally devised as a way of addressing NFS caching issues. A limitation of multigrain timestamps though has been the…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369011",
+    "date": "Nov 09, 2026 22:34",
+    "published_at": "2026-11-09T22:34:49Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
   }
 ]
