@@ -1,5 +1,371 @@
 [
   {
+    "title": "Logitech Giving All 7,000 Employees the Day Off to Play GTA 6",
+    "link": "https://games.slashdot.org/story/26/11/11/180258/logitech-giving-all-7000-employees-the-day-off-to-play-gta-6?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Under a new \"Logi Game Day\" initiative, Logitech is giving all 7,000 of its employees an extra paid day off to play GTA 6 when it launches on November 19. Employees and interns can use the day off anytime over the next year. Tom's Hardware reports: As for Logitech, the company believes that it's time for people to move away from the belief that playing games is a waste of time, hence its new initiative. It makes sense for a company that makes gaming accessories to say that, of course, but CEO Hanneke Faber argues that the company sees \"how engagement in one sphere supports performance in the other.\" The hope will be that, by allowing employees to play games, a productivity boost will follow.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 11, 2026 18:02",
+    "published_at": "2026-11-11T18:02:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Zellij 0.46 released",
+    "link": "https://lwn.net/Articles/1106903/",
+    "description": "Version\n0.46 of the Zellij terminal workspace has\nbeen released.\n\n\nThis release includes a major addition in Zellij: Zellij is now also a\ndesktop terminal. To run it: zellij terminal. It works on linux, mac and\nwindows.\n\nNothing changes for the normal multiplexer - Zellij can still run inside\nanother terminal. Both sessions are the same and can be shared.\n\n\nAdditional features in this release include a\nGUI settings screen, session previews, and right-click menu. See this walkthrough\nfor more on the 0.46 release.\n\n",
+    "guid": "https://lwn.net/Articles/1106903/",
+    "date": "Nov 11, 2026 17:26",
+    "published_at": "2026-11-11T17:26:48Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "OSM dev board supports NXP i.MX and Qualcomm IQ615 SoCs",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369102",
+    "description": "Tria Technologies has unveiled its OSM-SB-EP5, a 146 × 102mm development platform supporting Open Standard Module (OSM) Size-S, Size-M, and Size-L modules. The carrier board combines dual Gigabit Ethernet, USB 3.0, MIPI camera and display interfaces ti intended for industrial IoT, edge AI, robotics, and embedded vision development. Introduced at electronica 2026, the OSM-SB-EP5 follows…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369102",
+    "date": "Nov 11, 2026 17:19",
+    "published_at": "2026-11-11T17:19:18Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "In Memoriam: Tim Peters 1952–2026",
+    "link": "https://lwn.net/Articles/1106901/",
+    "description": "Guido van Rossum conveys\nthe sad (and somewhat delayed) news of the passing of Tim Peters.\n\n\n\tIt's hard to overestimate Tim's influence on Python. He's probably\n\tbest known for writing the Zen of Python (PEP 20), but to me he\n\twas a mentor and language co-designer long before that.\n\n\tTim found Python not long after its initial release. His first deed\n\twas to convince me that Python should support mixed arithmetic\n\tbetween int and float, because most users would expect them to work\n\tthat way. And he never stopped contributing.\n",
+    "guid": "https://lwn.net/Articles/1106901/",
+    "date": "Nov 11, 2026 17:12",
+    "published_at": "2026-11-11T17:12:51Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "Apple Is Killing Its Support Community Forum Next Week",
+    "link": "https://apple.slashdot.org/story/26/11/11/1655250/apple-is-killing-its-support-community-forum-next-week?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Apple is shutting down its Apple Support Community forum on November 20, ending a user-to-user support platform whose history stretches back to the 1998 launch as the Apple Tech Exchange. The forum is already read-only, and Apple has not said whether the nearly three decades of community posts will be preserved or disappear when the site closes. Here's the full banner notice that's currently displayed on the website: \n\"The Apple Support Community will permanently close on November 20, 2026. Starting today, the site will no longer accept new posts and is available in a read-only state. You can continue to find trusted guidance and support on the official Apple Support site. We want to thank the community members who have contributed their time and expertise to help others with their Apple products.\" Apple told MacRumors that it decided to sunset the forum after a careful evaluation of strategy and customer needs.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 11, 2026 17:00",
+    "published_at": "2026-11-11T17:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Tails 7.17 Privacy-Focused Linux Distro Updates Tor Browser and Linux Kernel",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369098",
+    "description": "The privacy-focused Tails 7.17 Linux distro updates Tor Browser, Tor client, and the Linux kernel, with automatic upgrades from version 7.0 onward.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369098",
+    "date": "Nov 11, 2026 16:04",
+    "published_at": "2026-11-11T16:04:22Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Amazon's Ring Unveils Flying Drone and Robot To Patrol Homes and Businesses",
+    "link": "https://hardware.slashdot.org/story/26/11/11/0144217/amazons-ring-unveils-flying-drone-and-robot-to-patrol-homes-and-businesses?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from CNBC: Amazon's Ring is going deeper into surveillance with an indoor drone for home monitoring and an autonomous robot designed to patrol businesses. The company on Tuesday unveiled the $250 Ring Drone Cam, a security camera that can fly from room to room, including upstairs, as well as capture footage during the day or at night. When an alarm or sensor on windows, doors and home security devices is triggered, the textbook-sized drone travels a preset path to investigate suspicious activity. Users can also deploy the drone at any time, the company said.\n \n[...] The company on Tuesday also debuted the $1,000 Ring Rover Cam. The device repurposes Amazon's Astro home robot, which had a short life as a business device and has seen few upgrades since its 2021 debut, for companies to use to patrol offices, warehouses and other workspaces. Ring said it \"leveraged the best of Astro\" to build the Ring Rover Cam, which it describes as a \"purpose-built security robot.\" Similar to the Astro, the device is a display mounted on a two-wheeled base with an extendable periscope camera. It also features a \"built-in siren,\" two-way audio and a \"light tower\" that shines onto the ceiling to help users keep track of its whereabouts. The Ring Drone Cam ships in the U.S. on Jan. 27, while the Ring Rover Cam will begin shipping to users on Dec. 16.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 11, 2026 16:00",
+    "published_at": "2026-11-11T16:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "AMD EPYC 9006 Venice vs. NVIDIA Vera Benchmarks For HPC Performance",
+    "link": "https://www.phoronix.com/review/amd-venice-nvidia-vera",
+    "description": "Yesterday in the AMD EPYC 9006 \"Venice\" SP7 launch testing were reviews of the AMD EPYC 9996 256-core processor as well as the EPYC 9686F 96-core high frequency part. There were hundreds of benchmarks looking at the gen-on-gen performance from EPYC Turin to EPYC Venice as well as against the Intel Xeon 6 Granite Rapids competition. For those wondering about how AMD EPYC Venice is competing with NVIDIA's Vera CPU, this article provides a look at those results for a range of HPC workloads.",
+    "guid": "https://www.phoronix.com/review/amd-venice-nvidia-vera",
+    "date": "Nov 11, 2026 15:44",
+    "published_at": "2026-11-11T15:44:41Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "The AI-Assisted Linux Driver for DisplayLink Gets Legal Notice",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369099",
+    "description": "Mike Lothian got Vino working on three generations of DisplayLink docks, but Synaptics told him to take it down.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369099",
+    "date": "Nov 11, 2026 14:53",
+    "published_at": "2026-11-11T14:53:03Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "[$] Additional hardening for the glibc dynamic linker",
+    "link": "https://lwn.net/Articles/1105134/",
+    "description": "\nThe\n\nNode.js project recently had a\n\nsecurity vulnerability that\naffected its\n\nBrotli decoder. The bug\n\nwas a buffer overflow,\nbut the particular way that official Node.js binaries are built for Linux meant that one of the\nmain protections against turning a buffer overflow into remote code execution,\n\naddress space layout randomization (ASLR) could not be turned on. If ASLR had been\nenabled, the bug would still be exploitable in theory, but much more difficult\nto exploit in practice. In response, the GNU C Library (glibc) is\n\nconsidering a new set of\n\ntunable settings to allow administrators to forbid programs that do not\nsupport ASLR. The new settings, while a welcome hardening measure, may not\naddress the root problem.\n",
+    "guid": "https://lwn.net/Articles/1105134/",
+    "date": "Nov 11, 2026 14:35",
+    "published_at": "2026-11-11T14:35:29Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "Security updates for Wednesday",
+    "link": "https://lwn.net/Articles/1106876/",
+    "description": "Security updates have been issued by AlmaLinux (edk2), Debian (openexr, rsyslog, and srt), Fedora (alertmanager, dotnet11.0, gdal, mstflint, nextcloud, python-crate-ingredients, rust-ingredients, rust-pore, rust-pulldown-cmark, rust-rbw, rust-sequoia-sq, rust-siguldry-fedora-autopen, tigervnc, unbound, and zchunk), Gentoo (Brotli, git, and libde265), Mageia (mopidy, python-dulwich, rust-similar3, rclone, and sofia-sip), Oracle (dpdk, edk2, firefox, glibc, kernel, kernel-uek, nodejs-nodemon, nodejs22, nodejs:24, patch, ruby, ruby4.0, squid:4, and thunderbird), Red Hat (.NET 10.0, .NET 11.0, .NET 8.0, .NET 9.0, bind, bind9.16, bind9.18, buildah, c-ares, containernetworking-plugins, delve, flatpak-builder, gcc, gcc-toolset-15-gcc, gcc-toolset-16-gcc, go-fdo-client, go-fdo-server, golang-github-openprinting-ipp-usb, grafana, grafana-pcp, gstreamer1-plugins-bad-free, gstreamer1-plugins-good, gvfs, gvisor-tap-vsock, nginx, nginx:1.24, nginx:1.26, oci-delta, podman, python-oauthlib, python3, python3.12, python3.9, qt5-qtbase, qt6-qtbase, rhc, runc, skopeo, squid, squid:4, tesseract, util-linux, xdg-dbus-proxy, and yggdrasil), Slackware (xorg-server), SUSE (aliyun-cli, amazon-cloudwatch-agent, ansible-core, aspell, azure-storage-azcopy, bind, cups, dlib-devel, docker, dolphin, dpdk, evolution, firefox, flannel, fuse-overlayfs, gnome-podcasts, google-cloud-sap-agent, GraphicsMagick, graphicsmagick, haproxy, istioctl, kernel, kubevirt, kured, libvips-devel, libXi, mozilla-nss, nvidia-open-driver-G06-signed-check, okteto, openssl-1_1, pcre2, poppler, poppler-qt, poppler-qt5, poppler, poppler-qt5, proftpd, psqlodbc, python-graphql-core, python-M2Crypto, python-pillow, python-soupsieve, python-urllib3_1, python313-wyoming, qt6-coap, rust-keylime, sbc, scribus, SDL2_image, tar, terraform-provider-susepubliccloud, the linux kernel (live patch 18 for suse linux, vsftpd, xen, xorg-x11-server, and zchunk), and Ubuntu (ca-certificates-java, gst-plugins-good1.0, gst-plugins-base1.0, hplip, linux-azure-fde, linux-nvidia, linux-nvidia-7.0, linux-nvidia-bos, linux-nvidia-lowlatency, python-tornado, rust-coreutils, and unbound).",
+    "guid": "https://lwn.net/Articles/1106876/",
+    "date": "Nov 11, 2026 14:15",
+    "published_at": "2026-11-11T14:15:31Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "Warhammer Survivors is out now - review",
+    "link": "https://www.gamingonlinux.com/2026/11/warhammer-survivors-is-out-now-review/",
+    "description": "Warhammer Survivors has arrived from Auroch Digital as a licensed version of Vampire Survivors wearing the skin of Warhammer.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/11/warhammer-survivors-is-out-now-review/",
+    "date": "Nov 11, 2026 14:02",
+    "published_at": "2026-11-11T14:02:12Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1601013000id30174gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Flipper One Linux handheld rocks RK3576 with SDR and cellular options via M.2",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369085",
+    "description": "Flipper Devices is preparing a Kickstarter campaign for its “Flipper One,” a portable Linux computer powered by an octa-core Rockchip RK3576 processor and a Raspberry Pi RP2350 microcontroller. The handheld combines 8GB LPDDR5, Wi-Fi 6E, dual Gigabit Ethernet, and M.2 expansion for cellular modems, SDR modules, and other peripherals. The Rockchip RK3576 combines four Arm…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369085",
+    "date": "Nov 11, 2026 13:44",
+    "published_at": "2026-11-11T13:44:48Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": " Cyanogen co-founder unveils Kora, a Linux OS that splits AI models across the CPU, GPU, and NPU ",
+    "link": "https://www.tomshardware.com/software/linux/cyanogen-co-founder-unveils-kora-a-linux-os-that-splits-ai-models-across-the-cpu-gpu-and-npu-snapdragon-x2-elite-and-hexagon-npu-get-full-support-first",
+    "description": " Kora, a Linux desktop OS with built-in AI models and agents for local agentic work, is coming to PCs in 2027, including Snapdragon X2 Elite machines. ",
+    "guid": "UxX79iB6FYVhWg4MPV5PQP",
+    "date": "Nov 11, 2026 13:00",
+    "published_at": "2026-11-11T13:00:00Z",
+    "image": "https://cdn.mos.cms.futurecdn.net/rJ9DVssjvfgAJwQazxQhbm-1920-80.jpg",
+    "source": "tomshardware.com",
+    "source_url": "https://www.tomshardware.com/software/operating-systems/linux"
+  },
+  {
+    "title": " Linux kernel reviewer steps down from memory management duties due to influx of AI slop patches ",
+    "link": "https://www.tomshardware.com/software/linux/linux-kernel-reviewer-steps-down-from-memory-management-duties-due-to-influx-of-ai-slop-patches-the-amount-of-time-wasted-on-ai-slop-is-already-too-much-and-were-only-at-the-start-of-this-volume-of-submissions-and-low-manpower-forces-the-step-back",
+    "description": " Linux kernel memory-management code reviewer steps down due to influx of AI slop patches — volume of submissions coupled with low manpower forces the step back ",
+    "guid": "UFPUJTwHSHRxHFXaUcdTaK",
+    "date": "Nov 11, 2026 12:30",
+    "published_at": "2026-11-11T12:30:00Z",
+    "image": "https://cdn.mos.cms.futurecdn.net/kon7SwBMMWzk9ubzEnMVjY-1920-80.jpg",
+    "source": "tomshardware.com",
+    "source_url": "https://www.tomshardware.com/software/operating-systems/linux"
+  },
+  {
+    "title": "Distro of the Week: Fedora 45 Workstation/KDE Plasma",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369086",
+    "description": "Like clockwork, the semi-annual Fedora Project release - this one Fedora 45 - pops up on our radar.This week you get a two-fer, in the form of road-testing both Workstation (a.k.a. Gnome 51) and the KDE Plasma version. As you might expect, both excelled but we picked one over the other..",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369086",
+    "date": "Nov 11, 2026 12:28",
+    "published_at": "2026-11-11T12:28:52Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Initial AMD RDNA5/GFX13 Code Sent Out For Mesa RADV \u0026 RadeonSI Drivers",
+    "link": "https://www.phoronix.com/news/AMD-GFX13-Initial-Mesa",
+    "description": "After AMD posted GFX13 patches for the AMDGPU Linux driver earlier in the week, today they opened the Mesa merge request for introducing the very primitive GFX13 support for the RADV Vulkan and RadeonSI Gallium3D/OpenGL drivers...",
+    "guid": "https://www.phoronix.com/news/AMD-GFX13-Initial-Mesa",
+    "date": "Nov 11, 2026 12:18",
+    "published_at": "2026-11-11T12:18:36Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Local AI Weekly #9: The Computer Says No",
+    "link": "https://feed.itsfoss.com/link/24361/17522092/local-ai-weekly-9",
+    "description": "Cloud AI tools have started saying no to reverse engineering. Your local model won't say no.",
+    "guid": "6af44dea2aaca80001a43a47",
+    "date": "Nov 11, 2026 11:55",
+    "published_at": "2026-11-11T11:55:42Z",
+    "image": "https://itsfoss.com/content/images/2026/11/local-ai-weekly.webp",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "FreeBSD Working To Establish An AI Policy After Polling Developers",
+    "link": "https://www.phoronix.com/news/FreeBSD-Q3-2026-Report",
+    "description": "The FreeBSD Project published its Q3'2026 status report on Tuesday that outlines a number of development initiatives to ongoing work around an AI policy for this BSD operating system...",
+    "guid": "https://www.phoronix.com/news/FreeBSD-Q3-2026-Report",
+    "date": "Nov 11, 2026 11:30",
+    "published_at": "2026-11-11T11:30:00Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Agama Unattended installation openSUSE Tumbleweed via profile.json on remote host (bare metal )",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369048",
+    "description": "Unattended openSUSE Tumbleweed deployments on bare metal are critical because they eliminate manual intervention, ensure configuration consistency, and drastically reduce provisioning time across physical infrastructure. While Tumbleweed is a rolling-release distribution - traditionally favored by developers and power users on personal machines - deploying it at scale on bare metal using unattended methods providing by Agama Installer serves several vital engineering and operational purposes:",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369048",
+    "date": "Nov 11, 2026 11:14",
+    "published_at": "2026-11-11T11:14:33Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "ATI/AMD R300 To R500 GPUs See New 2026 OpenGL Linux Driver Optimizations",
+    "link": "https://www.phoronix.com/news/AMD-R300g-Better-Shaders-2026",
+    "description": "Over 24 years old, the ATI (AMD) Radeon R300 graphics processors are still seeing improvements in the open-source Linux driver space. Merged to Mesa 27.0-devel this week were a number of shader compiler optimizations for the R300g driver that benefits not only the original R300 series graphics cards but also the R400 and R500 (Radeon X1000 series) too...",
+    "guid": "https://www.phoronix.com/news/AMD-R300g-Better-Shaders-2026",
+    "date": "Nov 11, 2026 11:01",
+    "published_at": "2026-11-11T11:01:52Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "GTA VI Is Now Available For Preloading",
+    "link": "https://games.slashdot.org/story/26/11/11/0137202/gta-vi-is-now-available-for-preloading?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Ancient Slashdot reader Lank writes: GTA VI is now available for preloading. The download weighs in at a whopping 210+ gigabytes on the PS5! Start downloading now and remember to take Nov. 19th off from work. \"On Xbox, preloads for digital versions went live at 12 a.m. GMT on November 10 for Series X and Series S, which translates to 7 p.m. EST / 6 p.m. CST / 5 p.m. MST / 4 p.m. PT on Monday, November 9,\" notes PCMag. \"For PlayStation 5 and PS5 Pro owners, preloading started on Tuesday, November 10 at midnight local time.\"\n \n\"If you ordered a physical copy of GTA 6, games will begin arriving at retailers and shipping to buyers on November 12. You can use the code in your box to preload your copy of the game.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 11, 2026 11:00",
+    "published_at": "2026-11-11T11:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "AMD AOCC 6.0 Brings Zen 6 Optimizations, New \"aof\" Fortran Compiler, aoc / aoc++ Branding",
+    "link": "https://www.phoronix.com/news/AMD-AOCC-6.0-Released",
+    "description": "With yesterday's launch availability of the AMD EPYC 9006 \"Venice\" SP7 processors headlined by the incredibly fast EPYC 9996 and EPYC 9686F processors, AMD also launched AOCC 6.0 as the newest version of their in-house LLVM/Clang-based compiler stack...",
+    "guid": "https://www.phoronix.com/news/AMD-AOCC-6.0-Released",
+    "date": "Nov 11, 2026 10:54",
+    "published_at": "2026-11-11T10:54:19Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Intel Releases New CPU Microcode To Fix A Variety Of Functional Issues",
+    "link": "https://www.phoronix.com/news/Intel-CPU-Microcode-20261110",
+    "description": "Intel on Tuesday released the microcode-20261110 package that ships updated CPU microcode binaries for recent Intel Core (Ultra) and Xeon processors. The updated CPU microcode is for Core Gen 13 \"Raptor Lake\" and newer while on the Xeon server side is for Sapphire Rapids and newer. This is also the first time Clearwater Forest has seen microcode updates...",
+    "guid": "https://www.phoronix.com/news/Intel-CPU-Microcode-20261110",
+    "date": "Nov 11, 2026 10:41",
+    "published_at": "2026-11-11T10:41:00Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Hand-drawn dino adventure Zid Journey gets a new trailer, set to arrive in Q2 2027",
+    "link": "https://www.gamingonlinux.com/2026/11/hand-drawn-dino-adventure-zid-journey-gets-a-new-trailer-set-to-arrive-in-q2-2027/",
+    "description": "The dinosaurs are back! Zid Journey is the second game in the Zid and Zniw series: inspired by classic adventure games. It's set to arrive in Q2 2027.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/11/hand-drawn-dino-adventure-zid-journey-gets-a-new-trailer-set-to-arrive-in-q2-2027/",
+    "date": "Nov 11, 2026 10:40",
+    "published_at": "2026-11-11T10:40:44Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1384360835id30173gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Haiku OS Now Has A UFS Driver, Two \u0026 Three Finger Tap Gestures",
+    "link": "https://www.phoronix.com/news/Haiku-OS-October-2026",
+    "description": "The BeOS-inspired Haiku open-source operating system project has seen new work on drivers and other improvements during the course of October...",
+    "guid": "https://www.phoronix.com/news/Haiku-OS-October-2026",
+    "date": "Nov 11, 2026 10:26",
+    "published_at": "2026-11-11T10:26:00Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Devolver Digital trolling with its \"first ever AAA game\" - All Army Attack",
+    "link": "https://www.gamingonlinux.com/2026/11/devolver-digital-trolling-with-its-first-ever-aaa-game-all-army-attack/",
+    "description": "When I first saw Devolver Digital tease a \"AAA\" game, I knew it would be a stupid troll joke - but the game All Army Attack does sound interesting.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/11/devolver-digital-trolling-with-its-first-ever-aaa-game-all-army-attack/",
+    "date": "Nov 11, 2026 10:10",
+    "published_at": "2026-11-11T10:10:40Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/719097187id30172gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Tumbleweed ARM Monthly Update - November 2026",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369089",
+    "description": "This past month has brought several software package updates for openSUSE Tumbleweed ARM with less than a handful of snapshots reaching the ARM port. The second half of October brought a two-version jump of GRUB2 to 2.16 with serial console and NVMe boot features, a security-focused Linux kernel 7.2.11 and…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369089",
+    "date": "Nov 11, 2026 10:07",
+    "published_at": "2026-11-11T10:07:17Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "JetBrains renewed their support for Godot Engine through 2027",
+    "link": "https://www.gamingonlinux.com/2026/11/jetbrains-renewed-their-support-for-godot-engine-through-2027/",
+    "description": "Good news for the cross-platform free and open source game engine, JetBrains have renewed their support through 2027.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/11/jetbrains-renewed-their-support-for-godot-engine-through-2027/",
+    "date": "Nov 11, 2026 09:59",
+    "published_at": "2026-11-11T09:59:14Z",
+    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/godot.jpg",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "The incredible open source 3D creation suite Blender 5.3 is out with Vulkan by default",
+    "link": "https://www.gamingonlinux.com/2026/11/the-incredible-open-source-3d-creation-suite-blender-5-3-is-out-with-vulkan-by-default/",
+    "description": "One of the best open source tools ever! One used by artists, game developers, movie studios and more - Blender 5.3 is officially out now.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/11/the-incredible-open-source-3d-creation-suite-blender-5-3-is-out-with-vulkan-by-default/",
+    "date": "Nov 11, 2026 09:18",
+    "published_at": "2026-11-11T09:18:41Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/50771926id30170gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "A Golden Wake: Roaring '20s Edition announced, a complete re-imagining of the 2014 adventure",
+    "link": "https://www.gamingonlinux.com/2026/11/a-golden-wake-roaring-20s-edition-announced-a-complete-re-imagining-of-the-2014-adventure/",
+    "description": "A reimagining of the 2014 original from Grundislav Games, A Golden Wake: Roaring '20s Edition was recently revealed.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/11/a-golden-wake-roaring-20s-edition-announced-a-complete-re-imagining-of-the-2014-adventure/",
+    "date": "Nov 11, 2026 09:05",
+    "published_at": "2026-11-11T09:05:09Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1163187512id30169gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Herd alien sheep in the slapstick co-op game Ranchonauts",
+    "link": "https://www.gamingonlinux.com/2026/11/herd-alien-sheep-in-the-slapstick-co-op-game-ranchonauts/",
+    "description": "Goldfire Studios, creators of survival adventure Arctic Awakening, have just revealed their upcoming game: Ranchonauts.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/11/herd-alien-sheep-in-the-slapstick-co-op-game-ranchonauts/",
+    "date": "Nov 11, 2026 08:53",
+    "published_at": "2026-11-11T08:53:37Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1843804659id30167gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Award-winning point and click Loco Motive adds Linux and macOS support",
+    "link": "https://www.gamingonlinux.com/2026/11/award-winning-point-and-click-loco-motive-adds-linux-and-macos-support/",
+    "description": "Along with full touch controls on Steam Deck, the award-winning point and click adventure game Loco Motive adds Linux and macOS support.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/11/award-winning-point-and-click-loco-motive-adds-linux-and-macos-support/",
+    "date": "Nov 11, 2026 08:47",
+    "published_at": "2026-11-11T08:47:05Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/796992731id30168gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "US and Rest of World Must Follow China's Lead On Green Energy, Says John Kerry",
+    "link": "https://news.slashdot.org/story/26/11/11/0126232/us-and-rest-of-world-must-follow-chinas-lead-on-green-energy-says-john-kerry?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Longtime Slashdot reader AmiMoJo shares a report from The Guardian: China is leading the world in moving away from fossil fuels, and the rest of the globe -- including the US -- must now follow, the former US secretary of state John Kerry has told the Guardian, as Cop watchers wonder exactly how China is going to approach this year's climate summit. As Cop31 opens -- this year the climate conference is in Turkey -- there is plenty of speculation about whether China will finally step into the leadership role that it has long avoided. In its latest \"five-year plan\" adopted in March 2026, China for the first time pledged to \"actively participate in and lead global climate governance\". Cop31 could provide the first indications Beijing is ready to put that rhetoric into action, something it has historically been reluctant to do.\n \nIn 2025, clean-tech exports surpassed $220 billion, and they should grow again this year; the world's largest emitter is now the world's leading supplier of clean energy technology. China accounts for about 85% of solar and 80% of lithium-ion battery supply chain production capacity, and in 2025, nearly 75% of electric cars were manufactured there. Smart moves now by China would position it as a linchpin in a future electrostate world order, persuade rivals to cooperate, and solidify its influence in the global south. \"The only country that has hugely accelerated is China,\" said Kerry. \"The rest of the world is stumbling along while Mother Nature is sending us more powerful signals every week, every day.\"\n \n\"[China] realized suddenly they had way too much dependency on oil and gas from other places, and they decided they needed to be independent. Other countries, since the war in Iran, and since the strait of Hormuz has been interrupted, have made a similar decision, and they're moving independently. There's been a massive uptick in deployment of renewables. Thank you, Donald Trump.\"\n \nFor autocratic states without free and fair elections, seeing the economic benefits reaped by China would be the spur to adopt low-carbon growth, he added. \"They'll see where the market is going, and they will recognize where the cheaper alternatives are. Even they can read a spreadsheet, and understand where costs are exorbitant [in fossil fuels], and where you have a better deal,\" Kerry said. \"Right now, renewables together with storage, together with some transitional gas, is cheaper and more effective, than just going with fossil fuels.\"\n \nHe added: \"The marketplace has made its decision and globally is moving to electrons, and electrostate status. People are going to electricity and they're going to try to do that as clean as humanly possible. That's the choice that I see being implemented in many different places. It is unstoppable.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 11, 2026 07:00",
+    "published_at": "2026-11-11T07:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Nautilus file manager may section headers",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369080",
+    "description": "Nautilus might be getting a neater way to organise its file views, with section headers breaking up long lists of content into groups. GNOME’s Christian Hergertr recently added support for section headers to GTK’s gridView, the widget Nautilus (among other apps) use to display items, noting it is ‘useful for organising items’ being displayed. Nautilus developer Peter Eisenmann commented to say he…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369080",
+    "date": "Nov 11, 2026 04:29",
+    "published_at": "2026-11-11T04:29:47Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
     "title": "M John Harrison Becomes First Sci-Fi Author To Win Booker Prize",
     "link": "https://news.slashdot.org/story/26/11/10/2227217/m-john-harrison-becomes-first-sci-fi-author-to-win-booker-prize?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
     "description": "An anonymous reader quotes a report from The Guardian: Eighty-one-year-old M John Harrison has won the Booker prize for The End of Everything, a postapocalyptic novel set on a near-future Kent coast, becoming the oldest winner in the award's history. Gaby Wood, chief executive of the Booker Prize Foundation, said that while plenty of previous winners had dabbled in science fiction, Harrison's was \"the first Booker winner to have emerged from the bona fide SF world.\" She called it \"a historic win, for a writer whose decades of work are lightly worn on every page\".\n \nHarrison, who has been publishing for six decades, overtakes Margaret Atwood, who was 79 when she shared the prize in 2019 for The Testaments. He received the 50,000-pound award and trophy at a ceremony in London on Monday evening. The End of Everything, Harrison's first Booker nomination, is set a few decades from now, years after a disaster nobody can properly account for. Set on the Kent coast, the novel sees Phillip Tennent and his ageing aunt Marnie attempting to survive alongside the looming threat of the mysterious iGhetti: vast, shape-changing beings whose origins and intentions are never explained. At 198 pages, it was the shortest book on the shortlist.\n \nMary Beard, chair of the judges, said the decision was unanimous, reached after a full day of discussion. \"It's a book that turns you upside down, raises a wry smile -- and surprisingly, given the subject matter, leaves you with a twinge of optimism,\" she said. \"One main point of the book is that if, or when, such an apocalypse comes it will be incomprehensible. And the old rules won't matter either This is the politics of now seen through the lens of the future.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
@@ -137,6 +503,27 @@
     "source_url": "https://slashdot.org/"
   },
   {
+    "title": "openSUSE Tumbleweed Transitioning To Agama Installer",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369041",
+    "description": "With openSUSE Leap making use of the modern Agama installer developed by SUSE engineers, the rolling-release openSUSE Tumbleweed is now preparing to make the same transitioning in replacing the YaST Installer…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369041",
+    "date": "Nov 10, 2026 18:30",
+    "published_at": "2026-11-10T18:30:18Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Blender 5.3 Released With Nvidia DLSS 4.5 Ray Reconstruction, Vulkan Default",
+    "link": "https://tech.slashdot.org/story/26/11/10/178254/blender-53-released-with-nvidia-dlss-45-ray-reconstruction-vulkan-default?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Blender 5.3 has been released with support for 3D Gaussian Splats, Nvidia DLSS 4.5 Ray Reconstruction and Vulkan as the default graphics backend on Linux. Phoronix reports: Blender now allows importing Gaussian Splats from PLY, SPZ, and glTF files. Also new to Blender 5.3 is NVIDIA DLSS 4.5 Ray Reconstruction support as a new denoiser. Blender 5.3 also brings support for NVIDIA RTX Spark devices.\n \nFor the Cycles code in Blender 5.3 the Principled BSDF for shader nodes now supports dispersion. Another notable change with Blender 5.3 is the Vulkan back-end now being the default on Windows (except for Windows on ARM) and Linux systems. Vulkan 1.1 or newer is required and should deliver better performance than OpenGL.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 10, 2026 18:00",
+    "published_at": "2026-11-10T18:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
     "title": "Blender 5.3 Released with Gaussian Splatting, Vulkan by Default",
     "link": "https://lxer.com/module/newswire/ext_link.php?rid=369044",
     "description": "Blender 5.3 adds native Gaussian Splatting support, enables Vulkan by default on Linux, and improves rendering, animation, and video editing.",
@@ -206,16 +593,6 @@
     "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
     "source": "slashdot.org",
     "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Blender 5.3 Released With NVIDIA DLSS 4.5 Ray Reconstruction, Vulkan Default",
-    "link": "https://www.phoronix.com/news/Blender-5.3-Released",
-    "description": "Blender 5.3 is out today as the newest stable release for this leading open-source 3D modeling software...",
-    "guid": "https://www.phoronix.com/news/Blender-5.3-Released",
-    "date": "Nov 10, 2026 16:34",
-    "published_at": "2026-11-10T16:34:56Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
   },
   {
     "title": "Massive scale RTS 'Ashes of the Singularity II' out now - review",
@@ -301,6 +678,16 @@
     "source_url": "https://lwn.net"
   },
   {
+    "title": "RPM v6 Format Approved For Fedora 46, ThinLTO Flag Rejected",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369042",
+    "description": "With Fedora 45 having shipped last week, developers are turning more of their attention to Fedora 46 that will debut by the end of next April…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369042",
+    "date": "Nov 10, 2026 14:02",
+    "published_at": "2026-11-10T14:02:36Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
     "title": "Eight More Security Issues Made Public For The X.Org Server / XWayland",
     "link": "https://www.phoronix.com/news/Eight-More-XOrg-Server-Issues",
     "description": "With the assistance of AI/LLMs, eight more security vulnerabilities were made public today for the X.Org Server. These issues also end up affecting the XWayland code too...",
@@ -373,308 +760,5 @@
     "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1669349062id30165gol.webp",
     "source": "gamingonlinux.com",
     "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Mesa 26.3.0 arrives with many Linux graphics driver enhancements",
-    "link": "https://www.gamingonlinux.com/2026/11/mesa-26-3-0-arrives-with-many-linux-graphics-driver-enhancements/",
-    "description": "While there's no announcement for it yet, the Mesa 26.3.0 open source drivers release is tagged and out now. Bringing many enhancements for gamers!Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/11/mesa-26-3-0-arrives-with-many-linux-graphics-driver-enhancements/",
-    "date": "Nov 10, 2026 11:02",
-    "published_at": "2026-11-10T11:02:38Z",
-    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/mesa.png",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "x86 Ecosystem Advisory Group Posts ACE v2 \u0026 AVX10.3 Specs, GCC Patches Ready",
-    "link": "https://www.phoronix.com/news/ACE-v2-AVX10.3-Posted",
-    "description": "While there aren't any processors released yet with AI Compute Extensions (ACE) or AVX10.2 quite yet, the x86 Ecosystem Advisory Group led by AMD and Intel have now posted their ACE v2 and AVX10.3 specifications...",
-    "guid": "https://www.phoronix.com/news/ACE-v2-AVX10.3-Posted",
-    "date": "Nov 10, 2026 11:01",
-    "published_at": "2026-11-10T11:01:00Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Uber Is Launching Its Own Parking Reservation Service",
-    "link": "https://tech.slashdot.org/story/26/11/09/2239245/uber-is-launching-its-own-parking-reservation-service?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Uber is launching Uber Parking, integrating technology from its SpotHero acquisition to let users find and reserve parking garages and lots directly through the Uber app. \"You can also filter your results based on criteria like whether you want to self-park or use a valet, or other specific amenities,\" adds Engadget. From the report: To book a spot, you'll need to provide the make and model of your car and a license plate number. Depending on your lot, Uber will then provide a QR code or you'll be able to enter the garage through license plate recognition. If you need to cancel, the company says the majority of parking options can be canceled for free up to the start time. Parking reservations can also be extended through the app. Uber One subscribers get 10 percent back in Uber credits on eligible reservations.\n \nWhen it announced its acquisition, Uber said SpotHero offered garages and lots across more than 400 cities in the US and Canada, but the company isn't offering all of them at launch. For now, Uber says Uber Parking will be available in Chicago, Nashville, San Francisco, Atlanta, Austin, Boston, Dallas, Denver, Los Angeles, Miami, New York City, Philadelphia, San Diego, Seattle and Washington DC. The company also plans to experiment with using lots as a staging area for the autonomous vehicle fleets offered byÂUber's self-driving partners.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 10, 2026 11:00",
-    "published_at": "2026-11-10T11:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "openSUSE Tumbleweed Transitioning To Agama Installer",
-    "link": "https://www.phoronix.com/news/openSUSE-Tumbleweed-Goes-Agama",
-    "description": "With openSUSE Leap making use of the modern Agama installer developed by SUSE engineers, the rolling-release openSUSE Tumbleweed is now preparing to make the same transitioning in replacing the YaST Installer...",
-    "guid": "https://www.phoronix.com/news/openSUSE-Tumbleweed-Goes-Agama",
-    "date": "Nov 10, 2026 10:53",
-    "published_at": "2026-11-10T10:53:06Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "New Linux Patches Bring-Up The Samsung Galaxy XR Headset, Qualcomm Halliday SoC",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369008",
-    "description": "Samsung's Galaxy XR headset runs on Android XR by default with its own downstream kernel patches. A user leveraging AI with multiple LLMs has now drafted an initial set of patches getting the Galaxy XR headset working on the mainline kernel along with bringing up the Qualcomm Snapdragon XR2+ Gen 2 \"Halliday\" SoC that powers this VR/XR headset…",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369008",
-    "date": "Nov 10, 2026 10:48",
-    "published_at": "2026-11-10T10:48:47Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "RPM v6 Format Approved For Fedora 46, ThinLTO Flag Rejected",
-    "link": "https://www.phoronix.com/news/Fedora-46-Approves-RPM-v6",
-    "description": "With Fedora 45 having shipped last week, developers are turning more of their attention to Fedora 46 that will debut by the end of next April...",
-    "guid": "https://www.phoronix.com/news/Fedora-46-Approves-RPM-v6",
-    "date": "Nov 10, 2026 10:37",
-    "published_at": "2026-11-10T10:37:05Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "KDE Plasma 6.8.3 Released With Dozens Of Fixes",
-    "link": "https://www.phoronix.com/news/KDE-Plasma-6.8.3",
-    "description": "KDE Plasma 6.8.3 is out today as the newest bug-fix release for last month's major Plasma 6.8 debut...",
-    "guid": "https://www.phoronix.com/news/KDE-Plasma-6.8.3",
-    "date": "Nov 10, 2026 10:27",
-    "published_at": "2026-11-10T10:27:35Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "exfatprogs 1.4.4 Brings Speed-Up For Making New exFAT Filesystems",
-    "link": "https://www.phoronix.com/news/exfatprogs-1.4.4",
-    "description": "The exfatprogs 1.4.4 release was issued today for these user-space open-source programs for managing exFAT file-systems on Linux...",
-    "guid": "https://www.phoronix.com/news/exfatprogs-1.4.4",
-    "date": "Nov 10, 2026 10:18",
-    "published_at": "2026-11-10T10:18:02Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Here's Everything New Coming to Linux Mint 27 This Christmas",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369021",
-    "description": "It is a release that has taken a year to develop, with major changes like a Wayland session that is no longer experimental.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369021",
-    "date": "Nov 10, 2026 09:11",
-    "published_at": "2026-11-10T09:11:16Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Upcoming isometric action rogue-lite Everrest is \"Hades meets EarthBound\"",
-    "link": "https://www.gamingonlinux.com/2026/11/upcoming-isometric-action-rogue-lite-everrest-is-hades-meets-earthbound/",
-    "description": "Everrest looks like one to stick onto your wishlist and keep an eye on, if you like the sound of \"Hades meets EarthBound\" as the developer tells me.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/11/upcoming-isometric-action-rogue-lite-everrest-is-hades-meets-earthbound/",
-    "date": "Nov 10, 2026 08:38",
-    "published_at": "2026-11-10T08:38:50Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/489813304id30162gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "OpenZ is an open-source 3D fan remake of the RTS 'Z' (The Bitmap Brothers, 1996)",
-    "link": "https://www.gamingonlinux.com/2026/11/openz-is-an-open-source-3d-fan-remake-of-the-rts-z-the-bitmap-brothers-1996/",
-    "description": "Anyone remember the classic strategy game Z from The Bitmap Brothers? A true and brutally difficult classic that's been revived by fans in 3D.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/11/openz-is-an-open-source-3d-fan-remake-of-the-rts-z-the-bitmap-brothers-1996/",
-    "date": "Nov 10, 2026 08:27",
-    "published_at": "2026-11-10T08:27:45Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1093513376id30161gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Dune: Awakening gets fully offline single-player in the latest update",
-    "link": "https://www.gamingonlinux.com/2026/11/dune-awakening-gets-fully-offline-single-player-in-the-latest-update/",
-    "description": "Dune: Awakening developers delivered what they promised, as the game can now be played entirely offline in single-player.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/11/dune-awakening-gets-fully-offline-single-player-in-the-latest-update/",
-    "date": "Nov 10, 2026 08:18",
-    "published_at": "2026-11-10T08:18:00Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/161591486id30160gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Warhammer 40,000: Dark Heresy set for release in January, 2027",
-    "link": "https://www.gamingonlinux.com/2026/11/warhammer-40-000-dark-heresy-set-for-release-in-january-2027/",
-    "description": "Warhammer 40,000: Dark Heresy from Owlcat Games just got a release date reveal of January 28, 2027, plus there's a brand new trailer too.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/11/warhammer-40-000-dark-heresy-set-for-release-in-january-2027/",
-    "date": "Nov 10, 2026 08:11",
-    "published_at": "2026-11-10T08:11:32Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1999899203id30159gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Dwarf Fortress now has audio for the Fortress Mode",
-    "link": "https://www.gamingonlinux.com/2026/11/dwarf-fortress-now-has-audio-for-the-fortress-mode/",
-    "description": "Dwarf Fortress, the popular colony sim just had another big upgrade, with Fortress Mode now actually having audio in it.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/11/dwarf-fortress-now-has-audio-for-the-fortress-mode/",
-    "date": "Nov 10, 2026 08:00",
-    "published_at": "2026-11-10T08:00:55Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/17151821id30158gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Valve now provide Steam Deck Framerate data to the public for each game",
-    "link": "https://www.gamingonlinux.com/2026/11/valve-now-provide-steam-deck-framerate-data-to-the-public-for-each-game/",
-    "description": "Now you don't have to entirely rely on Valve's sometimes iffy verification status for games on Steam Deck, as they're providing Framerate data.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/11/valve-now-provide-steam-deck-framerate-data-to-the-public-for-each-game/",
-    "date": "Nov 10, 2026 07:55",
-    "published_at": "2026-11-10T07:55:40Z",
-    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/steam_deck.jpg",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Mesa 26.3 Open-Source Graphics Stack Officially Released, Here’s What’s New",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369033",
-    "description": "The Mesa 26.3 open-source graphics stack has been released today as the third major point update to the Mesa 26 series, introducing new features and improvements across most of the included graphics drivers.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369033",
-    "date": "Nov 10, 2026 07:45",
-    "published_at": "2026-11-10T07:45:11Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "\"First We Take Manhattan\": DHH on Omarchy, AI, Asahi and Winning the Linux Desktop",
-    "link": "https://feed.itsfoss.com/link/24361/17521354/dhh-asahi-omarchy-take",
-    "description": "Asahi’s licence change? Doesn’t matter. Vibe coded plugins? A feature. Critics? Their loss. DHH holds nothing back on Omarchy, AI and the future of the Linux desktop.",
-    "guid": "6af2b4836c9d5b0001ba9b81",
-    "date": "Nov 10, 2026 07:44",
-    "published_at": "2026-11-10T07:44:07Z",
-    "image": "https://itsfoss.com/content/images/2026/11/dhh-featured-2.webp",
-    "source": "itsfoss.com",
-    "source_url": "https://itsfoss.com/"
-  },
-  {
-    "title": "Boston Dynamics Adds Wheels to Atlas Humanoid",
-    "link": "https://hardware.slashdot.org/story/26/11/09/2317206/boston-dynamics-adds-wheels-to-atlas-humanoid?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Boston Dynamics has equipped its Atlas humanoid with wheels, allowing the robot to rapidly roll across flat terrain while still using its articulated legs to navigate obstacles and uneven surfaces. \"The 'experiment' combined classical model-based motor control with whole-body reinforcement learning to maintain dynamic stability across unstructured, real-world terrain,\" reports The Robot Report. From the report: In addition to learning how to move with wheels for feet, Atlas also performs pirouettes and various aggressive actuation maneuvers. This demonstrates that Atlas can smoothly switch between fast rolling on flat terrain and articulated legged motion over obstacles or irregular surfaces.\n \n[Andy Wu, controls engineer for Atlas at Boston Dynamics] trained the system in sim. The system learned all of the behaviors in sim and executed them in real life, with surprising accuracy, according to Wu. Wu said converting Atlas' locomotion style was \"wonderfully simple.\" A single custom adapter mounts an off-the-shelf scooter rim onto Atlas' existing ankle actuator, and that's the only new part in the whole build. Because Atlas was designed from the start to be produced at high volume and to be easy to service, Wu said the retrofit was about as involved as swapping a wheel on a bicycle. The software side was just as straightforward, he said. Each wheel is modeled as an \"ankle\" that can spin continuously, so all Wu had to do was take the baseline robot model and swap the feet out for wheels.\n \nThe next question that Wu intends to answer is the policy response to failed actuators. This is key to safety and to understanding how the system will respond to a system failure. The primary takeaway for Wu and the controls engineering team at Boston Dynamics is to understand control synergy. The video demonstrates that merging classical motor controls (for baseline stability) with whole-body RL (for reactive adaptation) yields superior real-world agility compared to using either method alone.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 10, 2026 07:00",
-    "published_at": "2026-11-10T07:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "LibreOffice vs WPS Office: Which Is Really Free — and What Costs Extra?",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369015",
-    "description": "LibreOffice is free for business, but WPS Office's free edition has licensing limits. Compare the PDF, cloud, AI, and compatibility trade-offs.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369015",
-    "date": "Nov 10, 2026 04:46",
-    "published_at": "2026-11-10T04:46:08Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "FDA Warns GLP-1s May Increase Risk of Sudden Blindness",
-    "link": "https://science.slashdot.org/story/26/11/09/231215/fda-warns-glp-1s-may-increase-risk-of-sudden-blindness?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "An anonymous reader quotes a report from NBC News: The Food and Drug Administration said Monday that GLP-1 drugmakers must add a warning label about a rare eye condition that can cause sudden blindness. The condition, called nonarteritic anterior ischemic optic neuropathy, or NAION, affects the optic nerve, which carries signals from the eye to the brain. When blood flow to the nerve is reduced or blocked, it can cause sudden vision loss. The condition is permanent with no known treatment. The FDA said \"there is a potential increased risk of rare NAION\" in people taking GLP-1 drugs. The agency's requirement applies to all GLP-1s, including Novo Nordisk's Ozempic and Wegovy and Eli Lilly's Mounjaro and Zepbound, as well as several older GLP-1 diabetes medications. [...] Previous research has found that GLP-1 use may increase the risk of NAION, and Lilly has said it was aware of studies on the potential link.\n \nThe FDA said it began looking into a possible link after a 2024 study published in JAMA Ophthalmology that found diabetes patients prescribed semaglutide were four times as likely to develop NAION as those not prescribed the drug. The agency said it reviewed reports of side effects submitted to its adverse event monitoring system and analyzed data from multiple clinical trials. Cases of NAION have been reported for all currently marketed GLP-1 drugs, the FDA found. However, FDA scientists were not able to identify a mechanism for how the drugs could increase the risk of the eye condition. Risk factors for NAION can overlap with conditions seen in people taking GLP-1 drugs, including Type 2 diabetes, obesity, sleep apnea and hypertension. \"Patients and caregivers should be aware of a potential increased risk of NAION, a rare condition that can result in acute, painless, decreased vision in one eye, including permanent vision loss,\" with GLP-1 use, the FDA said in the release.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 10, 2026 03:30",
-    "published_at": "2026-11-10T03:30:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Darling Now Embraces AI For Running macOS Binaries On Linux",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369016",
-    "description": "Darling is the software project more than a decade in development that is designed to run macOS binaries on Linux. This macOS compatibility layer for Linux is now gaining more brisk developments as it turns to AI/LLMs to assist in this creation…",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369016",
-    "date": "Nov 10, 2026 03:17",
-    "published_at": "2026-11-10T03:17:44Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Agama Is Coming to Tumbleweed",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369024",
-    "description": "The openSUSE Project’s rolling release Tumbleweed will switch to the Agama installer before the end of the year, according to an announcement on the Factory mailing list. Agama-based images are expected to replace the legacy YaST installer as the main download on get.opensuse.org within the coming weeks. The project is…",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369024",
-    "date": "Nov 10, 2026 02:12",
-    "published_at": "2026-11-10T02:12:41Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Mozilla Firefox 160 Is Now Available for Download, Here’s What’s New",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369030",
-    "description": "Continuing its two-week release cycle, Mozilla published today the final builds of the Firefox 160 open-source web browser ahead of the official unveiling on November 10th, 2026.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369030",
-    "date": "Nov 10, 2026 00:53",
-    "published_at": "2026-11-10T00:53:32Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Mesa 26.3 Released With VK_AMD_anti_lag For RADV, Many Other Vulkan Improvements",
-    "link": "https://www.phoronix.com/news/Mesa-26.3-Released",
-    "description": "Mesa 26.3 is out today as the fourth quarter Mesa3D feature release for this collection of open-source OpenGL and Vulkan drivers...",
-    "guid": "https://www.phoronix.com/news/Mesa-26.3-Released",
-    "date": "Nov 10, 2026 00:19",
-    "published_at": "2026-11-10T00:19:46Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Microsoft Took 31 Years to Let You Kill Windows 11's Sticky Keys Popup",
-    "link": "https://build.slashdot.org/story/26/11/09/2224257/microsoft-took-31-years-to-let-you-kill-windows-11s-sticky-keys-popup?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Microsoft is testing a Windows 11 option that lets users permanently disable the Sticky Keys and Filter Keys activation prompts directly from the pop-ups themselves, ending a 31-year-old annoyance without requiring a trip into Settings. Windows Latest reports: Sadly, the dialog is still the same aging Win32 window, but we spotted Microsoft's design boss replying under an X post reply about this, saying he is working on modernizing legacy dialogs. The popup might be annoying, but did you know that it exists because of a pinball game from 1995? [...] The change is in Build 26340.9882 (Experimental) and Build 26320.9876 (Beta), both released on November 6 and based on Windows 11 version 26H2. Microsoft says you can \"choose not to be asked again\" from the Sticky Keys and Filter Keys dialogs, but it's a Controlled Feature Rollout in Experimental, so you may not see it yet.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 10, 2026 00:00",
-    "published_at": "2026-11-10T00:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Self-sufficient mobile weather station",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369029",
-    "description": "A weather research station powered by the weather itself.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369029",
-    "date": "Nov 09, 2026 23:48",
-    "published_at": "2026-11-09T23:48:59Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Firefox 160 Available With Speech-To-Text, MKV Files With FLAC / MP3 / PCM Audio",
-    "link": "https://www.phoronix.com/news/Firefox-160-Released",
-    "description": "The Firefox 160.0 release builds are now available as the latest bi-weekly stable update to Mozilla's web browser...",
-    "guid": "https://www.phoronix.com/news/Firefox-160-Released",
-    "date": "Nov 09, 2026 23:12",
-    "published_at": "2026-11-09T23:12:33Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Trump Backs Nvidia CEO Jensen Huang Amid Chinese Spy Affair Investigation",
-    "link": "https://yro.slashdot.org/story/26/11/09/2253208/trump-backs-nvidia-ceo-jensen-huang-amid-chinese-spy-affair-investigation?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "President Donald Trump says the FBI is investigating Nvidia CEO Jensen Huang's affair with a woman alleged by U.S. intelligence to have gathered information for Beijing. \"I know the FBI is looking into it in terms of something else, and I think that he'll be in good shape,\" Trump said at a White House briefing. The Associated Press reports: Trump suggested the extraordinary step of directly involving himself in a counterintelligence investigation, a sign of his friendly relationship with Huang and the possible geopolitical stakes. \"I did speak to him today just to see if he's feeling all right, how you're doing,\" Trump said. \"He said he had absolutely no idea that the person in question was a spy.\"\n \nTrump is slated to meet next week with Chinese leader Xi Jinping in Shenzhen, China, at the Asia-Pacific Economic Cooperation summit, but he was noncommittal about bringing up the situation with Xi. \"No, I don't think so,\" Trump said. \"I mean, maybe. I'm sure President XI will ask me about it. I just know Jensen very well. I just think he's a very honorable man.\"\n\n Nvidia has launched its own independent investigation into whether Huang was targeted by a foreign intelligence operation. Meanwhile, China has denied the allegations. \"The so-called Chinese spy allegation is unsubstantiated. It is nothing but smears against China,\" Chinese Foreign Ministry spokesperson Guo Jiakun said during a regular news briefing Monday.\n \n\nFurther reading: Commerce Dept. Chip Inquiry Was Halted After Nvidia Intervention\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 09, 2026 23:00",
-    "published_at": "2026-11-09T23:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Linux 7.5 To Convey To User-Space Multi-Grain Timestamp Usage On Files",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369011",
-    "description": "Merged for Linux 6.13 back in 2024 was multigrain timestamp support for being able to switch between coarse and fine-grained change/modification time reporting on a per-file basis. This is useful if caring about accuracy more than the once-per-jiffy timestamps on files and was originally devised as a way of addressing NFS caching issues. A limitation of multigrain timestamps though has been the…",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369011",
-    "date": "Nov 09, 2026 22:34",
-    "published_at": "2026-11-09T22:34:49Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
   }
 ]
