@@ -1,5 +1,172 @@
 [
   {
+    "title": "Inside Unraid OS 7.4.0: Specialized Linux for NAS",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369110",
+    "description": "This paid Linux distro takes a different approach to storage, booting from USB and running in RAM—with containers and virtual machines along for the ride.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369110",
+    "date": "Nov 12, 2026 05:08",
+    "published_at": "2026-11-12T05:08:58Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Steam Client Goes 64-Bit on Linux, Now Runs in Steam Runtime Container",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369113",
+    "description": "Valve's latest Steam Client update brings a 64-bit Linux application, Steam Runtime containerization, HDR improvements, and crash fixes.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369113",
+    "date": "Nov 12, 2026 03:39",
+    "published_at": "2026-11-12T03:39:15Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Sunken SS United States Set To Become World's Largest Artificial Reef",
+    "link": "https://news.slashdot.org/story/26/11/11/238236/sunken-ss-united-states-set-to-become-worlds-largest-artificial-reef?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from PBS: The historic ocean liner SS United States will be intentionally sunk Wednesday off the coast of the Florida panhandle. Live coverage of the sinking of the SS United States is expected to start at 1 p.m. EST, with the sinking expected at 2 p.m. EST. Watch live in the video player above. In its heyday, the SS United States crushed the trans-Atlantic speed record, which it still holds. The luxury ocean liner took only three days to cross from New York to Europe on its maiden voyage in 1952. Carrying presidents and Hollywood stars, the nearly 1,000-foot vessel was a technical marvel of its time. However, the rise of air travel and high operating costs sunk its economic viability, and the ship was pulled from service in 1969. The ocean liner sat at Philadelphia's Pier 82 for nearly 30 years.\n \nAfter a contentious back and forth with a pier landlord over rent and docking fees, Okaloosa County in Florida eventually stepped in to purchase the ship and bring it to the Gulf of Mexico to become the world's largest artificial reef. The multi-million dollar project is also aimed at creating an economic development opportunity as a major diving attraction. \"It was our goal to make sure that she wasn't lost forever,\" said David Lawrence, a member of the board for the SS United States Conservancy, the group that sold the vessel to the Florida county.\n \nLike the ship's unconventional life, it will also have an unconventional sinking. Federal environmental and explosives rules prevent the county from using explosives. Instead, tanks inside the ship have been removed and large holes were cut into the decks. Once the valves are opened, water will flood the hull, sinking the ship. Resting at 180 feet below the surface of the water, the SS United States will join more than 500 artificial reefs in Okaloosa County, which the county relies on to support the underwater ecosystem.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 12, 2026 03:30",
+    "published_at": "2026-11-12T03:30:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Epic Games Targets Linux for New Launcher",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369114",
+    "description": "The Epic Games new launcher is still in preview, but it looks to land on several Linux distributions.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369114",
+    "date": "Nov 12, 2026 02:07",
+    "published_at": "2026-11-12T02:07:15Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "AgentMon Live: Codenotary’s New Free, Open Source Tool to Babysit Claude Code",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369115",
+    "description": "Codenotary’s Apache-licensed tool watches for unfinished work, flags problems needing human attention, and helps developers spot wasted tokens",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369115",
+    "date": "Nov 12, 2026 00:58",
+    "published_at": "2026-11-12T00:58:35Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "[$] LWN.net Weekly Edition for November 12, 2026",
+    "link": "https://lwn.net/Articles/1105460/",
+    "description": "Inside this week's LWN.net Weekly Edition:\n        \n        \n Front: Synaptics patent claims; Git LLM polilcy; Hibernation and lockdown; User namespaces; glibc tunables.\n             Briefs: *sshole; Amutable foundations; Asahi Linux 7.3; OpenIndiana 2026.10; Firefox 160; Quotes; ... \n             Announcements: Newsletters, conferences, security updates, patches, and more.\n            ",
+    "guid": "https://lwn.net/Articles/1105460/",
+    "date": "Nov 12, 2026 00:23",
+    "published_at": "2026-11-12T00:23:48Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "United Airlines Bans AI Agents From Booking Flights On Behalf of Travelers",
+    "link": "https://slashdot.org/story/26/11/11/2229248/united-airlines-bans-ai-agents-from-booking-flights-on-behalf-of-travelers?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "United Airlines is banning unauthorized third-party AI agents from booking flights, checking in passengers or making account changes on travelers' behalf. CBS News reports: To make an airline booking, an AI agent requires access to a customer's personal information, including credentials like payment information. United has a problem with that, saying that \"sharing account credentials with personal, third-party, AI assistants can expose sensitive information, and actions taken by these tools may result in unintended purchases, account changes, or use of MileagePlus miles.\"\n \nThe carrier also said that using an AI agent to, for example, check in for a flight could violate federal regulations, including rules requiring travelers to verify in person that their luggage does not contain banned substances. \"As a result, United is taking steps to restrict access -- directly within our digital platforms and indirectly via travel agencies and aggregators -- to prohibit use by unauthorized, third-party personal AI agents or assistants,\" said the airline, which is updating its booking and ticketing policies to reflect the new rule. \"United is saying they don't want to add yet another, and potentially even more powerful, intermediary than they already face in terms of Google search, price-comparison metasearch sites and online travel agencies,\" said Henry Harteveldt, an aviation analyst at Atmosphere Research Group. \"Flight searches cost airlines money, and undoubtedly United wants to avoid the expense associated with the surge of AI bot flight searches.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 12, 2026 00:00",
+    "published_at": "2026-11-12T00:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Linux 7.4-rc2: Linus Torvalds Says the Tide on AI-Found Kernel Bugs May Be Turning",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369117",
+    "description": "Linux 7.4-rc2 is huge, and Linus says AI bug fixes may finally be catching up with new reports, at least in BPF. Here is what we know and what to watch.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369117",
+    "date": "Nov 11, 2026 23:47",
+    "published_at": "2026-11-11T23:47:45Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him",
+    "link": "https://slashdot.org/story/26/11/11/2220224/jensen-huang-said-to-have-had-relationship-with-nvidia-executive-who-reports-to-him?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Nvidia CEO Jensen Huang is facing scrutiny over an affair with an alleged Chinese spy. Now, The New York Times reports that Mr. Huang also had an extramarital relationship with Kimberly Powell, the company's vice president of health care and a direct report, raising questions about conflicts of interest and compliance with the company's policies governing personal relationships. From the report: The relationship, which has not been previously reported, was with Kimberly Powell, Nvidia's vice president of health care, said the people, who spoke under the condition of anonymity to describe sensitive information. Under Nvidia's code of conduct, employees are told to \"avoid situations where our actions create conflict\" including \"personal relationships,\" and the company states that it \"promptly investigates reports of misconduct.\" Many corporations have policies against managers having relationships with subordinates.\n \nMr. Huang, 63, and Ms. Powell, 48, were captured on video being affectionate at a San Jose, Calif., hotel during a Nvidia conference in March, according to two of the people who worked at the company. The New York Times has not seen the video. Both Mr. Huang and Ms. Powell are married to other people. [...] One bystander captured the interaction on their phone, three people briefed on the incident said. Mr. Huang's security witnessed the bystander with their phone and sequestered them, the people said. They made the person an offer to sign a nondisclosure agreement. Further reading: Nvidia and Jensen Huang Face Shareholder Lawsuit Alleging Investors Were Misled About Spy Affair\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 11, 2026 23:00",
+    "published_at": "2026-11-11T23:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Nvidia and Jensen Huang Face Shareholder Lawsuit Alleging Investors Were Misled About Spy Affair",
+    "link": "https://yro.slashdot.org/story/26/11/11/2154252/nvidia-and-jensen-huang-face-shareholder-lawsuit-alleging-investors-were-misled-about-spy-affair?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Charlotte Web shares a report from the Associated Press: A shareholder has sued Nvidia and its CEO, Jensen Huang, accusing them of deceiving investors in their responses to media reports about Huang's affair with a purported Chinese spy that threatens national security. [...] The news reports said that the Commerce Department was investigating Alice Huang's company, Singapore-based Megaspeed, on suspicions that it was helping to sidestep U.S. export restrictions blocking Nvidia chips from being sold to China. But Nvidia said then that its compliance team checked and determined that Megaspeed wasn't doing anything illegal.\n \nBut, according to the complaint, the statements were misleading because they were made when Jensen Huang was having an affair with Alice Huang, who is \"suspected of seeking to help smuggle Nvidia products into China.\" It accuses Nvidia and Huang of failing to disclose the affair and issuing false statements about Nvidia's relationship with Megaspeed, which posed a \"material risk\" to Nvidia's reputation and business prospects.\n \n[...] \"As a result of Defendants' wrongful acts and omissions, and the precipitous decline in the market value of the Company's securities, Plaintiff and other Class members have suffered significant losses and damages,\" the complaint said. Had investors known the truth, they wouldn't have purchased Nvidia's shares \"at the artificially inflated prices that they did, or at all,\" the complaint said. \"Fun fact: Nvidia donated $25 million to Trump's White House ballroom fund,\" notes Slashdot reader Charlotte Web. \n \nUPDATE: The New York Times reports that Huang also also had an extramarital relationship with Kimberly Powell, the company's vice president of health care and a direct report.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 11, 2026 22:00",
+    "published_at": "2026-11-11T22:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Intel Continues Enabling The GPU D-Series \"Crescent Island\" Driver Support For Linux 7.5",
+    "link": "https://www.phoronix.com/news/More-Intel-D-Series-Linux-7.5",
+    "description": "Intel's intriguing Crescent Island Xe3P-based AI accelerator hardware now known as the Intel GPU D Series continues seeing a lot of Linux kernel driver activity. The upcoming Linux 7.5 kernel is continuing to build out the support for this upcoming hardware...",
+    "guid": "https://www.phoronix.com/news/More-Intel-D-Series-Linux-7.5",
+    "date": "Nov 11, 2026 21:04",
+    "published_at": "2026-11-11T21:04:00Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "New York Forces T-Mobile to End Data Caps On Low-Income Plans",
+    "link": "https://tech.slashdot.org/story/26/11/11/2048256/new-york-forces-t-mobile-to-end-data-caps-on-low-income-plans?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "New York has forced T-Mobile to remove a 50GB monthly data cap from its $15 low-income broadband plan after regulators found customers who exceeded the limit had their speeds cut by more than 97%, to just 650 Kbps. \"Additionally, the [Office of the Attorney General (OAG)] found T-Mobile restricted [New York's Affordable Broadband Act (ABA)] plans to areas with 5G coverage, despite offering standard-rate 25 Mbps plans in 4G areas, and intentionally coded its website to hide affordable plans from search engines,\" reports RochestFirst. From the report: Under the terms of the settlement, T-Mobile must: \n- Eliminate data caps on its ABA plans and deliver guaranteed 25 Mbps download speeds.\n- Expand ABA plan availability to all geographic areas where it offers fixed-wireless home internet service.\n- Make its ABA webpage indexed and easily discoverable via standard web searches.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 11, 2026 21:00",
+    "published_at": "2026-11-11T21:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Deepin 25.3 Adds Freeze Protection, AI Improvements, and Better Recovery",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369090",
+    "description": "Deepin 25.3 introduces freeze protection, faster application startup, an optional Linux kernel 6.18, and improved system recovery.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369090",
+    "date": "Nov 11, 2026 20:55",
+    "published_at": "2026-11-11T20:55:29Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Ukraine Strikes Cause Permanent Data Loss at Russia's Yandex Cloud",
+    "link": "https://hardware.slashdot.org/story/26/11/11/1950231/ukraine-strikes-cause-permanent-data-loss-at-russias-yandex-cloud?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Russia's Yandex says 2.84% of customer data has been permanently lost following Ukrainian strikes on data centers in the country. \"According to the company, recovery is impossible because of critical damage to equipment and the lack of backup copies on the platform,\" reports UNITED24 Media. From the report: Yandex clarified that customers who had previously enabled the platform's backup tools did not experience any data loss, as their information remained fully preserved. The incident has prompted the company to revise its approach to data protection and disaster recovery, particularly the default settings for cloud infrastructure. Under the updated policy, automatic backups will be enabled by default whenever customers create new virtual machines on Yandex Cloud. Users will retain the option to disable the feature manually through the management console. In addition to changing its backup policy, Yandex Cloud announced the launch of a new availability zone, designated ru-central1-f. The new availability zone operates from a separate location, improving the resilience and reliability of the services. The report says Ukrainian drones targeted three Yandex data centers in Russia over four days, beginning October 8 with a strike on a facility in the Ryazan region that houses two of the company's three supercomputers. A second attack hit Yandex's largest data center in the Kaluga region on October 9, followed by a third strike on October 11 targeting a facility in the Vladimir region that houses the company's remaining supercomputer.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 11, 2026 20:00",
+    "published_at": "2026-11-11T20:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "The Evolution of Commercial Open Source Software",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369105",
+    "description": "The Early Days",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369105",
+    "date": "Nov 11, 2026 19:39",
+    "published_at": "2026-11-11T19:39:34Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Court Says Trump Can't Use Leaks To Justify Spying On Journalists' LinkedIn DMs",
+    "link": "https://yro.slashdot.org/story/26/11/11/1822204/court-says-trump-cant-use-leaks-to-justify-spying-on-journalists-linkedin-dms?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from Ars Technica: The Trump administration's fight to stop suspected leaks of top-secret military information on LinkedIn can't sweep in \"a vast number of confidential sources\" of random journalists \"who have no conceivable relationship\" to the Department of Justice's investigation, an appeals court ruled (PDF) Tuesday. The order came after the DOJ asked LinkedIn to turn over 18 months of communications from targeted journalists who collectively published more than 1,000 articles on many different topics over that time period. The request was not limited to journalists involved in a controversial report from a news outlet that Trump said exposed confidential military information in a foreign country. (The outlet is not being named to protect national security secrets.) Instead, the DOJ cast a wide net, requesting extensive LinkedIn data on journalists who had any possible link to the journalists around the time the report was drafted.\n \nThe majority of journalists have LinkedIn accounts and publish their contact information to encourage sources to connect on the platform, LinkedIn argued. So allowing that government overreach went beyond harming targeted journalists and threatened to undermine a critical platform where journalists frequently connect with confidential sources, judges ruled. Even more concerning, the Trump administration secured a secrecy order barring LinkedIn from telling anyone about the sweeping request for a year. That left journalists unaware for far too long that their First Amendment rights had been compromised, judges ruled. \"A request by the government to scoop up reporters' records wholesale and ascertain the identity of their sources would tip the balance against informed discourse in a manner inimical to democratic health,\" Wilkinson wrote. He criticized the lower court for approving the request simply because the records were technically feasible to collect, emphasizing that \"serious security and speech claims are in tension in this case. There is space under law for both.\"\n \nWhile declining to quash the order entirely, Wilkinson also directed the lower court to reconsider a limited exception to the government's secrecy order that would allow LinkedIn to notify an attorney representing the news outlet under investigation.\n \nBruce D. Brown, President of The Reporters Committee for Freedom of the Press (RCFP), celebrated the ruling, saying: \"This ruling is a big deal and will quickly become one of the leading opinions in the area -- one we will be quoting from it for a long time. The court recognized that confidential sources are the 'lifeblood' of investigative reporting and that dragnet demands from technology companies to reveal those sources violate the law.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 11, 2026 19:00",
+    "published_at": "2026-11-11T19:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
     "title": "Logitech Giving All 7,000 Employees the Day Off to Play GTA 6",
     "link": "https://games.slashdot.org/story/26/11/11/180258/logitech-giving-all-7000-employees-the-day-off-to-play-gta-6?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
     "description": "Under a new \"Logi Game Day\" initiative, Logitech is giving all 7,000 of its employees an extra paid day off to play GTA 6 when it launches on November 19. Employees and interns can use the day off anytime over the next year. Tom's Hardware reports: As for Logitech, the company believes that it's time for people to move away from the belief that playing games is a waste of time, hence its new initiative. It makes sense for a company that makes gaming accessories to say that, of course, but CEO Hanneke Faber argues that the company sees \"how engagement in one sphere supports performance in the other.\" The hope will be that, by allowing employees to play games, a productivity boost will follow.\n\n\n\n\n\nRead more of this story at Slashdot.",
@@ -437,328 +604,5 @@
     "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
     "source": "slashdot.org",
     "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Zuck’s Minions Ban Me From Posting to Facebook… Because DistroWatch \u0026 Lunduke???",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369077",
-    "description": "Sharing Linux release announcements is apparently a cybersecurity threat. Fortunately, Facebook’s keeping an eye on me to make sure that doesn't happen again.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369077",
-    "date": "Nov 10, 2026 22:51",
-    "published_at": "2026-11-10T22:51:06Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "New York Launches Nation's First State AI Testing Program",
-    "link": "https://yro.slashdot.org/story/26/11/10/2058226/new-york-launches-nations-first-state-ai-testing-program?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "New York is launching a state-backed AI safety research center at Binghamton University that will independently study and test AI systems, develop safety and security techniques, and train researchers in responsible AI. \"While the federal government fails to act, New York is leading the way on AI safety and holding big tech accountable,\" New York Gov. Kathy Hochul said. \"The stakes are too high to simply take AI companies at their word.\" Politico reports: The center -- which is funded by a $30 million gift from Bloomberg co-founder Tom Secunda and a $25 million research investment from SUNY and New York state -- is set to launch before New York's major AI safety law, the RAISE Act, comes into effect on Jan. 1. That will require submissions of detailed safety frameworks from AI companies operating in New York State, which Hochul's office hopes will be scrutinized by researchers at the new center.\n \n\"AI is opening up questions that scientists could not tackle before,\" said Secunda, who also serves as the board chair of Empire AI, a $500 million public-private partnership. \"With Empire AI and researchers across New York, the Center can test systems independently and give public officials evidence they can use.\"\n \nOver 80 leading scientists and researchers on AI systems from across New York state will contribute to the effort, which will be run by the New York Center for AI Responsibility and Research at Binghamton University, according to details shared by Hochul's office. The initiative will be led by Jeannette Wing, the executive vice president for research at Columbia University, and Greg Morrisett, the vice provost of Cornell Tech.\n \n\"We need new techniques that can be applied to this new kind of system with swarms of autonomous agents acting independently and without control. How can you first detect that they're going to do harm, and how can you prevent them from doing harm?\" said Wing. \"The beauty of what's being proposed is that this state is committing resources to really light this up.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 10, 2026 22:00",
-    "published_at": "2026-11-10T22:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Anthropic Launches New Workplace Features To Take On Microsoft and Google",
-    "link": "https://tech.slashdot.org/story/26/11/10/2023200/anthropic-launches-new-workplace-features-to-take-on-microsoft-and-google?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "An anonymous reader quotes a report from TechCrunch: Anthropic announced new workplace features on Tuesday, including Claude Meetings, which brings Claude into video calls to begin working on tasks while participants are still talking. The company also unveiled Claude Whiteboards and Claude Sheets. The launch of Anthropic's new productivity-focused features comes just a few weeks after OpenAI unveiled a series of workplace tools that allow users to collaborate with ChatGPT to do things like visualize company information and create presentations, as both companies compete to turn their products into office suites of sorts to take on Microsoft and Google. Meta is also joining the competition with its Muse AI agent, which can build mini-apps on the fly to help users complete specific tasks. Here's a summary of each of the offerings Anthropic announced today:\n \nClaude Meetings: Allows Claude to join video calls as a visible participant, take notes, answer questions, retrieve information from connected apps, and create plans, timelines, and action items in real time. Available in beta for Team and Enterprise plans, initially supporting Google Meet.\n \nClaude Whiteboards: A collaborative visual workspace where teams can brainstorm with Claude, organize ideas into timelines and plans, and turn their work into documents or slide decks. It also integrates with Claude Meetings to build whiteboards during conversations.\n \nClaude Sheets: Lets teams create and collaboratively edit spreadsheets with Claude, including budgets and trackers with multiple tabs, formulas, formatting, and dropdown menus. Claude can make changes directly in cells while explaining its edits.\n \nAnthropic also announced the general availability of Claude Data (formerly Claude Dashboards) that connects Claude to business systems like CRMs and data warehouses. \"Users can ask questions, and Claude responds with dashboards, written data stories, or narrated videos,\" reports TechCrunch. Additionally, the company announced new interactive connectors that let users open Claude and work within third-party apps like Adobe, Atlassian, and HubSpot.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 10, 2026 21:00",
-    "published_at": "2026-11-10T21:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Starlink Mini 2 Adds a Swappable Battery, Wi-Fi 6",
-    "link": "https://tech.slashdot.org/story/26/11/10/208239/starlink-mini-2-adds-a-swappable-battery-wi-fi-6?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "SpaceX has unveiled the Starlink Mini 2, equipping the company's smallest satellite internet terminal with a removable 71Wh battery and Wi-Fi 6. Preorders are opening to select U.S. customers for $999, which also includes a year of Roam Unlimited service. Shipments are expected to begin in mid-December. InterestingEngineering reports: The removable battery represents the biggest functional upgrade over the original Starlink Mini. Previously, users needed an external power source to operate the satellite terminal. That meant carrying additional equipment for camping trips, remote work, or extended journeys. Mini 2 addresses that limitation with a detachable 71 Wh battery pack. It weighs approximately 1.08 pounds (490 grams) and delivers up to 4.5 hours of connectivity. Owners can replace it with another charged battery when necessary.\n \nThe battery also features LED indicators and its own USB-C charging port. SpaceX supports 60-watt USB-C Power Delivery charging for the pack. The retail kit includes a compatible 60-watt wall adapter and a three-meter USB-C cable. Users can also power the terminal through USB-C without relying on its battery. A physical power button replaces the original model's simpler plug-and-play arrangement.\n \n[...] SpaceX has also upgraded the wireless hardware from Wi-Fi 5 to Wi-Fi 6. The integrated router supports coverage across approximately 1,800 square feet (167 square meters). An IP67 rating provides additional protection against dust and water. Other hardware details include a foldable kickstand and a standard 1/4-inch-20 tripod mounting thread. The terminal also offers a 55-degree field of view for satellite acquisition.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 10, 2026 20:10",
-    "published_at": "2026-11-10T20:10:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Three new stable kernels for Tuesday",
-    "link": "https://lwn.net/Articles/1106569/",
-    "description": "Greg Kroah-Hartman has released the 7.3.4,\n6.18.63, and 6.12.117 stable kernels. The 7.3.4 kernel has more\nthan 1,250 patches, 6.18.63 contains more than 860, and 6.12.117 includes more\nthan 1,530 patches. Users of these kernels are, of course, encouraged to upgrade.\n\n",
-    "guid": "https://lwn.net/Articles/1106569/",
-    "date": "Nov 10, 2026 19:06",
-    "published_at": "2026-11-10T19:06:06Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "Nintendo Is Officially Investing In Game Preservation",
-    "link": "https://games.slashdot.org/story/26/11/10/1814241/nintendo-is-officially-investing-in-game-preservation?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Nintendo is hiring a digital archivist to help ensure the company's historical records are \"preserved for future generations.\" The 12-month position is tasked with designing and implementing a \"structured framework for organizing technical records, engineering documentation, source materials, and institutional knowledge related to legacy systems and platforms.\" Polygon reports: In the past, Nintendo has drawn criticism from the preservation community. In 2022, the Video Game History Foundation publicly criticized the company for announcing it would be closing the Wii U and 3DS eShops. The foundation released a statement saying that Nintendo's decision was \"actively destructive to video game history.\" The statement also pointed out that Nintendo is part of the Entertainment Software Association, which funds lobbying that prevents a number of preservation efforts.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 10, 2026 19:00",
-    "published_at": "2026-11-10T19:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "openSUSE Tumbleweed Transitioning To Agama Installer",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369041",
-    "description": "With openSUSE Leap making use of the modern Agama installer developed by SUSE engineers, the rolling-release openSUSE Tumbleweed is now preparing to make the same transitioning in replacing the YaST Installer…",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369041",
-    "date": "Nov 10, 2026 18:30",
-    "published_at": "2026-11-10T18:30:18Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Blender 5.3 Released With Nvidia DLSS 4.5 Ray Reconstruction, Vulkan Default",
-    "link": "https://tech.slashdot.org/story/26/11/10/178254/blender-53-released-with-nvidia-dlss-45-ray-reconstruction-vulkan-default?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Blender 5.3 has been released with support for 3D Gaussian Splats, Nvidia DLSS 4.5 Ray Reconstruction and Vulkan as the default graphics backend on Linux. Phoronix reports: Blender now allows importing Gaussian Splats from PLY, SPZ, and glTF files. Also new to Blender 5.3 is NVIDIA DLSS 4.5 Ray Reconstruction support as a new denoiser. Blender 5.3 also brings support for NVIDIA RTX Spark devices.\n \nFor the Cycles code in Blender 5.3 the Principled BSDF for shader nodes now supports dispersion. Another notable change with Blender 5.3 is the Vulkan back-end now being the default on Windows (except for Windows on ARM) and Linux systems. Vulkan 1.1 or newer is required and should deliver better performance than OpenGL.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 10, 2026 18:00",
-    "published_at": "2026-11-10T18:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Blender 5.3 Released with Gaussian Splatting, Vulkan by Default",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369044",
-    "description": "Blender 5.3 adds native Gaussian Splatting support, enables Vulkan by default on Linux, and improves rendering, animation, and video editing.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369044",
-    "date": "Nov 10, 2026 17:00",
-    "published_at": "2026-11-10T17:00:56Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "AMD EPYC 9996 Benchmarks Show Unparalleled Performance With 256 Zen 6C Cores",
-    "link": "https://www.phoronix.com/review/amd-epyc-9996",
-    "description": "Back in July AMD announced the EPYC 9006 \"Venice\" series at their Advancing AI event. Today they are announcing EPYC 9006 series Socket SP7 processor availability and with systems beginning to ship today from their OEM/ODM partners. With that we are also now allowed to begin sharing AMD EPYC 9006 performance benchmark figures. Back in July I expected EPYC 9006 to be a \"grand slam\" for performance... After hands-on with the 6th Gen EPYC processors, it's a grand slam alright -- out of this world.",
-    "guid": "https://www.phoronix.com/review/amd-epyc-9996",
-    "date": "Nov 10, 2026 17:00",
-    "published_at": "2026-11-10T17:00:04Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "AMD EPYC 9686F Linux Benchmarks: 96 Zen 6 Cores At Up To 5.3GHz",
-    "link": "https://www.phoronix.com/review/amd-epyc-9686f",
-    "description": "In addition to the AMD EPYC 9996 256-core CPU benchmarks out today in that dual socket configuration for a combined 512 cores / 1024 threads flagship Zen 6C server configuration, also tested recently at Phoronix was the EPYC 9686F part. The AMD EPYC 9686F is their new high-frequency Zen 6 part that features 96 cores / 192 threads at a boost clock of 5.3GHz! When the AMD EPYC 9686F they originally disclosed a 5.0GHz boost clock but with how well their production silicon panned out and/or marketing reasons, it's actually now confirmed to be 5.3GHz in production.",
-    "guid": "https://www.phoronix.com/review/amd-epyc-9686f",
-    "date": "Nov 10, 2026 17:00",
-    "published_at": "2026-11-10T17:00:03Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "AMD Talks Up Their MEXT Software Amid RAM Crisis - Linux Support But Not Open-Source",
-    "link": "https://www.phoronix.com/news/AMD-MEXT",
-    "description": "This summer AMD acquired the company MEXT for their AI-powered predictive memory technology to make flash memory such as NVMe SSDs behave more like DRAM. AMD MEXT with EPYC servers allows for flash memory as DRAM tiering and uses a predictive AI engine for handling the tiering in an effective way. There is a Linux driver but this is one of the few offerings in the AMD space that isn't open-source as part of their typical open ecosystem approach...",
-    "guid": "https://www.phoronix.com/news/AMD-MEXT",
-    "date": "Nov 10, 2026 17:00",
-    "published_at": "2026-11-10T17:00:02Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "AMD Confirms ACE With 7th Gen EPYC \"Florence\" While 8th Gen EPYC Is \"Ravenna\"",
-    "link": "https://www.phoronix.com/news/AMD-EPYC-Zen-7-Zen-8",
-    "description": "During the AMD briefings for 6th Gen EPYC SP7 availability, they did already tease next-gen EPYC processors...",
-    "guid": "https://www.phoronix.com/news/AMD-EPYC-Zen-7-Zen-8",
-    "date": "Nov 10, 2026 17:00",
-    "published_at": "2026-11-10T17:00:01Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "AMD EPYC Embedded 9006 Series SP7 Announced",
-    "link": "https://www.phoronix.com/news/AMD-EPYC-Embedded-9006-Series",
-    "description": "In addition to today's announcement of AMD EPYC 9006 SP7 availability, complete with reviews of the AMD EPYC 9996 256-core flagship and EPYC 9686F 96-core 5.3GHz part, AMD also announced the EPYC Embedded 9006 Series SP7 processors...",
-    "guid": "https://www.phoronix.com/news/AMD-EPYC-Embedded-9006-Series",
-    "date": "Nov 10, 2026 17:00",
-    "published_at": "2026-11-10T17:00:00Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Reddit Is Turning User Conversations Into AI-Powered Product Reviews",
-    "link": "https://tech.slashdot.org/story/26/11/10/1654224/reddit-is-turning-user-conversations-into-ai-powered-product-reviews?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Reddit is rolling out an AI-powered shopping feature called \"Reddit Reviews\" that summarizes user conversations about products and turns them into dedicated reviews. TechCrunch reports: Reddit's announcement points to its rules and its latest measures to combat automated abuse and spam, as well as its practice involving community moderators, as tools it will use to keep the reviews on the site legit. The Reddit Reviews feature itself taps into AI to organize the conversations people are having where they describe their product experiences. These posts will often see users discussing how a product works for them, or why it fails, or what the trade-offs are that someone should consider before buying.\n \nThe company has been testing the product reviews feature since February, initially with U.S. users in areas like Electronics, Video Games, and Health \u0026 Beauty products. In September, Reddit expanded the test to include the Home \u0026 Garden and Fashion \u0026 Apparel categories as well. Now, the company says Reddit Reviews is rolling out to all U.S. users on iOS, Android, and web, with an initial selection focused on around 10,000 products. Over time, it will roll out to more categories and expand beyond the U.S.\n \nTo use the feature, Reddit users can search for a product or category in the app's search bar or click on a highlighted product name they see in someone's comment. From there, the user is taken to a screen where important conversations are summarized under a \"what people are saying\" heading. This will also include a visual breakdown that shows how many of those comments are positive, negative, or mixed, and what sort of things people said they liked or disliked about the item.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 10, 2026 17:00",
-    "published_at": "2026-11-10T17:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Massive scale RTS 'Ashes of the Singularity II' out now - review",
-    "link": "https://www.gamingonlinux.com/2026/11/massive-scale-rts-ashes-of-the-singularity-ii-out-now-review/",
-    "description": "Ashes of the Singularity II is out now from Oxide Games and Stardock Entertainment, here's some of my thoughts on this massive RTS game.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/11/massive-scale-rts-ashes-of-the-singularity-ii-out-now-review/",
-    "date": "Nov 10, 2026 16:05",
-    "published_at": "2026-11-10T16:05:43Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1595997079id30163gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Europe Must Rethink Security As Big Tech Power Grows, EU Says",
-    "link": "https://it.slashdot.org/story/26/11/09/2329214/europe-must-rethink-security-as-big-tech-power-grows-eu-says?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "An anonymous reader quotes a report from Reuters: The European Union must rethink security to take into account challenges and risks posed by the growing power of major technology companies that go beyond traditional competition concerns, European Commission Executive Vice-President Teresa Ribera said on Monday. \"We need to review and to deepen our concept of security, including cybersecurity,\" Ribera told reporters in Lisbon, arguing that testing and monitoring devices connected to critical infrastructure was no longer sufficient and that security means also ensuring that the Big Tech companies are \"governed by democratic and transparent patterns.\" \"We need to be quite quick in the deployment of these new approaches ... This is one of the most critical topics for security, for democracy, and for (our) values,\" she said.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 10, 2026 16:00",
-    "published_at": "2026-11-10T16:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "KORA Announced As Linux Desktop OS \"For The Age of Intelligence\"",
-    "link": "https://www.phoronix.com/news/KORA-OS",
-    "description": "Backed by Samsung, Square Enix, and others, KORA Systems announced KORA OS today as a Linux distribution built for the age of \"intelligent PCs\"...",
-    "guid": "https://www.phoronix.com/news/KORA-OS",
-    "date": "Nov 10, 2026 15:53",
-    "published_at": "2026-11-10T15:53:43Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "[$] Synaptics patent claims stop work on DisplayLink drivers",
-    "link": "https://lwn.net/Articles/1102549/",
-    "description": "Mike Lothian owns a docking station (or dock) that uses a DisplayLink chipset\nthat had, at least in his opinion, subpar performance on Linux. He\ndecided to try improving the Linux driver, with LLM assistance, but ran into one\nproblem that he could not solve—so he asked for help, hoping that\nSynaptics's developers would lend a hand. (DisplayLink was acquired by\nSynaptics in 2022.) Rather than help him in improving the\ndriver, however, the Synaptics legal team responded with patent infringement\nclaims, a demand\nthat he cease unauthorized implementation of DisplayLink technology, and threats\nof expensive legal penalties. For now, it appears that Linux users of the\ncompany's docks will have to continue to live without feature parity with other\nplatforms.",
-    "guid": "https://lwn.net/Articles/1102549/",
-    "date": "Nov 10, 2026 15:38",
-    "published_at": "2026-11-10T15:38:10Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "Firefox 160 released",
-    "link": "https://lwn.net/Articles/1106542/",
-    "description": "Version\n160 of the Firefox web browser has been released. Notable features in this\nrelease include the ability to block sites from asking to handle\n\"mailto:\" links, ability to play Matroska files with FLAC, MP3, or PCM\naudio, playback speed controls in the picture-in-picture\nvideo player, and a new Mini\nWindow feature that is in early development.\n\n",
-    "guid": "https://lwn.net/Articles/1106542/",
-    "date": "Nov 10, 2026 15:37",
-    "published_at": "2026-11-10T15:37:42Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "KDE Plasma 6.8.3 Released with More Improvements for Multi-Monitor Setups",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369036",
-    "description": "The KDE Project released KDE Plasma 6.8.3 today as the third maintenance update to the latest KDE Plasma 6.8 desktop environment series, with more bug fixes and various improvements.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369036",
-    "date": "Nov 10, 2026 15:33",
-    "published_at": "2026-11-10T15:33:51Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "The Company Behind GameOS is Now Building an AI Desktop OS Based on Linux",
-    "link": "https://feed.itsfoss.com/link/24361/17521589/kora-ai-desktop-os-unveiled",
-    "description": "KORA is due in 2027 and will come to Snapdragon-powered PCs thanks to Qualcomm collaborating with the devs.",
-    "guid": "6ae3094a1b851a0001834c93",
-    "date": "Nov 10, 2026 15:01",
-    "published_at": "2026-11-10T15:01:49Z",
-    "image": "https://itsfoss.com/content/images/2026/10/kora-launch-banner.png",
-    "source": "itsfoss.com",
-    "source_url": "https://itsfoss.com/"
-  },
-  {
-    "title": "Security updates for Tuesday",
-    "link": "https://lwn.net/Articles/1106522/",
-    "description": "Security updates have been issued by AlmaLinux (curl, dpdk, glibc, kernel, nodejs-nodemon, nodejs22, nodejs24, nodejs:18, nodejs:22, patch, qt5, qt5-qtdeclarative, ruby, ruby4.0, ruby:3.3, ruby:4.0, squid:4, tomcat, util-linux, and webkit2gtk3), Debian (symfony and tomcat10), Fedora (bind, dnf5, kernel, kernel-headers, libmodulemd, maturin, perl-CGI, perl-Net-IDN-Encode, perl-Starlet, python-jiter, python-pydantic-core, python-pysequoia, python3-docs, python3.14, python3.15, ruff, rust-afterburn, rust-astral_async_zip, rust-clearscreen, rust-jiter, rust-lzma-rust2, rust-mailparse, rust-pyo3-introspection, rust-python-pkginfo, rust-serde_json, rust-testresult, rust-zip, selenium-manager, ty, and uutils-coreutils), Mageia (glibc, packages, php-smarty, python-aiohttp, and thunderbird), Oracle (curl, firefox, gdb, glibc, kernel, oVirt 4.5 ovirt-engine-wildfly, perl-YAML:1.24, and tesseract), Slackware (krb5), SUSE (ansible-core, apr-util, aspell, buildpacks-cli, dpdk22, firefox, git-bug, glib2, google-cloud-sap-agent, haproxy, jsoup, kernel, krb5, libjxl, librsvg, libruby4_0-4_0, libunbound8, libXtst, nodejs24, nvidia-open-driver-G07-signed, PackageKit, perl-XS-Parse-Keyword, poppler, python, python-Brotli, rsyslog, tekton-cli, tomcat, tomcat10, tomcat11, trivy, udisks2, xen, zchunk, and zk), and Ubuntu (apache2, ca-certificates, fetchmail, freerdp3, kernel, libgphoto2, libheif, libnfs, libsoup3, linux, linux-aws, linux-aws-5.15, linux-aws-fips, linux-azure, linux-azure-5.15, linux-azure-fde-5.15, linux-azure-fips, linux-gcp, linux-gcp-5.15, linux-gcp-fips, linux-gke, linux-gkeop, linux-hwe-5.15, linux-ibm, linux-ibm-5.15, linux-intel-iot-realtime, linux-intel-iotg, linux-intel-iotg-5.15, linux-kvm, linux-lowlatency, linux-lowlatency-hwe-5.15, linux-nvidia, linux-nvidia-tegra, linux-nvidia-tegra-5.15, linux-oracle, linux-oracle-5.15, linux-realtime, linux, linux-aws, linux-aws-fips, linux-aws-hwe, linux-azure, linux-azure-4.15, linux-azure-fips, linux-fips, linux-gcp, linux-gcp-4.15, linux-gcp-fips, linux-hwe, linux-kvm, linux-oracle, linux, linux-aws, linux-aws-fips, linux-azure, linux-azure-5.4, linux-azure-fips, linux-bluefield, linux-fips, linux-gcp, linux-gcp-5.4, linux-gcp-fips, linux-hwe-5.4, linux-ibm, linux-ibm-5.4, linux-iot, linux-kvm, linux-oracle, linux-oracle-5.4, linux-xilinx-zynqmp, linux, linux-aws, linux-azure, linux-azure-fips, linux-gcp, linux-gke, linux-ibm, linux-lowlatency, linux-oracle, linux-vmware, linux, linux-aws, linux-gcp, linux-ibm, linux-oem-7.0, linux-oracle, linux, linux-aws, linux-kvm, linux-lts-xenial, linux-aws, linux-aws-5.4, linux-raspi, linux-raspi-5.4, linux-aws-6.8, linux-gcp-6.8, linux-ibm-6.8, linux-lowlatency-hwe-6.8, linux-nvidia, linux-realtime-6.8, linux-aws-7.0, linux-azure-fde, linux-azure-fde-7.0, linux-gcp-7.0, linux-gke, linux-oracle-7.0, linux-realtime, linux-aws-fips, linux-gcp-fips, linux-gkeop, linux-realtime, linux-azure, linux-azure-6.8, linux-azure-fde-6.8, linux-azure-fde, linux-oracle-6.8, linux-raspi, linux-raspi-realtime, linux-raspi, openjdk-17, openjdk-21, openjdk-25, openjdk-27, openjdk-8, openjdk-lts, perl, and pyasn1).",
-    "guid": "https://lwn.net/Articles/1106522/",
-    "date": "Nov 10, 2026 14:03",
-    "published_at": "2026-11-10T14:03:54Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "RPM v6 Format Approved For Fedora 46, ThinLTO Flag Rejected",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369042",
-    "description": "With Fedora 45 having shipped last week, developers are turning more of their attention to Fedora 46 that will debut by the end of next April…",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369042",
-    "date": "Nov 10, 2026 14:02",
-    "published_at": "2026-11-10T14:02:36Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Eight More Security Issues Made Public For The X.Org Server / XWayland",
-    "link": "https://www.phoronix.com/news/Eight-More-XOrg-Server-Issues",
-    "description": "With the assistance of AI/LLMs, eight more security vulnerabilities were made public today for the X.Org Server. These issues also end up affecting the XWayland code too...",
-    "guid": "https://www.phoronix.com/news/Eight-More-XOrg-Server-Issues",
-    "date": "Nov 10, 2026 13:55",
-    "published_at": "2026-11-10T13:55:33Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "X.Org Security Advisory released for November 10th - multiple security issues in X.Org X server",
-    "link": "https://www.gamingonlinux.com/2026/11/x-org-security-advisory-released-for-november-10th-multiple-security-issues-in-x-org-x-server/",
-    "description": "A fresh X.Org Security Advisory has been released today, noting multiple security issues in X.Org X server. Here we go again huh?Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/11/x-org-security-advisory-released-for-november-10th-multiple-security-issues-in-x-org-x-server/",
-    "date": "Nov 10, 2026 13:55",
-    "published_at": "2026-11-10T13:55:28Z",
-    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/xorg.jpg",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "NeoVim Too Complex? Try Helix as Your First Modal Editor",
-    "link": "https://feed.itsfoss.com/link/24361/17521502/helix-modal-editor",
-    "description": "Helix is an underrated gem when it comes to modal editors like Vim and Neovim. ",
-    "guid": "69c9f98bef620f0001dbe628",
-    "date": "Nov 10, 2026 13:33",
-    "published_at": "2026-11-10T13:33:19Z",
-    "image": "https://itsfoss.com/content/images/2026/11/helix-modal-editor.webp",
-    "source": "itsfoss.com",
-    "source_url": "https://itsfoss.com/"
-  },
-  {
-    "title": "Longtime Linux Developer Steps Down From Some Roles Due To Patch Flood Caused By AI",
-    "link": "https://www.phoronix.com/news/Lorenzo-Stoakes-AI-Flood",
-    "description": "Linux memory management expert Lorenzo Stoakes at Arm who has been contributing to the kernel since 2014 is stepping away from some reviewership roles within the Linux kernel due to all of the noise from the flood of kernel patches resulting fro AI/LLMs...",
-    "guid": "https://www.phoronix.com/news/Lorenzo-Stoakes-AI-Flood",
-    "date": "Nov 10, 2026 12:54",
-    "published_at": "2026-11-10T12:54:35Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": " Linus Torvalds says that AI fixes drove most of the progress in latest Linux kernel ",
-    "link": "https://www.tomshardware.com/software/linux/linus-torvalds-says-that-ai-fixes-drove-most-of-the-progress-in-latest-linux-kernel-bpf-saw-more-ai-written-fixes-than-bug-reports-possibly-indicating-a-tidal-shift-for-open-source-maintainers-tired-of-flood-of-junk-reports",
-    "description": " Linus Torvalds thinks that AI fixes drove most of the progress in Linux kernel 7.4rc2 — BPF saw more AI-written fixes than bug reports, possibly indicating a tidal shift ",
-    "guid": "CufuEUdVbbFCT428KeJ3hM",
-    "date": "Nov 10, 2026 12:40",
-    "published_at": "2026-11-10T12:40:00Z",
-    "image": "https://cdn.mos.cms.futurecdn.net/hGPofATL3kp6DFUFcsTyYd-1920-80.jpg",
-    "source": "tomshardware.com",
-    "source_url": "https://www.tomshardware.com/software/operating-systems/linux"
-  },
-  {
-    "title": "I Tried The Weird New Mini Window Feature in Firefox 160",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369045",
-    "description": "An early version has arrived with Firefox 160, letting you move a tab or a selected part of a page into its own mini window. Does that serve any purpose?",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369045",
-    "date": "Nov 10, 2026 12:35",
-    "published_at": "2026-11-10T12:35:07Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Proton Experimental gets fixes for Phantom Blade Zero, AION 2, The Forest and more",
-    "link": "https://www.gamingonlinux.com/2026/11/proton-experimental-gets-fixes-for-phantom-blade-zero-aion-2-the-forest-and-more/",
-    "description": "Valve released an early update to Proton Experimental to bring fixes for Windows games on Linux / SteamOS including Steam Deck, Steam Machine and Steam Frame.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/11/proton-experimental-gets-fixes-for-phantom-blade-zero-aion-2-the-forest-and-more/",
-    "date": "Nov 10, 2026 12:26",
-    "published_at": "2026-11-10T12:26:54Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1669349062id30165gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
   }
 ]
