@@ -1,5 +1,245 @@
 [
   {
+    "title": "Linus Torvalds Wonders If Linux's AI-Prompted Patch Flood Has Peaked",
+    "link": "https://linux.slashdot.org/story/26/11/14/0827227/linus-torvalds-wonders-if-linuxs-ai-prompted-patch-flood-has-peaked?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "The Register writes that \"The worst of the patchpocalypse may be behind us, according to Linus Torvalds.\" In his weekly kernel update post, Torvalds said Linux 7.4 rc2 was a big release partly because it contained code he'd left out of rc1 because he'd been busy and it was already the largest such release in kernel history. \nBut Torvalds said the other reason rc2 was big was \"various AI fixes.\"\n\n\nSuch fixes are necessary because ever since Anthropic launched its Mythos bug-finding model in April, developers have been able to find more software flaws than was previously possible. Microsoft, for example, addressed a record 974 flaws in September — its third record fixing spree this year after it whacked 622 flaws in July and 206 in June. Oracle addressed 1,449 flaws in a single month. That's many more patches than IT teams are set up to handle, yet they must find ways to deal with bugs more quickly because attackers are increasingly targeting flaws found by AI. \n\nTorvalds' post suggests that, perhaps, the worst of this is behind us. \"This time around Alexei claims that on the bpf side at least the fixes are now coming in faster than the new reports, and that sounds lovely if true,\" he wrote. That's a reference to Alexei Starovoitov, co-creator and lead dev on the Extended Berkeley Packet Filter (eBPF), the project that makes it possible to run sandboxed programs within the Linux kernel. \"I think most other areas haven't reached that point yet, but it's at least a sign that we _may_ be starting to see the tide starting to turn,\" he added. \n\nThe patchpocalypse has already affected Linux kernel developer Lorenzo Stoakes, a principal software engineer at Arm, The Register reported Friday:\nEarlier this week he posted an email to the Linux kernel mailing list to say that he was planning to drop some of his workload. He explained: \"Given the current throughput in the kernel resulting from AI-generated series, I unfortunately lack the bandwidth to generally be able to offer review except in those areas I maintain. [...] Apologies for doing this, but given the current trends I'd like to do something to make my inbox a little more manageable.\"\n \nStoakes told The Register, \"I just want my inbox to be less horrendous. And yeah, AI is part of the reason; in general, it's gone from 'once a week' to 'daily' to 'half of what I see in review'.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 14, 2026 17:00",
+    "published_at": "2026-11-14T17:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Redox OS Gets Golang Working, GIMP Ported \u0026 Simplified AI Policy",
+    "link": "https://www.phoronix.com/news/Redox-OS-Golang-GIMP",
+    "description": "The Rust-based Redox OS open-source operating system is now out with its October development summary that highlights recent software ports, progress on NUMA, and other enhancements made to this from-scratch platform...",
+    "guid": "https://www.phoronix.com/news/Redox-OS-Golang-GIMP",
+    "date": "Nov 14, 2026 16:06",
+    "published_at": "2026-11-14T16:06:43Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Australian STEM Videogame Challenge Canceled Due To AI",
+    "link": "https://news.slashdot.org/story/26/11/14/0417206/australian-stem-videogame-challenge-canceled-due-to-ai?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "PC Gamer reports:\n\nThe Australian STEM Videogame Challenge, a \"free national videogame development competition for students,\" has confirmed that the rise of generative AI means this year's event will be the last...\nSpeculation as to the cause of the program's cancellation focused primarily on the presence of AI in entries: Another self-proclaimed judge said the problem wasn't merely the use of AI in itself but that \"some students just completely generate their games with AI....\" \n\n[T]he Australian Council for Educational Research has confirmed that the cancellation was in fact due to AI.... \"making it harder to judge what students made themselves, and moving the program away from its original purpose.\" \n\nThanks to long-time Slashdot reader neoRUR for sharing the news.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 14, 2026 15:34",
+    "published_at": "2026-11-14T15:34:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Basic Support For The Apple M5 Expected To Land For Linux 7.5",
+    "link": "https://www.phoronix.com/news/Apple-M5-For-Linux-7.5",
+    "description": "Very basic support for the Apple M5 SoC base model is expected to be merged for the Linux 7.5 kernel now that it's been queued into the \"apple-soc/dt-7.5\" Git branch...",
+    "guid": "https://www.phoronix.com/news/Apple-M5-For-Linux-7.5",
+    "date": "Nov 14, 2026 15:33",
+    "published_at": "2026-11-14T15:33:10Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Ubuntu 27.04 “Tenacious T-Rex” Daily Builds Are Now Available for Download",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369203",
+    "description": "As of today, November 14th, 2026, Canonical has published the first daily build ISO images of the upcoming Ubuntu 27.04 (codename Tenacious T-Rex) release for early adopters, application developers, and general public testing.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369203",
+    "date": "Nov 14, 2026 14:42",
+    "published_at": "2026-11-14T14:42:11Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Red Hat Working To Improve Memory Tiering For QEMU VMs To Save RAM",
+    "link": "https://www.phoronix.com/news/QEMU-VM-Memory-Tiering",
+    "description": "Red Hat engineers are working through a few possible approaches to enhance memory tiering for QEMU-based virtual machines to help in conserving memory. Ultimately they are after leveraging NVMe SSDs in more scenarios for QEMU VMs to save on RAM usage given today's sky high memory pricing...",
+    "guid": "https://www.phoronix.com/news/QEMU-VM-Memory-Tiering",
+    "date": "Nov 14, 2026 13:12",
+    "published_at": "2026-11-14T13:12:22Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Manjaro Linux Moves Toward Independent Community Governance",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369179",
+    "description": "Manjaro developers establish a German nonprofit association following months of governance disputes and concerns over project leadership.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369179",
+    "date": "Nov 14, 2026 12:21",
+    "published_at": "2026-11-14T12:21:13Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Open Source’s Anti-AI Sentiment Has Real Reasons, and So Does The Other Side",
+    "link": "https://feed.itsfoss.com/link/24361/17524498/open-source-anti-ai-sentiment",
+    "description": "Critics point to review burden, copyright risk and lost trust, while supporters say clear rules and human accountability make AI workable.",
+    "guid": "6af693a7b0bf2e0001dcaab7",
+    "date": "Nov 14, 2026 11:52",
+    "published_at": "2026-11-14T11:52:00Z",
+    "image": "https://itsfoss.com/content/images/2026/11/ai-opinion-banner.png",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "Intel Begins Linux Kernel Enablement For Coral Rapids \u0026 Razor Lake",
+    "link": "https://www.phoronix.com/news/Linux-Coral-Rapids-Razor-Lake",
+    "description": "Along with Intel posting initial GCC compiler patches for Coral Rapids and Razor Lake processors, the first Linux kernel patch for these future Intel server and desktop/laptop processors have also arrived...",
+    "guid": "https://www.phoronix.com/news/Linux-Coral-Rapids-Razor-Lake",
+    "date": "Nov 14, 2026 11:19",
+    "published_at": "2026-11-14T11:19:30Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Euro-Office is now available on desktop (as Nextcloud Office Desktop)",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369200",
+    "description": "Euro-Office, the Nextcloud-backed fork of ONLYOFFICE, is now available to download and install on desktops, as Nextcloud Office Desktop. Announced in March 2026 as a European-based alternative to Microsoft 365, Euro-Office is a fork of ONLYOFFICE. Like that suite, it’s something users can host (or pay someone to host) and then access via a web browser or mobile. Nextcloud Office Desktop is…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369200",
+    "date": "Nov 14, 2026 11:17",
+    "published_at": "2026-11-14T11:17:04Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Rugged Emdoor Laptops Beginning To See Improved Linux Support",
+    "link": "https://www.phoronix.com/news/Emdoor-Linux-Platform-Driver",
+    "description": "Emdoor that is a leading manufacturer of rugged laptops and tablets used by various industries is beginning to see improved Linux support thanks to a new platform driver being developed...",
+    "guid": "https://www.phoronix.com/news/Emdoor-Linux-Platform-Driver",
+    "date": "Nov 14, 2026 11:03",
+    "published_at": "2026-11-14T11:03:49Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Ex-Nvidia CEO Misled Company Leaders On Affair With Chinese Businesswoman",
+    "link": "https://yro.slashdot.org/story/26/11/14/0211248/ex-nvidia-ceo-misled-company-leaders-on-affair-with-chinese-businesswoman?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from Reuters: Former Nvidia CEO Jensen Huang misled several of the company's leaders, including general counsel Tim Teter and chief marketing officer Alison Wagonfeld, about the nature of his relationship with Chinese businesswoman Alice Huang, with whom he had an affair, according to two people familiar with the matter and internal correspondence reviewed by Reuters. [...] During the autumn of 2025 and in October 2026, in response to press queries that drew some Nvidia leaders' attention to his relationship with Megaspeed and Alice Huang, Huang at both times described their interactions as appropriate, the people said, speaking on the condition of anonymity. Reuters only reviewed messages from the exchanges in October, not the ones from 2025. In two separate messages in October, Huang told Nvidia leaders, including Teter and Wagonfeld, that the interactions reflected standard business dealings with customers. In other messages, Huang affirmed the routine nature of his interactions with Megaspeed.\n \nNvidia's Huang also discussed taking legal action against the New York Times after it published an article in October of last year that drew attention to his meetings in public with Alice Huang, the people said. That article had prompted Jensen Huang to communicate with some Nvidia leaders in 2025 about their interactions, which he did not describe as an affair, the people said. Ultimately, neither Nvidia nor Huang filed a lawsuit against the paper. A spokesperson for the New York Times said the paper received no legal demand. It is unclear when his relationship with Alice Huang became intimate. Photos posted online and verified by Reuters show them together in the US, China and elsewhere, dating as far back as December 2023.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 14, 2026 11:00",
+    "published_at": "2026-11-14T11:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": " Nearly 20 years after launch, ancient AMD Radeon HD 2000 and 3000 GPUs finally get a Linux fix for corrupted video playback ",
+    "link": "https://www.tomshardware.com/software/linux/nearly-20-years-after-launch-ancient-radeon-hd-2000-and-3000-gpus-finally-get-a-linux-fix-for-corrupted-video-playback-ai-helps-squash-a-decades-old-uvd-bug",
+    "description": " A new kernel contributor used AI to develop a patch for the drivers powering his nearly-20-year-old Radeon GPU. ",
+    "guid": "3GX6Ms6KrmcGRJenHj6NYY",
+    "date": "Nov 14, 2026 11:00",
+    "published_at": "2026-11-14T11:00:00Z",
+    "image": "https://cdn.mos.cms.futurecdn.net/hPxrCnciuXxmjC3PZZ3p95-1920-80.jpg",
+    "source": "tomshardware.com",
+    "source_url": "https://www.tomshardware.com/software/operating-systems/linux"
+  },
+  {
+    "title": "KDE Plasma 6.9 Finally Allows XWayland To Run On-Demand, New Wobbly Windows Presets",
+    "link": "https://www.phoronix.com/news/Plasma-6.9-XWayland-On-Demand",
+    "description": "This Week in Plasma is out with its latest issue following a week of exciting developments toward the KDE Plasma 6.9 desktop...",
+    "guid": "https://www.phoronix.com/news/Plasma-6.9-XWayland-On-Demand",
+    "date": "Nov 14, 2026 10:51",
+    "published_at": "2026-11-14T10:51:31Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "FreeBSD 15.2 Beta 2 Delivers Updated OpenSSL, Bug Fixes",
+    "link": "https://www.phoronix.com/news/FreeBSD-15.2-Beta-2",
+    "description": "FreeBSD 15.2 Beta 1 debuted last week for this updated operating system bringing improved laptop/desktop hardware support, experimental cross-building of base packages on Linux and macOS, updated LLVM/Clang compiler, updated OpenZFS file-system support, and other improvements. Released overnight was FreeBSD 15.2 Beta 2...",
+    "guid": "https://www.phoronix.com/news/FreeBSD-15.2-Beta-2",
+    "date": "Nov 14, 2026 10:37",
+    "published_at": "2026-11-14T10:37:55Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Modular GPS smartwatch with STM32 MCU and open-source SDK",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369199",
+    "description": "Pimoroni now lists the UNA Watch, a modular GPS smartwatch built around an open-source software platform and replaceable hardware components. The wearable combines an STMicroelectronics STM32U595 microcontroller, multi-satellite GPS, fitness sensors, and a public C++ SDK for developing custom applications. Originally introduced through a Kickstarter campaign in April 2025, the UNA Watch also…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369199",
+    "date": "Nov 14, 2026 09:58",
+    "published_at": "2026-11-14T09:58:13Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "SteamVR 2.19.3 Beta and SteamOS 0.5.9 Beta for Steam Frame released",
+    "link": "https://www.gamingonlinux.com/2026/11/steamvr-2-19-3-beta-and-steamos-0-5-9-beta-for-steam-frame-released/",
+    "description": "Valve released both SteamVR 2.19.3 Beta for all VR gamers, and SteamOS 0.5.9 Beta for Steam Frame as well. Here's all that's new and improved.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/11/steamvr-2-19-3-beta-and-steamos-0-5-9-beta-for-steam-frame-released/",
+    "date": "Nov 14, 2026 09:38",
+    "published_at": "2026-11-14T09:38:05Z",
+    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/steam-frame-eye_gol2_2fe88a5d.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Proton Experimental fixes ArcheAge Chronicles, Warhammer 40,000: Darktide, Deep Rock Galactic",
+    "link": "https://www.gamingonlinux.com/2026/11/proton-experimental-fixes-archeage-chronicles-warhammer-40-000-darktide-deep-rock-galactic/",
+    "description": "Valve pushed out a small update for Proton Experimental, fixing issues in a few specific games.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/11/proton-experimental-fixes-archeage-chronicles-warhammer-40-000-darktide-deep-rock-galactic/",
+    "date": "Nov 14, 2026 09:21",
+    "published_at": "2026-11-14T09:21:29Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1388343473id30197gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Wine 11.22 brings improved support for ARM64, MSXML and address space randomisation",
+    "link": "https://www.gamingonlinux.com/2026/11/wine-11-22-brings-improved-support-for-arm64-msxml-and-address-space-randomisation/",
+    "description": "The Wine 11.22 development release is out now for this compatibility layer, continuing to bring more improvements to run Windows software on Linux.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/11/wine-11-22-brings-improved-support-for-arm64-msxml-and-address-space-randomisation/",
+    "date": "Nov 14, 2026 09:15",
+    "published_at": "2026-11-14T09:15:18Z",
+    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/wine-generic.jpg",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "SteamOS 3.10.0 Preview brings HDMI 2.1 VRR, FRL, and ALLM for AMD and improvements for NVIDIA",
+    "link": "https://www.gamingonlinux.com/2026/11/steamos-3-10-0-preview-brings-hdmi-2-1-vrr-frl-and-allm-for-amd-and-improvements-for-nvidia/",
+    "description": "Valve released SteamOS 3.10.0 Preview which brings a pretty big set of features, especially if you're on an AMD GPU and now improved NVIDIA support too.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/11/steamos-3-10-0-preview-brings-hdmi-2-1-vrr-frl-and-allm-for-amd-and-improvements-for-nvidia/",
+    "date": "Nov 14, 2026 09:08",
+    "published_at": "2026-11-14T09:08:09Z",
+    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/steam-hardware-family-steamos_gol2_4c8c9b9c.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Open Open and openALT 2026 in Brno",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369194",
+    "description": "This was a busy weekend in Brno! It started on Friday with Open Open and continued on Saturday with openALT 2026. Two events, new partnership opportunities for openSUSE and SUSE, and this time my kids came along too. Open Open 2026, Brno Friday started at 9am with Open Open, an…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369194",
+    "date": "Nov 14, 2026 08:49",
+    "published_at": "2026-11-14T08:49:06Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Amazon's Plan to Index the World's Online Shopping Data",
+    "link": "https://tech.slashdot.org/story/26/11/14/0226222/amazons-plan-to-index-the-worlds-online-shopping-data?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Amazon is considering a \"World Product Graph\" that would index information about products sold across the internet in an effort to keep shoppers and AI agents from turning to Google, Reddit or other sources for product research. The proposed database could also improve Amazon's AI shopping assistant by addressing inaccurate or incomplete answers and allowing it to use cheaper models.\n \n\"Amazon cannot be the go-destination for every shopping mission if customers must leave to research product relationships on Google, brand websites, and review sites,\" according to an internal Amazon document. \"These answers exist, but the only way to find them has been to leave Amazon for painstaking research on brand websites, third party review sites and tech forums.\" Reuters could not determine if or when this plan may be implemented, though the document, written like a press release, has an aspirational future release date of October 1, 2027.\n \nAmazon said in a statement: \"Draft, outdated documents often paint an incomplete picture and the existence of a brainstorming document such as this one doesn't necessarily reflect our current plans. We're constantly working on new ideas and technologies to make Amazon's product catalog comprehensive, accurate, and helpful for customers.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 14, 2026 07:00",
+    "published_at": "2026-11-14T07:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Slim industrial panel PC lineup spans 10.1 to 21.5 inches",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369197",
+    "description": "Cincoze recently expanded its CV-200/P Series of industrial panel PCs with 28 new configurations spanning 10.1-inch to 18.5-inch displays. The additions complement the existing 21.5-inch models, combining Intel Core, N-series, and Atom processors with modular display technology for industrial HMI and automation applications. The lineup includes high-performance CV-200/P2000 models powered by…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369197",
+    "date": "Nov 14, 2026 05:56",
+    "published_at": "2026-11-14T05:56:35Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
     "title": "Installing the official Claude Desktop Linux beta on Fedora Linux",
     "link": "https://lxer.com/module/newswire/ext_link.php?rid=369169",
     "description": "Anthropic ships its Claude Desktop beta for Linux only as a .deb. This article shows how to install that same package on Fedora with a small MIT-licensed script that verifies it first, installs it without root, and removes it cleanly.",
@@ -344,7 +584,7 @@
     "source_url": "https://www.phoronix.com/"
   },
   {
-    "title": "Developer's $300 Embroidery Machine Required a Subscription, So They Built This Open Source Tool",
+    "title": "Developer's $300 Embroidery Machine Required a Subscription, So She Built This Open Source Tool",
     "link": "https://feed.itsfoss.com/link/24361/17523834/zigzag-embroidery-software",
     "description": "ZigZag turns SVG art into stitches, exports five file formats, and can send designs over Bluetooth to an app-controlled Brother embroidery machine.",
     "guid": "6af6df40b0bf2e0001dcb0d5",
@@ -386,17 +626,6 @@
     "source_url": "https://www.phoronix.com/"
   },
   {
-    "title": "FAA Expands AI Advice to Manage Air Traffic Congestion Across Entire US Airspace",
-    "link": "https://slashdot.org/story/26/11/13/027258/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "The FAA is expanding its $875 million AI-powered SMART system to all 22 U.S. air traffic control centers across the country. Since being implemented over Washington, DC, on September 21, the system has helped reroute 180 flights, saving an average of 10 minutes and nearly 80 gallons of fuel per flight. Ars Technica reports: The FAA fact sheet describes SMART as a cloud-based system that combines information about \"weather patterns, flight paths, traffic flow and controller staffing metrics\" to predict air traffic patterns. It is designed to make scheduling recommendations, identify optimal flight routes, and determine the best order of arrivals for aircraft. However, a human team of FAA specialists based in DC is ultimately responsible for validating the SMART system recommendations before passing them along to air traffic control facilities across the country, according to the agency. Furthermore, the AI-powered SMART system \"cannot be used to replace the critical role air traffic controllers play or take over control of an aircraft,\" the FAA clarified in the September 21 announcement about the initial deployment. Local air traffic controllers can decide whether or not to accept the SMART system recommendations.\n \n[...] Following the initial deployment in airspace above DC, the FAA expanded the SMART system's coverage to air route traffic control centers in Atlanta along with Jacksonville and Miami in Florida, according to The Dallas Morning News. The FAA also shared an example with The Dallas Morning News about how SMART recommended a shorter and faster route for a cargo flight arriving at Dallas-Fort Worth International Airport, although the newspaper noted that the agency did not identify the flight involved and has not provided information about how SMART may have assisted passenger flight traffic.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 13, 2026 11:00",
-    "published_at": "2026-11-13T11:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
     "title": "Dasharo ACPI Fan Control Linux Driver Posted For Adjusting Fan Curves",
     "link": "https://www.phoronix.com/news/Dasharo-ACPI-Fan-Control-Driver",
     "description": "The 3mdeb consulting firm that has ported their Coreboot-based open-source firmware stack to the likes of an AMD Ryzen AM5 motherboard from MSI and a Gigabyte EPYC server motherboard, among others, has posted a new Linux kernel driver for supporting fan controls with Dasharo firmware...",
@@ -405,204 +634,5 @@
     "published_at": "2026-11-13T10:51:34Z",
     "source": "phoronix.com",
     "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Massive-scale god sim The Universim gets a big surprise update",
-    "link": "https://www.gamingonlinux.com/2026/11/massive-scale-god-sim-the-universim-gets-a-big-surprise-update/",
-    "description": "Quite a nice surprise, Crytivo actually returned to their original massive-scale god sim The Universim to give it some much needed upgrades.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/11/massive-scale-god-sim-the-universim-gets-a-big-surprise-update/",
-    "date": "Nov 13, 2026 09:25",
-    "published_at": "2026-11-13T09:25:02Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1063568604id30190gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Survival horror Confronted gets a big performance boost ahead of the 1.0 release",
-    "link": "https://www.gamingonlinux.com/2026/11/survival-horror-confronted-gets-a-big-performance-boost-ahead-of-the-1-0-release/",
-    "description": "It's not very well-known but looks worth a go, survival horror Confronted recently had a big performance upgrade to it.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/11/survival-horror-confronted-gets-a-big-performance-boost-ahead-of-the-1-0-release/",
-    "date": "Nov 13, 2026 09:12",
-    "published_at": "2026-11-13T09:12:57Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1427877948id30189gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Unlimited Maid Works is an unusual roguelike about being a maid",
-    "link": "https://www.gamingonlinux.com/2026/11/unlimited-maid-works-is-an-unusual-roguelike-about-being-a-maid/",
-    "description": "Unlimited Maid Works brings the most unusual roguelike where you're a maid, and it actually looks really quite interesting and unique.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/11/unlimited-maid-works-is-an-unusual-roguelike-about-being-a-maid/",
-    "date": "Nov 13, 2026 08:28",
-    "published_at": "2026-11-13T08:28:28Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/788111358id30188gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Professor Layton and the New World of Steam arrives December 9 with Steam Deck support",
-    "link": "https://www.gamingonlinux.com/2026/11/professor-layton-and-the-new-world-of-steam-arrives-december-9-with-steam-deck-support/",
-    "description": "For fans of puzzle mystery adventures, Professor Layton and the New World of Steam is set to arrive on December 9th.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/11/professor-layton-and-the-new-world-of-steam-arrives-december-9-with-steam-deck-support/",
-    "date": "Nov 13, 2026 08:06",
-    "published_at": "2026-11-13T08:06:46Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/876806029id30187gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Fenris Creations (EVE Online / EVE Frontier) reveal the open source CORTAO",
-    "link": "https://www.gamingonlinux.com/2026/11/fenris-creations-eve-online-eve-frontier-reveal-the-open-source-cortao/",
-    "description": "After already open sourcing their Carbon engine framework, Fenris Creations (EVE Online / EVE Frontier) revealed a new rendering technique with CORTAO.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/11/fenris-creations-eve-online-eve-frontier-reveal-the-open-source-cortao/",
-    "date": "Nov 13, 2026 07:59",
-    "published_at": "2026-11-13T07:59:38Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/739500658id30186gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Miniature industrial IoT gateway with dual Gigabit Ethernet and optional Wi-Fi 6, LTE",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369143",
-    "description": "Compulab has detailed its IOT-GATE-IMX8PV2, a fanless industrial IoT gateway powered by NXP’s i.MX8M Plus processor. The small-form-factor system combines dual Gigabit Ethernet, optional Wi-Fi 6 and LTE connectivity, and isolated industrial I/O in a 105 × 80 × 30mm aluminum enclosure. The gateway uses a quad-core Arm Cortex-A53 processor running at up to 1.8GHz,…",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369143",
-    "date": "Nov 13, 2026 07:59",
-    "published_at": "2026-11-13T07:59:01Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "SteamOS 3.9.6 Beta brings an improved framerate limiter, various bug fixes",
-    "link": "https://www.gamingonlinux.com/2026/11/steamos-3-9-6-beta-brings-an-improved-framerate-limiter-various-bug-fixes/",
-    "description": "SteamOS 3.9.6 Beta is now available for testing bringing improvements to the framerate limiter for VRR and non-VRR and multiple bug fixes.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/11/steamos-3-9-6-beta-brings-an-improved-framerate-limiter-various-bug-fixes/",
-    "date": "Nov 13, 2026 07:40",
-    "published_at": "2026-11-13T07:40:32Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/75236754id30185gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Euclid Mission Data Release Spans More Than 900 Million Galaxies",
-    "link": "https://science.slashdot.org/story/26/11/13/0146211/euclid-mission-data-release-spans-more-than-900-million-galaxies?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "The European Space Agency has released the largest dataset yet from its Euclid space telescope, containing 1.7 petabytes of observations covering more than 900 million galaxies. \"The data unveiled on Thursday covered a survey of the sky equal to about 9,500 times the size of the moon as viewed from Earth,\" reports Reuters. \"The mission's goal is to complete the \"largest-ever three-dimensional atlas of the cosmos, spanning more than a third of the sky, in 2031.\" From the report: \"It marks a major milestone for ESA's Euclid mission and for everyone involved,\" said astrophysicist Valeria Pettorino, ESA's Euclid project scientist. Euclid, launched from Florida in 2023, is gathering data on how the universe has expanded and how its structure has formed over time while amassing information about the nature of dark energy and dark matter and the role of gravity on large scales.\n \n\"Euclid will not just take images of galaxies in the sky, in two dimensions, but will also measure their distance, the third dimension. This will tell us where galaxies are in space and time, across 10 billion years, and in all directions beyond our galactic plane,\" Pettorino said. \"Galaxies cluster along filaments, surrounded by empty space, and form a network that we call the cosmic web. Euclid will reconstruct the cosmic web and how it has grown over time. This is important because the exact configuration of the cosmic web, how many clusters or voids are there, how fast it changed, depend on the properties of dark energy and dark matter,\" Pettorino said.\n \n[...] Previous Euclid data releases covered only a few days of observations. The newly released dataset includes more than a year of data and still spans only 14% of the total sky area Euclid is due to survey in visible and near-infrared light over six years. This data release will be completed next year with the first results on dark energy and dark matter.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 13, 2026 07:00",
-    "published_at": "2026-11-13T07:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Google Summer of Code mentor summit 2026",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369164",
-    "description": "Every year, the Google Summer of Code (GSoC) Mentor Summit brings together open source maintainers, community leads, and mentors from across the globe. It is an energizing unconference where the diversity of open source can be touched. This is a unique occasion to share what works (and what doesn’t) across…",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369164",
-    "date": "Nov 13, 2026 06:53",
-    "published_at": "2026-11-13T06:53:41Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Libreboot 26.11 Open-Source BIOS/UEFI Firmware Brings Various Improvements",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369158",
-    "description": "Libreboot 26.11 has been released today as another hefty update to this open-source and free BIOS/UEFI firmware alternative with new features and improvements.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369158",
-    "date": "Nov 13, 2026 05:41",
-    "published_at": "2026-11-13T05:41:56Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "New KORA Linux Distro to Harness the Power of Local AI",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369152",
-    "description": "The development team behind CyanogenMod, Android, and Playtron unveils KORA, a Linux distribution built specifically for AI nerds.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369152",
-    "date": "Nov 13, 2026 04:31",
-    "published_at": "2026-11-13T04:31:57Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "SpaceX To Invest $74 Billion Into Data Center Construction Projects In Texas, Arizona",
-    "link": "https://slashdot.org/story/26/11/13/0121210/spacex-to-invest-74-billion-into-data-center-construction-projects-in-texas-arizona?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "An anonymous reader quotes a report from the Hill: Elon Musk's SpaceX plans to invest more than $74 billion into building two data centers in Texas and Arizona, the company announced Thursday, marketing them as projects that will boost local communities amid backlash surrounding such facilities. \"These investments will expand local tax bases, generate substantial new revenue for schools and public services, and create economic opportunities that extend far beyond the facilities themselves,\" the company said in a release. SpaceX said it will put more than $24 billion into a new project in Texas's Rio Grande Valley, expanding the company's headquarters in Starbase -- a coastal town the tech giant established in 2025 in a previously unincorporated area of Cameron County. In Arizona, SpaceX will invest around $50 billion in Cochise County, a rural area east of Tucson bordering Mexico and New Mexico.\n \nSpaceX pledged the new projects will be created cooperatively with the surrounding communities and will be environmentally conscious. The company said the project in Texas would generate its own power and invest $220 million to expand the water supply in nearby Brownsville. While in Arizona, it vowed to work with local electric cooperatives and \"potentially\" reduce electric bills, saying the site would use dry cooling without water consumption. \"They require strong partnerships with local communities, responsible environmental stewardship, and stable, competitive policies that give companies the confidence to make long-term investments,\" the company said in a release. Both sites promise hundreds of permanent jobs even once construction is complete.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 13, 2026 03:30",
-    "published_at": "2026-11-13T03:30:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "XXRI OS 2.7 Brings Modern Linux for Older Hardware",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369153",
-    "description": "A lightweight Linux newcomer offers a polished desktop, custom apps, and downloads for both 32- and 64-bit PCs.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369153",
-    "date": "Nov 13, 2026 03:14",
-    "published_at": "2026-11-13T03:14:09Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "NVIDIA opens NVKE and NVKR to manage Kubernetes on GPU infrastructure",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369161",
-    "description": "It’s not quite a Kubernetes distro, Nvidia says, but its NVKE and NVKR touch the same turf in a bid to optimize GPU cluster deployments.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369161",
-    "date": "Nov 13, 2026 02:05",
-    "published_at": "2026-11-13T02:05:32Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "OpenAI Codex Helps Uncover \u0026 Fix A Nearly 20 Year Old Radeon Linux Driver Bug",
-    "link": "https://www.phoronix.com/news/Codex-R600-UVD-FIx-Linux-7.5",
-    "description": "Sent out today was the latest batch of AMD kernel graphics/compute driver patches destined for the Linux 7.5 merge window opening up at year's end/ Besides a lot of fixes and continued work around new IP enablement for upcoming GPUs, there is even a fix for old ATI/AMD Radeon R600 era hardware after help from OpenAI's Codex...",
-    "guid": "https://www.phoronix.com/news/Codex-R600-UVD-FIx-Linux-7.5",
-    "date": "Nov 13, 2026 01:41",
-    "published_at": "2026-11-13T01:41:27Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Whoop Launches a Social Network Where Every User Has a 'Verified Heartbeat'",
-    "link": "https://tech.slashdot.org/story/26/11/13/0135237/whoop-launches-a-social-network-where-every-user-has-a-verified-heartbeat?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Whoop has launched Humans, a social network built into its fitness app where every account is a real person with a \"verified heartbeat.\" The wearable company claims its platform is \"entirely human,\" unlike other social media platforms that are \"saturated with artificial intelligence, automated accounts and bots, and manufactured content.\" The Verge reports: Starting Thursday, Whoop members can share their data from its wearables on the app's new Whoop Humans social network. Users can make their metrics, activities, and achievements visible to other Whoop wearers, post Story-like \"Moments\" with photos and captions, and add comments and reactions on other members' posts. [...]\n \nIn the Community tab in Whoop's app, users can scroll through Moments from people they're following, like tapping through your Stories feed on Instagram but with your friends' fitness tracker data. In one of Whoop's examples, swiping up on a user's Moments post with a photo from their run shows a map with their route and details like their pace and distance. The Community tab also shows cards for people in your \"community\" with their sleep, recovery, and strain scores.\n \nWhoop says users choose which activities, achievements, and metrics they want to share on Humans, including Recovery, Strain, Sleep, HRV, and resting heart rate. Any activities marked as sensitive aren't shared by default. There's also an option to keep Moments posts private and a \"Stealth Mode\" for temporarily hiding health and performance data without changing your sharing settings.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 13, 2026 01:40",
-    "published_at": "2026-11-13T01:40:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Running Android apps on Ubuntu is surprisingly easy",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369163",
-    "description": "Ubuntu doesn’t run Android apps and games natively, but Waydroid is an open-source effort that lets you use them – and it’s now really easy to setup on Ubuntu. Earlier this year, Waydroid was packaged in Debian. That put it a simple apt install away on Ubuntu 26.04 LTS and later. No need to add a PPA, find a third-party package or run scripts from Reddit threads. Waydroid runs a containerised…",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369163",
-    "date": "Nov 13, 2026 00:37",
-    "published_at": "2026-11-13T00:37:26Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "XOrg Server 21.1.26 and Xwayland 24.1.15 Are Out to Patch More Security Issues",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369070",
-    "description": "The XOrg Server 21.1.26 and Xwayland 24.1.15 display implementations have been released today, November 10th, 2026, patching multiple security vulnerabilities that could lead to crashes and corrupt memory.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369070",
-    "date": "Nov 12, 2026 23:00",
-    "published_at": "2026-11-12T23:00:04Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Blender 5.3 Is Out with the Vulkan Backend by Default on Linux",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369066",
-    "description": "The Blender Foundation released Blender 5.3 today as the latest stable version of this open-source, free, and cross-platform 3D computer graphics software suite.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369066",
-    "date": "Nov 12, 2026 21:28",
-    "published_at": "2026-11-12T21:28:56Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
   }
 ]
