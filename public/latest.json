@@ -1,5 +1,173 @@
 [
   {
+    "title": "Installing the official Claude Desktop Linux beta on Fedora Linux",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369169",
+    "description": "Anthropic ships its Claude Desktop beta for Linux only as a .deb. This article shows how to install that same package on Fedora with a small MIT-licensed script that verifies it first, installs it without root, and removes it cleanly.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369169",
+    "date": "Nov 14, 2026 04:19",
+    "published_at": "2026-11-14T04:19:08Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Windows 0-Day Dropped By Disgruntled Researcher Hands Hackers System Rights",
+    "link": "https://it.slashdot.org/story/26/11/14/020218/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from Ars Technica: Nightmare Eclipse, the pseudonym of a researcher with an ongoing, very public beef with Microsoft, has dropped yet another Windows zero-day. On Tuesday, Nightmare Eclipse disclosed SignDrop, a vulnerability that gives local users full System rights on some versions of Windows. The vulnerability resides in the Common Log File System, which Microsoft describes as a \"general-purpose logging service used by software clients running in user-mode or kernel-mode.\" By forcing a privileged process such as Windows Defender to open a crafted CLFS container, an attacker with ordinary user rights can abuse the privileged file creation to elevate privileges to System.\n \n[...] Researcher Will Dormann said in an interview that he has been able to reproduce the exploit and that it works as described, but not on all versions of Windows 11. But there's a catch, he said. \"The requirements are important in that it seems to require Windows 26H2, and one that has existed for more than 90 days, it seems,\" he explained. \"That is, you can't just take a new 26H2 system and install updates and have it work.\" For a system to be vulnerable, Dormann said, the HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Services\\CLFS\\Authentication\\Mode\nvalue must be 0 or 1.\" Of the many machines Dormann uses, only a single one met this requirement. Microsoft said in a statement that it was investigating the vulnerability and had no evidence it was being exploited in the wild. The company also said Defender blocks potential exploitation attempts.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 14, 2026 03:30",
+    "published_at": "2026-11-14T03:30:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Planet News Roundup",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369170",
+    "description": "This is a roundup of articles from the openSUSE community listed on planet.opensuse.org. This community blog feed aggregator lists the featured highlights below from Nov. 6 - 12. This week highlights the 2026 Google Summer of Code Mentor Summit, a malware warning about a third-party Plasma wallpaper, the openSUSE News…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369170",
+    "date": "Nov 14, 2026 02:53",
+    "published_at": "2026-11-14T02:53:14Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Beyond AI Applications: How openEuler Is Rethinking the Agentic Infra OS",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369171",
+    "description": "From secure execution and intelligent caching to persistent memory and elastic data services, openEuler is building an infrastructure foundation for large-scale, production-ready AI agents.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369171",
+    "date": "Nov 14, 2026 01:40",
+    "published_at": "2026-11-14T01:40:47Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Wine 11.22 Introduces x86 AVX Emulation On ARM64",
+    "link": "https://www.phoronix.com/news/Wine-11.22-Released",
+    "description": "Wine 11.22 is out today as the latest bi-weekly development release and inching quite closely toward the Wine 12.0 stable release preparations...",
+    "guid": "https://www.phoronix.com/news/Wine-11.22-Released",
+    "date": "Nov 14, 2026 01:35",
+    "published_at": "2026-11-14T01:35:04Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "FAA Lifts Nationwide Ground Stop for All Aircraft [UPDATE]",
+    "link": "https://news.slashdot.org/story/26/11/14/0128254/faa-lifts-nationwide-ground-stop-for-all-aircraft-update?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Longtime Slashdot readers cold fjord and sinij share news that the FAA grounded flights nationwide after a communications failure disrupted air traffic control centers across the country. By Friday evening, the outage had resulted in nearly 5,000 flight cancellations and roughly 10,000 delays, with no timeline for restoring normal operations. Rumors are swirling that this could be related to the FAA's newly deployed SMART AI system or Microsoft's recent global outage, but both the agency and Microsoft said they had no indication that their technology was responsible. Business Insider reports: US Transportation Secretary Sean Duffy said just after 4:15 pm. Eastern time that the nationwide flight traffic halt came \"following a communication issue impacting all Air Route Traffic Control Centers.\" \"FAA technicians are investigating the issue,\" he said in a post on X. The outage comes the same week as the FAA deployed SMART, a new AI tool to help air traffic control. ASI, the company that makes the SMART system for the FAA, said that Friday's issues weren't \"based on or a result of the SMART system, any product of ASI or our integration with FAA and ATC.\"\n \nHomeland Security Secretary Markwayne Mullin said in a press conference Friday, when asked if the AI system might be related to the outage: \"That's what we're looking at.\" Microsoft, which faced massive issues across its services this week, also said that it had \"no indication\" the ground stop was related to any Microsoft services. Meanwhile, the FAA said that the ground stop was due to \"extraordinary circumstances and for reasons of safety.\" UPDATE 1:33 UTC: Secretary Mullin and Secretary Duffy are currently briefing members of the press on the issue.\n \nUPDATE 1:46 UTC: The FAA has lifted the nationwide ground stop after more than four hours. Officials said the disruption appears to have stemmed from a network router issue that cascaded nationwide, with no evidence of a cyberattack or connection to Microsoft's recent outage. Airlines warned that disruptions could continue in Saturday.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 14, 2026 01:30",
+    "published_at": "2026-11-14T01:30:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "SpaceX Falls Short of Historic Double Starship Catch",
+    "link": "https://science.slashdot.org/story/26/11/14/0046259/spacex-falls-short-of-historic-double-starship-catch?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "SpaceX's 15th Starship test flight successfully reached orbit Friday, but its historic attempt to catch both stages at the launch tower was derailed when the Super Heavy booster malfunctioned, forcing controllers to abort its return before it exploded after splashing down in the Gulf of Mexico. The upper-stage Starship did, however, successfully deploy 26 Starlink satellites and is scheduled to complete 15 orbits before attempting an unprecedented tower catch on Saturday. If successful, it would mark the first time a spacecraft has returned from orbit to land vertically at a launch tower. The Bakersfield Californian reports: The original goal was to retrieve every single piece of the rocket for the purpose of future recycling, something yet to be achieved anywhere in the world. Musk sees this leading to the kind of fast and consistent launch rates necessary for building moon bases and sending people to Mars. Shortly after reaching orbit, Starship dropped off 26 of the company's most advanced Starlink satellites. The plan is for Starship to complete 15 laps around the world at an altitude of around 170 miles (275 kilometers) before heading back to the launch site for Saturday's grand finale.\n \nSpaceX had already made three booster grabs at the company's sprawling Starbase near the U.S.-Mexico border. That made Friday's miss all the more surprising. \"Well, that certainly isn't the news that we had hoped to hear for today,\" observed SpaceX launch commentator Kate Tice, adding that it was in line with the many rigorous safety checks to protect the pad. No explanation was provided for what went wrong. This was the first attempt to capture the upgraded version of the booster that stretches 236 feet (72 meters) -- the production model for moon and Mars expeditions. It will also be the first time the company attempts to catch the spacecraft, which spans 171 feet (52 meters). Together, they form the world's biggest and most powerful rocket -- an astounding 407 feet (124 meters) in height.\n \nThe spacecraft portion of the 14 previous Starships ended up in the ocean, either by design at flight's end or by accident in a stream of flaming wreckage. During the first full-scale test flight in 2023, multiple engines failed to ignite and the tumbling rocket's self-destruct system was activated. The last test, in September, was the first to reach orbit, but SpaceX did not try to recover any of the rocket stages. You can watch a recorded livestream of the launch on YouTube.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 14, 2026 01:00",
+    "published_at": "2026-11-14T01:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "From desktop to cloud to road",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369173",
+    "description": "In an era where software defines vehicle value, engineering teams face a friction bottleneck. They spend hours fighting dependency conflicts, toolchain mismatches, and integration failures instead of writing vehicle features. As vehicles effectively become data centers, teams waste hours resolving dependency conflicts across desktop workstations, cloud, and physical targets. This article explores…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369173",
+    "date": "Nov 14, 2026 00:31",
+    "published_at": "2026-11-14T00:31:20Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Linus Torvalds Says AI-Assisted Linux Kernel Fixes Are Becoming the Norm",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369177",
+    "description": "Linux kernel 7.4-rc2 includes numerous AI-assisted fixes, as Torvalds highlights encouraging progress in reducing kernel bugs.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369177",
+    "date": "Nov 13, 2026 23:11",
+    "published_at": "2026-11-13T23:11:28Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Lego's BrickLink Marketplace Back Online After Week-Long Outage Caused By 'Cyber Incident'",
+    "link": "https://tech.slashdot.org/story/26/11/13/2053209/legos-bricklink-marketplace-back-online-after-week-long-outage-caused-by-cyber-incident?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "LEGO's BrickLink marketplace is back online after a week-long outage caused by what the company described as a \"cyber incident,\" during which an unauthorized third party accessed some user data. Details about exactly what data was accessed remain unclear. The site went offline on November 5 and remained unavailable until November 12, preventing users from buying or selling LEGO sets and parts during the busy holiday shopping season. According to Brick Fanatics, LEGO initially described the outage as \"necessary work\" before confirming that the platform had suffered a security incident.\n \nIn an email to users, LEGO acknowledged that \"some of the information associated with your account was accessed and disclosed by an unauthorized party,\" including potentially usernames and IP addresses. However, the company insisted that \"your password, postal address, and financial information were not disclosed.\" Those assurances have since come under scrutiny following reports of convincing phishing emails containing detailed personal and purchase information.\n \nThe outage also dealt a significant blow to independent sellers who rely on BrickLink for income. Simon Webster, who operates stores on both BrickLink and rival marketplace Brick Owl, reported that his overall sales revenue fell 52% over a four-day period, even as sales through Brick Owl rose 79%. \"Their comms are amateur at the best of times, but surely they should be able to send an email to let sellers and buyers alike know what is happening and what they're doing to rectify it,\" Webster said. \"But no, we're all left in the dark.\"\n \nThe incident has renewed concerns about BrickLink's aging infrastructure. Founded in 2000 and acquired by LEGO in 2019, the marketplace reportedly runs on a complex collection of interconnected systems that makes modernization difficult. The Brick Fanatics report questions whether the 25-year-old platform remains fit for purpose and whether prolonged outages and security concerns could push sellers toward competing marketplaces like Brick Owl.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 13, 2026 23:00",
+    "published_at": "2026-11-13T23:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Slax Linux Makes a Comeback",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369183",
+    "description": "Slax now runs on Debian 13 with a built-in AI assistant, and it can boot with Secure Boot on compatible PCs.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369183",
+    "date": "Nov 13, 2026 22:04",
+    "published_at": "2026-11-13T22:04:35Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "US Seizes $1.2 Billion In Crypto Stolen From Binance",
+    "link": "https://news.slashdot.org/story/26/11/13/2039242/us-seizes-12-billion-in-crypto-stolen-from-binance?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "U.S. authorities have seized or restrained more than $1.2 billion in cryptocurrency stolen during Binance's $6 billion October hack, which the FBI attributes to North Korean military-linked hackers known as \"TraderTraitor.\" The DOJ also said it disrupted infrastructure behind the \"FaceStealer\" deepfake scam, blamed for stealing more than $400 million in cryptocurrency. CNBC reports: Collective efforts between the U.S. government and private sector have resulted in more than $2.7 billion of that amount being frozen. [...] The DOJ said it was taking coordinated action against what it called the North Korean government's \"schemes to fund its regime through the massive theft of cryptocurrency.\" That includes \"the court-authorized seizure and restraint of more than $1.2 billion worth of cryptocurrency recently stolen from Binance,\" it said. DOJ units, law enforcement partners and virtual asset service providers have been working to intercept the stolen assets. But efforts to track and freeze the assets are ongoing, as TraderTraitor actors continue to launder them through various cryptocurrency channels.\n \nAuthorities have also seized cloud-based infrastructure used in a massive identity impersonation scam known as \"FaceStealer,\" which has seen more than $400 million worth of cryptocurrency stolen over 18 months, the DOJ said. The scheme sees hackers set up fake video meetings using stolen accounts and recordings of people known to the target by using AI-generated deepfakes. The hackers then say a technical problem requires a fix, install malware on a computer and take over the victim's communications, steal their cryptocurrency and target their contacts -- sometimes months or more than a year after the initial compromise.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 13, 2026 22:00",
+    "published_at": "2026-11-13T22:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Cloudflare Open Sources Kitesurf: Their Web Browser For AI Agents",
+    "link": "https://www.phoronix.com/news/Cloudflare-Kitesurf-Open-Source",
+    "description": "Earlier this year Cloudflare announced Kitesurf as a stateless web browser for AI agents. After building out its features, they have now made good on their word to open-source it...",
+    "guid": "https://www.phoronix.com/news/Cloudflare-Kitesurf-Open-Source",
+    "date": "Nov 13, 2026 21:07",
+    "published_at": "2026-11-13T21:07:09Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Mozilla to Shut Down Solo, Deleting Users' Websites and Data",
+    "link": "https://tech.slashdot.org/story/26/11/13/2033218/mozilla-to-shut-down-solo-deleting-users-websites-and-data?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Mozilla is shutting down Solo, its AI-powered website builder and hosting service, on November 30. A notice on the Soloist.ai homepage reads: \"We've made the difficult decision to close Solo. We have appreciated all of your support building and growing this product, and the feedback we've received from all of you. Solo will cease operations on Nov 30, 2026.\" The Register reports: Mozilla launched Solo in December 2023 as a \"Mozilla Innovation Project,\" aimed at helping sole traders to build themselves a webpage for their services. Some 54,000 people used its LLM to build pages, and relied on Mozilla to host them -- complete with custom domain names. Users now have just over two weeks left to find a new home for their pages, although Mozilla says it first notified them on October 1. According to the support FAQ, users can download a ZIP containing an HTML export, contact form and newsletter submissions, and a CSV linking to their images. The images themselves must be downloaded separately. Domains purchased through Solo Domains must also be moved to Name.com, with Mozilla handling the transfer after users create an account and supply its code.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 13, 2026 21:00",
+    "published_at": "2026-11-13T21:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Microsoft's Global Outage May Be Worse Than Amazon's Or Crowdstrike's, Expert Says",
+    "link": "https://tech.slashdot.org/story/26/11/13/1936221/microsofts-global-outage-may-be-worse-than-amazons-or-crowdstrikes-expert-says?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from Ars Technica: A global outage taking down a wide range of Microsoft 365 services remains ongoing Friday morning. The outage started midday Thursday, impacting users of Microsoft email, cloud, and AI services. Microsoft has documented the full list of services impacted by the error, while moving early Friday morning to protect customers around the world from losing emails during the extended disruptions. \"Recovery actions are ongoing,\" the Microsoft 365 Status account confirmed on X. \"To help preserve delayed mail during this event, we've extended email timeout to 48 hours.\"\n \nSimilar to recent world-shaking outages of widely used tech like Amazon Web Services and CrowdStrike, the Microsoft disruption looks like \"one of the biggest outages of all time,\" Ciaran Martin, the former head of the UK's National Cyber Security Centre, told NBC News. Possibly even \"worse,\" he suggested.\n \nBusinesses, hospitals, police departments, and schools were among those scrambling to work around the outage. In Japan, it disrupted government IT infrastructure, according to deputy chief cabinet secretary Masanao Ozaki. NBC's report documented various harms, noting that \"few public bodies were immune from the outage.\" In some cases, doctors couldn't send patients \"important\" updates on medication changes or follow-up care. The financial sector suffered, too, with people blocked from making bank transfers since they couldn't receive verification codes.\n \nJustice systems were also hobbled. The Supreme Court in the Philippines saw its legal work derailed, NBC reported. And one US sheriff's office in Colorado reported that the outage made it difficult for people to post bond for prisoners' immediate release. It's unclear how many users were affected, but Microsoft estimated in January that the total number of paid Microsoft 365 commercial subscriptions exceeded 450 million. Microsoft's most recent updates confirmed that it's seeing \"broader improvements in North America, sustained improvements across much of Europe, and encouraging recovery signals in Asia Pacific.\"\n \n\"Some users may still experience intermittent access issues or delayed email delivery as mitigation continues across remaining affected infrastructure,\" Microsoft said. \"Our focus remains on stabilizing recovered infrastructure, completing mitigation in remaining impacted areas, and reducing delayed email queues and backlogs while we validate service consistency across connection methods.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 13, 2026 20:00",
+    "published_at": "2026-11-13T20:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "ChatGPT's New Wallet Lets AI Agents Shop For You",
+    "link": "https://news.slashdot.org/story/26/11/13/1911210/chatgpts-new-wallet-lets-ai-agents-shop-for-you?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "OpenAI has launched ChatGPT Wallet, a feature that lets its Dots AI agents help users choose products and complete purchases on their behalf. TechCrunch reports: The option will initially be available to a limited number of U.S. ChatGPT Pro subscribers, ages 18 and up, with a U.S.-issued Visa, Mastercard, or American Express. OpenAI says that users are fully in control of the purchases, as they're able to review the items, the total, and the payment card that will be used to complete the transaction before the checkout occurs. In addition, users will approve the purchases directly with a security check like Face ID or a fingerprint, which creates a record of their transaction. [...] The company notes that customers who shop via their dots will still be able to earn their credit card rewards and be able to take advantage of protections that typically come with cards, like being able to dispute transactions.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 13, 2026 19:12",
+    "published_at": "2026-11-13T19:12:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
     "title": "AMD openSIL Achieves Its Production Goal With 6th Gen EPYC \"Venice\"",
     "link": "https://www.phoronix.com/news/AMD-openSIL-Venice-Goal",
     "description": "Since 2023 I and many open-source advocates have been very eager for AMD's openSIL project for delivering open-source CPU silicon initialization as a replacement to the traditional AGESA code. With Zen 5 there was proof-of-concept support that we have enjoyed with Coreboot on an MSI Ryzen motherboard and a Gigabyte EPYC server motherboard thanks to the Coreboot-based Dasharo ports by 3mdeb. The goal for production readiness was for Zen 6, but with this week's EPYC 9006 SP7 announcement the openSIL topic wasn't touched on. So I asked around...",
@@ -102,17 +270,6 @@
     "published_at": "2026-11-13T15:26:14Z",
     "source": "phoronix.com",
     "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Slax Linux Makes a Comeback",
-    "link": "https://feed.itsfoss.com/link/24361/17523951/slax-linux-returns",
-    "description": "Slax now runs on Debian 13 with a built-in AI assistant, and it can boot with Secure Boot on compatible PCs.",
-    "guid": "6af6b8ccb0bf2e0001dcad89",
-    "date": "Nov 13, 2026 14:51",
-    "published_at": "2026-11-13T14:51:00Z",
-    "image": "https://itsfoss.com/content/images/2026/11/slax-return-banner.png",
-    "source": "itsfoss.com",
-    "source_url": "https://itsfoss.com/"
   },
   {
     "title": "AMD AOCL 6.0 Introduces New RNG Library, Initial Zen 6 CPU Optimizations",
@@ -248,17 +405,6 @@
     "published_at": "2026-11-13T10:51:34Z",
     "source": "phoronix.com",
     "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Beyond AI Applications: How openEuler Is Rethinking the Agentic Infra OS",
-    "link": "https://feed.itsfoss.com/link/24361/17523787/openeuler-agentic-infra-os",
-    "description": "From secure execution and intelligent caching to persistent memory and elastic data services, openEuler is building an infrastructure foundation for large-scale, production-ready AI agents.",
-    "guid": "6af6dc60b0bf2e0001dcb071",
-    "date": "Nov 13, 2026 10:30",
-    "published_at": "2026-11-13T10:30:23Z",
-    "image": "https://itsfoss.com/content/images/2026/11/open-euler-agentic-infra-os-1-.webp",
-    "source": "itsfoss.com",
-    "source_url": "https://itsfoss.com/"
   },
   {
     "title": "Massive-scale god sim The Universim gets a big surprise update",
@@ -450,364 +596,12 @@
     "source_url": "https://lxer.com/"
   },
   {
-    "title": "Nintendo Takes Down Switch Emulators, Mod Chip Firmware in Massive GitHub DMCA Sweep",
-    "link": "https://games.slashdot.org/story/26/11/12/212237/nintendo-takes-down-switch-emulators-mod-chip-firmware-in-massive-github-dmca-sweep?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Nintendo has issued four DMCA takedown notices targeting two Nintendo Switch emulators, Yuzu and Citron Neo, along with mod chip firmware such as Picofly, SX Core and HWFLY. As a result, 144 repositories containing firmware used to circumvent the console's copy protections have been removed by GitHub and replaced by a DMCA takedown notice. IGN reports: GitHub has posted Nintendo's November 6 DMCA notice, which says, \"The Nintendo Switch console and video games contain technological protection measures ('TPMs') that permit the Nintendo Switch console to interact only with legitimate Nintendo video game files. This process protects Nintendo's copyright-protected video games, (...) by preventing users from playing pirated copies of Nintendo's video games on the Nintendo Switch console and by preventing users from unlawfully copying and playing Nintendo's video games on unauthorized devices.\"\n \nHowever, while this takedown has effectively wiped out a ton of repositories with mod chip firmware, it seems like it's still being hosted elsewhere on the site, according to TorrentFreak. It's possible, though, that Nintendo isn't finished yet; back in 2024, Nintendo effectively took down 8,500 copies of Yuzu by issuing a takedown that targeted 12 different mirrors of the emulator. This particular takedown also comes a few days after emulators were able to run the remake of The Legend of Zelda: Ocarina of Time on PC, so this could be a sign that Nintendo is winding up its lawyers to crack down on emulation once again.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 12, 2026 23:00",
-    "published_at": "2026-11-12T23:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Former Nvidia CEO Jensen Huang Had a Relationship With a Second Employee",
-    "link": "https://slashdot.org/story/26/11/12/2141213/former-nvidia-ceo-jensen-huang-had-a-relationship-with-a-second-employee?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Reuters reports that former Nvidia CEO Jensen Huang had an intimate relationship with a third woman (source paywalled; alternative source ), an unnamed Nvidia employee. The revelation follows reports of two other extramarital affairs: one with Nvidia VP Kimberly Powell and another with Alice Huang, whom U.S. intelligence reportedly suspects of being a Chinese spy. The latter relationship has also prompted a shareholder lawsuit alleging Nvidia misled investors about its ties to a company suspected of circumventing U.S. chip export restrictions. Jensen Huang has since resigned as Nvidia's CEO and stepped down from its board on Thursday. CFO Colette Kress has been appointed interim CEO while the company searches for a permanent successor.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 12, 2026 22:00",
-    "published_at": "2026-11-12T22:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
     "title": "Blender 5.3 Is Out with the Vulkan Backend by Default on Linux",
     "link": "https://lxer.com/module/newswire/ext_link.php?rid=369066",
     "description": "The Blender Foundation released Blender 5.3 today as the latest stable version of this open-source, free, and cross-platform 3D computer graphics software suite.",
     "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369066",
     "date": "Nov 12, 2026 21:28",
     "published_at": "2026-11-12T21:28:56Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Singapore Says US Not Helpful On Investigation Into Suspected Spy's Company",
-    "link": "https://news.slashdot.org/story/26/11/12/1948204/singapore-says-us-not-helpful-on-investigation-into-suspected-spys-company?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Singapore says U.S. authorities provided limited assistance in its investigation of Megaspeed, the company run by Alice Huang, the Chinese businesswoman whom U.S. intelligence suspects is a Chinese spy and whose relationship with Nvidia CEO Jensen Huang has drawn scrutiny. According to Singapore, authorities held Alice Huang's passport from June 2025 until February while investigating \"potential false declarations,\" but ultimately released her with a \"stern warning\" and barred her from re-entering the country. The New York Times reports: The statement raises new questions about the response of the Trump administration to the case and why the U.S. government did not more forcefully intervene. According to the timeline in the statement, Singaporean authorities had been holding Ms. Huang's passport well after President Trump was briefed last fall about her relationship with Nvidia's chief executive and the belief that she was a Chinese intelligence asset. The New York Times has reported that Taiwan began monitoring Ms. Huang in 2024 at the guidance of the U.S. government.\n \nIn its statement, Singapore said that it had sought information from an American server maker and close Nvidia business partner, Supermicro, but that the company had provided \"limited cooperation.\" Supermicro, a firm that packages Nvidia's A.I. chips onto servers that can be used in data centers, has been at the center of a number of chip smuggling investigations across the globe. Supermicro was a supplier to Megaspeed, a company incorporated in Singapore and run by Ms. Huang, according to two people with knowledge of the matter.\n \nSingapore said in the statement its authorities raised Supermicro's \"limited cooperation\" with the U.S. Department of Justice and Federal Bureau of Investigation in July 2025 and \"requested their assistance in securing the company's cooperation.\" \"Despite these repeated requests, Singapore has to date received limited information or assistance in respect of the company,\" the statement said.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 12, 2026 21:00",
-    "published_at": "2026-11-12T21:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Microsoft Outlook Goes Down Nationwide [UPDATE]",
-    "link": "https://tech.slashdot.org/story/26/11/12/1959220/microsoft-outlook-goes-down-nationwide-update?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Microsoft is suffering a major Microsoft 365 outage that's disrupting Outlook, Teams, Copilot and SharePoint for users across the Americas, with more than 129,000 problem reports logged on Downdetector shortly after the disruption began. Microsoft blames the connectivity problems on an unexpectedly large number of unavailable servers that overloaded the remaining infrastructure. The company says it's redistributing traffic and restarting affected systems. From a report: Microsoft was not providing an estimated time by which it expects service to return. Both individual Outlook users and those on enterprise accounts experienced problems logging in to the service. The outage also affected other Microsoft services, including Microsoft Teams, the Copilot 365 AI service and SharePoint Online. \"Users may be unable to connect to multiple Microsoft 365 services,\" the company said on its Service Health Status page. \nUPDATE 11/12/26, 19:50 UTC: From Microsoft 365 Status: \"We're testing a configuration change to address a problem that's causing servers to fail automated health checks and become unavailable. In parallel, we've initiated a restart of all affected servers and are monitoring health as they return to service. More info under EX1550543 and MO1550821 in the Microsoft 365 admin center, as well as http://status.cloud.microsoft if the admin center is not available to you.\" \nUPDATE 11/12/26, 20:19 UTC: From Microsoft 365 Status: \"We've not identified any recent change correlated with the start of impact; however, our investigation indicates the failed health checks may originate from a specific component that's responsible for processing server health. We've taken steps to prevent additional servers from being impacted while we work to return the affected servers to service. More info under EX1550543 and MO1550821 in the Microsoft 365 admin center, as well as http://status.cloud.microsoft if the admin center is not available to you.\n \nUPDATE 11/12/26, 20:29 UTC: \"According to https://downdetector.com/, much of the major services are down,\" writes Slashdot reader xocmot2. \"AWS, Microsoft, Meta, on and on. Clearly not a Microsoft thing.\"\n \nUPDATE 11/12/26, 6:17 UTC: Microsoft is still struggling to resolve the outage, which is confirmed to be global with disruptions reported across 74 countries and territories. The outage has disrupted businesses and government services in countries including Japan, Singapore, India, and Australia, while OpenAI and Anthropic have also reported related problems.\n \nMicrosoft says its recovery efforts have produced some improvements, but the fixes are not delivering \"sustained recovery.\" Microsoft has ruled out a cybersecurity incident, and experts warn that the prolonged disruption could result in significant economic losses. \nDeveloping...\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 12, 2026 20:00",
-    "published_at": "2026-11-12T20:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "AMD EPYC 9686F Linux Benchmarks: 96 Zen 6 Cores At Up To 5.3GHz",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369062",
-    "description": "In addition to the AMD EPYC 9996 256-core CPU benchmarks out today in that dual socket configuration for a combined 512 cores / 1024 threads flagship Zen 6C server configuration, also tested recently at Phoronix was the EPYC 9686F part. The AMD EPYC 9686F is their new high-frequency Zen 6 part that features 96 cores / 192 threads at a boost clock of 5.3GHz! When the AMD EPYC 9686F they originally…",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369062",
-    "date": "Nov 12, 2026 19:55",
-    "published_at": "2026-11-12T19:55:14Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Rust 1.100.0 released",
-    "link": "https://lwn.net/Articles/1107187/",
-    "description": "Version\n1.100.0 of the Rust language has been released. Notable changes include the\nstabilization of the never type,\ncore parts of the Allocator API, reporting of unused dependencies in\nCargo, and more.\n\n",
-    "guid": "https://lwn.net/Articles/1107187/",
-    "date": "Nov 12, 2026 19:09",
-    "published_at": "2026-11-12T19:09:19Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "Google Pushes Privacy Angle As Gemini-Powered Smartglasses Debut",
-    "link": "https://yro.slashdot.org/story/26/11/12/1831251/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Google is launching its first Gemini-powered smart glasses, with Samsung supplying the computing hardware. Given their built-in 12-megapixel camera, Google is emphasizing privacy protections, including a tamper-resistant recording light, automatic face redaction, and restrictions on real-time facial recognition and livestreaming. The company also promises not to use captured photos or videos for AI training or targeted advertising. Ars Technica reports: Google says the frames all weigh about 41 grams, which is not terrible but is definitely near the top for glasses generally. They will, naturally, weigh much more when you account for lenses. That will also determine the final pricing. So far, we only have the starting prices for these devices, including non-prescription lenses.\n \nThe setup here is similar to the Ray-Ban Meta glasses we've seen for a few years. There are no screens in the lenses, but you can interact with the AI system via voice or by activating the integrated camera. The experience should be similar to using Gemini Live on your phone, but it will be a lot easier to fire up the AI. You can say \"Hey Gemini\" or tap a touch-sensitive area of the frame to start interacting with the robot.\n \nSince this is the same chatbot that operates across the Google ecosystem, it has access to your data and preferences. You can ask questions and get personalized answers, have Google Maps guide you by voice, or just talk with the AI to kill time. The glasses use custom open-ear speakers to limit distractions for those around you. Google notes the directional microphones should not pick up speech from other people, either.\n \nAdding the camera feed is where things get interesting. When the AI can see what you see, it has the potential to do more work on your behalf. Google suggests asking Gemini for recommendations when looking at a bookshelf or glancing at an event poster to have the AI add it to your calendar. The glasses will also support Gemini Guided Vision, which provides conversational audio descriptions for people who are visually impaired. The new frames are available for preorder today starting at $395.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 12, 2026 19:00",
-    "published_at": "2026-11-12T19:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Rust 1.100 Released With The \"Never\" Type Finally Stable",
-    "link": "https://www.phoronix.com/news/Rust-1.100-Released",
-    "description": "Rust 1.100 is out today as the newest version of this popular programming language...",
-    "guid": "https://www.phoronix.com/news/Rust-1.100-Released",
-    "date": "Nov 12, 2026 18:51",
-    "published_at": "2026-11-12T18:51:12Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Noctalia 5.5 Wayland Shell Adds New Window Switcher Layouts",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369129",
-    "description": "Noctalia 5.5 is out with new window switcher layouts, customizable widgets, improved screenshots, and numerous fixes.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369129",
-    "date": "Nov 12, 2026 18:27",
-    "published_at": "2026-11-12T18:27:20Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Iconic First Image of Black Hole Holds Up To Scrutiny",
-    "link": "https://science.slashdot.org/story/26/11/12/0312210/iconic-first-image-of-black-hole-holds-up-to-scrutiny?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "An anonymous reader quotes a report from The Conversation: On April 10 2019, the Event Horizon Telescope (EHT) Collaboration revealed the first picture of a black hole. The object is at the centre of a galaxy known as M87, about 55 million light-years away. The iconic ring structure instantly became one of the most recognized scientific images of the modern era. It showed a black hole \"shadow\" outlined by light from swirling hot gas -- just as predicted by Einstein's theory of general relativity. The result supported the long-standing idea that the centers of galaxies house supermassive black holes. However, scientists have since had some disagreements on whether the details and structure of the ring in the original publication were accurate. Our new research, published today in Nature, used new techniques to investigate the original datasets. Not only do our results validate the original work, but they also provide a fresh perspective on the ring structure. Our independent results enhance confidence in one of the most significant modern scientific results. And we bring the image of a black hole millions of light-years away back into focus.\n \n[...] When compared directly to images from the EHT collaboration, our result is consistent in diameter and overall orientation. Naturally, there are some differences in the fine details of ring width and surface brightness along the circumference, but the overall structure matches. This provides a fresh perspective on the iconic black hole ring while also resolving previous discrepancies. To prove this success didn't depend solely on advanced machine learning, we also developed a complementary imaging method based on traditional statistical techniques. This entirely different method also validated our structure using the new closure invariant data we produced. Overall, our work delivers a strong independent validation of the supermassive black hole structure at the centre of galaxy M87. And it could do more in the future. Our technique could also be useful in other situations where data from multiple sensors are combined to map unknown structures -- such as medical imaging or mapping earthquakes.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 12, 2026 18:00",
-    "published_at": "2026-11-12T18:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely",
-    "link": "https://apache.slashdot.org/story/26/11/12/073240/critical-apache-http2-flaw-could-let-unauthenticated-attackers-execute-code-remotely?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "A critical flaw in Apache HTTP Server's HTTP/2 module could allow unauthenticated attackers to remotely execute code and potentially take control of affected server processes. Tracked as CVE-2026-119618, the vulnerability affects Apache HTTP Server 2.4.55 through 2.4.70 when HTTP/2 is enabled and is fixed in version 2.4.71. The Hacker News reports: The vendor's assessment, published yesterday, also says \"public research has demonstrated a reliable exploit\" against a server in its default configuration with mod_http2 enabled. It does not name or link that research. Security company Wiz said later that day that no exploit was available and that no exploitation in the wild had been reported.\n \nHTTP/2 runs only where the Protocols directive turns it on, as the module documentation explains. The directive uses h2 for HTTP/2 over TLS and h2c for HTTP/2 over plain TCP. It can be set for the whole server or for a single virtual host, so admins should check the server-wide setting and every virtual host.\n \nStandalone builds of the module, released on GitHub as mod_h2, are affected from version 2.0.8 through 2.0.42. Admins who run the Apache HTTP Server project's own releases should move to version 2.4.71, the fixed release named in its security advisory. That release also fixes a crash in mod_md, rated important, and a one-byte overwrite of stack memory in mod_vhost_alias, rated low.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 12, 2026 17:00",
-    "published_at": "2026-11-12T17:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Agent Name Service is Now Part of The Linux Foundation",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369132",
-    "description": "ANS lets AI agents prove who they are, much like a domain name and its certificate do for a website.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369132",
-    "date": "Nov 12, 2026 16:55",
-    "published_at": "2026-11-12T16:55:03Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Chill in some idle games with the new Fanatical Idler Bundle",
-    "link": "https://www.gamingonlinux.com/2026/11/chill-in-some-idle-games-with-the-new-fanatical-idler-bundle/",
-    "description": "Idle and clicker games have exploded in popularity over the last year - so here's your chance to experience some for cheaps.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/11/chill-in-some-idle-games-with-the-new-fanatical-idler-bundle/",
-    "date": "Nov 12, 2026 16:42",
-    "published_at": "2026-11-12T16:42:29Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/875855347id30184gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "AMD Zen 6 SMT Proves Very Advantageous Even For 256 Core EPYC 9996",
-    "link": "https://www.phoronix.com/review/amd-epyc-zen6-smt",
-    "description": "With the now-shipping AMD EPYC 9006 \"Venice\" SP7 server processors sporting up to 256 Zen 6(C) cores per socket, or 512 cores in a 2P configuration, you may be wondering if Simultaneous Multithreading (SMT) is still worthwhile on these increasingly high core count processors. Long story short, SMT on AMD Zen 6 is still definitely worthwhile from a performance and power perspective. I was curious myself and ran some benchmarks to explore the SMT impact on the 256-core EPYC 9996 as well as the 96-core high frequency EPYC 9686F processors.",
-    "guid": "https://www.phoronix.com/review/amd-epyc-zen6-smt",
-    "date": "Nov 12, 2026 16:40",
-    "published_at": "2026-11-12T16:40:00Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Glasswing overwhelms maintainers with underwhelming findings (VulnCheck)",
-    "link": "https://lwn.net/Articles/1107173/",
-    "description": "Patrick Garrity of VulnCheck has written a blog\npost that looks at vulnerabilities found by Anthropic's Project Glasswing since it\nlaunched on April 7, and finds it wanting:\n\n\nOf the 37,966 findings Anthropic reports, only 7,349 (19.4%) have been made\npublic. Just 217 of those have been marked fixed. The more glaring number is\nthat 4.4% (1,654) of the project's findings have already been marked as\nduplicates, 7.5x more duplicates than fixes. On top of that, 419 findings have\nbeen withdrawn. It seems odd that the ledger now claims a 94.2% true positive\nrate, up from 90.8% at launch, when more findings have been withdrawn or marked\nas duplicates than fixed, likely a feedback loop missing to the triage rates\nlisted as \"True Positives\".\n\n[...] AI is a valuable tool for finding vulnerabilities, and I'm not\ndiscounting that. But seven months in, the evidence still doesn't match the\nlaunch narrative. The CVEs are a sliver of this year's total, almost none are\nbeing exploited, fixes have stalled while duplicates and withdrawals pile up,\nand the triage burden is shifting onto the open source maintainers Glasswing\npromised to help. The receipts keep coming in. They still don't reconcile.\n",
-    "guid": "https://lwn.net/Articles/1107173/",
-    "date": "Nov 12, 2026 16:26",
-    "published_at": "2026-11-12T16:26:09Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "PostgreSQL Sees New Releases For 52 Security Vulnerabilities, 140+ Bug Fixes",
-    "link": "https://www.phoronix.com/news/PostgreSQL-52-CVEs",
-    "description": "PostgreSQL 18.7, 17.12, 16.16, 15.20, 14.25, and 19 RC2 all released today due to 52 new security issues being disclosed...",
-    "guid": "https://www.phoronix.com/news/PostgreSQL-52-CVEs",
-    "date": "Nov 12, 2026 15:56",
-    "published_at": "2026-11-12T15:56:44Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "TLP 1.11 Linux Power-Management Tool Improves Laptop Power Profiles",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369124",
-    "description": "TLP 1.11 enhances Linux laptop power management with improved firmware profiles, expanded power-saving options, and hardware compatibility fixes.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369124",
-    "date": "Nov 12, 2026 15:29",
-    "published_at": "2026-11-12T15:29:16Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Khronos To Explore New High Level API For Remote Offloading",
-    "link": "https://www.phoronix.com/news/Khronos-Remote-Offloading-API",
-    "description": "The Khronos Group, the industry consortium responsible for OpenGL, OpenCL, Vulkan, and other industry standard APIs has formed an exploratory group to evaluate the possibility of a high-level remote offloading API...",
-    "guid": "https://www.phoronix.com/news/Khronos-Remote-Offloading-API",
-    "date": "Nov 12, 2026 15:17",
-    "published_at": "2026-11-12T15:17:31Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "ReactOS Gets Working Floppy Disk Support, VMware 3D Acceleration \u0026 SMP Progress",
-    "link": "https://www.phoronix.com/news/ReactOS-Floppy-Disk-2026",
-    "description": "ReactOS as the open-source operating system project working on Microsoft Windows driver and application compatibility had a pretty successful 2026. Following two hackfests, a lot of new features have landed recently for ReactOS and some others are nearing the finish line...",
-    "guid": "https://www.phoronix.com/news/ReactOS-Floppy-Disk-2026",
-    "date": "Nov 12, 2026 14:41",
-    "published_at": "2026-11-12T14:41:16Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Introducing Polo: a Wayland MATE compositor",
-    "link": "https://lwn.net/Articles/1107152/",
-    "description": "Kerem Söke has announced\nthe 1.0\nrelease of Polo, a\nWayland compositor for the MATE Desktop\nEnvironment:\n\n\nThe idea is to keep MATE behaving as closely as possible to how it does on\nX11, rather than changing the desktop to fit a different compositor. [...]\n\nWindow management, metacity, workspaces, tiling, XWayland, clipboard and\nclipman support, multiple monitors, display scaling, hotplugging, screenshots,\nscreen sharing, and session management are all working.\n\nI've also added desktop effects: fade, zoom, zap, spin, squeemize, magic\nlamp, desktop cube, expo, and wobbly windows.\n\n\nSöke is looking for people to test Polo, particularly on multi-monitor\nsetups, and report back with problems.\n\n",
-    "guid": "https://lwn.net/Articles/1107152/",
-    "date": "Nov 12, 2026 14:32",
-    "published_at": "2026-11-12T14:32:49Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "[$] C++26 contract confusion",
-    "link": "https://lwn.net/Articles/1105400/",
-    "description": "\nThe\n\nInternational Organization for Standardization (ISO) has blessed seven C++\nlanguage revisions since 1998.\nThe language is mostly developed by ISO's\n\nWorking Group 21, which\nconsiders proposed additions and amendments, integrates them into a document,\nand then presents that document to the main ISO body to be voted on as a\nstandard. On October 23, for the first time ever, ISO declined to ratify a document\npresented by Working Group 21, leaving the future of the C++26 standard in\ndoubt. The decision was driven by controversy around a proposed new \"contracts\"\nfeature that would add pre- and post-conditions to function signatures.\n",
-    "guid": "https://lwn.net/Articles/1105400/",
-    "date": "Nov 12, 2026 14:29",
-    "published_at": "2026-11-12T14:29:04Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "Stenberg: 30 years of Internet transfers with curl",
-    "link": "https://lwn.net/Articles/1107151/",
-    "description": "Daniel Stenberg reflects\non the 30th anniversary of the curl project.\n\n\n\tlibcurl runs in an estimated thirty billion installations today. It\n\tis a rough estimate since the majority of all libcurl users never\n\ttell us they use it, but we need to find it mentioned in their\n\tcredit screens, open source license windows or their manuals. A\n\tsuper popular app might use libcurl today and not tomorrow, or vice\n\tversa, which can make the numbers shift by several billions\n\tovernight. In reality of course, once the pulse raise has calmed\n\tdown and your ego is content, these numbers do not matter. In our\n\tcorner of the world, things don't change notably when we go from a\n\tthousand installs to billions. We still work with similar people,\n\tin similar ways, with similar challenges.\n",
-    "guid": "https://lwn.net/Articles/1107151/",
-    "date": "Nov 12, 2026 14:24",
-    "published_at": "2026-11-12T14:24:47Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "NVIDIA NvRoot \u0026 ForgePtr Vulnerabilities Published For Linux Driver, 25 More Coming",
-    "link": "https://www.phoronix.com/news/NVIDIA-NvRoot-ForgePtr",
-    "description": "In addition to Jensen Huang resigning, coincidentally the embargo just expired on the first two of 25 more NVIDIA graphics driver security vulnerabilities coming. ForgePtr and NvRoot are particularly volatile for those renting GPU slices in the cloud...",
-    "guid": "https://www.phoronix.com/news/NVIDIA-NvRoot-ForgePtr",
-    "date": "Nov 12, 2026 14:17",
-    "published_at": "2026-11-12T14:17:33Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Security updates for Thursday",
-    "link": "https://lwn.net/Articles/1107146/",
-    "description": "Security updates have been issued by Debian (aodh, apache2, dnspython, firefox-esr, mutt, octavia, spip, thunderbird, and watcher), Fedora (epiphany, firefox, freerdp, java-25-openjdk, java-latest-openjdk, libsoup3, perl-HTTP-Parser-XS, perl-libnet, php-getid3, pipx, python-crate-ingredients, python-pillow, python-robotframework, python3.9, rsync, rubygem-nokogiri, tpm2-tss, udns, and xorg-x11-server-Xwayland), Gentoo (curl, ImageMagick, libheif, and PCRE2), Mageia (nginx and python-django), Oracle (go-toolset:rhel8, libimobiledevice, nodejs:22, util-linux, and vim), Red Hat (.NET 10.0, .NET 8.0, .NET 9.0, cockpit, freerdp, gdb, go-fdo-client, grafana-pcp, ignition, kernel, kernel-rt, krb5, openssh, openssl, osbuild-composer, rpm, rsync, and webkit2gtk3), Slackware (git, httpd, and tigervnc), SUSE (aliyun-cli, alloy, apache-parent, aqute-bnd, google-gson, logback, maven, maven-artifact-transfer, maven-parent, maven-resolver, methanol, osgi-service- subsystem, slf4j, xmvn, bcel, benchdnn, containerd, distribution, dpdk, efivar, elemental, elemental-register, elemental-system-agent, elemental-toolkit, firefox, kernel, liblldpctl4, libonnxruntime1, openssl-1_0_0, openssl-1_1, openvpn, pcre2, perl-Net-DNS, perl-Plack, perl-Starman, psqlODBC, python-M2Crypto, python-Pillow, python-Twisted, python-urllib3_1, python313-djangorestframework, python313-fpdf2, python313-langgraph-sdk, python313-nltk, rust-keylime, skopeo, traefik, zchunk, and zvbi), and Ubuntu (asyncpg, awl, btrbk, davical, dotnet8, dotnet10, dotnet11, libfcgi, linux-raspi, logback, mysql-8.0, mysql-8.4, mysql-9.7, network-manager-ssh, node-babel, php-pecl-http, prosody-modules, rkhunter, ruby-actionpack-page-caching, ruby-jwt, ruby-kramdown, shiro, snmptt, and yodl).",
-    "guid": "https://lwn.net/Articles/1107146/",
-    "date": "Nov 12, 2026 14:13",
-    "published_at": "2026-11-12T14:13:00Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "Linux 7.5 To Enable Temperature / Voltage / Power Monitoring For AMD Pensando NICs",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369126",
-    "description": "The Linux kernel already has network drivers for the AMD Pensando networking hardware while coming for Linux 7.5 is an Ionic HWMON driver to support hardware monitoring with temperature, voltage, and power monitoring for this high-end networking gear…",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369126",
-    "date": "Nov 12, 2026 14:02",
-    "published_at": "2026-11-12T14:02:57Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "With formidable female protagonists, check out the Green Man Gaming's Girls Just Wanna Have Guns! Bundle",
-    "link": "https://www.gamingonlinux.com/2026/11/with-formidable-female-protagonists-check-out-the-green-man-gamings-girls-just-wanna-have-guns-bundle/",
-    "description": "Another good chance for you here to pick up a bundle of games at a good price - this time featuring some awesome formidable female protagonists.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/11/with-formidable-female-protagonists-check-out-the-green-man-gamings-girls-just-wanna-have-guns-bundle/",
-    "date": "Nov 12, 2026 13:59",
-    "published_at": "2026-11-12T13:59:35Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/666690475id30182gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "NVIDIA CEO Jensen Huang Resigns",
-    "link": "https://www.phoronix.com/news/NVIDIA-Jensen-Huang-Resigns",
-    "description": "Following reports of two extramarital affairs, one with an alleged Chinese spy and the other with a VP that is a direct report to him, Jensen Huang is no longer CEO of NVIDIA...",
-    "guid": "https://www.phoronix.com/news/NVIDIA-Jensen-Huang-Resigns",
-    "date": "Nov 12, 2026 13:58",
-    "published_at": "2026-11-12T13:58:39Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "FOSS Weekly #26.46: Mint 27 Features, Kora OS, de-Googled Life, Passbolt, Package Manager and More Linux Stuff",
-    "link": "https://feed.itsfoss.com/link/24361/17522825/foss-weekly-26-46",
-    "description": "Linux Mint 27 is shaping nicely for its Christmas release.",
-    "guid": "6af3fa6d2aaca80001a4389e",
-    "date": "Nov 12, 2026 13:52",
-    "published_at": "2026-11-12T13:52:53Z",
-    "image": "https://itsfoss.com/content/images/2026/11/foss-weekly-1.webp",
-    "source": "itsfoss.com",
-    "source_url": "https://itsfoss.com/"
-  },
-  {
-    "title": "Learn Linux and Cybersecurity Skills With Hands-on Interactive Labs",
-    "link": "https://feed.itsfoss.com/link/24361/17522776/labex-review",
-    "description": "LabEx is an AI-assisted educational platform that focuses on learning-by-doing by providing you hands-on labs, flashcards, quizzes, and playgrounds to practice in simulated environment.",
-    "guid": "6ae713ce3a20a700010dfa73",
-    "date": "Nov 12, 2026 12:33",
-    "published_at": "2026-11-12T12:33:34Z",
-    "image": "https://itsfoss.com/content/images/2026/11/labex-1.webp",
-    "source": "itsfoss.com",
-    "source_url": "https://itsfoss.com/"
-  },
-  {
-    "title": "New Steam Client Update Introduces Linux 64-Bit Support, Steam Achievement Sets",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369121",
-    "description": "Valve released a new stable Steam Client update today for all supported platforms with a few important changes and updates, including 64-bit Linux support.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369121",
-    "date": "Nov 12, 2026 12:30",
-    "published_at": "2026-11-12T12:30:14Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Humble Bundle goes through a re-design that's being accused of messy vibe-coding",
-    "link": "https://www.gamingonlinux.com/2026/11/humble-bundle-goes-through-a-re-design-thats-being-accused-of-messy-vibe-coding/",
-    "description": "Fixing what isn't broken huh? Humble Bundle just completely remade their website and store, and lots of people are unhappy with it.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/11/humble-bundle-goes-through-a-re-design-thats-being-accused-of-messy-vibe-coding/",
-    "date": "Nov 12, 2026 11:43",
-    "published_at": "2026-11-12T11:43:51Z",
-    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/Humble-Bundle.jpg",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Linux 7.5 To Improve Support For Old ASUS Transformer Hybrid Laptops/Tablets",
-    "link": "https://www.phoronix.com/news/Linux-7.5-ASUS-Transformer",
-    "description": "For those that happen to have ASUS Transformer devices as the roughly decade old convertible/hybrid 2-in-1 laptop/tablet computers, the Linux 7.5 kernel in 2027 is improving support for these aging systems powered by either NVIDIA Tegra or Intel Atom SoCs...",
-    "guid": "https://www.phoronix.com/news/Linux-7.5-ASUS-Transformer",
-    "date": "Nov 12, 2026 11:26",
-    "published_at": "2026-11-12T11:26:17Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Intel Xe Driver Preparing SR-IOV Provisioning For vGPU Profiles",
-    "link": "https://www.phoronix.com/news/Linux-7.5-Intel-Xe-vGPU-Profile",
-    "description": "With the upcoming Linux 7.5 kernel cycle the Intel Xe graphics driver is preparing SR-IOV provisioning for vGPU profiles...",
-    "guid": "https://www.phoronix.com/news/Linux-7.5-Intel-Xe-vGPU-Profile",
-    "date": "Nov 12, 2026 11:11",
-    "published_at": "2026-11-12T11:11:11Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Intel Continues Enabling The GPU D-Series \"Crescent Island\" Driver Support For Linux 7.5",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369112",
-    "description": "Intel's intriguing Crescent Island Xe3P-based AI accelerator hardware now known as the Intel GPU D Series continues seeing a lot of Linux kernel driver activity. The upcoming Linux 7.5 kernel is continuing to build out the support for this upcoming hardware…",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369112",
-    "date": "Nov 12, 2026 11:02",
-    "published_at": "2026-11-12T11:02:28Z",
     "source": "lxer.com",
     "source_url": "https://lxer.com/"
   }
