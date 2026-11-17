@@ -1,5 +1,129 @@
 [
   {
+    "title": "Discord’s Linux app sure did improve a lot this year",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369281",
+    "description": "Discord recently shared a potted roundup of improvements made to its Linux app this year, including smarter updating, better screen sharing on Wayland and working push-to-talk. Their Discord \u003c3 Linux: A Year of Upgrades blog post also reveals that per-app audio sharing is finally coming to Wayland-based desktops, though it’s not ready for testing just yet. As I don’t personally use Discord that…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369281",
+    "date": "Nov 17, 2026 05:51",
+    "published_at": "2026-11-17T05:51:58Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Microsoft’s Outage Shows the Cost of One Vendor Running Everything",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369269",
+    "description": "After Microsoft’s global email outage, open source rivals say the real problem is putting everything in one basket.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369269",
+    "date": "Nov 17, 2026 04:45",
+    "published_at": "2026-11-17T04:45:19Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Shotcut 26.11 Open-Source Video Editor Adds Camcorder Viewfinder Animation",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369276",
+    "description": "The Shotcut 26.11 release introduces support for rectangle parameters to the experimental add-on filter UI generator, including a player overlay control (VUI), a camcorder viewfinder (recording) animation, and a search field to Elements.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369276",
+    "date": "Nov 17, 2026 03:32",
+    "published_at": "2026-11-17T03:32:41Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Just 400 US Data Centers Use More Electricity Than Michigan",
+    "link": "https://news.slashdot.org/story/26/11/16/2137223/just-400-us-data-centers-use-more-electricity-than-michigan?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from Wired: Just 400 hyperscale data centers connected in the US used as much electricity as the state of Michigan in a single year, new Harvard research has found. The study, published Monday in Nature Sustainability, also finds that the majority of that electricity was generated using fossil fuels, and data center emissions are three times higher than they were before the AI boom. Federal and state governments do not track data center use separate from the rest of the power sector, despite mounting projections that data centers are putting serious strain on the American power grid. Individual data centers' power use is often considered proprietary business information, and data center operators and utilities do not have to disclose specific numbers to the public.\n \nThe Harvard study specifically focuses on hyperscale data centers -- the largest types of facilities, which have become flashpoints in community opposition across the country. While often used for AI inference or training, not all of the hyperscalers surveyed in this study are being used for AI. [...] To assemble their dataset, the Harvard researchers put together a list of 403 hyperscale data centers around the country that were operational between May 2024 and April 2025 using a mix of industry research and satellite data. The team then modeled these facilities' energy use in a variety of scenarios and calculated the energy mix of the regional grids to estimate individual facilities' carbon emissions. Not all regions were created equal: Data centers in Virginia, Oregon, Ohio, and Iowa -- the first of which is home to Data Center Alley -- were responsible for more than 50 percent of the energy use in the study. The report notes that these findings may already be outdated. \"Some of the massive campuses being proposed today are substantially larger than the typical facility in our dataset,\" says Gianluca Guidi, a postdoctoral research fellow at Harvard's T. H. Chan School of Public Health and the lead author of the study.\n \nThe study also excludes onsite power generation, a rapidly growing trend that BloombergNEF estimates could increase overall U.S. emissions by 10% if all proposed projects are built.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 17, 2026 03:30",
+    "published_at": "2026-11-17T03:30:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Rocky Linux 10.3 Released with Kernel 6.12, GCC 16, and Security Updates",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369277",
+    "description": "Rocky Linux 10.3 is out with Linux kernel 6.12, GCC 16, updated development tools, and security improvements.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369277",
+    "date": "Nov 17, 2026 02:23",
+    "published_at": "2026-11-17T02:23:00Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "AMD ROCm HRX's Loom 0.2 Expands C++ Support, Improved Targeting",
+    "link": "https://www.phoronix.com/news/HRX-Loom-0.2",
+    "description": "AMD ROCm's HRX Loom as the compiler, runtime, and serving infrastructure for supporting AI agent workflows is out today with a new version...",
+    "guid": "https://www.phoronix.com/news/HRX-Loom-0.2",
+    "date": "Nov 17, 2026 01:37",
+    "published_at": "2026-11-17T01:37:15Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Euro-Office Is Here – As Nextcloud Office Desktop",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369274",
+    "description": "Online Euro-Office arrived this summer for running on Nextcloud’s platform, but now a version that runs locally has been released for Linux, Mac, and Windows – and it’s ready to collaborate with the cloud version.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369274",
+    "date": "Nov 17, 2026 01:12",
+    "published_at": "2026-11-17T01:12:04Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "JPMorgan Chase Glitch Disrupts Online Banking Across Major US Banks",
+    "link": "https://news.slashdot.org/story/26/11/16/2332229/jpmorgan-chase-glitch-disrupts-online-banking-across-major-us-banks?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "A software bug at JPMorgan Chase has disrupted online banking services Monday, triggering transaction delays for thousands of customers at Chase and other major U.S. banks. \"JPMorgan Chase has experienced a temporary issue related to a software bug in an on-premise hardware system -- it is not cyber-related,\" said Joe Evangelisti, spokesman for the bank. \"This is not a systemic issue -- other banks may have been impacted by slowness in transactions only to the extent that they were a party to a transaction with us,\" he added. The Associated Press reports: Monday's technical issues seem to be centered at Chase customers and customers at other banks trying to transact with Chase. Those banks, including Bank of America and Citigroup, were not having issues with their banking services. A spokesman for U.S. Bank said its systems are not directly impacted but that \"clients attempting to send or receive Zelle payments with another financial institution may experience transaction delays.\" Developing...\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 17, 2026 00:00",
+    "published_at": "2026-11-17T00:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Turn your Raspberry Pi into a classic games machine",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369249",
+    "description": "Make use of Raspberry Pi's ability to run emulation software to replicate a wide range of classic consoles and computers.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369249",
+    "date": "Nov 16, 2026 23:56",
+    "published_at": "2026-11-16T23:56:08Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Comcast's 'Fiber-Powered Wi-Fi' Is Just Cable, AT\u0026T Says In False Advertising Case",
+    "link": "https://yro.slashdot.org/story/26/11/16/2129234/comcasts-fiber-powered-wi-fi-is-just-cable-att-says-in-false-advertising-case?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "AT\u0026T is suing (PDF) Comcast over its \"fiber-powered\" advertising, arguing that the term misleads consumers into believing Xfinity offers fiber-to-the-home service when most customers actually receive their Internet through coaxial cable. \"Comcast should be required to restore to AT\u0026T any and all profits earned as a result of its false and misleading advertising or provide AT\u0026T with any other restitutionary relief the Court deems appropriate,\" the lawsuit said. The lawsuit asked for a permanent injunction \"requiring Comcast to cease describing its hybrid fiber-coaxial service as 'Fiber-Powered.'\" Ars Technica reports: While Comcast has deployed plenty of fiber throughout the US, its cable Internet service makes the final connection to homes with coaxial cable. This results in upload speeds being far slower than download speeds. In contrast, fiber-to-the-home service can provide symmetrical upload and download speeds. Comcast has deployed fiber-to-the-home in only small portions of its cable territory while advertising its service as fiber-powered in the majority of areas where cable makes the final connection. AT\u0026T's lawsuit said that in describing its cable broadband as fiber-powered, Comcast \"conveys to reasonable consumers the misleading impression that Xfinity Internet is a fiber-to-the-home service comparable to AT\u0026T Fiber. In fact, the vast majority of Xfinity Internet runs over a hybrid fiber-coaxial ('HFC') network, where the critical 'last mile' connection to the customer's home uses copper coaxial cable, not fiber.\"\n \n[...] AT\u0026T previously challenged Comcast's fiber-powered claims through the advertising industry's self-regulatory system operated by BBB National Programs' National Advertising Division (NAD). The NAD determined in June that Comcast accurately described its mix of cable and fiber technology in a disclosure, but that Comcast didn't make the disclosure prominently enough. [...] The NAD recommended that Comcast make the disclosure \"more prominent and more proximate to the 'fiber-powered' Wi-Fi claim as necessary to ensure that the disclosure is clear and conspicuous.\" Comcast said it would comply with the decision, but AT\u0026T's lawsuit makes it clear that it isn't satisfied with the current state of Comcast's advertising. We contacted Comcast and will update this article if it provides a response.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 16, 2026 23:00",
+    "published_at": "2026-11-16T23:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "AlmaLinux 10.3 Released With ModSecurity Restored, Various Updates",
+    "link": "https://www.phoronix.com/news/AlmaLinux-10.3-Released",
+    "description": "Following the recent Red Hat Enterprise Linux 10.3 release, AlmaLinux 10.3 is now available in production along with AlmaLinux 9.9...",
+    "guid": "https://www.phoronix.com/news/AlmaLinux-10.3-Released",
+    "date": "Nov 16, 2026 22:35",
+    "published_at": "2026-11-16T22:35:41Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "FBI Says Artex AI Open-Source Hacking Tool Used to Breach Networks In 'Under Three Hours'",
+    "link": "https://it.slashdot.org/story/26/11/16/2025219/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "The FBI is warning (PDF) that hackers are using the AI-powered penetration-testing tool Artex to compromise networks in \"under three hours\" in some cases. The tool has been linked to attacks against South Korean financial institutions, at least 2,250 ConnectWise customers and Barracuda. TechCrunch reports: Artex is one of several open-source AI-powered penetration testing platforms, a category of software built to probe a network's defenses. Hackers can connect Artex to hosted frontier large language models (LLMs) like those from Anthropic and OpenAI, as well as to open-source models and non-U.S. models. The FBI says Artex intrusions can be \"noisy,\" meaning they generate reams of traffic and data that may trigger a targeted company's defensive alerts. But the tools allow hackers to move at speeds that makes it far more harder for human defenders to keep up.\n \nIn some cases, Artex-linked attacks can move from targeting a system to active compromise \"in under three hours.\" Oftentimes, Artex will rely on rapidly scanning a victim's network to look for signs of weakness, and then exploit simple security bugs, such as weak protections and exposed or stolen passwords to gain a foothold. From there, Artex allows the hacker to spread across the network for databases, mailboxes, and other sensitive information. [...] After Artex was used in cyberattacks, the tool's developer made the software closed-source to prevent further attacks. But the FBI says the previous open-source version continues to circulate and remains \"widely accessible\" for use in cyberattacks.\n \nIt's not only companies and targeted victims that have been compromised as a result of weakened security exploited by AI tools; the tools themselves have been exposed as well, potentially allowing outsiders to access powerful hacking capabilities. Last week, researchers found hundreds of publicly exposed Artex systems online, which had been placed on the internet without a password, likely by mistake or misconfiguration -- including the Artex system that was used to target South Korea.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 16, 2026 22:00",
+    "published_at": "2026-11-16T22:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
     "title": "Microsoft Outage Leads To Chlorine Gas Poisoning At German Theme Park",
     "link": "https://tech.slashdot.org/story/26/11/16/201240/microsoft-outage-leads-to-chlorine-gas-poisoning-at-german-theme-park?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
     "description": "Slashdot readers djgl and Mirnotoriety shared a story about how a Microsoft Outlook outage contributed to a chlorine leak at Germany's Phantasialand theme park, injuring 15 guests, four of whom were hospitalized. German broadcasting institution WDR reports (translated to English): We were all affected by this problem: On Friday, there was a disruption that crippled the US software company Microsoft, including its email program Outlook. Phantasialand was also affected. Due to the disruption, no emails were received, as the company informed WDR on Saturday. As a result, no one was aware that the sauna area's maintenance safety system had already issued an email alert. This was because the automatic dosing system had pumped too much chlorine into the pool.\n \nGuests at the Hotel Ling Bao in Phantasialand, Bruhl, were injured as a result. They complained of health problems after visiting the pool. The pool was temporarily closed but has since been reopened, as the fire department informed WDR on Saturday. Due to complaints from hotel guests, emergency services and the fire department were called. Thirteen guests complained of respiratory irritation; ultimately, the number of affected individuals rose to a total of 15. Cybersecurity architect and computer scientist Stephan Skrobisch said Microsoft is not responsible for the incident. \"It's clearly the system's design that's the problem. They failed to implement an additional notification mechanism.\"\n \nSlashdot reader davidwr agrees, writing in a comment: \"Proper alarms would be a hardwired alarm that would be visible or audiable to someone who was on-site who could've gotten everyone out of the water. The blame for the injuries goes to the water park and/or whatever consultant told them it was okay not to have an on-site, hardwired alarm.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
@@ -115,17 +239,6 @@
     "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
     "source": "slashdot.org",
     "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Microsoft’s Outage Shows the Cost of One Vendor Running Everything",
-    "link": "https://feed.itsfoss.com/link/24361/17525729/microsofts-outage-reaction",
-    "description": "After Microsoft’s global email outage, open source rivals say the real problem is putting everything in one basket.",
-    "guid": "6afb09dbb0bf2e0001dcc418",
-    "date": "Nov 16, 2026 16:22",
-    "published_at": "2026-11-16T16:22:00Z",
-    "image": "https://itsfoss.com/content/images/2026/11/microsoft-exchange.webp",
-    "source": "itsfoss.com",
-    "source_url": "https://itsfoss.com/"
   },
   {
     "title": "Dictate into any app on Fedora with TuxTalk",
@@ -322,6 +435,16 @@
     "source_url": "https://www.phoronix.com/"
   },
   {
+    "title": "AMD Posts Linux Patches For Capacity Aware Scheduling On Hybrid CPUs",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369224",
+    "description": "On Saturday a new set of Linux kernel driver patches were posted by AMD for enabling Capacity Aware Scheduling on AMD heterogeneous/hybrid processors…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369224",
+    "date": "Nov 16, 2026 10:52",
+    "published_at": "2026-11-16T10:52:15Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
     "title": "Fwupd 2.1.10 Brings Fixes, New Synaptics Touchpad Supported",
     "link": "https://www.phoronix.com/news/Fwupd-2.1.10-Released",
     "description": "Lead Fwupd/LVFS developer Richard Hughes of Red Hat kicked off the new week by releasing Fwupd 2.1.10 as the newest stable release for performing firmware updates on Linux...",
@@ -472,16 +595,6 @@
     "source_url": "https://slashdot.org/"
   },
   {
-    "title": "Linuxiac Weekly Wrap-Up: Week 46, 2026 (November 9 – 15)",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369232",
-    "description": "Catch up on the latest Linux news: RHEL 10.3, Wine 11.22, Blender 5.3, KDE Plasma 6.8.3, Firefox 160, Manjaro moves toward independent community governance, and more.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369232",
-    "date": "Nov 16, 2026 05:01",
-    "published_at": "2026-11-16T05:01:09Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
     "title": "AI-Generated Books Confront Publishing Industry With Big Questions",
     "link": "https://news.slashdot.org/story/26/11/16/0342245/ai-generated-books-confront-publishing-industry-with-big-questions?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
     "description": "Romance novelist Coral Hart publishes her own romance novels for the Kindle, and found a kind of superpowere when she realized \"the algorithm favours those who can produce a new book at least once a month,\" reports The Guardian:\n\n\n Hart says she knows of authors who hire more than a dozen ghostwriters to keep pace. By herself, Hart can write 10,000 words a day, but AI could help her produce many more. Since 2025 she has written 370 novels under 21 pen names using AI, earning herself \"high six figures\". Like any Kindle Unlimited author, she is only paid per pages read: it would make no business sense for her to churn out books that readers quickly abandon... \"So, it's not taking the human out of the equation. It's taking the friction and the time and the business blocks out of the way.\" \n\nOne study (awaiting peer review), led by Tuhin Chakrabarty of Stony Brook University, estimates that around one fifth of recently self-published books contain at least 25% AI-generated text. Hart now teaches courses on how to use AI to produce books. Unless disclosing the use of AI becomes a legal requirement, she advises other authors not to do so because of the public response. \"The minute someone discloses [AI use] they get death threats, they get called names, they're ousted,\" she says.... In the literary world, many people fear the tech will undercut and replace them. \"I think people are very afraid of AI, and people in publishing are delusional in thinking that it's not going to overtake our industry, that their screaming on social media is going to stop it.\" \n\nBut the anger comes from another place, too. If large language models can spit out books that people want to read, or produce a convincing pastiche of your favourite writer, that's almost certainly because they were trained on established writers' stolen work.... Many writers oppose AI for both moral and aesthetic reasons. One group of 70 prominent authors wrote an open letter calling on the big five publishers — Penguin Random House, Hachette, HarperCollins, Simon \u0026 Schuster and Macmillan — to promise that they will \"never release books that were created by a machine\". The publishers did not promise. [Tess Callero, a literary agent with Europa Content, says] \"...you have to wonder the reason they aren't. Is it because they see a future in which potentially these books could be monetised?\"] \n\nSo where do we go from here? Will big name writers win the argument for keeping AI out of literature, or will our bookshelves and e-readers soon be crammed full of AI-generated stories? And if a reader can't distinguish human from machine writing, does it still matter? \n\nThe Guardian's author notes this new technology brings new challenges to the book publishing world:\n\n\n Publishers have concerns about US copyright law, \"which specifies that a book must be 'human authored' and considers AI-generated text public domain. \"\nThe article notes high-profile books being canceled after accusations their writers used AI. But even in those cases, \"Another unresolved question is if and when publishers should withdraw books,\" since if publishers liked it enough to make the deal, shouldn't they stand behind that judgment?\n And should there be a way for authors who want to experiment with AI to work with top book publishers? (One theory is publishing houses are afraid of alienating a handful of top writers who almost universally oppose AI.)\n\n\n\"Right now, to write without the aid of a machine is to swim against a strong cultural tide,\" concludes the article's author, noting a recurring reaction from friends who \"have looked at me with something close to pity when I tell them I would never use AI to write.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
@@ -493,136 +606,12 @@
     "source_url": "https://slashdot.org/"
   },
   {
-    "title": "Fanless mini PC packs 24-core Intel CPU and dual NVMe slots",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369228",
-    "description": "Desktop-class Intel Core Ultra processors with up to 24 cores are available in the Cirrus7 Incus B860, a fanless mini PC built around the ASRock DeskMini B860 platform. Its passive aluminum enclosure is available in three cooling configurations, with Thunderbolt 4, 2.5GbE networking, and room for up to four SSDs. Introduced in February 2026, the…",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369228",
-    "date": "Nov 16, 2026 02:15",
-    "published_at": "2026-11-16T02:15:35Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Should Jensen Huang Return as Nvidia's CEO? Supporters and Critics Disagree",
-    "link": "https://hardware.slashdot.org/story/26/11/16/0146256/should-jensen-huang-return-as-nvidias-ceo-supporters-and-critics-disagree?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "\"Jensen Huang is considering a comeback as Nvidia's chief executive,\" reports Reuters, \"and has discussed with confidants the possibility of returning, the Financial Times reported on Sunday, citing people familiar with the matter.\"\n\n\nOne Huang ally told the FT they were putting together a \"war room\" of Silicon Valley executives to lobby for the former Nvidia chief's return and would try to garner support from the White House... \n\nThe report comes days after the FT reported that Nvidia's board had approached British chipmaker Arm Holdings CEO Rene Haas in its search for a potential successor to Jensen Huang. \n\nThe Guardian adds that Friday two major Nvidia shareholders \"urged the board to keep 'all options' open.\"\n\nIn Washington, however, US treasury secretary Scott Bessent argued on Sunday that Nvidia should look \"outside\" the company for its next chief. \"They need a dramatic shake-up,\" Bessent said on Fox News. Bessent also called on Nvidia to explain whether it knowingly allowed its most advanced AI chips to reach China, saying this was more important than Huang's affair with the alleged spy for Beijing... Bessent said he wanted answers from Nvidia and its internal investigation of Jensen Huang's behaviour within the next 10 days. \n\nThe Guardian also notes Elon Musk \"and a host of other tech executives are among more than 158,000 signatories of an open letter calling for Jensen Huang's reinstatement as Nvidia chief, days after he resigned from the multi-trillion dollar chip company... \"\n\nThe letter demands that the company's board members \"bring Jensen back while an independent investigation establishes the facts\"... Alongside Musk, the tech heavyweight signatories on the letter calling for Huang's return include Tim Sweeney, founder and CEO of video game publisher Epic Games, and Garry Tan, president of Y Combinator, San Francisco's most renowned business incubator. Another signatory, Uber co-founder Travis Kalanick, wrote that Huang had \"erred, yes — to err is to be human — but I do not believe anything he has done rises to the bar of separating him from his company\". More than 7,500 signatories identified themselves as Nvidia employees, equivalent to 18% of the company's workforce. \n\nBut it's difficult to verify the authenticity of signatories, notes The Verge:\n\n Business Insider reports that signatures include \"Tim Cruise, Hollywood actor\" and \"Xi Jingping,\" likely a misspelling of Chinese president Xi Jinping. \n\n\n Not all believe Jensen Huang should be allowed to return to his seat. According to the Financial Times, one ally acknowledged that, \"Having an affair with a subordinate is a fireable offense.\" 23andMe founder Anne Wojcicki told Bloomberg that \"Power corrupts, and people start to think they are invincible ... We are all complicit in making these people think they are gods. And people do stupid things when they think they are untouchable.\" Wojcicki endured a messy public divorce from Google co-founder Sergey Brin, after it was revealed he was having an affair with an employee.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 16, 2026 02:02",
-    "published_at": "2026-11-16T02:02:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "FAA Router In Middle-of-nowhere Arkansas Identified as Cause of Nationwide Flight Chaos",
-    "link": "https://tech.slashdot.org/story/26/11/16/0059214/faa-router-in-middle-of-nowhere-arkansas-identified-as-cause-of-nationwide-flight-chaos?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Though the nationwide flight-grounding ended Friday, \"Nearly 2,300 flights in the U.S. have been cancelled Sunday in the aftermath...\" reports ABC News. \"Additionally, some 18,689 flights were delayed, per FlightAware.\" \n\nBut \"a single malfunctioning FAA router in rural Arkansas appears to have caused the air travel chaos,\"\nreports the New York Post:\n\n\n\nThe problem originated at an FAA radio site in El Dorado, Arkansas, where a newly installed router flooded the network with excessive data traffic, disrupting communications between pilots and air traffic controllers, the Wall Street Journal reported. \"We saw two places that were actually pinging our network at a very high rate, a thousand connections over every four to five seconds,\" Rebecca Guy, the FAA's technology chief, said on Saturday. .. [U.S. Transportation Secretary Sean] Duffy said the failure occurred during routine maintenance to replace aging copper telecommunications with fiber-optic cables — part of a broader effort to modernize the FAA's outdated infrastructure. The router began flooding other devices across the air traffic control network with connection attempts, disrupting both communications with aircraft and radar feeds. A radar station in Amarillo, in the Texas panhandle, is also being eyed as contributing to the outage. \n\n\n\nAnd new flight cancellations reported for Monday already stood at 144 as of Sunday afternoon, with 641 delayed, reports ABC News (citing data from Flight Aware):\n\nA spokesperson for Hewlett Packard Enterprise, which owns Juniper, the company that manufactured the routers believed to be central to the ground stop, said in a statement to ABC News that the devices were working properly Friday, when the ground stop occurred. \"Based on what we know today, the device functioned as it was configured to by the installer. It did not fail or act improperly,\" the statement said... \n\nL3 Harris is a government contractor that provides technology and IT support for the Federal Aviation Administration (FAA) and that worked with Hewlett Packard Enterprise and Juniper to install the routers. \"We have that router in the L3 Harris lab down in Florida,\" Transportation Secretary Sean Duffy told co-anchor Martha Raddatz on ABC's \"This Week\" Sunday, referring to the specific router in Arkansas that officials believe caused instability in the air traffic communication system Friday afternoon. \n\n\"L3Harris takes the nationwide ground stop and its impact on travelers, airlines and air traffic operations seriously,\" L3Harris said in a statement Saturday.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 16, 2026 01:02",
-    "published_at": "2026-11-16T01:02:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Blanc web browser being ported from Electron to Chromium",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369226",
-    "description": "A new beta of Blanc, the AI-built web browser, is available for testing – and this one is built directly on top of Chromium. Current versions of Blanc use castLabs’ Electron fork, which bundles the Widevine decryption module so sites like Netflix work. But Electron only includes enough Chromium to display web pages, and not so many of the pieces that make a browser a browser. Blanc 2.0 rebases on…",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369226",
-    "date": "Nov 16, 2026 00:29",
-    "published_at": "2026-11-16T00:29:41Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Pranksters Redirect Bitly's Links in X Posts for Trump, McDonald's and Burger King",
-    "link": "https://slashdot.org/story/26/11/15/2311255/pranksters-redirect-bitlys-links-in-x-posts-for-trump-mcdonalds-and-burger-king?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "\"A massive link-hijacking scheme has turned corporate social media archives into bizarre and offensive redirects,\" reports the New York Post:\n\nPosts from high-profile accounts — including fast-food giants McDonald's and Burger King, as well as President Donald Trump — are getting hacked, with over decades-old links suddenly redirecting users to unrelated website links including links about 9/11 and the Holocaust.\nAn unknown party appears to be taking control of expired Bitly link shorteners — a widely used URL-shortening and link-management service — and altering their destinations.... \n\nAnother Burger King tweet from July 13, 2011 — reading, \"Now it's even easier to eat right at BURGER KING® restaurants with @WeRRestaurants. All you need is a zip code!\" — was warped to link straight to Adolf Hitler's Wikipedia page... Two posts on Donald Trump's X account were also altered: a 2013 post redirected to a \"Baby Fortnite\" page, while a 2012 post linked to a video of Mario and Luigi from Super Mario Bros.\n\n \n\nThe article notes that about 20 of Trump's old X posts had \"switched\" links, including some now pointing to videos of the Transformers. And it adds that \"outraged web users are also slamming Bitly over its flaw that allows links to 'die' and be recycled by pranksters and bad actors.\" \n\n\"Links dating as far back as 2009 from URL-shortening service Bitly were affected,\" reports CNN, \"and only corporate and political X accounts appear to have been targeted, with President Donald Trump's personal account seemingly hit the hardest.\" \"Microsoft co-founder Bill Gates, former Canadian Prime Minister Justin Trudeau and former Vice President Mike Pence... were also hit to varying degrees.\"\n\n\n\nBitly said Sunday afternoon in a post on X that it had \"identified an issue that allowed bad actors to repurpose certain old, inactive links to redirect people to content unrelated to the original posts.\" The company said it suspended the accounts that altered links and were working to disable the affected URLs... It's unclear whether hackers made custom Bitly links, which effectively allow them to copy the original URL and redirect to any website. That may have been possible if the original Bitly link to the website no longer exists or has expired.... Another 2013 post from Trump tagged former Republican nominee for president Mitt Romney, and links to the popular game \"Geometry Dash\"....\n\n A post in 2011 by Trudeau contains a Bitly link that redirects to a vulgar YouTube audio clip... Government accounts have also been ironically affected. A 2012 post from the FBI about computers infected by \"Ghost Clicks\" now directs to a page with a photo of a seal, while the Department of Defense account had a separately redirected post.\n\n\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 15, 2026 23:13",
-    "published_at": "2026-11-15T23:13:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
     "title": "Linux 7.4-rc3 Released: \"The Usual Noise All Over\"",
     "link": "https://www.phoronix.com/news/Linux-7.4-rc3-Released",
     "description": "The third weekly release candidate of Linux 7.4 is now available for testing...",
     "guid": "https://www.phoronix.com/news/Linux-7.4-rc3-Released",
     "date": "Nov 15, 2026 22:55",
     "published_at": "2026-11-15T22:55:19Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Asahi Linux Moves from MIT to GPL Licensing, Expands M3 Support",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369225",
-    "description": "Asahi Linux moves toward GPL licensing amid concerns over commercial code reuse and removes installation restrictions for M3 Macs.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369225",
-    "date": "Nov 15, 2026 22:42",
-    "published_at": "2026-11-15T22:42:23Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Siri Glitches Ruin Reviewer's Test of Apple's New 'HomeView' Smart Speaker",
-    "link": "https://apple.slashdot.org/story/26/11/15/2151238/siri-glitches-ruin-reviewers-test-of-apples-new-homeview-smart-speaker?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Apple has started selling its new HomeView smart speaker, a 7-inch square-with-rounded-corners screen equipped with a built-in camera. It pairs with your iPhone or iPad to offer personalized content from your email or text messages, using facial recognition to identify each family member. \n\n\nBut in a video report, one Wall Street Journal reviewer discovered an issue while testing its smart home feature:\n\n WSJ REVIEWER: I've spent the last few years turning my home into a smart home that I can boss around with Siri. A smart lock, a special garage door opener, motorized shades, even a Raspberry Pi in my basement hooked up to my router that lets non-HomeKit devices from Ring and Nest work with Siri. It was all going well, the smart home controller of my dreams even. But then... \n\nReviewer: Open the garage door.\nSiri: Sorry, I can't help with that on this device. Please use the Home app.\nReviewer: Siri, you have the Home app, and you're called the HomeView. Open the garage.\nSiri: Sorry, I can't help with that on this device. \nReviewer: Open the smart wifi garage.\nSiri: Sorry, I can't help with that on this device. Please use the Home app... \n\nWSJ REVIEWER: Apple explained that for security reasons, Siri won't unlock your doors or open the garage through the HomeView using voice commands. You can only tap the screen to unlock them. The concern is that someone could shout a command from outside and gain access to your house. \n\nThis security concern doesn't make much sense to me. This thing can recognize my face, confirm it's me, and pull up all sorts of information from my phone. But it can't recognize me enough to open my garage? Finally I got Siri itself to explain this top-security measure. \n\nSiri: For security reasons, I can't unlock your door or open your garage from this device. Because anyone nearby can speak to a shared speaker. \n\nReviewer: But I'm looking at you! You see my face, and you hear my voice! \nSiri: I understand. But I don't have a camera to see you. And voice recognition alone isn't secure enough for unlocking your home. \nReviewer: You don't have a camera? \nSiri: That's right. This device doesn't have a camera, so I can't see you. I can only hear your voice, which is why I need you to use your iPhone or Apple Watch to unlock the door. \nReviewer: I see, Siri. You're gaslighting me. \n\nAn Apple spokesperson said they'd send out a software update next month that would let HomeView unlock garage doors and other door locks by voice once it's recognized a user. (And Apple said the update would also fix Siri's hallucination that it didn't already have a built-in camera.) \n\n\nIn the end, the speakers sounded good, and the reviewer appreciated how Apple's HomeView didn't have ads on its screeh like the Amazon Echo Show. But the device's built-in Siri voice assistant was \"about as reliable as a Magic 8 Ball... And the frustration is so real. Sometimes Siri just doesn't get the voice recognition right... Oftentimes, other devices in the room think I'm talking to their Siri... And sometimes Siris just talk to each.\"\n\n\n\niPhone: Siri is built into your device, so you don't need to download... \nHomeView: Downloading support for Siri. \niPhone: To download the Apple Support app, open the App Store on your device, search for Apple Support, and tap get or the download icon. I've installed support. \nReviewer (muttering): I honestly could cry. This might be a first — crying. \niphone: I'm software, so I don't have feelings. But it sounds like you're going through a difficult moment. It can really help to talk to someone you trust, like a friend, family member, or a professional who can support you\". \n\nThey complained that sometimes Siri \"is just slow, or it gets stuck thinking and thinking and thinking.\" (It took three minutes to answer their young son's question \"What's 10 times 40?\") \n\nThey concluded HomeView's facial recognition feature works well, and so does its smart home functionality (especially when they fix its door-unlocking next month). But its built-in Siri AI is \"not great.\" It's gotten better this year, and the reviewer found it \"genuinely useful for some things on their iPhone. \"But Apple still has a Siri problem. And on a device that's supposed to be the intelligent center of your home, that's a big problem.\" \n\nIt reminded the reviewer of another new first-generation Apple product, the iPhone Duo: \"good hardware waiting for the software to catch up.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 15, 2026 21:53",
-    "published_at": "2026-11-15T21:53:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Librem 5 v2 Linux smartphone adopts eight-core RISC-V processor",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369227",
-    "description": "Purism is turning to RISC-V for the next generation of its Librem 5 Linux smartphone. The upcoming Librem 5 v2 replaces the original model’s Arm-based processor with an eight-core SpacemiT K1, while retaining its modular, repairable design and hardware privacy switches. The company has launched a crowdfunding campaign to fund development, with deliveries targeted for…",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369227",
-    "date": "Nov 15, 2026 20:49",
-    "published_at": "2026-11-15T20:49:05Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Linux Gets a New XRAID Implementation with Up to 20x Faster Writes",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369221",
-    "description": "XRAID debuts as a new RAID implementation for Linux, promising faster writes, improved rebuilds, and support for zoned storage devices.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369221",
-    "date": "Nov 15, 2026 19:02",
-    "published_at": "2026-11-15T19:02:00Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "IBM Talks Up Their New Ability For Handling ARM64 Guest VMs on s390 Hardware",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369222",
-    "description": "One of the biggest surprises this year was IBM collaborating with Arm for \"dual architecture\" hardware. In addition to the IBM s390 hardware side, this \"dual architecture\" support for running ARM64 instructions on s390 also requires Linux KVM virtualization support with patches we've seen the past number of months and initial code merged for Linux 7.4…",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369222",
-    "date": "Nov 15, 2026 17:19",
-    "published_at": "2026-11-15T17:19:00Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Developer's $300 Embroidery Machine Required a Subscription, So They Built This Open Source Tool",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369178",
-    "description": "ZigZag turns SVG art into stitches, exports five file formats, and can send designs over Bluetooth to an app-controlled Brother embroidery machine.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369178",
-    "date": "Nov 15, 2026 15:26",
-    "published_at": "2026-11-15T15:26:57Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "AMD Posts Linux Patches For Capacity Aware Scheduling On Hybrid CPUs",
-    "link": "https://www.phoronix.com/news/AMD-Hybrid-Capacity-Aware-Sched",
-    "description": "On Saturday a new set of Linux kernel driver patches were posted by AMD for enabling Capacity Aware Scheduling on AMD heterogeneous/hybrid processors...",
-    "guid": "https://www.phoronix.com/news/AMD-Hybrid-Capacity-Aware-Sched",
-    "date": "Nov 15, 2026 14:20",
-    "published_at": "2026-11-15T14:20:01Z",
     "source": "phoronix.com",
     "source_url": "https://www.phoronix.com/"
   }
