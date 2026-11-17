@@ -1,5 +1,352 @@
 [
   {
+    "title": "Highly Classified NSA Network Goes Down",
+    "link": "https://news.slashdot.org/story/26/11/17/1954223/highly-classified-nsa-network-goes-down?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "\"CNN and other outlets are reporting that a classified network at the NSA is down,\" writes longtime Slashdot reader frdmfghtr. \"This follows a week of major outages at Microsoft, the FAA, and JPMorgan Chase.\" From a report: The network, called NSANet, allows employees to communicate classified information internally. At this point there is no evidence of a cyberattack, sources said. As the agency works to understand the scope of the problem, it has enacted staggered arrivals for personnel, the sources said.\n \n\"We see no evidence that this was a cyberattack,\" White House spokesperson Lauren Bis said Tuesday on Newsmax. \"There is no crisis, or anything like that, for Americans to be worried about.\" [...] The US shares intelligence with a group of countries in what is known as the Five Eyes intelligence-sharing alliance, which includes the US, UK, New Zealand, Australia and Canada. That intelligence sharing system has not been impacted as a result of the NSANet outage, according to a source from one of the countries and a former US intelligence official. The NSA released a statement addressing the network issues: \"The National Security Agency experienced temporary degradation during scheduled routine maintenance. While some internal systems were affected, mission-critical capabilities remain fully operational and our ability to defend national security continues. NSA's infrastructure is designed with multiple layers of redundancy to maintain operations during planned maintenance or unexpected events.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 17, 2026 20:00",
+    "published_at": "2026-11-17T20:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Tails 7.17.1 Emergency Update Removes uBlock Origin Over Security Flaw",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369304",
+    "description": "Tails 7.17.1 removes uBlock Origin to address a critical security flaw that could allow malicious websites to steal or manipulate user data.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369304",
+    "date": "Nov 17, 2026 19:04",
+    "published_at": "2026-11-17T19:04:47Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "School Phone Bans Are Gradually Improving Test Scores",
+    "link": "https://mobile.slashdot.org/story/26/11/17/1739215/school-phone-bans-are-gradually-improving-test-scores?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from The New York Times: School cellphone bans are beginning to modestly improve students' academic performance, according to the first large national analysis that compared students' test scores before and after the bans. Schools with strict bans -- requiring students to lock their phones in pouches all school day -- saw math and reading scores improve as if students had an additional week or two of school a year, the study found. It was published Tuesday by the Center for Education Policy Research at Harvard.\n \nU.S. students' test scores began falling over a decade ago. The drop coincided with the rise of smartphones, raising questions about their role in the decline. The evidence so far on the academic effects of phone bans has been mixed. But the new study indicates they are starting to have an influence.\n \nThe study looked at 3.3 million students between 2021 and 2026. They were in third through 10th grade, attending 4,600 U.S. schools. Using scores on MAP tests, which track achievement from fall to spring, it compared the performance of students at schools that put in strict phone bans with those at similar schools that did not have such bans. The annual gains reversed about half the annual loss that an average student experienced in the years leading up to the pandemic. (Students lost even more ground during pandemic closures.) \"The earlier studies on cellphone bans have been dismissed as implying small impacts, and in-school cellphone use has been ruled out as playing a big role in the decline,\" said Thomas Kane, a professor at the Harvard Graduate School of Education and an author of the study. \"But we think that's mistaken.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 17, 2026 19:00",
+    "published_at": "2026-11-17T19:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Jensen Huang Says He'd Be 'Honored' to Return As Nvidia CEO",
+    "link": "https://tech.slashdot.org/story/26/11/17/1748231/jensen-huang-says-hed-be-honored-to-return-as-nvidia-ceo?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "In a post on X today, former Nvidia CEO Jensen Huang says he would be \"honored\" to return to the company if its board gives the approval. \"I did not live up to the standards expected of everyone at NVIDIA, and I have made serious mistakes in my personal life,\" he says. \"I created problems for the Board that I deeply regret. I own my mistakes completely, and I am committed to cooperating with the Board's independent investigation.\"\n \nHuang resigned from the company last week after acknowledging multiple affairs, including one with a women whom U.S. intelligence officials suspect of being a Chinese spy. NPR reports: His comments come as some in Silicon Valley have tried to argue that Huang was pushed out of the company too quickly, and circulated a petition to \"stand with Jensen.\"\n \n\"We don't want rushes to judgment. We don't want political pressure from the left or the right to force a board into action before we've even taken the time to turn over the cards and learn what was done,\" said Brad Gerstner, the founder and CEO of Altimeter Capital, an investor in Nvidia, at Semafor's Silicon Valley and the World conference on Monday. The report notes that Huang and Nvidia's general counsel Tim Teter will answer questions behind closed doors before three congressional committees on December 1 and 2.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 17, 2026 18:00",
+    "published_at": "2026-11-17T18:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Up to 99% of UK civil servants rely on Microsoft for comms, minister admits",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369287",
+    "description": "Whitehall talks up supplier diversification after Redmond's 18-hour outage",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369287",
+    "date": "Nov 17, 2026 17:58",
+    "published_at": "2026-11-17T17:58:50Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "FreeBSD Desktop Install Option Pushed Back To Next Year With FreeBSD 15.3",
+    "link": "https://www.phoronix.com/news/FreeBSD-Desktop-Install-15.3",
+    "description": "FreeBSD 15.0 had been aiming for a nice (KDE-based) desktop install option in its installer that was then delayed to FreeBSD 15.1 and then pushed back to FreeBSD 15.2. FreeBSD 15.2 is due for release in December but there's no last minute miracle and it looks like the desktop install option will now target FreeBSD 15.3 in mid-2027...",
+    "guid": "https://www.phoronix.com/news/FreeBSD-Desktop-Install-15.3",
+    "date": "Nov 17, 2026 17:40",
+    "published_at": "2026-11-17T17:40:51Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "BugMeNot Calls It Quits",
+    "link": "https://tech.slashdot.org/story/26/11/17/1729243/bugmenot-calls-it-quits?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "BugMeNot, the password-sharing service launched in 2003 to help users bypass website registration requirements, has shut down without explanation after more than two decades. All that's left on the website is a farewell message that reads: \"Thanks to everyone who envisioned a better internet.\" heise online reports: Founded by Guy King, the service had been online since 2003: BugMeNot was a collection of login credentials for various online services. Volunteers submitted credentials they had created for different websites.\n \nThe idea was simple: Nobody wants to create a full account and provide all their sensitive information just to use a service occasionally. Two decades ago, this privacy concern was more firmly embedded in the public consciousness, but it has since faded considerably. Back then, usernames and passwords were usually the only access controls, so people could easily submit those credentials. Multifactor authentication was still exotic, and passkeys were a distant prospect.\n \nThe once-popular service lost its shine after just a few years. Service providers quickly discovered and blocked most of the credentials. They could also prevent users from saving logins for their services directly through BugMeNot, for example when those services were paid. More modern security mechanisms also emerged in recent years. As a result, credentials found on BugMeNot rarely worked. Most online providers also blocked the service's disposable email addresses under @bugmenot.com, making them rarely usable. Many people forgot about the site. Now its operators have shut it down without giving a reason. Additional discussions about BugMeNot's closure can be found on Reddit and Hacker News.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 17, 2026 17:30",
+    "published_at": "2026-11-17T17:30:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Canonical is Now Shipping AI-Written Security Patches to Ubuntu Pro Users",
+    "link": "https://feed.itsfoss.com/link/24361/17526502/canonical-surge-announcemengt",
+    "description": "Canonical has built an AI system to patch Ubuntu CVEs. It's Called Surge and it writes and verifies security backports with competing AI models. Fixes go to a separate opt-in \"Edge\" archive, not to your regular Ubuntu updates.",
+    "guid": "6afc84c2070f24000123641f",
+    "date": "Nov 17, 2026 17:17",
+    "published_at": "2026-11-17T17:17:35Z",
+    "image": "https://itsfoss.com/content/images/2026/11/ubuntu-surge.webp",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "Framework Wireless Touchpad Keyboard To Sell For $99 USD, Begins Shipping In Q1",
+    "link": "https://www.phoronix.com/news/Framework-Wireless-Keyboard",
+    "description": "Earlier this year Framework Computer announced the Framework Wireless Touchpad Keyboard as a new product. Today the device is open for pre-order but will not begin shipping until Q1'2027...",
+    "guid": "https://www.phoronix.com/news/Framework-Wireless-Keyboard",
+    "date": "Nov 17, 2026 16:40",
+    "published_at": "2026-11-17T16:40:51Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Redict deprecated in favor of Valkey",
+    "link": "https://lwn.net/Articles/1108155/",
+    "description": "\nDrew DeVault has\nannounced that\nRedict, a fork of Redis that was created in response to\nRedis's 2024 license change, has been deprecated. He recommends switching to Valkey, the permissively licensed Redis fork supported by the Linux Foundation. The two projects are mutually compatible, so switching should be as simple as changing which package is installed and renaming the configuration file.\n\n\n\n\nI had hoped to rally the Redis diaspora around a copyleft initiative, to protect ourselves from future rug-pulls, and made Redict to serve this purpose. However, with the valkey project's success, and Redis's return to a copyleft license, Redict was not able to build a sustainable community.\n\n\nWe recommend that Redict users switch to valkey, which uses a permissive license but has better long-term prospects. We advise against switching back to Redis; though it is once again open source, and copyleft, it uses a contributor license agreement which will facilitate another rug-pull when Redis has a bad financial quarter.\n\n",
+    "guid": "https://lwn.net/Articles/1108155/",
+    "date": "Nov 17, 2026 16:20",
+    "published_at": "2026-11-17T16:20:44Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "Uber Says Hackers Stole Info On Nearly 150K Driver's Licenses During Data Breach",
+    "link": "https://it.slashdot.org/story/26/11/17/0016257/uber-says-hackers-stole-info-on-nearly-150k-drivers-licenses-during-data-breach?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from TechCrunch: Uber is notifying close to 150,000 drivers that their personal and driver's license information was stolen during an October data breach at one of the company's tech providers. In notices filed this week with several U.S. attorneys general, including California and Iowa, the ride-hailing giant said it was notified on October 9 by the provider that hackers broke in and stole internal credentials, which were used to access Uber's data.\n \nThe company said it subsequently began notifying affected drivers that their personal information was stored with the provider. The stolen data includes affected drivers' names, addresses, dates of birth, and driver's license numbers. TechCrunch has learned that the provider is Fireworks AI, which lets developers access and use open-weight AI models. Fireworks reported a data breach last month in which hackers stole its customers' information, including billing data and some private AI datasets.\n \nOnline productivity startup Notion and AI coding startup Cursor have both confirmed that they had data stolen during the Fireworks hack. In Uber's case, the company said it had alerts enabled to detect unauthorized access to its Fireworks environment, but because the hackers used Fireworks' own internal credentials, \"no alerts were triggered.\" [...] In a notice filed with Oregon's attorney general, Uber said it notified 149,346 people in total that their information had been taken in the breach at Fireworks.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 17, 2026 16:00",
+    "published_at": "2026-11-17T16:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "The Much Awaited Linux Multi-Tool Flipper One is Now Available for Pre-order",
+    "link": "https://feed.itsfoss.com/link/24361/17526425/flipper-one-crowdfunding",
+    "description": "The open Linux multi-tool packs an RK3576 chip, 8 GB RAM, Wi-Fi 6E and M.2 expansion, and Flipper Devices says it's selling it with no profit margin.",
+    "guid": "6afbe3c6b0bf2e0001dcc666",
+    "date": "Nov 17, 2026 16:00",
+    "published_at": "2026-11-17T16:00:00Z",
+    "image": "https://itsfoss.com/content/images/2026/11/flipper-one-launch.webp",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "NextCloud Has Launched an Office Suite for Desktop Users",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369292",
+    "description": "Powered by Euro-Office, the app works offline on local files and connects to Nextcloud for co-editing on Linux, Windows, and macOS.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369292",
+    "date": "Nov 17, 2026 15:34",
+    "published_at": "2026-11-17T15:34:24Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "[$] Zellij manages terminal workspaces with style",
+    "link": "https://lwn.net/Articles/1106913/",
+    "description": "Zellij is a relatively new entrant in the\nterminal-multiplexer\ncategory. Like GNU\nScreen and tmux it gives\nusers the ability to manage a workspace inside a terminal with split panes,\nprovides session management, and so forth; but Zellij also includes a web server for\nbrowser access to a terminal session, is extensible via a plugin API, and is likely\nmore beginner-friendly than its predecessors. Its most recent release, version 0.46,\nadds a standalone terminal emulator, a built-in inbox for notifications, and a settings\nscreen so users can configure the application without fussing with\nconfiguration files. While the low version number might suggest that it is not\nyet ready for serious use, it seems stable and full-featured enough to\nmeet the needs of many users.",
+    "guid": "https://lwn.net/Articles/1106913/",
+    "date": "Nov 17, 2026 15:27",
+    "published_at": "2026-11-17T15:27:38Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "Two Independent Projects Want to Bring MATE to Wayland, Each in its Own Way",
+    "link": "https://feed.itsfoss.com/link/24361/17526426/mate-desktop-third-party-wayland-efforts",
+    "description": "Polo builds a new compositor for MATE, while MATE Wayland Desktop runs MATE on labwc from an Ubuntu-based ISO.",
+    "guid": "6afc23c1b0bf2e0001dcc881",
+    "date": "Nov 17, 2026 15:24",
+    "published_at": "2026-11-17T15:24:19Z",
+    "image": "https://itsfoss.com/content/images/2026/11/mate-wayland.webp",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "Kill Your Darlings, a great looking time-management dating-sim RPG gets a playtest and Kickstarter",
+    "link": "https://www.gamingonlinux.com/2026/11/kill-your-darlings-a-great-looking-time-management-dating-sim-rpg-gets-a-playtest-and-kickstarter/",
+    "description": "Kill Your Darlings is an upcoming time-management dating-sim RPG from Stray Fawn Studio (The Wandering Village, Dungeon Clawler) that you can try now.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/11/kill-your-darlings-a-great-looking-time-management-dating-sim-rpg-gets-a-playtest-and-kickstarter/",
+    "date": "Nov 17, 2026 15:00",
+    "published_at": "2026-11-17T15:00:36Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/472323962id30214gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Three stable kernels for Tuesday",
+    "link": "https://lwn.net/Articles/1108142/",
+    "description": "Greg Kroah-Hartman has announced the 7.3.5,\n6.18.64, and 6.12.118 stable kernels. Each contains quite a few\nimportant fixes.\n\n",
+    "guid": "https://lwn.net/Articles/1108142/",
+    "date": "Nov 17, 2026 14:25",
+    "published_at": "2026-11-17T14:25:10Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "Agama Unattended installation openSUSE Tumbleweed hosts via remote Agama-Proxy.service on top of F45 Server (bare metal )",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369293",
+    "description": "Why efforts of setting up Agama-Proxy.service on top of F45 Server (bare metal ) are worth full ? Decoupled Architecture: Using the Fedora web service to translate schema mutations on the fly prevents you from having to modify the core provisioning tools your developers use. Low Footprint: By using built-in standard modules (http.server, socketserver), it runs out of the box on Fedora 45's Python without downloading any external packages. Smart Interception: It cleanly passes all other GET requests to a standard file server while dynamically modifying only the targeted JSON route.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369293",
+    "date": "Nov 17, 2026 14:24",
+    "published_at": "2026-11-17T14:24:59Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Security updates for Tuesday",
+    "link": "https://lwn.net/Articles/1108140/",
+    "description": "Security updates have been issued by AlmaLinux (.NET 10.0, .NET 11.0, .NET 8.0, .NET 9.0, bind, bind9.18, buildah, c-ares, cjose, cockpit, cockpit-files, cockpit-machines, cockpit-podman, containernetworking-plugins, crun, delve, dhcp, dogtag-pki, dovecot, dpdk, edk2, emacs, environment-modules, expat, fetchmail, firefox, flatpak, flatpak-builder, freerdp, gcc, gcc-toolset-15-gcc, gcc-toolset-16-gcc, git-lfs, glib2, glibc, glycin-loaders, gnome-remote-desktop, go-fdo-client, go-fdo-server, grafana, grafana-pcp, gstreamer1, gstreamer1-plugins-bad-free, gstreamer1-plugins-base, guava, gvfs, gvisor-tap-vsock, ignition, iperf3, java-1.8.0-openjdk, jq, kernel, librabbitmq, libreswan, librsvg2, libsoup, libsoup3, libX11, libXi, libxml2, libXrender, libXtst, lrzsz, microcode_ctl, mingw-glib2, mod_auth_openidc, mod_http2, NetworkManager, nginx, nginx:1.24, nginx:1.26, nodejs:24, nodejs:26, oci-seccomp-bpf-hook, openexr, openssh, openssl, pcp, perl-DBI, perl-DBI:1.641, perl-URI, php:8.4, podman, polkit, postgresql:16, python-jwcrypto, python-oauthlib, python-tornado, python3, python3.12, python3.9, rpm, rsyslog, runc, rust-sequoia-sq, sos, squid, sssd, tesseract, tftp, tomcat, tomcat9, unbound, util-linux, webkit2gtk3, wireshark, xdg-dbus-proxy, xfsprogs, xorg-x11-server, xz, and yggdrasil), Debian (gnocchi, kernel, lightdm, roundcube, zaqar, and znc), Fedora (assimp, chromium, criu, freerdp, maturin, mysql8.4, perl-Catalyst-Plugin-Authentication, python-jiter, python-pymdown-extensions, python-pysequoia, qtox, ruff, rust-afterburn, rust-astral_async_zip, rust-clearscreen, rust-coreutils, rust-jiter, rust-lzma-rust2, rust-mailparse, rust-pyo3-introspection, rust-python-pkginfo, rust-sccache, rust-serde_json, rust-testresult, rust-zip, selenium-manager, tpm2-tss, ty, and xfsprogs), SUSE (apache2, azure-storage-azcopy, container-suseconnect, containerd, crane, dpdk, ghostscript, google-cloud-sap-agent, google-osconfig-agent, govulncheck-vulndb, graphifyy, hauler, helm, helm3, hivex, java-21-openjdk, java-25-openjdk, libevent-2_1-7, libmikmod-devel, libXi, mtools, nodejs24, open-iscsi, parted, podman, psqlODBC, python-M2Crypto, python-tornado6, python3, re2c, rsyslog, speex, thunderbird, valkey, vsftpd, and zbar), and Ubuntu (buildstream, cairosvg, commons-configuration2, deluge, dokuwiki, eterm, gnupg1, groovy, gst-plugins-bad1.0, gst-plugins-base1.0, h2o, htmldoc, net-snmp, netkit-rsh, node-moment, openjdk-25-crac, pdfresurrect, pillow, postsrsd, psensor, rlottie, sos, sosreport, vim-syntastic, yadifa, zbar, and zutils).",
+    "guid": "https://lwn.net/Articles/1108140/",
+    "date": "Nov 17, 2026 14:15",
+    "published_at": "2026-11-17T14:15:33Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "New AMDGPU Linux Patches From Valve Aim To Reduce Stuttering With Steam Play Games",
+    "link": "https://www.phoronix.com/news/AMDGPU-Sparse-Gaming-Valve",
+    "description": "Natalie Vock of Valve's Linux graphics driver team sent out a new version of AMDGPU kernel driver patches today that aim to provide \"significant reductions in stuttering\" for some newer Windows games running on Linux by way of Steam Play (Proton)...",
+    "guid": "https://www.phoronix.com/news/AMDGPU-Sparse-Gaming-Valve",
+    "date": "Nov 17, 2026 14:05",
+    "published_at": "2026-11-17T14:05:20Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Incremental horror game show Wheel of Torture looks worth keeping an eye on",
+    "link": "https://www.gamingonlinux.com/2026/11/incremental-horror-game-show-wheel-of-torture-looks-worth-keeping-an-eye-on/",
+    "description": "After something spooky and a little different? Wheel of Torture combines the worlds of horror and incremental into something peculiar.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/11/incremental-horror-game-show-wheel-of-torture-looks-worth-keeping-an-eye-on/",
+    "date": "Nov 17, 2026 14:02",
+    "published_at": "2026-11-17T14:02:47Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1750927917id30213gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Unity acquired Synty Studios to power Unity Spark, their AI game creation platform",
+    "link": "https://www.gamingonlinux.com/2026/11/unity-acquired-synty-studios-to-power-unity-spark-their-ai-game-creation-platform/",
+    "description": "Unity continues their push into generative AI, acquiring asset pack maker Synty Studios with plans for their asset packs to arrive in Unity Spark.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/11/unity-acquired-synty-studios-to-power-unity-spark-their-ai-game-creation-platform/",
+    "date": "Nov 17, 2026 13:46",
+    "published_at": "2026-11-17T13:46:29Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1253463716id30212gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Btrfs Seeks To Deal With AI \u0026 \"Newbies Without Common Senses\" Doing More Harm Than Good",
+    "link": "https://www.phoronix.com/news/Btrfs-LLM-Newbies-Guidelines",
+    "description": "The Btrfs file-system could soon see new patch guidelines in Linux Git as the developers try to deal with the fallout from AI/LLMs and \"newbies without common senses are doing more harm than help.\"..",
+    "guid": "https://www.phoronix.com/news/Btrfs-LLM-Newbies-Guidelines",
+    "date": "Nov 17, 2026 12:55",
+    "published_at": "2026-11-17T12:55:56Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "AMD Gets Its Firmware Ready For Upcoming RDNA 4m iGPUs On Linux",
+    "link": "https://www.phoronix.com/news/AMD-RDNA-4m-Firmware",
+    "description": "AMD overnight merged the latest changes of the open-source graphics driver puzzle for the upcoming RDNA 4m \"GFX17x\" iGPUs on Linux. The firmware is ready for enabling the next-gen AMD iGPUs on Linux...",
+    "guid": "https://www.phoronix.com/news/AMD-RDNA-4m-Firmware",
+    "date": "Nov 17, 2026 11:34",
+    "published_at": "2026-11-17T11:34:00Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "NVIDIA Engineer Works On New User-Space Linux Control For Preferred CPU Cores",
+    "link": "https://www.phoronix.com/news/NVIDIA-Linux-Prefer-CPU-Cores",
+    "description": "A request for comments patch series from a NVIDIA engineer would allow Linux to expose a new sysfs control so user-space can express preferred CPU cores.  This could be tied into user-space solutions like Thermald for preferring certain CPU cores over the others based on the CPU core temperatures or other external factors...",
+    "guid": "https://www.phoronix.com/news/NVIDIA-Linux-Prefer-CPU-Cores",
+    "date": "Nov 17, 2026 11:16",
+    "published_at": "2026-11-17T11:16:30Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "'123456' Has Been the World's Most Popular Password for 7 of the Last 8 Years",
+    "link": "https://it.slashdot.org/story/26/11/17/006235/123456-has-been-the-worlds-most-popular-password-for-7-of-the-last-8-years?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "\"123456\" is once again the world's most commonly used password, topping NordPass's annual ranking for the seventh time in eight years. The Register reports: Even when 123456 wasn't number one, it was still near the top of the heap, as the top three passwords in the list remain unchanged in the eight years NordPass has published its list: 123456, admin, and 12345678. It's not like the rest of the most common passwords are showing any variety either. According to NordPass, the only real shuffling among the 10 most popular passwords was the entry of the worryingly short 1234 into the top ten and the migration of the ever-popular password \"password\" down slightly in the top 10 from 6th to 7th place.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 17, 2026 11:00",
+    "published_at": "2026-11-17T11:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Xfce 4.22 Working Toward Early 2027 Release",
+    "link": "https://www.phoronix.com/news/Xfce-4.22-Roadmap",
+    "description": "Next month marks two years since the Xfce 4.20 release. Its successor, Xfce 4.22, looks like it will be out in early 2027...",
+    "guid": "https://www.phoronix.com/news/Xfce-4.22-Roadmap",
+    "date": "Nov 17, 2026 10:50",
+    "published_at": "2026-11-17T10:50:41Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "REAPER Digital Audio Workstation Sees Native Wayland Port",
+    "link": "https://www.phoronix.com/news/REAPER-DAW-Wayland",
+    "description": "The REAPER digital audio workstation software, which was ported to Linux over the past decade and targeting X11, now has pending code for a native Wayland experience...",
+    "guid": "https://www.phoronix.com/news/REAPER-DAW-Wayland",
+    "date": "Nov 17, 2026 10:42",
+    "published_at": "2026-11-17T10:42:54Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Get some quality open world games in the Survival of the Fittest Humble Bundle",
+    "link": "https://www.gamingonlinux.com/2026/11/get-some-quality-open-world-games-in-the-survival-of-the-fittest-humble-bundle/",
+    "description": "Humble is back in action with a rather good one here. The Survival of the Fittest Humble Bundle has arrived with some really good picks.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/11/get-some-quality-open-world-games-in-the-survival-of-the-fittest-humble-bundle/",
+    "date": "Nov 17, 2026 08:52",
+    "published_at": "2026-11-17T08:52:27Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/218945825id30211gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Half-Life remake Black Mesa gets a huge update, and now Steam Deck Verified",
+    "link": "https://www.gamingonlinux.com/2026/11/half-life-remake-black-mesa-gets-a-huge-update-and-now-steam-deck-verified/",
+    "description": "The excellent Half-Life remake, Black Mesa, has a huge free update out now and it's now Steam Deck Verified too.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/11/half-life-remake-black-mesa-gets-a-huge-update-and-now-steam-deck-verified/",
+    "date": "Nov 17, 2026 08:30",
+    "published_at": "2026-11-17T08:30:54Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/739550330id30210gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "DOOM: The Dark Ages gets a new Slaughter Mode along with AMD FSR 4",
+    "link": "https://www.gamingonlinux.com/2026/11/doom-the-dark-ages-gets-a-new-slaughter-mode-along-with-amd-fsr-4/",
+    "description": "DOOM: The Dark Ages brings the Slaughter Mode for Update 5 along with AMD FSR 4 now that it's available officially for Vulkan.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/11/doom-the-dark-ages-gets-a-new-slaughter-mode-along-with-amd-fsr-4/",
+    "date": "Nov 17, 2026 08:12",
+    "published_at": "2026-11-17T08:12:26Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/429542825id30209gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "SteamOS 3.10.1 Preview released to fix display issues",
+    "link": "https://www.gamingonlinux.com/2026/11/steamos-3-10-1-preview-released-to-fix-display-issues/",
+    "description": "Following quickly on from the recent exciting SteamOS 3.10.0 Preview, Valve put up another version with some quick important fixes.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/11/steamos-3-10-1-preview-released-to-fix-display-issues/",
+    "date": "Nov 17, 2026 08:03",
+    "published_at": "2026-11-17T08:03:05Z",
+    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/steamos_gol2.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "California Sues OpenAI Over Hugging Face, Other AI Model Loss of Control",
+    "link": "https://yro.slashdot.org/story/26/11/16/2353225/california-sues-openai-over-hugging-face-other-ai-model-loss-of-control?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "\"California's attorney general just sued OpenAI,\" writes longtime Slashdot reader destinyland. \"The action accuses OpenAI of putting public safety at risk, reports CNBC, specifically by its past failures to contain its AI models within their testing environments.\" From the report: [California Attorney General Rob Bonta] cited the \"infamous\" incident in July, where two OpenAI models broke out of a testing environment, gained unauthorized access to the open internet, and breached the internal systems of open-source developer platform Hugging Face. OpenAI said the models were trying to find information that they could use to cheat on an evaluation, and succeeded. The break-in at Hugging Face, which Nvidia acquired for roughly $13 billion in September, rattled industry researchers and prompted government officials to call for more stringent oversight of the AI industry.\n \nOn Monday, Bonta said that OpenAI later disclosed to his investigators that it was aware of 80 incidents \"involving loss of control and access to third-party networks and websites.\" \"But the company failed to provide the detailed information we requested to evaluate these incidents; this is concerning, and it puts the public at risk,\" he said.\n \nBonta's suit, filed in state Superior Court in San Francisco, alleges OpenAI violated California's Unfair Competition Law and accuses the company of being a public nuisance as defined by state law. The attorney general told reporters he believed in AI's technological power, and the potential of AI models to \"achieve scientific breakthroughs, boost economic growth, guard against cyber attacks, and benefit all Californians.\" \"But AI systems must be developed and designed safely,\" he said. \"The companies that develop these models have a moral and yes, a legal responsibility to keep public safety at the forefront.\" The lawsuit can be found here (PDF).\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 17, 2026 07:00",
+    "published_at": "2026-11-17T07:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
     "title": "Discord’s Linux app sure did improve a lot this year",
     "link": "https://lxer.com/module/newswire/ext_link.php?rid=369281",
     "description": "Discord recently shared a potted roundup of improvements made to its Linux app this year, including smarter updating, better screen sharing on Wayland and working push-to-talk. Their Discord \u003c3 Linux: A Year of Upgrades blog post also reveals that per-app audio sharing is finally coming to Wayland-based desktops, though it’s not ready for testing just yet. As I don’t personally use Discord that…",
@@ -198,28 +545,6 @@
     "source_url": "https://slashdot.org/"
   },
   {
-    "title": "Robert Pattinson Named As New 007",
-    "link": "https://entertainment.slashdot.org/story/26/11/16/173246/robert-pattinson-named-as-new-007?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Robert Pattinson has officially been cast as the next James Bond, succeeding Daniel Craig as 007 and ending months of speculation over actors including Callum Turner, Nicholas Hoult and Jack Lowden. Denis Villeneuve will direct the new Amazon MGM film, with Steven Knight writing the screenplay.\n \n\"James Bond is one of the most legendary characters in cinema, and to be entrusted with 007 is the honor of a lifetime,\" Pattinson said in a statement. \"I'm deeply grateful to Denis, Amy, David, Tanya and everyone at Amazon MGM Studios for their belief in me. To say this role is a dream come true is an understatement. I couldn't be more excited about this partnership and the work ahead with this fantastic team.\" Variety reports: Pattinson picks up the 007 mantle after Daniel Craig's five-movie run as the womanizing super spy, which began in 2006 with \"Casino Royale.\" Craig's final turn was in 2021's \"No Time to Die,\" which ends with Bond sacrificing himself to save the world from a secret global terrorist organization. \"No Time to Die\" was also the last film in the series released before longtime producers Michael G. Wilson and Barbara Broccoli sold creative control of the franchise to Amazon MGM for $20 million.\n \n[...] Pattinson also has the big IP experience needed to lead a franchise like James Bond. In 2022, Pattinson debuted as the titular Caped Crusader in Matt Reeves' \"The Batman.\" He is set to revisit Gotham for the sequel in 2028. Those doubting Pattinson would land 007 often pointed to his obligations to Bruce Wayne as a reason why he could never take on Bond. However, after several production delays with \"The Batman Part II,\" it seems Pattinson is ready for a new longterm relationship with another familiar big-screen icon.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 16, 2026 17:30",
-    "published_at": "2026-11-16T17:30:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "US Closes Loophole That Allowed China To Remotely Access Nvidia Chips",
-    "link": "https://hardware.slashdot.org/story/26/11/16/1645203/us-closes-loophole-that-allowed-china-to-remotely-access-nvidia-chips?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "An anonymous reader quotes a report from Forbes: In a statement published on Monday, the Commerce Department said a new interim rule will address \"rapid advancements in cloud computing\" that have made it easier for countries like China to access advanced AI chips under export controls, including by accessing them remotely in data centers located in countries not under U.S. export controls. The new rule will require an additional license to export, reexport or transfer chips to companies in Indonesia, Malaysia, Singapore, Thailand, Brazil, or any other country the U.S. deems a \"higher-than-normal risk of diversion.\"\n \nLast week, former Nvidia CEO Jensen Huang resigned after admitting to having an affair, which was linked to a relationship with Alice Huang, an alleged Chinese intelligence asset and a former executive at Singaporean data center firm Megaspeed, an Nvidia customer that was previously under suspicion for allowing China access to the company's advanced AI chips. The news comes days after Axios reported Lutnick held back from cracking down on companies suspected of diverting chips to China -- despite clashing with other Cabinet members including Treasury Secretary Scott Bessent, Secretary of State Marco Rubio and Defense Secretary Pete Hegseth.\n \nSpeaking to Fox Business's \"Sunday Morning Futures\" over the weekend, Bessent said he did not think the U.S. needed new legislation for regulating AI chip sales, saying \"we have all the rules we need, we just need them enforced\" and insisting \"many other departments were pushing for this, and Commerce had the pen.\" The new restrictions come the same morning President Donald Trump leaves for an extended trip to Asia, which will include a meeting with Chinese President Xi Jinping and Russian President Vladimir Putin in Shenzhen.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 16, 2026 17:00",
-    "published_at": "2026-11-16T17:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
     "title": "Questions for Public Administrations",
     "link": "https://lxer.com/module/newswire/ext_link.php?rid=369237",
     "description": "Between the evening of 12 November and the afternoon of 13 November 2026, Microsoft 365 services (Exchange Online, Outlook, Teams, Copilot) were unavailable or degraded in at least 70 countries for almost 24 hours. According to Microsoft, the cause was a network capacity upgrade, not a cyber attack. Public bodies",
@@ -228,17 +553,6 @@
     "published_at": "2026-11-16T16:54:01Z",
     "source": "lxer.com",
     "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Microsoft Blames Monster Email Outage On Software Defect Introduced In July Fix",
-    "link": "https://tech.slashdot.org/story/26/11/16/1628256/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Microsoft says last week's massive Microsoft 365 outage was caused by a software defect introduced in a July update that remained dormant until a Teams failover and a simultaneous 14% reduction in gateway capacity triggered a cascading failure. More than 80% of the affected gateway servers became unresponsive at the outage's worst point, and because the months-old change could not simply be rolled back, engineers spent roughly 15 hours developing and deploying a patch that restored the previous code path. The Register reports: According to a preliminary post incident report published by Microsoft on November 15, the defect was introduced in July 2026. The update looked fine at the time, Microsoft says, having passed load testing and been deployed without any impact. However, the testing wasn't good enough. Microsoft's report states: \"Our load testing tended to focus on weaker hardware with fewer cores.\" The defect caused \"lock contention inside an internal Windows process which caused the machine's resources (CPU \u0026 memory) to be exhausted.\"\n \n\"The contention issue is worsened on machines with more cores and newer hardware.\" The fix containing the defect was prepared specifically for Microsoft 365 network gateway servers. Then two things happened at once. Teams failed over to the \"primary\" gateway that supports Exchange Online, creating a surge in load that was not, in itself, particularly unusual. At the same time, almost 14 percent of server capacity for the networking gateway was out of service, which wasn't a problem by itself either: it was on its way to being restored and, according to Microsoft, \"the service had sufficient capacity headroom.\" Together, they pushed the gateway into the defect and chaos ensued. It was a classic cascading failure scenario. When a server loses connectivity, traffic gets routed to the next healthy endpoint. Which encountered the same problem. So traffic was rerouted again and... you can see where this was going. Within two hours, the defect was encountered across Microsoft's fleet. \"At its lowest,\" the report states, \"more than 80 percent of servers were unresponsive.\"\n \nSo, what to do? Bringing servers back to service didn't help -- they were immediately overwhelmed and fell over again. \"Our normally automated recovery processes were not designed to restore service from this broad unresponsive state.\" A straightforward rollback was also not possible because the defect was months old. Instead, engineers developed patch for the patch or, in Microsoft's words, \"an update that returned the code path to the previously known good state in Windows.\" The patch was applied to groups of servers and service was gradually restored.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 16, 2026 16:30",
-    "published_at": "2026-11-16T16:30:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
   },
   {
     "title": "Dictate into any app on Fedora with TuxTalk",
@@ -380,238 +694,6 @@
     "guid": "https://www.phoronix.com/news/LLVM-R600-Backend-To-Retire",
     "date": "Nov 16, 2026 13:04",
     "published_at": "2026-11-16T13:04:01Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "AI-Assisted Coders Run Windows on iPhone Duo, Build a Floppy Disk-Based AI Chatbot for MS-DOS",
-    "link": "https://tech.slashdot.org/story/26/11/16/0848255/ai-assisted-coders-run-windows-on-iphone-duo-build-a-floppy-disk-based-ai-chatbot-for-ms-dos?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "The blog XDA Developers reports that a Claude enthusiast used the AI assistant to make a language model that runs off a floppy disk. \"And you can stick it on a DOS computer to boot.\" \n\nThe language models \"runs at a respectable speed, given that it's running off a CPU that was designed decades before LLMs were even a thing.\"\n\n\n\n\nOver on the ClaudeAI subreddit, user wollymonjak showed off this really impressive feat... [I]t's not going to be a particularly powerful AI; in fact, wollymonjak notes that if you ask something too complex or too long, it starts spitting out nonsense. But who cares about that when you're using a language model on DOS?\n \n\n\nThe same blog also notes that \"the iPhone Duo hasn't been out for too long, and someone has already gotten Windows 11 on it.\"\n\nAs spotted by TechSpot, this cool feat was performed by Ammaar Reshi over on X. Their project is called WindowsiOS, and its goal is to get Windows 11 running on an iPhone Duo without jailbreaking. Usually, when we cover a project coded up by AI, Claude is the one that called the shots; this time, Reshi opted to use Gemini 4 Carbon, Google's flagship model.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 16, 2026 12:34",
-    "published_at": "2026-11-16T12:34:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "9to5Linux Weekly Roundup: November 15th, 2026",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369235",
-    "description": "The 318th installment of the 9to5Linux Weekly Roundup is here for the week ending November 15th, 2026, keeping you updated on the most important developments in the Linux world.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369235",
-    "date": "Nov 16, 2026 12:06",
-    "published_at": "2026-11-16T12:06:11Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "GCC 17 Might Land Native AArch64 Darwin/macOS Support",
-    "link": "https://www.phoronix.com/news/GCC-Native-AArch64-Darwin-Patch",
-    "description": "After being in development since the GCC 10 days (2020) and already patched in the GCC compiler builds for Homebrew and MacPorts, the upstream GCC 17 compiler might finally land native AArch64 Darwin support for benefiting macOS with Apple Silicon...",
-    "guid": "https://www.phoronix.com/news/GCC-Native-AArch64-Darwin-Patch",
-    "date": "Nov 16, 2026 11:25",
-    "published_at": "2026-11-16T11:25:16Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Modern NTFS Driver Gaining O_TMPFILE Support With Linux 7.5",
-    "link": "https://www.phoronix.com/news/Linux-7.5-NTFS-TMPFILE",
-    "description": "The modern NTFS Linux driver that was introduced with the \"NTFS Resurrection\" back in Linux 7.2 continues seeing new features enabled and other improvements made to this open-source NTFS read/write kernel driver. For the upcoming Linux 7.5 kernel cycle, O_TMPFILE support is being queued for temporary file handling...",
-    "guid": "https://www.phoronix.com/news/Linux-7.5-NTFS-TMPFILE",
-    "date": "Nov 16, 2026 11:13",
-    "published_at": "2026-11-16T11:13:08Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Purism Aiming To Deliver New Librem 5 Smartphone With RISC-V SoC",
-    "link": "https://www.phoronix.com/news/Librem-5-v2-Announced",
-    "description": "After the variety of delays and other challenges that Purism had with their Librem 5 smartphone, surprisingly, they are trying again now with the Librem 5 v2 smartphone being announced...",
-    "guid": "https://www.phoronix.com/news/Librem-5-v2-Announced",
-    "date": "Nov 16, 2026 11:06",
-    "published_at": "2026-11-16T11:06:05Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "AMD Posts Linux Patches For Capacity Aware Scheduling On Hybrid CPUs",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369224",
-    "description": "On Saturday a new set of Linux kernel driver patches were posted by AMD for enabling Capacity Aware Scheduling on AMD heterogeneous/hybrid processors…",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369224",
-    "date": "Nov 16, 2026 10:52",
-    "published_at": "2026-11-16T10:52:15Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Fwupd 2.1.10 Brings Fixes, New Synaptics Touchpad Supported",
-    "link": "https://www.phoronix.com/news/Fwupd-2.1.10-Released",
-    "description": "Lead Fwupd/LVFS developer Richard Hughes of Red Hat kicked off the new week by releasing Fwupd 2.1.10 as the newest stable release for performing firmware updates on Linux...",
-    "guid": "https://www.phoronix.com/news/Fwupd-2.1.10-Released",
-    "date": "Nov 16, 2026 10:34",
-    "published_at": "2026-11-16T10:34:54Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Get a big mixture of silly games in the Seriously Unserious Collection Humble Bundle",
-    "link": "https://www.gamingonlinux.com/2026/11/get-a-big-mixture-of-silly-games-in-the-seriously-unserious-collection-humble-bundle/",
-    "description": "Now some of the issues have been solved from the recent Humble Store overhaul, it's time for a new highlight with the Seriously Unserious Collection Humble.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/11/get-a-big-mixture-of-silly-games-in-the-seriously-unserious-collection-humble-bundle/",
-    "date": "Nov 16, 2026 09:54",
-    "published_at": "2026-11-16T09:54:14Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1471653202id30205gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Librem 5 second-gen $1599 RISC-V Linux phone",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369229",
-    "description": "Purism is crowdfunding a new version of its Librem 5 Linux smartphone, this one powered by RISC-V rather than Arm. Librem 5 v2 will use an octa-core SpacemiT K1 RISC-V SoC, replacing the quad-core ARM64 NXP CPU This platform shift will provide much better performance and longer battery life than the existing Librem 5 – and not run as hot in use. Memory is increased to 8 GB RAM, up from 3 GB in…",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369229",
-    "date": "Nov 16, 2026 09:42",
-    "published_at": "2026-11-16T09:42:25Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Wuthering Waves fixes for SteamOS / Linux in the new DWProton 11.0-17 release",
-    "link": "https://www.gamingonlinux.com/2026/11/wuthering-waves-fixes-for-steamos-linux-in-the-new-dwproton-11-0-17-release/",
-    "description": "DWProton that's popular for various Anime games on SteamOS / Linux has a new release out, to bring fixes for the latest Wuthering Waves updates.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/11/wuthering-waves-fixes-for-steamos-linux-in-the-new-dwproton-11-0-17-release/",
-    "date": "Nov 16, 2026 09:31",
-    "published_at": "2026-11-16T09:31:54Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1148438577id30204gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Planetary Annihilation: TITANS finally gets a new modern UI system",
-    "link": "https://www.gamingonlinux.com/2026/11/planetary-annihilation-titans-finally-gets-a-new-modern-ui-system/",
-    "description": "Planetary Annihilation: TITANS has a new update out now, which finally tears out their old and unreliable UI system ready to keep expanding the game.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/11/planetary-annihilation-titans-finally-gets-a-new-modern-ui-system/",
-    "date": "Nov 16, 2026 09:20",
-    "published_at": "2026-11-16T09:20:01Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1530530423id30203gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Kernel prepatch 7.4-rc3",
-    "link": "https://lwn.net/Articles/1107606/",
-    "description": "The 7.4-rc3 kernel prepatch is out for\ntesting.  Linus declared: \"It looks fairly normal, with drivers\n(networking and gpu) leading the charge. There's lots and lots of changes,\nbut most of the actual patches are tiny.\"",
-    "guid": "https://lwn.net/Articles/1107606/",
-    "date": "Nov 16, 2026 09:07",
-    "published_at": "2026-11-16T09:07:45Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "Super Meat Boy Again+ announced reviving the classic tough platformer",
-    "link": "https://www.gamingonlinux.com/2026/11/super-meat-boy-again-announced-reviving-the-classic-tough-platformer/",
-    "description": "Super Meat Boy Again+ was recently revealed by Team Meat, going back to their original 2D origins.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/11/super-meat-boy-again-announced-reviving-the-classic-tough-platformer/",
-    "date": "Nov 16, 2026 08:50",
-    "published_at": "2026-11-16T08:50:58Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/302816187id30202gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Selaco: The Machines of War massive free update is out now",
-    "link": "https://www.gamingonlinux.com/2026/11/selaco-the-machines-of-war-massive-free-update-is-out-now/",
-    "description": "Selaco: The Machines of War is a massive free update out now for the incredible retro shooter, with lots that's new to play through.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/11/selaco-the-machines-of-war-massive-free-update-is-out-now/",
-    "date": "Nov 16, 2026 08:40",
-    "published_at": "2026-11-16T08:40:07Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1162141060id30201gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Purism Announces 'Librem 5 v2' Linux Phone with RISC-V SoC",
-    "link": "https://mobile.slashdot.org/story/26/11/16/0742226/purism-announces-librem-5-v2-linux-phone-with-risc-v-soc?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "From the Linux-news blog OMG Ubuntu:\n\n\nPurism is crowdfunding a new version of its Librem 5 Linux smartphone, this one powered by RISC-V rather than Arm. \n\nLibrem 5 v2 will use an octa-core SpacemiT K1 RISC-V SoC, replacing the quad-core Arm64 NXP CPU. This processor shift will provide better performance and longer battery life than the original Librem 5 and not run as hot in use. Memory is bumped to 8 GB RAM, up from 3 GB, and storage leaps to 128 GB from 32 GB. Librem 5 v2 will run PureOS, Purism's Debian-based operating system using Phosh as its UI. SD card read speeds are faster, which is handy since the device can boot a second OS from a memory card. On-board hardware encoding means the Librem 5 will be able to take 13 megapixel photos and shoot high-definition video for the first time.... \n\n\"RISC-V is the future, and Librem 5 v2 is the perfect product to bring it to a mainstream audience\", Jonathon Hall, CTO at Purism, says of the launch.\n\"Freeing us from the control of Big Tech starts with the foundation, and RISC-V's foundation frees us from the oligarchy. The Librem 5 v2 puts you in control of your data, combining that with the ease of use we expect in the modern era\".\n \n\nIts specifications include a 5.7-inch 720 x 1440 display, hardware kill switches, and a removable 4500mAh battery, writes Slashdot reader BrianFagioli:\n\nThe asking price is $1,599, with production delivery targeted for roughly May 2028.. Purism acknowledges remaining work on graphics, peripheral drivers, ARM64 app emulation, and power management. NERDS.xyz argues that the concept is appealing, but the price and wait are difficult to justify for an everyday phone. Android already uses the Linux kernel, so the appeal here is an alternative built around PureOS and the broader desktop Linux ecosystem. Is this a reasonable cost to help fund that alternative, or too much money for hardware and software that buyers cannot yet evaluate as a finished product? \n\nPurism says they've already received 53 of their goal of 2,500 orders (2%) with 91 days still remaining. (The campaign runs through February 15 of 2027)\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 16, 2026 08:34",
-    "published_at": "2026-11-16T08:34:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Rspamd 4.3 Spam Filtering System Gets Security Fixes, Better Phishing Detection",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369230",
-    "description": "Rspamd 4.3 fixes security vulnerabilities, improves phishing detection, and strengthens email authentication and malicious attachment inspection.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369230",
-    "date": "Nov 16, 2026 08:25",
-    "published_at": "2026-11-16T08:25:19Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Check out the new demo for CultGame, an ASCII art cult simulator RPG",
-    "link": "https://www.gamingonlinux.com/2026/11/check-out-the-new-demo-for-cultgame-an-ascii-art-cult-simulator-rpg/",
-    "description": "Bringing back some classic style to gaming - the cult simulator RPG CultGame now has a demo available to try out.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/11/check-out-the-new-demo-for-cultgame-an-ascii-art-cult-simulator-rpg/",
-    "date": "Nov 16, 2026 08:19",
-    "published_at": "2026-11-16T08:19:47Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/424479328id30200gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Epic Games Launcher Preview for Linux now has an unofficial Flathub package",
-    "link": "https://www.gamingonlinux.com/2026/11/epic-games-launcher-preview-for-linux-now-has-an-unofficial-flathub-package/",
-    "description": "While Epic Games only currently have an Ubuntu / Debian package (with plans for more), so the community has put the Epic Games Launcher up on Flathub.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/11/epic-games-launcher-preview-for-linux-now-has-an-unofficial-flathub-package/",
-    "date": "Nov 16, 2026 08:05",
-    "published_at": "2026-11-16T08:05:54Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1692217838id30199gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Manjaro Developers Just Took the Distro Away From the Company That Owns It",
-    "link": "https://feed.itsfoss.com/link/24361/17525382/manjaro-nonprofit-registered",
-    "description": "Manjaro Linux is splitting. The seven founding members still need to finalize the statutes and invite more people before talks with the company begin.",
-    "guid": "6afa8f05b0bf2e0001dcc12b",
-    "date": "Nov 16, 2026 07:34",
-    "published_at": "2026-11-16T07:34:20Z",
-    "image": "https://itsfoss.com/content/images/2026/11/manjaro-project-ev-banner.png",
-    "source": "itsfoss.com",
-    "source_url": "https://itsfoss.com/"
-  },
-  {
-    "title": "ULA Vulcan Rocket Failure Destroys 40 Amazon Leo Satellites",
-    "link": "https://science.slashdot.org/story/26/11/16/0550239/ula-vulcan-rocket-failure-destroys-40-amazon-leo-satellites?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "United Launch Alliance's new heavy-lift Vulcan rocket \"malfunctioned while climbing into space yesterday,\" writes Engadget, \"destroying its payload of 40 Amazon Leo internet satellites...\"\n\n\nLaunch failures are always a risk, but amazingly, United Launch Alliance had never experienced one previously. Since the company formed in 2006 as a partnership between Boeing and Lockheed Martin, its Atlas V rocket has been famously dependable. Now, the company's more powerful, more complex Vulcan will be under review by engineers and is facing a possible grounding... \n\n\n\nAs well as being a major setback for United Launch Alliance, the failed launch will be a blow to Amazon's Leo internet satellite system, intended to rival SpaceXSI's Starlink network. Leo has 38 Vulcan flights booked to launch its satellites, following eight successful Atlas V missions. Many of those are now likely to be delayed. Amazon's other launch provider, Jeff Bezos' Blue Origin, suffered its own setback in May when its New Glenn rocket exploded on the launchpad. \n\n\nThe Federal Communications Commission required Amazon Leo to have 1,600 satellites in orbit by July 31, 2026, but so far it only has around 390 in service... \"No operator could have predicted that all three core heavy-lift launch programs... would experience repeated, concurrent scheduling slips severe enough to exhaust the buffers Amazon Leo had built in,\" the company said back in July. \n\n\"Every flight generates data, and every flight teaches us something,\" the company said in a post on X, promising a transparent and thorough investigation. \"We will provide further updates when new information becomes available. \n\nThanks to long-time Slashdot reader schwit1 for sharing the news.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 16, 2026 06:34",
-    "published_at": "2026-11-16T06:34:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "AI-Generated Books Confront Publishing Industry With Big Questions",
-    "link": "https://news.slashdot.org/story/26/11/16/0342245/ai-generated-books-confront-publishing-industry-with-big-questions?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Romance novelist Coral Hart publishes her own romance novels for the Kindle, and found a kind of superpowere when she realized \"the algorithm favours those who can produce a new book at least once a month,\" reports The Guardian:\n\n\n Hart says she knows of authors who hire more than a dozen ghostwriters to keep pace. By herself, Hart can write 10,000 words a day, but AI could help her produce many more. Since 2025 she has written 370 novels under 21 pen names using AI, earning herself \"high six figures\". Like any Kindle Unlimited author, she is only paid per pages read: it would make no business sense for her to churn out books that readers quickly abandon... \"So, it's not taking the human out of the equation. It's taking the friction and the time and the business blocks out of the way.\" \n\nOne study (awaiting peer review), led by Tuhin Chakrabarty of Stony Brook University, estimates that around one fifth of recently self-published books contain at least 25% AI-generated text. Hart now teaches courses on how to use AI to produce books. Unless disclosing the use of AI becomes a legal requirement, she advises other authors not to do so because of the public response. \"The minute someone discloses [AI use] they get death threats, they get called names, they're ousted,\" she says.... In the literary world, many people fear the tech will undercut and replace them. \"I think people are very afraid of AI, and people in publishing are delusional in thinking that it's not going to overtake our industry, that their screaming on social media is going to stop it.\" \n\nBut the anger comes from another place, too. If large language models can spit out books that people want to read, or produce a convincing pastiche of your favourite writer, that's almost certainly because they were trained on established writers' stolen work.... Many writers oppose AI for both moral and aesthetic reasons. One group of 70 prominent authors wrote an open letter calling on the big five publishers — Penguin Random House, Hachette, HarperCollins, Simon \u0026 Schuster and Macmillan — to promise that they will \"never release books that were created by a machine\". The publishers did not promise. [Tess Callero, a literary agent with Europa Content, says] \"...you have to wonder the reason they aren't. Is it because they see a future in which potentially these books could be monetised?\"] \n\nSo where do we go from here? Will big name writers win the argument for keeping AI out of literature, or will our bookshelves and e-readers soon be crammed full of AI-generated stories? And if a reader can't distinguish human from machine writing, does it still matter? \n\nThe Guardian's author notes this new technology brings new challenges to the book publishing world:\n\n\n Publishers have concerns about US copyright law, \"which specifies that a book must be 'human authored' and considers AI-generated text public domain. \"\nThe article notes high-profile books being canceled after accusations their writers used AI. But even in those cases, \"Another unresolved question is if and when publishers should withdraw books,\" since if publishers liked it enough to make the deal, shouldn't they stand behind that judgment?\n And should there be a way for authors who want to experiment with AI to work with top book publishers? (One theory is publishing houses are afraid of alienating a handful of top writers who almost universally oppose AI.)\n\n\n\"Right now, to write without the aid of a machine is to swim against a strong cultural tide,\" concludes the article's author, noting a recurring reaction from friends who \"have looked at me with something close to pity when I tell them I would never use AI to write.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 16, 2026 03:45",
-    "published_at": "2026-11-16T03:45:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Linux 7.4-rc3 Released: \"The Usual Noise All Over\"",
-    "link": "https://www.phoronix.com/news/Linux-7.4-rc3-Released",
-    "description": "The third weekly release candidate of Linux 7.4 is now available for testing...",
-    "guid": "https://www.phoronix.com/news/Linux-7.4-rc3-Released",
-    "date": "Nov 15, 2026 22:55",
-    "published_at": "2026-11-15T22:55:19Z",
     "source": "phoronix.com",
     "source_url": "https://www.phoronix.com/"
   }
