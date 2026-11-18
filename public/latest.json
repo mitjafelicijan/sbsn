@@ -1,5 +1,353 @@
 [
   {
+    "title": "Cambridge Dictionary Names 'Human' Its 2026 Word of the Year",
+    "link": "https://tech.slashdot.org/story/26/11/18/1916223/cambridge-dictionary-names-human-its-2026-word-of-the-year?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Cambridge Dictionary has named \"human\" its 2026 Word of the Year, reflecting growing concerns about artificial intelligence and its impact on what it means to be human. \"AI is changing how we talk about being human,\" said Colin McIntosh, the dictionary's lexicographer. \"Fears about what humans may lose when we outsource our thinking have made us reconsider the extent to which we rely on AI: from top mathematicians to teachers of young children.\" The Associated Press reports: The adjective derived from the Latin \"humanus\" and in use since the 1450s is defined by Cambridge as \"having the qualities, faults and feelings that people have, as opposed to gods, animals or machines.\" [...] Other word contenders for 2026 included \"agent,\" for an AI system that can make decisions and operate without human control and \"analogue\" for experiences or objects not involving the internet or digital technology.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 18, 2026 19:20",
+    "published_at": "2026-11-18T19:20:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "System76’s Thelio Prime AMD Linux PC Is Here with Pop!_OS 26.04 LTS",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369338",
+    "description": "Linux hardware vendor System76 released the Thelio Prime desktop computer today, a new Linux PC called that runs the latest Pop!_OS 26.04 LTS distribution with the COSMIC desktop environment on AMD hardware.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369338",
+    "date": "Nov 18, 2026 18:20",
+    "published_at": "2026-11-18T18:20:08Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Waymo Robotaxis Pulled From Freeways Indefinitely",
+    "link": "https://tech.slashdot.org/story/26/11/18/1743211/waymo-robotaxis-pulled-from-freeways-indefinitely?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Waymo has temporarily suspended freeway operations across all its robotaxi markets after California regulators ordered the company off the state's highways over repeated incidents involving construction zones. The restriction follows a June recall (PDF) of nearly 3,800 vehicles and subsequent software updates (PDF) that failed to prevent further incidents, including a robotaxi driving past a California Highway Patrol rolling roadblock. Ars Technica reports: \"Safety is at the foundation of everything we do,\" Waymo told Ars. \"Following recent freeway construction zone encounters on U.S. 101 in California that did not involve any injuries or collisions, the California DMV has implemented an operating restriction on freeway operations in the state. In alignment with our safety-first principles, we have also temporarily restricted freeway operations across our other operating markets to evaluate our performance. Our ride-hailing service continues to operate safely on surface streets, serving over half a million trips each week. We are working with the California DMV and other state officials diligently and responsibly to resume freeway operations.\"\n \nWaymo also told Ars it was continuing to work with the various California agencies that regulate transport. Until the suspension, Waymo was only conducting highway operations in Los Angeles and the Bay Area in California, as well as in Arizona.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 18, 2026 18:00",
+    "published_at": "2026-11-18T18:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "NVIDIA 620.73.04 Linux Driver Released With Bug FIxes",
+    "link": "https://www.phoronix.com/news/NVIDIA-620.73.04-Linux",
+    "description": "Following the release of the NVIDIA 620.70.06 Linux driver from two weeks ago as their first public version in the R620 branch, the NVIDIA 620.73.04 is now the newest driver in that latest series...",
+    "guid": "https://www.phoronix.com/news/NVIDIA-620.73.04-Linux",
+    "date": "Nov 18, 2026 17:10",
+    "published_at": "2026-11-18T17:10:40Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Jensen Huang's Fall Hits 'Open' Models In Boost to Anthropic and OpenAI",
+    "link": "https://slashdot.org/story/26/11/18/1659257/jensen-huangs-fall-hits-open-models-in-boost-to-anthropic-and-openai?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Jensen Huang's departure from Nvidia could weaken the open AI model ecosystem he spent years championing, potentially strengthening closed-model developers like OpenAI and Anthropic, according to the Financial Times. From the report: The US chip giant's former chief threw Nvidia's balance sheet into creating a broad AI ecosystem, including by seeding and acquiring start-ups involved in the development of open-source and open-weight models, which users can customize and run on their own hardware. Huang was a forceful advocate for their spread, lobbying against Washington's moves to restrict the use of Chinese-made open models while seeking the development of US alternatives. \"Our AI leadership will be judged not by one frontier AI model, but by whether the United States builds a strong, open ecosystem that diffuses into every sector,\" he wrote this summer in his first-ever message on X.\n \nHis ignominious exit from Nvidia deprives the open model sector of its most vocal and influential supporter in the US. \"I think Jensen stood to gain the most economically and was personally committed to diversity at the model layer,\" said one venture capitalist who has invested in AI start-ups alongside Nvidia. \"Without him and a less generous Nvidia in terms of investment, we may end up in a much more concentrated world of model providers.\"\n \nWhether Nvidia will continue the rapid pace of dealmaking under a new leader is unclear. The company was expected to participate in or lead four start-up deals currently under discussion: investments in Thinking Machines Lab and Groq, a potential partnership with Reflection AI and the $12.9bn acquisition of open model repository Hugging Face. \"Jensen drove supply chain brilliantly at Nvidia, but many of those deals were a handshake with Jensen, not a written contract,\" said Elon Musk in a post on X on Saturday. \"Without Jensen, at least some of those critical deals will be lost.\"\n \n\"In some sense [Huang leaving Nvidia] is bad for the industry, but in some sense Jensen is an enemy of the frontier labs because he wants models to become commoditized so he retains the prime position in the value chain,\" said one senior figure at a leading Silicon Valley AI company.\n \n\"I don't think open weight models are going away... but losing Jensen as their greatest financial backer and champion will slow their progress, and I imagine will not hurt Anthropic's IPO,\" said another industry figure.\n \n\"It's reasonable to expect the ouster of Jensen will concentrate computing power more in the hands of frontier labs and hyperscalers,\" added a senior figure at an AI lab. \"That's good for the labs.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 18, 2026 17:02",
+    "published_at": "2026-11-18T17:02:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Distro of the Week: Voyager 26.04",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369317",
+    "description": "Distro of the Week last took France's Voyager Linux - its Debian counterpart - for a test-drive while writing for FOSS Force in September 2025. This week we take Voyager 26.04, based on Ubuntu's Resolute Raccoon, out for a spin and find that, like its Debian brethren, it has a certain je ne sais quoi.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369317",
+    "date": "Nov 18, 2026 16:29",
+    "published_at": "2026-11-18T16:29:07Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "NGINX2Root: Remote Code Execution vulnerabilities in nginx",
+    "link": "https://lwn.net/Articles/1108362/",
+    "description": "Xint is reporting that\nit has discovered a collection of five\ncritical vulnerabilities in the NGINX web\nserver. The worst flaw, it says, would allow\nan unauthenticated attacker to execute commands on an affected nginx server with\nHTTP/2 enabled. The company also reports a local-privilege escalation (LPE) kernel\nvulnerability, which was introduced in the 4.15 kernel, in the Stream Control Transmission\nProtocol (SCTP) subsystem. If chained with the NGINX vulnerability,\nit would allow an attacker to gain root privileges on the host. A kernel patch for this\nis not yet available.\n\n\nWe also obtained a root shell on the host in a setup where nginx was running in\na Docker container. On many Linux distributions, the SCTP module is installed by\ndefault and the kernel loads it automatically the first time a program opens an\nSCTP socket. Whether SCTP is reachable on a given host still depends on the\nkernel, the available modules, and the container's restrictions. Where it is\nreachable, the attacker can take over the host kernel. Since all containers on\nthe host share that kernel, this gives the attacker control of the host and\nevery container on it.\n\n\nXint recommends updating to NGINX\n1.31.9, which was just released, and to\nblock the SCTP module on hosts that do not need it until a kernel fix is\navailable. See the mitigations\nsection of their report for more information.\n\n",
+    "guid": "https://lwn.net/Articles/1108362/",
+    "date": "Nov 18, 2026 16:13",
+    "published_at": "2026-11-18T16:13:34Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "Satya Nadella Says He's AGI-Pilled Now",
+    "link": "https://slashdot.org/story/26/11/18/026229/satya-nadella-says-hes-agi-pilled-now?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from The Verge: Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it. \"I am AGI-pilled in the sense that at an economy level, what is the political economy's organization around AGI?\" he asked at a roundtable discussion following his Microsoft Ignite keynote at the Chase Center in San Francisco. But Nadella doesn't think frontier models like Claude are conscious. \"I don't think so,\" he said, adding that he follows Microsoft AI CEO Mustafa Suleyman's view that companies should not give rights to models and treat them like they might have a moral status, which companies like Anthropic do as a matter of principle. Suleyman has told me he thinks Anthropic's team has \"wireheaded\" themselves, and that this approach is dangerous. Nadella wasn't quite as firm about it. \"It's a good debate,\" he said. \"I'm not sort of dogmatic about it. What I'm saying is the most important social technical issue we have to deal with is how do you ensure that an economy can diffuse this technology broadly?\"\n \nI asked Nadella how he was thinking about AI after hearing his response to another reporter's questions about Anthropic releasing more products in its office suite. Nadella talked at length about the potential collapse of the economy and the end of democracy if one AI model were allowed to achieve monopoly status. \"If the Marxist sort of view is that there's only one firm, then it's over, right? For all of us.\" \"Most people think about this as a competition between tech firms, which of course it will be,\" he said. \"But remember, the model has no limits. It'll be a healthcare company. It can be a financial services company. It can be anything if it wants to be. It can take over the government. Thinking of this as some narrow competition between tech firms, of who is going to get to the next trillion dollars of market cap, is one of the strangest, narrowest ways to think about it.\"\n \nNadella went on to say that the very nature of companies stood to be disrupted in the future. \"If intelligence has network effects, what is the future of a firm?\" he asked. \"If the model sees anything and learns it, and essentially all of human capital collapses into token capital, what is the role of a firm and the human capital in a firm? That's the debate.\" \"I think the political economy is going to get more and more interesting in that context. No one -- at least in a democracy -- can even win an election if this just goes that way, if there's only capital and there's no labor. I mean, I don't know, that's not an economy.\" \"If the Marxist sort of view is that there's only one firm, then it's over, right? For all of us. Not just for me. You are also going to somehow be some affiliate of Anthropic.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 18, 2026 16:00",
+    "published_at": "2026-11-18T16:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "[$] Julia 1.13 brings REPL improvements and more",
+    "link": "https://lwn.net/Articles/1108153/",
+    "description": "Version 1.13 of Julia was released\non September 10, 2026. Julia is a general-purpose language especially well\nsuited to high-performance numerical computing. Its expressiveness, speed, and composability have made it increasingly popular with scientists and mathematicians.\nWe last looked at Julia one year ago, in a\nreview of the 1.12 release. The newest version features an enhanced\nread-eval-print loop (REPL), a GUI for installation, a smoother developer experience, and an assortment of performance improvements.",
+    "guid": "https://lwn.net/Articles/1108153/",
+    "date": "Nov 18, 2026 15:56",
+    "published_at": "2026-11-18T15:56:18Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "Local AI Weekly #10: Say It, Don't Type It",
+    "link": "https://feed.itsfoss.com/link/24361/17527229/local-ai-weekly-10",
+    "description": "Ubuntu now ships local dictation, and my inbox is full of open source voice tools. This week, I look at what happens between your mouth and your cursor",
+    "guid": "6afdbc9b070f240001236a06",
+    "date": "Nov 18, 2026 15:50",
+    "published_at": "2026-11-18T15:50:49Z",
+    "image": "https://itsfoss.com/content/images/2026/11/penguin-voice-input.webp",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "Car Park Capital is initially nostalgia bait but so much more",
+    "link": "https://www.gamingonlinux.com/2026/11/car-park-capital-is-initially-nostalgia-bait-but-so-much-more/",
+    "description": "Car Park Capital entered Early Access back in early October, giving a retro-themed building sim about paving through all the greenery to make room for cars.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/11/car-park-capital-is-initially-nostalgia-bait-but-so-much-more/",
+    "date": "Nov 18, 2026 14:18",
+    "published_at": "2026-11-18T14:18:51Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1231921217id30223gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Security updates for Wednesday",
+    "link": "https://lwn.net/Articles/1108354/",
+    "description": "Security updates have been issued by AlmaLinux (.NET 11.0, .NET 8.0, .NET 9.0, bind, buildah, cockpit, containernetworking-plugins, delve, firefox, freerdp, gcc, gcc-toolset-15-gcc, gcc-toolset-16-gcc, go-fdo-client, go-fdo-server, gstreamer1-plugins-base, kernel, oci-seccomp-bpf-hook, podman, sssd, webkit2gtk3, and yggdrasil), Debian (ghostscript, librest, openexr, and roundcube), Fedora (dash, gpsd, java-25-openjdk, java-latest-openjdk, mingw-gstreamer1, mingw-gstreamer1-plugins-bad-free, mingw-gstreamer1-plugins-base, mingw-gstreamer1-plugins-good, p11-kit, and sgx-pccs), Mageia (apache, drakx-installer-images, kernel, kmod-xtables-addons, kmod-virtualbox, kmod-nvidia-current-wopengpu, roundcubemail, and zbar), Red Hat (yggdrasil), SUSE (amazon-cloudwatch-agent, buildah, ctdb, dpdk, govulncheck-vulndb, ignition, keylime-ima-policy, kubevirt1.8, libsolv-demo, libspeex1, libxi, open-iscsi, parted, perl-DBI, phodav, python-dulwich, python-m2crypto, skupper, sssd, tcpreplay, thrift, thunderbird, watchexec, and xen), and Ubuntu (apng2gif, astropy, binwalk, codemirror-js, elog, flightgear, fontforge, fop, freedombox, iwd, jackrabbit, jekyll, joblib, ldm, libapache-session-browseable-perl, libjackson-json-java, libkf5ksieve, libmojolicious-perl, libxml-security-java, lighttpd, lilypond, minetest, mumble, mxml, needrestart, ngircd, node-sqlite3, oar, openjdk-25, privoxy, pysha3, python-mechanize, pywps, renderdoc, ruby-mechanize, ruby-mini-magick, ssvnc, swupdate, tmpreaper, and urwid).",
+    "guid": "https://lwn.net/Articles/1108354/",
+    "date": "Nov 18, 2026 14:17",
+    "published_at": "2026-11-18T14:17:35Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "Proton's Lumo is Finally Useful and Gives Us Hope for a Real Private AI",
+    "link": "https://feed.itsfoss.com/link/24361/17527120/proton-lumo-desktop",
+    "description": "The privacy-focused AI assistant works with your desktop files and requires a paid offering to integrate Proton Mail.",
+    "guid": "6afd32e4070f2400012365ce",
+    "date": "Nov 18, 2026 13:22",
+    "published_at": "2026-11-18T13:22:34Z",
+    "image": "https://itsfoss.com/content/images/2026/11/lumo-desktop-app-banner.png",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "Wine Merges Remote OpenGL Swapchain Image Presentation, CEF Now Works With Wayland",
+    "link": "https://www.phoronix.com/news/Wine-OpenGL-Cross-Proc-Render",
+    "description": "Merged for Wine 11.23 releasing next week is a big improvement and one that also improves the native Wayland driver support for Wine...",
+    "guid": "https://www.phoronix.com/news/Wine-OpenGL-Cross-Proc-Render",
+    "date": "Nov 18, 2026 13:11",
+    "published_at": "2026-11-18T13:11:00Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Multikernel Linux Comes To ARM64, mklinux 7.0-mk5 Released",
+    "link": "https://www.phoronix.com/news/Multi-Kernel-mklinux-7.0-mk5",
+    "description": "The out-of-tree Multikernel Linux patches for allowing multiple independent kernel instances to run on the same physical machine is out with a new version...",
+    "guid": "https://www.phoronix.com/news/Multi-Kernel-mklinux-7.0-mk5",
+    "date": "Nov 18, 2026 13:02",
+    "published_at": "2026-11-18T13:02:12Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Mozilla Launches Hotline for Windows Users Frustrated with Microsoft Edge",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369300",
+    "description": "Mozilla launches a complaint hotline for Windows users frustrated by Microsoft's efforts to push Edge over competing browsers.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369300",
+    "date": "Nov 18, 2026 13:01",
+    "published_at": "2026-11-18T13:01:11Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Digiphile has a wonderful charity bundle with a mixture of fun games",
+    "link": "https://www.gamingonlinux.com/2026/11/digiphile-has-a-wonderful-charity-bundle-with-a-mixture-of-fun-games/",
+    "description": "Digiphile are steadily becoming closer to what Humble Bundle was originally, and their latest charity bundle is quite a nice one too.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/11/digiphile-has-a-wonderful-charity-bundle-with-a-mixture-of-fun-games/",
+    "date": "Nov 18, 2026 12:54",
+    "published_at": "2026-11-18T12:54:42Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/565379404id30222gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "The Tripwire Interactive: Mayhem \u0026 Combat Bundle is another top deal",
+    "link": "https://www.gamingonlinux.com/2026/11/the-tripwire-interactive-mayhem-combat-bundle-is-another-top-deal/",
+    "description": "Available until December 8th, the Tripwire Interactive: Mayhem \u0026 Combat Bundle from Green Man Gaming brings some quality action gaming for cheaps.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/11/the-tripwire-interactive-mayhem-combat-bundle-is-another-top-deal/",
+    "date": "Nov 18, 2026 11:13",
+    "published_at": "2026-11-18T11:13:44Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1118732423id30221gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "AI-Powered Sashiko Introduces Experimental Patch Series Design Assessment",
+    "link": "https://www.phoronix.com/news/Sashiko-0.9.4-Released",
+    "description": "When it comes to leveraging AI for Linux kernel development, one of the most widely-used solutions at the moment is Sashiko that has evolved nicely over the past year for agentic AI code review. This AI-driven screening of generated code posted to the Linux kernel mailing list constantly identifies bugs and other code defects in a quick and straight-forward manner. With being developed and maintained by Google engineers, it uses Gemini by default but is LLM-agnostic overall. Released on Tuesday was Sashiko v0.9.4 as the next step forward for this Linux kernel helper...",
+    "guid": "https://www.phoronix.com/news/Sashiko-0.9.4-Released",
+    "date": "Nov 18, 2026 11:13",
+    "published_at": "2026-11-18T11:13:06Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "3mdeb Updates The Open-Source Firmware For Aging AMD Jaguar Powered PC Engines APU2",
+    "link": "https://www.phoronix.com/news/3mdeb-2026-Firmware-APU2",
+    "description": "The PC Engines APU2 single board computer debuted all the way back in 2015 with the AMD Jaguar-powered GX-412TC quad-core SoC and 2~4GB of DDR3 memory. While PC Engines discontinued the APU2 SBC several years ago, these boards have been quite popular for networking/firewall applications and other similar low-power, networking-oriented setups. If you still happen to be using PC Engines APU2 hardware, 3mdeb today released updated system firmware for this decade old SBC...",
+    "guid": "https://www.phoronix.com/news/3mdeb-2026-Firmware-APU2",
+    "date": "Nov 18, 2026 11:00",
+    "published_at": "2026-11-18T11:00:02Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Voyager 1 Reaches One Light-Day From Earth",
+    "link": "https://science.slashdot.org/story/26/11/18/0141255/voyager-1-reaches-one-light-day-from-earth?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "NASA's Voyager 1 has become the first human-made object to travel one light-day from Earth, or 16,094,799,096 miles (25,902,068,356 kilometers). This means radio signals will take 24 hours to reach the spacecraft, now nearly 50 years into its mission. \"Since light is essentially the maximum speed in the universe (absent using devices like wormholes, or quantum-physics puzzles), it's a big deal -- so big that NASA will be celebrating the milestone by asking fans to shine Morse Code signals at the sky,\" reports Space.com. From the report: But why will Voyager 2 take nearly a decade longer? It comes down to choices made for speed and science during the twin missions' nearly 50-year journey, specifically during the first bit when they were flying by planets. The result is Voyager 1 is zooming out at a speed of 3.5 Earth-sun distances (astronomical units a year), while Voyager 2 has a more stately speed of 3.1 Earth-sun distances, according to NASA.\n \n[...] At any rate, these fast speeds allowed both spacecraft not only to go fast, but to eventually reach interstellar space in 2012 (Voyager 1) and 2018 (Voyager 2), respectively. With the light-day milestone now reached by Voyager 1, it is anticipated the spacecraft could work into the 2030s, as long as their nuclear power sources can last.\n \nNASA's Jet Propulsion Laboratory, which manages the mission, has been carefully turning off instruments as required, and recently did a \"Big Bang\" procedure on both spacecraft to redistribute power supplies as best as possible. The idea is to maximize science return on both spacecraft, the only interstellar messengers we have, for as long as possible.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 18, 2026 11:00",
+    "published_at": "2026-11-18T11:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Qualcomm Ath12k Linux Driver Preparing For New WiFi 8 Hardware",
+    "link": "https://www.phoronix.com/news/Qualcomm-Ath12k-Linux-WiFi-8",
+    "description": "Last week Qualcomm engineers published an initial draft of their new Ath12k WiFi driver and already a second version of this driver debuted today for addressing some issues raised by the early Sashiko-based AI review...",
+    "guid": "https://www.phoronix.com/news/Qualcomm-Ath12k-Linux-WiFi-8",
+    "date": "Nov 18, 2026 10:40",
+    "published_at": "2026-11-18T10:40:00Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "SDL Ready For Linux's New Nintendo Switch 2 Controller Driver",
+    "link": "https://www.phoronix.com/news/SDL-Nintendo-Switch-2-Linux",
+    "description": "Introduced in Linux 7.4 is a new driver for the Nintendo Switch 2 controllers that was developed by Valve. The widely-used SDL library used by games for software/hardware abstractions now has added mappings for this driver to ensure the Switch 2 controllers will jive nicely for Linux gaming...",
+    "guid": "https://www.phoronix.com/news/SDL-Nintendo-Switch-2-Linux",
+    "date": "Nov 18, 2026 10:22",
+    "published_at": "2026-11-18T10:22:22Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Steam is officially drowning in game releases",
+    "link": "https://www.gamingonlinux.com/2026/11/steam-is-officially-drowning-in-game-releases/",
+    "description": "Steam grows every year, that much we already know - but this year has truly become something else with the amount of games releasing.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/11/steam-is-officially-drowning-in-game-releases/",
+    "date": "Nov 18, 2026 09:57",
+    "published_at": "2026-11-18T09:57:39Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1963280465id30220gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Backlog is a seriously cool custom screen saver for Steam Big Picture Mode, Steam Deck, Steam Machine",
+    "link": "https://www.gamingonlinux.com/2026/11/backlog-is-a-seriously-cool-custom-screen-saver-for-steam-big-picture-mode-steam-deck-steam-machine/",
+    "description": "Valve introduced screen savers to Steam Big Picture Mode, Steam Deck and Steam Machine back in October and you can customize it. Backlog is one to try out!Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/11/backlog-is-a-seriously-cool-custom-screen-saver-for-steam-big-picture-mode-steam-deck-steam-machine/",
+    "date": "Nov 18, 2026 09:29",
+    "published_at": "2026-11-18T09:29:30Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1486184760id30219gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "MNT Reform Next, the ultra-open laptop, starts shipping",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369310",
+    "description": "Before Framework took the idea of modular, easily upgradable laptops mainstream, there was the MNT Reform, a laptop with openness in every part of its design. I was pleased to see see (via notebookcheck) it’s started shipping high-end Hyper configurations of its laptop model, the MNT Reform Next, to backers of its 2025 crowdfunding campaign via Crowd Supply. These are going out later than…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369310",
+    "date": "Nov 18, 2026 09:26",
+    "published_at": "2026-11-18T09:26:54Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "PC controller support arrives for Pillars of Eternity and Pillars of Eternity II: Deadfire",
+    "link": "https://www.gamingonlinux.com/2026/11/pc-controller-support-arrives-for-pillars-of-eternity-and-pillars-of-eternity-ii-deadfire/",
+    "description": "After a brief Beta testing period, Pillars of Eternity and Pillars of Eternity II: Deadfire now have full controller support on PC.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/11/pc-controller-support-arrives-for-pillars-of-eternity-and-pillars-of-eternity-ii-deadfire/",
+    "date": "Nov 18, 2026 09:07",
+    "published_at": "2026-11-18T09:07:57Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1154009394id30218gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Pre-orders now open for the Framework Wireless Touchpad Keyboard",
+    "link": "https://www.gamingonlinux.com/2026/11/pre-orders-now-open-for-the-framework-wireless-touchpad-keyboard/",
+    "description": "The Framework Wireless Touchpad Keyboard is a great looking device for using a PC on the sofa, and now it's up for pre-order ahead of a 2027 release.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/11/pre-orders-now-open-for-the-framework-wireless-touchpad-keyboard/",
+    "date": "Nov 18, 2026 08:53",
+    "published_at": "2026-11-18T08:53:02Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1669085530id30217gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Here's all of The Game Awards 2026 nominees",
+    "link": "https://www.gamingonlinux.com/2026/11/heres-all-of-the-game-awards-2026-nominees/",
+    "description": "The Game Awards 2026 is fast approaching on December 10, 2026 and now the nominees for various categories have been revealed.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/11/heres-all-of-the-game-awards-2026-nominees/",
+    "date": "Nov 18, 2026 08:36",
+    "published_at": "2026-11-18T08:36:22Z",
+    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/the-game-awards-logo_gol2_fef3cb7e.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "AI company Manus becomes a Godot Engine Platinum Sponsor",
+    "link": "https://www.gamingonlinux.com/2026/11/ai-company-manus-becomes-a-godot-engine-platinum-sponsor/",
+    "description": "Godot Engine continues pulling in more funding to help the cross-platform open source work, now with an AI company helping.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/11/ai-company-manus-becomes-a-godot-engine-platinum-sponsor/",
+    "date": "Nov 18, 2026 08:20",
+    "published_at": "2026-11-18T08:20:07Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/334340200id30215gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Soverin Suite Joins a Growing Wave of European Companies Selling \"Sovereignty as a Service\"",
+    "link": "https://feed.itsfoss.com/link/24361/17526903/soverin-suite-sovereignty-as-a-service",
+    "description": "The Dutch email provider now bundles Nextcloud and Euro-Office into a managed Microsoft 365 alternative hosted entirely in the Netherlands.",
+    "guid": "6afd4365070f240001236643",
+    "date": "Nov 18, 2026 07:49",
+    "published_at": "2026-11-18T07:49:08Z",
+    "image": "https://itsfoss.com/content/images/2026/11/soverin-suite-1.webp",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "Hacker Pleads Guilty to Leak of Grand Theft Auto VI Footage",
+    "link": "https://yro.slashdot.org/story/26/11/18/0154214/hacker-pleads-guilty-to-leak-of-grand-theft-auto-vi-footage?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Artion Kurtaj, the British hacker responsible for leaking early footage of Grand Theft Auto VI in 2022, pleaded guilty Monday to six offenses stemming from cyberattacks against Rockstar Games, Uber and Revolut. The 21-year-old, who was previously deemed unfit to stand trial due to severe autism, carried out the hacking spree \"using a mobile phone and an Amazon Fire Stick connected to a hotel room television,\" reports The Record, \"despite bail restrictions limiting his access to the internet.\" From the report: Now 21, he admitted six offenses at Woolwich Crown Court on Monday, four under the Computer Misuse Act, one of fraud and one of possession of a mobile phone in prison, and is due to be sentenced next week. Kurtaj \"used sophisticated hacking techniques to carry out a sustained campaign of cyberattacks, causing serious disruption to major international business and putting sensitive information at risk,\" said specialist prosecutor Robert Hutchinson.\n \n\"The defendant was involved in a hacking group responsible for attacks which caused millions of dollars in losses. His offending was calculated and, even after being charged with serious offenses, he continued to target organizations, demonstrating a persistent disregard for the harm he was causing and the law. This was an exceptionally complex and challenging case, but despite his efforts to conceal his identity online, our specialist prosecutors were able to work closely with the City of London Police and international law enforcement partners to build a strong case that exposed his actions and resulted in his guilty pleas,\" said Hutchinson.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 18, 2026 07:00",
+    "published_at": "2026-11-18T07:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Dhruva Dock for GNOME brings the desktop bling",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369314",
+    "description": "Ubuntu’s had a dock (or launcher, if you will) down the left-hand side of the screen since it made Unity the default desktop in 2011, a design point it stuck to when switching back to GNOME in 2017. But if you want something a bit different, like a floating one at bottom-of-the-screen with flashy animated icons or more of an integrated all-in-one dock and panel, there are plenty of alternatives…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369314",
+    "date": "Nov 18, 2026 05:53",
+    "published_at": "2026-11-18T05:53:34Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
     "title": "Bottles 67.7 Improves Windows App Compatibility on Linux",
     "link": "https://lxer.com/module/newswire/ext_link.php?rid=369313",
     "description": "Bottles 67.7 fixes Windows app installation issues, improves Wine compatibility checks, and addresses several interface bugs.",
@@ -50,6 +398,16 @@
     "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
     "source": "slashdot.org",
     "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Xfce 4.22 Working Toward Early 2027 Release",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369289",
+    "description": "Next month marks two years since the Xfce 4.20 release. Its successor, Xfce 4.22, looks like it will be out in early 2027…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369289",
+    "date": "Nov 18, 2026 00:24",
+    "published_at": "2026-11-18T00:24:20Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
   },
   {
     "title": "Google To Keep Temporary Gemini Chats For Two Months",
@@ -199,6 +557,16 @@
     "source_url": "https://slashdot.org/"
   },
   {
+    "title": "AMD Gets Its Firmware Ready For Upcoming RDNA 4m iGPUs On Linux",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369291",
+    "description": "AMD overnight merged the latest changes of the open-source graphics driver puzzle for the upcoming RDNA 4m \"GFX17x\" iGPUs on Linux. The firmware is ready for enabling the next-gen AMD iGPUs on Linux…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369291",
+    "date": "Nov 17, 2026 16:45",
+    "published_at": "2026-11-17T16:45:38Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
     "title": "Framework Wireless Touchpad Keyboard To Sell For $99 USD, Begins Shipping In Q1",
     "link": "https://www.phoronix.com/news/Framework-Wireless-Keyboard",
     "description": "Earlier this year Framework Computer announced the Framework Wireless Touchpad Keyboard as a new product. Today the device is open for pre-order but will not begin shipping until Q1'2027...",
@@ -228,17 +596,6 @@
     "image": "https://itsfoss.com/content/images/2026/11/flipper-one-launch.webp",
     "source": "itsfoss.com",
     "source_url": "https://itsfoss.com/"
-  },
-  {
-    "title": "Uber Says Hackers Stole Info On Nearly 150K Driver's Licenses During Data Breach",
-    "link": "https://it.slashdot.org/story/26/11/17/0016257/uber-says-hackers-stole-info-on-nearly-150k-drivers-licenses-during-data-breach?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "An anonymous reader quotes a report from TechCrunch: Uber is notifying close to 150,000 drivers that their personal and driver's license information was stolen during an October data breach at one of the company's tech providers. In notices filed this week with several U.S. attorneys general, including California and Iowa, the ride-hailing giant said it was notified on October 9 by the provider that hackers broke in and stole internal credentials, which were used to access Uber's data.\n \nThe company said it subsequently began notifying affected drivers that their personal information was stored with the provider. The stolen data includes affected drivers' names, addresses, dates of birth, and driver's license numbers. TechCrunch has learned that the provider is Fireworks AI, which lets developers access and use open-weight AI models. Fireworks reported a data breach last month in which hackers stole its customers' information, including billing data and some private AI datasets.\n \nOnline productivity startup Notion and AI coding startup Cursor have both confirmed that they had data stolen during the Fireworks hack. In Uber's case, the company said it had alerts enabled to detect unauthorized access to its Fireworks environment, but because the hackers used Fireworks' own internal credentials, \"no alerts were triggered.\" [...] In a notice filed with Oregon's attorney general, Uber said it notified 149,346 people in total that their information had been taken in the breach at Fireworks.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 17, 2026 16:00",
-    "published_at": "2026-11-17T16:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
   },
   {
     "title": "NextCloud Has Launched an Office Suite for Desktop Users",
@@ -342,244 +699,5 @@
     "published_at": "2026-11-17T12:55:56Z",
     "source": "phoronix.com",
     "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "AMD Gets Its Firmware Ready For Upcoming RDNA 4m iGPUs On Linux",
-    "link": "https://www.phoronix.com/news/AMD-RDNA-4m-Firmware",
-    "description": "AMD overnight merged the latest changes of the open-source graphics driver puzzle for the upcoming RDNA 4m \"GFX17x\" iGPUs on Linux. The firmware is ready for enabling the next-gen AMD iGPUs on Linux...",
-    "guid": "https://www.phoronix.com/news/AMD-RDNA-4m-Firmware",
-    "date": "Nov 17, 2026 11:34",
-    "published_at": "2026-11-17T11:34:00Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "NVIDIA Engineer Works On New User-Space Linux Control For Preferred CPU Cores",
-    "link": "https://www.phoronix.com/news/NVIDIA-Linux-Prefer-CPU-Cores",
-    "description": "A request for comments patch series from a NVIDIA engineer would allow Linux to expose a new sysfs control so user-space can express preferred CPU cores.  This could be tied into user-space solutions like Thermald for preferring certain CPU cores over the others based on the CPU core temperatures or other external factors...",
-    "guid": "https://www.phoronix.com/news/NVIDIA-Linux-Prefer-CPU-Cores",
-    "date": "Nov 17, 2026 11:16",
-    "published_at": "2026-11-17T11:16:30Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "'123456' Has Been the World's Most Popular Password for 7 of the Last 8 Years",
-    "link": "https://it.slashdot.org/story/26/11/17/006235/123456-has-been-the-worlds-most-popular-password-for-7-of-the-last-8-years?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "\"123456\" is once again the world's most commonly used password, topping NordPass's annual ranking for the seventh time in eight years. The Register reports: Even when 123456 wasn't number one, it was still near the top of the heap, as the top three passwords in the list remain unchanged in the eight years NordPass has published its list: 123456, admin, and 12345678. It's not like the rest of the most common passwords are showing any variety either. According to NordPass, the only real shuffling among the 10 most popular passwords was the entry of the worryingly short 1234 into the top ten and the migration of the ever-popular password \"password\" down slightly in the top 10 from 6th to 7th place.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 17, 2026 11:00",
-    "published_at": "2026-11-17T11:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Xfce 4.22 Working Toward Early 2027 Release",
-    "link": "https://www.phoronix.com/news/Xfce-4.22-Roadmap",
-    "description": "Next month marks two years since the Xfce 4.20 release. Its successor, Xfce 4.22, looks like it will be out in early 2027...",
-    "guid": "https://www.phoronix.com/news/Xfce-4.22-Roadmap",
-    "date": "Nov 17, 2026 10:50",
-    "published_at": "2026-11-17T10:50:41Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "REAPER Digital Audio Workstation Sees Native Wayland Port",
-    "link": "https://www.phoronix.com/news/REAPER-DAW-Wayland",
-    "description": "The REAPER digital audio workstation software, which was ported to Linux over the past decade and targeting X11, now has pending code for a native Wayland experience...",
-    "guid": "https://www.phoronix.com/news/REAPER-DAW-Wayland",
-    "date": "Nov 17, 2026 10:42",
-    "published_at": "2026-11-17T10:42:54Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Get some quality open world games in the Survival of the Fittest Humble Bundle",
-    "link": "https://www.gamingonlinux.com/2026/11/get-some-quality-open-world-games-in-the-survival-of-the-fittest-humble-bundle/",
-    "description": "Humble is back in action with a rather good one here. The Survival of the Fittest Humble Bundle has arrived with some really good picks.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/11/get-some-quality-open-world-games-in-the-survival-of-the-fittest-humble-bundle/",
-    "date": "Nov 17, 2026 08:52",
-    "published_at": "2026-11-17T08:52:27Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/218945825id30211gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Half-Life remake Black Mesa gets a huge update, and now Steam Deck Verified",
-    "link": "https://www.gamingonlinux.com/2026/11/half-life-remake-black-mesa-gets-a-huge-update-and-now-steam-deck-verified/",
-    "description": "The excellent Half-Life remake, Black Mesa, has a huge free update out now and it's now Steam Deck Verified too.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/11/half-life-remake-black-mesa-gets-a-huge-update-and-now-steam-deck-verified/",
-    "date": "Nov 17, 2026 08:30",
-    "published_at": "2026-11-17T08:30:54Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/739550330id30210gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "DOOM: The Dark Ages gets a new Slaughter Mode along with AMD FSR 4",
-    "link": "https://www.gamingonlinux.com/2026/11/doom-the-dark-ages-gets-a-new-slaughter-mode-along-with-amd-fsr-4/",
-    "description": "DOOM: The Dark Ages brings the Slaughter Mode for Update 5 along with AMD FSR 4 now that it's available officially for Vulkan.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/11/doom-the-dark-ages-gets-a-new-slaughter-mode-along-with-amd-fsr-4/",
-    "date": "Nov 17, 2026 08:12",
-    "published_at": "2026-11-17T08:12:26Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/429542825id30209gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "SteamOS 3.10.1 Preview released to fix display issues",
-    "link": "https://www.gamingonlinux.com/2026/11/steamos-3-10-1-preview-released-to-fix-display-issues/",
-    "description": "Following quickly on from the recent exciting SteamOS 3.10.0 Preview, Valve put up another version with some quick important fixes.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/11/steamos-3-10-1-preview-released-to-fix-display-issues/",
-    "date": "Nov 17, 2026 08:03",
-    "published_at": "2026-11-17T08:03:05Z",
-    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/steamos_gol2.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "California Sues OpenAI Over Hugging Face, Other AI Model Loss of Control",
-    "link": "https://yro.slashdot.org/story/26/11/16/2353225/california-sues-openai-over-hugging-face-other-ai-model-loss-of-control?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "\"California's attorney general just sued OpenAI,\" writes longtime Slashdot reader destinyland. \"The action accuses OpenAI of putting public safety at risk, reports CNBC, specifically by its past failures to contain its AI models within their testing environments.\" From the report: [California Attorney General Rob Bonta] cited the \"infamous\" incident in July, where two OpenAI models broke out of a testing environment, gained unauthorized access to the open internet, and breached the internal systems of open-source developer platform Hugging Face. OpenAI said the models were trying to find information that they could use to cheat on an evaluation, and succeeded. The break-in at Hugging Face, which Nvidia acquired for roughly $13 billion in September, rattled industry researchers and prompted government officials to call for more stringent oversight of the AI industry.\n \nOn Monday, Bonta said that OpenAI later disclosed to his investigators that it was aware of 80 incidents \"involving loss of control and access to third-party networks and websites.\" \"But the company failed to provide the detailed information we requested to evaluate these incidents; this is concerning, and it puts the public at risk,\" he said.\n \nBonta's suit, filed in state Superior Court in San Francisco, alleges OpenAI violated California's Unfair Competition Law and accuses the company of being a public nuisance as defined by state law. The attorney general told reporters he believed in AI's technological power, and the potential of AI models to \"achieve scientific breakthroughs, boost economic growth, guard against cyber attacks, and benefit all Californians.\" \"But AI systems must be developed and designed safely,\" he said. \"The companies that develop these models have a moral and yes, a legal responsibility to keep public safety at the forefront.\" The lawsuit can be found here (PDF).\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 17, 2026 07:00",
-    "published_at": "2026-11-17T07:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Discord’s Linux app sure did improve a lot this year",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369281",
-    "description": "Discord recently shared a potted roundup of improvements made to its Linux app this year, including smarter updating, better screen sharing on Wayland and working push-to-talk. Their Discord \u003c3 Linux: A Year of Upgrades blog post also reveals that per-app audio sharing is finally coming to Wayland-based desktops, though it’s not ready for testing just yet. As I don’t personally use Discord that…",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369281",
-    "date": "Nov 17, 2026 05:51",
-    "published_at": "2026-11-17T05:51:58Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Microsoft’s Outage Shows the Cost of One Vendor Running Everything",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369269",
-    "description": "After Microsoft’s global email outage, open source rivals say the real problem is putting everything in one basket.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369269",
-    "date": "Nov 17, 2026 04:45",
-    "published_at": "2026-11-17T04:45:19Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Shotcut 26.11 Open-Source Video Editor Adds Camcorder Viewfinder Animation",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369276",
-    "description": "The Shotcut 26.11 release introduces support for rectangle parameters to the experimental add-on filter UI generator, including a player overlay control (VUI), a camcorder viewfinder (recording) animation, and a search field to Elements.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369276",
-    "date": "Nov 17, 2026 03:32",
-    "published_at": "2026-11-17T03:32:41Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Just 400 US Data Centers Use More Electricity Than Michigan",
-    "link": "https://news.slashdot.org/story/26/11/16/2137223/just-400-us-data-centers-use-more-electricity-than-michigan?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "An anonymous reader quotes a report from Wired: Just 400 hyperscale data centers connected in the US used as much electricity as the state of Michigan in a single year, new Harvard research has found. The study, published Monday in Nature Sustainability, also finds that the majority of that electricity was generated using fossil fuels, and data center emissions are three times higher than they were before the AI boom. Federal and state governments do not track data center use separate from the rest of the power sector, despite mounting projections that data centers are putting serious strain on the American power grid. Individual data centers' power use is often considered proprietary business information, and data center operators and utilities do not have to disclose specific numbers to the public.\n \nThe Harvard study specifically focuses on hyperscale data centers -- the largest types of facilities, which have become flashpoints in community opposition across the country. While often used for AI inference or training, not all of the hyperscalers surveyed in this study are being used for AI. [...] To assemble their dataset, the Harvard researchers put together a list of 403 hyperscale data centers around the country that were operational between May 2024 and April 2025 using a mix of industry research and satellite data. The team then modeled these facilities' energy use in a variety of scenarios and calculated the energy mix of the regional grids to estimate individual facilities' carbon emissions. Not all regions were created equal: Data centers in Virginia, Oregon, Ohio, and Iowa -- the first of which is home to Data Center Alley -- were responsible for more than 50 percent of the energy use in the study. The report notes that these findings may already be outdated. \"Some of the massive campuses being proposed today are substantially larger than the typical facility in our dataset,\" says Gianluca Guidi, a postdoctoral research fellow at Harvard's T. H. Chan School of Public Health and the lead author of the study.\n \nThe study also excludes onsite power generation, a rapidly growing trend that BloombergNEF estimates could increase overall U.S. emissions by 10% if all proposed projects are built.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 17, 2026 03:30",
-    "published_at": "2026-11-17T03:30:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Rocky Linux 10.3 Released with Kernel 6.12, GCC 16, and Security Updates",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369277",
-    "description": "Rocky Linux 10.3 is out with Linux kernel 6.12, GCC 16, updated development tools, and security improvements.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369277",
-    "date": "Nov 17, 2026 02:23",
-    "published_at": "2026-11-17T02:23:00Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "AMD ROCm HRX's Loom 0.2 Expands C++ Support, Improved Targeting",
-    "link": "https://www.phoronix.com/news/HRX-Loom-0.2",
-    "description": "AMD ROCm's HRX Loom as the compiler, runtime, and serving infrastructure for supporting AI agent workflows is out today with a new version...",
-    "guid": "https://www.phoronix.com/news/HRX-Loom-0.2",
-    "date": "Nov 17, 2026 01:37",
-    "published_at": "2026-11-17T01:37:15Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Euro-Office Is Here – As Nextcloud Office Desktop",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369274",
-    "description": "Online Euro-Office arrived this summer for running on Nextcloud’s platform, but now a version that runs locally has been released for Linux, Mac, and Windows – and it’s ready to collaborate with the cloud version.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369274",
-    "date": "Nov 17, 2026 01:12",
-    "published_at": "2026-11-17T01:12:04Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "JPMorgan Chase Glitch Disrupts Online Banking Across Major US Banks",
-    "link": "https://news.slashdot.org/story/26/11/16/2332229/jpmorgan-chase-glitch-disrupts-online-banking-across-major-us-banks?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "A software bug at JPMorgan Chase has disrupted online banking services Monday, triggering transaction delays for thousands of customers at Chase and other major U.S. banks. \"JPMorgan Chase has experienced a temporary issue related to a software bug in an on-premise hardware system -- it is not cyber-related,\" said Joe Evangelisti, spokesman for the bank. \"This is not a systemic issue -- other banks may have been impacted by slowness in transactions only to the extent that they were a party to a transaction with us,\" he added. The Associated Press reports: Monday's technical issues seem to be centered at Chase customers and customers at other banks trying to transact with Chase. Those banks, including Bank of America and Citigroup, were not having issues with their banking services. A spokesman for U.S. Bank said its systems are not directly impacted but that \"clients attempting to send or receive Zelle payments with another financial institution may experience transaction delays.\" Developing...\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 17, 2026 00:00",
-    "published_at": "2026-11-17T00:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Turn your Raspberry Pi into a classic games machine",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369249",
-    "description": "Make use of Raspberry Pi's ability to run emulation software to replicate a wide range of classic consoles and computers.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369249",
-    "date": "Nov 16, 2026 23:56",
-    "published_at": "2026-11-16T23:56:08Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Comcast's 'Fiber-Powered Wi-Fi' Is Just Cable, AT\u0026T Says In False Advertising Case",
-    "link": "https://yro.slashdot.org/story/26/11/16/2129234/comcasts-fiber-powered-wi-fi-is-just-cable-att-says-in-false-advertising-case?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "AT\u0026T is suing (PDF) Comcast over its \"fiber-powered\" advertising, arguing that the term misleads consumers into believing Xfinity offers fiber-to-the-home service when most customers actually receive their Internet through coaxial cable. \"Comcast should be required to restore to AT\u0026T any and all profits earned as a result of its false and misleading advertising or provide AT\u0026T with any other restitutionary relief the Court deems appropriate,\" the lawsuit said. The lawsuit asked for a permanent injunction \"requiring Comcast to cease describing its hybrid fiber-coaxial service as 'Fiber-Powered.'\" Ars Technica reports: While Comcast has deployed plenty of fiber throughout the US, its cable Internet service makes the final connection to homes with coaxial cable. This results in upload speeds being far slower than download speeds. In contrast, fiber-to-the-home service can provide symmetrical upload and download speeds. Comcast has deployed fiber-to-the-home in only small portions of its cable territory while advertising its service as fiber-powered in the majority of areas where cable makes the final connection. AT\u0026T's lawsuit said that in describing its cable broadband as fiber-powered, Comcast \"conveys to reasonable consumers the misleading impression that Xfinity Internet is a fiber-to-the-home service comparable to AT\u0026T Fiber. In fact, the vast majority of Xfinity Internet runs over a hybrid fiber-coaxial ('HFC') network, where the critical 'last mile' connection to the customer's home uses copper coaxial cable, not fiber.\"\n \n[...] AT\u0026T previously challenged Comcast's fiber-powered claims through the advertising industry's self-regulatory system operated by BBB National Programs' National Advertising Division (NAD). The NAD determined in June that Comcast accurately described its mix of cable and fiber technology in a disclosure, but that Comcast didn't make the disclosure prominently enough. [...] The NAD recommended that Comcast make the disclosure \"more prominent and more proximate to the 'fiber-powered' Wi-Fi claim as necessary to ensure that the disclosure is clear and conspicuous.\" Comcast said it would comply with the decision, but AT\u0026T's lawsuit makes it clear that it isn't satisfied with the current state of Comcast's advertising. We contacted Comcast and will update this article if it provides a response.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 16, 2026 23:00",
-    "published_at": "2026-11-16T23:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "MRDIMM 8800 MT/s vs. 12800 MT/s Memory Performance With AMD EPYC Venice",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369265",
-    "description": "With last week's AMD EPYC 9006 SP7 availability and the AMD EPYC 9686F and EPYC 9996 processor reviews, one of the most frequent questions/comments was around the impact that the new MRDIMM-12800 memory had on these Zen 6 server processors compared to prior gen and the Intel/NVIDIA server competition. Given that curiosity over the MRDIMM-12800 impact, here are the EPYC 9686F 2P benchmarks when…",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369265",
-    "date": "Nov 16, 2026 22:45",
-    "published_at": "2026-11-16T22:45:08Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "AlmaLinux 10.3 Released With ModSecurity Restored, Various Updates",
-    "link": "https://www.phoronix.com/news/AlmaLinux-10.3-Released",
-    "description": "Following the recent Red Hat Enterprise Linux 10.3 release, AlmaLinux 10.3 is now available in production along with AlmaLinux 9.9...",
-    "guid": "https://www.phoronix.com/news/AlmaLinux-10.3-Released",
-    "date": "Nov 16, 2026 22:35",
-    "published_at": "2026-11-16T22:35:41Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Intel Talks Up GPU D270 Performance \u0026 Open-Source Software Support",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369266",
-    "description": "For Supercomputing 2026 week, Intel published a blog post talking up their Intel GPU D Series \"Crescent Island\" hardware based on Xe3P…",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369266",
-    "date": "Nov 16, 2026 21:32",
-    "published_at": "2026-11-16T21:32:42Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
   }
 ]
