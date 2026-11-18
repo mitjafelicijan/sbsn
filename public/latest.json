@@ -1,5 +1,130 @@
 [
   {
+    "title": "Bottles 67.7 Improves Windows App Compatibility on Linux",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369313",
+    "description": "Bottles 67.7 fixes Windows app installation issues, improves Wine compatibility checks, and addresses several interface bugs.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369313",
+    "date": "Nov 18, 2026 04:02",
+    "published_at": "2026-11-18T04:02:22Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "US Officially a Measles Endemic Country",
+    "link": "https://science.slashdot.org/story/26/11/18/0029236/us-officially-a-measles-endemic-country?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from The Hill: The Pan American Health Organization (PAHO) confirmed Tuesday that it was withdrawing the U.S.'s measles elimination status, ending more than two decades of what is considered to be one of the greatest public health achievements in modern history. The U.S. met with PAHO's Measles and Rubella Elimination Regional Monitoring and Re-Verification Commission for a three-day, closed-door meeting last week. \"The commission concluded that the endemic measles transmission has now been reestablished in Bolivia, Mexico and the United States, and recommended that their measles elimination status be withdrawn, a recommendation which I have accepted,\" Jarbas Barbosa, PAHO's director, said during the briefing Tuesday. The U.S. achieved measles elimination status in 2000 and has held onto that for more than 25 years. But the past two years have seen close to 8,000 measles infections and roughly a dozen related deaths. This year has been the worst in terms of transmission in more than 30 years.\n\nErica Schwartz, director of the Centers for Disease Control and Prevention (CDC) has previously said losing elimination status won't lead to changes in the federal response.\n \n\"We know where transmission is occurring and we've invested $100 million in state and local health departments to reach those communities,\" Schwartz said on Tuesday. \"Losing a designation doesn't mean we abandon an evidence-based approach. It means we remain focused on stopping outbreaks.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 18, 2026 03:30",
+    "published_at": "2026-11-18T03:30:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "APT 3.3.8 Package Manager Gets Performance Improvements",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369278",
+    "description": "APT 3.3.8 improves Debian package management performance with faster dependency resolution, optimized cache generation, and reduced DNS queries.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369278",
+    "date": "Nov 18, 2026 02:16",
+    "published_at": "2026-11-18T02:16:54Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "RBRD: RAM-Backed Linux Block Driver Written In Rust For Better Safety But Slower Performance",
+    "link": "https://www.phoronix.com/news/RBRD-Rust-Linux-RAM-Driver",
+    "description": "Linux kernel patches were posted tonight for introducing RBRD, the RAM-backed block driver written in the Rust programming language...",
+    "guid": "https://www.phoronix.com/news/RBRD-Rust-Linux-RAM-Driver",
+    "date": "Nov 18, 2026 02:04",
+    "published_at": "2026-11-18T02:04:05Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Nvidia Rejects Jensen Huang's Offer to Return as CEO",
+    "link": "https://slashdot.org/story/26/11/18/0124249/nvidia-rejects-jensen-huangs-offer-to-return-as-ceo?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Nvidia's board has unanimously rejected former CEO Jensen Huang's offer to return, despite public support from President Trump and prominent Silicon Valley figures. The decision came as Nvidia reported blockbuster third-quarter revenue of $116 billion, double the year-earlier figure. The Associated Press reports: The embattled company's board of directors \"unanimously accepted his resignation and does not intend to reinstate Jensen as CEO,\" Nvidia Chairman Harvey Jones said at the start of Nvidia's quarterly earnings call before yielding to Chief Financial Officer Colette Kress, who is running the company as a permanent replacement is sought. [...] Earlier on Tuesday, Huang said in a social media post that if the board decided that his return was in the best interest of shareholders, employees, the company and the country, he would be \"honored to answer these calls.\" He acknowledged making \"serious mistakes\" in his personal life.\n \nThe turmoil notwithstanding, Nvidia blew past Wall Street expectations for the third quarter, pulling in $116 billion in revenue, double the level from a year ago. The company also posted net income of $2.70 per share, beating estimates of $2.48 per share. Nvidia stock shot up 5.2% in after-hours trading. Referring to Huang's replacement, Jones said, \"We want to install the permanent CEO as quickly as possible, but we won't expedite the CEO before finding exactly the right person.\" Nvidia also announced a new board committee overseeing national security and trade compliance amid investigations into alleged AI chip smuggling to China.\n \nFurther reading: Nvidia Stopped Disclosing Singapore Sales As Revenues Hit $104 Billion\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 18, 2026 01:30",
+    "published_at": "2026-11-18T01:30:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Google To Keep Temporary Gemini Chats For Two Months",
+    "link": "https://yro.slashdot.org/story/26/11/17/2246233/google-to-keep-temporary-gemini-chats-for-two-months?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "timob58 shares a report from TechCrunch: Google is extending how long it keeps temporary Gemini chats and conversations made with chat history turned off to around two months, saying the change aims to improve safety and security as AI systems become more capable. The change, which will roll out globally in the Gemini app over the coming weeks, marks a significant increase from the previous 72-hour retention period mentioned in Google's Gemini Apps Privacy Hub, according to an archived version from November 12. OpenAI, by comparison, says it may keep temporary chats in ChatGPT for up to 30 days, whereas Anthropic retains incognito chats in Claude for 30 days by default.\n \nGoogle did not answer questions about what prompted the change and whether it would affect how conversations are accessed or reviewed, instead pointing to a blog post that says chats are kept longer to respond to users, process feedback, and protect its services and users. Its updated Gemini Apps Privacy Hub also cites potential system failures as a reason for retaining chats and says temporary conversations are not used to train AI models. \"A recent explainer on AI and business IP notes that providers keep data for abuse monitoring even when it is not used for training,\" adds timob58.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 17, 2026 23:00",
+    "published_at": "2026-11-17T23:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "GIMP Adds Automated UI Testing for Linux X11 and Wayland",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369299",
+    "description": "GIMP adds automated UI tests covering image creation, PNG exports, layers, zoom controls, and other common operations.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369299",
+    "date": "Nov 17, 2026 22:38",
+    "published_at": "2026-11-17T22:38:20Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Optimizely Hack Turns World's Biggest Websites Into Malware Dispensers",
+    "link": "https://it.slashdot.org/story/26/11/17/2035243/optimizely-hack-turns-worlds-biggest-websites-into-malware-dispensers?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "PattonPending writes: As reported by The Register, Zoom, the BBC, CNN, HSBC, and numerous other websites briefly served malware on November 16 after an attacker exploited Optimizely's \"Experiments\" feature to inject JavaScript into their pages through Optimizely's CDN. The malware replaced cryptocurrency addresses, attempted to steal credit card information and cookies, and sought to compromise iOS devices. Websites belonging to at least 178 organizations were affected via the \"OPTIMJACK\" vulnerability, which has since been patched. \"Earlier today, Optimizely identified a security incident in which an unauthorized party exploited a vulnerability in Experimentation and used it to add malicious JavaScript to some customer projects,\" the company said. \"We've fixed the vulnerability and removed the injected code from affected projects. We've also taken steps to secure affected user accounts and put additional protections in place to prevent unauthorized code from being delivered.\"\n \nThe researchers said they found malicious code in 188 of the 1,611 Optimizely scripts examined, including those on the company's own website and login portal, suggesting the number of affected businesses could be significantly higher.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 17, 2026 22:00",
+    "published_at": "2026-11-17T22:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Java4Shell Vulnerability For OpenJDK Java That Can Lead To Remote Code Execution",
+    "link": "https://www.phoronix.com/news/Java4Shell-Vulnerability",
+    "description": "Java4Shell was publicly disclosed this afternoon as the latest high profile security vulnerability in the age of AI and LLMs...",
+    "guid": "https://www.phoronix.com/news/Java4Shell-Vulnerability",
+    "date": "Nov 17, 2026 21:35",
+    "published_at": "2026-11-17T21:35:01Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Two Independent Projects Want to Bring MATE to Wayland, Each in its Own Way",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369301",
+    "description": "Polo builds a new compositor for MATE, while MATE Wayland Desktop runs MATE on labwc from an Ubuntu-based ISO.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369301",
+    "date": "Nov 17, 2026 21:32",
+    "published_at": "2026-11-17T21:32:59Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Nvidia Stopped Disclosing Singapore Sales As Revenues Hit $104 Billion",
+    "link": "https://news.slashdot.org/story/26/11/17/1942228/nvidia-stopped-disclosing-singapore-sales-as-revenues-hit-104-billion?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Nvidia stopped separately disclosing its Singapore sales (source paywalled; alternative source) after changing its geographic revenue reporting methodology from customer billing addresses to headquarters locations, obscuring a business that generated $104 billion in external revenue in 2025, up 72% from the previous year. The Financial Times reports that the change has drawn scrutiny amid U.S. investigations into whether Singapore-based Megaspeed helped smuggle Nvidia chips into China. From the report: \"There is now a lot more focus on Nvidia's Singapore business and questions about who its end customers are,\" said an investor who is investigating Nvidia's dealings in south-east Asia. The Singapore accounts show that the subsidiary booked $117.8 billion of revenue in the 12 months to January 2026, including $13.6 billion of sales to another Nvidia company. Given the nature of the Singapore operation as a global hub, customers it serves are from all over the world. Only a small quantity of the chips Nvidia sells ends up in or goes through Singapore. The Singapore subsidiary generated just $53 million of profit in the year to January 2026, suggesting limited scope for Nvidia to benefit from Singapore's low corporate tax rates.\n \n[...] Singapore's outsized role as a revenue generator for Nvidia used to show up in the company's overall results. In January 2025, the US company reported that Singapore was its second-biggest geographic area by revenue, based on customer billing location. The Singapore office generated $23.7 billion of revenue, behind only the US and representing 18 per cent of global income, based on customers' billing location. The annual accounts said that most of the business was generated by customers using the Singapore office to centralize invoicing and that most of the products were shipped elsewhere, with less than 2 per cent of revenue tied to chips that landed in the city-state.\n \nAs recently as July last year, Nvidia reported that the Singapore office accounted for 22 per cent of total revenue. This was around the time Nvidia said it began cutting ties with Megaspeed, following US Department of Commerce investigations into the business. Nvidia then changed its financial reporting methodology and stopped splitting out revenue that went to the Singapore office. Before the 2025 reporting change, Nvidia said in its financial filing that it booked sales based on the billing locations of its customers, but that the end customer's location \"may be different than our customer's billing location.\" It added that \"most shipments associated with Singapore revenue were to locations other than Singapore and shipments to Singapore were insignificant,\" according to the filings.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 17, 2026 21:00",
+    "published_at": "2026-11-17T21:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Canonical is Now Shipping AI-Written Security Patches to Ubuntu Pro Users",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369306",
+    "description": "Canonical has built an AI system to patch Ubuntu CVEs. It's Called Surge and it writes and verifies security backports with competing AI models. Fixes go to a separate opt-in \"Edge\" archive, not to your regular Ubuntu updates.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369306",
+    "date": "Nov 17, 2026 20:16",
+    "published_at": "2026-11-17T20:16:51Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
     "title": "Highly Classified NSA Network Goes Down",
     "link": "https://news.slashdot.org/story/26/11/17/1954223/highly-classified-nsa-network-goes-down?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
     "description": "\"CNN and other outlets are reporting that a classified network at the NSA is down,\" writes longtime Slashdot reader frdmfghtr. \"This follows a week of major outages at Microsoft, the FAA, and JPMorgan Chase.\" From a report: The network, called NSANet, allows employees to communicate classified information internally. At this point there is no evidence of a cyberattack, sources said. As the agency works to understand the scope of the problem, it has enacted staggered arrivals for personnel, the sources said.\n \n\"We see no evidence that this was a cyberattack,\" White House spokesperson Lauren Bis said Tuesday on Newsmax. \"There is no crisis, or anything like that, for Americans to be worried about.\" [...] The US shares intelligence with a group of countries in what is known as the Five Eyes intelligence-sharing alliance, which includes the US, UK, New Zealand, Australia and Canada. That intelligence sharing system has not been impacted as a result of the NSANet outage, according to a source from one of the countries and a former US intelligence official. The NSA released a statement addressing the network issues: \"The National Security Agency experienced temporary degradation during scheduled routine maintenance. While some internal systems were affected, mission-critical capabilities remain fully operational and our ability to defend national security continues. NSA's infrastructure is designed with multiple layers of redundancy to maintain operations during planned maintenance or unexpected events.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
@@ -74,17 +199,6 @@
     "source_url": "https://slashdot.org/"
   },
   {
-    "title": "Canonical is Now Shipping AI-Written Security Patches to Ubuntu Pro Users",
-    "link": "https://feed.itsfoss.com/link/24361/17526502/canonical-surge-announcemengt",
-    "description": "Canonical has built an AI system to patch Ubuntu CVEs. It's Called Surge and it writes and verifies security backports with competing AI models. Fixes go to a separate opt-in \"Edge\" archive, not to your regular Ubuntu updates.",
-    "guid": "6afc84c2070f24000123641f",
-    "date": "Nov 17, 2026 17:17",
-    "published_at": "2026-11-17T17:17:35Z",
-    "image": "https://itsfoss.com/content/images/2026/11/ubuntu-surge.webp",
-    "source": "itsfoss.com",
-    "source_url": "https://itsfoss.com/"
-  },
-  {
     "title": "Framework Wireless Touchpad Keyboard To Sell For $99 USD, Begins Shipping In Q1",
     "link": "https://www.phoronix.com/news/Framework-Wireless-Keyboard",
     "description": "Earlier this year Framework Computer announced the Framework Wireless Touchpad Keyboard as a new product. Today the device is open for pre-order but will not begin shipping until Q1'2027...",
@@ -105,17 +219,6 @@
     "source_url": "https://lwn.net"
   },
   {
-    "title": "Uber Says Hackers Stole Info On Nearly 150K Driver's Licenses During Data Breach",
-    "link": "https://it.slashdot.org/story/26/11/17/0016257/uber-says-hackers-stole-info-on-nearly-150k-drivers-licenses-during-data-breach?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "An anonymous reader quotes a report from TechCrunch: Uber is notifying close to 150,000 drivers that their personal and driver's license information was stolen during an October data breach at one of the company's tech providers. In notices filed this week with several U.S. attorneys general, including California and Iowa, the ride-hailing giant said it was notified on October 9 by the provider that hackers broke in and stole internal credentials, which were used to access Uber's data.\n \nThe company said it subsequently began notifying affected drivers that their personal information was stored with the provider. The stolen data includes affected drivers' names, addresses, dates of birth, and driver's license numbers. TechCrunch has learned that the provider is Fireworks AI, which lets developers access and use open-weight AI models. Fireworks reported a data breach last month in which hackers stole its customers' information, including billing data and some private AI datasets.\n \nOnline productivity startup Notion and AI coding startup Cursor have both confirmed that they had data stolen during the Fireworks hack. In Uber's case, the company said it had alerts enabled to detect unauthorized access to its Fireworks environment, but because the hackers used Fireworks' own internal credentials, \"no alerts were triggered.\" [...] In a notice filed with Oregon's attorney general, Uber said it notified 149,346 people in total that their information had been taken in the breach at Fireworks.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 17, 2026 16:00",
-    "published_at": "2026-11-17T16:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
     "title": "The Much Awaited Linux Multi-Tool Flipper One is Now Available for Pre-order",
     "link": "https://feed.itsfoss.com/link/24361/17526425/flipper-one-crowdfunding",
     "description": "The open Linux multi-tool packs an RK3576 chip, 8 GB RAM, Wi-Fi 6E and M.2 expansion, and Flipper Devices says it's selling it with no profit margin.",
@@ -125,6 +228,17 @@
     "image": "https://itsfoss.com/content/images/2026/11/flipper-one-launch.webp",
     "source": "itsfoss.com",
     "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "Uber Says Hackers Stole Info On Nearly 150K Driver's Licenses During Data Breach",
+    "link": "https://it.slashdot.org/story/26/11/17/0016257/uber-says-hackers-stole-info-on-nearly-150k-drivers-licenses-during-data-breach?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from TechCrunch: Uber is notifying close to 150,000 drivers that their personal and driver's license information was stolen during an October data breach at one of the company's tech providers. In notices filed this week with several U.S. attorneys general, including California and Iowa, the ride-hailing giant said it was notified on October 9 by the provider that hackers broke in and stole internal credentials, which were used to access Uber's data.\n \nThe company said it subsequently began notifying affected drivers that their personal information was stored with the provider. The stolen data includes affected drivers' names, addresses, dates of birth, and driver's license numbers. TechCrunch has learned that the provider is Fireworks AI, which lets developers access and use open-weight AI models. Fireworks reported a data breach last month in which hackers stole its customers' information, including billing data and some private AI datasets.\n \nOnline productivity startup Notion and AI coding startup Cursor have both confirmed that they had data stolen during the Fireworks hack. In Uber's case, the company said it had alerts enabled to detect unauthorized access to its Fireworks environment, but because the hackers used Fireworks' own internal credentials, \"no alerts were triggered.\" [...] In a notice filed with Oregon's attorney general, Uber said it notified 149,346 people in total that their information had been taken in the breach at Fireworks.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 17, 2026 16:00",
+    "published_at": "2026-11-17T16:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
   },
   {
     "title": "NextCloud Has Launched an Office Suite for Desktop Users",
@@ -145,17 +259,6 @@
     "published_at": "2026-11-17T15:27:38Z",
     "source": "lwn.net",
     "source_url": "https://lwn.net"
-  },
-  {
-    "title": "Two Independent Projects Want to Bring MATE to Wayland, Each in its Own Way",
-    "link": "https://feed.itsfoss.com/link/24361/17526426/mate-desktop-third-party-wayland-efforts",
-    "description": "Polo builds a new compositor for MATE, while MATE Wayland Desktop runs MATE on labwc from an Ubuntu-based ISO.",
-    "guid": "6afc23c1b0bf2e0001dcc881",
-    "date": "Nov 17, 2026 15:24",
-    "published_at": "2026-11-17T15:24:19Z",
-    "image": "https://itsfoss.com/content/images/2026/11/mate-wayland.webp",
-    "source": "itsfoss.com",
-    "source_url": "https://itsfoss.com/"
   },
   {
     "title": "Kill Your Darlings, a great looking time-management dating-sim RPG gets a playtest and Kickstarter",
@@ -450,6 +553,16 @@
     "source_url": "https://slashdot.org/"
   },
   {
+    "title": "MRDIMM 8800 MT/s vs. 12800 MT/s Memory Performance With AMD EPYC Venice",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369265",
+    "description": "With last week's AMD EPYC 9006 SP7 availability and the AMD EPYC 9686F and EPYC 9996 processor reviews, one of the most frequent questions/comments was around the impact that the new MRDIMM-12800 memory had on these Zen 6 server processors compared to prior gen and the Intel/NVIDIA server competition. Given that curiosity over the MRDIMM-12800 impact, here are the EPYC 9686F 2P benchmarks when…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369265",
+    "date": "Nov 16, 2026 22:45",
+    "published_at": "2026-11-16T22:45:08Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
     "title": "AlmaLinux 10.3 Released With ModSecurity Restored, Various Updates",
     "link": "https://www.phoronix.com/news/AlmaLinux-10.3-Released",
     "description": "Following the recent Red Hat Enterprise Linux 10.3 release, AlmaLinux 10.3 is now available in production along with AlmaLinux 9.9...",
@@ -460,241 +573,13 @@
     "source_url": "https://www.phoronix.com/"
   },
   {
-    "title": "FBI Says Artex AI Open-Source Hacking Tool Used to Breach Networks In 'Under Three Hours'",
-    "link": "https://it.slashdot.org/story/26/11/16/2025219/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "The FBI is warning (PDF) that hackers are using the AI-powered penetration-testing tool Artex to compromise networks in \"under three hours\" in some cases. The tool has been linked to attacks against South Korean financial institutions, at least 2,250 ConnectWise customers and Barracuda. TechCrunch reports: Artex is one of several open-source AI-powered penetration testing platforms, a category of software built to probe a network's defenses. Hackers can connect Artex to hosted frontier large language models (LLMs) like those from Anthropic and OpenAI, as well as to open-source models and non-U.S. models. The FBI says Artex intrusions can be \"noisy,\" meaning they generate reams of traffic and data that may trigger a targeted company's defensive alerts. But the tools allow hackers to move at speeds that makes it far more harder for human defenders to keep up.\n \nIn some cases, Artex-linked attacks can move from targeting a system to active compromise \"in under three hours.\" Oftentimes, Artex will rely on rapidly scanning a victim's network to look for signs of weakness, and then exploit simple security bugs, such as weak protections and exposed or stolen passwords to gain a foothold. From there, Artex allows the hacker to spread across the network for databases, mailboxes, and other sensitive information. [...] After Artex was used in cyberattacks, the tool's developer made the software closed-source to prevent further attacks. But the FBI says the previous open-source version continues to circulate and remains \"widely accessible\" for use in cyberattacks.\n \nIt's not only companies and targeted victims that have been compromised as a result of weakened security exploited by AI tools; the tools themselves have been exposed as well, potentially allowing outsiders to access powerful hacking capabilities. Last week, researchers found hundreds of publicly exposed Artex systems online, which had been placed on the internet without a password, likely by mistake or misconfiguration -- including the Artex system that was used to target South Korea.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 16, 2026 22:00",
-    "published_at": "2026-11-16T22:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Microsoft Outage Leads To Chlorine Gas Poisoning At German Theme Park",
-    "link": "https://tech.slashdot.org/story/26/11/16/201240/microsoft-outage-leads-to-chlorine-gas-poisoning-at-german-theme-park?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Slashdot readers djgl and Mirnotoriety shared a story about how a Microsoft Outlook outage contributed to a chlorine leak at Germany's Phantasialand theme park, injuring 15 guests, four of whom were hospitalized. German broadcasting institution WDR reports (translated to English): We were all affected by this problem: On Friday, there was a disruption that crippled the US software company Microsoft, including its email program Outlook. Phantasialand was also affected. Due to the disruption, no emails were received, as the company informed WDR on Saturday. As a result, no one was aware that the sauna area's maintenance safety system had already issued an email alert. This was because the automatic dosing system had pumped too much chlorine into the pool.\n \nGuests at the Hotel Ling Bao in Phantasialand, Bruhl, were injured as a result. They complained of health problems after visiting the pool. The pool was temporarily closed but has since been reopened, as the fire department informed WDR on Saturday. Due to complaints from hotel guests, emergency services and the fire department were called. Thirteen guests complained of respiratory irritation; ultimately, the number of affected individuals rose to a total of 15. Cybersecurity architect and computer scientist Stephan Skrobisch said Microsoft is not responsible for the incident. \"It's clearly the system's design that's the problem. They failed to implement an additional notification mechanism.\"\n \nSlashdot reader davidwr agrees, writing in a comment: \"Proper alarms would be a hardwired alarm that would be visible or audiable to someone who was on-site who could've gotten everyone out of the water. The blame for the injuries goes to the water park and/or whatever consultant told them it was okay not to have an on-site, hardwired alarm.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 16, 2026 21:00",
-    "published_at": "2026-11-16T21:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Snap Store saw several hundred new apps added in one weekend",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369268",
-    "description": "Canonical’s Snap Store has seen a huge uptick in app uploads over the past few days – one account publishing more than 100 utilities and games in 24 hours. What gives? Is the snap store finally seeing a second wind? Typically, the snap store sees between 15-30 new app uploads (not updates) a day, per a quick eyeball of the ‘new’ graph on Alan Pope’s SnapUpdates site. But since the 13 November…",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369268",
-    "date": "Nov 16, 2026 20:22",
-    "published_at": "2026-11-16T20:22:06Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Apple Eyes 2027 Launch For AI-Powered Smart Glasses",
-    "link": "https://apple.slashdot.org/story/26/11/16/186242/apple-eyes-2027-launch-for-ai-powered-smart-glasses?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Apple is reportedly targeting WWDC 2027 to unveil its first smart glasses, with shipments planned before the end of that year. According to Bloomberg's Mark Gurman (paywalled), the company has hopes of making them its flagship new product for 2027. Forbes reports: It's no secret that Meta with its Ray-Ban Meta and Oakley Meta glasses, for instance, lead the field when it comes to smart specs. \"Apple is counting on integration with the apps people already use on their iPhones to be a key differentiator for the glasses,\" Gurman said. The App Store has millions of apps while Meta's apps are far fewer. It seems the smart glasses will use a version of the software used on the Vision Pro.\n \n\"The thinking inside Apple is that while Meta has the increasingly popular Muse agent, Apple has the App Store. Because the Siri integrations are being developed for the iPhone first, software makers won't need to build separate applications for the glasses,\" Gurman insisted. It seems the glasses will do a lot, from making restaurant reservations to booking cars, ordering coffee or buying movie tickets. \"It's also Apple's big AI monetization opportunity,\" Gurman believes.\n \nPart of the experience will depend on Apple's own AI agent system, it seems. There won't be augmented reality in the glasses and they will be lighter than the competition, but with longer battery life and more sensors. Gurman refers to cameras, in the plural, while current models only have one camera, or none at all in the case of Even Realities which tout their privacy aspects. \"Apple is also emphasizing the sound quality,\" Gurman says, \"which employees have said is industry-leading, with support for phone calls, music playback and FaceTime audio communication.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 16, 2026 20:00",
-    "published_at": "2026-11-16T20:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "AlmaLinux OS 10.3 Released as Free Alternative to Red Hat Enterprise Linux 10.3",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369270",
-    "description": "The AlmaLinux OS Foundation announced today the release and general availability of AlmaLinux OS 10.3 (codename Mauve Lion) as the second point release of the latest AlmaLinux OS 10 series, based on Red Hat Enterprise Linux 10.3.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369270",
-    "date": "Nov 16, 2026 19:16",
-    "published_at": "2026-11-16T19:16:01Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Corporations Are Using Trump's Tariff Refunds On Bonuses Rather Than Reimbursing",
-    "link": "https://news.slashdot.org/story/26/11/16/1745238/corporations-are-using-trumps-tariff-refunds-on-bonuses-rather-than-reimbursing?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "An anonymous reader quotes a report from ProPublica: When Stanley Black \u0026 Decker, one of the world's largest tool companies, got hit with President Donald Trump's tariffs last year, the firm made clear that it would be sharing the pain with its customers. The Connecticut-based company raised prices again and again, moves its executives said were necessary because of the new fees on imports. Now, after the Supreme Court struck down Trump's most sweeping tariffs earlier this year, the company is getting at least $298 million refunded. Instead of sharing that bounty with its customers, however, the firm has chosen different recipients: Its own leaders. The company is one of at least nine that have disclosed that they are using their refunds not to pay back the cash-strapped consumers who generally covered much of the tariff costs through higher prices, but to give bonuses, according to a ProPublica analysis of thousands of securities filings and earnings calls for publicly traded companies.\n \nOther recognizable companies include the owners of discount department stores TJ Maxx and Marshalls and the golf equipment brand Titleist. Dozens of other firms have said little about how they plan to use the money other than to characterize the windfall as the kind of earnings they use to determine executive bonuses. The Trump administration has not publicly detailed which companies are getting the roughly $170 billion in refunds or how much they've asked for, and it has denied ProPublica's requests for this information. But reporters found some of these details while reviewing the disclosures of thousands of publicly traded companies.\n \nSome have described vague plans to pay the money forward by, for example, \"returning tariff refunds to our members through pricing,\" though they generally don't say whether that involves price cuts or limiting future increases. Others are paying back businesses they sold products to because they had itemized receipts that detailed the tariff markups. But consumers hoping for refunds appear to be largely out of luck. With the help of artificial intelligence, ProPublica identified companies that said they planned to refund customers with their tariff windfalls. Almost all of them deal with other businesses, not consumers. \"Executive bonuses are probably the least just way to use this money because it wasn't anything the executives did that they should be rewarded for. It was a government mistake that resulted in a refund,\" said Gregory Germain, a corporate law professor at Syracuse University. \"It really explains why it's so important for the government, when they're doing something like this, to think it through to make sure consumers don't pay extra money and not get it back.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 16, 2026 19:00",
-    "published_at": "2026-11-16T19:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Omaxian takes the Omarchy look down a different Linux backstreet",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369252",
-    "description": "Devuan-based distro swaps Wayland for XLibre and i3, with Xfce waiting if the tiling gets tiresome",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369252",
-    "date": "Nov 16, 2026 18:02",
-    "published_at": "2026-11-16T18:02:43Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "SpaceX Catches Starship On the First Try",
-    "link": "https://science.slashdot.org/story/26/11/16/1721247/spacex-catches-starship-on-the-first-try?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Over the weekend, SpaceX successfully caught a Starship upper stage returning from orbit for the first time, demonstrating a key piece of its plan for a fully and rapidly reusable launch system. The achievement means SpaceX has now demonstrated tower catches of both Starship stages, though not yet on the same flight. \"Many small fixes are needed to achieve immediate reusability (like an airplane),\" noted SpaceX's Elon Musk. The Register reports: Flight 15 began well, with the 33 Raptor engines of the Super Heavy booster launching the stack from Pad 2 at Starbase, Texas. Hot staging followed, and the booster performed its directional flip maneuver. Thirty-two Raptor engines relit for the boostback burn, intended to return Super Heavy to the tower for another catch. The booster had managed the maneuver on flight tests 5, 7, and 8, but this time something went wrong. \"The boostback burn ended early due to low fuel mass,\" SpaceX said.\n \nThe booster automatically aborted its return to the tower and diverted offshore. It completed a landing burn, briefly hovering above the Gulf before its engines shut down and the flight termination system delivered an explosive finale. Starship reached orbit under the power of its six Raptor engines and deployed 26 Starlink V3 satellites. Unlike the previous flight's brief orbital stint, this mission lasted almost a day. Following a deorbit burn, Starship returned to the launch site 22 and a half hours after it left.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 16, 2026 18:00",
-    "published_at": "2026-11-16T18:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Questions for Public Administrations",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369237",
-    "description": "Between the evening of 12 November and the afternoon of 13 November 2026, Microsoft 365 services (Exchange Online, Outlook, Teams, Copilot) were unavailable or degraded in at least 70 countries for almost 24 hours. According to Microsoft, the cause was a network capacity upgrade, not a cyber attack. Public bodies",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369237",
-    "date": "Nov 16, 2026 16:54",
-    "published_at": "2026-11-16T16:54:01Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Dictate into any app on Fedora with TuxTalk",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369239",
-    "description": "TuxTalk is a free voice dictation tool for Linux. You hold a key, talk, and let go. What you say appears wherever your cursor is located: a document, an email, a chat box or a terminal. The speech model runs on your own computer, so your voice never leaves it and there is no account…",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369239",
-    "date": "Nov 16, 2026 15:43",
-    "published_at": "2026-11-16T15:43:13Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "MRDIMM 8800 MT/s vs. 12800 MT/s Memory Performance With AMD EPYC Venice",
-    "link": "https://www.phoronix.com/review/mrdimm-8800-12800-amd-epyc",
-    "description": "With last week's AMD EPYC 9006 SP7 availability and the AMD EPYC 9686F and EPYC 9996 processor reviews, one of the most frequent questions/comments was around the impact that the new MRDIMM-12800 memory had on these Zen 6 server processors compared to prior gen and the Intel/NVIDIA server competition. Given that curiosity over the MRDIMM-12800 impact, here are the EPYC 9686F 2P benchmarks when re-testing at 8800 MT/s memory speeds.",
-    "guid": "https://www.phoronix.com/review/mrdimm-8800-12800-amd-epyc",
-    "date": "Nov 16, 2026 15:10",
-    "published_at": "2026-11-16T15:10:00Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "[$] A new generation of futexes",
-    "link": "https://lwn.net/Articles/1102988/",
-    "description": "Futexes\nare a kernel subsystem that provides support for fast mutexes\nin user space.  While futexes can indeed be fast, they are not fast enough\nfor a number of users.  Partly as a result of that, the implementation of\nfutexes has grown in complexity over the years, with two basic variants\non offer.  The desire for faster futexes remains, though, and that inspires\nnew patches, including this series\nfrom Suleiman Souhlal adding a third futex class called \"futex PING\"\nfor \"priority inheritance next generation\".",
-    "guid": "https://lwn.net/Articles/1102988/",
-    "date": "Nov 16, 2026 15:06",
-    "published_at": "2026-11-16T15:06:04Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
     "title": "Intel Talks Up GPU D270 Performance \u0026 Open-Source Software Support",
-    "link": "https://www.phoronix.com/news/Intel-GPU-270-Open-Performance",
-    "description": "For Supercomputing 2026 week, Intel published a blog post talking up their Intel GPU D Series \"Crescent Island\" hardware based on Xe3P...",
-    "guid": "https://www.phoronix.com/news/Intel-GPU-270-Open-Performance",
-    "date": "Nov 16, 2026 15:00",
-    "published_at": "2026-11-16T15:00:40Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Discord's upcoming new Rust client will bring some missing features to Linux",
-    "link": "https://www.gamingonlinux.com/2026/11/discords-upcoming-new-rust-client-will-bring-some-missing-features-to-linux/",
-    "description": "Discord is probably the most popular chat app for gamers, and along with some other recent improvements on Linux, we're set to see even more.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/11/discords-upcoming-new-rust-client-will-bring-some-missing-features-to-linux/",
-    "date": "Nov 16, 2026 14:57",
-    "published_at": "2026-11-16T14:57:41Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/221637166id30207gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Manjaro Project e.V. non-profit organization created",
-    "link": "https://lwn.net/Articles/1107814/",
-    "description": "Frank Vandermeiren has announced\nthe creation of the Manjaro Project e.V., a nonprofit organization in Germany\nthat is independent of the Manjaro GmbH \u0026 Co KG company. This is following a governance struggle that took place\nearlier this year between a number of Manjaro\nLinux contributors and Philip Müller, project lead and CEO of the Manjaro\ncompany.\n\n\nAt the moment, we are still working on optimizing the new development\ninfrastructure, which was partly necessitated by the ongoing (A.I.) bot attacks\nagainst our old infrastructure.\n\nHowever, as you may have noticed, the last Testing\nUpdates and Stable\nUpdates were initiated by the Manjaro Team without supervision from Philip\nMüller — with special thanks to @Yochanan for his hard work!\n\n\nDennis ten Hoove has indicated\nthat \"a transfer of company assets to the e.V. has not yet taken place\",\nand the group's next step is to ready the nonprofit for the transition and\n\"reach out and engage in dialogue with the company\".\n\n",
-    "guid": "https://lwn.net/Articles/1107814/",
-    "date": "Nov 16, 2026 14:52",
-    "published_at": "2026-11-16T14:52:12Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "Rust Nightly To Begin Enabling Parallel Frontend By Default",
-    "link": "https://www.phoronix.com/news/Rust-Nightly-Parallel-Frontend",
-    "description": "While Rust's back-end has long been using multiple threads for compiling code, the Rust front-end has been executing sequentially by default. Finally, Rust Nightly is in the process of beginning to enable its parallel front-end by default to allow for more testing ahead of its eventual stabilization...",
-    "guid": "https://www.phoronix.com/news/Rust-Nightly-Parallel-Frontend",
-    "date": "Nov 16, 2026 14:39",
-    "published_at": "2026-11-16T14:39:24Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Best Linux File Managers in 2026: Built-In and Installable Options",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369254",
-    "description": "Your distro already picked a file manager for you. Here are all 14 worth knowing about, with honest pros, cons, and picks for every kind of Linux user.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369254",
-    "date": "Nov 16, 2026 14:30",
-    "published_at": "2026-11-16T14:30:44Z",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369266",
+    "description": "For Supercomputing 2026 week, Intel published a blog post talking up their Intel GPU D Series \"Crescent Island\" hardware based on Xe3P…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369266",
+    "date": "Nov 16, 2026 21:32",
+    "published_at": "2026-11-16T21:32:42Z",
     "source": "lxer.com",
     "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Security updates for Monday",
-    "link": "https://lwn.net/Articles/1107811/",
-    "description": "Security updates have been issued by Debian (freedombox, kernel, libspreadsheet-xlsx-perl, network-manager-iodine, pdns-recursor, postgresql-15, radsecproxy, and sogo), Fedora (afflib, asahi-installer, below, cloc, dhcpcd, dnf5, epiphany, firefox, glib-networking, hugo, mingw-python3, mtools, mysql8.4, mysql9.7, proftpd, python-cramjam, python-fastar, python-h5io, python-PyMuPDF, python-uv-build, radicale, rubygem-loofah, rubygem-nokogiri, rust-archive-trait, rust-askalono-cli, rust-astral-html, rust-cargo-deny, rust-libcramjam0.8, rust-onefetch, rust-ptools, rust-sccache, rustup, uv, and xorg-x11-server), Gentoo (Apache HTTPD, rsync, and Tor), Oracle (cockpit, firefox, grafana, grafana-pcp, gstreamer1, gstreamer1-plugins-base, kernel, kernel-uek, mingw-libpng, nginx:1.24, perl-CGI, python3, qt5-qtbase, qt5-qtdeclarative, webkit2gtk3, xfsprogs, and xorg-x11-server), and SUSE (389-ds, aliyun-cli, amazon-ssm-agent, apache2, binutils, brotli, bun, cadvisor, chromium, gn, distribution-registry, evolution, firefox, firefox-esr, fleet-cli, fortio, gosec, hauler, hawk-apiserver, hawk2, helmsman, hugo, java-17-openjdk, jsoup, k3sup, kdeconnect-kde, kernel, krb5, kubectl-retina, kubelogin, kubeseal, kumactl, libosmocore, libyang-devel, patch, perl-mozilla-ca, pinact, prometheus-ha_cluster_exporter, python-brotli, python-graphql-core, python-Pillow, python313-Brotli, python313-pypdf, python313-uv, rqlite, rsyslog, scribus, sdbootutil-1, timoni, trivy, vifm, and warewulf4).",
-    "guid": "https://lwn.net/Articles/1107811/",
-    "date": "Nov 16, 2026 14:17",
-    "published_at": "2026-11-16T14:17:41Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "Get some revamped classics in the Masterful Remasters Bundle: Volume II",
-    "link": "https://www.gamingonlinux.com/2026/11/get-some-revamped-classics-in-the-masterful-remasters-bundle-volume-ii/",
-    "description": "Green Man Gaming again with another quality bundle with multiple revamped classics now in the Masterful Remasters Bundle: Volume II.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/11/get-some-revamped-classics-in-the-masterful-remasters-bundle-volume-ii/",
-    "date": "Nov 16, 2026 13:47",
-    "published_at": "2026-11-16T13:47:45Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1557756262id30206gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "GNU's Gawk 5.4.2 Released With Big Performance Improvement",
-    "link": "https://www.phoronix.com/news/GNU-Gawk-5.4.2",
-    "description": "Gawk as the GNU's implementation of the AWK programming language is out with a new release for this tool commonly used for extracting data and pattern matching / data manipulation...",
-    "guid": "https://www.phoronix.com/news/GNU-Gawk-5.4.2",
-    "date": "Nov 16, 2026 13:41",
-    "published_at": "2026-11-16T13:41:16Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "LibreOffice and Google Summer of Code 2026: The results",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369236",
-    "description": "This year, LibreOffice was once again a mentoring organization in the Google Summer of Code (GSoC), a global program focused on bringing more developers into free and open source software development. Three projects were finished successfully. Contributors and mentors enjoyed the time, and here we present some of the achievements,",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369236",
-    "date": "Nov 16, 2026 13:21",
-    "published_at": "2026-11-16T13:21:44Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Best Black Friday Deals for Linux Users in 2026",
-    "link": "https://feed.itsfoss.com/link/24361/17525532/black-friday-linux-2026",
-    "description": "Black Friday 2026 offers on cloud storage, VPNs, private email, Linux computers, courses, and homelab hardware. Time to splurge and save.",
-    "guid": "6af97df1b0bf2e0001dcbe01",
-    "date": "Nov 16, 2026 13:18",
-    "published_at": "2026-11-16T13:18:00Z",
-    "image": "https://itsfoss.com/content/images/2026/11/black-friday-deals-linux-users.webp",
-    "source": "itsfoss.com",
-    "source_url": "https://itsfoss.com/"
-  },
-  {
-    "title": "LLVM's Old AMD R600 Compiler Backend Slated For Removal",
-    "link": "https://www.phoronix.com/news/LLVM-R600-Backend-To-Retire",
-    "description": "The old ATI/AMD Radeon R600 back-end within the LLVM compiler codebase will likely be removed given it's become a legacy burden and doesn't have any current use by the modern Mesa driver stack...",
-    "guid": "https://www.phoronix.com/news/LLVM-R600-Backend-To-Retire",
-    "date": "Nov 16, 2026 13:04",
-    "published_at": "2026-11-16T13:04:01Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
   }
 ]
