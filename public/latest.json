@@ -1,5 +1,433 @@
 [
   {
+    "title": "Palo Alto Networks Signs $4.5 Billion Deal For Applied Compute",
+    "link": "https://it.slashdot.org/story/26/11/19/1812240/palo-alto-networks-signs-45-billion-deal-for-applied-compute?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Palo Alto Networks has agreed to acquire AI startup Applied Compute for $4.5 billion as it expands beyond traditional cybersecurity into securing enterprise AI systems, including the training and deployment of open-weight models. The deal is expected to close in the third quarter of fiscal 2027. Reuters reports: Palo Alto Networks has been repositioning itself as an integrated cybersecurity provider, with recent deals, including its $3.35 billion acquisition of cloud management and monitoring firm Chronosphere and an agreement with Israeli startup Koi. The company is looking to tap growing cybersecurity spending as the rapid adoption of AI creates new security risks and gives attackers new ways to exploit vulnerabilities.\n \n\"AI tools are surfacing vulnerabilities faster than companies can patch them, and that is pushing customers to consolidate onto fewer platforms,\" said Catharine Trebnick, senior research analyst at Rosenblatt Securities. With the acquisition of Applied Compute, Palo Alto aims to offer a technology platform that helps customers securely train and deploy open-weight models as they expand their use of AI.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 19, 2026 19:00",
+    "published_at": "2026-11-19T19:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Best Docks for Linux in 2026: 12 Options Compared",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369391",
+    "description": "Compare 12 Linux docks, from built-in ones like Ubuntu Dock and COSMIC to Plank, Dash to Dock and Cairo-Dock. See pros, cons and a quick table.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369391",
+    "date": "Nov 19, 2026 18:26",
+    "published_at": "2026-11-19T18:26:52Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Anthropic Tops $2 Trillion Market Cap After IPO Debut",
+    "link": "https://slashdot.org/story/26/11/19/1753210/anthropic-tops-2-trillion-market-cap-after-ipo-debut?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Anthropic made its Nasdaq debut Thursday in the largest initial public offering in history. Shares opened at $111.50, a 34% premium that briefly pushed the Claude developer's market capitalization above $2 trillion, making it one of the world's most valuable companies. CNBC reports: The 5-year-old company captivated the corporate world with its Claude AI models and products, which have fueled its meteoric rise this year. Anthropic said in its prospectus that it generated $33.24 billion in revenue for the nine months ended Sept. 30, up a staggering 1,200% from the same period last year.\n \nAnthropic CEO Dario Amodei co-founded the company in 2021 after he and a small group of researchers defected from OpenAI, now its chief rival. Anthropic has faced a sharp criticism over its positions on safety, regulation and national security, including by President Donald Trump and other senior government officials. [The Pentagon formally designated Anthropic a supply-chain risk in March following a dispute over military use of its AI models.]\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 19, 2026 18:00",
+    "published_at": "2026-11-19T18:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "[$] Added indirection allows for larger BPF programs",
+    "link": "https://lwn.net/Articles/1106537/",
+    "description": "\nThe BPF verifier has historically worked by tracing every possible path of\nexecution through a program, checking, at each instruction, that various safety\nproperties hold. This works, but it can result in an exponential increase in the\nnumber of states that need checking in programs with complicated control-flow.\nAlexei Starovoitov, one of the kernel's core BPF maintainers, has shared\n\na patch set that substantially reworks how the verifier tracks states, in\norder to reduce the size of that exponential explosion.\n",
+    "guid": "https://lwn.net/Articles/1106537/",
+    "date": "Nov 19, 2026 17:32",
+    "published_at": "2026-11-19T17:32:42Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "Wireshark 4.6.10 Network Protocol Analyzer Released with Various Bug Fixes",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369359",
+    "description": "Wireshark 4.6.10 open-source network protocol analyzer is now available for download with fixes for crashes, memory leaks, infinite loops, and large loops in dissectors and file parsers.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369359",
+    "date": "Nov 19, 2026 17:15",
+    "published_at": "2026-11-19T17:15:48Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Gamers Skip Work to Play GTA VI After 13-Year Wait",
+    "link": "https://games.slashdot.org/story/26/11/19/172205/gamers-skip-work-to-play-gta-vi-after-13-year-wait?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "After a 13-year wait, Rockstar games' Grand Theft Auto VI has officially (and finally) launched today to near-universal acclaim, earning a 99/100 score on Metacritic and generating an estimated $1.84 billion from 19 million copies sold. The highly anticipated release has prompted gamers to take time off work, attracted nearly 2 million concurrent Twitch viewers, and sparked celebrations around the world. \"Video game critics have lauded it, describing it as a 'masterpiece' and 'the single most impressive video game' they've ever played,\" reports NBC News.\n \nAn expert told Reuters that there could be a \"work blackout across the board.\" Another expert suggested that $1 billion in U.S. productivity could be lost as people take time off to play the game, which is estimated to take about 50 hours to complete.\n \nHere's a roundup of GTA VI reviews:\n\n IGN (10/10) calls it \"the single most impressive video game I have ever played.\" GameSpot (10/10) praises its extraordinary attention to detail, calling it a culmination of Rockstar's open-world achievements. Push Square (10/10) describes it as Rockstar's deepest and most accomplished open world since Red Dead Redemption 2, though it notes the 30fps cap and occasional pacing issues. Eurogamer (5/5) praises its ambitious world and the emotional depth of Jason and Lucia's relationship. Digital Foundry highlights its groundbreaking visual realism, ray tracing, and simulation detail, while acknowledging compromises from the 30fps target. Bloomberg calls it an all-time classic, praising the unpredictable interactions and remarkable freedom of exploration.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 19, 2026 17:04",
+    "published_at": "2026-11-19T17:04:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "PostgreSQL 19 released",
+    "link": "https://lwn.net/Articles/1108561/",
+    "description": "The PostgreSQL Global Development Group has announced\nthe release of PostgreSQL 19. Notable features in this release include the\nintroduction of the REPACK (CONCURRENTLY) command to optimize tables\nwithout disruption to ongoing operations, better control over plan stability and\nquery performance with the new pg_plan_advice extension, and a number\nof performance improvements.\n\nIn September, LWN covered the\nremoval of several features initially slated for this release. See the release notes for\na full list of new features and changes.\n\n",
+    "guid": "https://lwn.net/Articles/1108561/",
+    "date": "Nov 19, 2026 16:39",
+    "published_at": "2026-11-19T16:39:16Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "Microsoft Testing Remote Lock For Lost Or Stolen Windows Devices",
+    "link": "https://mobile.slashdot.org/story/26/11/19/0058259/microsoft-testing-remote-lock-for-lost-or-stolen-windows-devices?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "joshuark quotes a report from BleepingComputer: Microsoft is testing a new feature that lets enterprise IT administrators remotely lock stolen or lost Windows devices without wiping them. Named Remote Lock, this new feature is shipping to devices upgraded to Windows 11 Insider Preview builds in the Beta (Build 26320.10003) and Experimental (Build 26340.10013) channels.\n \nAdmins can use Microsoft Intune custom configuration profiles to lock Microsoft Entra-joined, hybrid-joined, or MDM-enrolled devices that run Windows Enterprise, Education, or Pro. After the IT department remotely locks the device, the system can only be unlocked via Intune, since PINs, passwords, local admins, or web sign-ins will no longer work. Microsoft added that the user's credentials will remain valid and can still be used to sign into other devices that haven't been locked. \"Windows signs out every active session, hides all sign-in options and shows a locked screen,\" said Windows Insider communications lead Stephen Lines. \"Nothing is erased: the device stays enrolled and managed, BitLocker stays on and user data stays in place. The lock holds across restarts and while offline, and only an admin can lift it remotely, so the user picks up where they left off.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 19, 2026 16:00",
+    "published_at": "2026-11-19T16:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Windows 11 vs. Ubuntu 26.10 Linux Performance On AMD Ryzen AI Max+",
+    "link": "https://www.phoronix.com/review/windows-ubuntu2610-strix-halo",
+    "description": "With recently having received a review sample of the GMKtec EVO-X2 mini PC powered by the AMD Ryzen AI Max+ 395 \"Strix Halo\" SoC and pre-loaded with Microsoft Windows 11 Pro, I took the opportunity to see how the AMD Ryzen AI Max+ performance is comparing between Windows 11 and Ubuntu 26.10 Linux on a range of workloads from gaming to AI and creator applications.",
+    "guid": "https://www.phoronix.com/review/windows-ubuntu2610-strix-halo",
+    "date": "Nov 19, 2026 16:00",
+    "published_at": "2026-11-19T16:00:00Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "PostgreSQL 19 Released With More Performance Improvements",
+    "link": "https://www.phoronix.com/news/PostgreSQL-19-Released",
+    "description": "After running weeks behind schedule due to PostgreSQL developers being overwhelmed by AI/LLM-led bug reports and security issues, PostgreSQL 19.0 managed to finally ship today...",
+    "guid": "https://www.phoronix.com/news/PostgreSQL-19-Released",
+    "date": "Nov 19, 2026 15:57",
+    "published_at": "2026-11-19T15:57:57Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "PHP 8.6 Released With Partial Function Application, Other New Features",
+    "link": "https://www.phoronix.com/news/PHP-8.6-Released",
+    "description": "Following today's PHP 8.2.36, PHP 8.3.37, PHP 8.4.28, and PHP 8.5.13 security releases to address multiple security issues, PHP 8.6.0 made its official debut today...",
+    "guid": "https://www.phoronix.com/news/PHP-8.6-Released",
+    "date": "Nov 19, 2026 15:16",
+    "published_at": "2026-11-19T15:16:52Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Ryzen 7 PRO 8845HS lands on industrial Mini-ITX board with dual 2.5GbE",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369357",
+    "description": "The Jetway MTX-RYZ1 is an upcoming Mini-ITX industrial motherboard powered by the AMD Ryzen 7 PRO 8845HS processor. The board supports up to 96GB of DDR5 memory and combines dual 2.5GbE networking, PCIe Gen4 expansion, and four display outputs with industrial connectivity options. The MTX-RYZ1 uses AMD’s Ryzen 7 PRO 8845HS processor, built on the…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369357",
+    "date": "Nov 19, 2026 14:54",
+    "published_at": "2026-11-19T14:54:33Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Steam Frame hits over 300 Standalone Verified games",
+    "link": "https://www.gamingonlinux.com/2026/11/steam-frame-hits-over-300-standalone-verified-games/",
+    "description": "The Steam Frame has been out for a little while, and the amount of games that are properly playable in standalone has hit over 300.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/11/steam-frame-hits-over-300-standalone-verified-games/",
+    "date": "Nov 19, 2026 14:45",
+    "published_at": "2026-11-19T14:45:55Z",
+    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/steam-frame-on-desk_gol2_35250cf9.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "PHP 8.6.0 released",
+    "link": "https://lwn.net/Articles/1108555/",
+    "description": "Version 8.6.0 of\nPHP has been released. Notable changes in this release include a polling API, a\nnew clamp() function, a SortDirection enum, and a\n\\Time\\Duration class. See \"What's new in 8.6\"\nfor more on new features, and the changelog for a full list\nof changes.",
+    "guid": "https://lwn.net/Articles/1108555/",
+    "date": "Nov 19, 2026 14:43",
+    "published_at": "2026-11-19T14:43:09Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "Four PHP security releases including fixes for critical vulnerabilities",
+    "link": "https://lwn.net/Articles/1108552/",
+    "description": "The PHP Project has announced the release of PHP 8.5.13, 8.4.28, 8.3.37, and 8.2.36. Each contains a\nnumber of security and bug fixes, including several fixes for critical\nvulnerabilities that could allow remote-code execution. According to the\nproject's pre-release\nannouncement on November 18, all of the vulnerabilities of critical\nseverity \"require either non-default configuration or uncommon\nsetups\". See the release notes for details; Linux vendors and projects\nshould be releasing updated packages soon.\n\n",
+    "guid": "https://lwn.net/Articles/1108552/",
+    "date": "Nov 19, 2026 14:29",
+    "published_at": "2026-11-19T14:29:04Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "Unsloth Desktop Now Supports Using The AMD Ryzen AI NPU - Including On Linux",
+    "link": "https://www.phoronix.com/news/Unsloth-Desktop-Ryzen-AI-NPU",
+    "description": "AMD and Unsloth announced today that local NPU inference is now available for Unsloth Desktop, starting with the AMD Ryzen AI NPUs of XDNA 2 and later...",
+    "guid": "https://www.phoronix.com/news/Unsloth-Desktop-Ryzen-AI-NPU",
+    "date": "Nov 19, 2026 14:25",
+    "published_at": "2026-11-19T14:25:27Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Debian's APT Removing Some Features Due To Advancements In AI Security Discoveries",
+    "link": "https://www.phoronix.com/news/Debian-APT-Removing-Features",
+    "description": "Stemming from the recent Debian APT man-in-the-middle attack from a vulnerability in APT's downloading code and ongoing advancements in AI/LLMs around security research, APT is now resorting to disabling and removing some older, complex features that may make the program more vulnerable to finding exploits moving forward...",
+    "guid": "https://www.phoronix.com/news/Debian-APT-Removing-Features",
+    "date": "Nov 19, 2026 14:15",
+    "published_at": "2026-11-19T14:15:04Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Security updates for Thursday",
+    "link": "https://lwn.net/Articles/1108551/",
+    "description": "Security updates have been issued by AlmaLinux (cockpit, cockpit-files, cockpit-machines, gimp, glib-networking, krb5, libpcap, nginx, nodejs26, perl-CGI, php8.4, skopeo, tigervnc, and xorg-x11-server), Debian (haproxy, libreoffice, libvisio, needrestart, openjdk-21, and openjdk-25), Fedora (asterisk, erlang, ffmpeg, ignition, libosmocore, luksmeta, msedit, openapv, passwordsafe, rabbitmq-server, sngrep, and vyper), Mageia (firefox, nss, rootcerts, rsync, and thunderbird), Slackware (libfontenc and libXfont2), SUSE (389-ds, apache2, aspell, bind, brotli, busybox, civetweb, containerd, cosign, docker, gleam, glibc, graphicsmagick, helm, ignition, ImageMagick, java-17-openjdk, java-21-openjdk, java-25-openjdk, jhead, kernel, kubernetes, libsofia-sip-ua-glib3, mcphost, perl-HTTP-Body, perl-MIME-tools, phodav, python-asyncssh, python-django, python-joserfc, python315, qemu, rootlesskit, roundcubemail, rsyslog, runc, tempo-cli, trivy, and xorg-x11-server), and Ubuntu (cloud-init, gstreamer1.0, hplip, libcpanel-json-xs-perl, linux, linux-aws, linux-aws-5.4, linux-aws-fips, linux-azure-5.4, linux-azure-fips, linux-bluefield, linux-fips, linux-gcp, linux-gcp-5.4, linux-gcp-fips, linux-hwe-5.4, linux-ibm, linux-ibm-5.4, linux-iot, linux-kvm, linux-oracle-5.4, linux-raspi, linux-raspi-5.4, linux-xilinx-zynqmp, linux, linux-aws, linux-kvm, linux-lts-xenial, linux-azure, linux-oracle, linux-azure-7.0, linux-fips, nginx, openjdk-17, openjdk-21, openjdk-25, openjdk-27, and openjdk-lts).",
+    "guid": "https://lwn.net/Articles/1108551/",
+    "date": "Nov 19, 2026 14:05",
+    "published_at": "2026-11-19T14:05:42Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "FOSS Weekly #26.47: Slax is Back, Ubuntu Offers Surge Protection, New Office Suite,  Black Friday Deals for Linux Users and More",
+    "link": "https://feed.itsfoss.com/link/24361/17529217/foss-weekly-26-47",
+    "description": "Read what's happening in the Linux world, learn new tips and solve some puzzles in the latest edition of FOSS Weekly newsletter.",
+    "guid": "6afd86e2070f240001236852",
+    "date": "Nov 19, 2026 13:49",
+    "published_at": "2026-11-19T13:49:49Z",
+    "image": "https://itsfoss.com/content/images/2026/11/foss-weekly-1-.webp",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "TUXEDO InfinityBook Pro 15 Gen11 AMD Pairs Ryzen AI 9 HX 470 With Up To 128GB Of RAM",
+    "link": "https://www.phoronix.com/news/InfinityBook-Pro-15-Gen11",
+    "description": "Bavarian Linux PC vendor TUXEDO Computers today announced the InfinityBook Pro 15 Gen11 AMD laptop that pairs the current generation Ryzen AI 9 HX 470 CPU with up to 128GB of RAM and marketed as a premium-class business notebook...",
+    "guid": "https://www.phoronix.com/news/InfinityBook-Pro-15-Gen11",
+    "date": "Nov 19, 2026 13:49",
+    "published_at": "2026-11-19T13:49:27Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "BackBox Linux 10 Released with Linux 7.0, Xfce 4.20, and Ubuntu 26.04 LTS Base",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369363",
+    "description": "BackBox Linux 10 distribution for penetration testing and security assessment is now available for download based on Ubuntu 26.04 LTS and featuring the Xfce 4.20 desktop environment.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369363",
+    "date": "Nov 19, 2026 13:36",
+    "published_at": "2026-11-19T13:36:16Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "LiberNT: An AI-Fueled Fork Of ReactOS Focused On Windows 11 Compatibility",
+    "link": "https://www.phoronix.com/news/LiberNT",
+    "description": "While the ReactOS project has been enjoying nice conventional progress this year from initial USB 3.0 driver support to improved DirectX support, there is now a new project called LiberNT that is forked from the ReactOS codebase and leveraging AI to quickly iterate on it with a goal of Windows 11 compatibility...",
+    "guid": "https://www.phoronix.com/news/LiberNT",
+    "date": "Nov 19, 2026 12:56",
+    "published_at": "2026-11-19T12:56:46Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Now Nginx Has Critical Vulnerabilities",
+    "link": "https://feed.itsfoss.com/link/24361/17529152/nginx-code-execution-flaws",
+    "description": "The fix is out in version 1.31.9 and 1.30.7, and the oldest affected code goes back to nginx 0.5.33.",
+    "guid": "6afeb33e070f240001237454",
+    "date": "Nov 19, 2026 12:44",
+    "published_at": "2026-11-19T12:44:29Z",
+    "image": "https://itsfoss.com/content/images/2026/11/nginx-vulnerabilities-banner.png",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "The Tower Must Fall - review, build up a ridiculous tower with incremental upgrades",
+    "link": "https://www.gamingonlinux.com/2026/11/the-tower-must-fall-review-build-up-a-ridiculous-tower-with-incremental-upgrades/",
+    "description": "The Tower Must Fall is a curious fusion of tower defense with incremental progression, where you'll watch your precious creation fall time and time again.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/11/the-tower-must-fall-review-build-up-a-ridiculous-tower-with-incremental-upgrades/",
+    "date": "Nov 19, 2026 12:37",
+    "published_at": "2026-11-19T12:37:26Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/698110440id30232gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Agama Unattended installation openSUSE Tumbleweed hosts via multi-threaded agama-proxyV2.py on top of F45 Server",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369366",
+    "description": "This particular setup may be tested on Tumbleweed KVM Guests running at remote KVM Hypervisor keeping to provide reliable results. This post is an immediate follow up for Agama Unattended installation openSUSE Tumbleweed hosts via remote Agama-Proxy.service on top of F45 Server (bare metal) Daemon been built now provides Multi-Threaded: Handles multiple simultaneous KVM guest requests without locking. Decoupled: Running safely as a background daemon via nohup and disown. Optimized: Running at full line rate without hidden network or DNS latency.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369366",
+    "date": "Nov 19, 2026 12:28",
+    "published_at": "2026-11-19T12:28:12Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Nginx Fixes 10 Security Vulnerabilities, Five Linked to NGINX2Shell",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369353",
+    "description": "Nginx releases security fixes for 10 vulnerabilities, including five dubbed NGINX2Shell that could allow attackers to crash workers or execute code.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369353",
+    "date": "Nov 19, 2026 11:16",
+    "published_at": "2026-11-19T11:16:48Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "More ASUS \u0026 ASRock Motherboards Seeing Sensor Monitoring Support With Linux 7.5",
+    "link": "https://www.phoronix.com/news/Linux-75-More-ASUS-ASRock-HWMON",
+    "description": "A number of patches were recently queued into the Linux hardware monitoring subsystem's \"hwmon-next\" Git branch of expanded ASUS and ASRock motherboard support for the upcoming Linux 7.5 kernel...",
+    "guid": "https://www.phoronix.com/news/Linux-75-More-ASUS-ASRock-HWMON",
+    "date": "Nov 19, 2026 11:14",
+    "published_at": "2026-11-19T11:14:23Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "AMD AI Engine \"AIE\" Driver Posted For Mainline Linux Kernel Review",
+    "link": "https://www.phoronix.com/news/AMD-AI-Engine-Linux-Driver",
+    "description": "Separate from the existing AMDXDNA accelerator driver in the Linux kernel for Ryzen AI NPUs, on Wednesday AMD posted patches for the new AMD AI Engine \"AIE\" accelerator driver...",
+    "guid": "https://www.phoronix.com/news/AMD-AI-Engine-Linux-Driver",
+    "date": "Nov 19, 2026 11:00",
+    "published_at": "2026-11-19T11:00:00Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "College Board Delivers Another AI Ultimatum: No AI, No AP CS Principles Course",
+    "link": "https://news.slashdot.org/story/26/11/19/0628241/college-board-delivers-another-ai-ultimatum-no-ai-no-ap-cs-principles-course?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Longtime Slashdot reader theodp writes: Just days after news broke of Google's no AI, no Search ultimatum -- prompting school districts to weigh breaking up with Google Search (source paywalled; alternative source) -- the College Board quietly delivered another AI ultimatum to the nation's AP Computer Science Principles teachers, suggesting that their days of teaching AP CSP might be over unless their school districts put an end to their anti-AI ways.\n \n\"Effective in fall 2027,\" The College Board explained, \"AP Computer Science Principles has been reimagined as the course for teaching students how to work with AI responsibly, safely, and confidently. AI is integral to the world of computer science. Software engineering remains one of the largest professional job categories, and employers now expect software engineers to be fluent in AI. What sets candidates apart is a deeper understanding of AI for designing, debugging, and evaluating code, and the ability to determine when AI is wrong. The redesigned course develops these skills, empowering students to build with AI, not just learn about it. [...] Students also complete an AI Create Project, in which they build an AI application. The AP Exam includes free-response questions about the project, so students who earn a qualifying score for college credit have demonstrated their ability to design, build, and understand an AI-powered application. [...] Students need access to a district-approved AI tool that accepts a student's own written instructions and returns a response. Schools will need to make sure every student has access to one.\"\n \nThe College Board also announced a planned ban on the use of block-based programming languages like Snap!, Scratch, Blockly, and MIT App Inventor for students' \"AI Create Project\" (which replaces the current \"Create Performance Task\" that counts for 30% of a student's AP exam score): \"Beginning with the 2028-29 school year, students will submit their AI Create Project in one of a limited number of text-based languages. This change aligns the course with introductory college computer science courses, where text-based languages are most commonly used. If you currently teach programming with block-based tools, you can continue to use them in your teaching while introducing text-based languages throughout the year. Students will need to be working in an approved text-based language by the time they submit their AI Create Project in 2028-29.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 19, 2026 11:00",
+    "published_at": "2026-11-19T11:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Valkey 9.2 Delivers More Performance, Zstd Compression \u0026 Lower Memory Overhead",
+    "link": "https://www.phoronix.com/news/Valkey-9.2",
+    "description": "Valkey 9.2 is out today as the latest feature update to this leading fork of the Redis in-memory, key-value database...",
+    "guid": "https://www.phoronix.com/news/Valkey-9.2",
+    "date": "Nov 19, 2026 10:41",
+    "published_at": "2026-11-19T10:41:47Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "System76 released the Thelio Prime, a small and powerful Linux PC for work and play",
+    "link": "https://www.gamingonlinux.com/2026/11/system76-released-the-thelio-prime-a-small-and-powerful-linux-pc-for-work-and-play/",
+    "description": "System76 have now formally revealed the new Thelio Prime, and good things come in small packages.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/11/system76-released-the-thelio-prime-a-small-and-powerful-linux-pc-for-work-and-play/",
+    "date": "Nov 19, 2026 10:32",
+    "published_at": "2026-11-19T10:32:53Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/621922243id30231gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Mesa 26.3.1 Ships Fixes For Intel Jay Compiler \u0026 RADV Driver",
+    "link": "https://www.phoronix.com/news/Mesa-26.3.1-Released",
+    "description": "Following the recent Mesa 26.3 release, Mesa 26.3.1 is now available as the first point release for those that prefer waiting until the x.1 milestone before upgrading to the new quarterly feature series...",
+    "guid": "https://www.phoronix.com/news/Mesa-26.3.1-Released",
+    "date": "Nov 19, 2026 10:32",
+    "published_at": "2026-11-19T10:32:08Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "The 3D space flight sim Kitten Space Agency (KSA) celebrates a year as it continues to be free",
+    "link": "https://www.gamingonlinux.com/2026/11/the-3d-space-flight-sim-kitten-space-agency-ksa-celebrates-a-year-as-it-continues-to-be-free/",
+    "description": "Made in the spirit of Kerbal Space Program with the original creator, Kitten Space Agency (KSA) is celebrating a year of development.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/11/the-3d-space-flight-sim-kitten-space-agency-ksa-celebrates-a-year-as-it-continues-to-be-free/",
+    "date": "Nov 19, 2026 09:20",
+    "published_at": "2026-11-19T09:20:21Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/94804176id30229gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Hadean Tactics devs announce Black Flame Tactics, a co-op autobattler roguelike",
+    "link": "https://www.gamingonlinux.com/2026/11/hadean-tactics-devs-announce-black-flame-tactics-a-co-op-autobattler-roguelike/",
+    "description": "If you missed the auto-chess craze and miss stuff like Dota Underlords, perhaps Black Flame Tactics might fill a gaming hole for you.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/11/hadean-tactics-devs-announce-black-flame-tactics-a-co-op-autobattler-roguelike/",
+    "date": "Nov 19, 2026 09:04",
+    "published_at": "2026-11-19T09:04:49Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1839659772id30228gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Steam Client Beta - November 18 gets even more startup improvements, may break some UI mods",
+    "link": "https://www.gamingonlinux.com/2026/11/steam-client-beta-november-18-gets-even-more-startup-improvements-may-break-some-ui-mods/",
+    "description": "Valve released another Steam Client Beta for November 18th that brings even more startup performance improvements - but it may break some UI mods.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/11/steam-client-beta-november-18-gets-even-more-startup-improvements-may-break-some-ui-mods/",
+    "date": "Nov 19, 2026 08:44",
+    "published_at": "2026-11-19T08:44:43Z",
+    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/steam_plain_2025.jpg",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Get some co-op games and stealth action in two new Humble Bundles",
+    "link": "https://www.gamingonlinux.com/2026/11/get-some-co-op-games-and-stealth-action-in-two-new-humble-bundles/",
+    "description": "You can grab two more Humble Bundles with a nice mixture of co-op games to play with friends, and some stealth action games too.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/11/get-some-co-op-games-and-stealth-action-in-two-new-humble-bundles/",
+    "date": "Nov 19, 2026 08:18",
+    "published_at": "2026-11-19T08:18:57Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/2016442015id30226gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Mysterium VPN on Linux is Strictly for Terminal Junkies",
+    "link": "https://feed.itsfoss.com/link/24361/17529073/mysterium-vpn",
+    "description": "The Mysterium VPN client is open source and works on Ubuntu 26.04 LTS. It is command line option only, though.",
+    "guid": "6af2e24c6c9d5b0001ba9ce6",
+    "date": "Nov 19, 2026 08:17",
+    "published_at": "2026-11-19T08:17:00Z",
+    "image": "https://itsfoss.com/content/images/2026/11/mysterium-vpn-banner.png",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "Mesa 26.3.1 released with numerous bug fixes for Linux graphics drivers",
+    "link": "https://www.gamingonlinux.com/2026/11/mesa-26-3-1-released-with-numerous-bug-fixes-for-linux-graphics-drivers/",
+    "description": "Mesa 26.3.1 is out now as the latest bug-fix release for the latest feature release of the Linux open source graphics drivers.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/11/mesa-26-3-1-released-with-numerous-bug-fixes-for-linux-graphics-drivers/",
+    "date": "Nov 19, 2026 08:07",
+    "published_at": "2026-11-19T08:07:02Z",
+    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/mesa.png",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Debian Linux forms a Debian Gaming Hardware Team for testing handhelds and consoles",
+    "link": "https://www.gamingonlinux.com/2026/11/debian-linux-forms-a-debian-gaming-hardware-team-for-testing-handhelds-and-consoles/",
+    "description": "Debian Linux is taking Linux gaming as a whole more seriously now, with the formation of the new Debian Gaming Hardware Team.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/11/debian-linux-forms-a-debian-gaming-hardware-team-for-testing-handhelds-and-consoles/",
+    "date": "Nov 19, 2026 07:57",
+    "published_at": "2026-11-19T07:57:27Z",
+    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/debian.jpg",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Satellites Now Outnumber the Visible Stars Above Most Towns",
+    "link": "https://science.slashdot.org/story/26/11/19/013231/satellites-now-outnumber-the-visible-stars-above-most-towns?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Satellites now outnumber visible stars in the night sky above many towns and cities, according to a non-peer-reviewed analysis by engineering firm Accu Components. The researchers estimated that roughly 710 satellites pass over an average U.K. town at any given moment, with about 105 illuminated by sunlight and potentially visible to the naked eye. Space.com reports: Although the researchers specifically focused on the U.K., they say that such heavy satellite traffic flows above most of Europe, the U.S. and other mid-latitude regions, especially between 40 and 50 degrees north or south. \"Most Starlink satellites orbit at around 53 degrees to the equator, so the satellites bunch up over the mid-latitudes. These worldwide figures are approximate, based on a global grid over a single day,\" Accu Components spokesperson told Space.com in an email. \"Skies near the equator are the quietest, with around 490 satellites.\"\n \nNot all of those satellites are visible to the naked eye, the researchers said in a statement. Because satellites unlike stars don't produce their own light, they must be illuminated by the sun, while the ground below has already sunk into darkness, to be visible. [...] The spokesperson said that the actual number of visible satellites varies drastically throughout the night. During the hours after dusk and before dawn, a much greater number of satellites can be seen, while in the middle of the night most no longer catch any light. \"For a typical U.K. town, around 300 satellites are catching the sunlight in the first hour or so after dark,\" the spokesperson said. \"That falls to fewer than 20 around midnight, then climbs back to around 300 before dawn.\" [...] The study found that throughout the night, an average U.K. town sees 12,891 different satellites passing overhead.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 19, 2026 07:00",
+    "published_at": "2026-11-19T07:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Open-source ePaper signs run over a year on alkaline batteries",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369318",
+    "description": "Wake Electronics has launched a Crowd Supply campaign for Tinta, an open-source ePaper sign powered by the Raspberry Pi Pico W. Available with 4.2-inch and 7.5-inch displays, the device uses hardware-controlled power switching to extend battery life beyond a year, with Wi-Fi connectivity for room reservations and home automation. Tinta currently uses a Raspberry Pi…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369318",
+    "date": "Nov 19, 2026 06:07",
+    "published_at": "2026-11-19T06:07:38Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
     "title": "Hacking Wordle: A New User's Guide to the Power of the Linux Terminal",
     "link": "https://lxer.com/module/newswire/ext_link.php?rid=369321",
     "description": "For new Linux users the terminal can be like the Sphinx, quiet, mysterious, and offering no help to those who do not already speak its language. Here we'll show you how to get comfortable with the terminal by using some common commands to analyze a text file of words used by the popular online game,…",
@@ -18,6 +446,17 @@
     "published_at": "2026-11-19T03:50:35Z",
     "source": "lxer.com",
     "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "7 Open Source Speech to Text Tools for Linux (Local AI Dictation)",
+    "link": "https://feed.itsfoss.com/link/24361/17528980/voice-typing-tools-linux",
+    "description": "Linux speech to text and dictation apps that run locally with Whisper and other open-source AI models. Works on Ubuntu, Fedora, Arch, X11 and Wayland.",
+    "guid": "6afda1f7070f240001236915",
+    "date": "Nov 19, 2026 03:33",
+    "published_at": "2026-11-19T03:33:49Z",
+    "image": "https://itsfoss.com/content/images/2026/11/open-voice-apps-for-linux.png",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
   },
   {
     "title": "New Study Shows How Young People Feel About AI Companions",
@@ -142,6 +581,16 @@
     "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
     "source": "slashdot.org",
     "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "AI-Powered Sashiko Introduces Experimental Patch Series Design Assessment",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369329",
+    "description": "When it comes to leveraging AI for Linux kernel development, one of the most widely-used solutions at the moment is Sashiko that has evolved nicely over the past year for agentic AI code review. This AI-driven screening of generated code posted to the Linux kernel mailing list constantly identifies bugs and other code defects in a quick and straight-forward manner. With being developed and…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369329",
+    "date": "Nov 18, 2026 20:05",
+    "published_at": "2026-11-18T20:05:20Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
   },
   {
     "title": "'Java4Shell' Flaw Exposes OpenJDK to RCE via Base64",
@@ -301,16 +750,6 @@
     "source_url": "https://www.phoronix.com/"
   },
   {
-    "title": "Mozilla Launches Hotline for Windows Users Frustrated with Microsoft Edge",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369300",
-    "description": "Mozilla launches a complaint hotline for Windows users frustrated by Microsoft's efforts to push Edge over competing browsers.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369300",
-    "date": "Nov 18, 2026 13:01",
-    "published_at": "2026-11-18T13:01:11Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
     "title": "Digiphile has a wonderful charity bundle with a mixture of fun games",
     "link": "https://www.gamingonlinux.com/2026/11/digiphile-has-a-wonderful-charity-bundle-with-a-mixture-of-fun-games/",
     "description": "Digiphile are steadily becoming closer to what Humble Bundle was originally, and their latest charity bundle is quite a nice one too.Read the full article on GamingOnLinux.",
@@ -320,289 +759,5 @@
     "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/565379404id30222gol.webp",
     "source": "gamingonlinux.com",
     "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "The Tripwire Interactive: Mayhem \u0026 Combat Bundle is another top deal",
-    "link": "https://www.gamingonlinux.com/2026/11/the-tripwire-interactive-mayhem-combat-bundle-is-another-top-deal/",
-    "description": "Available until December 8th, the Tripwire Interactive: Mayhem \u0026 Combat Bundle from Green Man Gaming brings some quality action gaming for cheaps.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/11/the-tripwire-interactive-mayhem-combat-bundle-is-another-top-deal/",
-    "date": "Nov 18, 2026 11:13",
-    "published_at": "2026-11-18T11:13:44Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1118732423id30221gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "AI-Powered Sashiko Introduces Experimental Patch Series Design Assessment",
-    "link": "https://www.phoronix.com/news/Sashiko-0.9.4-Released",
-    "description": "When it comes to leveraging AI for Linux kernel development, one of the most widely-used solutions at the moment is Sashiko that has evolved nicely over the past year for agentic AI code review. This AI-driven screening of generated code posted to the Linux kernel mailing list constantly identifies bugs and other code defects in a quick and straight-forward manner. With being developed and maintained by Google engineers, it uses Gemini by default but is LLM-agnostic overall. Released on Tuesday was Sashiko v0.9.4 as the next step forward for this Linux kernel helper...",
-    "guid": "https://www.phoronix.com/news/Sashiko-0.9.4-Released",
-    "date": "Nov 18, 2026 11:13",
-    "published_at": "2026-11-18T11:13:06Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "FreeBSD Desktop Install Option Pushed Back To Next Year With FreeBSD 15.3",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369309",
-    "description": "FreeBSD 15.0 had been aiming for a nice (KDE-based) desktop install option in its installer that was then delayed to FreeBSD 15.1 and then pushed back to FreeBSD 15.2. FreeBSD 15.2 is due for release in December but there's no last minute miracle and it looks like the desktop install option will now target FreeBSD 15.3 in mid-2027…",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369309",
-    "date": "Nov 18, 2026 11:11",
-    "published_at": "2026-11-18T11:11:48Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "3mdeb Updates The Open-Source Firmware For Aging AMD Jaguar Powered PC Engines APU2",
-    "link": "https://www.phoronix.com/news/3mdeb-2026-Firmware-APU2",
-    "description": "The PC Engines APU2 single board computer debuted all the way back in 2015 with the AMD Jaguar-powered GX-412TC quad-core SoC and 2~4GB of DDR3 memory. While PC Engines discontinued the APU2 SBC several years ago, these boards have been quite popular for networking/firewall applications and other similar low-power, networking-oriented setups. If you still happen to be using PC Engines APU2 hardware, 3mdeb today released updated system firmware for this decade old SBC...",
-    "guid": "https://www.phoronix.com/news/3mdeb-2026-Firmware-APU2",
-    "date": "Nov 18, 2026 11:00",
-    "published_at": "2026-11-18T11:00:02Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Voyager 1 Reaches One Light-Day From Earth",
-    "link": "https://science.slashdot.org/story/26/11/18/0141255/voyager-1-reaches-one-light-day-from-earth?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "NASA's Voyager 1 has become the first human-made object to travel one light-day from Earth, or 16,094,799,096 miles (25,902,068,356 kilometers). This means radio signals will take 24 hours to reach the spacecraft, now nearly 50 years into its mission. \"Since light is essentially the maximum speed in the universe (absent using devices like wormholes, or quantum-physics puzzles), it's a big deal -- so big that NASA will be celebrating the milestone by asking fans to shine Morse Code signals at the sky,\" reports Space.com. From the report: But why will Voyager 2 take nearly a decade longer? It comes down to choices made for speed and science during the twin missions' nearly 50-year journey, specifically during the first bit when they were flying by planets. The result is Voyager 1 is zooming out at a speed of 3.5 Earth-sun distances (astronomical units a year), while Voyager 2 has a more stately speed of 3.1 Earth-sun distances, according to NASA.\n \n[...] At any rate, these fast speeds allowed both spacecraft not only to go fast, but to eventually reach interstellar space in 2012 (Voyager 1) and 2018 (Voyager 2), respectively. With the light-day milestone now reached by Voyager 1, it is anticipated the spacecraft could work into the 2030s, as long as their nuclear power sources can last.\n \nNASA's Jet Propulsion Laboratory, which manages the mission, has been carefully turning off instruments as required, and recently did a \"Big Bang\" procedure on both spacecraft to redistribute power supplies as best as possible. The idea is to maximize science return on both spacecraft, the only interstellar messengers we have, for as long as possible.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 18, 2026 11:00",
-    "published_at": "2026-11-18T11:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Qualcomm Ath12k Linux Driver Preparing For New WiFi 8 Hardware",
-    "link": "https://www.phoronix.com/news/Qualcomm-Ath12k-Linux-WiFi-8",
-    "description": "Last week Qualcomm engineers published an initial draft of their new Ath12k WiFi driver and already a second version of this driver debuted today for addressing some issues raised by the early Sashiko-based AI review...",
-    "guid": "https://www.phoronix.com/news/Qualcomm-Ath12k-Linux-WiFi-8",
-    "date": "Nov 18, 2026 10:40",
-    "published_at": "2026-11-18T10:40:00Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "SDL Ready For Linux's New Nintendo Switch 2 Controller Driver",
-    "link": "https://www.phoronix.com/news/SDL-Nintendo-Switch-2-Linux",
-    "description": "Introduced in Linux 7.4 is a new driver for the Nintendo Switch 2 controllers that was developed by Valve. The widely-used SDL library used by games for software/hardware abstractions now has added mappings for this driver to ensure the Switch 2 controllers will jive nicely for Linux gaming...",
-    "guid": "https://www.phoronix.com/news/SDL-Nintendo-Switch-2-Linux",
-    "date": "Nov 18, 2026 10:22",
-    "published_at": "2026-11-18T10:22:22Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Steam is officially drowning in game releases",
-    "link": "https://www.gamingonlinux.com/2026/11/steam-is-officially-drowning-in-game-releases/",
-    "description": "Steam grows every year, that much we already know - but this year has truly become something else with the amount of games releasing.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/11/steam-is-officially-drowning-in-game-releases/",
-    "date": "Nov 18, 2026 09:57",
-    "published_at": "2026-11-18T09:57:39Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1963280465id30220gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Backlog is a seriously cool custom screen saver for Steam Big Picture Mode, Steam Deck, Steam Machine",
-    "link": "https://www.gamingonlinux.com/2026/11/backlog-is-a-seriously-cool-custom-screen-saver-for-steam-big-picture-mode-steam-deck-steam-machine/",
-    "description": "Valve introduced screen savers to Steam Big Picture Mode, Steam Deck and Steam Machine back in October and you can customize it. Backlog is one to try out!Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/11/backlog-is-a-seriously-cool-custom-screen-saver-for-steam-big-picture-mode-steam-deck-steam-machine/",
-    "date": "Nov 18, 2026 09:29",
-    "published_at": "2026-11-18T09:29:30Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1486184760id30219gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "MNT Reform Next, the ultra-open laptop, starts shipping",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369310",
-    "description": "Before Framework took the idea of modular, easily upgradable laptops mainstream, there was the MNT Reform, a laptop with openness in every part of its design. I was pleased to see see (via notebookcheck) it’s started shipping high-end Hyper configurations of its laptop model, the MNT Reform Next, to backers of its 2025 crowdfunding campaign via Crowd Supply. These are going out later than…",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369310",
-    "date": "Nov 18, 2026 09:26",
-    "published_at": "2026-11-18T09:26:54Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "PC controller support arrives for Pillars of Eternity and Pillars of Eternity II: Deadfire",
-    "link": "https://www.gamingonlinux.com/2026/11/pc-controller-support-arrives-for-pillars-of-eternity-and-pillars-of-eternity-ii-deadfire/",
-    "description": "After a brief Beta testing period, Pillars of Eternity and Pillars of Eternity II: Deadfire now have full controller support on PC.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/11/pc-controller-support-arrives-for-pillars-of-eternity-and-pillars-of-eternity-ii-deadfire/",
-    "date": "Nov 18, 2026 09:07",
-    "published_at": "2026-11-18T09:07:57Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1154009394id30218gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Pre-orders now open for the Framework Wireless Touchpad Keyboard",
-    "link": "https://www.gamingonlinux.com/2026/11/pre-orders-now-open-for-the-framework-wireless-touchpad-keyboard/",
-    "description": "The Framework Wireless Touchpad Keyboard is a great looking device for using a PC on the sofa, and now it's up for pre-order ahead of a 2027 release.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/11/pre-orders-now-open-for-the-framework-wireless-touchpad-keyboard/",
-    "date": "Nov 18, 2026 08:53",
-    "published_at": "2026-11-18T08:53:02Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1669085530id30217gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Here's all of The Game Awards 2026 nominees",
-    "link": "https://www.gamingonlinux.com/2026/11/heres-all-of-the-game-awards-2026-nominees/",
-    "description": "The Game Awards 2026 is fast approaching on December 10, 2026 and now the nominees for various categories have been revealed.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/11/heres-all-of-the-game-awards-2026-nominees/",
-    "date": "Nov 18, 2026 08:36",
-    "published_at": "2026-11-18T08:36:22Z",
-    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/the-game-awards-logo_gol2_fef3cb7e.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "AI company Manus becomes a Godot Engine Platinum Sponsor",
-    "link": "https://www.gamingonlinux.com/2026/11/ai-company-manus-becomes-a-godot-engine-platinum-sponsor/",
-    "description": "Godot Engine continues pulling in more funding to help the cross-platform open source work, now with an AI company helping.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/11/ai-company-manus-becomes-a-godot-engine-platinum-sponsor/",
-    "date": "Nov 18, 2026 08:20",
-    "published_at": "2026-11-18T08:20:07Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/334340200id30215gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Soverin Suite Joins a Growing Wave of European Companies Selling \"Sovereignty as a Service\"",
-    "link": "https://feed.itsfoss.com/link/24361/17526903/soverin-suite-sovereignty-as-a-service",
-    "description": "The Dutch email provider now bundles Nextcloud and Euro-Office into a managed Microsoft 365 alternative hosted entirely in the Netherlands.",
-    "guid": "6afd4365070f240001236643",
-    "date": "Nov 18, 2026 07:49",
-    "published_at": "2026-11-18T07:49:08Z",
-    "image": "https://itsfoss.com/content/images/2026/11/soverin-suite-1.webp",
-    "source": "itsfoss.com",
-    "source_url": "https://itsfoss.com/"
-  },
-  {
-    "title": "Hacker Pleads Guilty to Leak of Grand Theft Auto VI Footage",
-    "link": "https://yro.slashdot.org/story/26/11/18/0154214/hacker-pleads-guilty-to-leak-of-grand-theft-auto-vi-footage?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Artion Kurtaj, the British hacker responsible for leaking early footage of Grand Theft Auto VI in 2022, pleaded guilty Monday to six offenses stemming from cyberattacks against Rockstar Games, Uber and Revolut. The 21-year-old, who was previously deemed unfit to stand trial due to severe autism, carried out the hacking spree \"using a mobile phone and an Amazon Fire Stick connected to a hotel room television,\" reports The Record, \"despite bail restrictions limiting his access to the internet.\" From the report: Now 21, he admitted six offenses at Woolwich Crown Court on Monday, four under the Computer Misuse Act, one of fraud and one of possession of a mobile phone in prison, and is due to be sentenced next week. Kurtaj \"used sophisticated hacking techniques to carry out a sustained campaign of cyberattacks, causing serious disruption to major international business and putting sensitive information at risk,\" said specialist prosecutor Robert Hutchinson.\n \n\"The defendant was involved in a hacking group responsible for attacks which caused millions of dollars in losses. His offending was calculated and, even after being charged with serious offenses, he continued to target organizations, demonstrating a persistent disregard for the harm he was causing and the law. This was an exceptionally complex and challenging case, but despite his efforts to conceal his identity online, our specialist prosecutors were able to work closely with the City of London Police and international law enforcement partners to build a strong case that exposed his actions and resulted in his guilty pleas,\" said Hutchinson.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 18, 2026 07:00",
-    "published_at": "2026-11-18T07:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Dhruva Dock for GNOME brings the desktop bling",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369314",
-    "description": "Ubuntu’s had a dock (or launcher, if you will) down the left-hand side of the screen since it made Unity the default desktop in 2011, a design point it stuck to when switching back to GNOME in 2017. But if you want something a bit different, like a floating one at bottom-of-the-screen with flashy animated icons or more of an integrated all-in-one dock and panel, there are plenty of alternatives…",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369314",
-    "date": "Nov 18, 2026 05:53",
-    "published_at": "2026-11-18T05:53:34Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Bottles 67.7 Improves Windows App Compatibility on Linux",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369313",
-    "description": "Bottles 67.7 fixes Windows app installation issues, improves Wine compatibility checks, and addresses several interface bugs.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369313",
-    "date": "Nov 18, 2026 04:02",
-    "published_at": "2026-11-18T04:02:22Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "US Officially a Measles Endemic Country",
-    "link": "https://science.slashdot.org/story/26/11/18/0029236/us-officially-a-measles-endemic-country?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "An anonymous reader quotes a report from The Hill: The Pan American Health Organization (PAHO) confirmed Tuesday that it was withdrawing the U.S.'s measles elimination status, ending more than two decades of what is considered to be one of the greatest public health achievements in modern history. The U.S. met with PAHO's Measles and Rubella Elimination Regional Monitoring and Re-Verification Commission for a three-day, closed-door meeting last week. \"The commission concluded that the endemic measles transmission has now been reestablished in Bolivia, Mexico and the United States, and recommended that their measles elimination status be withdrawn, a recommendation which I have accepted,\" Jarbas Barbosa, PAHO's director, said during the briefing Tuesday. The U.S. achieved measles elimination status in 2000 and has held onto that for more than 25 years. But the past two years have seen close to 8,000 measles infections and roughly a dozen related deaths. This year has been the worst in terms of transmission in more than 30 years.\n\nErica Schwartz, director of the Centers for Disease Control and Prevention (CDC) has previously said losing elimination status won't lead to changes in the federal response.\n \n\"We know where transmission is occurring and we've invested $100 million in state and local health departments to reach those communities,\" Schwartz said on Tuesday. \"Losing a designation doesn't mean we abandon an evidence-based approach. It means we remain focused on stopping outbreaks.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 18, 2026 03:30",
-    "published_at": "2026-11-18T03:30:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "APT 3.3.8 Package Manager Gets Performance Improvements",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369278",
-    "description": "APT 3.3.8 improves Debian package management performance with faster dependency resolution, optimized cache generation, and reduced DNS queries.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369278",
-    "date": "Nov 18, 2026 02:16",
-    "published_at": "2026-11-18T02:16:54Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "RBRD: RAM-Backed Linux Block Driver Written In Rust For Better Safety But Slower Performance",
-    "link": "https://www.phoronix.com/news/RBRD-Rust-Linux-RAM-Driver",
-    "description": "Linux kernel patches were posted tonight for introducing RBRD, the RAM-backed block driver written in the Rust programming language...",
-    "guid": "https://www.phoronix.com/news/RBRD-Rust-Linux-RAM-Driver",
-    "date": "Nov 18, 2026 02:04",
-    "published_at": "2026-11-18T02:04:05Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Nvidia Rejects Jensen Huang's Offer to Return as CEO",
-    "link": "https://slashdot.org/story/26/11/18/0124249/nvidia-rejects-jensen-huangs-offer-to-return-as-ceo?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Nvidia's board has unanimously rejected former CEO Jensen Huang's offer to return, despite public support from President Trump and prominent Silicon Valley figures. The decision came as Nvidia reported blockbuster third-quarter revenue of $116 billion, double the year-earlier figure. The Associated Press reports: The embattled company's board of directors \"unanimously accepted his resignation and does not intend to reinstate Jensen as CEO,\" Nvidia Chairman Harvey Jones said at the start of Nvidia's quarterly earnings call before yielding to Chief Financial Officer Colette Kress, who is running the company as a permanent replacement is sought. [...] Earlier on Tuesday, Huang said in a social media post that if the board decided that his return was in the best interest of shareholders, employees, the company and the country, he would be \"honored to answer these calls.\" He acknowledged making \"serious mistakes\" in his personal life.\n \nThe turmoil notwithstanding, Nvidia blew past Wall Street expectations for the third quarter, pulling in $116 billion in revenue, double the level from a year ago. The company also posted net income of $2.70 per share, beating estimates of $2.48 per share. Nvidia stock shot up 5.2% in after-hours trading. Referring to Huang's replacement, Jones said, \"We want to install the permanent CEO as quickly as possible, but we won't expedite the CEO before finding exactly the right person.\" Nvidia also announced a new board committee overseeing national security and trade compliance amid investigations into alleged AI chip smuggling to China.\n \nFurther reading: Nvidia Stopped Disclosing Singapore Sales As Revenues Hit $104 Billion\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 18, 2026 01:30",
-    "published_at": "2026-11-18T01:30:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Xfce 4.22 Working Toward Early 2027 Release",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369289",
-    "description": "Next month marks two years since the Xfce 4.20 release. Its successor, Xfce 4.22, looks like it will be out in early 2027…",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369289",
-    "date": "Nov 18, 2026 00:24",
-    "published_at": "2026-11-18T00:24:20Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Google To Keep Temporary Gemini Chats For Two Months",
-    "link": "https://yro.slashdot.org/story/26/11/17/2246233/google-to-keep-temporary-gemini-chats-for-two-months?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "timob58 shares a report from TechCrunch: Google is extending how long it keeps temporary Gemini chats and conversations made with chat history turned off to around two months, saying the change aims to improve safety and security as AI systems become more capable. The change, which will roll out globally in the Gemini app over the coming weeks, marks a significant increase from the previous 72-hour retention period mentioned in Google's Gemini Apps Privacy Hub, according to an archived version from November 12. OpenAI, by comparison, says it may keep temporary chats in ChatGPT for up to 30 days, whereas Anthropic retains incognito chats in Claude for 30 days by default.\n \nGoogle did not answer questions about what prompted the change and whether it would affect how conversations are accessed or reviewed, instead pointing to a blog post that says chats are kept longer to respond to users, process feedback, and protect its services and users. Its updated Gemini Apps Privacy Hub also cites potential system failures as a reason for retaining chats and says temporary conversations are not used to train AI models. \"A recent explainer on AI and business IP notes that providers keep data for abuse monitoring even when it is not used for training,\" adds timob58.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 17, 2026 23:00",
-    "published_at": "2026-11-17T23:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "GIMP Adds Automated UI Testing for Linux X11 and Wayland",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369299",
-    "description": "GIMP adds automated UI tests covering image creation, PNG exports, layers, zoom controls, and other common operations.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369299",
-    "date": "Nov 17, 2026 22:38",
-    "published_at": "2026-11-17T22:38:20Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Optimizely Hack Turns World's Biggest Websites Into Malware Dispensers",
-    "link": "https://it.slashdot.org/story/26/11/17/2035243/optimizely-hack-turns-worlds-biggest-websites-into-malware-dispensers?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "PattonPending writes: As reported by The Register, Zoom, the BBC, CNN, HSBC, and numerous other websites briefly served malware on November 16 after an attacker exploited Optimizely's \"Experiments\" feature to inject JavaScript into their pages through Optimizely's CDN. The malware replaced cryptocurrency addresses, attempted to steal credit card information and cookies, and sought to compromise iOS devices. Websites belonging to at least 178 organizations were affected via the \"OPTIMJACK\" vulnerability, which has since been patched. \"Earlier today, Optimizely identified a security incident in which an unauthorized party exploited a vulnerability in Experimentation and used it to add malicious JavaScript to some customer projects,\" the company said. \"We've fixed the vulnerability and removed the injected code from affected projects. We've also taken steps to secure affected user accounts and put additional protections in place to prevent unauthorized code from being delivered.\"\n \nThe researchers said they found malicious code in 188 of the 1,611 Optimizely scripts examined, including those on the company's own website and login portal, suggesting the number of affected businesses could be significantly higher.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 17, 2026 22:00",
-    "published_at": "2026-11-17T22:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Java4Shell Vulnerability For OpenJDK Java That Can Lead To Remote Code Execution",
-    "link": "https://www.phoronix.com/news/Java4Shell-Vulnerability",
-    "description": "Java4Shell was publicly disclosed this afternoon as the latest high profile security vulnerability in the age of AI and LLMs...",
-    "guid": "https://www.phoronix.com/news/Java4Shell-Vulnerability",
-    "date": "Nov 17, 2026 21:35",
-    "published_at": "2026-11-17T21:35:01Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
   }
 ]
