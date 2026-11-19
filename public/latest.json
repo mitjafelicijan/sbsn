@@ -1,5 +1,160 @@
 [
   {
+    "title": "Hacking Wordle: A New User's Guide to the Power of the Linux Terminal",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369321",
+    "description": "For new Linux users the terminal can be like the Sphinx, quiet, mysterious, and offering no help to those who do not already speak its language. Here we'll show you how to get comfortable with the terminal by using some common commands to analyze a text file of words used by the popular online game,…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369321",
+    "date": "Nov 19, 2026 05:03",
+    "published_at": "2026-11-19T05:03:53Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Proton's Lumo is Finally Useful and Gives Us Hope for a Real Private AI",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369333",
+    "description": "The privacy-focused AI assistant works with your desktop files and requires a paid offering to integrate Proton Mail.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369333",
+    "date": "Nov 19, 2026 03:50",
+    "published_at": "2026-11-19T03:50:35Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "New Study Shows How Young People Feel About AI Companions",
+    "link": "https://slashdot.org/story/26/11/19/0054258/new-study-shows-how-young-people-feel-about-ai-companions?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from 404 Media: A new study from Gallup looked at how young people across the world are making friends, both digitally and in person. The good news is that around 93% of the young people surveyed reported having at least one strong in-person friendship. The weird news is that 33% said they had an AI companion. Gallup's study is lengthy and nuanced. It partnered with the Boston Children's Digital Wellness Lab to conduct the study and used online surveys of more than 16,000 young people from the ages of 15 to 22 in 16 different countries. A lot of the topline results won't surprise anyone living in today's constantly online digital-forward age. Gallup found that respondents felt their in-person friendships were their strongest, that digital friendships complemented rather than replaced in-person ones, and that stronger friendships made people happier no matter how the connection was made. Three things that stood out were how the young respondents talked about AI, loneliness, and doomscrolling.\n \nYoung people in the United States, Canada, and UK reported the least interest in AI overall, with only 20% saying they used it once a day or more. Almost 40 percent of young people in Brazil use it daily. Japan and Italy both come in around 35%. \"Nearly half of young people in the United States, United Kingdom and Canada have used AI no more than a few times in the past month, including those who have not used it at all,\" the researchers wrote. Most of the respondents (82%) said they'd used AI to look up information, 68% asked it for advice, and 33% used it as a companion. Young people with online-only friends were more likely to use AI for companionship, \"although these patterns do not establish whether AI companionship supplements or substitutes for human relationships,\" they wrote.\n \nThe researchers discovered that people in different countries felt wildly different about their AI buddies. Almost half of Australians with AI friends rated the relationship as \"high quality\" and only 12% of young people in Poland did. Mostly, though, people thought of their AI friends as mid: \"In most countries [...] young people are more likely to give their AI companionship a medium rating than either a high or low rating.\" People who used AI as a friend also reported higher levels of loneliness, the study found. \"However, the findings cannot determine whether young people turn to AI because they feel lonely, whether AI companionship influences their social experiences or whether other circumstances help explain these relationships,\" the researchers wrote. [...] The study's authors warned about reading too much into these results. \"These assessments should be compared cautiously with those for human friendships examined in this report, as young people may have different expectations of what makes an AI companion or human friendship meaningful or supportive,\" the researchers wrote.\n \n\"The broader message is not that one form of connection is inherently better or worse, but that the quality of young people's relationships and the wider social context in which they exist matter greatly,\" the study concluded.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 19, 2026 03:30",
+    "published_at": "2026-11-19T03:30:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Arch Linux-Based Devario OS Sees First Stable Release",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369332",
+    "description": "The Arch Linux-based independent Devario OS distribution sees its first stable release today after being in beta testing for the past month, and it’s now considered safe to install.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369332",
+    "date": "Nov 19, 2026 02:33",
+    "published_at": "2026-11-19T02:33:18Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "AMD ROCm 10.2 Released With Latest Optimizations, Expanded Ryzen Laptop Support",
+    "link": "https://www.phoronix.com/news/AMD-ROCm-10.2",
+    "description": "AMD ROCm 10.2 is out today as the newest six-week feature release to this open-source AMD Radeon/Instinct GPU compute stack...",
+    "guid": "https://www.phoronix.com/news/AMD-ROCm-10.2",
+    "date": "Nov 19, 2026 02:06",
+    "published_at": "2026-11-19T02:06:39Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "NGINX2Root: Remote Code Execution vulnerabilities in nginx",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369340",
+    "description": "Xint is reporting that it has discovered a collection of five critical vulnerabilities in the NGINX web server. The worst flaw, it says, would allow an unauthenticated attacker to execute commands on an affected nginx server with HTTP/2 enabled. The company also reports a local-privilege escalation (LPE) kernel vulnerability, which was introduced in the 4.15 kernel, in the Stream Control…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369340",
+    "date": "Nov 19, 2026 01:26",
+    "published_at": "2026-11-19T01:26:49Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "[$] LWN.net Weekly Edition for November 19, 2026",
+    "link": "https://lwn.net/Articles/1107147/",
+    "description": "Inside this week's LWN.net Weekly Edition:\n        \n        \n Front: C++26 standard; Buildroot; Faster futexes; Zellij; Julia language.\n             Briefs: Glasswing; NGINX RCE; XRAID; Manjaro nonprofit; 30 years of curl; MATE; Redict deprecated; Rust 1.100; Quotes; ...\n             Announcements: Newsletters, conferences, security updates, patches, and more.\n            ",
+    "guid": "https://lwn.net/Articles/1107147/",
+    "date": "Nov 19, 2026 01:05",
+    "published_at": "2026-11-19T01:05:03Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "A ZIP Archive That Boots Your PC Is Now a Reality",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369341",
+    "description": "A new proof of concept demonstrates how a valid ZIP archive can double as a bootable disk image on x86 computers.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369341",
+    "date": "Nov 19, 2026 00:17",
+    "published_at": "2026-11-19T00:17:13Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Debian-Based Peppermint OS Updated ISO Now Available with XLibre",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369347",
+    "description": "The Peppermint OS development team released an updated ISO image of the Debian-based edition of this GNU/Linux distribution featuring XLibre instead of Xorg. The updated Peppermint OS Debian ISO is based on the Debian 13 “Trixie” operating system series and includes all the latest updates as of November 17th, 2026.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369347",
+    "date": "Nov 18, 2026 23:01",
+    "published_at": "2026-11-18T23:01:56Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "US Bankruptcy Judge Approves Spirit Airlines Data Sale to Google",
+    "link": "https://yro.slashdot.org/story/26/11/18/2224242/us-bankruptcy-judge-approves-spirit-airlines-data-sale-to-google?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "A federal bankruptcy judge has approved Google's $10 million purchase of internal business data from defunct Spirit Airlines during a hearing on Tuesday. Reuters reports: US Bankruptcy Judge Sean Lane, ruling from the bench, cleared the deal after Alphabet's Google agreed last week to implement additional privacy protections for the data, following concerns from labor unions and more than 120 US lawmakers. Discount carrier Spirit halted operations in May. As part of its closure and asset liquidation, Google won an auction in August for employee data from emails, spreadsheets and calendars, as well as for marketing, productivity and operations. Google has said it plans to use the data for product development and AI training.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 18, 2026 23:00",
+    "published_at": "2026-11-18T23:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Best Buy Resumes Blu-ray Sales",
+    "link": "https://news.slashdot.org/story/26/11/18/2047229/best-buy-resumes-blu-ray-sales?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Best Buy has resumed selling Blu-ray movies directly through its website and physical stores after exiting the physical media business in 2023. The retailer currently offers a limited selection of 15 Blu-ray listings, including new releases like The Odyssey and Project Hail Mary and older titles like It's a Wonderful Life (1943), Saving Private Ryan (1998), and The Godfather (1972). Ars Technica reports: Overall, the sales of Blu-rays and DVDs in the US have been steadily declining, and annual consumer spending dropped 9.3 percent from 2024 to 2025, according to the Digital Entertainment Group (DEG). During this same time, however, consumer spending on 4K Blu-ray discs specifically increased 12 percent year over year, per DEG.\n \"We're seeing a lot of evidence, including at the Criterion Mobile Closet, that more young people are thinking about physical media in a different way,\" Peter Becker, president of Criterion, which sells Blu-rays and DVDs online, told the Los Angeles Times in February. \"In an age where so much is available to us on demand, it becomes increasingly important to us.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 18, 2026 22:00",
+    "published_at": "2026-11-18T22:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Triple Threat: Red Hat, AlmaLinux, \u0026 CIQ Release ‘Enterprise Linux 10.3’",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369346",
+    "description": "Red Hat’s latest release, RHEL 10.3, puts AI front and center. Its downstream relatives have different priorities.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369346",
+    "date": "Nov 18, 2026 21:51",
+    "published_at": "2026-11-18T21:51:43Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Dell XPS 14 DA14260 Powered By Intel Panther Lake Delivers Nice Linux Experience",
+    "link": "https://www.phoronix.com/review/dell-xps-14-panther-lake",
+    "description": "For those looking for a new laptop with Linux pre-loaded and have been eyeing the Intel Core Ultra Series 3 \"Panther Lake\" for its nice Xe3 Arc B390 graphics and overall power efficiency, Dell recently certified their XPS 14 (DA14260) laptop for Ubuntu 26.04 LTS Linux use. This latest Dell XPS 14 is well built and provides a nice and performant out-of-the-box Linux experience.",
+    "guid": "https://www.phoronix.com/review/dell-xps-14-panther-lake",
+    "date": "Nov 18, 2026 21:37",
+    "published_at": "2026-11-18T21:37:15Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Bank CEOs, NSA Tell Congress That AI-Driven Patches Are Behind Outages",
+    "link": "https://slashdot.org/story/26/11/18/2041222/bank-ceos-nsa-tell-congress-that-ai-driven-patches-are-behind-outages?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from The Washington Sun: Wall Street executives and the National Security Agency have told members of Congress that this week's widespread tech outages were caused by attempts to fix vulnerabilities identified by artificial intelligence, according to three sources familiar with the private conversations. [...] \"These models are identifying massive vulnerabilities, and that increases the urgency to patch right away,\" said one congressional official briefed on the matter. \"They're trying to push through a lot of patches all at once -- more than the system was designed for.\"\n \nOn Monday, banks such as JP Morgan Chase blamed software-related bugs for the service issues. On Tuesday, the NSA said that \"scheduled routine maintenance\" was responsible for the \"temporary degradation\" of some of its networks. Secretary of Homeland Security Markwayne Mullin told CNBC on Tuesday that \"they're pushing new technology on top of really old computer systems, and it just seems to overwhelm the system. ... We're going to see more of this as new technology rolls out.\" \"There's some sense in which this is reassuring, in that it means there's not an attack. But it shows the extent to which safety critical infrastructure we rely on is based on software with large vulnerabilities on legacy systems,\" said Nathan Calvin, the chief strategy officer at Encode. \"Updating those is going to be a rocky process, and as we get more advanced models this won't be a one and done thing -- we'll continue to find more vulnerabilities.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 18, 2026 21:00",
+    "published_at": "2026-11-18T21:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "'Java4Shell' Flaw Exposes OpenJDK to RCE via Base64",
+    "link": "https://developers.slashdot.org/story/26/11/18/1931246/java4shell-flaw-exposes-openjdk-to-rce-via-base64?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Longtime Slashdot reader HnT writes: Security researchers at Calif have disclosed Java4Shell (CVE-2026-114938), a critical 9.2-rated memory-corruption bug in OpenJDK's AVX-512 Base64 decoder. By sending a malformed string ending in a stray = character, attackers can trigger an out-of-bounds heap write to leak sensitive memory or achieve pre-auth remote code execution on major platforms like Jira, Jenkins, and Keycloak. Although Calif says the vulnerability is difficult to exploit, Oracle released a critical patch update Tuesday, and CISA urged organizations to update immediately. OpenJDK's security advisory can be found here.\n \nThe Calif researchers warned that vulnerable systems could remain exposed for five to 10 years, given how slowly some organizations patch their infrastructure.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 18, 2026 20:00",
+    "published_at": "2026-11-18T20:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
     "title": "Cambridge Dictionary Names 'Human' Its 2026 Word of the Year",
     "link": "https://tech.slashdot.org/story/26/11/18/1916223/cambridge-dictionary-names-human-its-2026-word-of-the-year?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
     "description": "Cambridge Dictionary has named \"human\" its 2026 Word of the Year, reflecting growing concerns about artificial intelligence and its impact on what it means to be human. \"AI is changing how we talk about being human,\" said Colin McIntosh, the dictionary's lexicographer. \"Fears about what humans may lose when we outsource our thinking have made us reconsider the extent to which we rely on AI: from top mathematicians to teachers of young children.\" The Associated Press reports: The adjective derived from the Latin \"humanus\" and in use since the 1450s is defined by Cambridge as \"having the qualities, faults and feelings that people have, as opposed to gods, animals or machines.\" [...] Other word contenders for 2026 included \"agent,\" for an AI system that can make decisions and operate without human control and \"analogue\" for experiences or objects not involving the internet or digital technology.\n\n\n\n\n\nRead more of this story at Slashdot.",
@@ -63,16 +218,6 @@
     "source_url": "https://lxer.com/"
   },
   {
-    "title": "NGINX2Root: Remote Code Execution vulnerabilities in nginx",
-    "link": "https://lwn.net/Articles/1108362/",
-    "description": "Xint is reporting that\nit has discovered a collection of five\ncritical vulnerabilities in the NGINX web\nserver. The worst flaw, it says, would allow\nan unauthenticated attacker to execute commands on an affected nginx server with\nHTTP/2 enabled. The company also reports a local-privilege escalation (LPE) kernel\nvulnerability, which was introduced in the 4.15 kernel, in the Stream Control Transmission\nProtocol (SCTP) subsystem. If chained with the NGINX vulnerability,\nit would allow an attacker to gain root privileges on the host. A kernel patch for this\nis not yet available.\n\n\nWe also obtained a root shell on the host in a setup where nginx was running in\na Docker container. On many Linux distributions, the SCTP module is installed by\ndefault and the kernel loads it automatically the first time a program opens an\nSCTP socket. Whether SCTP is reachable on a given host still depends on the\nkernel, the available modules, and the container's restrictions. Where it is\nreachable, the attacker can take over the host kernel. Since all containers on\nthe host share that kernel, this gives the attacker control of the host and\nevery container on it.\n\n\nXint recommends updating to NGINX\n1.31.9, which was just released, and to\nblock the SCTP module on hosts that do not need it until a kernel fix is\navailable. See the mitigations\nsection of their report for more information.\n\n",
-    "guid": "https://lwn.net/Articles/1108362/",
-    "date": "Nov 18, 2026 16:13",
-    "published_at": "2026-11-18T16:13:34Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
     "title": "Satya Nadella Says He's AGI-Pilled Now",
     "link": "https://slashdot.org/story/26/11/18/026229/satya-nadella-says-hes-agi-pilled-now?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
     "description": "An anonymous reader quotes a report from The Verge: Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it. \"I am AGI-pilled in the sense that at an economy level, what is the political economy's organization around AGI?\" he asked at a roundtable discussion following his Microsoft Ignite keynote at the Chase Center in San Francisco. But Nadella doesn't think frontier models like Claude are conscious. \"I don't think so,\" he said, adding that he follows Microsoft AI CEO Mustafa Suleyman's view that companies should not give rights to models and treat them like they might have a moral status, which companies like Anthropic do as a matter of principle. Suleyman has told me he thinks Anthropic's team has \"wireheaded\" themselves, and that this approach is dangerous. Nadella wasn't quite as firm about it. \"It's a good debate,\" he said. \"I'm not sort of dogmatic about it. What I'm saying is the most important social technical issue we have to deal with is how do you ensure that an economy can diffuse this technology broadly?\"\n \nI asked Nadella how he was thinking about AI after hearing his response to another reporter's questions about Anthropic releasing more products in its office suite. Nadella talked at length about the potential collapse of the economy and the end of democracy if one AI model were allowed to achieve monopoly status. \"If the Marxist sort of view is that there's only one firm, then it's over, right? For all of us.\" \"Most people think about this as a competition between tech firms, which of course it will be,\" he said. \"But remember, the model has no limits. It'll be a healthcare company. It can be a financial services company. It can be anything if it wants to be. It can take over the government. Thinking of this as some narrow competition between tech firms, of who is going to get to the next trillion dollars of market cap, is one of the strangest, narrowest ways to think about it.\"\n \nNadella went on to say that the very nature of companies stood to be disrupted in the future. \"If intelligence has network effects, what is the future of a firm?\" he asked. \"If the model sees anything and learns it, and essentially all of human capital collapses into token capital, what is the role of a firm and the human capital in a firm? That's the debate.\" \"I think the political economy is going to get more and more interesting in that context. No one -- at least in a democracy -- can even win an election if this just goes that way, if there's only capital and there's no labor. I mean, I don't know, that's not an economy.\" \"If the Marxist sort of view is that there's only one firm, then it's over, right? For all of us. Not just for me. You are also going to somehow be some affiliate of Anthropic.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
@@ -105,6 +250,16 @@
     "source_url": "https://itsfoss.com/"
   },
   {
+    "title": "New AMDGPU Linux Patches From Valve Aim To Reduce Stuttering With Steam Play Games",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369298",
+    "description": "Natalie Vock of Valve's Linux graphics driver team sent out a new version of AMDGPU kernel driver patches today that aim to provide \"significant reductions in stuttering\" for some newer Windows games running on Linux by way of Steam Play (Proton)…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369298",
+    "date": "Nov 18, 2026 14:46",
+    "published_at": "2026-11-18T14:46:38Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
     "title": "Car Park Capital is initially nostalgia bait but so much more",
     "link": "https://www.gamingonlinux.com/2026/11/car-park-capital-is-initially-nostalgia-bait-but-so-much-more/",
     "description": "Car Park Capital entered Early Access back in early October, giving a retro-themed building sim about paving through all the greenery to make room for cars.Read the full article on GamingOnLinux.",
@@ -124,17 +279,6 @@
     "published_at": "2026-11-18T14:17:35Z",
     "source": "lwn.net",
     "source_url": "https://lwn.net"
-  },
-  {
-    "title": "Proton's Lumo is Finally Useful and Gives Us Hope for a Real Private AI",
-    "link": "https://feed.itsfoss.com/link/24361/17527120/proton-lumo-desktop",
-    "description": "The privacy-focused AI assistant works with your desktop files and requires a paid offering to integrate Proton Mail.",
-    "guid": "6afd32e4070f2400012365ce",
-    "date": "Nov 18, 2026 13:22",
-    "published_at": "2026-11-18T13:22:34Z",
-    "image": "https://itsfoss.com/content/images/2026/11/lumo-desktop-app-banner.png",
-    "source": "itsfoss.com",
-    "source_url": "https://itsfoss.com/"
   },
   {
     "title": "Wine Merges Remote OpenGL Swapchain Image Presentation, CEF Now Works With Wayland",
@@ -197,6 +341,16 @@
     "published_at": "2026-11-18T11:13:06Z",
     "source": "phoronix.com",
     "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "FreeBSD Desktop Install Option Pushed Back To Next Year With FreeBSD 15.3",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369309",
+    "description": "FreeBSD 15.0 had been aiming for a nice (KDE-based) desktop install option in its installer that was then delayed to FreeBSD 15.1 and then pushed back to FreeBSD 15.2. FreeBSD 15.2 is due for release in December but there's no last minute miracle and it looks like the desktop install option will now target FreeBSD 15.3 in mid-2027…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369309",
+    "date": "Nov 18, 2026 11:11",
+    "published_at": "2026-11-18T11:11:48Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
   },
   {
     "title": "3mdeb Updates The Open-Source Firmware For Aging AMD Jaguar Powered PC Engines APU2",
@@ -448,255 +602,6 @@
     "guid": "https://www.phoronix.com/news/Java4Shell-Vulnerability",
     "date": "Nov 17, 2026 21:35",
     "published_at": "2026-11-17T21:35:01Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Two Independent Projects Want to Bring MATE to Wayland, Each in its Own Way",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369301",
-    "description": "Polo builds a new compositor for MATE, while MATE Wayland Desktop runs MATE on labwc from an Ubuntu-based ISO.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369301",
-    "date": "Nov 17, 2026 21:32",
-    "published_at": "2026-11-17T21:32:59Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Nvidia Stopped Disclosing Singapore Sales As Revenues Hit $104 Billion",
-    "link": "https://news.slashdot.org/story/26/11/17/1942228/nvidia-stopped-disclosing-singapore-sales-as-revenues-hit-104-billion?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Nvidia stopped separately disclosing its Singapore sales (source paywalled; alternative source) after changing its geographic revenue reporting methodology from customer billing addresses to headquarters locations, obscuring a business that generated $104 billion in external revenue in 2025, up 72% from the previous year. The Financial Times reports that the change has drawn scrutiny amid U.S. investigations into whether Singapore-based Megaspeed helped smuggle Nvidia chips into China. From the report: \"There is now a lot more focus on Nvidia's Singapore business and questions about who its end customers are,\" said an investor who is investigating Nvidia's dealings in south-east Asia. The Singapore accounts show that the subsidiary booked $117.8 billion of revenue in the 12 months to January 2026, including $13.6 billion of sales to another Nvidia company. Given the nature of the Singapore operation as a global hub, customers it serves are from all over the world. Only a small quantity of the chips Nvidia sells ends up in or goes through Singapore. The Singapore subsidiary generated just $53 million of profit in the year to January 2026, suggesting limited scope for Nvidia to benefit from Singapore's low corporate tax rates.\n \n[...] Singapore's outsized role as a revenue generator for Nvidia used to show up in the company's overall results. In January 2025, the US company reported that Singapore was its second-biggest geographic area by revenue, based on customer billing location. The Singapore office generated $23.7 billion of revenue, behind only the US and representing 18 per cent of global income, based on customers' billing location. The annual accounts said that most of the business was generated by customers using the Singapore office to centralize invoicing and that most of the products were shipped elsewhere, with less than 2 per cent of revenue tied to chips that landed in the city-state.\n \nAs recently as July last year, Nvidia reported that the Singapore office accounted for 22 per cent of total revenue. This was around the time Nvidia said it began cutting ties with Megaspeed, following US Department of Commerce investigations into the business. Nvidia then changed its financial reporting methodology and stopped splitting out revenue that went to the Singapore office. Before the 2025 reporting change, Nvidia said in its financial filing that it booked sales based on the billing locations of its customers, but that the end customer's location \"may be different than our customer's billing location.\" It added that \"most shipments associated with Singapore revenue were to locations other than Singapore and shipments to Singapore were insignificant,\" according to the filings.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 17, 2026 21:00",
-    "published_at": "2026-11-17T21:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Canonical is Now Shipping AI-Written Security Patches to Ubuntu Pro Users",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369306",
-    "description": "Canonical has built an AI system to patch Ubuntu CVEs. It's Called Surge and it writes and verifies security backports with competing AI models. Fixes go to a separate opt-in \"Edge\" archive, not to your regular Ubuntu updates.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369306",
-    "date": "Nov 17, 2026 20:16",
-    "published_at": "2026-11-17T20:16:51Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Highly Classified NSA Network Goes Down",
-    "link": "https://news.slashdot.org/story/26/11/17/1954223/highly-classified-nsa-network-goes-down?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "\"CNN and other outlets are reporting that a classified network at the NSA is down,\" writes longtime Slashdot reader frdmfghtr. \"This follows a week of major outages at Microsoft, the FAA, and JPMorgan Chase.\" From a report: The network, called NSANet, allows employees to communicate classified information internally. At this point there is no evidence of a cyberattack, sources said. As the agency works to understand the scope of the problem, it has enacted staggered arrivals for personnel, the sources said.\n \n\"We see no evidence that this was a cyberattack,\" White House spokesperson Lauren Bis said Tuesday on Newsmax. \"There is no crisis, or anything like that, for Americans to be worried about.\" [...] The US shares intelligence with a group of countries in what is known as the Five Eyes intelligence-sharing alliance, which includes the US, UK, New Zealand, Australia and Canada. That intelligence sharing system has not been impacted as a result of the NSANet outage, according to a source from one of the countries and a former US intelligence official. The NSA released a statement addressing the network issues: \"The National Security Agency experienced temporary degradation during scheduled routine maintenance. While some internal systems were affected, mission-critical capabilities remain fully operational and our ability to defend national security continues. NSA's infrastructure is designed with multiple layers of redundancy to maintain operations during planned maintenance or unexpected events.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 17, 2026 20:00",
-    "published_at": "2026-11-17T20:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Tails 7.17.1 Emergency Update Removes uBlock Origin Over Security Flaw",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369304",
-    "description": "Tails 7.17.1 removes uBlock Origin to address a critical security flaw that could allow malicious websites to steal or manipulate user data.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369304",
-    "date": "Nov 17, 2026 19:04",
-    "published_at": "2026-11-17T19:04:47Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "School Phone Bans Are Gradually Improving Test Scores",
-    "link": "https://mobile.slashdot.org/story/26/11/17/1739215/school-phone-bans-are-gradually-improving-test-scores?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "An anonymous reader quotes a report from The New York Times: School cellphone bans are beginning to modestly improve students' academic performance, according to the first large national analysis that compared students' test scores before and after the bans. Schools with strict bans -- requiring students to lock their phones in pouches all school day -- saw math and reading scores improve as if students had an additional week or two of school a year, the study found. It was published Tuesday by the Center for Education Policy Research at Harvard.\n \nU.S. students' test scores began falling over a decade ago. The drop coincided with the rise of smartphones, raising questions about their role in the decline. The evidence so far on the academic effects of phone bans has been mixed. But the new study indicates they are starting to have an influence.\n \nThe study looked at 3.3 million students between 2021 and 2026. They were in third through 10th grade, attending 4,600 U.S. schools. Using scores on MAP tests, which track achievement from fall to spring, it compared the performance of students at schools that put in strict phone bans with those at similar schools that did not have such bans. The annual gains reversed about half the annual loss that an average student experienced in the years leading up to the pandemic. (Students lost even more ground during pandemic closures.) \"The earlier studies on cellphone bans have been dismissed as implying small impacts, and in-school cellphone use has been ruled out as playing a big role in the decline,\" said Thomas Kane, a professor at the Harvard Graduate School of Education and an author of the study. \"But we think that's mistaken.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 17, 2026 19:00",
-    "published_at": "2026-11-17T19:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Jensen Huang Says He'd Be 'Honored' to Return As Nvidia CEO",
-    "link": "https://tech.slashdot.org/story/26/11/17/1748231/jensen-huang-says-hed-be-honored-to-return-as-nvidia-ceo?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "In a post on X today, former Nvidia CEO Jensen Huang says he would be \"honored\" to return to the company if its board gives the approval. \"I did not live up to the standards expected of everyone at NVIDIA, and I have made serious mistakes in my personal life,\" he says. \"I created problems for the Board that I deeply regret. I own my mistakes completely, and I am committed to cooperating with the Board's independent investigation.\"\n \nHuang resigned from the company last week after acknowledging multiple affairs, including one with a women whom U.S. intelligence officials suspect of being a Chinese spy. NPR reports: His comments come as some in Silicon Valley have tried to argue that Huang was pushed out of the company too quickly, and circulated a petition to \"stand with Jensen.\"\n \n\"We don't want rushes to judgment. We don't want political pressure from the left or the right to force a board into action before we've even taken the time to turn over the cards and learn what was done,\" said Brad Gerstner, the founder and CEO of Altimeter Capital, an investor in Nvidia, at Semafor's Silicon Valley and the World conference on Monday. The report notes that Huang and Nvidia's general counsel Tim Teter will answer questions behind closed doors before three congressional committees on December 1 and 2.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 17, 2026 18:00",
-    "published_at": "2026-11-17T18:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Up to 99% of UK civil servants rely on Microsoft for comms, minister admits",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369287",
-    "description": "Whitehall talks up supplier diversification after Redmond's 18-hour outage",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369287",
-    "date": "Nov 17, 2026 17:58",
-    "published_at": "2026-11-17T17:58:50Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "FreeBSD Desktop Install Option Pushed Back To Next Year With FreeBSD 15.3",
-    "link": "https://www.phoronix.com/news/FreeBSD-Desktop-Install-15.3",
-    "description": "FreeBSD 15.0 had been aiming for a nice (KDE-based) desktop install option in its installer that was then delayed to FreeBSD 15.1 and then pushed back to FreeBSD 15.2. FreeBSD 15.2 is due for release in December but there's no last minute miracle and it looks like the desktop install option will now target FreeBSD 15.3 in mid-2027...",
-    "guid": "https://www.phoronix.com/news/FreeBSD-Desktop-Install-15.3",
-    "date": "Nov 17, 2026 17:40",
-    "published_at": "2026-11-17T17:40:51Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "BugMeNot Calls It Quits",
-    "link": "https://tech.slashdot.org/story/26/11/17/1729243/bugmenot-calls-it-quits?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "BugMeNot, the password-sharing service launched in 2003 to help users bypass website registration requirements, has shut down without explanation after more than two decades. All that's left on the website is a farewell message that reads: \"Thanks to everyone who envisioned a better internet.\" heise online reports: Founded by Guy King, the service had been online since 2003: BugMeNot was a collection of login credentials for various online services. Volunteers submitted credentials they had created for different websites.\n \nThe idea was simple: Nobody wants to create a full account and provide all their sensitive information just to use a service occasionally. Two decades ago, this privacy concern was more firmly embedded in the public consciousness, but it has since faded considerably. Back then, usernames and passwords were usually the only access controls, so people could easily submit those credentials. Multifactor authentication was still exotic, and passkeys were a distant prospect.\n \nThe once-popular service lost its shine after just a few years. Service providers quickly discovered and blocked most of the credentials. They could also prevent users from saving logins for their services directly through BugMeNot, for example when those services were paid. More modern security mechanisms also emerged in recent years. As a result, credentials found on BugMeNot rarely worked. Most online providers also blocked the service's disposable email addresses under @bugmenot.com, making them rarely usable. Many people forgot about the site. Now its operators have shut it down without giving a reason. Additional discussions about BugMeNot's closure can be found on Reddit and Hacker News.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 17, 2026 17:30",
-    "published_at": "2026-11-17T17:30:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "AMD Gets Its Firmware Ready For Upcoming RDNA 4m iGPUs On Linux",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369291",
-    "description": "AMD overnight merged the latest changes of the open-source graphics driver puzzle for the upcoming RDNA 4m \"GFX17x\" iGPUs on Linux. The firmware is ready for enabling the next-gen AMD iGPUs on Linux…",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369291",
-    "date": "Nov 17, 2026 16:45",
-    "published_at": "2026-11-17T16:45:38Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Framework Wireless Touchpad Keyboard To Sell For $99 USD, Begins Shipping In Q1",
-    "link": "https://www.phoronix.com/news/Framework-Wireless-Keyboard",
-    "description": "Earlier this year Framework Computer announced the Framework Wireless Touchpad Keyboard as a new product. Today the device is open for pre-order but will not begin shipping until Q1'2027...",
-    "guid": "https://www.phoronix.com/news/Framework-Wireless-Keyboard",
-    "date": "Nov 17, 2026 16:40",
-    "published_at": "2026-11-17T16:40:51Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Redict deprecated in favor of Valkey",
-    "link": "https://lwn.net/Articles/1108155/",
-    "description": "\nDrew DeVault has\nannounced that\nRedict, a fork of Redis that was created in response to\nRedis's 2024 license change, has been deprecated. He recommends switching to Valkey, the permissively licensed Redis fork supported by the Linux Foundation. The two projects are mutually compatible, so switching should be as simple as changing which package is installed and renaming the configuration file.\n\n\n\n\nI had hoped to rally the Redis diaspora around a copyleft initiative, to protect ourselves from future rug-pulls, and made Redict to serve this purpose. However, with the valkey project's success, and Redis's return to a copyleft license, Redict was not able to build a sustainable community.\n\n\nWe recommend that Redict users switch to valkey, which uses a permissive license but has better long-term prospects. We advise against switching back to Redis; though it is once again open source, and copyleft, it uses a contributor license agreement which will facilitate another rug-pull when Redis has a bad financial quarter.\n\n",
-    "guid": "https://lwn.net/Articles/1108155/",
-    "date": "Nov 17, 2026 16:20",
-    "published_at": "2026-11-17T16:20:44Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "The Much Awaited Linux Multi-Tool Flipper One is Now Available for Pre-order",
-    "link": "https://feed.itsfoss.com/link/24361/17526425/flipper-one-crowdfunding",
-    "description": "The open Linux multi-tool packs an RK3576 chip, 8 GB RAM, Wi-Fi 6E and M.2 expansion, and Flipper Devices says it's selling it with no profit margin.",
-    "guid": "6afbe3c6b0bf2e0001dcc666",
-    "date": "Nov 17, 2026 16:00",
-    "published_at": "2026-11-17T16:00:00Z",
-    "image": "https://itsfoss.com/content/images/2026/11/flipper-one-launch.webp",
-    "source": "itsfoss.com",
-    "source_url": "https://itsfoss.com/"
-  },
-  {
-    "title": "NextCloud Has Launched an Office Suite for Desktop Users",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369292",
-    "description": "Powered by Euro-Office, the app works offline on local files and connects to Nextcloud for co-editing on Linux, Windows, and macOS.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369292",
-    "date": "Nov 17, 2026 15:34",
-    "published_at": "2026-11-17T15:34:24Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "[$] Zellij manages terminal workspaces with style",
-    "link": "https://lwn.net/Articles/1106913/",
-    "description": "Zellij is a relatively new entrant in the\nterminal-multiplexer\ncategory. Like GNU\nScreen and tmux it gives\nusers the ability to manage a workspace inside a terminal with split panes,\nprovides session management, and so forth; but Zellij also includes a web server for\nbrowser access to a terminal session, is extensible via a plugin API, and is likely\nmore beginner-friendly than its predecessors. Its most recent release, version 0.46,\nadds a standalone terminal emulator, a built-in inbox for notifications, and a settings\nscreen so users can configure the application without fussing with\nconfiguration files. While the low version number might suggest that it is not\nyet ready for serious use, it seems stable and full-featured enough to\nmeet the needs of many users.",
-    "guid": "https://lwn.net/Articles/1106913/",
-    "date": "Nov 17, 2026 15:27",
-    "published_at": "2026-11-17T15:27:38Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "Kill Your Darlings, a great looking time-management dating-sim RPG gets a playtest and Kickstarter",
-    "link": "https://www.gamingonlinux.com/2026/11/kill-your-darlings-a-great-looking-time-management-dating-sim-rpg-gets-a-playtest-and-kickstarter/",
-    "description": "Kill Your Darlings is an upcoming time-management dating-sim RPG from Stray Fawn Studio (The Wandering Village, Dungeon Clawler) that you can try now.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/11/kill-your-darlings-a-great-looking-time-management-dating-sim-rpg-gets-a-playtest-and-kickstarter/",
-    "date": "Nov 17, 2026 15:00",
-    "published_at": "2026-11-17T15:00:36Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/472323962id30214gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Three stable kernels for Tuesday",
-    "link": "https://lwn.net/Articles/1108142/",
-    "description": "Greg Kroah-Hartman has announced the 7.3.5,\n6.18.64, and 6.12.118 stable kernels. Each contains quite a few\nimportant fixes.\n\n",
-    "guid": "https://lwn.net/Articles/1108142/",
-    "date": "Nov 17, 2026 14:25",
-    "published_at": "2026-11-17T14:25:10Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "Agama Unattended installation openSUSE Tumbleweed hosts via remote Agama-Proxy.service on top of F45 Server (bare metal )",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369293",
-    "description": "Why efforts of setting up Agama-Proxy.service on top of F45 Server (bare metal ) are worth full ? Decoupled Architecture: Using the Fedora web service to translate schema mutations on the fly prevents you from having to modify the core provisioning tools your developers use. Low Footprint: By using built-in standard modules (http.server, socketserver), it runs out of the box on Fedora 45's Python without downloading any external packages. Smart Interception: It cleanly passes all other GET requests to a standard file server while dynamically modifying only the targeted JSON route.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369293",
-    "date": "Nov 17, 2026 14:24",
-    "published_at": "2026-11-17T14:24:59Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Security updates for Tuesday",
-    "link": "https://lwn.net/Articles/1108140/",
-    "description": "Security updates have been issued by AlmaLinux (.NET 10.0, .NET 11.0, .NET 8.0, .NET 9.0, bind, bind9.18, buildah, c-ares, cjose, cockpit, cockpit-files, cockpit-machines, cockpit-podman, containernetworking-plugins, crun, delve, dhcp, dogtag-pki, dovecot, dpdk, edk2, emacs, environment-modules, expat, fetchmail, firefox, flatpak, flatpak-builder, freerdp, gcc, gcc-toolset-15-gcc, gcc-toolset-16-gcc, git-lfs, glib2, glibc, glycin-loaders, gnome-remote-desktop, go-fdo-client, go-fdo-server, grafana, grafana-pcp, gstreamer1, gstreamer1-plugins-bad-free, gstreamer1-plugins-base, guava, gvfs, gvisor-tap-vsock, ignition, iperf3, java-1.8.0-openjdk, jq, kernel, librabbitmq, libreswan, librsvg2, libsoup, libsoup3, libX11, libXi, libxml2, libXrender, libXtst, lrzsz, microcode_ctl, mingw-glib2, mod_auth_openidc, mod_http2, NetworkManager, nginx, nginx:1.24, nginx:1.26, nodejs:24, nodejs:26, oci-seccomp-bpf-hook, openexr, openssh, openssl, pcp, perl-DBI, perl-DBI:1.641, perl-URI, php:8.4, podman, polkit, postgresql:16, python-jwcrypto, python-oauthlib, python-tornado, python3, python3.12, python3.9, rpm, rsyslog, runc, rust-sequoia-sq, sos, squid, sssd, tesseract, tftp, tomcat, tomcat9, unbound, util-linux, webkit2gtk3, wireshark, xdg-dbus-proxy, xfsprogs, xorg-x11-server, xz, and yggdrasil), Debian (gnocchi, kernel, lightdm, roundcube, zaqar, and znc), Fedora (assimp, chromium, criu, freerdp, maturin, mysql8.4, perl-Catalyst-Plugin-Authentication, python-jiter, python-pymdown-extensions, python-pysequoia, qtox, ruff, rust-afterburn, rust-astral_async_zip, rust-clearscreen, rust-coreutils, rust-jiter, rust-lzma-rust2, rust-mailparse, rust-pyo3-introspection, rust-python-pkginfo, rust-sccache, rust-serde_json, rust-testresult, rust-zip, selenium-manager, tpm2-tss, ty, and xfsprogs), SUSE (apache2, azure-storage-azcopy, container-suseconnect, containerd, crane, dpdk, ghostscript, google-cloud-sap-agent, google-osconfig-agent, govulncheck-vulndb, graphifyy, hauler, helm, helm3, hivex, java-21-openjdk, java-25-openjdk, libevent-2_1-7, libmikmod-devel, libXi, mtools, nodejs24, open-iscsi, parted, podman, psqlODBC, python-M2Crypto, python-tornado6, python3, re2c, rsyslog, speex, thunderbird, valkey, vsftpd, and zbar), and Ubuntu (buildstream, cairosvg, commons-configuration2, deluge, dokuwiki, eterm, gnupg1, groovy, gst-plugins-bad1.0, gst-plugins-base1.0, h2o, htmldoc, net-snmp, netkit-rsh, node-moment, openjdk-25-crac, pdfresurrect, pillow, postsrsd, psensor, rlottie, sos, sosreport, vim-syntastic, yadifa, zbar, and zutils).",
-    "guid": "https://lwn.net/Articles/1108140/",
-    "date": "Nov 17, 2026 14:15",
-    "published_at": "2026-11-17T14:15:33Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "New AMDGPU Linux Patches From Valve Aim To Reduce Stuttering With Steam Play Games",
-    "link": "https://www.phoronix.com/news/AMDGPU-Sparse-Gaming-Valve",
-    "description": "Natalie Vock of Valve's Linux graphics driver team sent out a new version of AMDGPU kernel driver patches today that aim to provide \"significant reductions in stuttering\" for some newer Windows games running on Linux by way of Steam Play (Proton)...",
-    "guid": "https://www.phoronix.com/news/AMDGPU-Sparse-Gaming-Valve",
-    "date": "Nov 17, 2026 14:05",
-    "published_at": "2026-11-17T14:05:20Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Incremental horror game show Wheel of Torture looks worth keeping an eye on",
-    "link": "https://www.gamingonlinux.com/2026/11/incremental-horror-game-show-wheel-of-torture-looks-worth-keeping-an-eye-on/",
-    "description": "After something spooky and a little different? Wheel of Torture combines the worlds of horror and incremental into something peculiar.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/11/incremental-horror-game-show-wheel-of-torture-looks-worth-keeping-an-eye-on/",
-    "date": "Nov 17, 2026 14:02",
-    "published_at": "2026-11-17T14:02:47Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1750927917id30213gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Unity acquired Synty Studios to power Unity Spark, their AI game creation platform",
-    "link": "https://www.gamingonlinux.com/2026/11/unity-acquired-synty-studios-to-power-unity-spark-their-ai-game-creation-platform/",
-    "description": "Unity continues their push into generative AI, acquiring asset pack maker Synty Studios with plans for their asset packs to arrive in Unity Spark.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/11/unity-acquired-synty-studios-to-power-unity-spark-their-ai-game-creation-platform/",
-    "date": "Nov 17, 2026 13:46",
-    "published_at": "2026-11-17T13:46:29Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1253463716id30212gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Btrfs Seeks To Deal With AI \u0026 \"Newbies Without Common Senses\" Doing More Harm Than Good",
-    "link": "https://www.phoronix.com/news/Btrfs-LLM-Newbies-Guidelines",
-    "description": "The Btrfs file-system could soon see new patch guidelines in Linux Git as the developers try to deal with the fallout from AI/LLMs and \"newbies without common senses are doing more harm than help.\"..",
-    "guid": "https://www.phoronix.com/news/Btrfs-LLM-Newbies-Guidelines",
-    "date": "Nov 17, 2026 12:55",
-    "published_at": "2026-11-17T12:55:56Z",
     "source": "phoronix.com",
     "source_url": "https://www.phoronix.com/"
   }
