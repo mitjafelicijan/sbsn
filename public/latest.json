@@ -1,5 +1,162 @@
 [
   {
+    "title": "Fedora Linux 45 FIDO2 Lab Guide",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369408",
+    "description": "PIN and touch for encrypted storage, login, screen unlock, sudo, and polkit Lab work conducted November 3, 2026Prepared November 3, 2026 Why I built this lab My goal wasn't to eliminate very strong, high-entropy passwords or recovery credentials. It was to virtually eliminate their use during normal daily operations, reserving them for emergencies such as…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369408",
+    "date": "Nov 21, 2026 04:40",
+    "published_at": "2026-11-21T04:40:34Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "FCC Backs AT\u0026T's Plan To Remove Copper Landlines In California",
+    "link": "https://slashdot.org/story/26/11/20/2357248/fcc-backs-atts-plan-to-remove-copper-landlines-in-california?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from PCMag: On Friday, the FCC announced that it was preempting \"specific requirements in California law that prevent consumers from transitioning off of unreliable, slow copper lines,\" even as some residents fear they'll be saddled with spotty cell service as an alternative. AT\u0026T argues that California's \"Carrier of the Last Resort\" (COLR) rules prevent it from removing the old-school copper network that currently serves only 3% of California households, a number that continues to shrink. In May, the company urged the commission to declare that federal laws preempted California's regulations, thus clearing the way for AT\u0026T to discontinue the service as it prioritizes high-speed fiber and expanded 5G cellular coverage.\n \nFriday's FCC order (PDF) partially grants AT\u0026T's petition, agreeing that under federal law it has \"explicit jurisdiction over the discontinuance of interstate telecommunications services.\" Still, the order refrains from \"wholly\" preempting California's Carrier of the Last Resort rules, and seems to instead focus on the AT\u0026T situation. \"While we preempt those requirements that necessitate that AT\u0026T obtain a variety of CPUC [California Public Utilities Commission] approvals before it can discontinue POTS [plain old telephone service] in accordance with federal authorization, we do not preempt the COLR and other obligations more generally,\" the 74-page document says.\n \n[...] Despite the FCC's order, it's not entirely clear if AT\u0026T will pursue the copper landline phase-out in California. In May, the carrier sued to overturn the local regulations and block the CPUC from enforcing them against AT\u0026T, which noted it spends $1 billion each year to maintain the copper network. That court case remains ongoing. [...] According to the regulator, AT\u0026T has proposed discontinuing the legacy telephone service in the state on or after June 1, 2027.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 21, 2026 03:30",
+    "published_at": "2026-11-21T03:30:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "nginx2root: RCE in nginx",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369425",
+    "description": "Five nginx vulnerabilities that can lead to remote code execution, and a Linux kernel flaw used in a demonstrated host-root chain. Who is affected, how to check, fixed versions and mitigations.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369425",
+    "date": "Nov 21, 2026 03:19",
+    "published_at": "2026-11-21T03:19:07Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Linux 7.3 is likely to be the next LTS kernel",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369431",
+    "description": "Linux 7.3 is looking like it’ll be the new long-term support (LTS) kernel. Greg Kroah-Hartman, one of the kernels’ key maintainers, intimated this in early November in a reply on the Linux Kernel Mailing List, discussing the status of Linux 7.4 and when it’s likely to be released. In a reply to Linus Torvalds, who’d noted people were expecting Linux 7.4 to be designated an LTS (since it’s shaping…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369431",
+    "date": "Nov 21, 2026 01:46",
+    "published_at": "2026-11-21T01:46:50Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Linux Multikernel Project Reaches ARM64, Bringing Independent Kernels to the Same Physical Machine",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369435",
+    "description": "The Multikernel Linux project has reached an important milestone with the release of mklinux 7.0-mk5, introducing native ARM64 support and expanding its experimental architecture beyond traditional x86-64 systems. Announced by developer Cong Wang on November 17, 2026, the release allows multiple independent Linux kernels to operate simultaneously on a single physical machine without relying on a…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369435",
+    "date": "Nov 21, 2026 00:19",
+    "published_at": "2026-11-21T00:19:24Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "GTA 6 Hits Massive $3.79 Billion In First-Day Sales",
+    "link": "https://games.slashdot.org/story/26/11/20/2320231/gta-6-hits-massive-379-billion-in-first-day-sales?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Rockstar Games' Grand Theft Auto VI generated a record-breaking $3.79 billion in preorders and first-day sales, making it the biggest entertainment launch in history, according to parent company Take-Two Interactive. The figure surpasses the lifetime global box-office earnings of Avengers: Endgame ($2.9 billion) and comes after more than a decade of development at a reported cost of $1.5 billion. The game developer declined to disclose the number of 'GTA 6' copies sold. \n\"It is with immense gratitude that we enter a new chapter of Rockstar Games with the release of 'Grand Theft Auto VI,'\" Rockstar Games president and founder Sam Houser said. \"We are incredibly humbled by the response from players around the world and we couldn't be more excited to share this moment with you.\"\n \nFurther reading: Gamers Skip Work to Play GTA VI After 13-Year Wait\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 21, 2026 00:00",
+    "published_at": "2026-11-21T00:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Signal Restricts Screenshots to Block AI Agents From Reading Messages",
+    "link": "https://yro.slashdot.org/story/26/11/20/2231247/signal-restricts-screenshots-to-block-ai-agents-from-reading-messages?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Signal is introducing default-on screenshot restrictions to prevent AI agents from reading private conversations, warning that increasingly powerful assistants integrated into operating systems pose an \"existential threat\" to its privacy guarantees. \"Right now, these agentic AI integrations are changing this environment in a way that's making it increasingly hostile to privacy. This is an existential threat to Signal, and our ability to responsibly uphold our mission,\" it said in a blog post. Reuters reports: Signal, widely regarded by privacy advocates as a leader in secure messaging, called its new protections \"incomplete\" and urged operating system providers Apple, Alphabet's Google and Microsoft to give app developers more concrete ways to block the agents from accessing sensitive data. It also called on those companies to provide more information about how their agents function, so developers can assess what data the bots are accessing and adjust their systems accordingly.\n \n[...] Users will receive pop-up windows giving them options to disable the blocks when Signal detects screenshot attempts or efforts by an AI assistant to access the screen, depending on the device. Signal similarly blocked Microsoft's Recall AI from taking screenshots on Windows last year. It said it was unable to reliably offer such protections on Apple's macOS.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 20, 2026 23:00",
+    "published_at": "2026-11-20T23:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "AgentMon Live Widens Its Watch to Codex and Kiro",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369433",
+    "description": "Codenotary’s free, open-source coding monitor moves beyond Claude Code, giving more developers a window into what their AI agents are doing.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369433",
+    "date": "Nov 20, 2026 22:51",
+    "published_at": "2026-11-20T22:51:58Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Trump Vows To Stop US Companies From Building Data Centers Abroad",
+    "link": "https://news.slashdot.org/story/26/11/20/2223202/trump-vows-to-stop-us-companies-from-building-data-centers-abroad?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Longtime Slashdot reader fahrbot-bot shares a report from CNBC: President Donald Trump on Friday said U.S. companies will be banned from building data centers in other countries and will face a \"tremendous tax\" penalty if they do so. \"We're going to fight very hard for the data centers,\" Trump said at a White House press conference before announcing the new policy -- which apparently came as news to his own staff. \"I don't know if that's a breaking story,\" Trump said. \"I haven't even said that to my people. But I'm telling them now they're here.\"\n \nInternational expansion represents a growth opportunity for the top cloud infrastructure providers, which want to serve clients from data centers that are nearby, sometimes to meet regulatory requirements. Trump said Friday, however, that if companies want to continue building the centers outside the U.S., \"they can, but we're going to put a tremendous tax on them.\" \"We have a lot of places that want them badly, and they're great places. They have energy, and they have everything. They're tremendous assets,\" Trump said.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 20, 2026 22:25",
+    "published_at": "2026-11-20T22:25:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Libreboot Abandons Anti-AI Policy After One Month",
+    "link": "https://www.phoronix.com/news/Libreboot-Drops-AI-Policy",
+    "description": "Coreboot downstream Libreboot last month enacted an AI policy to forbid contributions made using AI/LLMs. Surprisingly, already, that anti-AI policy has been dropped with AI-based submissions now being permitted...",
+    "guid": "https://www.phoronix.com/news/Libreboot-Drops-AI-Policy",
+    "date": "Nov 20, 2026 22:23",
+    "published_at": "2026-11-20T22:23:41Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Epic Games Launcher Preview now supported across Fedora, Ubuntu and Debian",
+    "link": "https://www.gamingonlinux.com/2026/11/epic-games-launcher-preview-now-supported-across-fedora-ubuntu-and-debian/",
+    "description": "The new Epic Games Launcher Preview has been updated again with fresh support for more Linux distributions.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/11/epic-games-launcher-preview-now-supported-across-fedora-ubuntu-and-debian/",
+    "date": "Nov 20, 2026 21:43",
+    "published_at": "2026-11-20T21:43:24Z",
+    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/epicgames.jpg",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Anthropic Shares Tank After Huge IPO As the Nasdaq Erases 2026 Gains",
+    "link": "https://news.slashdot.org/story/26/11/20/1934244/anthropic-shares-tank-after-huge-ipo-as-the-nasdaq-erases-2026-gains?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "U.S. stocks extended their sell-off Friday as Anthropic shares plunged more than 11% on their second day of trading, despite the AI company's record-setting IPO a day earlier. The Nasdaq fell more than 3%, wiping out its gains for 2026, while the S\u0026P 500 dropped nearly 2% and joined the Dow in correction territory, down at least 10% from recent highs. NBC News reports: The S\u0026P 500 was trading nearly 2% lower as it headed for its worst losing week since April 2025, when President Donald Trump announced his \"Liberation Day\" tariffs, and is now 10% off from its most recent high, entering what's known as \"correction territory.\" Meanwhile, the tech-heavy Nasdaq Composite was off more than 3% and officially erasing all its previous gains in 2026. Other major AI-related names such as CoreWeave, Nvidia and Oracle also sold off. The six consecutive declining S\u0026P 500 sessions mark the index's longest losing streak since April 2024. A seventh losing day would make it the longest stretch since the pandemic slump in February 2020, according to Deutsche Bank.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 20, 2026 21:00",
+    "published_at": "2026-11-20T21:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "GnuPG's GPGME Affected By Critical Security Bug In Turn Affecting Mail Clients, Flatpak",
+    "link": "https://www.phoronix.com/news/GnuPG-GPGME-Critical",
+    "description": "Werner Koch announced a late Friday afternoon \"critical security bug\" affecting GnuPG's GPGME library - GnuPG Made Easy. Unfortunately this in turn affects GPGME users like most email clients, most XMPP clients, Flatpak, Samba, and other software...",
+    "guid": "https://www.phoronix.com/news/GnuPG-GPGME-Critical",
+    "date": "Nov 20, 2026 20:46",
+    "published_at": "2026-11-20T20:46:51Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Trump Admin Still Won't Let TP-Link Sell Routers In US",
+    "link": "https://yro.slashdot.org/story/26/11/20/1929255/trump-admin-still-wont-let-tp-link-sell-routers-in-us?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from Ars Technica: TP-Link, which may be the top provider of wireless routers for US homes and small businesses, isn't allowed to sell its latest Wi-Fi routers in the US. The Trump administration imposed a sweeping ban on foreign-made consumer routers in March 2026, and TP-Link hasn't been able to obtain an exemption. The rules prevent the import or sale of all new router models that are manufactured, assembled, designed, or developed outside the US. The Trump administration has control over which router makers receive special permission to import and sell new products through a waiver-review process involving the Federal Communications Commission, the Department of Defense, and the Department of Homeland Security. While some of its competitors have obtained exemptions to the ban, TP-Link appears to be having a hard time making its case to government officials. Its routers approved before the March 2026 ban remain available for sale in the US, but its newly released Wi-Fi 8 routers cannot be imported or sold. Earlier this year, TP-Link announced plans to begin assembling routers in Mississippi as early as 2027, \"but convincing Trump officials that it is fully under US control is likely a difficult task,\" reports Ars. \"The government reviews of router makers' requests for waivers, formally called conditional approvals, are shrouded in secrecy.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 20, 2026 20:00",
+    "published_at": "2026-11-20T20:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Intel Preps Linux 7.5 Change To Better Handle Multiple GPUs With Lots Of VRAM",
+    "link": "https://www.phoronix.com/news/Linux-7.5-DRM-8TB-mmap",
+    "description": "A change set to land for the upcoming Linux 7.5 kernel cycle expands the mmap range size for GEM/TTM buffer objects in the kernel graphics drivers from 1TB to now up to 8TB...",
+    "guid": "https://www.phoronix.com/news/Linux-7.5-DRM-8TB-mmap",
+    "date": "Nov 20, 2026 19:41",
+    "published_at": "2026-11-20T19:41:29Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
     "title": "California Issues Subpoena to Nvidia Over Chip Sales to China",
     "link": "https://yro.slashdot.org/story/26/11/20/1755250/california-issues-subpoena-to-nvidia-over-chip-sales-to-china?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
     "description": "California Attorney General Rob Bonta has issued subpoenas to Nvidia and former CEO Jensen Huang regarding reports that they misled investors about advanced AI chips potentially reaching China. \"The conduct of Nvidia and its former CEO raises bright red flags, including about the ways in which the company may have misled investors,\" Bonta said in a press release. \"My office is investigating whether Nvidia or Jensen Huang's actions resulted in China obtaining advanced chips or confidential information -- and if Nvidia misled investors and the public about this risk, in violation of the law.\" The probe follows Huang's resignation amid allegations involving a suspected Chinese spy and comes as the SEC reportedly conducts a similar investigation. The Hill reports: Bonta's office said the information obtained through the subpoenas will help it to determine if Nvidia, which is based in Santa Clara, Calif., violated state law through its alleged actions. \"Nvidia is in a messy, transnational situation but the underlying principle of our corporate securities law is clear: Companies cannot mislead their investors,\" Bonta continued.\n \n[...] Following the Huang scandal, the House Foreign Affairs Committee released documents Thursday showing the U.S. authorized the sale of nearly 900,000 Nvidia and AMD AI chips to Defense Department-designated Chinese military companies. An Nvidia spokesperson previously told The Hill, \"The review and licensing process spanned more than half a year, with approvals subject to strict conditions and limited volumes.\" \"Despite receiving some licenses, we have since stopped shipping H200s to China,\" the spokesperson added.\n\n\n\n\n\nRead more of this story at Slashdot.",
@@ -355,16 +512,6 @@
     "source_url": "https://lxer.com/"
   },
   {
-    "title": "Linux 7.5 To Optionally Block /proc/kcore Access For Better Security",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369403",
-    "description": "A patch that is queued up ahead of the Linux 7.5 merge window allows for optionally disabling /proc/kcore access at boot time. This can allow for better system security though will remain enabled by default for kernel builds with the typical CONFIG_PROC_KCORE option…",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369403",
-    "date": "Nov 20, 2026 04:03",
-    "published_at": "2026-11-20T04:03:53Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
     "title": "Amazon Fights the Delivery Protection Act With Homepage Banner, In-App Pop-Up",
     "link": "https://politics.slashdot.org/story/26/11/20/006220/amazon-fights-the-delivery-protection-act-with-homepage-banner-in-app-pop-up?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
     "description": "An anonymous reader quotes a report from Ars Technica: In an unprecedented move, Amazon is using its app and website to try to convince shoppers to not support a New York City bill. When I log into Amazon today, I'm met with a vertical banner that reads: \"ATTENTION NYC Council could add up to $5 per order\" with a button that says \"Act now.\" The message is delivered as a pop-up for users of the Amazon app, Bloomberg reported. Amazon hasn't specified whether the messaging targets NYC residents based on addresses saved in their Amazon account or uses other techniques, such as device location services, but I only see the banner if I'm logged into Amazon.\n \nAmazon is referring to Introduction 0518-2026 (518), also known as the Delivery Protection Act. If passed, it would require Amazon to directly employ the third-party delivery contractors that it uses. Clicking on \"Act now\" on Amazon's homepage or in the app brings up a page that gives shoppers a way to contact their NYC Council member and further states: \"Right now, Amazon works with a network of small delivery businesses that are deeply embedded in your communities. If this legislation passes, we'd no longer be able to work with them, and we'd be forced to consider moving our operations outside of the city. That would likely mean slower and more expensive delivery for millions of customers in New York City, while also threatening small businesses and their thousands of employees.\" The move marks an unusual expansion of Amazon's political advocacy, reports Ars, and raises concerns about the company's ability to influence shoppers and present a one-sided view of legislation.\n \nThe bill, which also affects companies like FedEx and DoorDash, remains stalled in a City Council committee, with no vote scheduled.\n\n\n\n\n\nRead more of this story at Slashdot.",
@@ -408,15 +555,14 @@
     "source_url": "https://slashdot.org/"
   },
   {
-    "title": "JPMorgan, Visa, Mastercard Disclose Cyberattack On Third-Party Vendors",
-    "link": "https://it.slashdot.org/story/26/11/19/2112238/jpmorgan-visa-mastercard-disclose-cyberattack-on-third-party-vendors?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "JPMorgan Chase, Visa and Mastercard have disclosed cyberattacks involving third-party service providers that exposed customer marketing data, including names, email addresses and, in some cases, phone numbers and postal codes. All three companies said their core systems or payment networks were unaffected, while JPMorgan emphasized that the incident was unrelated to the banking disruptions earlier this week. Reuters reports: A cyber extortion group called \"n0n\" claimed on November 16 to have obtained cardmember engagement records that included \"hundreds of thousands of campaign interactions for tens of thousands of distinct cardmember email addresses,\" according to a screenshot of the message captured by cybercrime research platform eCrime.ch. The data includes what appears to be 124 bank employee email addresses and more than 16,000 customer email addresses, some with phone numbers and postal codes, according to a Reuters review. Reuters could not independently verify the authenticity of the data.\n \nThe same hacking group on November 16 posted similar claims regarding Visa and Mastercard and posted data. [...] The Mastercard data posted by n0n includes marketing data related to customers in North America, the Middle East and Africa, and a small number of Mastercard employee email addresses. The hacking group has claimed roughly 200 incidents since emerging in September 2026, according to eCrime.ch. \"Customers don't distinguish between a bank and a vendor when it comes to a cyberattack, so there is a question of reputational risk here,\" said Carissa Robb at SolomonEdwards, a consulting firm. \"There needs to be a little bit more pressure on how often companies are scrutinizing the amount of data that is shared with vendors and the necessity of the data being shared,\" Robb said.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 19, 2026 22:00",
-    "published_at": "2026-11-19T22:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
+    "title": "Linux 7.5 To Optionally Block /proc/kcore Access For Better Security",
+    "link": "https://www.phoronix.com/news/Linux-7.5-Restrict-proc-kcore",
+    "description": "A patch that is queued up ahead of the Linux 7.5 merge window allows for optionally disabling /proc/kcore access at boot time. This can allow for better system security though will remain enabled by default for kernel builds with the typical CONFIG_PROC_KCORE option...",
+    "guid": "https://www.phoronix.com/news/Linux-7.5-Restrict-proc-kcore",
+    "date": "Nov 19, 2026 22:03",
+    "published_at": "2026-11-19T22:03:06Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
   },
   {
     "title": "PHP 8.6 Released with Partial Function Application, Polling API, and More",
@@ -437,275 +583,5 @@
     "published_at": "2026-11-19T21:02:56Z",
     "source": "phoronix.com",
     "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "PHP Readies Critical Security Updates to Patch Another RCE Flaw",
-    "link": "https://developers.slashdot.org/story/26/11/19/2049222/php-readies-critical-security-updates-to-patch-another-rce-flaw?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "PHP has released security updates addressing seven critical remote code execution (RCE) vulnerabilities across its supported versions, just four weeks after patches for the widely exploited PHP2Shell flaws. SecurityWeek reports: One of the security defects expected to be resolved is CVE-2026-115560, a remote code execution (RCE) defect in the file-upload progress tracking functionality. The vulnerability was publicly disclosed two days after PHP2Shell made headlines. PHP's maintainers warned at the time that the security flaw can be triggered only under an unusual combination of configuration and code.\n \n\"An application must set session.serialize_handler to php_binary or php_serialize in its configuration and then switch it to php at runtime with ini_set() before calling session_start(). Session upload progress must also still be enabled,\" PHP said last month. Noting that patches would be released as part of the regular update cycle, PHP developers recommended disabling session upload, a setting also listed as a mitigation for CVE-2026-109619, one of the two RCE bugs tracked as PHP2Shell.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 19, 2026 21:00",
-    "published_at": "2026-11-19T21:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "While stock lasts, you can now just buy a 512GB Steam Machine",
-    "link": "https://www.gamingonlinux.com/2026/11/while-stock-lasts-you-can-now-just-buy-a-512gb-steam-machine/",
-    "description": "Valve have given a fresh update on the queue system for the Steam Machine, and while stock exists you can just buy the 512GB Steam Machine right now.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/11/while-stock-lasts-you-can-now-just-buy-a-512gb-steam-machine/",
-    "date": "Nov 19, 2026 20:11",
-    "published_at": "2026-11-19T20:11:49Z",
-    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/steammachine2025.jpg",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Google Will Launch Android App Verification Requirement Globally In January 2027",
-    "link": "https://tech.slashdot.org/story/26/11/19/1940232/google-will-launch-android-app-verification-requirement-globally-in-january-2027?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "An anonymous reader quotes a report from Ars Technica: Google announced Android developer verification last year, and despite numerous objections from developers and users, the company is forging ahead. It began blocking the installation of unregistered apps in some countries this fall, and the system is expanding globally soon. Google says it will start rolling out the requirement in all regions in January 2027, and it urges devs who still haven't registered their apps to do so soon.\n \nThe apps you download from the Play Store all come from verified developers, and Google's new requirement expands that requirement to apps from third-party sources. Once developer verification is live in your region, you won't be able to sideload apps unless the developer has registered with Google, which is framed as a security measure. Verification requires providing government identification and paying a $25 fee, which will allegedly make it harder for nefarious actors to distribute malware and scammy apps.\n \nIn September, Google launched verification in Brazil, Indonesia, Singapore, and Thailand. Apparently, nothing exploded, so the company is now ready to expand. It previously said verification would go global in 2027, and it's not wasting any time with the January start. It says that verification will reach all devices within \"several months.\" So far, Google is getting what it wanted from this initiative, with \"millions\" of non-Play apps already registered. The company says this accounts for more than 99 percent of global Android app installs.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 19, 2026 20:00",
-    "published_at": "2026-11-19T20:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "TUXEDO InfinityBook Pro 15 Gen11 AMD Pairs Ryzen AI 9 HX 470 With Up To 128GB Of RAM",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369375",
-    "description": "Bavarian Linux PC vendor TUXEDO Computers today announced the InfinityBook Pro 15 Gen11 AMD laptop that pairs the current generation Ryzen AI 9 HX 470 CPU with up to 128GB of RAM and marketed as a premium-class business notebook…",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369375",
-    "date": "Nov 19, 2026 19:35",
-    "published_at": "2026-11-19T19:35:05Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Palo Alto Networks Signs $4.5 Billion Deal For Applied Compute",
-    "link": "https://it.slashdot.org/story/26/11/19/1812240/palo-alto-networks-signs-45-billion-deal-for-applied-compute?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Palo Alto Networks has agreed to acquire AI startup Applied Compute for $4.5 billion as it expands beyond traditional cybersecurity into securing enterprise AI systems, including the training and deployment of open-weight models. The deal is expected to close in the third quarter of fiscal 2027. Reuters reports: Palo Alto Networks has been repositioning itself as an integrated cybersecurity provider, with recent deals, including its $3.35 billion acquisition of cloud management and monitoring firm Chronosphere and an agreement with Israeli startup Koi. The company is looking to tap growing cybersecurity spending as the rapid adoption of AI creates new security risks and gives attackers new ways to exploit vulnerabilities.\n \n\"AI tools are surfacing vulnerabilities faster than companies can patch them, and that is pushing customers to consolidate onto fewer platforms,\" said Catharine Trebnick, senior research analyst at Rosenblatt Securities. With the acquisition of Applied Compute, Palo Alto aims to offer a technology platform that helps customers securely train and deploy open-weight models as they expand their use of AI.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 19, 2026 19:00",
-    "published_at": "2026-11-19T19:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Best Docks for Linux in 2026: 12 Options Compared",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369391",
-    "description": "Compare 12 Linux docks, from built-in ones like Ubuntu Dock and COSMIC to Plank, Dash to Dock and Cairo-Dock. See pros, cons and a quick table.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369391",
-    "date": "Nov 19, 2026 18:26",
-    "published_at": "2026-11-19T18:26:52Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Anthropic Tops $2 Trillion Market Cap After IPO Debut",
-    "link": "https://slashdot.org/story/26/11/19/1753210/anthropic-tops-2-trillion-market-cap-after-ipo-debut?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Anthropic made its Nasdaq debut Thursday in the largest initial public offering in history. Shares opened at $111.50, a 34% premium that briefly pushed the Claude developer's market capitalization above $2 trillion, making it one of the world's most valuable companies. CNBC reports: The 5-year-old company captivated the corporate world with its Claude AI models and products, which have fueled its meteoric rise this year. Anthropic said in its prospectus that it generated $33.24 billion in revenue for the nine months ended Sept. 30, up a staggering 1,200% from the same period last year.\n \nAnthropic CEO Dario Amodei co-founded the company in 2021 after he and a small group of researchers defected from OpenAI, now its chief rival. Anthropic has faced a sharp criticism over its positions on safety, regulation and national security, including by President Donald Trump and other senior government officials. [The Pentagon formally designated Anthropic a supply-chain risk in March following a dispute over military use of its AI models.]\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 19, 2026 18:00",
-    "published_at": "2026-11-19T18:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "[$] Added indirection allows for larger BPF programs",
-    "link": "https://lwn.net/Articles/1106537/",
-    "description": "\nThe BPF verifier has historically worked by tracing every possible path of\nexecution through a program, checking, at each instruction, that various safety\nproperties hold. This works, but it can result in an exponential increase in the\nnumber of states that need checking in programs with complicated control-flow.\nAlexei Starovoitov, one of the kernel's core BPF maintainers, has shared\n\na patch set that substantially reworks how the verifier tracks states, in\norder to reduce the size of that exponential explosion.\n",
-    "guid": "https://lwn.net/Articles/1106537/",
-    "date": "Nov 19, 2026 17:32",
-    "published_at": "2026-11-19T17:32:42Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "Wireshark 4.6.10 Network Protocol Analyzer Released with Various Bug Fixes",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369359",
-    "description": "Wireshark 4.6.10 open-source network protocol analyzer is now available for download with fixes for crashes, memory leaks, infinite loops, and large loops in dissectors and file parsers.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369359",
-    "date": "Nov 19, 2026 17:15",
-    "published_at": "2026-11-19T17:15:48Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Gamers Skip Work to Play GTA VI After 13-Year Wait",
-    "link": "https://games.slashdot.org/story/26/11/19/172205/gamers-skip-work-to-play-gta-vi-after-13-year-wait?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "After a 13-year wait, Rockstar games' Grand Theft Auto VI has officially (and finally) launched today to near-universal acclaim, earning a 99/100 score on Metacritic and generating an estimated $1.84 billion from 19 million copies sold. The highly anticipated release has prompted gamers to take time off work, attracted nearly 2 million concurrent Twitch viewers, and sparked celebrations around the world. \"Video game critics have lauded it, describing it as a 'masterpiece' and 'the single most impressive video game' they've ever played,\" reports NBC News.\n \nAn expert told Reuters that there could be a \"work blackout across the board.\" Another expert suggested that $1 billion in U.S. productivity could be lost as people take time off to play the game, which is estimated to take about 50 hours to complete.\n \nHere's a roundup of GTA VI reviews:\n\n IGN (10/10) calls it \"the single most impressive video game I have ever played.\" GameSpot (10/10) praises its extraordinary attention to detail, calling it a culmination of Rockstar's open-world achievements. Push Square (10/10) describes it as Rockstar's deepest and most accomplished open world since Red Dead Redemption 2, though it notes the 30fps cap and occasional pacing issues. Eurogamer (5/5) praises its ambitious world and the emotional depth of Jason and Lucia's relationship. Digital Foundry highlights its groundbreaking visual realism, ray tracing, and simulation detail, while acknowledging compromises from the 30fps target. Bloomberg calls it an all-time classic, praising the unpredictable interactions and remarkable freedom of exploration.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 19, 2026 17:04",
-    "published_at": "2026-11-19T17:04:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "PostgreSQL 19 released",
-    "link": "https://lwn.net/Articles/1108561/",
-    "description": "The PostgreSQL Global Development Group has announced\nthe release of PostgreSQL 19. Notable features in this release include the\nintroduction of the REPACK (CONCURRENTLY) command to optimize tables\nwithout disruption to ongoing operations, better control over plan stability and\nquery performance with the new pg_plan_advice extension, and a number\nof performance improvements.\n\nIn September, LWN covered the\nremoval of several features initially slated for this release. See the release notes for\na full list of new features and changes.\n\n",
-    "guid": "https://lwn.net/Articles/1108561/",
-    "date": "Nov 19, 2026 16:39",
-    "published_at": "2026-11-19T16:39:16Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "Valkey 9.2 Delivers More Performance, Zstd Compression \u0026 Lower Memory Overhead",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369364",
-    "description": "Valkey 9.2 is out today as the latest feature update to this leading fork of the Redis in-memory, key-value database…",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369364",
-    "date": "Nov 19, 2026 16:05",
-    "published_at": "2026-11-19T16:05:42Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Windows 11 vs. Ubuntu 26.10 Linux Performance On AMD Ryzen AI Max+",
-    "link": "https://www.phoronix.com/review/windows-ubuntu2610-strix-halo",
-    "description": "With recently having received a review sample of the GMKtec EVO-X2 mini PC powered by the AMD Ryzen AI Max+ 395 \"Strix Halo\" SoC and pre-loaded with Microsoft Windows 11 Pro, I took the opportunity to see how the AMD Ryzen AI Max+ performance is comparing between Windows 11 and Ubuntu 26.10 Linux on a range of workloads from gaming to AI and creator applications.",
-    "guid": "https://www.phoronix.com/review/windows-ubuntu2610-strix-halo",
-    "date": "Nov 19, 2026 16:00",
-    "published_at": "2026-11-19T16:00:00Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Ryzen 7 PRO 8845HS lands on industrial Mini-ITX board with dual 2.5GbE",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369357",
-    "description": "The Jetway MTX-RYZ1 is an upcoming Mini-ITX industrial motherboard powered by the AMD Ryzen 7 PRO 8845HS processor. The board supports up to 96GB of DDR5 memory and combines dual 2.5GbE networking, PCIe Gen4 expansion, and four display outputs with industrial connectivity options. The MTX-RYZ1 uses AMD’s Ryzen 7 PRO 8845HS processor, built on the…",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369357",
-    "date": "Nov 19, 2026 14:54",
-    "published_at": "2026-11-19T14:54:33Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Steam Frame hits over 300 Standalone Verified games",
-    "link": "https://www.gamingonlinux.com/2026/11/steam-frame-hits-over-300-standalone-verified-games/",
-    "description": "The Steam Frame has been out for a little while, and the amount of games that are properly playable in standalone has hit over 300.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/11/steam-frame-hits-over-300-standalone-verified-games/",
-    "date": "Nov 19, 2026 14:45",
-    "published_at": "2026-11-19T14:45:55Z",
-    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/steam-frame-on-desk_gol2_35250cf9.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "PHP 8.6.0 released",
-    "link": "https://lwn.net/Articles/1108555/",
-    "description": "Version 8.6.0 of\nPHP has been released. Notable changes in this release include a polling API, a\nnew clamp() function, a SortDirection enum, and a\n\\Time\\Duration class. See \"What's new in 8.6\"\nfor more on new features, and the changelog for a full list\nof changes.",
-    "guid": "https://lwn.net/Articles/1108555/",
-    "date": "Nov 19, 2026 14:43",
-    "published_at": "2026-11-19T14:43:09Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "Four PHP security releases including fixes for critical vulnerabilities",
-    "link": "https://lwn.net/Articles/1108552/",
-    "description": "The PHP Project has announced the release of PHP 8.5.13, 8.4.28, 8.3.37, and 8.2.36. Each contains a\nnumber of security and bug fixes, including several fixes for critical\nvulnerabilities that could allow remote-code execution. According to the\nproject's pre-release\nannouncement on November 18, all of the vulnerabilities of critical\nseverity \"require either non-default configuration or uncommon\nsetups\". See the release notes for details; Linux vendors and projects\nshould be releasing updated packages soon.\n\n",
-    "guid": "https://lwn.net/Articles/1108552/",
-    "date": "Nov 19, 2026 14:29",
-    "published_at": "2026-11-19T14:29:04Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "Unsloth Desktop Now Supports Using The AMD Ryzen AI NPU - Including On Linux",
-    "link": "https://www.phoronix.com/news/Unsloth-Desktop-Ryzen-AI-NPU",
-    "description": "AMD and Unsloth announced today that local NPU inference is now available for Unsloth Desktop, starting with the AMD Ryzen AI NPUs of XDNA 2 and later...",
-    "guid": "https://www.phoronix.com/news/Unsloth-Desktop-Ryzen-AI-NPU",
-    "date": "Nov 19, 2026 14:25",
-    "published_at": "2026-11-19T14:25:27Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Debian's APT Removing Some Features Due To Advancements In AI Security Discoveries",
-    "link": "https://www.phoronix.com/news/Debian-APT-Removing-Features",
-    "description": "Stemming from the recent Debian APT man-in-the-middle attack from a vulnerability in APT's downloading code and ongoing advancements in AI/LLMs around security research, APT is now resorting to disabling and removing some older, complex features that may make the program more vulnerable to finding exploits moving forward...",
-    "guid": "https://www.phoronix.com/news/Debian-APT-Removing-Features",
-    "date": "Nov 19, 2026 14:15",
-    "published_at": "2026-11-19T14:15:04Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Security updates for Thursday",
-    "link": "https://lwn.net/Articles/1108551/",
-    "description": "Security updates have been issued by AlmaLinux (cockpit, cockpit-files, cockpit-machines, gimp, glib-networking, krb5, libpcap, nginx, nodejs26, perl-CGI, php8.4, skopeo, tigervnc, and xorg-x11-server), Debian (haproxy, libreoffice, libvisio, needrestart, openjdk-21, and openjdk-25), Fedora (asterisk, erlang, ffmpeg, ignition, libosmocore, luksmeta, msedit, openapv, passwordsafe, rabbitmq-server, sngrep, and vyper), Mageia (firefox, nss, rootcerts, rsync, and thunderbird), Slackware (libfontenc and libXfont2), SUSE (389-ds, apache2, aspell, bind, brotli, busybox, civetweb, containerd, cosign, docker, gleam, glibc, graphicsmagick, helm, ignition, ImageMagick, java-17-openjdk, java-21-openjdk, java-25-openjdk, jhead, kernel, kubernetes, libsofia-sip-ua-glib3, mcphost, perl-HTTP-Body, perl-MIME-tools, phodav, python-asyncssh, python-django, python-joserfc, python315, qemu, rootlesskit, roundcubemail, rsyslog, runc, tempo-cli, trivy, and xorg-x11-server), and Ubuntu (cloud-init, gstreamer1.0, hplip, libcpanel-json-xs-perl, linux, linux-aws, linux-aws-5.4, linux-aws-fips, linux-azure-5.4, linux-azure-fips, linux-bluefield, linux-fips, linux-gcp, linux-gcp-5.4, linux-gcp-fips, linux-hwe-5.4, linux-ibm, linux-ibm-5.4, linux-iot, linux-kvm, linux-oracle-5.4, linux-raspi, linux-raspi-5.4, linux-xilinx-zynqmp, linux, linux-aws, linux-kvm, linux-lts-xenial, linux-azure, linux-oracle, linux-azure-7.0, linux-fips, nginx, openjdk-17, openjdk-21, openjdk-25, openjdk-27, and openjdk-lts).",
-    "guid": "https://lwn.net/Articles/1108551/",
-    "date": "Nov 19, 2026 14:05",
-    "published_at": "2026-11-19T14:05:42Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "FOSS Weekly #26.47: Slax is Back, Ubuntu Offers Surge Protection, New Office Suite,  Black Friday Deals for Linux Users and More",
-    "link": "https://feed.itsfoss.com/link/24361/17529217/foss-weekly-26-47",
-    "description": "Read what's happening in the Linux world, learn new tips and solve some puzzles in the latest edition of FOSS Weekly newsletter.",
-    "guid": "6afd86e2070f240001236852",
-    "date": "Nov 19, 2026 13:49",
-    "published_at": "2026-11-19T13:49:49Z",
-    "image": "https://itsfoss.com/content/images/2026/11/foss-weekly-1-.webp",
-    "source": "itsfoss.com",
-    "source_url": "https://itsfoss.com/"
-  },
-  {
-    "title": "BackBox Linux 10 Released with Linux 7.0, Xfce 4.20, and Ubuntu 26.04 LTS Base",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369363",
-    "description": "BackBox Linux 10 distribution for penetration testing and security assessment is now available for download based on Ubuntu 26.04 LTS and featuring the Xfce 4.20 desktop environment.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369363",
-    "date": "Nov 19, 2026 13:36",
-    "published_at": "2026-11-19T13:36:16Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "LiberNT: An AI-Fueled Fork Of ReactOS Focused On Windows 11 Compatibility",
-    "link": "https://www.phoronix.com/news/LiberNT",
-    "description": "While the ReactOS project has been enjoying nice conventional progress this year from initial USB 3.0 driver support to improved DirectX support, there is now a new project called LiberNT that is forked from the ReactOS codebase and leveraging AI to quickly iterate on it with a goal of Windows 11 compatibility...",
-    "guid": "https://www.phoronix.com/news/LiberNT",
-    "date": "Nov 19, 2026 12:56",
-    "published_at": "2026-11-19T12:56:46Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Now Nginx Has Critical Vulnerabilities",
-    "link": "https://feed.itsfoss.com/link/24361/17529152/nginx-code-execution-flaws",
-    "description": "The fix is out in version 1.31.9 and 1.30.7, and the oldest affected code goes back to nginx 0.5.33.",
-    "guid": "6afeb33e070f240001237454",
-    "date": "Nov 19, 2026 12:44",
-    "published_at": "2026-11-19T12:44:29Z",
-    "image": "https://itsfoss.com/content/images/2026/11/nginx-vulnerabilities-banner.png",
-    "source": "itsfoss.com",
-    "source_url": "https://itsfoss.com/"
-  },
-  {
-    "title": "The Tower Must Fall - review, build up a ridiculous tower with incremental upgrades",
-    "link": "https://www.gamingonlinux.com/2026/11/the-tower-must-fall-review-build-up-a-ridiculous-tower-with-incremental-upgrades/",
-    "description": "The Tower Must Fall is a curious fusion of tower defense with incremental progression, where you'll watch your precious creation fall time and time again.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/11/the-tower-must-fall-review-build-up-a-ridiculous-tower-with-incremental-upgrades/",
-    "date": "Nov 19, 2026 12:37",
-    "published_at": "2026-11-19T12:37:26Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/698110440id30232gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Agama Unattended installation openSUSE Tumbleweed hosts via multi-threaded agama-proxyV2.py on top of F45 Server",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369366",
-    "description": "This particular setup may be tested on Tumbleweed KVM Guests running at remote KVM Hypervisor keeping to provide reliable results. This post is an immediate follow up for Agama Unattended installation openSUSE Tumbleweed hosts via remote Agama-Proxy.service on top of F45 Server (bare metal) Daemon been built now provides Multi-Threaded: Handles multiple simultaneous KVM guest requests without locking. Decoupled: Running safely as a background daemon via nohup and disown. Optimized: Running at full line rate without hidden network or DNS latency.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369366",
-    "date": "Nov 19, 2026 12:28",
-    "published_at": "2026-11-19T12:28:12Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
   }
 ]
