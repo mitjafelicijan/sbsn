@@ -1,5 +1,224 @@
 [
   {
+    "title": "Planet News Roundup",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369410",
+    "description": "This is a roundup of articles from the openSUSE community listed on planet.opensuse.org. This community blog feed aggregator lists the featured highlights below from Nov. 13 - 19. This week highlights seven Tumbleweed snapshots for week 46 headlined by KDE Gear 26.08.3, Mesa 26.2.6, OpenSSH 10.6p2 and Linux Kernel 7.3.3,…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369410",
+    "date": "Nov 21, 2026 18:01",
+    "published_at": "2026-11-21T18:01:22Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Nvidia's Accounting Practices Now Being Investigated by America's SEC",
+    "link": "https://yro.slashdot.org/story/26/11/21/0445220/nvidias-accounting-practices-now-being-investigated-by-americas-sec?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "We knew America's Securities and Exchange Commission was investigating Nvidia.\nBut Reuters reported Friday that what's being investigated is Nvidia's accounting practices, according to \"two people briefed on the matter.\"\n\n\nPrices of Nvidia shares extended losses and were down about 13% on Friday, according to LSEG data, after Reuters reported details of the SEC probe. They had been down more than 6% before Reuters published its report... The SEC probe is the latest of Nvidia's legal woes. The Justice Department has also been reviewing Nvidia's $12.9-billion deal to buy open-source platform Hugging Face alongside a broader antitrust investigation into the company's acquisitions and practices, Reuters reported last month. \n\nReuters says they \"could not immediately determine\" exactly what potential accounting issues America's SEC is examining.\" (And Reuters points out that \"Investigations are not evidence of wrongdoing and many close without resulting in enforcement action.\") \n\nTheir article adds some historical context — that U.S. authorities \"have been investigating Megaspeed since 2024 over possible violations of export controls related to alleged shipments of Nvidia AI chips to China, the US Justice and Commerce departments said this week.\" And the Financial Times reported Tuesday that Nvidia removed Singapore from its geographical breakdown of revenue sources, Reuters points out, \"even as Singapore sales soared to almost half its global revenue.\"\n\nAnalysts and investors have also grown increasingly concerned about circular AI financing deals, in which chipmakers including Nvidia have pursued complex financial arrangements to help customers fund purchases of their chips and the construction of costly AI infrastructure, such as data centers... Speaking to Reuters last month, SEC enforcement chief David Woodcock said the agency was examining AI companies' corporate disclosures to ensure issuers are giving investors the full picture on potential risks. On its Tuesday earnings call, Nvidia's interim CEO and former CFO Colette Kress said the company was proud of its role in supporting the AI industry, but would be far more selective moving forward about AI industry financing deals.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 21, 2026 18:00",
+    "published_at": "2026-11-21T18:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Sashiko AI Introducing Linux Performance Specialist Review Stage",
+    "link": "https://www.phoronix.com/news/Sashiko-AI-Performance-Review",
+    "description": "The Google-developed Sashiko for agentic AI code review initially focused on the Linux kernel continues helping to uncover new bugs and issues as new patches hit the kernel mailing list as well as those manually running this open-source AI software. In addition to recently introducing an experimental patch series design assessment, they are introducing another new skill for helping with performance/benchmark evaluation of kernel changes...",
+    "guid": "https://www.phoronix.com/news/Sashiko-AI-Performance-Review",
+    "date": "Nov 21, 2026 17:49",
+    "published_at": "2026-11-21T17:49:14Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Owl OS is a New Kali Linux Competitor",
+    "link": "https://feed.itsfoss.com/link/24361/17536916/owl-os-launch",
+    "description": "The ISO ships with a claimed 275+ tools, but the included README calls it proprietary.",
+    "guid": "6afae340b0bf2e0001dcc2fa",
+    "date": "Nov 21, 2026 17:01",
+    "published_at": "2026-11-21T17:01:00Z",
+    "image": "https://itsfoss.com/content/images/2026/11/owl-os-banner.png",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "Earth has a New Moon",
+    "link": "https://science.slashdot.org/story/26/11/21/1552211/earth-has-a-new-moon?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "\"Earth is currently hosting a second moon,\" reports CNN:\n\nOur planet's gravity captured the tiny asteroid in April. This temporary \"mini-moon\" — about 2 meters (6 feet) in diameter — will stick around until early December, when it's expected to leave Earth's sphere of influence and continue on a path around the sun. \n\nThe object is so small and dim in observations that astronomers needed several weeks to confirm it wasn't a defunct satellite or a fragment of one. The International Astronomical Union's Minor Planet Center — which tracks asteroids, comets and other small bodies in the solar system — named the newcomer 2026 QQ8 in late October. \n\n\nWhile mini-moon is not an official designation, astronomers have previously used the moniker to characterize a handful of natural objects, including 2006 RH120, which spent around one year in Earth orbit, and 2020 CD3, which orbited our planet for about three years. However, it's not uncommon for Earth to have one of these transient companions. \"On average, there's probably one there at any given time,\" said Matthew Payne, director of the Minor Planet Center. \"They hang around for a few weeks or months. Sometimes it's none, sometimes it's a couple.\" The catalog of these visitors is relatively short because they usually slip under the radar... \n\nThe exact origin of the space rock is \"an active area of inquiry,\" Payne said, but most NEOs originate from the asteroid belt, a region between the orbits of Mars and Jupiter that contains millions of rocky objects of varying size that revolve around the sun. Over millions of years, gravitational forces can shift some of these objects' orbits toward the inner solar system.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 21, 2026 17:00",
+    "published_at": "2026-11-21T17:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Docker Unveils New Brand Identity, Shifts Focus Toward AI Agents",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369419",
+    "description": "Docker unveils a new brand identity and logo, reflecting its growing focus on AI agents, security, and trusted development environments.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369419",
+    "date": "Nov 21, 2026 16:32",
+    "published_at": "2026-11-21T16:32:42Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Bitcoin Drops to $56,085, a Two-Year Low, in Worst Month Since 2022",
+    "link": "https://slashdot.org/story/26/11/21/0551254/bitcoin-drops-to-56085-a-two-year-low-in-worst-month-since-2022?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Seven days ago Slashdot reported Bitcoin had plummeted 24% in just 46 days. Since then it's dropped another 9.4%, falling to $56,085 by Friday night, its lowest price in over two years. \"It has lost more than half its value since reaching a peak above $126,000 in October 2025,\" reports Bloomberg, noting it's now worth less than when Donald Trump first took office in January of 2025. \n\nYahoo Finance reports:\n\nAt its current price, the digital coin is down more than 20% so far in November, putting it on pace for its worst monthly performance since June 2022, according to Yahoo Finance data. That would be bitcoin's eighth-worst month since Yahoo Finance's daily records began tracking the digital asset in September 2014... \n\nUS spot bitcoin exchange-traded funds have also added to the selling pressure. So far this month, net investors have withdrawn roughly $3.5 billion, according to asset manager Farside Investors, which tracks the product flows. That includes $582 million in outflows on Thursday alone.\n \n\n\"Bitcoin's latest sell-off is reviving doubts that it can behave as the 'digital gold' market hedge that crypto backers have long envisioned,\" writes CNBC. \n\nThey note Bitcoin \"is on pace for its seventh-straight weekly loss for the first time since May 2022, according to CNBC data.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 21, 2026 16:00",
+    "published_at": "2026-11-21T16:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Intel Linux NPU Driver 1.39.1 Released With Nova Lake Support",
+    "link": "https://www.phoronix.com/news/Intel-LInux-NPU-Driver-1.39.1",
+    "description": "Since last year there have been Linux patches for enabling the Intel Nova Lake NPU with its 6th Gen neural processing unit IP. Those patches were since mainlined with the Intel IVPU accelerator driver. Now the user-space Intel Linux NPU Driver was updated on Thursday with official Nova Lake support...",
+    "guid": "https://www.phoronix.com/news/Intel-LInux-NPU-Driver-1.39.1",
+    "date": "Nov 21, 2026 15:51",
+    "published_at": "2026-11-21T15:51:35Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Internet Archive Staffers Are Unionizing",
+    "link": "https://tech.slashdot.org/story/26/11/21/0238202/internet-archive-staffers-are-unionizing?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from Wired: Staffers at the Internet Archive, the nonprofit \"digital library\" that runs the Wayback Machine, are voting to join the Communications Workers of America (CWA). More than 80 of the 124 eligible US staffers voted in favor of unionizing, and they are currently awaiting voluntary recognition of the union from Internet Archive founder Brewster Kahle. If Kahle does not grant voluntary recognition, employees will vote whether to certify the union in a process run by the National Labor Relations Board.\n \nThe Internet Archive, which also offers free catalogs preserving tens of millions of digital and physical media items, was founded by Kahle in 1996. Kahle's mission was to provide \"Universal Access to All Knowledge.\" Will Howes, an Internet Archive engineer, says that the organizing process has demonstrated how \"aligned\" employees are in their passion for Kahle's goals. \"Frankly, we really see the formation of this union as accepting [Kahle's] challenge to make this workplace the best place it can be in pursuit of a mission, universal access to all knowledge,\" Howes tells WIRED.\n \n\"We believe the first and most primary goal of our union is to make sure that the Internet Archive reflects the wants and values of the people that work there, and the people that make the archive,\" [says Microfiche digitization technician Danielle Leard]. Howes and Leard tell WIRED that the Internet Archive -- which claims to have archived more than 1 trillion web pages -- employs a highly diverse set of workers, including librarians, engineers, physical media specialists, and facility coordinators who maintain the archive's building, a former Christian Scientist church in San Francisco. Leard says that the staff's diversity has made the organizing process, which began in February 2025, \"a unique challenge,\" but one that's \"really rewarding.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 21, 2026 15:00",
+    "published_at": "2026-11-21T15:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Get some gems in the Deck the Halls with Deckbuilders Bundle",
+    "link": "https://www.gamingonlinux.com/2026/11/get-some-gems-in-the-deck-the-halls-with-deckbuilders-bundle/",
+    "description": "The Deck the Halls with Deckbuilders Bundle is live and with it you can get some real indie gems here.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/11/get-some-gems-in-the-deck-the-halls-with-deckbuilders-bundle/",
+    "date": "Nov 21, 2026 13:35",
+    "published_at": "2026-11-21T13:35:58Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1515471490id30243gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Debian 13.8 Released With 150+ Security Updates",
+    "link": "https://www.phoronix.com/news/Debian-13.8-Released",
+    "description": "Debian 13.8 is out today as the newest ISO refresh for Debian 13 \"Trixie\" with 150 security updates noted along with many bug fixes...",
+    "guid": "https://www.phoronix.com/news/Debian-13.8-Released",
+    "date": "Nov 21, 2026 11:20",
+    "published_at": "2026-11-21T11:20:00Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Mercury-Bound X-Ray Telescope Delivers First Images After Eight Years In Space",
+    "link": "https://science.slashdot.org/story/26/11/21/0224236/mercury-bound-x-ray-telescope-delivers-first-images-after-eight-years-in-space?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "A British-built X-ray telescope aboard the European-Japanese BepiColombo spacecraft has captured its first astronomical images after eight years in space and roughly 6.2 billion miles of travel. Phys.org reports: A team led by the University of Leicester has been making calibration measurements with the Mercury Imaging X-ray Spectrometer (MIXS), one of the instruments on the two-spacecraft BepiColombo mission to Mercury, which begins its orbital insertion tomorrow (Nov. 21) in preparation for the final stage of arrival at our solar system's smallest planet. After an eight-year journey, it is vital that the team checks how MIXS is performing. Although they have been monitoring the instrument during its trip, it was only in September, following the separation of the Mercury Transfer Module (MTM) from the joined science orbiters, Mercury Planetary Orbiter (MPO) and Mercury Magnetospheric Orbiter (MMO) or Mio, that MIXS could finally see into space for the first time and calibration measurements could be made before the orbit insertion sequence begins.\n \nThe Crab Nebula is 6,500 light-years away and a well-characterized astrophysical source of X-ray light. By observing it, the team can work out the performance characteristics of MIXS in space and compare these with calibration measurements made with the same instrument in the laboratory in 2015. These observations provide MIXS's first view of an astronomical X-ray source. The main observation sequence consisted of 55 spacecraft slews, with 39 hours of observations during Sept. 11-12. Measuring how much the Crab Nebula's image is spread across MIXS's detector helps the scientists measure MIXS's angular resolution, or how sharply it will be able to distinguish features on Mercury's surface. They found this to be slightly better than when it was last measured in the lab in 2015. \n\"During our calibration observations we have determined that MIXS is generally performing fantastically well in space! We have no effects in our images that are associated with 'stray light' (optical photons getting in when they should not). We continue to see effects of galactic cosmic rays as we did during cruise, but we understand these and can filter them out,\" said Professor Emma Bunch, Principal Investigator (PI) for the MIXS instrument and Director of the Institute for Space at the University of Leicester.\n \n\"We see some self-fluorescence which appears when the sun is illuminating the optic, but this won't affect our dayside observations of Mercury's surface. And the detector has suffered no radiation damage after eight years in space. We see some effects in the instrument that we are still studying and expect to undertake some optimization procedures during the Mercury commissioning phase to fine-tune MIXS in preparation for the science phase.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 21, 2026 11:00",
+    "published_at": "2026-11-21T11:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "KDE Plasma 6.9 Allows Adjusting The Text Cursor Blinking Rate, Other Improvements",
+    "link": "https://www.phoronix.com/news/KDE-Plasma-6.9-Cursor-Blinking",
+    "description": "It has been another busy week in the KDE development space with more feature work and fixes piling up for the upcoming Plasma 6.9 desktop...",
+    "guid": "https://www.phoronix.com/news/KDE-Plasma-6.9-Cursor-Blinking",
+    "date": "Nov 21, 2026 10:51",
+    "published_at": "2026-11-21T10:51:46Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "GrapheneOS Accuses Google of Kneecapping Android Partners With Pixel Exclusives",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369413",
+    "description": "The project also wants to talk to the DoJ and says it expects Google to start locking Pixel bootloaders.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369413",
+    "date": "Nov 21, 2026 10:44",
+    "published_at": "2026-11-21T10:44:47Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "FreeDesktop.org Launches Redesigned Website",
+    "link": "https://www.phoronix.com/news/FreeDesktop.org-Redesigned-2026",
+    "description": "FreeDesktop.org has been the hosting hub for the X.Org project, Wayland, and the Mesa projects to other notable open-source Linux desktop projects like PipeWire, GStreamer, and countless other projects. Since it's launch over two decades ago, it has basically looked the same... A bland Wiki. But on Friday a redesign of FreeDesktop.org was launched...",
+    "guid": "https://www.phoronix.com/news/FreeDesktop.org-Redesigned-2026",
+    "date": "Nov 21, 2026 10:38",
+    "published_at": "2026-11-21T10:38:39Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "FreeBSD 15.2 Beta 3 Released Following 17 Security Advisories",
+    "link": "https://www.phoronix.com/news/FreeBSD-15.2-Beta-3",
+    "description": "The third weekly beta release of FreeBSD 15.2 is now available for testing. This comes with various bug fixes, updated OpenZFS code, and fixes for 17 FreeBSD security advisories that were made public this week...",
+    "guid": "https://www.phoronix.com/news/FreeBSD-15.2-Beta-3",
+    "date": "Nov 21, 2026 10:26",
+    "published_at": "2026-11-21T10:26:22Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Noctalia 5.6 Wayland Shell Improves Fractional Scaling and Performance",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369429",
+    "description": "Noctalia 5.6 improves fractional scaling, introduces global font scaling, and delivers faster startup and sharper rendering.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369429",
+    "date": "Nov 21, 2026 09:12",
+    "published_at": "2026-11-21T09:12:21Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Purism Is Crowdfunding the Librem 5 v2, a $1,599 RISC-V Linux Phone With Kill Switches",
+    "link": "https://feed.itsfoss.com/link/24361/17536714/purism-5-v2-crowdfunding",
+    "description": "The privacy-focused Linux phone gets a RISC-V chip, 8 GB RAM, a removable battery. Purism's new $1,599 Linux Phone can't match an iPhone on specs but that's not the point.",
+    "guid": "6b013bcd070f24000124308c",
+    "date": "Nov 21, 2026 08:26",
+    "published_at": "2026-11-21T08:26:17Z",
+    "image": "https://itsfoss.com/content/images/2026/11/librem-5-v2.png",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "Libreboot Abandons Anti-AI Policy After One Month",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369437",
+    "description": "Coreboot downstream Libreboot last month enacted an AI policy to forbid contributions made using AI/LLMs. Surprisingly, already, that anti-AI policy has been dropped with AI-based submissions now being permitted…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369437",
+    "date": "Nov 21, 2026 07:42",
+    "published_at": "2026-11-21T07:42:37Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Anthropic Mathematician Claims to Prove Riemann Hypothesis",
+    "link": "https://science.slashdot.org/story/26/11/21/028221/anthropic-mathematician-claims-to-prove-riemann-hypothesis?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Slashdot has been covering the Riemann Hypothesis for years. \n\n2000: Prove The Riemann Hypothesis And Make.Money.Fast \n2002: More on Riemann Hypothesis \n2008: Claimed Proof of Riemann Hypothesis \n2008: Prominent Mathematicians Rebuke Recent Riemann Hypothesis Proof \n\nAdd a new headline to the list... \n\n2026: Using AI, mathematician claims to have solved one of math's great mysteries \n\njoshuark shares a report from Scientific American: Levent Alpoge, a mathematician at Anthropic, has claimed to have solved the Riemann Hypothesis with the help of Anthropic's AI model Claude, but the proof is not yet independently verified and remains under scrutiny. [An AI-generated solution of the 167-year-old problem, long considered far out of reach to human mathematicians, would cap off the technology's year-long conquest of math in spectacular fashion.] The Riemann hypothesis was first proposed in 1859 by the mathematician Bernhard Riemann. It claims that the locations of the prime numbers along the number line, which appear random at first blush, are actually determined by an intricate, meaningful order.\n \n[...] Alpoge posted his Claude proof coded in the programming language Lean, which verifies the mathematical correctness of each argument. Issues can arise in Lean, but it shouldn't take long for experts to verify whether the hypothesis is properly coded, and if the proof is correct. If that happens, it will cap off a year in which AI's mathematical capabilities ascended from unreliable college student to a superhuman force, leaving no part of the discipline undisrupted. [...] Alpoge's statement is elegiac -- recognizing the sense of grief many mathematicians are feeling -- but also optimistic. \"It is natural to feel that this is an end, in my case a loss of a principal guiding light,\" he wrote, \"but what I saw during the course of progress so amazed me that I believe it is one dawn across science of something far greater.\" [...]\n \nThe Riemann result, if correct, will echo far beyond mathematics. It doesn't have any immediate real-world applications -- it won't upend global banking or make the internet run faster. But after a year of watching LLMs surpass one math benchmark after another, there is no more staggering achievement it could possibly reach. A machine may have just solved a problem that the smartest people on the planet all agreed they were nowhere close to figuring out. As MIT mathematician Andrew Sutherland once put it to me: \"An AI that can prove the Riemann hypothesis is not one I'd want to meet. If that happens, mathematicians having jobs will be the least of our problems.\"\n\"If the proof is correct and understood, this completes a dictionary between different branches of math where the connections were only partial,\" says Hector Pasten, a mathematician at the Pontifical Catholic University of Chile. \"Something like a Rosetta Stone.\"\n \n\"If true, even from a first high level scan of the summary of the proposed argument, it is very plausible to me that the new ideas in the proof will open up brand new avenues of thinking in number theory and have an immense impact beside the obviously extremely influential result in itself,\" added mathematician Carlo Pagano, a professor at Concordia University and a visiting researcher at Google DeepMind.\n \nIn a separate article from Scientific American, independent mathematicians say the AI-assisted proof is almost certainly valid. MIT mathematician Andrew Sutherland said the chance of anything being wrong was \"approximately zero\" after independently compiling and checking the code. However, researchers are still conducting final checks to ensure the proof accurately represents the original hypothesis and does not exploit any loopholes in Lean's verification system. \n\n\nBut did a human beat the AI? The Washington Post reports:\n\n\nJust hours after AlpÃgeâ(TM)s claim circulated on social media, Ravi Vakil, president of the American Mathematical Society and a professor at Stanford University, said in a hurried statement that mathematician Alessandro Masullo had a proposed proof of the Riemann hypothesis without AI several months earlier. The draft, which runs some 940 pages, is in need of significant revisions, Masullo said in a statement, and was not ready for publication. Online observers quickly noted that it contained omissions and apparent errors. \nBut in the introduction to the draft, he published a striking flag. \nâoeIf any message at all this work is meant to send to the mathematician who feels discouraged by the pace and tone of the current climate, it is this,â he wrote. âoeWe are still here. We are very much alive. We are not going anywhere.â\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 21, 2026 07:00",
+    "published_at": "2026-11-21T07:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Ask an engineer – exclusive advice from the brains behind Raspberry Pi",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369407",
+    "description": "Meet a few of the Raspberry Pi engineers who create our devices and make sure they keep working for you.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369407",
+    "date": "Nov 21, 2026 06:18",
+    "published_at": "2026-11-21T06:18:50Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
     "title": "Fedora Linux 45 FIDO2 Lab Guide",
     "link": "https://lxer.com/module/newswire/ext_link.php?rid=369408",
     "description": "PIN and touch for encrypted storage, login, screen unlock, sudo, and polkit Lab work conducted November 3, 2026Prepared November 3, 2026 Why I built this lab My goal wasn't to eliminate very strong, high-entropy passwords or recovery credentials. It was to virtually eliminate their use during normal daily operations, reserving them for emergencies such as…",
@@ -92,16 +311,6 @@
     "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
     "source": "slashdot.org",
     "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Libreboot Abandons Anti-AI Policy After One Month",
-    "link": "https://www.phoronix.com/news/Libreboot-Drops-AI-Policy",
-    "description": "Coreboot downstream Libreboot last month enacted an AI policy to forbid contributions made using AI/LLMs. Surprisingly, already, that anti-AI policy has been dropped with AI-based submissions now being permitted...",
-    "guid": "https://www.phoronix.com/news/Libreboot-Drops-AI-Policy",
-    "date": "Nov 20, 2026 22:23",
-    "published_at": "2026-11-20T22:23:41Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
   },
   {
     "title": "Epic Games Launcher Preview now supported across Fedora, Ubuntu and Debian",
@@ -220,17 +429,6 @@
     "source_url": "https://www.phoronix.com/"
   },
   {
-    "title": "UK Government Forced To Disclose Secret Apple Backdoor Order",
-    "link": "https://yro.slashdot.org/story/26/11/20/0129229/uk-government-forced-to-disclose-secret-apple-backdoor-order?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "An anonymous reader quotes a report from TechCrunch: The U.K. government has been ordered to confirm that it issued a secret order demanding Apple to provide authorities with encrypted customer information. The Thursday ruling from the U.K.'s Investigatory Powers Tribunal, an independent court that allows citizens to challenge government surveillance orders, is a rare rebuke for the government, which sought to keep the encryption backdoor order a state secret. The tribunal's ruling rejected the Home Office's claim that disclosing the order would be damaging to national security. [...] A final hearing on what specific order details can be released is anticipated next year. The order follows a year-long dispute that began when British authorities reportedly sought a backdoor to users' data worldwide, drawing criticism from U.S. lawmakers over privacy concerns. Rather than comply, Apple disabled its Advanced Data Protection feature for U.K. users and challenged the order in court.\n \nThe government later narrowed its demand to British nationals' data, prompting another legal challenge from Apple.\n \nApple said it welcomes the ruling to make public the fact that the U.K. Home Office issued a technical capability notice, reiterating that it has \"never built a backdoor or master key\" to its products or services and \"never will.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 20, 2026 16:00",
-    "published_at": "2026-11-20T16:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
     "title": "[$] Bringing the Agama installer to openSUSE Tumbleweed",
     "link": "https://lwn.net/Articles/1107830/",
     "description": "The openSUSE Project has been working on\nthe Agama installer for four\nyears; it was the default installer for openSUSE Leap 16.0 when\nit was released in 2025, and has been adopted by other openSUSE flavors as\nwell. Now the project is gearing up to go all-in on Agama for Tumbleweed, the rolling-release\nedition that is meant to be where updates and new features land first. Even so,\nthe community has concerns about losing some of YaST's legacy functionality and\nthe impact on installing Tumbleweed on systems that have less RAM.",
@@ -331,17 +529,6 @@
     "source_url": "https://www.phoronix.com/"
   },
   {
-    "title": "Intuit Sells Mailchimp At About a Third of Its 2021 Purchase Price",
-    "link": "https://tech.slashdot.org/story/26/11/20/0121230/intuit-sells-mailchimp-at-about-a-third-of-its-2021-purchase-price?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Intuit has agreed to sell Mailchimp to Bending Spoons for $3.68 billion in cash and stock, less than one-third of the $12 billion it paid to acquire the email-marketing platform in 2021. The deal is set to close in early 2027. CNBC reports: In August Intuit started running Mailchimp as a distinct operating segment. The move was meant to give investors more transparency as the company tried to manage the unit for profitability, Sandeep Aujla, Intuit's finance chief, said at a September company briefing.\n \nAlso on Thursday, Intuit announced stronger-than-expected earnings and revenue for its fiscal first quarter, which ended on Oct. 31. The company reported $2.91 in adjusted earnings per share on $4.35 billion in revenue. Analysts polled by LSEG were looking for $2.70 per share and $4.31 billion in revenue. While Intuit's revenue increased 12% year over year, Mailchimp revenue declined 1% to $313 million. Analysts polled by StreetAccount had expected $314.4 million.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 20, 2026 11:00",
-    "published_at": "2026-11-20T11:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
     "title": "Cloud Hypervisor 55 Released With AArch64 Nested Virtualization, Up To 990 ARM vCPUs",
     "link": "https://www.phoronix.com/news/Cloud-Hypervisor-55",
     "description": "Cloud Hypervisor 55.0 was released on Thursday for this security-minded, cloud-focused virtual machine monitor (VMM) written in Rust. While it started off as an Intel open-source project, it's expanded in scope over time and with more organizations contributing. With the new Cloud Hypervisor 55, a number of ARM improvements to note...",
@@ -352,235 +539,12 @@
     "source_url": "https://www.phoronix.com/"
   },
   {
-    "title": "GrapheneOS Accuses Google of Kneecapping Android Partners With Pixel Exclusives",
-    "link": "https://feed.itsfoss.com/link/24361/17536085/grapheneos-google-oem-pressure",
-    "description": "The project also wants to talk to the DoJ and says it expects Google to start locking Pixel bootloaders.",
-    "guid": "6affd8ba070f240001242646",
-    "date": "Nov 20, 2026 10:41",
-    "published_at": "2026-11-20T10:41:26Z",
-    "image": "https://itsfoss.com/content/images/2026/11/grapheneos-evil-google-banner.png",
-    "source": "itsfoss.com",
-    "source_url": "https://itsfoss.com/"
-  },
-  {
     "title": "Kwi Sees First Release As KDE's New Terminal Emulator",
     "link": "https://www.phoronix.com/news/Kwi-Terminal-First-Release",
     "description": "Over the past number of weeks Kwi has been in development as a new KDE terminal emulator. Kwi is built off the Ghostty library and delivering magnificent performance over the existing Konsole terminal emulator. Today marks the project's first release...",
     "guid": "https://www.phoronix.com/news/Kwi-Terminal-First-Release",
     "date": "Nov 20, 2026 10:41",
     "published_at": "2026-11-20T10:41:17Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "FFmpeg 9.1 Released With NVIDIA Optical Flow FRUC, APV Vulkan Encoder",
-    "link": "https://www.phoronix.com/news/FFmpeg-9.1-Released",
-    "description": "Following the FFmpeg 9.1 release preparations that began last month, FFmpeg 9.1 is now formally released as the newest feature update to this widely-used, cross-platform multimedia library...",
-    "guid": "https://www.phoronix.com/news/FFmpeg-9.1-Released",
-    "date": "Nov 20, 2026 10:30",
-    "published_at": "2026-11-20T10:30:05Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Rayman Legends Retold is Steam Deck and Steam Machine Verified ahead of launch",
-    "link": "https://www.gamingonlinux.com/2026/11/rayman-legends-retold-is-steam-deck-and-steam-machine-verified-ahead-of-launch/",
-    "description": "Rayman Legends Retold arrives December 4th, and you'll be good to go on basically any Linux platform like Steam Deck and Steam Machine where it's now Verified.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/11/rayman-legends-retold-is-steam-deck-and-steam-machine-verified-ahead-of-launch/",
-    "date": "Nov 20, 2026 10:21",
-    "published_at": "2026-11-20T10:21:44Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1740166559id30241gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Run your own mercenary company in the new demo of MetalMercs",
-    "link": "https://www.gamingonlinux.com/2026/11/run-your-own-mercenary-company-in-the-new-demo-of-metalmercs/",
-    "description": "MetalMercs is a real-time-with-pause mech strategy game where you run a mercenary company.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/11/run-your-own-mercenary-company-in-the-new-demo-of-metalmercs/",
-    "date": "Nov 20, 2026 09:25",
-    "published_at": "2026-11-20T09:25:27Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/540400897id30240gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Valkey 9.2 Lowers Cost of AI Workloads On Existing Infrastructure Alongside New Distributed KV Caching Capability",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369395",
-    "description": "The latest release targets three of the largest costs of running at scale: extra memory held in reserve for backups, cross-region network traffic, and memory overhead for large datasets.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369395",
-    "date": "Nov 20, 2026 09:17",
-    "published_at": "2026-11-20T09:17:18Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Keep an eye on SuperWEIRD, a game that blends multiple genres in strange ways",
-    "link": "https://www.gamingonlinux.com/2026/11/keep-an-eye-on-superweird-a-game-that-blends-multiple-genres-in-strange-ways/",
-    "description": "SuperWEIRD is an automation roguelite where you rebuild a shattered planet with a crew of single-task robots.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/11/keep-an-eye-on-superweird-a-game-that-blends-multiple-genres-in-strange-ways/",
-    "date": "Nov 20, 2026 09:09",
-    "published_at": "2026-11-20T09:09:51Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/922556911id30239gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Taking On Red Hat? Ubuntu Now Has an Official SysAdmin Certification",
-    "link": "https://feed.itsfoss.com/link/24361/17536064/ubuntu-academy-certification-program",
-    "description": "Ubuntu is now offering certification exams, covering the basics of Linux to DevOps. The Academy launch also offers a 10% discount on these certification exams.",
-    "guid": "6affe703070f2400012426e5",
-    "date": "Nov 20, 2026 09:09",
-    "published_at": "2026-11-20T09:09:25Z",
-    "image": "https://itsfoss.com/content/images/2026/11/ubuntu-certifications.png",
-    "source": "itsfoss.com",
-    "source_url": "https://itsfoss.com/"
-  },
-  {
-    "title": "Solbrand has a demo worth checking out with a seriously cool UI and atomsphere",
-    "link": "https://www.gamingonlinux.com/2026/11/solbrand-has-a-demo-worth-checking-out-with-a-seriously-cool-ui-and-atomsphere/",
-    "description": "If you like mysterious underwater adventuring, Solbrand is one you should be checking out with the fantastic atmosphere.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/11/solbrand-has-a-demo-worth-checking-out-with-a-seriously-cool-ui-and-atomsphere/",
-    "date": "Nov 20, 2026 08:48",
-    "published_at": "2026-11-20T08:48:44Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/189427333id30238gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "The Godot Engine 2026 Showreel has a nice varied selection",
-    "link": "https://www.gamingonlinux.com/2026/11/the-godot-engine-2026-showreel-has-a-nice-varied-selection/",
-    "description": "The Godot Engine team have put up a 2026 Showreel of various different types of games being made with the free and open source game engine.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/11/the-godot-engine-2026-showreel-has-a-nice-varied-selection/",
-    "date": "Nov 20, 2026 08:34",
-    "published_at": "2026-11-20T08:34:44Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1145763085id30237gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "SteamVR Beta 2.19.4 brings Steam Link Streaming upgrades",
-    "link": "https://www.gamingonlinux.com/2026/11/steamvr-beta-2-19-4-brings-steam-link-streaming-upgrades/",
-    "description": "A fresh SteamVR Beta has arrived for all supported platforms, bringing some nice sounding improvements to Steam Link Streaming and Linux.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/11/steamvr-beta-2-19-4-brings-steam-link-streaming-upgrades/",
-    "date": "Nov 20, 2026 08:29",
-    "published_at": "2026-11-20T08:29:18Z",
-    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/SteamVR.jpg",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "SteamOS 0.5.10 Beta for Steam Frame brings Image Quality Improvements",
-    "link": "https://www.gamingonlinux.com/2026/11/steamos-0-5-10-beta-for-steam-frame-brings-image-quality-improvements/",
-    "description": "SteamOS 0.5.10 Beta for Steam Frame was released by Valve to further enhance the visual quality on this SteamOS Linux VR device.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/11/steamos-0-5-10-beta-for-steam-frame-brings-image-quality-improvements/",
-    "date": "Nov 20, 2026 08:21",
-    "published_at": "2026-11-20T08:21:59Z",
-    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/steamframe.jpg",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "US Government’s Cloud.gov Drops Redis in Favor of Valkey",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369401",
-    "description": "The US government's Cloud.gov platform is replacing Redis with Valkey, requiring existing ElastiCache users to migrate by January 15, 2027.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369401",
-    "date": "Nov 20, 2026 07:38",
-    "published_at": "2026-11-20T07:38:04Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Google Signs Deal With Blue Origin to Send Satellite Data Centers Into Orbit",
-    "link": "https://science.slashdot.org/story/26/11/20/0010255/google-signs-deal-with-blue-origin-to-send-satellite-data-centers-into-orbit?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Google has partnered with Jeff Bezos' Blue Origin to launch satellite-based AI data centers into orbit as part of its experimental Project Suncatcher initiative. \"Engadget reports: Each of these satellites will be equipped with \"roughly the capacity of a data center rack\" and will enter into a sun-synchronous orbit via heavy-lift New Glenn rockets. The rocket will carry several Google tensor processing units, the company's proprietary AI chips, along with data center servers. The first launch isn't scheduled until early 2029, so we have a couple of years to see if this whole project even works.\n \nThis is an experiment that Google calls a \"long-term moonshot\" to see if it's possible to put AI infrastructure in space by \"tapping into the abundant solar power in orbit.\" The benefits of this would be massive. Data centers here on Earth are notorious hogs, with their snouts all over electricity grids, land and cooling systems. The hope is that the harsh vacuum of the cosmos will be a better fit for the technology.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 20, 2026 07:00",
-    "published_at": "2026-11-20T07:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Shelly 3.4 GUI Package Manager for Arch Linux Introduces Firmware Updates",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369402",
-    "description": "The biggest change in Shelly 3.4 is the new Firmware page, which lets you update the firmware of your devices, including UEFI/BIOS and peripherals, through LVFS and fwupd. The page is opt-in, so you can enable it by ticking Firmware on the welcome screen or in Settings, and Shelly installs fwupd on demand.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369402",
-    "date": "Nov 20, 2026 05:46",
-    "published_at": "2026-11-20T05:46:25Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Amazon Fights the Delivery Protection Act With Homepage Banner, In-App Pop-Up",
-    "link": "https://politics.slashdot.org/story/26/11/20/006220/amazon-fights-the-delivery-protection-act-with-homepage-banner-in-app-pop-up?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "An anonymous reader quotes a report from Ars Technica: In an unprecedented move, Amazon is using its app and website to try to convince shoppers to not support a New York City bill. When I log into Amazon today, I'm met with a vertical banner that reads: \"ATTENTION NYC Council could add up to $5 per order\" with a button that says \"Act now.\" The message is delivered as a pop-up for users of the Amazon app, Bloomberg reported. Amazon hasn't specified whether the messaging targets NYC residents based on addresses saved in their Amazon account or uses other techniques, such as device location services, but I only see the banner if I'm logged into Amazon.\n \nAmazon is referring to Introduction 0518-2026 (518), also known as the Delivery Protection Act. If passed, it would require Amazon to directly employ the third-party delivery contractors that it uses. Clicking on \"Act now\" on Amazon's homepage or in the app brings up a page that gives shoppers a way to contact their NYC Council member and further states: \"Right now, Amazon works with a network of small delivery businesses that are deeply embedded in your communities. If this legislation passes, we'd no longer be able to work with them, and we'd be forced to consider moving our operations outside of the city. That would likely mean slower and more expensive delivery for millions of customers in New York City, while also threatening small businesses and their thousands of employees.\" The move marks an unusual expansion of Amazon's political advocacy, reports Ars, and raises concerns about the company's ability to influence shoppers and present a one-sided view of legislation.\n \nThe bill, which also affects companies like FedEx and DoorDash, remains stalled in a City Council committee, with no vote scheduled.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 20, 2026 03:30",
-    "published_at": "2026-11-20T03:30:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "How to check if your bargain SD card is fake on Ubuntu",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369404",
-    "description": "F3 (Fight Flash Fraud) is an open-source tool to check if a USB drive or SD card has the capacity it claims on the label. If you’ve used h2testw on Windows, this does the same thing on Linux. Memory card and USB drive prices have more than doubled this year, and that makes cheaper listings more tempting. But buying low-cost storage has always carried a risk of fakes (not to mention low-quality or…",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369404",
-    "date": "Nov 20, 2026 02:13",
-    "published_at": "2026-11-20T02:13:02Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Iowans Brace For Lead Dust Cloud As Army Plans to Detonate 5 Tons of Bomb-Making Chemicals",
-    "link": "https://tech.slashdot.org/story/26/11/19/2353250/iowans-brace-for-lead-dust-cloud-as-army-plans-to-detonate-5-tons-of-bomb-making-chemicals?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "The U.S. Army plans to detonate roughly five tons of unstable lead azide explosives at the Iowa Army Ammunition Plant on Friday. \"The detonation will result in an air plume with some lead-containing particles which will disperse in the air and deposit on the ground,\" an advisory states. \"Lead is toxic to humans and animals. The goal of this advisory is to provide the public with actionable information out of an abundance of caution to minimize lead exposure.\" PBS reports: Officials have released maps showing the potential drift north, and the Army will continue to update the maps based on weather. Some schools in the region have already canceled classes. Nearly 400 people live in Middletown, but thousands more could be affected. The vibrations from the two blasts will be quick but could break old windows in town. The resulting dust is expected to linger for no more than one hour, depending on wind speed, officials said. While the Army recommends cleaning cars, windowsills and outdoor surfaces, residents have taken to social media to voice concern and question whether that will be enough.\n \n[...] Middletown residents learned in March that the Army needed to dispose of several dozen barrels containing lead azide, after the ammunition plant paused operations as part of a review and the degraded material was discovered. \"The safety of our people and our neighbors is non-negotiable,\" Lt. Col. Daniel Nosse, commander of the plant, said at the time, acknowledging the volatility of the chemical compound used in munitions production. The Army shared more details during a public meeting in Middletown in October, advising that a detonation was planned for an unspecified date in November.\n\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 20, 2026 01:00",
-    "published_at": "2026-11-20T01:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Nvidia Approaches Arm Boss Rene Haas In Search For New CEO",
-    "link": "https://slashdot.org/story/26/11/19/2212215/nvidia-approaches-arm-boss-rene-haas-in-search-for-new-ceo?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Nvidia has reportedly approached Arm CEO Rene Haas as it searches for a replacement for co-founder Jensen Huang, who resigned last week amid a personal scandal. According to Bloomberg, Haas is emerging as a leading contender for the job. The 64-year-old previously worked at Nvidia as general manager of its computing products business before joining Arm, giving him firsthand experience with the AI chip giant. The Guardian reports: Heidrick \u0026 Struggles, the recruiting firm hired by the company's board, has started contacting potential candidates, according to Bloomberg. It reported that Rene Haas, who joined Arm in 2013 and became chief executive in 2022, is among those approached. [...] Haas, 64, is viewed as the leading contender for the top job at Nvidia, having previously worked at the $3.6tn company for seven years as the general manager of its computing products.\n \nReports suggest that other potential candidates include: Ian Buck, an Nvidia vice-president; Lisa Su, AMD's chief executive; and Johny Srouji, Apple's chief hardware officer. Arm, which is listed in New York but retains its global headquarters in Cambridge, has about 500 users of its chip designs worldwide, including Nvidia, Apple, Samsung and Qualcomm. The company employs more than 7,000 staff, including more than 3,000 in the UK. It is the biggest tech firm headquartered in Britain, now valued at $196bn. Haas told a tech conference in Austin on Wednesday that Huang was \"a legend.\" \"What he built at Nvidia is historic,\" he said. \"You don't have many champions like that.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 19, 2026 23:00",
-    "published_at": "2026-11-19T23:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Linux 7.5 To Optionally Block /proc/kcore Access For Better Security",
-    "link": "https://www.phoronix.com/news/Linux-7.5-Restrict-proc-kcore",
-    "description": "A patch that is queued up ahead of the Linux 7.5 merge window allows for optionally disabling /proc/kcore access at boot time. This can allow for better system security though will remain enabled by default for kernel builds with the typical CONFIG_PROC_KCORE option...",
-    "guid": "https://www.phoronix.com/news/Linux-7.5-Restrict-proc-kcore",
-    "date": "Nov 19, 2026 22:03",
-    "published_at": "2026-11-19T22:03:06Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "PHP 8.6 Released with Partial Function Application, Polling API, and More",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369385",
-    "description": "Coming a year after PHP 8.5, the PHP 8.6 release introduces new features like Partial Function Application, which lets you pre-fill some of a function’s arguments and get back a Closure that accepts the rest, so the function is only called once the remaining arguments are provided.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369385",
-    "date": "Nov 19, 2026 21:12",
-    "published_at": "2026-11-19T21:12:05Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "LLVM Effectively Completes Its Relicensing After Nearly A Decade Of Work",
-    "link": "https://www.phoronix.com/news/LLVM-Re-Licensing-Complete",
-    "description": "Back around 2017 an effort began to work on re-licensing all of the LLVM code under the Apache 2.0 license with exceptions, moving away from their prior 3-clause BSD-like \"LLVM license\". Prior updates on the topic included LLVM Developers Are Still Working On Their Massive Relicensing Effort (2018) and then LLVM Is Still Working On Relicensing, Needs Help Locating Some Past Contributors (2021)... Now finally as we approach the end of 2026, this re-licensing effort has been deemed effectively complete...",
-    "guid": "https://www.phoronix.com/news/LLVM-Re-Licensing-Complete",
-    "date": "Nov 19, 2026 21:02",
-    "published_at": "2026-11-19T21:02:56Z",
     "source": "phoronix.com",
     "source_url": "https://www.phoronix.com/"
   }
