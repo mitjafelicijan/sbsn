@@ -1,5 +1,131 @@
 [
   {
+    "title": "Calibre 9.19 Adds Grammar Checking and Suggestions to the Book Editor",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369442",
+    "description": "The Calibre 9.19 release introduces grammar checking and suggestions for rewriting sentences to the e-book editor, improves detection of paragraphs, headings, and columns in the PDF input, and improves detection of files that are still being downloaded in auto-add.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369442",
+    "date": "Nov 22, 2026 02:52",
+    "published_at": "2026-11-22T02:52:41Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Several Waymo Self-Driving Cars Stalled in Traffic as San Francisco's Streets Flooded",
+    "link": "https://tech.slashdot.org/story/26/11/22/0016228/several-waymo-self-driving-cars-stalled-in-traffic-as-san-franciscos-streets-flooded?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "San Francisco's streets flooded this week after heavy rainfall — confusing several Waymo self-driving cars. The San Francisco blog Sfist describes what happened after the flooding in some places rose as high as three feet:\nTwo lanes of Oak Street by the Golden Gate Park Panhandle were flooded Wednesday morning, with water spouting out of manhole covers, leading to a traffic backup that was made worse by a Waymo that couldn't figure its way out of the situation. The Waymo vehicle came to a stop in front of the spouting water, blocking one of the only passable lanes and worsening the traffic situation, as seen in the video below that is going viral... [\"Other drivers had to veer into deeper water to weave around it,\" reports the San Francisco Chronicle.] \n\n\nElsewhere in the city, Waymo rider Edward Frazer posted the video below to X, also around 10:20 am, saying that he had been in a Waymo for an hour and a half trying to get from North Beach to Mission Bay, with the vehicle pulling over around 10 times as it encountered flooded streets. The video shows the Waymo on what appears to be Townsend Street near Adobe's headquarters, stalled as water puddles in front of it. \nWaymo subsequently suspended all service for the rest of the day. \n\nBut \"frozen robotaxis were already clogging San Francisco streets by the time Waymo decided to rein in the fleet,\" reports the San Francisco Chronicle:\n\n Rider Amy Gutierrez said her Waymo suddenly stopped on Fell Street at the intersection of Masonic Avenue, where rain was coursing into rivers. She contacted company support and was transferred to three specialists who tried to move the jammed vehicle. It took a half-hour of false starts before they managed to remotely maneuver it to the right lane. \"We were kind of just stuck there — cars were honking,\" she said, and other drivers were frustrated as traffic backed up. \"One person drove by smacking their window, like 'Get out of the way.'\" \nOr, as the New York Post puts it, \"Waymos spark terror as they trap drivers in rapidly rising floodwater as monster storm hits California city.\"\n\nWaymos have sparked chaos in San Francisco as they trapped passengers in cars despite rapidly rising floods. Multiple self-driving vehicles were paralyzed across the streets and left those inside frantically calling the company to help get them to safety.\nOne was trapped in the middle of a busy intersection when the car refused to go around an overflowing drain, leaving other drivers to go on the wrong side of the road to get around.... \n\nThe San Francisco Chronicle also remembers that last year's power blackout caused 1,600 Waymo vehicles to stall \"because they required a 'confirmation check' from a human operator before navigating stoplights after the power was cut. Hundreds of requests overwhelmed the system, leaving San Francisco streets full of paralyzed self-driving vehicles.\" \n\nThanks to Slashdot reader AzWa Snowbird for sharing the news.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 22, 2026 02:34",
+    "published_at": "2026-11-22T02:34:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Linux 7.4 To Remove NVMe Namespaces In Parallel For Faster Results",
+    "link": "https://www.phoronix.com/news/Linux-7.4-NVMe-NS-Parallel",
+    "description": "As part of this week's block subsystem fixes for the Linux 7.4-rc4 kernel release due out on Sunday are many bug fixes plus also a nice NVMe namespaces optimization...",
+    "guid": "https://www.phoronix.com/news/Linux-7.4-NVMe-NS-Parallel",
+    "date": "Nov 22, 2026 01:24",
+    "published_at": "2026-11-22T01:24:33Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Best Text Editors for Linux in 2026: CLI and GUI Options Compared",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369453",
+    "description": "Which Linux text editor is actually worth your time? 14 CLI and GUI editors compared, from Nano to Neovim to VS Code, with pros, cons, and a quick table.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369453",
+    "date": "Nov 22, 2026 00:04",
+    "published_at": "2026-11-22T00:04:48Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "US DOJ Charges Suspected Russian Agent for Stalking Palantir Employees in California",
+    "link": "https://news.slashdot.org/story/26/11/21/212248/us-doj-charges-suspected-russian-agent-for-stalking-palantir-employees-in-california?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "America's Justice Department is prosecuting a suspected foreign agent in \"a state-sponsored operation\" that targeted tech workers in Palo Alto, California. \"We will not tolerate any efforts — by foreign governments or otherwise — to turn Silicon Valley into a base for foreign intelligence operations,\" said U.S. Attorney Craig H. Missakian. \n\nThe alleged Russian agent was arrested in October for \"stalking and harassing employees of the software and AI firm Palantir, sources told ABC News, because of its assistance to Ukraine in its war with Russia.\"\n\n The indictment says D'iu traveled from Istanbul to Mexico City last June and was connected with a person who helped him illegally cross the southern U.S. border. Once in the U.S., he was instructed to purchase laptops, cellphones and remote access software that his co-conspirators used to help him in his alleged targeting of the company's employees. At one point, prosecutors say D'iu was directed by his co-conspirators to visit a coffee shop where many of the company's employees would work and try to identify them and take pictures of their screens while they were working... \n\nIn September, prosecutors say D'iu allegedly followed a female employee of the company in his vehicle for nearly 30 miles after she left the company's Palo Alto, California, office. Even as the employee attempted various maneuvers to evade him, D'iu aggressively sought to follow her until she ultimately phoned police and was instructed to drive to the San Francisco Police Department's Mission Station.\n \n\nThe nonprofit news site Palo Alto Online notes the government's affidavit \"identified at least two other instances in early September in which employees of the defense company reported being followed by a car matching the description of D'iu's silver Lexus SUV.\n\nThe coffee shops and other locations where D'iu stationed his laptop — sometimes for hours at a time — are in close proximity to the Palantir office in downtown Palo Alto... FBI agents executed a search warrant on Oct. 8 at D'iu's residence in East Palo Alto. There they found the California state ID, passport and Social Security card that were present in the DHL packages, as well as two Russian passports, $18,000 in cash and a notebook with 10 Palo Alto area addresses. Five of them correlate to the home addresses of employees at the unnamed Silicon Valley defense company. The agents also recovered three employee \"target package profiles\" that included their names, names of relatives, education and employment history, leadership qualities and a list of strengths and weaknesses. \n\nAfter searching D'iu's phone, the FBI found messages from a Telegram contact with photos of four employees and their addresses. D'iu was instructed to act like a food delivery driver and knock on their doors to verify if the employees did live at those addresses, according to the affidavit... \n\nIf convicted of all charges, D'iu could face a cumulative maximum sentence of 21 years in federal prison and $850,000 in fines.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 21, 2026 23:00",
+    "published_at": "2026-11-21T23:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "KDE Plasma 6.9 to Improve Performance, NVIDIA Efficiency, and CJK Input",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369449",
+    "description": "KDE Plasma 6.9 will improve KWin performance, reduce NVIDIA GPU power consumption, and add better Chinese, Japanese, and Korean text input.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369449",
+    "date": "Nov 21, 2026 22:33",
+    "published_at": "2026-11-21T22:33:02Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "59 Years Later, 'The Prisoner' is Getting a Second Remake - from Amazon Studios",
+    "link": "https://entertainment.slashdot.org/story/26/11/21/1956209/59-years-later-the-prisoner-is-getting-a-second-remake---from-amazon-studios?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "The Prisoner is getting a remake, reports ScreenRant. \"Amazon Studios is currently developing a new and modern twist on the short-lived series...\"\n\nITV only aired 17 episodes of the original Prisoner back in 1967 and 1968, but it did receive a nomination for Best Dramatic Presentation at the Hugo Awards. Reviews were overwhelmingly positive... The Prisoner, considered one of the greatest sci-fi fantasy TV shows of all time, currently holds a perfect score among critics on Rotten Tomatoes and a 93% with audiences. \n\nYou can watch all 17 original episodes on YouTube. And apparently the production team for the remake \"is apparently full of fans of the initial series,\" writes Inverse, citing an article from The Hollywood Reporter, \"and ITV, the British TV network, is on board as well, which lends a little credence to it.\" \n\nMore details on the remake from ScreenRant:\n Susan Montford, Don Murphy, Philippe Maigret, and Lucienne Papon have signed on as executive producers, but a showrunner has not been selected yet... Murphy has produced every single live-action Transformers movie, as well as the animated flick Transformers One. He also worked with Montford on Real Steel, Shoot 'Em Up, While She Was Out, and Vampire Academy... There have been attempts in the past to create a movie based on The Prisoner, with big names like Christopher Nolan, Ridley Scott, and Simon West all interested at various points, but nothing ever materialized... \n\nIt took 41 years after the end of The Prisoner for any remake to finally make it to air. The six-episode 2009 miniseries had a solid cast that included Ian McKellen... McKellen and cinematographer Florian Hoffmeister even scored Emmy nominations. Unfortunately, reviews weren't kind to the show, which has a very low 17% critic score and 41% audience score on Rotten Tomatoes. \nThanks to Slashdot reader joshuark for sharing the news.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 21, 2026 22:00",
+    "published_at": "2026-11-21T22:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Two FIDO2 Security Keys on Fedora Linux 45",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369406",
+    "description": "A follow-up on PIN and touch for encrypted storage and everyday authentication On my first day working with Fedora Linux 45, I wanted to see how far I could get without typing my account password during normal use. The goal was straightforward: use a physical FIDO2 security key, its PIN, and a touch to unlock…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369406",
+    "date": "Nov 21, 2026 21:09",
+    "published_at": "2026-11-21T21:09:44Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Toyota, Nissan, and Honda to Standardize Parts to Lower Costs",
+    "link": "https://tech.slashdot.org/story/26/11/21/0627227/toyota-nissan-and-honda-to-standardize-parts-to-lower-costs?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Car and Driver reports:\n\nJapan's three largest automakers have agreed to begin standardizing vehicle parts in an effort to reduce costs, according to Automotive News... \n\nIn the short term, the standardization efforts will begin with unified quality criteria for steel, consistent protocols for plastics and resins, and a universal color-coding scheme for wiring harnesses. In the long term, the Japan Automobile Manufacturers Association has plans to move to more components that cover the entire car... The push to simplify and lower costs comes as Japan's seven automakers, including Toyota, Nissan, Honda, Mazda, Subaru, Mitsubishi, and Suzuki, work to fend off the increasingly competitive list of Chinese automakers. \n\nLong-time Slashdot reader sinij asks a related question. \"Can we get a standard infotainment port/spec so we can have third-party market for this? Just like we used to have for stereo systems?\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 21, 2026 21:00",
+    "published_at": "2026-11-21T21:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Americans Enters Post-Penny World, Businesses Now Allowed to Round Cash Transactions to Nearest Nickel",
+    "link": "https://news.slashdot.org/story/26/11/21/0616258/americans-enters-post-penny-world-businesses-now-allowed-to-round-cash-transactions-to-nearest-nickel?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Friday U.S. President Trump \"signed the Common Cents Act, which now lets businesses round cash transactions to the nearest nickel, into law,\" reports CBS News:\n\nIt sets standards for cash transactions that businesses and consumers can use when exact change isn't available, as the penny is phased out. The legislation calls for cash transactions to be rounded up or down to the nearest 5 cents... Before its passage, businesses could be sued if they failed to give customers exact change, even when rounding up in a patron's favor. \nCBS includes this quote from an official NACS, an advocacy group for the convenience/fuel retailing industry. \"Retailers have been looking for federal guidance on processing cash transactions since penny production ended. \n\n NBC News points out that the U.S. Mint said it would still produce collector's versions of pennies in \"limited quantities,\" reporting on what has and hasn't changed now:\n\nThe penny can still be used as legal tender \"for all debts, public charges, taxes, and dues,\" according to the new law. The Treasury Department said last year that the Federal Reserve will continue to recirculate the approximately 114 billion pennies that are in existence \"for as long as possible....\" And, as the nickel replaces the penny at the bottom of the U.S. Mint's currency list, that coin can now be manufactured with an inner layer of zinc and an outer layer of nickel [according to the newly-signed law]. It is currently produced with nickel and copper, which costs more than zinc.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 21, 2026 20:00",
+    "published_at": "2026-11-21T20:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Agama Unattended installation remote Tumbleweed KVM Guests via multi-threaded Agama-ProxyV2.service on top of Tumbleweed Server",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369451",
+    "description": "Optimal Thread Performance via Tumbleweed's Upstream Kernel When your Python-based web server spawns a native OS thread to handle each incoming GET ./profile.json request Efficient Futex \u0026 GIL Release: Tumbleweed delivers the latest vanilla Linux kernels.These upstream kernels feature highly optimized scheduler implementations and fast user-space locking. Because your threads are primarily handling I/O operations (fetching profile.json and sending it over network sockets), the Python Global Interpreter Lock (GIL) is immediately released during network waits. The latest kernel maximizes the scheduling efficiency of these released threads across your raw CPU cores.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369451",
+    "date": "Nov 21, 2026 19:35",
+    "published_at": "2026-11-21T19:35:40Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Will AI-Fueled Cyberattacks Lead to Better Funding for Critical Open Source Projects?",
+    "link": "https://news.slashdot.org/story/26/11/21/0651203/will-ai-fueled-cyberattacks-lead-to-better-funding-for-critical-open-source-projects?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Remember that famous XKCD comic joking that all modern digital infrastructure rests on \"a project some random person in Nebraska has been thanklessly maintaining since 2003.\" \n\nPolitico Europe's cybersecurity reporter wonders if this recent spate of outages suggests that supporting block is coming loose? (Especially after Politico reported Thursday that internal services at EU institutions went offline after a major AI-fueled cyberattack.)\n\nAuthorities blame the sudden wave of instability on the capacity of new AI tools to detect vulnerabilities in existing code and for bad actors to exploit them... Interviews with more than a dozen cybersecurity leaders and those working on maintaining the internet show the scale of the challenge to keep the web up and running, in a world where the pace of finding vulnerabilities has rapidly and permanently accelerated. Since the web's early days, an unruly cast of idealist engineers and non-profit foundations have been essential for looking after decades-old critical code that's been used to build our digital world. This small army of largely volunteer coders now say they can't keep up with the power and pace of AI. \"We're running on fumes,\" said Robin Bender Ginn, executive director of the OpenJS Foundation, which looks after JavaScript, among the most widely used programming languages. \"It keeps me up at night.\" \n\n\nCybersecurity agencies around the world rang the alarm last month about major flaws detected in PHP, another critical coding language that underpins 70% of the web. This week, similar scares have spread over Java and NGINX, which also fuel large swathes of technology. Helmut Reisinger, the European chief executive of cybersecurity giant Palo Alto Networks, said in an interview that the company is seeing \"more or less\" ten times as many incidents compared to about four months ago. He predicts the constant drumbeat of attacks and scares in the last month is going to become the \"new norm....\" \n\n\nThe rise of AI models and their capabilities of finding software flaws is putting more pressure on open-source software engineers, who are inundated with reports of vulnerabilities — some of which are false or exaggerated. Reports of flaws discovered by AI are \"quite verbose,\" Ginn said. Juhan Lepassaar, the head of EU cyber agency ENISA, said in an interview that the agency has observed a similar pattern of false positives. \n\nWhile some hope the AI-fueled attacks \"will put the needs of open source software on the map and prompt an intervention,\" according to the article, \"many of those steeped in the ecosystem... have their doubts.\" \n\n\"I'm a bit pessimistic,\" says Nils Adermann, a PHP Foundation board member. \"I worry that people will just not care enough to actually do anything about it.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 21, 2026 19:00",
+    "published_at": "2026-11-21T19:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
     "title": "Planet News Roundup",
     "link": "https://lxer.com/module/newswire/ext_link.php?rid=369410",
     "description": "This is a roundup of articles from the openSUSE community listed on planet.opensuse.org. This community blog feed aggregator lists the featured highlights below from Nov. 13 - 19. This week highlights seven Tumbleweed snapshots for week 46 headlined by KDE Gear 26.08.3, Mesa 26.2.6, OpenSSH 10.6p2 and Linux Kernel 7.3.3,…",
@@ -82,6 +208,16 @@
     "published_at": "2026-11-21T15:51:35Z",
     "source": "phoronix.com",
     "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Fedora Incident Response Policy Drafted For Improving Workflow \u0026 Security Disclosures",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369427",
+    "description": "The Fedora Security Special Interest Group (SIG) drafted an Incident Response Policy for the Fedora project. This stems from shortcomings in the Fedora project brought to light during the XZ Utils security fiasco in their communications…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369427",
+    "date": "Nov 21, 2026 15:06",
+    "published_at": "2026-11-21T15:06:27Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
   },
   {
     "title": "Internet Archive Staffers Are Unionizing",
@@ -188,19 +324,9 @@
     "source_url": "https://itsfoss.com/"
   },
   {
-    "title": "Libreboot Abandons Anti-AI Policy After One Month",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369437",
-    "description": "Coreboot downstream Libreboot last month enacted an AI policy to forbid contributions made using AI/LLMs. Surprisingly, already, that anti-AI policy has been dropped with AI-based submissions now being permitted…",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369437",
-    "date": "Nov 21, 2026 07:42",
-    "published_at": "2026-11-21T07:42:37Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
     "title": "Anthropic Mathematician Claims to Prove Riemann Hypothesis",
     "link": "https://science.slashdot.org/story/26/11/21/028221/anthropic-mathematician-claims-to-prove-riemann-hypothesis?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Slashdot has been covering the Riemann Hypothesis for years. \n\n2000: Prove The Riemann Hypothesis And Make.Money.Fast \n2002: More on Riemann Hypothesis \n2008: Claimed Proof of Riemann Hypothesis \n2008: Prominent Mathematicians Rebuke Recent Riemann Hypothesis Proof \n\nAdd a new headline to the list... \n\n2026: Using AI, mathematician claims to have solved one of math's great mysteries \n\njoshuark shares a report from Scientific American: Levent Alpoge, a mathematician at Anthropic, has claimed to have solved the Riemann Hypothesis with the help of Anthropic's AI model Claude, but the proof is not yet independently verified and remains under scrutiny. [An AI-generated solution of the 167-year-old problem, long considered far out of reach to human mathematicians, would cap off the technology's year-long conquest of math in spectacular fashion.] The Riemann hypothesis was first proposed in 1859 by the mathematician Bernhard Riemann. It claims that the locations of the prime numbers along the number line, which appear random at first blush, are actually determined by an intricate, meaningful order.\n \n[...] Alpoge posted his Claude proof coded in the programming language Lean, which verifies the mathematical correctness of each argument. Issues can arise in Lean, but it shouldn't take long for experts to verify whether the hypothesis is properly coded, and if the proof is correct. If that happens, it will cap off a year in which AI's mathematical capabilities ascended from unreliable college student to a superhuman force, leaving no part of the discipline undisrupted. [...] Alpoge's statement is elegiac -- recognizing the sense of grief many mathematicians are feeling -- but also optimistic. \"It is natural to feel that this is an end, in my case a loss of a principal guiding light,\" he wrote, \"but what I saw during the course of progress so amazed me that I believe it is one dawn across science of something far greater.\" [...]\n \nThe Riemann result, if correct, will echo far beyond mathematics. It doesn't have any immediate real-world applications -- it won't upend global banking or make the internet run faster. But after a year of watching LLMs surpass one math benchmark after another, there is no more staggering achievement it could possibly reach. A machine may have just solved a problem that the smartest people on the planet all agreed they were nowhere close to figuring out. As MIT mathematician Andrew Sutherland once put it to me: \"An AI that can prove the Riemann hypothesis is not one I'd want to meet. If that happens, mathematicians having jobs will be the least of our problems.\"\n\"If the proof is correct and understood, this completes a dictionary between different branches of math where the connections were only partial,\" says Hector Pasten, a mathematician at the Pontifical Catholic University of Chile. \"Something like a Rosetta Stone.\"\n \n\"If true, even from a first high level scan of the summary of the proposed argument, it is very plausible to me that the new ideas in the proof will open up brand new avenues of thinking in number theory and have an immense impact beside the obviously extremely influential result in itself,\" added mathematician Carlo Pagano, a professor at Concordia University and a visiting researcher at Google DeepMind.\n \nIn a separate article from Scientific American, independent mathematicians say the AI-assisted proof is almost certainly valid. MIT mathematician Andrew Sutherland said the chance of anything being wrong was \"approximately zero\" after independently compiling and checking the code. However, researchers are still conducting final checks to ensure the proof accurately represents the original hypothesis and does not exploit any loopholes in Lean's verification system. \n\n\nBut did a human beat the AI? The Washington Post reports:\n\n\nJust hours after AlpÃgeâ(TM)s claim circulated on social media, Ravi Vakil, president of the American Mathematical Society and a professor at Stanford University, said in a hurried statement that mathematician Alessandro Masullo had a proposed proof of the Riemann hypothesis without AI several months earlier. The draft, which runs some 940 pages, is in need of significant revisions, Masullo said in a statement, and was not ready for publication. Online observers quickly noted that it contained omissions and apparent errors. \nBut in the introduction to the draft, he published a striking flag. \nâoeIf any message at all this work is meant to send to the mathematician who feels discouraged by the pace and tone of the current climate, it is this,â he wrote. âoeWe are still here. We are very much alive. We are not going anywhere.â\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "description": "Slashdot has been covering the Riemann Hypothesis for years. \n\n2000: Prove The Riemann Hypothesis And Make.Money.Fast \n2002: More on Riemann Hypothesis \n2008: Claimed Proof of Riemann Hypothesis \n2008: Prominent Mathematicians Rebuke Recent Riemann Hypothesis Proof \n\nAdd a new headline to the list... \n\n2026: Using AI, mathematician claims to have solved one of math's great mysteries \n\njoshuark shares a report from Scientific American: Levent Alpoge, a mathematician at Anthropic, has claimed to have solved the Riemann Hypothesis with the help of Anthropic's AI model Claude, but the proof is not yet independently verified and remains under scrutiny. [An AI-generated solution of the 167-year-old problem, long considered far out of reach to human mathematicians, would cap off the technology's year-long conquest of math in spectacular fashion.] The Riemann hypothesis was first proposed in 1859 by the mathematician Bernhard Riemann. It claims that the locations of the prime numbers along the number line, which appear random at first blush, are actually determined by an intricate, meaningful order.\n \n[...] Alpoge posted his Claude proof coded in the programming language Lean, which verifies the mathematical correctness of each argument. Issues can arise in Lean, but it shouldn't take long for experts to verify whether the hypothesis is properly coded, and if the proof is correct. If that happens, it will cap off a year in which AI's mathematical capabilities ascended from unreliable college student to a superhuman force, leaving no part of the discipline undisrupted. [...] Alpoge's statement is elegiac -- recognizing the sense of grief many mathematicians are feeling -- but also optimistic. \"It is natural to feel that this is an end, in my case a loss of a principal guiding light,\" he wrote, \"but what I saw during the course of progress so amazed me that I believe it is one dawn across science of something far greater.\" [...]\n \nThe Riemann result, if correct, will echo far beyond mathematics. It doesn't have any immediate real-world applications -- it won't upend global banking or make the internet run faster. But after a year of watching LLMs surpass one math benchmark after another, there is no more staggering achievement it could possibly reach. A machine may have just solved a problem that the smartest people on the planet all agreed they were nowhere close to figuring out. As MIT mathematician Andrew Sutherland once put it to me: \"An AI that can prove the Riemann hypothesis is not one I'd want to meet. If that happens, mathematicians having jobs will be the least of our problems.\"\n\"If the proof is correct and understood, this completes a dictionary between different branches of math where the connections were only partial,\" says Hector Pasten, a mathematician at the Pontifical Catholic University of Chile. \"Something like a Rosetta Stone.\"\n \n\"If true, even from a first high level scan of the summary of the proposed argument, it is very plausible to me that the new ideas in the proof will open up brand new avenues of thinking in number theory and have an immense impact beside the obviously extremely influential result in itself,\" added mathematician Carlo Pagano, a professor at Concordia University and a visiting researcher at Google DeepMind.\n \nIn a separate article from Scientific American, independent mathematicians say the AI-assisted proof is almost certainly valid. MIT mathematician Andrew Sutherland said the chance of anything being wrong was \"approximately zero\" after independently compiling and checking the code. However, researchers are still conducting final checks to ensure the proof accurately represents the original hypothesis and does not exploit any loopholes in Lean's verification system. \n\n\nBut did a human beat the AI? The Washington Post reports:\n\n\nJust hours after Alpoge's claim circulated on social media, Ravi Vakil, president of the American Mathematical Society and a professor at Stanford University, said in a hurried statement that mathematician Alessandro Masullo had a proposed proof of the Riemann hypothesis without AI several months earlier. The draft, which runs some 940 pages, is in need of significant revisions, Masullo said in a statement, and was not ready for publication. Online observers quickly noted that it contained omissions and apparent errors. \nBut in the introduction to the draft, he published a striking flag. \n\n\"If any message at all this work is meant to send to the mathematician who feels discouraged by the pace and tone of the current climate, it is this,\" he wrote. \"We are still here. We are very much alive. We are not going anywhere.\"\n\n\n\n\n\n\n\nRead more of this story at Slashdot.",
     "guid": "",
     "date": "Nov 21, 2026 07:00",
     "published_at": "2026-11-21T07:00:00Z",
@@ -302,17 +428,6 @@
     "source_url": "https://lxer.com/"
   },
   {
-    "title": "Trump Vows To Stop US Companies From Building Data Centers Abroad",
-    "link": "https://news.slashdot.org/story/26/11/20/2223202/trump-vows-to-stop-us-companies-from-building-data-centers-abroad?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Longtime Slashdot reader fahrbot-bot shares a report from CNBC: President Donald Trump on Friday said U.S. companies will be banned from building data centers in other countries and will face a \"tremendous tax\" penalty if they do so. \"We're going to fight very hard for the data centers,\" Trump said at a White House press conference before announcing the new policy -- which apparently came as news to his own staff. \"I don't know if that's a breaking story,\" Trump said. \"I haven't even said that to my people. But I'm telling them now they're here.\"\n \nInternational expansion represents a growth opportunity for the top cloud infrastructure providers, which want to serve clients from data centers that are nearby, sometimes to meet regulatory requirements. Trump said Friday, however, that if companies want to continue building the centers outside the U.S., \"they can, but we're going to put a tremendous tax on them.\" \"We have a lot of places that want them badly, and they're great places. They have energy, and they have everything. They're tremendous assets,\" Trump said.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 20, 2026 22:25",
-    "published_at": "2026-11-20T22:25:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
     "title": "Epic Games Launcher Preview now supported across Fedora, Ubuntu and Debian",
     "link": "https://www.gamingonlinux.com/2026/11/epic-games-launcher-preview-now-supported-across-fedora-ubuntu-and-debian/",
     "description": "The new Epic Games Launcher Preview has been updated again with fresh support for more Linux distributions.Read the full article on GamingOnLinux.",
@@ -324,227 +439,12 @@
     "source_url": "https://www.gamingonlinux.com/"
   },
   {
-    "title": "Anthropic Shares Tank After Huge IPO As the Nasdaq Erases 2026 Gains",
-    "link": "https://news.slashdot.org/story/26/11/20/1934244/anthropic-shares-tank-after-huge-ipo-as-the-nasdaq-erases-2026-gains?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "U.S. stocks extended their sell-off Friday as Anthropic shares plunged more than 11% on their second day of trading, despite the AI company's record-setting IPO a day earlier. The Nasdaq fell more than 3%, wiping out its gains for 2026, while the S\u0026P 500 dropped nearly 2% and joined the Dow in correction territory, down at least 10% from recent highs. NBC News reports: The S\u0026P 500 was trading nearly 2% lower as it headed for its worst losing week since April 2025, when President Donald Trump announced his \"Liberation Day\" tariffs, and is now 10% off from its most recent high, entering what's known as \"correction territory.\" Meanwhile, the tech-heavy Nasdaq Composite was off more than 3% and officially erasing all its previous gains in 2026. Other major AI-related names such as CoreWeave, Nvidia and Oracle also sold off. The six consecutive declining S\u0026P 500 sessions mark the index's longest losing streak since April 2024. A seventh losing day would make it the longest stretch since the pandemic slump in February 2020, according to Deutsche Bank.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 20, 2026 21:00",
-    "published_at": "2026-11-20T21:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
     "title": "GnuPG's GPGME Affected By Critical Security Bug In Turn Affecting Mail Clients, Flatpak",
     "link": "https://www.phoronix.com/news/GnuPG-GPGME-Critical",
     "description": "Werner Koch announced a late Friday afternoon \"critical security bug\" affecting GnuPG's GPGME library - GnuPG Made Easy. Unfortunately this in turn affects GPGME users like most email clients, most XMPP clients, Flatpak, Samba, and other software...",
     "guid": "https://www.phoronix.com/news/GnuPG-GPGME-Critical",
     "date": "Nov 20, 2026 20:46",
     "published_at": "2026-11-20T20:46:51Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Trump Admin Still Won't Let TP-Link Sell Routers In US",
-    "link": "https://yro.slashdot.org/story/26/11/20/1929255/trump-admin-still-wont-let-tp-link-sell-routers-in-us?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "An anonymous reader quotes a report from Ars Technica: TP-Link, which may be the top provider of wireless routers for US homes and small businesses, isn't allowed to sell its latest Wi-Fi routers in the US. The Trump administration imposed a sweeping ban on foreign-made consumer routers in March 2026, and TP-Link hasn't been able to obtain an exemption. The rules prevent the import or sale of all new router models that are manufactured, assembled, designed, or developed outside the US. The Trump administration has control over which router makers receive special permission to import and sell new products through a waiver-review process involving the Federal Communications Commission, the Department of Defense, and the Department of Homeland Security. While some of its competitors have obtained exemptions to the ban, TP-Link appears to be having a hard time making its case to government officials. Its routers approved before the March 2026 ban remain available for sale in the US, but its newly released Wi-Fi 8 routers cannot be imported or sold. Earlier this year, TP-Link announced plans to begin assembling routers in Mississippi as early as 2027, \"but convincing Trump officials that it is fully under US control is likely a difficult task,\" reports Ars. \"The government reviews of router makers' requests for waivers, formally called conditional approvals, are shrouded in secrecy.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 20, 2026 20:00",
-    "published_at": "2026-11-20T20:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Intel Preps Linux 7.5 Change To Better Handle Multiple GPUs With Lots Of VRAM",
-    "link": "https://www.phoronix.com/news/Linux-7.5-DRM-8TB-mmap",
-    "description": "A change set to land for the upcoming Linux 7.5 kernel cycle expands the mmap range size for GEM/TTM buffer objects in the kernel graphics drivers from 1TB to now up to 8TB...",
-    "guid": "https://www.phoronix.com/news/Linux-7.5-DRM-8TB-mmap",
-    "date": "Nov 20, 2026 19:41",
-    "published_at": "2026-11-20T19:41:29Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "California Issues Subpoena to Nvidia Over Chip Sales to China",
-    "link": "https://yro.slashdot.org/story/26/11/20/1755250/california-issues-subpoena-to-nvidia-over-chip-sales-to-china?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "California Attorney General Rob Bonta has issued subpoenas to Nvidia and former CEO Jensen Huang regarding reports that they misled investors about advanced AI chips potentially reaching China. \"The conduct of Nvidia and its former CEO raises bright red flags, including about the ways in which the company may have misled investors,\" Bonta said in a press release. \"My office is investigating whether Nvidia or Jensen Huang's actions resulted in China obtaining advanced chips or confidential information -- and if Nvidia misled investors and the public about this risk, in violation of the law.\" The probe follows Huang's resignation amid allegations involving a suspected Chinese spy and comes as the SEC reportedly conducts a similar investigation. The Hill reports: Bonta's office said the information obtained through the subpoenas will help it to determine if Nvidia, which is based in Santa Clara, Calif., violated state law through its alleged actions. \"Nvidia is in a messy, transnational situation but the underlying principle of our corporate securities law is clear: Companies cannot mislead their investors,\" Bonta continued.\n \n[...] Following the Huang scandal, the House Foreign Affairs Committee released documents Thursday showing the U.S. authorized the sale of nearly 900,000 Nvidia and AMD AI chips to Defense Department-designated Chinese military companies. An Nvidia spokesperson previously told The Hill, \"The review and licensing process spanned more than half a year, with approvals subject to strict conditions and limited volumes.\" \"Despite receiving some licenses, we have since stopped shipping H200s to China,\" the spokesperson added.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 20, 2026 19:00",
-    "published_at": "2026-11-20T19:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "White House Replaces Cyber Director After Tech Outages",
-    "link": "https://yro.slashdot.org/story/26/11/20/1739245/white-house-replaces-cyber-director-after-tech-outages?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "President Trump has named Pentagon Chief Information Officer Kirsten A. Davies as his new national cyber director, replacing Sean Cairncross amid a broader shakeup of the administration's cybersecurity and AI leadership. According to Axios, White House Chief of Staff Stephen Miller pushed for Cairncross' removal over concerns about his technical qualifications. From the report: \"Kirsten has the credentials to excel in this position and has already been Senate-confirmed,\" an administration official said. At the Pentagon, Davies has been the top adviser to Defense Secretary Pete Hegseth \"on all matters relating to information management, information technology, cybersecurity, and information assurance,\" according to her bio.\n \nBefore serving in the Trump administration, Davies worked for Unilever and \"led global cyber resilience for one of the world's largest consumer goods enterprises,\" her bio says. Davies' career also has included technology and cyber roles at Estee Lauder, Barclays-Africa Group, Hewlett Packard and Siemens. She founded the Institute for Cyber, a nonprofit organization dedicated to citizen safety and security in the digital universe. Trump is also filling other key cyber positions, notes Axios. \"His pick for the top job at the Cybersecurity and Infrastructure Security Agency, which helps defend federal civilian networks and critical infrastructure, Palantir executive Michael LoSapio, faced a combative confirmation hearing Thursday.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 20, 2026 18:00",
-    "published_at": "2026-11-20T18:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "AMD Contributes Integration For Content-Adaptive / Adaptive Backlight Modulation To GNOME",
-    "link": "https://www.phoronix.com/news/GNOME-AMD-Content-Adaptive",
-    "description": "Merged today to GNOME's Mutter compositor is support for the Adaptive Backlight Modulation (ABM) DRM/KMS connector property and a \"content-adaptive\" API. This GNOME desktop improvement was contributed by AMD as part of modern AMD Ryzen AI laptops supporting Adaptive Backlight Modulation...",
-    "guid": "https://www.phoronix.com/news/GNOME-AMD-Content-Adaptive",
-    "date": "Nov 20, 2026 17:52",
-    "published_at": "2026-11-20T17:52:31Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Google Is Putting AI Chats Right On the Homepage",
-    "link": "https://tech.slashdot.org/story/26/11/20/0138234/google-is-putting-ai-chats-right-on-the-homepage?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Google is rolling out a redesigned desktop homepage that adds a collapsible sidebar for accessing and continuing previous AI Mode searches. Google's vice president of product, Robby Stein, says the company is rolling out the option because \"people are coming to Search with more questions that aren't just one and done,\" adding that \"in testing, this sidebar made a big difference for making progress \u0026 continuing to explore the web.\" The Verge reports: It's yet another big change for Google's homepage, which has long presented you with a single bar to kick off your web search. The company brought its AI Mode button to its search bar last year, which opens up a chatbot-like search experience within Google. In May, Google updated its search box to accommodate longer queries and added AI-powered autocomplete.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 20, 2026 17:00",
-    "published_at": "2026-11-20T17:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Rust Coreutils 0.13 Reaches 96% GNU Compatibility",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369422",
-    "description": "Rust Coreutils 0.13 passes 96% of GNU compatibility tests, with faster utilities, safer file operations, and improved stability.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369422",
-    "date": "Nov 20, 2026 16:59",
-    "published_at": "2026-11-20T16:59:48Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "System76 Thelio Prime: A Petite But Performant AMD-Powered Linux PC",
-    "link": "https://www.phoronix.com/review/system76-thelio-prime",
-    "description": "After teasing the new System76 Thelio Prime last month, this week officially launched their redesigned Thelio Prime mini desktop PC. This AMD Ryzen 9000 series powered creation is quite small with an internal volume of just 9.78 liters but quite capable with up to the Ryzen 9 9900X being supported, AMD or NVIDIA discrete graphics options, up to 96GB of RAM, and up to 16TB of NVMe storage. I have been testing out the new Thelio Prime for the past few days so far and it's been stacking up as well as one of their best compact PCs yet.",
-    "guid": "https://www.phoronix.com/review/system76-thelio-prime",
-    "date": "Nov 20, 2026 16:38",
-    "published_at": "2026-11-20T16:38:02Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "[$] Bringing the Agama installer to openSUSE Tumbleweed",
-    "link": "https://lwn.net/Articles/1107830/",
-    "description": "The openSUSE Project has been working on\nthe Agama installer for four\nyears; it was the default installer for openSUSE Leap 16.0 when\nit was released in 2025, and has been adopted by other openSUSE flavors as\nwell. Now the project is gearing up to go all-in on Agama for Tumbleweed, the rolling-release\nedition that is meant to be where updates and new features land first. Even so,\nthe community has concerns about losing some of YaST's legacy functionality and\nthe impact on installing Tumbleweed on systems that have less RAM.",
-    "guid": "https://lwn.net/Articles/1107830/",
-    "date": "Nov 20, 2026 14:49",
-    "published_at": "2026-11-20T14:49:13Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "Fedora Incident Response Policy Drafted For Improving Workflow \u0026 Security Disclosures",
-    "link": "https://www.phoronix.com/news/Fedora-Incident-Response-Policy",
-    "description": "The Fedora Security Special Interest Group (SIG) drafted an Incident Response Policy for the Fedora project. This stems from shortcomings in the Fedora project brought to light during the XZ Utils security fiasco in their communications...",
-    "guid": "https://www.phoronix.com/news/Fedora-Incident-Response-Policy",
-    "date": "Nov 20, 2026 14:47",
-    "published_at": "2026-11-20T14:47:51Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Beyls: Wrapping up LLVM's relicensing effort",
-    "link": "https://lwn.net/Articles/1108818/",
-    "description": "Kristof Beyls has published\na summary to the LLVM discussion forum to announce that the project is\ndeclaring success and bringing its relicensing\neffort to a close after eight years.\n\n\nWe've been asking past contributors to relicense their work since 2018. New\ncontributions have come in under Apache-2.0 WITH LLVM-exception since January\n19, 2019. Code contributed before that date was under LLVM's earlier licenses\n(UIUC/NCSA, plus MIT for some runtime libraries), so we needed permission from\nits authors to move it over. [...]\n\nToday, more than 99.5% of all lines of code ever contributed to LLVM are\neither covered by the new license, too small for copyright to apply, or no\nlonger in the repository.\n\n\nRather than trying to \"chase the last tiny fraction forever\" LLVM is\nwinding up the effort. Any contributors with code contributed before January 19,\n2019 who have not signed a relicensing agreement and do not want their\ncontributions made available under Apache-2.0 with the LLVM-exception can still\nreach out to the project to ensure their code has the appropriate SPDX license\nidentifier.",
-    "guid": "https://lwn.net/Articles/1108818/",
-    "date": "Nov 20, 2026 14:35",
-    "published_at": "2026-11-20T14:35:24Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "Vim Classic 8.3.1 released",
-    "link": "https://lwn.net/Articles/1108817/",
-    "description": "Version\n8.3.1 of Vim Classic—a\nlong-term support fork of Vim maintained without LLM assistance—has been\nreleased.\n\n\nThis release includes applicable Vim patches up to Vim 8.2.3237, including\nnumerous bug fixes, minor features, and compatibility improvements for Vim\nplugins. This release also removes Python 2 support from Vim Classic.\n\n\nThe full list\nof changes in this release is available on sourcehut.\n\n",
-    "guid": "https://lwn.net/Articles/1108817/",
-    "date": "Nov 20, 2026 14:17",
-    "published_at": "2026-11-20T14:17:33Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "Security updates for Friday",
-    "link": "https://lwn.net/Articles/1108811/",
-    "description": "Security updates have been issued by AlmaLinux (bind9.18, bubblewrap, fence-agents, freerdp, grafana, grafana-pcp, gstreamer1-plugins-bad-free, jackson-core, jackson-databind, java-17-openjdk, java-21-openjdk, java-25-openjdk, kernel, kernel-rt, mysql8.4, mysql:8.4, qt5-qtbase, qt5-qtdeclarative, raptor2, resteasy, and sos), Debian (electrum, nginx, openjdk-17, pam-mysql, php8.2, and php8.4), Fedora (aws, bind9-next, blender, c-ares, composer, dr_libs, et, gh, incron, libaec, libfontenc, libXfont2, mtools, nebula, perl-Imager, perl-Text-JSCalendar, perl-Text-JSContact, php, python-loguru, python3.6, qpid-proton, roundcubemail, runc, and xen), Gentoo (nginx, PHP, and Ruby), Mageia (hplip), Oracle (.NET 10.0, .NET 11.0, .NET 8.0, .NET 9.0, bubblewrap, emacs, firefox, flatpak-builder, gcc, gimp, glibc, grafana, grafana-pcp, gstreamer1, gvfs, java-1.8.0-openjdk, java-17-openjdk, java-21-openjdk, java-25-openjdk, libssh2, mod_http2, perl-CGI, perl-DBI, perl-DBI:1.641, python3.9, rpm, squid, tesseract, thunderbird, tigervnc, util-linux, webkit2gtk3, and xdg-dbus-proxy), Red Hat (compat-openssl10, kernel, nginx, nginx:1.24, nginx:1.26, nodejs22, nodejs:22, openssl, python-urllib3, python3.12-urllib3, qt5-qtbase, and qt6-qtbase), Slackware (gnutls, perl, and php), SUSE (cifs-utils, elemental-operator, elemental-system-agent, elemental- toolkit, haproxy, java-11-openjdk, kernel, libXi, python-M2Crypto, python-oauthlib, rekor, and xen), and Ubuntu (kernel, linux, linux-aws, linux-aws-5.4, linux-azure, linux-bluefield, linux-fips, linux-gcp, linux-gcp-5.4, linux-gcp-fips, linux-hwe-5.4, linux-ibm, linux-ibm-5.4, linux-iot, linux-kvm, linux-oracle, linux-raspi, linux-raspi-5.4, linux-xilinx-zynqmp, linux, linux-aws, linux-aws-fips, linux-aws-hwe, linux-azure, linux-azure-4.15, linux-azure-fips, linux-fips, linux-gcp, linux-gcp-4.15, linux-gcp-fips, linux-hwe, linux-kvm, linux-oracle, linux, linux-aws, linux-aws-fips, linux-gcp, linux-gcp-6.8, linux-gke, linux-gkeop, linux-ibm, linux-ibm-6.8, linux-oracle-6.8, linux-vmware, linux, linux-aws, linux-fips, linux-kvm, linux-lts-xenial, linux, linux-aws, linux-gcp, linux-gcp-5.15, linux-gke, linux-gkeop, linux-ibm, linux-ibm-5.15, linux-oracle, linux, linux-aws, linux-gcp, linux-gcp-7.0, linux-gke, linux-ibm, linux-oem-7.0, linux-vmware, linux-aws-5.15, linux-aws-fips, linux-aws-fips, linux-kvm, linux-fips, linux-gcp-fips, linux-gcp-fips, linux-oracle, nginx, openjdk-17-crac, openjdk-21-crac, openjdk-25-crac, openjdk-8, pyjwt, and ruby3.3, ruby3.2, ruby3.0).",
-    "guid": "https://lwn.net/Articles/1108811/",
-    "date": "Nov 20, 2026 13:52",
-    "published_at": "2026-11-20T13:52:40Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "AMDXDNA Driver Reaches Version 1.0, Ryzen AI NPU10 \u0026 NPU11 Coming To Linux 7.5",
-    "link": "https://www.phoronix.com/news/AMDXDNA-1.0-Linux-Driver",
-    "description": "With the upcoming Linux 7.5 kernel, the AMDXDNA accelerator driver for supporting the Ryzen AI NPUs is declaring version 1.0...",
-    "guid": "https://www.phoronix.com/news/AMDXDNA-1.0-Linux-Driver",
-    "date": "Nov 20, 2026 13:16",
-    "published_at": "2026-11-20T13:16:40Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "PHP 8.6 Released With Partial Function Application, Other New Features",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369386",
-    "description": "Following today's PHP 8.2.36, PHP 8.3.37, PHP 8.4.28, and PHP 8.5.13 security releases to address multiple security issues, PHP 8.6.0 made its official debut today…",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369386",
-    "date": "Nov 20, 2026 13:01",
-    "published_at": "2026-11-20T13:01:21Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Rust Coreutils 0.13 Release Delivers More Performance, Better Compatibility",
-    "link": "https://www.phoronix.com/news/Rust-Coreutils-0.13",
-    "description": "Rust Coreutils 0.13 released today as the newest feature update to this Rust-based re-implementation of GNU Coreutils that is used by Ubuntu Linux and other platforms...",
-    "guid": "https://www.phoronix.com/news/Rust-Coreutils-0.13",
-    "date": "Nov 20, 2026 11:16",
-    "published_at": "2026-11-20T11:16:03Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "PostgreSQL 19 Released With More Performance Improvements",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369389",
-    "description": "After running weeks behind schedule due to PostgreSQL developers being overwhelmed by AI/LLM-led bug reports and security issues, PostgreSQL 19.0 managed to finally ship today…",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369389",
-    "date": "Nov 20, 2026 11:11",
-    "published_at": "2026-11-20T11:11:07Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Vulkan 1.4.369 Introduces New AMD Extension For Improving Ray-Tracing Performance",
-    "link": "https://www.phoronix.com/news/Vulkan-AMDX-Ray-Tracing-Struct",
-    "description": "Vulkan 1.4.369 is out today with a new, currently-experimental Vulkan API extension from AMD to help further enhance ray-tracing performance with modern games...",
-    "guid": "https://www.phoronix.com/news/Vulkan-AMDX-Ray-Tracing-Struct",
-    "date": "Nov 20, 2026 11:05",
-    "published_at": "2026-11-20T11:05:08Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Cloud Hypervisor 55 Released With AArch64 Nested Virtualization, Up To 990 ARM vCPUs",
-    "link": "https://www.phoronix.com/news/Cloud-Hypervisor-55",
-    "description": "Cloud Hypervisor 55.0 was released on Thursday for this security-minded, cloud-focused virtual machine monitor (VMM) written in Rust. While it started off as an Intel open-source project, it's expanded in scope over time and with more organizations contributing. With the new Cloud Hypervisor 55, a number of ARM improvements to note...",
-    "guid": "https://www.phoronix.com/news/Cloud-Hypervisor-55",
-    "date": "Nov 20, 2026 10:51",
-    "published_at": "2026-11-20T10:51:22Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Kwi Sees First Release As KDE's New Terminal Emulator",
-    "link": "https://www.phoronix.com/news/Kwi-Terminal-First-Release",
-    "description": "Over the past number of weeks Kwi has been in development as a new KDE terminal emulator. Kwi is built off the Ghostty library and delivering magnificent performance over the existing Konsole terminal emulator. Today marks the project's first release...",
-    "guid": "https://www.phoronix.com/news/Kwi-Terminal-First-Release",
-    "date": "Nov 20, 2026 10:41",
-    "published_at": "2026-11-20T10:41:17Z",
     "source": "phoronix.com",
     "source_url": "https://www.phoronix.com/"
   }
