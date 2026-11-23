@@ -1,0 +1,479 @@
+[
+  {
+    "title": "Ubuntu 27.04 daily builds are available to download",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369474",
+    "description": "If you plan to track development of Ubuntu 27.04 ‘Tenacious T-Rex’ up close, daily build images are now available for download. Daily builds are produced for the duration of a development cycle, right up until the final, stable release. They’re built from development code (obviously) and produced (almost) daily, so that anyone wanting to take part in testing changes can do so, more easily. No…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369474",
+    "date": "Nov 23, 2026 03:11",
+    "published_at": "2026-11-23T03:11:27Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Black Friday / End Of Year Special \u0026 The Unfortunate Ad Network Situation This Year",
+    "link": "https://www.phoronix.com/news/Black-Friday-Week-2026",
+    "description": "If you have enjoyed the more than 3,125+ news articles so far this year and 200+ Linux hardware reviews this calendar year with a lot of interesting content, running this week is the annual Phoronix Premium end-of-year / \"Black Friday\" promotion to help support the site while enjoying ad-free access, multi-page articles on a single page, and other benefits while helping Phoronix continue as it approaches its 23rd birthday next June. Unfortunately, this year has been the toughest yet...",
+    "guid": "https://www.phoronix.com/news/Black-Friday-Week-2026",
+    "date": "Nov 23, 2026 02:45",
+    "published_at": "2026-11-23T02:45:00Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "America's Shipping Ports Now Face Thousands of Cyberattacks Each Day",
+    "link": "https://news.slashdot.org/story/26/11/22/2339252/americas-shipping-ports-now-face-thousands-of-cyberattacks-each-day?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "\"A number of ports across the U.S. are reporting an onslaught of cyberattacks,\" reports The Hill, \"amid a growing number of AI-enabled attacks targeting notable infrastructure.\"\n\n\nThe Port of Corpus Christi, Texas, which functions as the U.S.'s largest passage of oil exports, said it was targeted with \"hundreds if not thousands\" of attacks per day, according to reporting from the Financial Times. The port's chief executive, Kent Britton, told the outlet that attacks surged from \"known bad actor\" countries and organizations that are searching for high-profile targets. [\"Experts link countries like Iran, North Korea and China to hacking operations targeting shipping infrastructure,\" the Financial Times reports.] The attacks against Corpus Christi's port went after its computer systems by attempting to find weaknesses. Attackers also sent phishing messages, posing as senior executives, to trick staff into allowing them access, per the Financial Times... \n\n\"They're poking at our systems and trying to find vulnerabilities,\" Britton said. \"With AI, it'll only get more complicated.\" He stated the port was seeking additional help from Washington but \"if you're playing defence, you have to get it right every time ... if you're planning offence, you only have to get it right once.\" \n\nThe Port of Los Angeles — the country's busiest port — similarly stated that in August it had stopped 120 million attempted attacks into its networks through network exploitation, credential harvesting and malware attacks, Bloomberg reported. Gene Seroka, executive director of the Port of Los Angeles, expressed that all potential attackers \"have to do is to get it right one time\" and that it was \"front of mind every day.\" \n\"The attacks have escalated sharply in recent months...\" reports the Financial Times, \"exposing vulnerabilities in the ageing networks that enable international commerce.\"\n\n\nThe FBI last week warned that hackers are using an AI tool named Artex to automate cyber attacks... The threat is growing across the US. The US Coast Guard reported a 17% increase in cyber maritime incidents last year and investigated cyber attacks on two US-bound oil tankers in August with the FBI... The agencies said the joint offshore security boardings on August 21 and 24 were to \"ensure integrity of the vessel's operational and information technology systems following indications that the networks of both vessels were compromised\"... \n\nPorts are taking action to defend their waterways. The Port of Virginia, a major hub for consumer goods, agriculture and coal, said the threat of attacks is now \"more acute because of the rise of AI\". It is heavily investing in its cyber security team, with employees undergoing monthly training and drills with the US Coast Guard.... The Port Authority of New York and New Jersey is also investing heavily in cyber defence. A spokesperson said it has \"multiple independent layers of protection\" and \"recovery plans with terminal operators and partners, so that critical operations can continue and cargo can keep moving\". Other ports are reluctant to discuss the threat they face — and their defences. The Port of Oakland said it would not publicly discuss its \"cyber security defences or protective measures\", citing national security concerns. \n\nThe article notes it's not just affecting U.S. ports. \"Cybersecurity company Shieldworkz said Russia's Noname057(16) threatened European operators this October...\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 23, 2026 02:34",
+    "published_at": "2026-11-23T02:34:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "KaOS 2026.11 Drops KDE Plasma and Qt 5, Moves Forward with Niri",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369476",
+    "description": "KaOS 2026.11 removes KDE Plasma and Qt 5, adopting Niri and Noctalia while continuing its transition away from systemd.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369476",
+    "date": "Nov 23, 2026 01:20",
+    "published_at": "2026-11-23T01:20:21Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Kernel prepatch 7.4-rc4",
+    "link": "https://lwn.net/Articles/1108900/",
+    "description": "The 7.4-rc4 kernel is out for testing. Linus\nsaid: \"It's huge. What a surprise. Lots of little fixes all over, with\ndrivers being pretty exactly half of it (gpu and networking showing up\nas usual, but there's usb, iio, nvme, sound.. you name it).\"\n\n",
+    "guid": "https://lwn.net/Articles/1108900/",
+    "date": "Nov 23, 2026 00:32",
+    "published_at": "2026-11-23T00:32:07Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "Omarchy 4.5 Tutorial From Install to Daily Use",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369479",
+    "description": "A step-by-step guide to Omarchy 4.5: the USB flash drive, BIOS settings, disk encryption, first boot, main keyboard shortcuts, apps, themes, updates, and snapshots.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369479",
+    "date": "Nov 22, 2026 23:31",
+    "published_at": "2026-11-22T23:31:02Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Have Investors Lost Their Faith in the AI Boom?",
+    "link": "https://slashdot.org/story/26/11/22/2257249/have-investors-lost-their-faith-in-the-ai-boom?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "\"A yearslong AI boom showed signs of unraveling this week in spectacular fashion,\" writes NPR, adding that \"investors now fear that a potential bubble in the sector could be bursting, which could spark wider financial repercussions.\" \n\nWhile the world embraced the AI boom ,\"now many are having regrets,\" argues a Washington Post technology reporter:\n\n\nThe AI boom's key ingredient has always been faith — that more money can be found to pay for it, that AI will keep rapidly improving, that the masses will come to love it, that business productivity and profits from AI are just around the corner. Faith is now in short supply... \n\nBy mid-year, AI executives started to say that business customers were balking at the high prices charged by providers of cutting edge or \"frontier\" AI like Anthropic. Many businesses began to save money by hopscotching among a range of AI technologies, including low-priced options from Chinese companies... Investors began to rebel, too, against the trillions of dollars that AI companies are spending to construct data centers and provide them with computing equipment and electricity. Last month, Google's stock market value dropped by half a trillion dollars in a single day, when it seemed like even the rich technology leader would take longer than expected to see an AI financial payoff. \n\nSuch stumbles by AI companies eroded faith in AI, said Howard Marks, an investor famous for predicting the dot-com bust. \"It somewhat burst the bubble of infallibility,\" Marks told Bloomberg TV this month. Like many AI companies, Anthropic can't afford to cover its AI development costs. The company said it will keep coming back to investors for cash and needs a steady stream of customers to pay the $900 billion it owes in coming decades. \n\nPerhaps the biggest wild card for the AI boom is growing public resentment toward AI and data centers and widening fears of AI-enabled cyberattacks, human deaths and widespread job losses. In this month's midterm elections, Americans voted in a wave of elected officials who have been skeptical of the AI industry and construction of data centers. The results could slow the AI boom that's already hitting major bottlenecks, including difficulty lining up enough electricity to expand AI computer capacity... Diane Swonk, chief economist at the accounting firm KPMG, isn't surprised that the public is uneasy about AI. During the dot-com boom, she said that Americans' wages rose alongside corporate profits and U.S. inequality narrowed. By contrast the AI boom's economic and prosperity payoff has been uneven.\n\n \n\n\"Some people fear that the AI sector could be in the middle of a bubble that is bursting,\" writes NPR, \"just like tech stocks did during the dot-com bust of 2000...\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 22, 2026 23:24",
+    "published_at": "2026-11-22T23:24:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Linux 7.4-rc4 Released: \"It's Huge. What A Surprise.\"",
+    "link": "https://www.phoronix.com/news/Linux-7.4-rc4-Released",
+    "description": "Linux 7.4-rc4 is out today as the newest weekly test candidate for Linux 7.4. Continuing to be fueled by AI/LLM generated bug reports and patches, the Linux 7.4 cycle remains quite active...",
+    "guid": "https://www.phoronix.com/news/Linux-7.4-rc4-Released",
+    "date": "Nov 22, 2026 23:13",
+    "published_at": "2026-11-22T23:13:30Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Sellers are Closing Etsy Stores in Response to Its New AI Training Policy",
+    "link": "https://slashdot.org/story/26/11/22/2221256/sellers-are-closing-etsy-stores-in-response-to-its-new-ai-training-policy?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "\"I burned my Etsy shop to the ground this week,\" illustrator Aaron Millard posted on Instagram:\n 8 years, 11,200 sales, 3k+ reviews, hundreds in a customer base. Deleted. \n\nEtsy decided that selling on their platform now means letting them train AI on our artwork AND resell that data to third parties, with no way to opt out (in Canada, anyways)...\n \nEtsy's new Terms of Use — going into effect December 15 — include this language in their section about \"Your Content\":\nYou also recognize our legitimate interest in using it... This also includes the right for us and our third party partners and vendors to use Your Content to develop, train, test and improve artificial intelligence and machine learning technologies, including to improve the Services and/or help keep them safe, subject to any applicable opt-out rights described in our Privacy Policy. \n\n\"My work took years to learn and create,\" illustrator Millard wrote on Instagram. \"I won't let it be stolen. It's not free fuel for an AI slop business model.\" \n\nFollowing Etsy's announcement \"artists are shutting down their shops in droves,\" writes Cartoon Brew, \"and posting illustrated goodbye notes to tell customers where to find them next.\"\n\nIronically, just weeks ago, Etsy announced tighter rules on misleading AI product photos and bot-generated listings. The marketplace still allows sellers to list work generated from their own prompts, as long as they disclose the use of AI to buyers. \nEtsy says it uses sellers' content to spot fraud and help shoppers find products, and that it doesn't train models designed to copy artists' work. That said, the vague terms leave open just how its partners and vendors might use that same content...\nThe artists posting their goodbyes have decided it's worth walking away from that revenue source to keep their work from being used to train AI.\n \n\n\n\"In the wake of that reaction, Etsy vice president of customer operations James Ossman posted a separate update,\" writes PC Gamer, \"saying it's not really like that at all... [T]hat 'we do not use your content to train AI models designed to copy your original work or replace your creativity.'\"\n\n\"... we're enabling actions like translating your listing descriptions so buyers around the world can discover your items, or featuring your listing photos in Etsy marketing campaigns to showcase your creative work,\" Ossman wrote. \"We also use your content to develop tools that make running your shop easier, like listing optimization tools or stats summaries that help you better understand your shop's performance. As always, your needs and feedback help guide how we build and improve these tools.\" \n\nAs for providing third-party access to that content, Ossman said that too is for \"services and tools that can help you run your business,\" and promised that \"when we partner with third parties, we do so thoughtfully to help protect your content and data.\" \n\nThat hasn't satisfied everyone. Ossman's commitment doesn't exist within the actual terms of service, which as seen above states only that Etsy and partners can \"use Your Content to develop, train, test and improve artificial intelligence and machine learning technologies.\" Ossman also noted in his update that the terms \"prohibit scraping Etsy or unauthorized use of content from Etsy to train AI models,\" but that (as far as I can tell) applies to Etsy users and unauthorized third-parties, not Etsy itself or those it licenses... \n\nOthers also complain that AI training should be opt-in rather than on by default — and worse, there's apparently no opt-out option available at all, so users who are opposed to having their work used for AI training for any reason are out of luck. \n\nIronically, the blowup over Etsy's embrace of AI training comes just weeks after it earned plaudits for banning AI-generated recipes and patterns, a move Ossman said was necessary to establish \"trust\" in the platform.\n\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 22, 2026 22:24",
+    "published_at": "2026-11-22T22:24:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "15 years of long term support for bare metal automation with MAAS",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369464",
+    "description": "Building modern AI supercomputing clusters, deploying 5G telecommunications networks, or operating High Performance Computing (HPC) data centers requires significant capital investment (CapEx). These investments are planned with a long-term horizon in mind, and the infrastructure management platforms supporting them often need to operate across multiple hardware generations. However, the software…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369464",
+    "date": "Nov 22, 2026 21:45",
+    "published_at": "2026-11-22T21:45:10Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "The New 'Riemann Hypothesis' Proof Has Been Confirmed in Mathlib/Lean Communities",
+    "link": "https://science.slashdot.org/story/26/11/22/2031237/the-new-riemann-hypothesis-proof-has-been-confirmed-in-mathliblean-communities?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "\"Experts say the claim checks out,\" reports the Guardian. \n\n\"We have full confidence that Alpöge's proof of the Riemann Hypothesis is correct, and we congratulate him on this achievement,\" reads Saturday's announcement on the Lean prover community blog:\n\nThe codebase depends directly only on Mathlib. Over the past day, the Lean and Mathlib communities have rallied to verify the proof's correctness. We hereby certify that both the statement and the proof of the Riemann Hypothesis are correct... \n\n[Besides checking the code] The exported raw proof has been checked by several proof checkers, including Lean's official kernel, the con-leche and con-ron checkers, and several independent checkers contributed by third parties and implemented in different programming languages. The checkers con-leche and con-ron come with a formal proof, relative to set theory, that they cannot accept a false proof, thus addressing concerns that Lean's logic itself might have flaws that the proof could exploit... \nWe look forward to all the activity in the mathematical community that will help explain the new ideas in this proof. \n\n\"The proof evidently marks another breakthrough in the use of AI for complicated math problems,\" writes the Guardian, \"even as mathematicians express uneasiness around extremely lucrative private companies dishing out millions of dollars for the technology to solve problems.\"\n\n\"Claude and I have had a great time together with such breadth in recent months, but this time Claude far outpaced me near the finish line,\" Alpöge wrote, while anthropomorphizing the AI software. \"No, Claude flew, and danced, and sparkled near that finish line.\" \n\nScientific American captured more mixed reactions Friday:\n\nAs Massachusetts Institute of Technology mathematician Andrew Sutherland once put it to me: \"An AI that can prove the Riemann hypothesis is not one I'd want to meet. If that happens, mathematicians having jobs will be the least of our problems.\" \n\n\"This is indeed an historic moment,\" Sutherland tells me today after he had independently compiled Alpöge's result in Lean. \"The world has changed.... I know there will be a wide range of reactions in our community, but to me this is a human triumph, and a day for celebration.\" Sutherland says that it's worth celebrating the human work behind the development of Lean and LLMs — and, for that matter, the millennia of mathematical achievements upon which today's advance rests. But processing the earthshaking reality of what has occurred \"is going to take some time.\" \n\n\"There is much work to be done to understand the mathematical details of the proof,\" he says. \"And I can't wait to dig into them. But perhaps the single most important step in the proof was building a machine that can think.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 22, 2026 20:51",
+    "published_at": "2026-11-22T20:51:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "CachyOS November 2026 Release Adds Easy Anti-Cheat Support, Recovery Tool",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369470",
+    "description": "CachyOS November 2026 adds Easy Anti-Cheat support, a revamped package installer, and a new recovery environment for broken systems.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369470",
+    "date": "Nov 22, 2026 19:55",
+    "published_at": "2026-11-22T19:55:17Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Microsoft Admits Some Emails Bounced During Global Outlook Outage, Reveals New Failures",
+    "link": "https://tech.slashdot.org/story/26/11/22/1949204/microsoft-admits-some-emails-bounced-during-global-outlook-outage-reveals-new-failures?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "After millions lost access to Microsoft 365 services (including Outlook) on November 12, Microsoft \"has published the final post-incident report,\" writes Neowin, \"and it reveals that some emails were never delivered to their intended recipients.\" \n\n\"The report also details previously undisclosed failures affecting Microsoft's email security features...\"\n Microsoft confirmed that all queued enterprise emails were eventually delivered and that it found no enterprise messages that were permanently lost. However, it is not the same with Outlook consumer users. The company acknowledged that some delayed messages destined for consumer mailboxes that had been inactive for more than 30 days expired, and senders received non-delivery reports. Microsoft did not reveal how many emails were affected or how many users received non-delivery reports. \nThe final report also reveals that the outage disrupted several important email security capabilities in Microsoft Defender for Office. For example, the Zero-hour auto purge (ZAP) feature, which automatically removes malicious emails after delivery, was delayed because updated threat intelligence was unavailable. This means affected messages may not have been removed as quickly as usual. Microsoft also confirmed that users experienced problems opening URLs protected by Safe Links. Depending on their organization's security policies, some users may have encountered a \"Skip verification\" option when Safe Links attempted to check a URL... \n\n\n\nMicrosoft also acknowledged that its first customer notification arrived approximately 20 minutes after the widespread impact began. It plans to improve automated outage notifications by the end of 2026 to improve communication. \n\n\"Microsoft eventually restored the services about 12 hours later...\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 22, 2026 19:51",
+    "published_at": "2026-11-22T19:51:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Climate Change Talks Fall Apart In Final Hours Over Fossil Fuels",
+    "link": "https://news.slashdot.org/story/26/11/22/1838218/climate-change-talks-fall-apart-in-final-hours-over-fossil-fuels?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "NPR reports international climate talks \"broke down in overtime hours, over the main cause of planetary warming — fossil fuels.\" \n\nAt Sunday's U.N. climate summit, \"nearly 200 countries failed to reach an agreement on whether they should move away from energy sources like coal and natural gas.\"\n\nThe talks ended in a dramatic fashion, with the European Union negotiators saying they could not agree to a final agreement without mentioning the transition away from fossil fuels — the primary driver of climate change. The EU bloc then walked out of the room... \n\nAfter representatives of the EU walked out, other countries also objected — including Panama and island states such as the Marshall Islands. The European climate chief, Wopke Hoekstra, said that when the world is heading for an overshoot of 1.5 degrees, the EU could not tolerate an agreement that does not mention fossil fuels. \"That is not acceptable,\" Hoekstra told reporters after walking out of the talks. \"We do that with a heavy heart with many other countries, but we simply cannot accept this.\" \n\n\"Burning fossil fuels like oil, gas and coal make up roughly 73% of global emissions,\" the article notes, adding this is the first U.N. climate summit with a scientific consensus that the planet has already warmed past the threshhold countries agreed not to pass in 2015 of 1.5 degrees Celsius (2.7 degrees Fahrenheit).\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 22, 2026 18:41",
+    "published_at": "2026-11-22T18:41:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "RK3576 compute module has 6 TOPS NPU and dual GbE carrier board",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369473",
+    "description": "The DshanPi-A1 CM5 is a compact compute module developed by 100ASK and Vanxoak, featuring Rockchip’s RK3576J octa-core processor and a 6 TOPS neural processing unit. Measuring 55 × 40mm, the module supports dual Gigabit Ethernet, multimedia processing, and industrial interfaces for embedded Linux applications. The module follows the original DshanPi-A1 single-board computer, which LinuxGizmos…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369473",
+    "date": "Nov 22, 2026 18:25",
+    "published_at": "2026-11-22T18:25:56Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "AMD Preps More Graphics Driver Fixes For Linux 7.5, More DCN6 Enablement",
+    "link": "https://www.phoronix.com/news/AMDGPU-More-DCN6-Linux-7.5",
+    "description": "This week AMD sent out their latest batch of AMDGPU kernel graphics driver and AMDKFD kernel compute driver updates of work slated to land with the upcoming Linux 7.5 merge window...",
+    "guid": "https://www.phoronix.com/news/AMDGPU-More-DCN6-Linux-7.5",
+    "date": "Nov 22, 2026 17:40",
+    "published_at": "2026-11-22T17:40:25Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "How Does GTA 6 Depict Electric Cars?",
+    "link": "https://games.slashdot.org/story/26/11/22/0457218/how-does-gta-6-depict-electric-cars?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Grand Theft Auto 6 as seen by the EV news site Electrek:\n\n \nGTA works as a mirror. In 2013, the EV was a punchline: a Tesla parody that overheated if you drove it too fast. In 2026, it's just another car in Vice City traffic, and the joke is on the guy in the pickup parked in the charging stall. \nThat's a good sign of where EVs actually are. Satire goes after what's common, and Rockstar decided EVs are common enough to be part of everyday Leonida, more so in the city than in the Keys, just like real life. And that message is reaching a huge audience... Tens of millions of people are now driving EVs that charge as fast and as cheaply as gas cars, with no range anxiety. No automaker ad campaign gets close to that. \n\nThey point out GTA 6 is \"the first mainline GTA where energy matters.\"\nGas cars burn fuel and need a pump, and EVs have a battery level and need a plug. Rockstar could have used that to make EVs a pain. It didn't. In my testing, the EVs have about the same range as the gas cars, charge just as fast as a fill-up, and cost the same or less to top up. \n\nKotaku's range test backs that up. On the same highway loop, a Tesla Model 3 lookalike lasted 20 minutes and 23 seconds on a charge, longer than the Banshee sports car at 18 minutes and 31 seconds, and not far off an old pickup at 29 minutes and 8 seconds. Crossing the whole map by highway takes under 15 minutes, according to Kotaku. And finding a charger isn't a problem. Wccftech counted 120 EV chargers marked on the map, against just 57 gas stations... \n\nGTA has always been a parody of American life. With EVs, it's now slightly ahead of it. Florida is one of the strongest EV markets in the country, with a 9.4% share of new passenger vehicle sales in Q2 2026 versus 7.4% nationally, according to the Southern Alliance for Clean Energy.. But real Florida still has roughly three gas stations for every public charging location, based on the Alliance for Automotive Innovation's count of 3,267 charging locations and xMap's count of more than 10,500 gas stations. Leonida flips that ratio. \nGTA 6's Vice City has public fast chargers — branded \"ReVolt America,\" which Electrek calls \"an obvious copy of Electrify America's stations.\" And Electrek also spotted a giant charging hub at a power plant \"with dozens of stalls and several EVs plugged in.\" \n\nThere's even EV chargers being blocked by gas-powered cars, a phenomenon Electrek first covered in 2019\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 22, 2026 17:34",
+    "published_at": "2026-11-22T17:34:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "9to5Linux Weekly Roundup: November 22nd, 2026",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369468",
+    "description": "The 319th installment of the 9to5Linux Weekly Roundup is here for the week ending November 22nd, 2026, keeping you updated on the most important developments in the Linux world.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369468",
+    "date": "Nov 22, 2026 16:49",
+    "published_at": "2026-11-22T16:49:18Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Python Devs Document 'De-fanging Dangerous Triggers In GitHub Actions'",
+    "link": "https://it.slashdot.org/story/26/11/22/0625233/python-devs-document-de-fanging-dangerous-triggers-in-github-actions?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "\"A handful of GitHub Actions triggers let a stranger on the internet start a workflow that may have access to your secrets,\" warn two security developers at the Python Software Foundation.\n\n\n\nHave dangerous triggers caused real incidents? Yes, repeatedly... The maintainers behind these projects weren't careless. These triggers look harmless in a workflow file, and the unsafe version is one line away from the safe one... \n\nWhen someone opens a pull request from a fork, the pull_request trigger runs their code with a read-only token and no secrets. That's the safe one. pull_request_target looks almost the same in a workflow file and behaves very differently. It runs with a read/write token and access to your repository and organization secrets. GitHub built it for chores like labeling pull requests from forks, where the workflow never touches the contributor's code. The trouble starts when a workflow checks out the pull request and runs it anyway... Anyone with a GitHub account can open that pull request. Their code now runs with your credentials. This is called a \"pwn request\", and GitHub's docs describe it as the root cause of multiple supply-chain compromises. \n\nThe issue_comment trigger carries the same risk. This trigger fires when anyone comments on an issue or pull request, and the workflow runs with the repository's token and secrets... Sometimes the workflow pastes the comment text into a templated shell command, and the comment turns out to inject different instructions into the workflow shell.\n\n \n\n\n\nPython's official security developer in residence Seth Larson joined PyPI safety/security engineer Mike Fiedler\nto remove these dangerous trigger, also applying the policies Python Software Foundation-stewarded GitHub organizations (psf, python, and pypi). \"They also wrote up technical documentation on how to roll these policies out to your own projects and organizations. \n\n\n\"On a GitHub Team or Enterprise plan, you can turn them off for every repository in your organization with one policy. On a Free plan, you can do it one repository at a time. Set the policy up, check what it would block, then enforce it.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 22, 2026 16:34",
+    "published_at": "2026-11-22T16:34:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Ask Slashdot: Should an Indie Game Developer Outsource Their Art?",
+    "link": "https://games.slashdot.org/story/26/11/21/231233/ask-slashdot-should-an-indie-game-developer-outsource-their-art?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Slashdot reader MillerMark has been working on his own small indie game \"for about eight months now. And the art side is honestly killing me...\"\n\n I can draw basic stuff, but nothing close to what I had in mind when I started this project. Is it even worth outsourcing 2D character and environment art at this stage, or should I just push through and do it myself? \n\nHe's \"looking for advice from people who've actually dealt with this\" to share their stories in the comments. And Slashdot reader AlexKrav says \"Outsourcing saved my project honestly... Quality held from first asset to last. If your vision is clear but the execution is not there yet, handing it off is the right call.\" Someone on a thread had suggested game art studios specializing in 3D and 2D game art, and he'd discovered there were lots of choices — 2D Game Art service, VSQUAD Studio. \n\nI've also successfully hired digital artists through freelancing platforms likes Upwork. Any Slashdot readers want to share their own experiences in hiring artists? Leave your stories and opinions in the comments. \n\nShould an indie game developer outsource their art?\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 22, 2026 15:34",
+    "published_at": "2026-11-22T15:34:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Libreboot's AI Slop Reduction Policy",
+    "link": "https://lxer.com/module/newswire/view/369465/index.html",
+    "description": "AI is the single greatest existential threat to the free software movement. It eradicates entirely the very social fabric upon which free software development is done, namely the human-led communities that define our movement; human-based knowledge will, if people rely heavily on AI, completely evaporate over time as a result of human deskilling. AI chatbots are also highly proprietary, even if you run local models as the training is still done in a non-transparent way. AI threatens the integrity of free software hosting as it performs literal DDoS attacks on websites just to get a little bit more data. Like the junkie who needs his next fix, AI is hungry for more. AI is owned and operated by a small consortium of troublesome individuals... Free software maintainers are being burned out by the sheer volume of nonsense as AI bots spam their bug trackers day and night, sending nonsensical code patches and generally wasting everyone's time. Yet so many people are using it now. This article is a copy of LIbreboot's battle cry against the scourge that is generative AI; the AI Slop Reduction Policy. Yes.",
+    "guid": "https://lxer.com/module/newswire/view/369465/index.html",
+    "date": "Nov 22, 2026 15:22",
+    "published_at": "2026-11-22T15:22:24Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Your Linux Laptop Won't Suspend? Here's What You Can Do",
+    "link": "https://feed.itsfoss.com/link/24361/17537621/linux-laptop-suspend-inhibitor-lock",
+    "description": "When a Linux laptop refuses to sleep, the first instinct should be to check what's stopping it. Here's a troubleshoot guide for your reference.",
+    "guid": "6b027b73070f240001243456",
+    "date": "Nov 22, 2026 13:44",
+    "published_at": "2026-11-22T13:44:00Z",
+    "image": "https://itsfoss.com/content/images/2026/11/linux-laptop-wont-suspend-1.webp",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "DietPi 10.9 Released with Support for Five New Single-Board Computers",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369458",
+    "description": "DietPi 10.9 adds support for new Odroid and Orange Pi boards, expands its software catalog, and improves Raspberry Pi management.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369458",
+    "date": "Nov 22, 2026 13:39",
+    "published_at": "2026-11-22T13:39:15Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "CachyOS November 2026 Released With EAC Linux v2 Support, New Recovery Tool",
+    "link": "https://www.phoronix.com/news/CachyOS-November-2026",
+    "description": "The latest ISO refresh for the Arch Linux powered CachyOS distribution is now available...",
+    "guid": "https://www.phoronix.com/news/CachyOS-November-2026",
+    "date": "Nov 22, 2026 13:15",
+    "published_at": "2026-11-22T13:15:03Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Intel Coral Rapids \u0026 Razor Lake Model IDs Submitted For Linux 7.4-rc4",
+    "link": "https://www.phoronix.com/news/Coral-Rapids-Razor-Lake-7.4",
+    "description": "Sent out today as part of the x86 fixes for the week going into Linux 7.4-rc4 are the model IDs for identifying upcoming Coral Rapids server processors and the Razor Lake client processors...",
+    "guid": "https://www.phoronix.com/news/Coral-Rapids-Razor-Lake-7.4",
+    "date": "Nov 22, 2026 13:06",
+    "published_at": "2026-11-22T13:06:26Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Aptera Completes Its First Solar Electric Vehicle for Customer Delivery",
+    "link": "https://tech.slashdot.org/story/26/11/22/0514226/aptera-completes-its-first-solar-electric-vehicle-for-customer-delivery?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Car-maker Aptera announced Thursday it \"completed its first vehicle for sale to a customer, a milestone years in the making.\"\n\n\nAptera's three-wheeled solar electric vehicle charges from solar panels integrated into its body, and it plugs in like any other electric vehicle. Its built-in solar panels are designed to add up to approximately 40 miles of driving a day from sunlight alone, under favorable conditions. \"This is the moment our team has worked toward for years,\" said Chris Anthony, Co-CEO of Aptera. \"To Accelerator #1, and to every reservation holder and shareholder who believed in this vehicle: thank you. We're working to complete more vehicles for early customers as soon as possible...\" \n\n\"What excites me about Aptera is how innovation can redefine the way we use energy in everyday mobility,\" said Martin Hartono, CEO of GDP Venture [and the proud recipient of Aptera solar car #1]. \"By combining solar technology, battery power and an ultra-efficient vehicle design, Aptera offers a compelling solution for people who want to minimize their energy consumption without compromising the ability to travel long distances. As an early believer in Aptera, I am proud to be part of this milestone and to see this vision become a reality.\" \n\n\n\"Excuse me while I go find a hat to eat,\" jokes the blog InsideEVs...\nNothing against Aptera specifically, but when a company hangs around for 20 years, while exchanging ownership hands several times without actually producing anything for customers, I start to get skeptical. However, Aptera Motors just did what so many doubters thought it'd never do: It delivered a road-legal production vehicle to one of its first early investors... \n\n[Aptera] does offer a interesting concept for customers who don't have long commutes and leave their car parked outside for most of the day while they work. In addition to plugging in to recharge, doesn't it sound nice to recoup your morning commute mileage with the sun while you're in the office? Whether this three-wheeled rolling solar panel ends up being a hit or not, and whether Aptera can stick around long enough to become a successful automaker, will take much longer to learn. But actually delivering a production car is a good place to start.\n \n\nSeven weeks ago Aptera said its first 40 production vehicles would start building by the end of 2026, reports Electrek, with customer deliveries in early 2027 \"subject to financing.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 22, 2026 12:34",
+    "published_at": "2026-11-22T12:34:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "CachyOS Releases Package Installer 2.0 With Convenient AUR / Flatpak / AppImage Support",
+    "link": "https://www.phoronix.com/news/CachyOS-Package-Installer-2.0",
+    "description": "After teasing the CachyOS Package Installer 2.0 in recent weeks, today the CachyOS developers formally rolled out the CachyOS Package Installer 2.0 update. This provides a fresh UI/UX for managing packages on this Arch Linux based distribution...",
+    "guid": "https://www.phoronix.com/news/CachyOS-Package-Installer-2.0",
+    "date": "Nov 22, 2026 11:55",
+    "published_at": "2026-11-22T11:55:29Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "KDE Releases Kwi 0.1, Its New GPU-Accelerated Terminal Emulator",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369457",
+    "description": "KDE's new Kwi terminal emulator reaches version 0.1 with improved tabs, global menu support, interface refinements, and a Flatpak release.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369457",
+    "date": "Nov 22, 2026 11:48",
+    "published_at": "2026-11-22T11:48:28Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Linux 7.5 To Introduce Initial Mainline Support For Ambarella SoCs",
+    "link": "https://www.phoronix.com/news/Linux-7.5-Ambarella-SoCs",
+    "description": "Following some initial Device Tree and driver preparation patches that were merged for Linux v7.4, the upcoming Linux v7.5 kernel is set to introduce initial support for Ambarella SoCs with the CV75 being the initial SoC target...",
+    "guid": "https://www.phoronix.com/news/Linux-7.5-Ambarella-SoCs",
+    "date": "Nov 22, 2026 11:35",
+    "published_at": "2026-11-22T11:35:20Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "PSR2 \u0026 Panel Replay + Pipe Joiner To Be Supported For Intel On Linux 7.5",
+    "link": "https://www.phoronix.com/news/Intel-PSR2-Panel-Replay-Joiner",
+    "description": "Intel's pipe joiner functionality is around allowing multiple internal display pipes to be used for driving a single ultra high resolution or high refresh rate display. This allows overcoming limitations of a single display pipe by using multiple pipes -- with the four-pipe ultra joiner configuration allowing for 8K and 4K@240Hz displays. Until now though the Panel Replay and PSR2 power-savings features haven't been supported when using the joiner functionality...",
+    "guid": "https://www.phoronix.com/news/Intel-PSR2-Panel-Replay-Joiner",
+    "date": "Nov 22, 2026 11:14",
+    "published_at": "2026-11-22T11:14:00Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "The First Rust WMI Linux Driver Being Developed Is For Clevo Laptops",
+    "link": "https://www.phoronix.com/news/Rust-WMI-Driver-Clevo-Laptops",
+    "description": "The first Rust-based driver being developed for making use of the Linux kernel's Rust Windows Management Instrumentation (WMI) interface abstractions is \"clevo-laptop\" and is a new driver for Clevo laptops, including those sold by TUXEDO Computers, Metabox, Sager, XMG, and others...",
+    "guid": "https://www.phoronix.com/news/Rust-WMI-Driver-Clevo-Laptops",
+    "date": "Nov 22, 2026 10:56",
+    "published_at": "2026-11-22T10:56:26Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Quantum Computing's First Real-world Payoff May Come In Energy Solutions",
+    "link": "https://hardware.slashdot.org/story/26/11/22/078255/quantum-computings-first-real-world-payoff-may-come-in-energy-solutions?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "While quantum computing's biggest breakthroughs \"are still likely to be years, if not decades, away,\" CNBC reports the technology is already being tested in energy applications, \"from keeping power grids stable to finding better materials for solar cells and hydrogen production.\"\n\n\nQuantinuum, which was formed by the merger of Cambridge Quantum and Honeywell Quantum Solutions and listed on Nasdaq in June, is using the technology to model materials for hydrogen fuel cells for transportation. It is also working with partners on materials for carbon capture. Another U.K. player, ORCA Computing, a spinout from the University of Oxford, has partnered with BP to better understand how a molecule's physical, chemical and biological properties are governed. That could help explain how biofuels burn and how to make them burn more efficiently... For [quantum software company] Phasecraft, a priority is grid stability and optimization. It has partnered with the National Energy System Operator, the independent system planner that balances energy supply and demand in England, Scotland and Wales, on grid optimization tasks, including managing power exchanges and isolating network sections during emergencies. The company says its software can complete these tasks up to 1,000 times faster than conventional computing... \n[Phasecraft] is also working with U.K. solar cell maker Oxford PV on the development of new materials for photovoltaic cells capable of operating more efficiently than existing ones. Separately, it has teamed up with London-listed specialty materials developer Johnson Matthey, Harvard University and Boston-based quantum hardware specialist QuEra, in work overseen by the U.S. government's Advanced Research Projects Agency-Energy (ARPA-E), to discover novel catalysts that would reduce reliance on scarce metals like iridium — which is currently critical in the production of hydrogen. Asked why Phasecraft is focusing on energy rather than sectors that might seem more lucrative, [cofounder/CEO Ashley] Montanaro said the returns were there too. \"When you get this right, the commercial returns are real: more efficient energy networks mean lower operating costs and more value from existing infrastructure,\" he said.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 22, 2026 08:34",
+    "published_at": "2026-11-22T08:34:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Sashiko AI Introducing Linux Performance Specialist Review Stage",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369455",
+    "description": "The Google-developed Sashiko for agentic AI code review initially focused on the Linux kernel continues helping to uncover new bugs and issues as new patches hit the kernel mailing list as well as those manually running this open-source AI software. In addition to recently introducing an experimental patch series design assessment, they are introducing another new skill for helping with…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369455",
+    "date": "Nov 22, 2026 08:09",
+    "published_at": "2026-11-22T08:09:30Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Home Assistant Connect AUX-2 brings PoE and audio streaming to smart homes",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369456",
+    "description": "Nabu Casa has introduced the Home Assistant Connect AUX-2, a compact ESP32-S3-based device that combines audio streaming, serial control, Bluetooth connectivity, and USB expansion. Designed to work with an existing Home Assistant system, it connects audio equipment and smart home devices through Ethernet, Wi-Fi, and Power over Ethernet. The Connect AUX-2 is powered by Espressif’s…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369456",
+    "date": "Nov 22, 2026 06:26",
+    "published_at": "2026-11-22T06:26:05Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "GTA 6: 32.5 Million copies, Cameos, and Easter Eggs - but No Physical Discs",
+    "link": "https://games.slashdot.org/story/26/11/22/0336243/gta-6-325-million-copies-cameos-and-easter-eggs---but-no-physical-discs?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Grand Theft Auto 6 sold 32.5 million copies before it was even released, reports Yahoo News, which is liveblogging all the videogame history happening after GTA 6's Thursday launch. \nLike how singer The Weeknd says he found his real-life mansion appearing in the game... How players found a glitch that apparently lets you override the game's third-person point of view to play in first-person. And apparently it's also possible to jack an old woman's mobility scooter. (Though it makes for a very slow getaway, it's reportedly the GTA 6 vehicle that's least likely to crash...)\n\n- The jet-skiing dog in 'GTA 6' appears to be based on a real Florida dog. Swim too far out to sea in GTA 6 and a dog in goggles and a life jacket will come to the rescue on a jet ski... Florida locals quickly recognized it. The dog appears to be a nod to Loosy, a golden retriever from Fort Lauderdale who went viral in May riding a jet ski down the New River while her owner, Eddie Inch, towed her along on a jet-powered hoverboard... \n\n — GTA 6 isn't approved for sale in mainland China, but that hasn't stopped gamers from getting their hands on it — or Rockstar Games from promoting it there [Reuters reports]. The developer has been pushing the blockbuster game on Douyin, China's version of TikTok, despite the country's strict rules on violent video games. Meanwhile, Business Insider reports that Chinese gamers are circumventing the restrictions by using imported consoles and overseas digital stores. Zac Ling, a project manager at Shanghai-based consultancy Daxue Consulting, said gamers in mainland China could buy 3 million to 5 million copies of the game in its first week. The game's graphic content has also prompted censorship in Japan, according to IGN. \n- Beloved '80s song parody writer and GTA fan \"Weird\" Al Yankovic said Thursday that he's the host of the non-stop '80s radio channel Vice City FM in GTA 6. In social media posts, Yankovic said he also wrote some of the in-game commercials and voices the Burger Shot ads.\n \n\n\n\nGrand Theft Auto 6 sold 32.5 million copies before it was even released, reports Yahoo News. Cloudflare said PS5 downloads in the UK peaked at 8.6 times normal levels, according to the BBC. And \"New Zealand, where GTA 6 was first available, saw a 14.8-fold spike four hours before, suggesting some players switched regions for early access.\" At its peak, nearly 8 million people were watching GTA 6 livestreams at the same time, Axios reported. PlayStation's network suffered a brief outage Wednesday afternoon as the game became available and players made the required update to their consoles. But since Wednesday evening, it's been smooth sailing. [Around 75% of Grand Theft Auto VI sales have been on PlayStation 5, with the rest on Xbox, the BBC reported, citing estimates from analytics firm Sensor Tower.]\t \n\nYahoo news shares lots of crazy stories about GTA 6's world-building, like its cameos of real-world celebrities, its in-game hiking trails, and the way a GTA 6 house Rockstar first teased in 2021 hides a conspiracy-minded NPC who's convinced that he's in a video game. \n\nBut they note that GTA 6 also brings questions on how videogames are sold and accessed:\n\nThe game is being sold for $80 in boxes containing download codes instead of discs, meaning players can't trade in or resell their copies. \"When you buy a game, you should be able to sell it, trade it or lend it to a friend,\" [GameStop CEO Ryan] Cohen told Bloomberg. \"Unquestionably, the decision to move to all digital has hurt consumers, and it's also hurt GameStop.\" Cohen said the move away from physical games also reduces competition from the secondhand market.\n\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 22, 2026 05:34",
+    "published_at": "2026-11-22T05:34:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "My Hybrid AI System in Obsidian: Local and Cloud AI Integration",
+    "link": "https://feed.itsfoss.com/link/24361/17537415/obsidian-hybrid-ai-system",
+    "description": "Using AI with notes gives superpower to your notes. But should you give AI access to your knowledge base?",
+    "guid": "6a1ff0409fdab3000136ef71",
+    "date": "Nov 22, 2026 05:18",
+    "published_at": "2026-11-22T05:18:03Z",
+    "image": "https://itsfoss.com/content/images/2026/11/obsidian-hybrid-ai-system.png",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "DietPi 10.9 Released with Support for Odroid C5 and Orange Pi Zero 4",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369459",
+    "description": "DietPi 10.9 distribution for single-board computers is now available for download with support for Odroid C5, Orange Pi Zero 4, Orange Pi 6, and Orange Pi 6 Plus boards.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369459",
+    "date": "Nov 22, 2026 04:35",
+    "published_at": "2026-11-22T04:35:55Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Calibre 9.19 Adds Grammar Checking and Suggestions to the Book Editor",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369442",
+    "description": "The Calibre 9.19 release introduces grammar checking and suggestions for rewriting sentences to the e-book editor, improves detection of paragraphs, headings, and columns in the PDF input, and improves detection of files that are still being downloaded in auto-add.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369442",
+    "date": "Nov 22, 2026 02:52",
+    "published_at": "2026-11-22T02:52:41Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Several Waymo Self-Driving Cars Stalled in Traffic as San Francisco's Streets Flooded",
+    "link": "https://tech.slashdot.org/story/26/11/22/0016228/several-waymo-self-driving-cars-stalled-in-traffic-as-san-franciscos-streets-flooded?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "San Francisco's streets flooded this week after heavy rainfall — confusing several Waymo self-driving cars. The San Francisco blog Sfist describes what happened after the flooding in some places rose as high as three feet:\nTwo lanes of Oak Street by the Golden Gate Park Panhandle were flooded Wednesday morning, with water spouting out of manhole covers, leading to a traffic backup that was made worse by a Waymo that couldn't figure its way out of the situation. The Waymo vehicle came to a stop in front of the spouting water, blocking one of the only passable lanes and worsening the traffic situation, as seen in the video below that is going viral... [\"Other drivers had to veer into deeper water to weave around it,\" reports the San Francisco Chronicle.] \n\n\nElsewhere in the city, Waymo rider Edward Frazer posted the video below to X, also around 10:20 am, saying that he had been in a Waymo for an hour and a half trying to get from North Beach to Mission Bay, with the vehicle pulling over around 10 times as it encountered flooded streets. The video shows the Waymo on what appears to be Townsend Street near Adobe's headquarters, stalled as water puddles in front of it. \nWaymo subsequently suspended all service for the rest of the day. \n\nBut \"frozen robotaxis were already clogging San Francisco streets by the time Waymo decided to rein in the fleet,\" reports the San Francisco Chronicle:\n\n Rider Amy Gutierrez said her Waymo suddenly stopped on Fell Street at the intersection of Masonic Avenue, where rain was coursing into rivers. She contacted company support and was transferred to three specialists who tried to move the jammed vehicle. It took a half-hour of false starts before they managed to remotely maneuver it to the right lane. \"We were kind of just stuck there — cars were honking,\" she said, and other drivers were frustrated as traffic backed up. \"One person drove by smacking their window, like 'Get out of the way.'\" \nOr, as the New York Post puts it, \"Waymos spark terror as they trap drivers in rapidly rising floodwater as monster storm hits California city.\"\n\nWaymos have sparked chaos in San Francisco as they trapped passengers in cars despite rapidly rising floods. Multiple self-driving vehicles were paralyzed across the streets and left those inside frantically calling the company to help get them to safety.\nOne was trapped in the middle of a busy intersection when the car refused to go around an overflowing drain, leaving other drivers to go on the wrong side of the road to get around.... \n\nThe San Francisco Chronicle also remembers that last year's power blackout caused 1,600 Waymo vehicles to stall \"because they required a 'confirmation check' from a human operator before navigating stoplights after the power was cut. Hundreds of requests overwhelmed the system, leaving San Francisco streets full of paralyzed self-driving vehicles.\" \n\nThanks to Slashdot reader AzWa Snowbird for sharing the news.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 22, 2026 02:34",
+    "published_at": "2026-11-22T02:34:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "FreeBSD 15.2 Beta 3 Released Following 17 Security Advisories",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369447",
+    "description": "The third weekly beta release of FreeBSD 15.2 is now available for testing. This comes with various bug fixes, updated OpenZFS code, and fixes for 17 FreeBSD security advisories that were made public this week…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369447",
+    "date": "Nov 22, 2026 01:29",
+    "published_at": "2026-11-22T01:29:01Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Linux 7.4 To Remove NVMe Namespaces In Parallel For Faster Results",
+    "link": "https://www.phoronix.com/news/Linux-7.4-NVMe-NS-Parallel",
+    "description": "As part of this week's block subsystem fixes for the Linux 7.4-rc4 kernel release due out on Sunday are many bug fixes plus also a nice NVMe namespaces optimization...",
+    "guid": "https://www.phoronix.com/news/Linux-7.4-NVMe-NS-Parallel",
+    "date": "Nov 22, 2026 01:24",
+    "published_at": "2026-11-22T01:24:33Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Best Text Editors for Linux in 2026: CLI and GUI Options Compared",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369453",
+    "description": "Which Linux text editor is actually worth your time? 14 CLI and GUI editors compared, from Nano to Neovim to VS Code, with pros, cons, and a quick table.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369453",
+    "date": "Nov 22, 2026 00:04",
+    "published_at": "2026-11-22T00:04:48Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "US DOJ Charges Suspected Russian Agent for Stalking Palantir Employees in California",
+    "link": "https://news.slashdot.org/story/26/11/21/212248/us-doj-charges-suspected-russian-agent-for-stalking-palantir-employees-in-california?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "America's Justice Department is prosecuting a suspected foreign agent in \"a state-sponsored operation\" that targeted tech workers in Palo Alto, California. \"We will not tolerate any efforts — by foreign governments or otherwise — to turn Silicon Valley into a base for foreign intelligence operations,\" said U.S. Attorney Craig H. Missakian. \n\nThe alleged Russian agent was arrested in October for \"stalking and harassing employees of the software and AI firm Palantir, sources told ABC News, because of its assistance to Ukraine in its war with Russia.\"\n\n The indictment says D'iu traveled from Istanbul to Mexico City last June and was connected with a person who helped him illegally cross the southern U.S. border. Once in the U.S., he was instructed to purchase laptops, cellphones and remote access software that his co-conspirators used to help him in his alleged targeting of the company's employees. At one point, prosecutors say D'iu was directed by his co-conspirators to visit a coffee shop where many of the company's employees would work and try to identify them and take pictures of their screens while they were working... \n\nIn September, prosecutors say D'iu allegedly followed a female employee of the company in his vehicle for nearly 30 miles after she left the company's Palo Alto, California, office. Even as the employee attempted various maneuvers to evade him, D'iu aggressively sought to follow her until she ultimately phoned police and was instructed to drive to the San Francisco Police Department's Mission Station.\n \n\nThe nonprofit news site Palo Alto Online notes the government's affidavit \"identified at least two other instances in early September in which employees of the defense company reported being followed by a car matching the description of D'iu's silver Lexus SUV.\n\nThe coffee shops and other locations where D'iu stationed his laptop — sometimes for hours at a time — are in close proximity to the Palantir office in downtown Palo Alto... FBI agents executed a search warrant on Oct. 8 at D'iu's residence in East Palo Alto. There they found the California state ID, passport and Social Security card that were present in the DHL packages, as well as two Russian passports, $18,000 in cash and a notebook with 10 Palo Alto area addresses. Five of them correlate to the home addresses of employees at the unnamed Silicon Valley defense company. The agents also recovered three employee \"target package profiles\" that included their names, names of relatives, education and employment history, leadership qualities and a list of strengths and weaknesses. \n\nAfter searching D'iu's phone, the FBI found messages from a Telegram contact with photos of four employees and their addresses. D'iu was instructed to act like a food delivery driver and knock on their doors to verify if the employees did live at those addresses, according to the affidavit... \n\nIf convicted of all charges, D'iu could face a cumulative maximum sentence of 21 years in federal prison and $850,000 in fines.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 21, 2026 23:00",
+    "published_at": "2026-11-21T23:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "KDE Plasma 6.9 to Improve Performance, NVIDIA Efficiency, and CJK Input",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369449",
+    "description": "KDE Plasma 6.9 will improve KWin performance, reduce NVIDIA GPU power consumption, and add better Chinese, Japanese, and Korean text input.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369449",
+    "date": "Nov 21, 2026 22:33",
+    "published_at": "2026-11-21T22:33:02Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "59 Years Later, 'The Prisoner' is Getting a Second Remake - from Amazon Studios",
+    "link": "https://entertainment.slashdot.org/story/26/11/21/1956209/59-years-later-the-prisoner-is-getting-a-second-remake---from-amazon-studios?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "The Prisoner is getting a remake, reports ScreenRant. \"Amazon Studios is currently developing a new and modern twist on the short-lived series...\"\n\nITV only aired 17 episodes of the original Prisoner back in 1967 and 1968, but it did receive a nomination for Best Dramatic Presentation at the Hugo Awards. Reviews were overwhelmingly positive... The Prisoner, considered one of the greatest sci-fi fantasy TV shows of all time, currently holds a perfect score among critics on Rotten Tomatoes and a 93% with audiences. \n\nYou can watch all 17 original episodes on YouTube. And apparently the production team for the remake \"is apparently full of fans of the initial series,\" writes Inverse, citing an article from The Hollywood Reporter, \"and ITV, the British TV network, is on board as well, which lends a little credence to it.\" \n\nMore details on the remake from ScreenRant:\n Susan Montford, Don Murphy, Philippe Maigret, and Lucienne Papon have signed on as executive producers, but a showrunner has not been selected yet... Murphy has produced every single live-action Transformers movie, as well as the animated flick Transformers One. He also worked with Montford on Real Steel, Shoot 'Em Up, While She Was Out, and Vampire Academy... There have been attempts in the past to create a movie based on The Prisoner, with big names like Christopher Nolan, Ridley Scott, and Simon West all interested at various points, but nothing ever materialized... \n\nIt took 41 years after the end of The Prisoner for any remake to finally make it to air. The six-episode 2009 miniseries had a solid cast that included Ian McKellen... McKellen and cinematographer Florian Hoffmeister even scored Emmy nominations. Unfortunately, reviews weren't kind to the show, which has a very low 17% critic score and 41% audience score on Rotten Tomatoes. \nThanks to Slashdot reader joshuark for sharing the news.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 21, 2026 22:00",
+    "published_at": "2026-11-21T22:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Two FIDO2 Security Keys on Fedora Linux 45",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369406",
+    "description": "A follow-up on PIN and touch for encrypted storage and everyday authentication On my first day working with Fedora Linux 45, I wanted to see how far I could get without typing my account password during normal use. The goal was straightforward: use a physical FIDO2 security key, its PIN, and a touch to unlock…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369406",
+    "date": "Nov 21, 2026 21:09",
+    "published_at": "2026-11-21T21:09:44Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  }
+]
