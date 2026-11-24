@@ -1,5 +1,129 @@
 [
   {
+    "title": "Proton 11.0-3 is out now bringing lots of fixes for Windows games on SteamOS / Linux",
+    "link": "https://www.gamingonlinux.com/2026/11/proton-11-0-3-is-out-now-bringing-lots-of-fixes-for-windows-games-on-steamos-linux/",
+    "description": "Valve just released Proton 11.0-3 as the new main stable version of the compatibility layer to run Windows games on SteamOS / Linux.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/11/proton-11-0-3-is-out-now-bringing-lots-of-fixes-for-windows-games-on-steamos-linux/",
+    "date": "Nov 24, 2026 07:36",
+    "published_at": "2026-11-24T07:36:15Z",
+    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/proton%20logo%20official.jpg",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Russia May Launch Nuclear Weapon Into Orbit As Soon As Next Month",
+    "link": "https://tech.slashdot.org/story/26/11/24/0241247/russia-may-launch-nuclear-weapon-into-orbit-as-soon-as-next-month?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Western intelligence agencies reportedly believe Russia could launch a nuclear-armed satellite into orbit as early as December, \"suggesting the country's development of a satellite-killing weapon of mass destruction is more advanced than previously thought,\" reports Ars Technica, citing German media reports. Such a launch would violate the 1967 Outer Space Treaty, while a detonation could create radiation belts that damage satellites for years. From the report: The orbiting nuclear weapon would threaten thousands of satellites in low-Earth orbit, including military and commercial communications networks like Starshield and Starlink. A nuclear-armed satellite would also put at risk Western military surveillance satellites and human spaceflight platforms like the International Space Station. A nuclear detonation in orbit would be indiscriminate, also knocking out Russia's own spacecraft and Chinese satellites.\n \nReporting from three German news outlets -- public broadcasters NDR and WDR and the Munich-based newspaper Suddeutsche Zeitung -- indicates Russia's launch of a nuclear-armed satellite could be imminent. The report says Western intelligence agencies, including the German Armed Forces and Federal Intelligence Service, believe Russia is preparing to deploy the weapon in space this year. Several NATO countries have exchanged their findings on the matter.\n \nThe nuclear-armed satellite, designated Sputnik-S, has been in storage in the greater Moscow area for years, the German news report said. German Space Command believes the satellite could be launched as early as December. Once in orbit, a nuclear weapon could loiter for months or years, ready for detonation on the command of Russian military forces. The Kremlin dismissed the report. \"Given the number of qualifiers like 'allegedly' and 'possibly' -- not to mention the fact that the claims are attributed to some unspecified source -- they are hardly worth taking seriously,\" said Dmitry Peskov, spokesperson for Russian President Vladimir Putin.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 24, 2026 07:00",
+    "published_at": "2026-11-24T07:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "XNU Linux Offers a New Way to Run macOS Applications on Linux",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369516",
+    "description": "An experimental project runs the genuine macOS kernel inside Linux, supporting Finder, Dock, Safari, and other native macOS applications.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369516",
+    "date": "Nov 24, 2026 06:38",
+    "published_at": "2026-11-24T06:38:18Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Firefox 161 brings classic theme options, smarter VPN",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369514",
+    "description": "Mozilla Firefox 161 is now available to download, bringing a set of minor feature refinements that should make your everyday browsing a little smoother. Customisation fans are well served with this update. A set of “classic themes” are available from the add-ons page. Mozilla say this includes the “Proton theme from earlier versions of Firefox”, an OLED theme and solid colours. You can also now…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369514",
+    "date": "Nov 24, 2026 04:15",
+    "published_at": "2026-11-24T04:15:34Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "New York Bans Subscription and Post-Purchase Fees On Cars",
+    "link": "https://tech.slashdot.org/story/26/11/24/0233203/new-york-bans-subscription-and-post-purchase-fees-on-cars?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from WGNA-FM: On November 23rd, New York State Governor Kathy Hochul announced Bill S.9348A/A.10411A. This bill aims to put money back in New Yorkers pockets by prohibiting any vehicle manufacturers, dealers, or third-party providers from charging consumers more money for locked services or subscription fees. This specifically targets newer vehicles that may lock pre-installed features (like heated seats or screen compatibility) behind a paywall or subscription service. This is becoming more and more of a problem as years go by, and consumers have been very vocal against the practice, but this is a tangible step that can be taken to end this practice before it gets too out of hand. [...] The bill will go into effect on February 27th, 2027. \"No one should have to pay recurring fees just to use features in a car they already bought. My office has secured millions of dollars for New Yorkers throughout the state who were charged illegal junk fees when purchasing a car,\" said New York Attorney General Letitia James stated. \"Unfair fees are fueling rising costs, and I am proud to work with Governor Hochul and the legislature to bring costs down.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 24, 2026 03:30",
+    "published_at": "2026-11-24T03:30:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "CachyOS November 2026 Release",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369521",
+    "description": "This release brings support for Easy Anti-Cheat Linux v2. EAC only lets games start when it can verify how the system was booted: Secure Boot with a kernel signed by a key that Epic trusts, a TPM 2.0, an enabled IOMMU, and a kernel running in lockdown mode that only loads signed modules. For this we provide a dedicated kernel...",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369521",
+    "date": "Nov 24, 2026 03:04",
+    "published_at": "2026-11-24T03:04:41Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Automating encryption at rest with Canonical’s Charmed MongoDB",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369491",
+    "description": "Learn how to enable encryption at rest on MongoDB with Canonical’s Charmed MongoDB",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369491",
+    "date": "Nov 24, 2026 01:56",
+    "published_at": "2026-11-24T01:56:15Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Mesa's NVK NVIDIA Driver Another Step Closer To Vulkan Ray-Tracing",
+    "link": "https://www.phoronix.com/news/Mesa-NVK-TTU-Instructions",
+    "description": "Mesa's NVK open-source NVIDIA Vulkan driver is one step closer toward eventually supporting Vulkan ray-tracing...",
+    "guid": "https://www.phoronix.com/news/Mesa-NVK-TTU-Instructions",
+    "date": "Nov 24, 2026 01:52",
+    "published_at": "2026-11-24T01:52:24Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Mozilla Firefox 161 Is Now Available for Download, Here’s What’s New",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369501",
+    "description": "Firefox 161 introduces the ability to copy the current tab’s URL with a keyboard shortcut. No shortcut is assigned by default for this feature, so you can choose your own key combination in Firefox’s Settings, under Customize keyboard shortcuts.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369501",
+    "date": "Nov 24, 2026 00:44",
+    "published_at": "2026-11-24T00:44:50Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Google Is Finally Retiring the Nest App Early Next Year",
+    "link": "https://tech.slashdot.org/story/26/11/23/2122224/google-is-finally-retiring-the-nest-app-early-next-year?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Google is shutting down its 15-year-old Nest app on January 25, 2027, requiring users to switch to Google Home to remotely control their smart home devices and receive notifications. \"Then, on August 2, the company will retire Google Assistant on smart speakers and displays, with Gemini replacing the older tech for voice controls,\" reports Engadget. From the report: If you've yet to migrate your Nest devices to the Google Home app, the company says your existing settings and schedules will transfer over automatically. The only thing you need to manually move over are any custom clips you might have saved over the years. You can do this by visiting the Nest website before January 25 and clicking the \"Download all\" button. Google says it will automatically migrate Nest Aware (1st Gen) subscriptions to its newer Google Home Premium package. \"You will receive an email closer to the date of transfer detailing your subscription information,\" the company adds. \"The Nest app launched over 15 years ago, and home technology has changed a lot since then,\" Google says of the decision. \"To give every Nest user Google's latest security protections and most advanced cyber defenses, plus new features from Gemini, we're bringing all Nest devices together in the Google Home app.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 24, 2026 00:00",
+    "published_at": "2026-11-24T00:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "No One is Using Real Firefox Browser on iPhones (Blame it on Apple)",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369507",
+    "description": "The EU told Apple to open up. Apple said \"fine.\" Then it published its own set of conditions so that complying in practice is nearly impossible for Mozilla Firefox.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369507",
+    "date": "Nov 23, 2026 23:35",
+    "published_at": "2026-11-23T23:35:14Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Zstd 1.6 Released With Many Fixes, New Performance Optimizations",
+    "link": "https://www.phoronix.com/news/Zstandard-Zstd-1.6",
+    "description": "It's been a year and a half since the last Zstandard release (v1.5.7) while Zstandard 1.6.0 was tagged a short time ago as the next major step forward for this widely-used, open-source compression algorithm and implementation...",
+    "guid": "https://www.phoronix.com/news/Zstandard-Zstd-1.6",
+    "date": "Nov 23, 2026 23:00",
+    "published_at": "2026-11-23T23:00:32Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
     "title": "Trump Halts Army's Plans to Detonate Bomb-Making Chemicals In Iowa",
     "link": "https://yro.slashdot.org/story/26/11/23/2256228/trump-halts-armys-plans-to-detonate-bomb-making-chemicals-in-iowa?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
     "description": "President Trump has ordered the military to halt plans to detonate nearly five tons of unstable lead azide explosives at an Army ammunition plant in Middletown, Iowa. \"Trump claimed that the fate of the unstable, highly explosive material is now in the hands of a federal court and Rob Sand, Iowa's governor-elect, who won't be sworn into office until January,\" reports Ars Technica. From the report: The Army had planned to detonate the barrels on November 20, but delayed the blast on Thursday amid public outcry and a legal challenge from environmental groups. The explosion will launch a plume of toxic gases and neurotoxic lead that could reach up to 100 miles away from the Iowa facility, the Iowa Army Ammunition Plant (IAAAP).\n \nIowa residents and officials said they learned of the detonation only days beforehand. The environmental groups, led by Earthjustice, claimed in an emergency court filing that the Army had not fully considered safer options for disposing of the lead azide before planning the detonation.\n \nLate Thursday, a federal appeals court granted Earthjustice's request to put a hold on the Army's permit from the Environmental Protection Agency, which allowed for the controlled detonation to be carried out. Around the same time, Acting Secretary of the Army Adam Telle said the detonation would be postponed until Monday so the military could communicate with Iowans about the situation and plans.\n\n\n\n\n\nRead more of this story at Slashdot.",
@@ -32,6 +156,16 @@
     "source_url": "https://slashdot.org/"
   },
   {
+    "title": "Qt Creator 21 Open-Source IDE Released with New Profile Mode, Improvements",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369508",
+    "description": "The Qt Creator 21 release adds a new Profile mode that integrates the Qt Profiler tool, which replaces QML Profiler, with a new dashboard that scores various performance characteristics and offers suggestions for fixing individual findings.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369508",
+    "date": "Nov 23, 2026 21:07",
+    "published_at": "2026-11-23T21:07:00Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
     "title": "Jensen Huang Says He'll Be a 'Better CEO' As Staff Applauds His Return",
     "link": "https://slashdot.org/story/26/11/23/216201/jensen-huang-says-hell-be-a-better-ceo-as-staff-applauds-his-return?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
     "description": "Nvidia CEO Jensen Huang received a standing ovation from employees upon returning to the company's headquarters Monday, less than two weeks after resigning amid revelations of extramarital affairs, including one involving an alleged Chinese spy. \"Thank you all for the second chances. I'm gonna be a better CEO the second time around,\" Huang told staff.\n \nHis reinstatement followed intervention by President Trump and Vice President JD Vance, with Nvidia's board saying it received assurances from senior U.S. officials that Huang's return posed no national security risk.\n\n\n\n\n\nRead more of this story at Slashdot.",
@@ -41,16 +175,6 @@
     "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
     "source": "slashdot.org",
     "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Qt Creator 21 Open-Source IDE Released with New Profile Mode, Improvements",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369508",
-    "description": "The Qt Creator 21 release adds a new Profile mode that integrates the Qt Profiler tool, which replaces QML Profiler, with a new dashboard that scores various performance characteristics and offers suggestions for fixing individual findings.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369508",
-    "date": "Nov 23, 2026 21:07",
-    "published_at": "2026-11-23T21:07:00Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
   },
   {
     "title": "Ladybird Web Browser/Engine Reaches Alpha",
@@ -147,6 +271,16 @@
     "source_url": "https://www.phoronix.com/"
   },
   {
+    "title": "Black Friday / End Of Year Special \u0026 The Unfortunate Ad Network Situation This Year",
+    "link": "https://www.phoronix.com/news/Black-Friday-Week-2026",
+    "description": "If you have enjoyed the more than 3,125+ news articles so far this year and 200+ Linux hardware reviews this calendar year with a lot of interesting content, running this week is the annual Phoronix Premium end-of-year / \"Black Friday\" promotion to help support the site while enjoying ad-free access, multi-page articles on a single page, and other benefits while helping Phoronix continue as it approaches its 23rd birthday next June. Unfortunately, this year has been the toughest yet...",
+    "guid": "https://www.phoronix.com/news/Black-Friday-Week-2026",
+    "date": "Nov 23, 2026 16:00",
+    "published_at": "2026-11-23T16:00:00Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
     "title": "Nvidia Reinstates Jensen Huang As CEO",
     "link": "https://slashdot.org/story/26/11/23/1545227/nvidia-reinstates-jensen-huang-as-ceo?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
     "description": "Zak3056 shares a report from CNBC: Nvidia on Monday announced Jensen Huang has been reinstated as CEO, effective immediately, a dramatic twist in a scandal that hammered the chipmaker's stock price and rocked tech and artificial intelligence industries. The board of directors said it unanimously voted to reinstate Huang following \"a series of discussions and meetings\" with him. The board added that it \"received input from senior levels of the United States government\" that it is confident that Huang's reinstatement \"poses no national security risk.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
@@ -158,16 +292,6 @@
     "source_url": "https://slashdot.org/"
   },
   {
-    "title": "Black Friday / End Of Year Special \u0026 The Unfortunate Ad Network Situation This Year",
-    "link": "https://www.phoronix.com/news/Black-Friday-Week-2026",
-    "description": "If you have enjoyed the more than 3,125+ news articles so far this year and 200+ Linux hardware reviews this calendar year with a lot of interesting content, running this week is the annual Phoronix Premium end-of-year / \"Black Friday\" promotion to help support the site while enjoying ad-free access, multi-page articles on a single page, and other benefits while helping Phoronix continue as it approaches its 23rd birthday next June. Unfortunately, this year has been the toughest yet...",
-    "guid": "https://www.phoronix.com/news/Black-Friday-Week-2026",
-    "date": "Nov 23, 2026 16:00",
-    "published_at": "2026-11-23T16:00:00Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
     "title": "Stalwart 1.2 Offers Open-Source Microsoft Exchange Replacement",
     "link": "https://lxer.com/module/newswire/ext_link.php?rid=369500",
     "description": "Stalwart 1.2 adds Microsoft Exchange protocol compatibility, allowing organizations to replace Exchange Server while keeping Outlook.",
@@ -176,27 +300,6 @@
     "published_at": "2026-11-23T15:45:59Z",
     "source": "lxer.com",
     "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "No One is Using Real Firefox Browser on iPhones (Blame it on Apple)",
-    "link": "https://feed.itsfoss.com/link/24361/17538371/firefox-apple-dispute",
-    "description": "The EU told Apple to open up. Apple said \"fine.\" Then it published its own set of conditions so that complying in practice is nearly impossible for Mozilla Firefox.",
-    "guid": "6b043c4e070f24000124397e",
-    "date": "Nov 23, 2026 15:24",
-    "published_at": "2026-11-23T15:24:42Z",
-    "image": "https://itsfoss.com/content/images/2026/11/firefox-ios-issue.png",
-    "source": "itsfoss.com",
-    "source_url": "https://itsfoss.com/"
-  },
-  {
-    "title": "CachyOS November 2026 release",
-    "link": "https://lwn.net/Articles/1109269/",
-    "description": "CachyOS, a performance-focused\ndistribution based on Arch Linux, has\nannounced its November 2026\nrelease. Notable changes in this release include a new recovery environment\n(\"cachyos-recovery\") for rolling back broken systems, Easy Anti-Cheat (EAC) v2\nsupport for games that require EAC to run, version 2.0.0 of the CachyOS Package\nInstaller, and more.\n\n",
-    "guid": "https://lwn.net/Articles/1109269/",
-    "date": "Nov 23, 2026 14:21",
-    "published_at": "2026-11-23T14:21:41Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
   },
   {
     "title": "Jensen Huang Reinstated As NVIDIA CEO \u0026 Board Director",
@@ -289,6 +392,16 @@
     "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
     "source": "slashdot.org",
     "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "AMD Preps More Graphics Driver Fixes For Linux 7.5, More DCN6 Enablement",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369475",
+    "description": "This week AMD sent out their latest batch of AMDGPU kernel graphics driver and AMDKFD kernel compute driver updates of work slated to land with the upcoming Linux 7.5 merge window…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369475",
+    "date": "Nov 23, 2026 12:05",
+    "published_at": "2026-11-23T12:05:58Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
   },
   {
     "title": "VKD3D 2.2 Released With More Improvements For Direct3D 12 On Vulkan",
@@ -419,17 +532,6 @@
     "source_url": "https://www.gamingonlinux.com/"
   },
   {
-    "title": "GE-Proton 11-13 is out now bringing lots of Windows gaming fixes to SteamOS / Linux",
-    "link": "https://www.gamingonlinux.com/2026/11/ge-proton-11-13-is-out-now-bringing-lots-of-windows-gaming-fixes-to-steamos-linux/",
-    "description": "GE-Proton 11-13 is another big release for the popular community build of Proton featuring lots of bug fixes and feature enhancements.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/11/ge-proton-11-13-is-out-now-bringing-lots-of-windows-gaming-fixes-to-steamos-linux/",
-    "date": "Nov 23, 2026 08:02",
-    "published_at": "2026-11-23T08:02:21Z",
-    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/ge-proton_gol2.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
     "title": "Linuxiac Weekly Wrap-Up: Week 47, 2026 (November 16 – 22)",
     "link": "https://lxer.com/module/newswire/ext_link.php?rid=369483",
     "description": "Catch up on the latest Linux news: Debian 13.8, CachyOS November 2026, PHP 8.6, Noctalia 5.6, PostgreSQL 19, Microsoft releases Azure Linux 4, and more.",
@@ -449,6 +551,16 @@
     "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
     "source": "slashdot.org",
     "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Linux 7.4-rc4 Released: \"It's Huge. What A Surprise.\"",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369482",
+    "description": "Linux 7.4-rc4 is out today as the newest weekly test candidate for Linux 7.4. Continuing to be fueled by AI/LLM generated bug reports and patches, the Linux 7.4 cycle remains quite active…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369482",
+    "date": "Nov 23, 2026 04:55",
+    "published_at": "2026-11-23T04:55:34Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
   },
   {
     "title": "Ubuntu 27.04 daily builds are available to download",
@@ -490,118 +602,5 @@
     "published_at": "2026-11-23T00:32:07Z",
     "source": "lwn.net",
     "source_url": "https://lwn.net"
-  },
-  {
-    "title": "Omarchy 4.5 Tutorial From Install to Daily Use",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369479",
-    "description": "A step-by-step guide to Omarchy 4.5: the USB flash drive, BIOS settings, disk encryption, first boot, main keyboard shortcuts, apps, themes, updates, and snapshots.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369479",
-    "date": "Nov 22, 2026 23:31",
-    "published_at": "2026-11-22T23:31:02Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Have Investors Lost Their Faith in the AI Boom?",
-    "link": "https://slashdot.org/story/26/11/22/2257249/have-investors-lost-their-faith-in-the-ai-boom?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "\"A yearslong AI boom showed signs of unraveling this week in spectacular fashion,\" writes NPR, adding that \"investors now fear that a potential bubble in the sector could be bursting, which could spark wider financial repercussions.\" \n\nWhile the world embraced the AI boom ,\"now many are having regrets,\" argues a Washington Post technology reporter:\n\n\nThe AI boom's key ingredient has always been faith — that more money can be found to pay for it, that AI will keep rapidly improving, that the masses will come to love it, that business productivity and profits from AI are just around the corner. Faith is now in short supply... \n\nBy mid-year, AI executives started to say that business customers were balking at the high prices charged by providers of cutting edge or \"frontier\" AI like Anthropic. Many businesses began to save money by hopscotching among a range of AI technologies, including low-priced options from Chinese companies... Investors began to rebel, too, against the trillions of dollars that AI companies are spending to construct data centers and provide them with computing equipment and electricity. Last month, Google's stock market value dropped by half a trillion dollars in a single day, when it seemed like even the rich technology leader would take longer than expected to see an AI financial payoff. \n\nSuch stumbles by AI companies eroded faith in AI, said Howard Marks, an investor famous for predicting the dot-com bust. \"It somewhat burst the bubble of infallibility,\" Marks told Bloomberg TV this month. Like many AI companies, Anthropic can't afford to cover its AI development costs. The company said it will keep coming back to investors for cash and needs a steady stream of customers to pay the $900 billion it owes in coming decades. \n\nPerhaps the biggest wild card for the AI boom is growing public resentment toward AI and data centers and widening fears of AI-enabled cyberattacks, human deaths and widespread job losses. In this month's midterm elections, Americans voted in a wave of elected officials who have been skeptical of the AI industry and construction of data centers. The results could slow the AI boom that's already hitting major bottlenecks, including difficulty lining up enough electricity to expand AI computer capacity... Diane Swonk, chief economist at the accounting firm KPMG, isn't surprised that the public is uneasy about AI. During the dot-com boom, she said that Americans' wages rose alongside corporate profits and U.S. inequality narrowed. By contrast the AI boom's economic and prosperity payoff has been uneven.\n\n \n\n\"Some people fear that the AI sector could be in the middle of a bubble that is bursting,\" writes NPR, \"just like tech stocks did during the dot-com bust of 2000...\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 22, 2026 23:24",
-    "published_at": "2026-11-22T23:24:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Linux 7.4-rc4 Released: \"It's Huge. What A Surprise.\"",
-    "link": "https://www.phoronix.com/news/Linux-7.4-rc4-Released",
-    "description": "Linux 7.4-rc4 is out today as the newest weekly test candidate for Linux 7.4. Continuing to be fueled by AI/LLM generated bug reports and patches, the Linux 7.4 cycle remains quite active...",
-    "guid": "https://www.phoronix.com/news/Linux-7.4-rc4-Released",
-    "date": "Nov 22, 2026 23:13",
-    "published_at": "2026-11-22T23:13:30Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Sellers are Closing Etsy Stores in Response to Its New AI Training Policy",
-    "link": "https://slashdot.org/story/26/11/22/2221256/sellers-are-closing-etsy-stores-in-response-to-its-new-ai-training-policy?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "\"I burned my Etsy shop to the ground this week,\" illustrator Aaron Millard posted on Instagram:\n 8 years, 11,200 sales, 3k+ reviews, hundreds in a customer base. Deleted. \n\nEtsy decided that selling on their platform now means letting them train AI on our artwork AND resell that data to third parties, with no way to opt out (in Canada, anyways)...\n \nEtsy's new Terms of Use — going into effect December 15 — include this language in their section about \"Your Content\":\nYou also recognize our legitimate interest in using it... This also includes the right for us and our third party partners and vendors to use Your Content to develop, train, test and improve artificial intelligence and machine learning technologies, including to improve the Services and/or help keep them safe, subject to any applicable opt-out rights described in our Privacy Policy. \n\n\"My work took years to learn and create,\" illustrator Millard wrote on Instagram. \"I won't let it be stolen. It's not free fuel for an AI slop business model.\" \n\nFollowing Etsy's announcement \"artists are shutting down their shops in droves,\" writes Cartoon Brew, \"and posting illustrated goodbye notes to tell customers where to find them next.\"\n\nIronically, just weeks ago, Etsy announced tighter rules on misleading AI product photos and bot-generated listings. The marketplace still allows sellers to list work generated from their own prompts, as long as they disclose the use of AI to buyers. \nEtsy says it uses sellers' content to spot fraud and help shoppers find products, and that it doesn't train models designed to copy artists' work. That said, the vague terms leave open just how its partners and vendors might use that same content...\nThe artists posting their goodbyes have decided it's worth walking away from that revenue source to keep their work from being used to train AI.\n \n\n\n\"In the wake of that reaction, Etsy vice president of customer operations James Ossman posted a separate update,\" writes PC Gamer, \"saying it's not really like that at all... [T]hat 'we do not use your content to train AI models designed to copy your original work or replace your creativity.'\"\n\n\"... we're enabling actions like translating your listing descriptions so buyers around the world can discover your items, or featuring your listing photos in Etsy marketing campaigns to showcase your creative work,\" Ossman wrote. \"We also use your content to develop tools that make running your shop easier, like listing optimization tools or stats summaries that help you better understand your shop's performance. As always, your needs and feedback help guide how we build and improve these tools.\" \n\nAs for providing third-party access to that content, Ossman said that too is for \"services and tools that can help you run your business,\" and promised that \"when we partner with third parties, we do so thoughtfully to help protect your content and data.\" \n\nThat hasn't satisfied everyone. Ossman's commitment doesn't exist within the actual terms of service, which as seen above states only that Etsy and partners can \"use Your Content to develop, train, test and improve artificial intelligence and machine learning technologies.\" Ossman also noted in his update that the terms \"prohibit scraping Etsy or unauthorized use of content from Etsy to train AI models,\" but that (as far as I can tell) applies to Etsy users and unauthorized third-parties, not Etsy itself or those it licenses... \n\nOthers also complain that AI training should be opt-in rather than on by default — and worse, there's apparently no opt-out option available at all, so users who are opposed to having their work used for AI training for any reason are out of luck. \n\nIronically, the blowup over Etsy's embrace of AI training comes just weeks after it earned plaudits for banning AI-generated recipes and patterns, a move Ossman said was necessary to establish \"trust\" in the platform.\n\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 22, 2026 22:24",
-    "published_at": "2026-11-22T22:24:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "15 years of long term support for bare metal automation with MAAS",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369464",
-    "description": "Building modern AI supercomputing clusters, deploying 5G telecommunications networks, or operating High Performance Computing (HPC) data centers requires significant capital investment (CapEx). These investments are planned with a long-term horizon in mind, and the infrastructure management platforms supporting them often need to operate across multiple hardware generations. However, the software…",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369464",
-    "date": "Nov 22, 2026 21:45",
-    "published_at": "2026-11-22T21:45:10Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "The New 'Riemann Hypothesis' Proof Has Been Confirmed in Mathlib/Lean Communities",
-    "link": "https://science.slashdot.org/story/26/11/22/2031237/the-new-riemann-hypothesis-proof-has-been-confirmed-in-mathliblean-communities?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "\"Experts say the claim checks out,\" reports the Guardian. \n\n\"We have full confidence that Alpöge's proof of the Riemann Hypothesis is correct, and we congratulate him on this achievement,\" reads Saturday's announcement on the Lean prover community blog:\n\nThe codebase depends directly only on Mathlib. Over the past day, the Lean and Mathlib communities have rallied to verify the proof's correctness. We hereby certify that both the statement and the proof of the Riemann Hypothesis are correct... \n\n[Besides checking the code] The exported raw proof has been checked by several proof checkers, including Lean's official kernel, the con-leche and con-ron checkers, and several independent checkers contributed by third parties and implemented in different programming languages. The checkers con-leche and con-ron come with a formal proof, relative to set theory, that they cannot accept a false proof, thus addressing concerns that Lean's logic itself might have flaws that the proof could exploit... \nWe look forward to all the activity in the mathematical community that will help explain the new ideas in this proof. \n\n\"The proof evidently marks another breakthrough in the use of AI for complicated math problems,\" writes the Guardian, \"even as mathematicians express uneasiness around extremely lucrative private companies dishing out millions of dollars for the technology to solve problems.\"\n\n\"Claude and I have had a great time together with such breadth in recent months, but this time Claude far outpaced me near the finish line,\" Alpöge wrote, while anthropomorphizing the AI software. \"No, Claude flew, and danced, and sparkled near that finish line.\" \n\nScientific American captured more mixed reactions Friday:\n\nAs Massachusetts Institute of Technology mathematician Andrew Sutherland once put it to me: \"An AI that can prove the Riemann hypothesis is not one I'd want to meet. If that happens, mathematicians having jobs will be the least of our problems.\" \n\n\"This is indeed an historic moment,\" Sutherland tells me today after he had independently compiled Alpöge's result in Lean. \"The world has changed.... I know there will be a wide range of reactions in our community, but to me this is a human triumph, and a day for celebration.\" Sutherland says that it's worth celebrating the human work behind the development of Lean and LLMs — and, for that matter, the millennia of mathematical achievements upon which today's advance rests. But processing the earthshaking reality of what has occurred \"is going to take some time.\" \n\n\"There is much work to be done to understand the mathematical details of the proof,\" he says. \"And I can't wait to dig into them. But perhaps the single most important step in the proof was building a machine that can think.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 22, 2026 20:51",
-    "published_at": "2026-11-22T20:51:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "CachyOS November 2026 Release Adds Easy Anti-Cheat Support, Recovery Tool",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369470",
-    "description": "CachyOS November 2026 adds Easy Anti-Cheat support, a revamped package installer, and a new recovery environment for broken systems.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369470",
-    "date": "Nov 22, 2026 19:55",
-    "published_at": "2026-11-22T19:55:17Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "RK3576 compute module has 6 TOPS NPU and dual GbE carrier board",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369473",
-    "description": "The DshanPi-A1 CM5 is a compact compute module developed by 100ASK and Vanxoak, featuring Rockchip’s RK3576J octa-core processor and a 6 TOPS neural processing unit. Measuring 55 × 40mm, the module supports dual Gigabit Ethernet, multimedia processing, and industrial interfaces for embedded Linux applications. The module follows the original DshanPi-A1 single-board computer, which LinuxGizmos…",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369473",
-    "date": "Nov 22, 2026 18:25",
-    "published_at": "2026-11-22T18:25:56Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "AMD Preps More Graphics Driver Fixes For Linux 7.5, More DCN6 Enablement",
-    "link": "https://www.phoronix.com/news/AMDGPU-More-DCN6-Linux-7.5",
-    "description": "This week AMD sent out their latest batch of AMDGPU kernel graphics driver and AMDKFD kernel compute driver updates of work slated to land with the upcoming Linux 7.5 merge window...",
-    "guid": "https://www.phoronix.com/news/AMDGPU-More-DCN6-Linux-7.5",
-    "date": "Nov 22, 2026 17:40",
-    "published_at": "2026-11-22T17:40:25Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "9to5Linux Weekly Roundup: November 22nd, 2026",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369468",
-    "description": "The 319th installment of the 9to5Linux Weekly Roundup is here for the week ending November 22nd, 2026, keeping you updated on the most important developments in the Linux world.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369468",
-    "date": "Nov 22, 2026 16:49",
-    "published_at": "2026-11-22T16:49:18Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Libreboot's AI Slop Reduction Policy",
-    "link": "https://lxer.com/module/newswire/view/369465/index.html",
-    "description": "AI is the single greatest existential threat to the free software movement. It eradicates entirely the very social fabric upon which free software development is done, namely the human-led communities that define our movement; human-based knowledge will, if people rely heavily on AI, completely evaporate over time as a result of human deskilling. AI chatbots are also highly proprietary, even if you run local models as the training is still done in a non-transparent way. AI threatens the integrity of free software hosting as it performs literal DDoS attacks on websites just to get a little bit more data. Like the junkie who needs his next fix, AI is hungry for more. AI is owned and operated by a small consortium of troublesome individuals... Free software maintainers are being burned out by the sheer volume of nonsense as AI bots spam their bug trackers day and night, sending nonsensical code patches and generally wasting everyone's time. Yet so many people are using it now. This article is a copy of LIbreboot's battle cry against the scourge that is generative AI; the AI Slop Reduction Policy. Yes.",
-    "guid": "https://lxer.com/module/newswire/view/369465/index.html",
-    "date": "Nov 22, 2026 15:22",
-    "published_at": "2026-11-22T15:22:24Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
   }
 ]
