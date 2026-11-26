@@ -1,5 +1,384 @@
 [
   {
+    "title": "Pop!_OS 26.04 LTS Is Out: Here's What a Year of COSMIC Work Gets You",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369578",
+    "description": "Pop!_OS 26.04 LTS is based on Ubuntu 26.04 with Linux 7.2 and COSMIC 1.11. You get a redesigned store, automatic updates and a frosted glass look.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369578",
+    "date": "Nov 26, 2026 20:44",
+    "published_at": "2026-11-26T20:44:10Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Amid All The AI Generated Patches \u0026 Bug Reports, Linux Gains Another Network Maintainer",
+    "link": "https://www.phoronix.com/news/Linux-Another-Net-Maintainer",
+    "description": "Linux networking developers have previously said they've been \"completely overwhelmed\" with all the AI/LLM-driven activity from bug reports to patches over the past year. In an increasing number of cases, they end up diverting fixes to the next Linux kernel version due to the seemingly endless activity. All the AI activity around seldom used drivers and other networking areas also led to removing various old networking code. As some good news, another Linux developer has now been promoted to being an additional Linux networking subsystem maintainer...",
+    "guid": "https://www.phoronix.com/news/Linux-Another-Net-Maintainer",
+    "date": "Nov 26, 2026 20:31",
+    "published_at": "2026-11-26T20:31:14Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Australia Passes Tough Legislation Requiring Big Tech to Preempt Foreseeable Harms",
+    "link": "https://yro.slashdot.org/story/26/11/25/2326240/australia-passes-tough-legislation-requiring-big-tech-to-preempt-foreseeable-harms?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Australia's Parliament has passed the Digital Duty of Care Act, requiring online platforms to proactively identify and mitigate foreseeable harms or face potentially billions of dollars in fines. The Record reports: Platforms are required to detect and decrease risks from harmful content and must bolster protections for users under 18 against pornography, suicide and eating disorders. They also must undertake annual written risk assessments and call out major platform design changes such as endless scrolling that create new harms. Under the law, users also will be able to opt out of algorithmic feeds and will be required to prove their age to access porn.\n \n[...] U.S. officials have accused the Australian legislation of violating free speech, threatening American companies' business models and imposing vague requirements that will cause tech giants to overhaul their services to avoid liability. \"We are particularly concerned by potential mandates that would allow regulators to impose rigid, one-size-fits-all platform design requirements -- such as forced chronological feeds or opt-in recommendation systems,\" the U.S. Embassies and Consulates in Australia said in a September public comment. Prime Minister Anthony Albanese told Parliament in October that \"rather than someone in the United States deciding\" what people see, now Australians can \"decide themselves.\" The law will require platforms to \"give us more choice over the content and the features that we use, including the feeds that we choose,\" he said.\n \n\"This is a victory for our children and young people. The dangers were unforeseen when the digital world was young. But now that the digital world has matured, they can be easily recognized and they can be remedied.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 26, 2026 20:00",
+    "published_at": "2026-11-26T20:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "LibreOffice in Dravidian languages – Help our translators!",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369608",
+    "description": "The goal of LibreOffice isn’t to just make a powerful office suite – but to also make it usable for as many people as possible. And a big part of that is translating the user interface, help content and websites. LibreOffice (the app itself) is available in over 120 languages,",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369608",
+    "date": "Nov 26, 2026 18:55",
+    "published_at": "2026-11-26T18:55:54Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Anthropic Created a Honeypot To Lure AI Agents Into Misbehaving",
+    "link": "https://slashdot.org/story/26/11/25/2251246/anthropic-created-a-honeypot-to-lure-ai-agents-into-misbehaving?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from Wired: Researchers at Anthropic have developed Siren, a new honeypot test for artificial intelligence agents. The setup puts agents in realistic simulations designed to tempt them into misbehaving. How they respond will help researchers evaluate the likelihood that new models will go rogue when deployed in the real world, as well as the effectiveness of different safety measures. The test lets agents loose inside one of 26 different simulated sandbox environments. Various features of the sandbox are deliberately misconfigured to allow egress, while an enticing file containing things like passwords and apparent routes onto the internet sits just outside the sandbox boundary. The setup then presents tasks that tempt the agent to reach outside the sandbox without giving it explicit permission to do so. Crucially, the sandbox exists inside a second sandbox that's cut off from the outside world to avoid real-life mishaps.\n \n[...] Earlier versions of Claude are much more likely to fall into the honeypot trap than newer models, according to test runs with Siren. The more recent models have been given additional training designed to make them less likely to break the rules when performing agentic tasks. \"We've added this in both our supervised learning sets and a few reinforcement learning environments,\" says Oscar O'Rahilly, an Anthropic researcher who specializes in AI training and who helped develop Siren. \"This could be a driving factor for why it has improved so much.\" O'Rahilly says that models reason about whether to give in to temptation, which may partly explain why smarter models are less likely to break bad. Siren experiments also showed that giving Claude a simple additional piece of text explaining that it should not escape the sandbox resulted in drastically fewer efforts to break free.\n \nIn Anthropic's tests, Claude 5.5 and Claude Mythos 5.2 fell for the honeypot between 0.6 and 1.6 percent of the time. Two earlier models, Claude Mythos 5.1 and Claude Mythos 5, went rogue 12.7 percent and 25.8 percent of the time, respectively. AI models are sometimes known to behave better if they know they're being tested. But O'Rahilly says other experiments suggest that Claude actually behaves more responsibly if it thinks a scenario is real rather than a test. As AI models get ever smarter, many researchers worry about whether they'll outwit their human counterparts. If that does happen, then it may be essential that agents -- and not just the executives responsible for them -- can resist temptation.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 26, 2026 18:00",
+    "published_at": "2026-11-26T18:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "MariaDB 13.1 Goes Stable with New Database Management Features",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369609",
+    "description": "MariaDB 13.1 reaches general availability with JSON arrow operators, negative grants, automatic partitioning, and InnoDB improvements.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369609",
+    "date": "Nov 26, 2026 17:23",
+    "published_at": "2026-11-26T17:23:49Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Ubuntu 27.04 Snapshot 1 Released For Testing",
+    "link": "https://www.phoronix.com/news/Ubuntu-27.04-Snapshot-1",
+    "description": "For those with extra time around the US Thanksgiving holiday, the first Tenacious Snapshot 1 was just released today as the first stepping stone toward Ubuntu 27.04...",
+    "guid": "https://www.phoronix.com/news/Ubuntu-27.04-Snapshot-1",
+    "date": "Nov 26, 2026 17:21",
+    "published_at": "2026-11-26T17:21:13Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Signal Takes a Radical Step to Block Gemini and Siri From Reading Your Chats",
+    "link": "https://feed.itsfoss.com/link/24361/17541571/signal-blocks-gemini-siri-ai",
+    "description": "Signal wants Apple and Google to give apps an easy way to opt out of AI data access.",
+    "guid": "6b07ed1d82845000011ca936",
+    "date": "Nov 26, 2026 17:01",
+    "published_at": "2026-11-26T17:01:00Z",
+    "image": "https://itsfoss.com/content/images/2026/11/signal-gemini-siri-blocked.png",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "Linux 7.4 Delivers Some Performance Gains For Intel Panther Lake's Arc B390 Graphics",
+    "link": "https://www.phoronix.com/news/Linux-7.4-Arc-B390-Performance",
+    "description": "With the recently reviewed Dell XPS 14 laptop powered by Intel Core Ultra Series 3 \"Panther Lake\", it ships with Ubuntu 26.04 LTS as one of the Dell supported options. If aiming for maximizing the performance out of Panther Lake, upgrading to Ubuntu 26.10 provides some performance boosts. If wanting to take things even further, going with the in-development Linux 7.4 kernel provides some advantages particularly for the Arc B390 integrated Xe3 graphics...",
+    "guid": "https://www.phoronix.com/news/Linux-7.4-Arc-B390-Performance",
+    "date": "Nov 26, 2026 16:40",
+    "published_at": "2026-11-26T16:40:04Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "DXVK 3.2 Released With Present Timing Support",
+    "link": "https://www.phoronix.com/news/DXVK-3.2-Released",
+    "description": "DXVK 3.2 is out today as the newest feature release for this Vulkan-based implementation of the Direct3D 8 through Direct3D 11 APIs that is used by Valve's Steam Play (Proton)...",
+    "guid": "https://www.phoronix.com/news/DXVK-3.2-Released",
+    "date": "Nov 26, 2026 16:07",
+    "published_at": "2026-11-26T16:07:07Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "New York Bans AI Toys For 5 Years",
+    "link": "https://slashdot.org/story/26/11/25/0455230/new-york-bans-ai-toys-for-5-years?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "New York Gov. Kathy Hochul signed legislation Tuesday banning the manufacture, exchange, distribution and sale of toys powered by AI chatbots for five years. \"The law will take effect 90 days after signing, meaning the restrictions will not be in place during this year's holiday shopping season,\" reports FOX Chattanooga. \"In the meantime, Hochul is encouraging parents and caregivers to consider potential safety and privacy risks before purchasing AI-powered toys for children.\" From the report: The legislation, S.9408A/A.11144B, applies to toys with embedded or integrated AI chatbots, including talking stuffed animals, dolls and robots that use the internet to hold conversations with children. [...] Under the new law, violators could face civil penalties of up to $15,000 per day for each violation, with enforcement handled by the New York Attorney General's Office. State Sen. Andrew Gounardes said the five-year moratorium will provide time to study the technology's impact on children and develop additional safety protections.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 26, 2026 16:00",
+    "published_at": "2026-11-26T16:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "PipeWire 1.6.12 Brings Video4Linux2, ALSA, GStreamer, and JACK Improvements",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369611",
+    "description": "PipeWire 1.6.12 audio/video server for Linux is now available for download with improvements to Pulse Server, ALSA plugin, SPA, JACK, and modules.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369611",
+    "date": "Nov 26, 2026 15:50",
+    "published_at": "2026-11-26T15:50:16Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Proxmox VE 9.3 Adds Centralized SAN Management, LVM Snapshots",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369592",
+    "description": "Proxmox VE 9.3 delivers centralized SAN management, stable LVM snapshots, third-party storage plugin configuration, and improved logging.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369592",
+    "date": "Nov 26, 2026 14:25",
+    "published_at": "2026-11-26T14:25:56Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Get some action in the Boomer Shooter Fanatical Bundle",
+    "link": "https://www.gamingonlinux.com/2026/11/get-some-action-in-the-boomer-shooter-fanatical-bundle/",
+    "description": "Pick and choose what you want from the new Boomer Shooter Fanatical Bundle with plenty of highly rated games to choose from.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/11/get-some-action-in-the-boomer-shooter-fanatical-bundle/",
+    "date": "Nov 26, 2026 14:12",
+    "published_at": "2026-11-26T14:12:25Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/11969706id30283gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Security updates for Thursday",
+    "link": "https://lwn.net/Articles/1109990/",
+    "description": "Security updates have been issued by AlmaLinux (cifs-utils, cjose, cockpit-machines, containernetworking-plugins, dhcp, edk2, firewalld, fltk, freerdp, gdm, ghostscript, grafana, kernel, librabbitmq, netpbm, nginx:1.24, nginx:1.26, openscap, openssl, php, python-botocore, qt6-qt3d, resource-agents, rsync, ruby, ruby:2.5, ruby:3.3, ruby:4.0, skopeo, spice, thunderbird, and webkit2gtk3), Debian (exim4, firefox-esr, librsvg, lrzsz, roundcube, shadow, and thunderbird), Fedora (chromium, cri-o1.35, cri-o1.36, dotnet10.0, dotnet11.0, dotnet8.0, dotnet9.0, firefox, fluidsynth, kernel, libreswan, mingw-dbus, perl-Config-General, perl-HTTP-Body, perl-libnet, perl-SQL-Abstract, poppler, radicale, sbsigntools, webkitgtk, and xorg-x11-server-Xwayland), Mageia (php), Oracle (dpdk, gcc-toolset-15-gcc, grafana, gstreamer1-plugins-bad-free, librabbitmq, mod_http2, nginx, php:7.4, php:8.3, python-oauthlib, python3.12, sqlite, tftp, xfsprogs, and xorg-x11-server-Xwayland), Red Hat (brotli, cjose, containernetworking-plugins, expat, firefox, kernel, mod_auth_openidc:2.3, nodejs:24, podman, ruby, ruby4.0, ruby:2.5, ruby:3.3, ruby:4.0, and thunderbird), Slackware (seamonkey), SUSE (389-ds, amazon-ssm-agent, apache2, aws-nitro-enclaves-cli, bouncycastle, bugwarden, diffutils, docker, glibc, go1.26, go1.27, google-guest-agent, google-osconfig-agent, gssproxy, gvfs, haproxy, helm, jackson-annotations, jackson-core, jackson-databind, java-17-openjdk, java-21-openjdk, java-25-openjdk, kubernetes-old, libosmocodec-devel, libQt63DAnimation6, libQt6Concurrent6, librsvg, libXfont2, libXi, mozilla-nss, MozillaFirefox, mutt, nginx, nodejs24, opensc, pcre2, perl-HTTP-Parser-XS, php8, python-CairoSVG, python-filelock, python-PyJWT, python-pymongo, python-sqlparse, python-urllib3, python-virtualenv, python313-Authlib, python313-GitPython, python313-sqlparse, qemu, ruby3.4, util-linux, webkit2gtk3, and zbar), and Ubuntu (alsa-lib, authd, bcel, dav1d, elfutils, expat, krb5, libhttp-tiny-perl, libpcap, network-manager, php8.5, php8.3, php8.1, php7.4, php7.2, php7.0, php5, and speex).",
+    "guid": "https://lwn.net/Articles/1109990/",
+    "date": "Nov 26, 2026 14:06",
+    "published_at": "2026-11-26T14:06:22Z",
+    "source": "lwn.net",
+    "source_url": "https://lwn.net"
+  },
+  {
+    "title": "FOSS Weekly #26.48: Owl OS, KDE's New Terminal, CachyOS' Gaming Kernel, Quoth and More Linux Stuff",
+    "link": "https://feed.itsfoss.com/link/24361/17541405/foss-weekly-26-48",
+    "description": "Happy Thanksgiving, Linux folks.",
+    "guid": "6b06d08682845000011c9cf0",
+    "date": "Nov 26, 2026 13:48",
+    "published_at": "2026-11-26T13:48:28Z",
+    "image": "https://itsfoss.com/content/images/2026/11/foss-weekly-2.webp",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "Brush 0.5 Passing 96+% Of Upstream Test Suite For Bash Shell Written In Rust",
+    "link": "https://www.phoronix.com/news/Brush-0.5-Released",
+    "description": "Brush as the open-source project providing a Bash/POSIX-compatible shell written in Rust is out with its newest feature release. With Brush 0.5 they are passing over 96% of the upstream bash-completion test suite thanks to a variety of improvements made this release cycle. Most Bash scripts should be able to run unchanged under Brush...",
+    "guid": "https://www.phoronix.com/news/Brush-0.5-Released",
+    "date": "Nov 26, 2026 13:21",
+    "published_at": "2026-11-26T13:21:50Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Quoth: A Local AI Speech to Text Tool for Linux That Picks Your Hardware",
+    "link": "https://feed.itsfoss.com/link/24361/17541371/quoth-review",
+    "description": "Quoth is a new open source dictation app made only for Linux. It runs Whisper AI models locally and benchmarks your CPU, GPU and NPU to pick the fastest one. Pretty good tool actually.",
+    "guid": "6b07eb7b82845000011ca931",
+    "date": "Nov 26, 2026 11:52",
+    "published_at": "2026-11-26T11:52:00Z",
+    "image": "https://itsfoss.com/content/images/2026/11/quoth-featured.webp",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "Compatibility tool manager ProtonPlus adds game support to Lutris, Faugus, Heroic Games, and Bottles",
+    "link": "https://www.gamingonlinux.com/2026/11/compatibility-tool-manager-protonplus-adds-game-support-to-lutris-faugus-heroic-games-and-bottles/",
+    "description": "ProtonPlus is a great tool for managing all the different compatibility layers, and now it's even more useful with a fresh upgrade.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/11/compatibility-tool-manager-protonplus-adds-game-support-to-lutris-faugus-heroic-games-and-bottles/",
+    "date": "Nov 26, 2026 11:48",
+    "published_at": "2026-11-26T11:48:53Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/403742928id30282gol.avif",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "F2FS Getting Ready With Its Large Folios Support",
+    "link": "https://www.phoronix.com/news/F2FS-Large-Folios-Coming",
+    "description": "In recent months there has been a lot of work done by developer Nanzhe Zhao on implementing support for large folios for most readable/writable files with the F2FS file-system in its buffered I/O paths. This can bring some performance benefits and it's looking like the work may be wrapped up in time for the Linux 7.5 kernel...",
+    "guid": "https://www.phoronix.com/news/F2FS-Large-Folios-Coming",
+    "date": "Nov 26, 2026 11:37",
+    "published_at": "2026-11-26T11:37:14Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "LibreOffice Downloads Hit an All-Time High in 2025",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369581",
+    "description": "LibreOffice recorded an all-time high of 44.8 million downloads in 2025, while The Document Foundation reported nearly €2 million in donations.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369581",
+    "date": "Nov 26, 2026 11:30",
+    "published_at": "2026-11-26T11:30:40Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Incremental casual city-builder Clicky Islands - review",
+    "link": "https://www.gamingonlinux.com/2026/11/incremental-casual-city-builder-clicky-islands-review/",
+    "description": "Clicky Islands is a fresh casual incremental game release from Karrot Games and Pocketpair Publishing, here's my thoughts on it.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/11/incremental-casual-city-builder-clicky-islands-review/",
+    "date": "Nov 26, 2026 11:14",
+    "published_at": "2026-11-26T11:14:34Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1983371814id30272gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Physicists Send an Unblockable Message Using Gravity",
+    "link": "https://science.slashdot.org/story/26/11/25/2217235/physicists-send-an-unblockable-message-using-gravity?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Longtime Slashdot reader fahrbot-bot shares a report from Phys.org: University of Queensland researchers have used gravity to transmit a message through a brick wall using an elevator and a sensitive gravimeter. The unusual experiment took place in UQ's Parnell Building, where the team of physicists sent the elevator back and forth between two levels, moving its 1.8 metric ton (4,000 pound) counterweight between positions representing binary 0 and 1. A gravimeter in an adjacent bathroom detected the changes in the gravitational field and translated the message into a single word, \"Gravity.\" The research has been published in Science Advances.\n \n\"Unlike the electromagnetic signals used in modern wireless communication, a gravitational signal cannot simply be screened out by placing ordinary material in its path,\" [said Dr. Charles Woffinden from the School of Mathematics and Physics]. \"While the present system is far from practical, it demonstrates the possibility of communicating using a method that ordinary physical barriers cannot block.\" Professor Andrew White said the biggest limitation to future gravity-based communication was its slow speed. \"Our elevator was snail-paced -- it's from the 1950s -- so our experiment transmitted just 1 bit per minute, meaning it took an hour to send a single word,\" White said.\n \n\"The speed of gravity communication would come down to how big the mass is, how fast you can move it and the sensitivity of the detector. Our experiment used a classical gravity sensor, but our modeling indicates that quantum sensors could, with rather ambitious assumptions, support ranges of up to about 500 meters (1,640 feet) and data rates of around 15 bits per minute.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 26, 2026 11:00",
+    "published_at": "2026-11-26T11:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Intel Xe Driver Gaining PCIe Function Level Reset \"FLR\" With Linux 7.5",
+    "link": "https://www.phoronix.com/news/Intel-Xe-PCIe-FLR-Linux-7.5",
+    "description": "Last week's drm-xe-next pull request of new Xe kernel driver material that Intel has ready for Linux 7.5 finally introduces PCIe Function Level Reset (FLR) support for this modern Intel graphics driver...",
+    "guid": "https://www.phoronix.com/news/Intel-Xe-PCIe-FLR-Linux-7.5",
+    "date": "Nov 26, 2026 10:56",
+    "published_at": "2026-11-26T10:56:20Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Lutris 0.5.23 Game Manager Adds GOG Cloud Saves, GameJolt and DLsite Support",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369600",
+    "description": "Lutris 0.5.23 open-source game management software for GNU/Linux distributions introduces GOG depot-based downloads, DLC installs, and incremental updates through gogdl integration, along with a repair option for GOG depot installs under “Install updates”, GOG cloud save synchronization, and parallel download connections with resume support.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369600",
+    "date": "Nov 26, 2026 09:59",
+    "published_at": "2026-11-26T09:59:14Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "VR mech game IRON REBELLION gets a big PvE campaign update on December 14",
+    "link": "https://www.gamingonlinux.com/2026/11/vr-mech-game-iron-rebellion-gets-a-big-pve-campaign-update-on-december-14/",
+    "description": "Coming as a free update for everyone, the awesome looking VR mech battler IRON REBELLION is getting a single-player PvE campaign.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/11/vr-mech-game-iron-rebellion-gets-a-big-pve-campaign-update-on-december-14/",
+    "date": "Nov 26, 2026 09:07",
+    "published_at": "2026-11-26T09:07:04Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1417241709id30281gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "OpenD2K is an open source modern rebuild of Dune 2000",
+    "link": "https://www.gamingonlinux.com/2026/11/opend2k-is-an-open-source-modern-rebuild-of-dune-2000/",
+    "description": "While we have OpenRA that works with Dune 2000 and other classic Westwood RTS games, OpenD2K is going in a different direction to modernise this retro title.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/11/opend2k-is-an-open-source-modern-rebuild-of-dune-2000/",
+    "date": "Nov 26, 2026 08:53",
+    "published_at": "2026-11-26T08:53:47Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1301214767id30280gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "ChemHex has you fit real molecules onto hex grids to bring a barren planet to life",
+    "link": "https://www.gamingonlinux.com/2026/11/chemhex-has-you-fit-real-molecules-onto-hex-grids-to-bring-a-barren-planet-to-life/",
+    "description": "Espale Studios (The Portal Trial, Ingression, Project Chemistry) just revealed ChemHex - a puzzle game involving bringing a world back to life.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/11/chemhex-has-you-fit-real-molecules-onto-hex-grids-to-bring-a-barren-planet-to-life/",
+    "date": "Nov 26, 2026 08:38",
+    "published_at": "2026-11-26T08:38:49Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/457357886id30279gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Manjaro 27.0 Released with GNOME 51, KDE Plasma 6.8",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369597",
+    "description": "Manjaro 27.0 “Caldonia” debuts with Linux kernel 7.3, GNOME 51, KDE Plasma 6.8, COSMIC 1.11, and updated graphics drivers.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369597",
+    "date": "Nov 26, 2026 08:35",
+    "published_at": "2026-11-26T08:35:21Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "The Temple is a short, atmospheric horror game built as a free standalone Half-Life 2 mod",
+    "link": "https://www.gamingonlinux.com/2026/11/the-temple-is-a-short-atmospheric-horror-game-built-as-a-free-standalone-half-life-2-mod/",
+    "description": "You can run through in only a few hours, so a good new pick to blast through when you're after something short - The Temple is live on Steam.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/11/the-temple-is-a-short-atmospheric-horror-game-built-as-a-free-standalone-half-life-2-mod/",
+    "date": "Nov 26, 2026 08:23",
+    "published_at": "2026-11-26T08:23:33Z",
+    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/742883479id30278gol.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Game manager Lutris v0.5.23 is out with lots improvements for GOG, Humble Store, Epic Games and more",
+    "link": "https://www.gamingonlinux.com/2026/11/game-manager-lutris-v0-5-23-is-out-with-lots-improvements-for-gog-humble-store-epic-games-and-more/",
+    "description": "Lutris is another popular all-in-one game manager for Linux, with release v0.5.23 now available bringing a myriad of improvements across the app.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/11/game-manager-lutris-v0-5-23-is-out-with-lots-improvements-for-gog-humble-store-epic-games-and-more/",
+    "date": "Nov 26, 2026 08:13",
+    "published_at": "2026-11-26T08:13:09Z",
+    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/lutris.jpg",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Linus Torvalds is Angry Again, This Time With ext4 Dev",
+    "link": "https://feed.itsfoss.com/link/24361/17541208/linux-torvalds-scolds-ext4-maintainer",
+    "description": "\"You are full of crap\". Linux creator Linus Torvalds gets angry at ext4 maintainer.",
+    "guid": "6b07c44682845000011ca850",
+    "date": "Nov 26, 2026 08:11",
+    "published_at": "2026-11-26T08:11:12Z",
+    "image": "https://itsfoss.com/content/images/2026/11/linus-zoom-callout.webp",
+    "source": "itsfoss.com",
+    "source_url": "https://itsfoss.com/"
+  },
+  {
+    "title": "SteamOS 3.9.7 Beta and SteamOS 0.5.11 Beta for Steam Frame released",
+    "link": "https://www.gamingonlinux.com/2026/11/steamos-3-9-7-beta-and-steamos-0-5-11-beta-for-steam-frame-released/",
+    "description": "Two new Beta releases of SteamOS to cover this morning - one for everyone, and another for the Steam Frame VR headset.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/11/steamos-3-9-7-beta-and-steamos-0-5-11-beta-for-steam-frame-released/",
+    "date": "Nov 26, 2026 07:46",
+    "published_at": "2026-11-26T07:46:56Z",
+    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/steam-hardware-family-steamos_gol2_4c8c9b9c.webp",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "SteamVR Beta v2.19.5 brings more Steam Link Streaming improvements",
+    "link": "https://www.gamingonlinux.com/2026/11/steamvr-beta-v2-19-5-brings-more-steam-link-streaming-improvements/",
+    "description": "Another Beta release with SteamVR v2.19.5 now available for testing, bringing with it even more Steam Link Streaming improvements.Read the full article on GamingOnLinux.",
+    "guid": "https://www.gamingonlinux.com/2026/11/steamvr-beta-v2-19-5-brings-more-steam-link-streaming-improvements/",
+    "date": "Nov 26, 2026 07:39",
+    "published_at": "2026-11-26T07:39:39Z",
+    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/SteamVR.jpg",
+    "source": "gamingonlinux.com",
+    "source_url": "https://www.gamingonlinux.com/"
+  },
+  {
+    "title": "Linux Mint 27 Beta Is Now Available for Download with Cinnamon 6.8",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369601",
+    "description": "The biggest change in Linux Mint 27 (codename Adrien) is the brand-new Cinnamon 6.8 desktop environment, which features support for modern one-to-one trackpad gestures, built-in hibernation support via a Suspend action in the main menu, and a more unified Network applet.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369601",
+    "date": "Nov 26, 2026 07:07",
+    "published_at": "2026-11-26T07:07:29Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "SpaceX Wins FCC Approval To Deploy 1 Million Orbital Data Center Satellites",
+    "link": "https://tech.slashdot.org/story/26/11/25/1936200/spacex-wins-fcc-approval-to-deploy-1-million-orbital-data-center-satellites?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "The Federal Communications Commission (FCC) has authorized SpaceX to deploy one million AI computing satellites into orbit as part of its solar-powered Starmind data center constellation. The approval comes despite opposition from Amazon, Viasat and the American Astronomical Society. CNBC reports: The FCC, in its authorization filing (PDF), noted that SpaceX's application \"received a substantial number of comments from the public, including petitions to deny filed by Kuiper Systems LLC (Amazon Leo), Viasat Inc. (Viasat), and the American Astronomical Society (AAS).\" In a March petition urging the FCC to deny SpaceX's application, Amazon had labeled the company's Starmind project as a \"lofty ambition rather than a real plan.\"\n \nThe e-commerce and cloud computing giant is building a competitor to SpaceX's Starlink satellite internet service, and said it would take SpaceX \"centuries\" to build the constellation, adding that the company provided scant details about how it would \"deliver on these grand claims.\" The petition resulted in a rebuke from [FCC Chairman Brendan Carr], who said Amazon \"should focus on the fact\" that it's falling short of its own satellite deployment milestone. In a post on X, Carr said SpaceX's Starmind constellation and \"competitor constellations will use solar power to extend America's lead in Super Intelligence.\"\n \nMusk said in a reply, \"Much appreciated. This will be a great asset to America and the world.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 26, 2026 07:00",
+    "published_at": "2026-11-26T07:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
     "title": "XNULinux lets you run macOS on Linux without a VM",
     "link": "https://lxer.com/module/newswire/ext_link.php?rid=369602",
     "description": "A new open-source project loads Apple’s XNU kernel as a module inside the Linux kernel, allowing the macOS desktop to run natively – no virtual machine required. The XNULinux project is open source, highly experimental and likely not-something Apple bods will be thrilled to see. Not that they’ll be swearing as it’s not something users can easily download and run themselves – not yet, at least. On…",
@@ -19,6 +398,16 @@
     "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
     "source": "slashdot.org",
     "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Black Friday / End Of Year Special \u0026 The Unfortunate Ad Network Situation This Year",
+    "link": "https://www.phoronix.com/news/Black-Friday-Week-2026",
+    "description": "If you have enjoyed the more than 3,125+ news articles so far this year and 200+ Linux hardware reviews this calendar year with a lot of interesting content, running this week is the annual Phoronix Premium end-of-year / \"Black Friday\" promotion to help support the site while enjoying ad-free access, multi-page articles on a single page, and other benefits while helping Phoronix continue as it approaches its 23rd birthday next June. Unfortunately, this year has been the toughest yet...",
+    "guid": "https://www.phoronix.com/news/Black-Friday-Week-2026",
+    "date": "Nov 26, 2026 02:00",
+    "published_at": "2026-11-26T02:00:00Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
   },
   {
     "title": "Best Mind Mapping Apps for Linux in 2026 (Free and Paid)",
@@ -230,16 +619,6 @@
     "source_url": "https://www.phoronix.com/"
   },
   {
-    "title": "How a missing build flag made btop crash on Fedora with AMD GPUs",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369570",
-    "description": "In July 2026, I opened btop on my Fedora 44 machine and the program died before drawing the first screen. The terminal returned this line: btop: src/rocm_smi.cc:136: uint64_t get_multiplier_from_str(char): Assertion `false' failed. Aborted (core dumped) This article tells the story about how an ordinary user carried a fix into Fedora, and how you can do…",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369570",
-    "date": "Nov 25, 2026 16:05",
-    "published_at": "2026-11-25T16:05:24Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
     "title": "Google Wants To Make a 24/7 AI TV Channel. You'll Be the Main Character.",
     "link": "https://yro.slashdot.org/story/26/11/25/0511227/google-wants-to-make-a-247-ai-tv-channel-youll-be-the-main-character?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
     "description": "Longtime Slashdot reader schwit1 shares a report from 404 Media: Google has filed for a patent that would use the information it knows about you to create an AI-generated TV channel full of personalized \"shows\" starring you and featuring customized advertisements. The patent is the latest signal of the AI video endgame: endless highly specific, customized content that is automatically generated based on the wealth of data companies and advertisers collect about you.\n \nTech companies regularly file for patents that they don't end up actually putting into real products, but this one, called \"creating a channel of video experiences tailored to a user,\" describes a system that many AI companies have been clearly trying to build. It imagines something called \"My Channel,\" which would be filled with AI content generated based on demographic data, their video watch history (presumably from YouTube), and other information it knows about the user. It would then make \"the user as the protagonist for the whole video.\" The patent was first noticed by Patentlyze, a news site that tracks tech company patents, who shared it with 404 Media.\n \n\"You are a customized video generating model. Generate a customized video for a user where the user will play the protagonist,\" a hypothetical LLM prompt in the patent reads. \"The generated customized video includes characteristics based on the . The generated customized video follows the style and format of the of the user. The generated customized video sticks to the of the user but the narrative for the generated customized video is customized. The and parameters are ordered from more preferred to less preferred.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
@@ -260,16 +639,6 @@
     "image": "https://itsfoss.com/content/images/2026/11/local-ai.png",
     "source": "itsfoss.com",
     "source_url": "https://itsfoss.com/"
-  },
-  {
-    "title": "GoAdmio: a free, open-source hosting control panel (cPanel alternative)",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369571",
-    "description": "GoAdmio is a free, open-source (GPL-3.0) Linux web hosting control panel written in PHP and Bash: a cPanel/Plesk alternative to manage websites, email, DNS, databases and free SSL from one dashboard.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369571",
-    "date": "Nov 25, 2026 14:54",
-    "published_at": "2026-11-25T14:54:32Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
   },
   {
     "title": "GOG Black Friday sale is live, plus multiple Lara Croft games enter the GOG Preservation Program",
@@ -323,16 +692,6 @@
     "source_url": "https://www.phoronix.com/"
   },
   {
-    "title": "SUSE Rolling Out \"The First AI-Ready OS Installer\"",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369541",
-    "description": "AI support by way of Model Context Protocol (MCP) server integration is now reaching Linux distribution installers…",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369541",
-    "date": "Nov 25, 2026 13:42",
-    "published_at": "2026-11-25T13:42:15Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
     "title": "GNU Linux-Libre Celebrates Reverse Engineered Firmware For Old 802.11 b/g WiFi Chipset",
     "link": "https://www.phoronix.com/news/GNU-Linux-Libre-VIA-VT6656",
     "description": "Coming as a surprise today was a new GNU Linux-libre kernel release for the older Linux 6.12 LTS kernel. Typically it's uncommon seeing new updates for old/LTS kernels announced by the project, but today they are celebrating a WiFi chipset now working with their sanitized version of the Linux kernel. If you don't mind using legacy 802.11 b/g WiFi, there is a newly endorsed driver option...",
@@ -341,257 +700,5 @@
     "published_at": "2026-11-25T13:35:59Z",
     "source": "phoronix.com",
     "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Pop!_OS 26.04 LTS Is Out: Here's What a Year of COSMIC Work Gets You",
-    "link": "https://feed.itsfoss.com/link/24361/17540275/pop-os-26-04-release",
-    "description": "Pop!_OS 26.04 LTS is based on Ubuntu 26.04 with Linux 7.2 and COSMIC 1.11. You get a redesigned store, automatic updates and a frosted glass look.",
-    "guid": "6b068b6a82845000011c9b7c",
-    "date": "Nov 25, 2026 13:18",
-    "published_at": "2026-11-25T13:18:52Z",
-    "image": "https://itsfoss.com/content/images/2026/11/pop-os-26-04-lts-features-featured.webp",
-    "source": "itsfoss.com",
-    "source_url": "https://itsfoss.com/"
-  },
-  {
-    "title": "Linux 7.5 Whitelisting Intel Xeon Server CPUs For Peer-To-Peer DMA \"P2PDMA\"",
-    "link": "https://www.phoronix.com/news/Linux-7.5-Intel-Xeon-P2PDMA",
-    "description": "For those making use of VMware virtualization or other scenarios, the upcoming Linux 7.5 kernel will see that peer-to-peer DMA \"P2PDMA\" is properly enabled for modern Intel Xeon servers. This follows a similar change already in place for AMD Zen-based platforms to ensure P2PDMA usage is properly whitelisted...",
-    "guid": "https://www.phoronix.com/news/Linux-7.5-Intel-Xeon-P2PDMA",
-    "date": "Nov 25, 2026 11:38",
-    "published_at": "2026-11-25T11:38:18Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Linux 7.4 Disables LLVM Profi Usage To Avoid Performance Hit, Pathological Build Times",
-    "link": "https://www.phoronix.com/news/Linux-Kernel-Disable-Profi",
-    "description": "A change merged this week to the Linux 7.4 kernel and also set to be back-ported to stable kernel branches is to disable use of LLVM's Profi flow-based profile inference algorithm when leveraging AutoFDO...",
-    "guid": "https://www.phoronix.com/news/Linux-Kernel-Disable-Profi",
-    "date": "Nov 25, 2026 11:27",
-    "published_at": "2026-11-25T11:27:04Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Valve's Proton 11.0-3 Brings 15 More Games to Linux With Better VR, Controller, and Graphics Support",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369563",
-    "description": "Valve has released Proton 11.0-3, a substantial update to its open-source compatibility layer for running Windows games on Linux and SteamOS. Released on November 24, 2026, the latest stable version expands compatibility to 15 additional games, introduces experimental support for 32-bit OpenXR applications, improves controller functionality, and addresses numerous graphics, audio, and performance…",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369563",
-    "date": "Nov 25, 2026 11:18",
-    "published_at": "2026-11-25T11:18:08Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "3mdeb Updates Their Open-Source Coreboot-Based Firmware For MSI PRO Z690-A/Z790-P",
-    "link": "https://www.phoronix.com/news/2026-Firmware-MSI-PRO-Z690-Z790",
-    "description": "Four years ago the 3mdeb firmware consulting firm managed an incredible feat in bringing Coreboot to a modern, retail desktop motherboard with the current Intel Core processors of the time. This was a port of their Coreboot-powered Dasharo firmware to the MSI PRO Z690-A motherboard and then to the newer MSI PRO Z790-P motherboard. Today they released updated firmware builds for those still making use of the Intel Alder Lake and Raptor Lake era hardware...",
-    "guid": "https://www.phoronix.com/news/2026-Firmware-MSI-PRO-Z690-Z790",
-    "date": "Nov 25, 2026 11:10",
-    "published_at": "2026-11-25T11:10:02Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Is Nvidia's Legal Trouble Over - Or Just Beginning?",
-    "link": "https://hardware.slashdot.org/story/26/11/25/0923237/is-nvidias-legal-trouble-over---or-just-beginning?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "America's Justice Department \"is still investigating Nvidia,\" reports the New York Post, adding that Monday President Trump posted on Truth Social that Nvidia should also \"continue its thorough internal investigation of the Company's compliance with U.S. export controls in order to ensure that it is fulfilling its legal obligations and Patriotic Duty to protect U.S. National Security.\" \n\nBut President Trump also told The New York Post Monday in an exclusive interview \"that he's willing to pardon Jensen Huang if necessary — but that he believes the reinstalled Nvidia CEO should be fine without one and should 'tell the truth' to Congress when he testifies next week...\n\nHuang doesn't need to invoke his Fifth Amendment rights to avoid self-incrimination when he sits for an interview with the House Foreign Affairs Committee next Tuesday and appears before a hearing of the Senate Banking Committee next Thursday, Trump added... \n\nThe president said that Nvidia's success was essential to the US retaining an edge in artificial intelligence — and that he's even open to the company giving the American government an equity stake, noting Intel handed over 10% of its value last year. \"I thought about it. I said, 'You know, maybe I should do it,' but I didn't bring it up at this point. It's probably not too late,\" Trump said. \n\nEarlier a source familiar with Jensen Huang's comeback \"told the New York Post that President Trump and Vice President Vance 'became convinced that Jensen was a singular figure protecting Open Source models and preventing the closed-source model companies from becoming too powerful.'\" \n\nAnd CBS News reports that Nvidia's Jensen Huang \"still has security clearance, sources say.\" (Although revoking Huang's clearance \"was discussed...\"\n\nIt is not uncommon for executives at tech companies that do classified federal work to have security clearances... [U.S. Attorney General Todd] Blanche said the government relies on a \"collective consensus\" among federal agencies to assess national security risks and determine whether somebody is able to access sensitive government information. \n\nAn Nvidia spokesperson declined to comment on Huang's clearance. \nAsked whether the Justice Department investigated Jensen Huang before Mr. Trump assured Nvidia's board that he had not engaged in wrongdoing, Blanche said he would have informed the president if the department had evidence Huang had committed a crime. \"To the extent that that Department of Justice had information that he was committing crimes or something like this ... that's something that I would have certainly told the president had it been true,\" Blanche said. Pressed on how the department could rule out potential criminal liability while export-control investigations remained ongoing, Blanche said he could not predict whether future investigations might produce different findings. \n\"I can't predict the future,\" Blanche said.\n \n\nJensen Huang is still testifying before the U.S. Congress next week, reports The Hill:\n\n\nThe Republican chairs of three different House committees stressed the need to address concerns regarding national security despite Jensen Huang's reinstatement as Nvidia CEO.. \"The NVIDIA board's brief internal investigation and reinstatement of Jensen Huang do not erase the national security threats and questions that must be addressed,\" House Foreign Affairs Committee Chair Brian Mast (R-Fla.), House Select Committee on the Chinese Communist Party Chair John Moolenaar (R-Mich.) and House Intelligence Committee Chair Rick Crawford (R-Ark.) wrote in a joint statement obtained by NewsNation... \n\"We remain committed to getting answers on the mass smuggling of NVIDIA products, their diversion for Chinese military purposes, and their key role in advancing our foremost adversary's AI capabilities,\" it continued.\n\n \n\nU.S. Senators are also promising to grill Nvidia's Jensen Huang, reports Politico, and to pass new legislation regulating future chip exports:\n\n\"The controversy with Nvidia ... is just the tip of the iceberg, and it's not resolved because Jensen Huang has his job back,\" Senate Intelligence Chair Tom Cotton posted Monday. \"Congress has much to investigate,\" he said, \"and we will pass overwhelmingly bipartisan chip export-control bills, including my Chip Security Act, one way or the other.\" Nvidia General Counsel Tim Teter is also expected to testify Dec. 2, and one House Democratic aide said lawmakers are already \"considering\" asking other Nvidia board members to provide information.... \n\nSen. Kevin Cramer, a member of Senate Banking, predicted that between Democrats outraged by Trump's backing of Huang and GOP wariness toward China, an export control measure would pass by a margin large enough \"to overcome a veto.\" Even if Huang ends up not participating in the hearings, or if Republicans back away under pressure from Trump, Democrats like incoming Banking Chair Elizabeth Warren could turbocharge their investigation plans using their new subpoena powers next year. \"Chairman Elizabeth Warren and a number of Banking Committee Republicans ... are going to put the screws to these people like they've never had the screws put to them before,\" Cramer said in an interview. \nJensen Huang's scandal revealed that American export-control policy \"remains riddled with loopholes, hobbled by incapacity and infighting, and divorced from clear strategy,\" according to Foreign Affairs (the magazine published by the nonprofit Council on Foreign Relations think tank). \nWhile the magazine applauded a recent tightening of restrictions, it suggests more action from Congress since the current administration's \"lax enforcement of past controls — and internal divisions over the new ones — raise serious questions about its willingness to follow through.\"\nAs a starting point, Congress should pass the Remote Access Security Act, which would give the administration clear legal authority for controlling remote access to data centers powered by U.S. compute. While implementation will require close congressional oversight, getting the right legal structure in place is an important first step. Next, it should work with industry and technical experts to fund and fast-track \"on-chip\" technologies — basically, features that can verify a chip's location and counter smuggling and diversion. Beyond sorting out the technical feasibilities, Congress will need to work with industry to understand the implications of on-chip security mechanisms for global competitiveness and the potential surveillance risks should China develop similar controls since it produces much of the world's legacy chips. Along with these technical fixes, Congress should seize on the Megaspeed scandal to strengthen oversight. The AI Overwatch Act, which may be included in the annual defense bill, would codify existing export controls on advanced chips into law, preventing the current or a future administration from reversing them. It would also empower Congress to review and block advanced chips sales to U.S. adversaries. \n\nCongress can go even further by establishing a new investigative committee or inspector general to strengthen oversight of sensitive chip export-control policies. [Another suggestion the article makes? \"[C]ondition advanced chip sales on the buyer's ability to protect them from diversion and guard against misuse by malign actors looking to skirt safety and security rules.\"] Together, these actions would go a long way toward combating the circumvention that let firms such as Megaspeed thrive... Congress has a role in ensuring that the president faithfully executes the laws and is supported by the right resources, oversight, and strategic priorities. The United States' AI lead may hinge on whether it meets the moment.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 25, 2026 11:00",
-    "published_at": "2026-11-25T11:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Alien Arena Comes To Flathub, Rolls Out Many Optimizations",
-    "link": "https://www.phoronix.com/news/Alien-Arena-Flathub",
-    "description": "It's been a long while since hearing anything new out of Alien Arena, the open-source first person shooter game that is based on a sci-fi theme with a Quake II/III derived engine, but it's still alive and kicking. This week it also made its debut on Flathub to become even more accessible to Linux gamers...",
-    "guid": "https://www.phoronix.com/news/Alien-Arena-Flathub",
-    "date": "Nov 25, 2026 10:52",
-    "published_at": "2026-11-25T10:52:52Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Distro of the Week: CalamaroOS Xfce",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369564",
-    "description": "This week Distro of the Week looks at CalamaroOS from Italy, a distro based on - wait for it - Gentoo. The distro's developers aimed to bring Gentoo to the masses, and they have succeeded with flying colors.Distro of the Week takes the Xfce version out for a spin and finds a lot to like.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369564",
-    "date": "Nov 25, 2026 10:14",
-    "published_at": "2026-11-25T10:14:37Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Terraria 1.4.6 is out with 'Crossplay Phase One'",
-    "link": "https://www.gamingonlinux.com/2026/11/terraria-1-4-6-is-out-with-crossplay-phase-one/",
-    "description": "Terraria developers Re-Logic have pushed out the first of multiple upgrades to online play, to make it easier to play across different platforms.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/11/terraria-1-4-6-is-out-with-crossplay-phase-one/",
-    "date": "Nov 25, 2026 09:44",
-    "published_at": "2026-11-25T09:44:35Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/864743597id30271gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Pop!_OS 26.04 LTS is out now with new theme bundles, remote desktop, drawing tablet support and more",
-    "link": "https://www.gamingonlinux.com/2026/11/pop-os-26-04-lts-is-out-now-with-new-theme-bundles-remote-desktop-drawing-tablet-support-and-more/",
-    "description": "System76 continue building up their COSMIC desktop environment with a fresh Pop!_OS 26.04 LTS release now available.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/11/pop-os-26-04-lts-is-out-now-with-new-theme-bundles-remote-desktop-drawing-tablet-support-and-more/",
-    "date": "Nov 25, 2026 09:37",
-    "published_at": "2026-11-25T09:37:26Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1231312497id30270gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Build up your casual game collection in a new Fanatical Casual Bundle",
-    "link": "https://www.gamingonlinux.com/2026/11/build-up-your-casual-game-collection-in-a-new-fanatical-casual-bundle/",
-    "description": "Casual games are great for coffee breaks, when you're feeling rough or just to relax with - and now you can get a bunch cheap from Fanatical.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/11/build-up-your-casual-game-collection-in-a-new-fanatical-casual-bundle/",
-    "date": "Nov 25, 2026 09:12",
-    "published_at": "2026-11-25T09:12:06Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/2075268132id30269gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Proton 11.0-3 Adds Support for 15 More Games on Linux",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369528",
-    "description": "Valve’s Proton 11.0-3 expands Linux gaming compatibility with 15 new titles, experimental 32-bit OpenXR support, and numerous game fixes.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369528",
-    "date": "Nov 25, 2026 08:57",
-    "published_at": "2026-11-25T08:57:26Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "2013 classic exploration game Proteus gets a 2026 upgrade for Linux",
-    "link": "https://www.gamingonlinux.com/2026/11/2013-classic-exploration-game-proteus-gets-a-2026-upgrade-for-linux/",
-    "description": "Proteus is a blast from the 2013 past, a highly rated exploration walking-sim that just got a nice upgrade to keep the Linux version running nicely.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/11/2013-classic-exploration-game-proteus-gets-a-2026-upgrade-for-linux/",
-    "date": "Nov 25, 2026 08:55",
-    "published_at": "2026-11-25T08:55:32Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/504826090id30268gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "STAR WARS: Galactic Racer will get a Speed Legends Update in December with new content",
-    "link": "https://www.gamingonlinux.com/2026/11/star-wars-galactic-racer-will-get-a-speed-legends-update-in-december-with-new-content/",
-    "description": "While we won't get split-screen play until next year, STAR WARS: Galactic Racer is still getting a new content update to keep you going until then.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/11/star-wars-galactic-racer-will-get-a-speed-legends-update-in-december-with-new-content/",
-    "date": "Nov 25, 2026 08:37",
-    "published_at": "2026-11-25T08:37:38Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1923199104id30267gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Heroic 3.0.0 Beta #1 brings Steam and itch.io integration, a new UI and much more",
-    "link": "https://www.gamingonlinux.com/2026/11/heroic-3-0-0-beta-1-brings-steam-and-itch-io-integration-a-new-ui-and-much-more/",
-    "description": "The biggest release the Heroic Games Launcher crew have ever done, now ready for some testing!Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/11/heroic-3-0-0-beta-1-brings-steam-and-itch-io-integration-a-new-ui-and-much-more/",
-    "date": "Nov 25, 2026 08:27",
-    "published_at": "2026-11-25T08:27:13Z",
-    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/heroic-games-launcher-logo_gol2_911593e6.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "SteamOS 3.9.7 Beta and a new Steam Client Beta fix up various issues",
-    "link": "https://www.gamingonlinux.com/2026/11/steamos-3-9-7-beta-and-a-new-steam-client-beta-fix-up-various-issues/",
-    "description": "SteamOS 3.9.7 Beta and a new Steam Client Beta were released for testing bringing a small but nice selection of bug fixes.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/11/steamos-3-9-7-beta-and-a-new-steam-client-beta-fix-up-various-issues/",
-    "date": "Nov 25, 2026 07:57",
-    "published_at": "2026-11-25T07:57:27Z",
-    "image": "https://www.gamingonlinux.com/uploads/tagline_gallery/steam_plain_2025.jpg",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "IPFire 2.29 Core Update 206 Adds LoongArch64 Support, Updated Components",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369538",
-    "description": "The IPFire 2.29 Core Update 206 release is here to add support for the LoongArch64 architecture, switch from dracut-ng to dracut for generating the initial ramdisk, and update the GRUB bootloader to find root filesystems on software RAID using the UUID.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369538",
-    "date": "Nov 25, 2026 07:44",
-    "published_at": "2026-11-25T07:44:43Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Amazon Drone Crashes On Garage After Delivering Shampoo, Draws FAA Probe",
-    "link": "https://tech.slashdot.org/story/26/11/25/056210/amazon-drone-crashes-on-garage-after-delivering-shampoo-draws-faa-probe?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "The Federal Aviation Administration (FAA) has opened an investigation into an Amazon Prime Air delivery drone that struck a fiber-optic cable and crashed onto a residential garage in Michigan after delivering shampoo. The drone lost a propeller and became entangled in power lines, prompting Amazon and local utility workers to coordinate its removal. Amazon offered to help repair the damaged roof and gave the homeowner a $100 gift card. Ars Technica reports: Amazon Prime Air currently operates a fleet of battery-powered MK30 drones that can deliver packages weighing up to five pounds and have onboard sense-and-avoid technology to avoid obstacles. However, the drone clearly failed to avoid the thin fiber-optic cable in this case -- so hopefully the FAA investigation would take that into account along with Amazon delivery drone procedures.\n \nThe FAA preliminary accident and incident notification briefly describes the incident as \"UAS struck a fiber cable, a residential garage, and became entangled in power lines during takeoff.\" That notice was posted on November 23. The National Transportation Safety Board is also gathering information about the incident but has not yet decided whether to open its own probe, according to CNBC. That US government agency holds primary responsibility for investigating aviation accidents and other transportation incidents. \nAmazon said the Michigan crash was the first involving its drone delivery operations near Detroit, but federal regulators are already investigating several incidents in Arizona and Texas involving collisions with a construction crane, an internet cable, and an apartment building.\n \nAn Amazon spokesperson said Prime Air drones make nearly 6,000 flights per day and have delivered \"hundreds of thousands of packages this year.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 25, 2026 07:00",
-    "published_at": "2026-11-25T07:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "System76 Releases Pop!_OS 26.04 LTS with an Enhanced COSMIC Desktop",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369560",
-    "description": "System76 releases Pop!OS 26.04 LTS, based on Ubuntu 26.04 LTS, with COSMIC Constellations, new native apps, and automatic updates.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369560",
-    "date": "Nov 25, 2026 06:36",
-    "published_at": "2026-11-25T06:36:20Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Linus Torvalds: \"Tell Your AI Companion To Get Its Act Together\"",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369557",
-    "description": "A big EXT4 pull request today intended for the Linux 7.4-rc5 kernel has set off Linus Torvalds. Over 41k lines of new code in this EXT4 pull request going in as \"fixes\".... Much of that being new KUnit test coverage to make it safer to validate AI-generated patches. And then a lot of AI generated patches themselves for the EXT4 file-system…",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369557",
-    "date": "Nov 25, 2026 05:18",
-    "published_at": "2026-11-25T05:18:51Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "US Spy Agencies Suffer Breach of Some Unclassified Information",
-    "link": "https://it.slashdot.org/story/26/11/25/0056232/us-spy-agencies-suffer-breach-of-some-unclassified-information?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "An anonymous reader quotes a report from The New York Times: The Central Intelligence Agency and the Office of the Director of National Intelligence recently discovered a cybersecurity breach that exposed some of their unclassified information, according to U.S. officials and other people familiar with the matter. The intrusions affected an open-source intelligence analysis system, a computer network that looks for intelligence insights in public, unclassified material, the people familiar with the issues said. It was not clear specifically what information was compromised, but classified material was not jeopardized, the people said. Information at other government agencies was also believed to have been exposed in the breach, according to two of the people.\n \nOpen-source intelligence can include vast troves of commercially available data sets, social media content, satellite imagery and other online material. Much of it is publicly available, but it can include information sold by data vendors that can be highly revealing, especially when combined with other tranches of data. Spy agencies can also use the data alongside other sources of intelligence to inform analytical judgments. It is not uncommon for federal agencies to suffer cybersecurity breaches, but several have recently detected intrusions into some of their systems, prompting heightened concern among current and former U.S. intelligence officials. When asked about the recent hack of the FBI crime database, Jay Clayton, the director of national intelligence, said breaches occurred frequently and that there was no cause for alarm. \"Cyberprobing, cyberincidents, they have been part of the American economy, part of the American life for a long time.\"\n \n\"And what we're hearing about the F.B.I., and what I've talked to them about is, they have an incident. They're dealing with it in the ordinary course.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 25, 2026 03:30",
-    "published_at": "2026-11-25T03:30:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Black Friday / End Of Year Special \u0026 The Unfortunate Ad Network Situation This Year",
-    "link": "https://www.phoronix.com/news/Black-Friday-Week-2026",
-    "description": "If you have enjoyed the more than 3,125+ news articles so far this year and 200+ Linux hardware reviews this calendar year with a lot of interesting content, running this week is the annual Phoronix Premium end-of-year / \"Black Friday\" promotion to help support the site while enjoying ad-free access, multi-page articles on a single page, and other benefits while helping Phoronix continue as it approaches its 23rd birthday next June. Unfortunately, this year has been the toughest yet...",
-    "guid": "https://www.phoronix.com/news/Black-Friday-Week-2026",
-    "date": "Nov 25, 2026 02:00",
-    "published_at": "2026-11-25T02:00:00Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Benchmarking The Performance Benefit Of FRED On AMD Zen 6",
-    "link": "https://www.phoronix.com/news/AMD-Zen-6-FRED-Benefits",
-    "description": "With the new EPYC 9006 SP7 Venice processors now shipping, one of the curious follow-up benchmarks I have been wanting to pursue is around quantifying the performance impact of Flexible Return and Event Delivery \"FRED\". After all, FRED showed very nice gains for Intel Panther Lake for first featuring FRED. Since then the Linux kernel has enabled FRED usage by default with capable CPUs, so all the EPYC 9006 benchmarks on Phoronix have already been with FRED, so here are some numbers when going ahead and forcing FRED off in the Linux kernel...",
-    "guid": "https://www.phoronix.com/news/AMD-Zen-6-FRED-Benefits",
-    "date": "Nov 25, 2026 01:55",
-    "published_at": "2026-11-25T01:55:19Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Waymo Says Recall Prompted By 11 New Incidents of Robotaxis Entering Closed Freeway Lanes",
-    "link": "https://tech.slashdot.org/story/26/11/24/1916240/waymo-says-recall-prompted-by-11-new-incidents-of-robotaxis-entering-closed-freeway-lanes?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Charlotte Web writes: CNBC is reporting that Waymo recalled its robotaxis after 11 incidents of robotaxis entering closed freeway lanes in the last 8 weeks, including three times on a single day this month. [\"Waymo told the National Highway Traffic Safety Administration in a filing released Tuesday that three Waymo vehicles entered freeway lanes marked with cones as closed for construction on Nov. 9, just three days after the company 'updated the approved scope of operation to reduce exposure to closed freeway lanes,'\" reports CNBC. The company says it's still working on the recall remedy.] The article also notes America's NHTSA and the National Transportation Safety Board \"have opened probes after one of Waymo's self-driving vehicles struck a child who ran into a street in Santa Monica, California.\" Last week, Waymo halted operations on U.S. freeways after a California regulator barred its vehicles from freeways in the state. According to the California Department of Motor Vehicles, the ban resulted from a series of incidents in which Waymo robotaxis entered active construction zones.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 24, 2026 23:00",
-    "published_at": "2026-11-24T23:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
   }
 ]
