@@ -1,5 +1,128 @@
 [
   {
+    "title": "First Ubuntu 27.04 “Tenacious T-Rex” Snapshot Is Now Available for Download",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369630",
+    "description": "Today, Canonical published the first snapshot ISO images of the upcoming Ubuntu 27.04 (codename Tenacious T-Rex) for early adopters, application developers, and general public testing.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369630",
+    "date": "Nov 27, 2026 05:39",
+    "published_at": "2026-11-27T05:39:28Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "ZOTAC fits Core Ultra Series 3 processors into 0.64-liter mini PCs",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369632",
+    "description": "ZOTAC has detailed the ZBOX edge MI658 and MI678, two compact barebone mini PCs powered by Intel Core Ultra Series 3 processors. Both systems feature integrated AI acceleration, dual Ethernet, Wi-Fi 7, Thunderbolt 4, and PCIe 5.0 storage in a 0.64-liter enclosure measuring just 28.5mm thick. Unlike the larger MAGNUS EN275060T8, which features dedicated NVIDIA…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369632",
+    "date": "Nov 27, 2026 04:09",
+    "published_at": "2026-11-27T04:09:23Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "A Man In Denver Has Been Trapping Waymos",
+    "link": "https://tech.slashdot.org/story/26/11/25/2259238/a-man-in-denver-has-been-trapping-waymos?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from Wired: A bearded man with a brown ponytail has been on the hunt for Waymos in Denver, trapping the self-driving taxis so they can't pull away (source paywalled; alternative source) and hurling cartons of eggs at them, the police and company officials said. There have been at least 30 episodes of the egg attacks, according to Waymo, and a company investigator reported seven of them to the Denver police, all believed to be linked to the same man, according to a police report filed last month. [...] The man, who remains unidentified, stopped in front of the Waymo vans and S.U.V.s circulating in and around downtown Denver, according to the police report. Then, he removed orange cones from his car's trunk and placed them around the vehicles \"to prevent the Waymo vehicle from moving,\" the report said. In some instances, the man threw eggs \"while seated inside his vehicle\" and at other times he \"throws eggs at the Waymo vehicle after exiting his vehicle,\" the report said. The man then fled in a silver Toyota Corolla, which according to the report is part of a fleet of vehicles \"able to be leased for Lyft drivers.\" Waymo said they had to temporarily pull the egged vehicles from service and spend about $2,000 on cleaning, though no permanent damage was reported.\n \nDenver prosecutors declined to file criminal charges, deeming the case a civil matter, but are continuing to collect evidence and explore legal options to stop the behavior. The driver remains unidentified.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 27, 2026 03:30",
+    "published_at": "2026-11-27T03:30:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Alien Arena Comes To Flathub, Rolls Out Many Optimizations",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369573",
+    "description": "It's been a long while since hearing anything new out of Alien Arena, the open-source first person shooter game that is based on a sci-fi theme with a Quake II/III derived engine, but it's still alive and kicking. This week it also made its debut on Flathub to become even more accessible to Linux gamers…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369573",
+    "date": "Nov 27, 2026 02:36",
+    "published_at": "2026-11-27T02:36:45Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Initial AMD RDNA5 Support To Appear In Linux 7.5",
+    "link": "https://www.phoronix.com/news/AMD-RDNA5-Linux-7.5-Initial",
+    "description": "Earlier this month the initial AMD GFC13 / GC 13 IP patches were posted for that next-generation graphics IP block expected to be for the RDNA5 graphics processors. With coincidental timing, that initial RDNA5 graphics driver enablement work is now on track for landing in the Linux 7.5 kernel...",
+    "guid": "https://www.phoronix.com/news/AMD-RDNA5-Linux-7.5-Initial",
+    "date": "Nov 27, 2026 01:55",
+    "published_at": "2026-11-27T01:55:30Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Omarchy 4.6-RC1 Released With More Local AI Integration, Its Own File Manager",
+    "link": "https://www.phoronix.com/news/Omarchy-4.6-Released",
+    "description": "The Arch Linux based Omarchy distribution that continues seeing the backing of notable industry players is out with a new release. Omarchy 4.6 continues the project's quest of being a very AI forward Linux distribution and continuing to evolve more from its original Arch Linux and Hyprland customizations...",
+    "guid": "https://www.phoronix.com/news/Omarchy-4.6-Released",
+    "date": "Nov 27, 2026 01:33",
+    "published_at": "2026-11-27T01:33:14Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Debian wakes up wearing Windows XP's actual skin",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369579",
+    "description": "Win4Wine runs the genuine Explorer shell atop Linux",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369579",
+    "date": "Nov 27, 2026 01:04",
+    "published_at": "2026-11-27T01:04:49Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "NYT Warns Photographers Not To Update Photoshop Over AI Features",
+    "link": "https://news.slashdot.org/story/26/11/26/041231/nyt-warns-photographers-not-to-update-photoshop-over-ai-features?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "The New York Times is instructing freelance photographers not to use Adobe Photoshop 2027 (version 28.0.0 and subsequent updates), warning that its new AI features operate \"in ways that may not be apparent to users\" and \"can result in metadata identifying photographs as AI-generated.\" The Verge reports: It's not always clear which tools in Adobe's apps are AI-powered, and even some older options like automated selection tools may now be considered part of the AI suite. This can lead to photos ending up with metadata indicating they were edited with AI, which is a blunt way of describing what happened in post-production. For a newsroom like the Times, where photo editing is kept to a minimum, the metadata risks losing readers' trust.\n \nLast year, the Times said that it does not \"retouch or digitally manipulate\" photos but may \"make minimal adjustments to color to ensure we are accurately reproducing the image.\" In August, Adobe began rolling out support for C2PA metadata across its apps, which indicates whether an image is AI-generated or edited using AI features. The NYT is issuing its restriction to keep these tags from inadvertently appearing in its photos.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 27, 2026 00:00",
+    "published_at": "2026-11-27T00:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Servo Now Supports HTML Video Captions, Flutter Web Content Working",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369583",
+    "description": "The Rust-based Servo open-source web browser engine and Servoshell demo browser enjoyed a lot of new features in October. Servo 0.8 debuted recently with all of their October changes and out today is a blog post to highlight their latest round of improvements…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369583",
+    "date": "Nov 26, 2026 23:35",
+    "published_at": "2026-11-26T23:35:18Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Linus Torvalds Blasts AI-Heavy ext4 Pull Request for Linux 7.4-rc5",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369607",
+    "description": "Linus Torvalds merged a 41,197-line, AI-heavy ext4 pull for Linux 7.4-rc5, then told the maintainer to rein in his AI. See what he said and why.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369607",
+    "date": "Nov 26, 2026 22:11",
+    "published_at": "2026-11-26T22:11:10Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "S\u0026P Warns Nvidia's Board May Be Compromised",
+    "link": "https://news.slashdot.org/story/26/11/25/2340213/sp-warns-nvidias-board-may-be-compromised?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "S\u0026P Global Ratings has placed Nvidia's AA credit rating on downgrade watch, warning that Jensen Huang's departure and subsequent reinstatement as CEO exposed weaknesses in the company's corporate governance and board oversight. \"We believe the long tenure of certain board members may have compromised their independence. The company's corporate governance practices may also not have kept pace with Nvidia's rapid growth and its role as a critical global technology enabler,\" the ratings agency said. Reuters reports: Nvidia currently has an 'AA' rating from S\u0026P, which indicates a very strong capacity to meet financial commitments. The highest rating is 'AAA'. The agency said it could downgrade Nvidia within the next 90 days, but expects any potential downgrade to be limited to one notch, unless investigations and other disclosures harm the company's reputation or future business prospects. Meanwhile, Moody's said on Wednesday that bringing back Huang eases near-term uncertainty around Nvidia's business execution and eliminates execution risk associated with appointing a new leader for the chipmaker. The agency said Nvidia's Aa1 rating and stable outlook remain unaffected, but added that governance and regulatory uncertainty persists.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 26, 2026 22:00",
+    "published_at": "2026-11-26T22:00:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "It Looks Like AI Agent Skills Will Be Submitted For Linux 7.5",
+    "link": "https://www.phoronix.com/news/Linux-AI-Agent-Skills-Ready",
+    "description": "For the upcoming Linux 7.5 merge window happening in late December, it appears that AI agent skills will be submitted for adding in-tree documentation for instructing AI agents on different kernel processes...",
+    "guid": "https://www.phoronix.com/news/Linux-AI-Agent-Skills-Ready",
+    "date": "Nov 26, 2026 20:55",
+    "published_at": "2026-11-26T20:55:02Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
     "title": "Pop!_OS 26.04 LTS Is Out: Here's What a Year of COSMIC Work Gets You",
     "link": "https://lxer.com/module/newswire/ext_link.php?rid=369578",
     "description": "Pop!_OS 26.04 LTS is based on Ubuntu 26.04 with Linux 7.2 and COSMIC 1.11. You get a redesigned store, automatic updates and a frosted glass look.",
@@ -389,6 +512,16 @@
     "source_url": "https://lxer.com/"
   },
   {
+    "title": "PostgreSQL 19 Delivering Nice Performance Gains, Benchmarks On 6th Gen AMD EPYC Venice",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369590",
+    "description": "Last week PostgreSQL 19.0 finally shipped after being delayed due to the AI/LLM burden facing open-source developers this year. The wait is worth it though as PostgreSQL 19 is showing some very nice performance gains over PostgreSQL 18 in my benchmarking. Here are some initial PostgreSQL 19 vs. 18 database server benchmarks on the new 6th Gen AMD EPYC Venice platform.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369590",
+    "date": "Nov 26, 2026 04:05",
+    "published_at": "2026-11-26T04:05:40Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
     "title": "World Has Six Consecutive Days 2C Above Preindustrial Levels For First Time",
     "link": "https://news.slashdot.org/story/26/11/25/2227252/world-has-six-consecutive-days-2c-above-preindustrial-levels-for-first-time?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
     "description": "Longtime Slashdot reader AmiMoJo shares a report from The Guardian: For the first time, the world has experienced six consecutive days of temperatures 2C warmer than preindustrial levels, the Guardian has learned. This record hot streak, which is continuing, is too brief to signify that the upper range of the Paris climate agreement target has been breached, but scientists said it was an early indication of what is to come unless fossil fuel emissions are rapidly eliminated. It is also likely to feed into growing scientific concerns that global heating may be accelerating. The daily global surface temperature rose to its highest ever point above preindustrial levels, 2.24C, on Monday, the most recent day for which data is available, and is forecast to persist at similarly high levels for at least several more days. \"This will amplify the buildup of CO2 in the atmosphere driven by fossil fuel burning,\" said Richard Betts, the head of climate impacts research at the Met Office Hadley Centre. \"The CO2 increase from this year to next will be about 3.5 parts per million, a third faster than in recent years and nearly twice as fast as what it should have been limited to if we'd been on track to limit global warming to 1.5C.\"\n \nZeke Hausfather, a climate researcher at Berkeley Earth, said: \"Another day, another global temperature record,\" adding that the previous record of 2.05C over the 1850-1900 baseline, set in 2023, has been \"smashed.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
@@ -451,16 +584,6 @@
     "source_url": "https://slashdot.org/"
   },
   {
-    "title": "Meet Warty, the AI Launcher Canonical Is Building for Ubuntu",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369588",
-    "description": "Ubuntu's AI launcher should be available in January. Every AI feature introduced is being strictly opt-in and local-first.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369588",
-    "date": "Nov 25, 2026 23:24",
-    "published_at": "2026-11-25T23:24:43Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
     "title": "Suspected Chinese Agents Are Trying to Dupe Americans with Fake Listings on Job Platforms",
     "link": "https://tech.slashdot.org/story/26/11/25/069227/suspected-chinese-agents-are-trying-to-dupe-americans-with-fake-listings-on-job-platforms?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
     "description": "\"LinkedIn is probably the greatest intelligence tool that's ever been created,\" CNN heard from Holden Triplett, director of counterintelligence at the National Security Council in the first Trump administration. \n\nA LinkedIn spokesperson responded that \"Creating a fake account or misrepresenting your identity is a clear violation of our terms of service.\" (And they also told CNN that LinkedIn remains \"focused on detecting state-sponsored abuse and will continue to enforce our policies against fake accounts.\") But it's not just happening on LinkedIn...\n\n\n\nSuspected Chinese spies have created an elaborate web of fake firms with job opportunities aimed at tricking current and former US officials into divulging government secrets as part of a scheme that is more pervasive than previously reported, CNN has found. Interviews with a dozen people caught up in the operation — as well as CNN analysis of suspected bogus websites — reveal how there is a much broader target pool for obtaining sensitive US information after the Trump administration laid off thousands of federal employees. [CNN reported in 2025 that \"foreign powers such as China and Russia\" had directed their intelligence services \"to ramp up recruiting of Americans working in national security by targeting those who had been fired or felt they were at risk of losing their jobs\".] These workers left their posts with inadequate guidance and protection from spying plots, ex-officials said, creating a potentially valuable resource for Beijing and weak spot for Washington... In addition to government workers, the plot has targeted journalists, trade consultants and others, who might have knowledge deemed valuable to US adversaries. \n\nThe FBI offered a glimpse into the malicious recruiting scam when it seized 13 websites officials say were tied to fake consulting firms in June. China denied the FBI allegations. CNN analyzed the sites' software code, looked at other suspicious job listings, and interviewed people approached by similar companies. CNN identified several more websites that mimicked the style and substance of those disabled by the FBI. Two more sites that Max Lesser, a senior analyst at the Foundation for Defense of Democracies think tank, discovered and shared with CNN have some of the same web infrastructure or other connections to the seized websites. In total, Lesser has uncovered more than 100 other web domains, many of which share similar characteristics with the sites taken down by the FBI.... \n\nThis sprawling network has the hallmarks of a Chinese intelligence operation, Lesser told CNN. \n\nAfter creating fake web sites, the operatives \"plant vague, well-paying job ads for consulting positions focused on China-related issues\" on jobs sites like LinkedIn, CNN reports, asking applicants to produce \"research reports\". (\"[D]ozens or hundreds of such reports, across various topics of interest to Beijing, can start to form a much clearer picture of US national security policy and its vulnerabilities, according to current and former FBI officials.\") \n\nCNN sent a detailed request for a comment to a spokesperson for the Chinese embassy in Washington, DC. \"I am not familiar with what you mentioned,\" they responded, adding that China \"opposes vilifying China by peddling the so-called 'Chinese spy' narrative.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
@@ -470,235 +593,5 @@
     "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
     "source": "slashdot.org",
     "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Keep calm and carry Raspberry Pi: the computer in my three-day kit",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369591",
-    "description": "This Raspberry Pi kit will come in handy if the broadband or power goes out at home.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369591",
-    "date": "Nov 25, 2026 22:10",
-    "published_at": "2026-11-25T22:10:28Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Anthropic, OpenAI Employees Fear Models Are Too Unsafe to Ever Release",
-    "link": "https://slashdot.org/story/26/11/25/0814233/anthropic-openai-employees-fear-models-are-too-unsafe-to-ever-release?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Axios reports:\n\n\nAnthropic and OpenAI are facing an increasingly urgent problem: Internal, unreleased models are becoming so powerful that many employees no longer believe they can be safely released, according to more than two dozen sources familiar with the internal debates... \n\nThe challenge could significantly slow the AI boom, as the gap between what the best AI systems can do and humans' ability to control them continues to widen, sources told Axios. \n\nResearchers haven't found technical solutions for controlling the most advanced models. Some insiders believe it's fixable. Others aren't convinced and say companies should stop training new models entirely... Anthropic and OpenAI have unreleased models that are far more powerful than what they've already released publicly, but the AI companies have struggled to ensure that they are safe enough for public release, sources said. This has led to debate within Anthropic, OpenAI and the AI research community about whether to stop releasing future frontier models publicly, instead reserving them for internal deployment only. \n\nThere has also been debate around whether to train new models at all, sources inside and outside those companies told Axios.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 25, 2026 22:00",
-    "published_at": "2026-11-25T22:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "AOMedia Releases IAMF 2.0 Open Immersive Audio Standard",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369574",
-    "description": "AOMedia releases IAMF 2.0, advancing open, royalty-free immersive audio with object-based sound and expanded rendering capabilities.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369574",
-    "date": "Nov 25, 2026 21:04",
-    "published_at": "2026-11-25T21:04:17Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Saudi National Charged In OpenAI Bugging To Be Released On $1 Million Bond",
-    "link": "https://yro.slashdot.org/story/26/11/25/0633231/saudi-national-charged-in-openai-bugging-to-be-released-on-1-million-bond?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "CNBC reports:\n\n\n\nAbdulrahman Alfozan, the Saudi national accused of bugging an OpenAI executive conference room, will be allowed to be released from jail on a $1 million bond, a San Francisco federal court judge ruled Tuesday. Alfozan, 35, is expected to be released on Wednesday and be fitted with an ankle monitor, according to his attorney, David Rizk... [U.S. District Court Magistrate Judge Alex Tse] ruled in favor of a release motion by Rizk filed last week that said prosecutors had admitted they had \"found no new evidence to support the theory that Mr. Alfozan was stealing trade secrets, or to support the speculation that he was acting as an unregistered foreign agent for Saudi Arabia.\" \n\nThe San Francisco U.S. Attorney's Office opposed the former OpenAI engineer's release, saying in its response that he remains a flight risk due to his \"considerable resources and ties to Saudi Arabia.\" Alfozan's release request \"blithely dismisses the seriousness\" of the charge he faces, and \"appears to presume, without support, that the government's investigation is complete,\" prosecutors wrote... Prosecutors said they have found hundreds of audio files on Alfozan's personal computer, \"including\ndozens of recordings of meetings or conversations that occurred at OpenAI throughout September 2026, many of which involve discussions of what may be trade secrets.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 25, 2026 21:00",
-    "published_at": "2026-11-25T21:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Tuesday Jensen Huang Said Nvidia Doesn't Need a Succession Plan, and that He's in Therapy",
-    "link": "https://hardware.slashdot.org/story/26/11/25/0757217/tuesday-jensen-huang-said-nvidia-doesnt-need-a-succession-plan-and-that-hes-in-therapy?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "CNBC reports:\n[Jensen Huang] told staff that Nvidia has built a team that doesn't require succession planning the way a normal organization does, because the company operates a unique business model where there are multiple capable leaders at Nvidia that are leading different parts of the organization. A succession plan would create unnecessary hierarchy, Huang said, according to one of the people present... \n\nHuang told staff that Tuesday's company meeting was the second hardest meeting of his life, the first one being with his wife. He said he is in therapy, according to one of the people present. \n\nThe Independent notes that Jensen Huang told Nvidia's board Sunday \"that he had more affairs beyond the two that were already in the public domain, The Wall Street Journal reported, citing people familiar with the matter.\"\nHuang was reportedly \"contrite\" about his behavior during the crunch talks, and the board discussed \"the importance of candor and honesty\" with him, according to the newspaper. \n\nElsewhere CNBC reports even President Trump's \"staunchest allies\" in the U.S. Congress \"recoiled after the reinstatement and vowed to continue their investigations into Huang...\"\n\"The risk remains that there could be information that a Chinese spy knows about a key individual in the supply chain, and that's not worth the risk,\" Sen. Kevin Cramer, R-N.D., said Tuesday on CNBC's \"Squawk Box.\" \"We might even have to put a babysitter on Jensen Huang for crying out loud ... just to make sure that he doesn't do something that's going to risk the United States....\"\n\n\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 25, 2026 20:00",
-    "published_at": "2026-11-25T20:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "After 29 Years of Konsole, There's a New KDE Terminal and I Took It for a Spin",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369568",
-    "description": "KDE has a new modern terminal in works. It has a Ghostty connection, and it offers GPU acceleration. Take a look at it in this hands-on review.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369568",
-    "date": "Nov 25, 2026 19:49",
-    "published_at": "2026-11-25T19:49:07Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "FAA Identifies Patches for Last Week's Flight-Grounding Router Issue. But Was Staffing an Issue?",
-    "link": "https://tech.slashdot.org/story/26/11/25/0733222/faa-identifies-patches-for-last-weeks-flight-grounding-router-issue-but-was-staffing-an-issue?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "CNN published an exclusive report Tuesdayon what caused last week's nationwide ground stop for flights in the U.S.. A source familiar with the Federal Aviation Administration's investigation says they've recreated the issue in a lab \"and believe they found the culprit.\"\n\nInvestigators have focused on determining why a new router at a remote Arkansas radio site overwhelmed the nation's air traffic control system with a massive amount of data, triggering gaps in radar and radio communications. They found an overlooked router setting affected how it interfaced with other decades-old routers that the FAA is decommissioning, the source said. Investigators believe software updates are needed and that those patches will prevent a repeat of the system failure... \n\nThis month's ground stop not only focused attention on upgrades being made to the aging system, which have been paused as the agency investigated the incident, but also raised questions about FAA oversight of private companies charged with maintaining the network... On the day of the network meltdown, L3Harris was undertaking a maintenance job that involved switching the system from a decades-old router to a new one. In the past, this kind of work typically involved at least six FAA employees. Under the Trump administration, it's now often coordinated by one employee: an FAA liaison. And there are only four people in the country with that title, according to sources familiar with the process. \n\nThe liaison's job involves coordinating and scheduling these upgrades — not approving them, sources said... The Trump administration's effort to move maintenance work along faster also eliminated a layer of FAA review that was critical to assessing risk [according to a source familiar with the process]. Previously, local technical operations managers, site technicians and others would determine when the work could be done with the least impact on air traffic and to game out worst-case scenarios. The union contends that process did not happen before L3Harris arrived at the El Dorado, Arkansas, site on November 13... [David Spero, president of the union], contends the FAA has given private companies \"too much authority and generally unfettered access.\" \n\nCNN also points out a 2009 incident where 129 of America's air traffic facilities experienced an outage of FAA telecommunications \"that delayed thousands of travelers and grounded hundreds of flights nationwide. \n\n\"The cause: A technician with Harris Corp., which later merged with L3 Technologies to form L3Harris, incorrectly configured an FAA telecommunications router at the Los Angeles Center...\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 25, 2026 19:00",
-    "published_at": "2026-11-25T19:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Ubuntu details plans to replace the app grid with an AI smart launcher",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369566",
-    "description": "Canonical has shared more detail on plans for an AI-powered Ubuntu launcher, which it hopes will offer users “a new way to interact” with the desktop. In a post on Ubuntu Discourse, Canonical desktop engineer Didier Roche says the goal is to create a unified ‘entry point’ that lets users open apps and find files, but also access AI features when they explicitly want it. The new launcher will…",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369566",
-    "date": "Nov 25, 2026 18:38",
-    "published_at": "2026-11-25T18:38:58Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Dave Täht given the Jonathan B. Postel Service Award",
-    "link": "https://lwn.net/Articles/1109691/",
-    "description": "The Internet Society has announced\nthat the Jonathan B. Postel Service Award has been awarded to Dave Täht for\nhis many efforts to improve the Internet.\n\n\n\tTäht's legacy can be found in community hubs in Nicaragua, where he\n\tworked to expand connectivity, and first discovered the urgency of\n\tsolving bufferbloat. It can be found in every lag-free video call\n\twith a loved one. It can be found in outer space—Täht helped\n\tStarlink solve its latency challenges. And it can be found in the\n\tcountless people he mentored and befriended over the years, who\n\twill not stop until bufferbloat stops getting in the way of band\n\tpractice. \n\n\nDave is still deeply missed by those of us who knew him; this is an award\nhe richly deserved.",
-    "guid": "https://lwn.net/Articles/1109691/",
-    "date": "Nov 25, 2026 18:16",
-    "published_at": "2026-11-25T18:16:51Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "Huawei Is Guilty of Conspiracy To Steal Trade Secrets, a US Jury Finds",
-    "link": "https://yro.slashdot.org/story/26/11/25/0742222/huawei-is-guilty-of-conspiracy-to-steal-trade-secrets-a-us-jury-finds?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "The Associated Press reports:\n\n\nA U.S. jury convicted Chinese tech giant Huawei Technologies on Tuesday of conspiring to steal trade secrets and defrauding banks as it grew into one of the world's biggest suppliers of gear for wireless telecommunications networks. But jurors acquitted Huawei of the most serious charge: engaging in a criminal racketeering conspiracy, a result that the company's lawyer said was a \"profound rejection\" of the government's narrative that it was corrupt from top to bottom and had a corporate culture of cheating, stealing and lying. Prosecutors had used the charge, commonly found in organized crime and drug cases, to accuse Huawei of operating illicitly to poach intellectual property and technological secrets from competitors and partners. \n\nThe convictions covered allegations that the company did business in countries subject to U.S. sanctions — including Iran and North Korea — and made false statements to U.S. government officials and banks as part of an effort to hide its misdeeds. In all, Huawei was convicted on 10 of 12 counts. The case in Brooklyn federal court involved no human defendants, but the company could be made to pay billions of dollars in penalties when it is sentenced next September... \n\nChinese officials said the U.S. has engaged in \"economic bullying\" and improperly used national security as a pretext for oppressing Chinese companies.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 25, 2026 18:00",
-    "published_at": "2026-11-25T18:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Previewing a Handful of Hack Week Projects",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369572",
-    "description": "Hack Week 26 is less than a week away, and openSUSE and SUSE developers are filling the project board with entries at every stage, from early ideas to nearly finished code. The newest list spans networking, security, storage, operations and a bit of retro gaming. Anyone, from individual contributors to…",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369572",
-    "date": "Nov 25, 2026 17:25",
-    "published_at": "2026-11-25T17:25:31Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Those Five Tons of Bomb-Making Chemicals in Iowa Will Be Detonated Wednesday Morning",
-    "link": "https://news.slashdot.org/story/26/11/25/0524224/those-five-tons-of-bomb-making-chemicals-in-iowa-will-be-detonated-wednesday-morning?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "The detonation is back on. Nearly five tons of unstable lead azide explosives will be detonated Wednesday morning at a U.S. Army ammunition plant in Middletown, Iowa, reports the Iowa Capital Dispatch (part of the nonprofit States Newsroom network \n\n\"The scheduled time follows numerous delays over the past week from the Army, a lawsuit, intervention from the president, and widespread public concern of the health and environmental effects associated with detonating a lead-based explosive.\"\n\nLead deposition maps released by the Army Tuesday morning show lead released by the detonation could be dispersed in the air as far as 100 miles southwest of Middletown and cross into Missouri. An additional map shows there is a potential for lead surface dust to settle as far as 50 miles southwest of the detonation site. The Army has recommended, and the Federal Emergency Management Agency is supporting, the evacuation of Iowans in Middletown and the immediate area — a 5-mile cone to the southwest of the detonation site — during the detonation period. Soldiers, environmental teams and other federal officials are in the area helping to sample soils and alert residents of the detonation plans... \n\nA slew of federal officials from the Army, the EPA, Department of Health and Human Services, Bureau of Alcohol, Tobacco, and Firearms, Department of Agriculture and more gathered at the Iowa Army Ammunition Plant Tuesday for a press conference and shared new information with the public about the response... Speaking at the press conference Tuesday, Sean Kaufman with HHS said the highest risk is for pregnant individuals, children, or people with chronic illnesses who live or plan to be in the areas the Army forecasts will be impacted. \"You definitely want to be out of that area,\" Kaufman said of the at-risk groups. \"I would evacuate that area that's signaled in the model... \" As many as 100 Iowa National Guard soldiers will be available to aid local, state and federal agencies in their public safety plans [according to a news release from the governor]. They will also help provide guidance and assistance to around 150 households with a temporary evacuation... \n\nAt the news conference, acting Secretary of the Army Hon. Adam Telle emphasized that the government's priority was the \"health and safety of the citizens of this region.\" Telle said those involved have sought advice from \"every expert\" in and outside of the federal government and have considered all viable options and data before reaching the conclusion to proceed with detonation.\n\"There is consensus across the experts across the country that a controlled, mitigated detonation of the lead azide here at Iowa Army Ammunition Plant, is far preferable to an uncontrolled spontaneous detonation of that substance,\" Telle said. Some of those mitigations include: sand around the structure holding the barrels; two walls of four, 16,000-gallon water tanks; a plan to \"flood\" the exterior of the storage area with aqueous foam to help absorb particulate matter from the blast; and modeling to forecast impacted areas based on weather conditions.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 25, 2026 17:00",
-    "published_at": "2026-11-25T17:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "The next-generation Linux gaming display MangoHud v0.8.5-rc1 first test build is out",
-    "link": "https://www.gamingonlinux.com/2026/11/the-next-generation-linux-gaming-display-mangohud-v0-8-5-rc1-first-test-build-is-out/",
-    "description": "MangoHud is an invaluable tool for Linux gaming, giving you a fully-featured display of system and game performance stats. A new next-gen version is here.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/11/the-next-generation-linux-gaming-display-mangohud-v0-8-5-rc1-first-test-build-is-out/",
-    "date": "Nov 25, 2026 16:33",
-    "published_at": "2026-11-25T16:33:17Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/653895782id30273gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "PostgreSQL 19 Delivering Nice Performance Gains, Benchmarks On 6th Gen AMD EPYC Venice",
-    "link": "https://www.phoronix.com/review/postgresql-19-benchmarks",
-    "description": "Last week PostgreSQL 19.0 finally shipped after being delayed due to the AI/LLM burden facing open-source developers this year. The wait is worth it though as PostgreSQL 19 is showing some very nice performance gains over PostgreSQL 18 in my benchmarking. Here are some initial PostgreSQL 19 vs. 18 database server benchmarks on the new 6th Gen AMD EPYC Venice platform.",
-    "guid": "https://www.phoronix.com/review/postgresql-19-benchmarks",
-    "date": "Nov 25, 2026 16:31",
-    "published_at": "2026-11-25T16:31:14Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Google Wants To Make a 24/7 AI TV Channel. You'll Be the Main Character.",
-    "link": "https://yro.slashdot.org/story/26/11/25/0511227/google-wants-to-make-a-247-ai-tv-channel-youll-be-the-main-character?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Longtime Slashdot reader schwit1 shares a report from 404 Media: Google has filed for a patent that would use the information it knows about you to create an AI-generated TV channel full of personalized \"shows\" starring you and featuring customized advertisements. The patent is the latest signal of the AI video endgame: endless highly specific, customized content that is automatically generated based on the wealth of data companies and advertisers collect about you.\n \nTech companies regularly file for patents that they don't end up actually putting into real products, but this one, called \"creating a channel of video experiences tailored to a user,\" describes a system that many AI companies have been clearly trying to build. It imagines something called \"My Channel,\" which would be filled with AI content generated based on demographic data, their video watch history (presumably from YouTube), and other information it knows about the user. It would then make \"the user as the protagonist for the whole video.\" The patent was first noticed by Patentlyze, a news site that tracks tech company patents, who shared it with 404 Media.\n \n\"You are a customized video generating model. Generate a customized video for a user where the user will play the protagonist,\" a hypothetical LLM prompt in the patent reads. \"The generated customized video includes characteristics based on the . The generated customized video follows the style and format of the of the user. The generated customized video sticks to the of the user but the narrative for the generated customized video is customized. The and parameters are ordered from more preferred to less preferred.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 25, 2026 16:00",
-    "published_at": "2026-11-25T16:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "Local AI Weekly #11: Local AI Grows Up",
-    "link": "https://feed.itsfoss.com/link/24361/17540775/local-ai-weekly-11",
-    "description": "Local AI adoption keeps on growing.",
-    "guid": "6b06f1c182845000011c9e10",
-    "date": "Nov 25, 2026 15:16",
-    "published_at": "2026-11-25T15:16:03Z",
-    "image": "https://itsfoss.com/content/images/2026/11/local-ai.png",
-    "source": "itsfoss.com",
-    "source_url": "https://itsfoss.com/"
-  },
-  {
-    "title": "GOG Black Friday sale is live, plus multiple Lara Croft games enter the GOG Preservation Program",
-    "link": "https://www.gamingonlinux.com/2026/11/gog-black-friday-sale-is-live-plus-multiple-lara-croft-games-enter-the-gog-preservation-program/",
-    "description": "GOG just announced their big Black Friday sale, along with three adventures with Lara Croft arriving on GOG with two in the GOG Preservation Program.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/11/gog-black-friday-sale-is-live-plus-multiple-lara-croft-games-enter-the-gog-preservation-program/",
-    "date": "Nov 25, 2026 14:49",
-    "published_at": "2026-11-25T14:49:18Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/177843040id30274gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Pop!_OS 26.04 LTS vs. Pop!_OS 24.04 LTS Benchmarks",
-    "link": "https://www.phoronix.com/review/pop-os-2604-benchmarks",
-    "description": "System76 released Pop!_OS 26.04 LTS yesterday as the newest version of their Ubuntu-derived Linux distribution featuring their in-house COSMIC desktop environment. For those curious about any performance differences out of Pop!_OS 26.04 LTS, I already have some benchmarks comparing it to the former 24.04 release since the new System76 Thelio Prime SFF PC has been shipping with 26.04 LTS since last week.",
-    "guid": "https://www.phoronix.com/review/pop-os-2604-benchmarks",
-    "date": "Nov 25, 2026 14:38",
-    "published_at": "2026-11-25T14:38:32Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "[$] Tainting (or not) on manual driver binding",
-    "link": "https://lwn.net/Articles/1103714/",
-    "description": "Early in the 7.4 merge window, Greg\nKroah-Hartman applied a patch\nthat caused the kernel to be marked as tainted whenever user space manually\nbinds or unbinds a device driver to a device.  This change was meant to be\na defense against a flood of spurious bug reports generated by fuzzers, but\nit also turned out to get in the way of some real use cases.  After some\ndiscussion, the patch has been reverted, but this situation hints at an\narea where better kernel interfaces are needed.",
-    "guid": "https://lwn.net/Articles/1103714/",
-    "date": "Nov 25, 2026 14:36",
-    "published_at": "2026-11-25T14:36:07Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "Security updates for Wednesday",
-    "link": "https://lwn.net/Articles/1109650/",
-    "description": "Security updates have been issued by AlmaLinux (emacs, go-toolset:rhel8, xorg-x11-server-Xwayland, and yggdrasil-worker-package-manager), Debian (flatpak, libeot, libzstd, mapserver, rails, request-tracker5, and runc), Fedora (age, chromium, cri-o1.35, cri-o1.36, cri-o1.37, fluxbox, git-annex, libreswan, mariadb-connector-c, mimedefang, mycli, nextcloud, openssh, perl-Data-Dump, php-smarty4, python-pydantic, python-pydantic-core, sbsigntools, and sqlite), Mageia (awslc, haproxy, java-11-openjdk, java-1.8.0-openjdk, miniupnpc, perl-Imager, python3-loguru, and scapy), Oracle (.NET 10.0, .NET 8.0, .NET 9.0, aspell, bind, buildah, cockpit, dogtag-pki, dovecot, emacs, fence-agents, fetchmail, flatpak, freerdp, gcc-toolset-15-gcc, glib2, go-fdo-server, grafana, gstreamer1-plugins-base, gstreamer1-plugins-good, guava, ipa, librsvg2, libXi, libXrender, mysql8.4, NetworkManager, openexr, openssh, perl-CGI, python-oauthlib, rsync, ruby, tesseract, tomcat9, util-linux, xdg-dbus-proxy, and xorg-x11-server), Slackware (mozilla-firefox and mozilla-thunderbird), SUSE (alsa, aws-nitro-enclaves-cli, bson-devel, busybox, chromedriver, chromium, efivar-39, epiphany, gegl, golang-github-prometheus-prometheus, grafana, system-user-grafana, grub2, gssproxy, haproxy, hugo, java-21-openjdk, java-25-openjdk, keepassxc, libeot, libwebp, webkit2gtk3, mutt, openCryptoki, openssl-1_0_0, python-cairosvg, python-Twisted-doc, python-urllib3, python313-virtualenv, ruby3.4, screen, warewulf4, and xorg-x11-server), and Ubuntu (libheif, libxrender, and pcre3).",
-    "guid": "https://lwn.net/Articles/1109650/",
-    "date": "Nov 25, 2026 14:06",
-    "published_at": "2026-11-25T14:06:22Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "Servo Now Supports HTML Video Captions, Flutter Web Content Working",
-    "link": "https://www.phoronix.com/news/Servo-0.8-October-2026",
-    "description": "The Rust-based Servo open-source web browser engine and Servoshell demo browser enjoyed a lot of new features in October. Servo 0.8 debuted recently with all of their October changes and out today is a blog post to highlight their latest round of improvements...",
-    "guid": "https://www.phoronix.com/news/Servo-0.8-October-2026",
-    "date": "Nov 25, 2026 13:58",
-    "published_at": "2026-11-25T13:58:00Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "GNU Linux-Libre Celebrates Reverse Engineered Firmware For Old 802.11 b/g WiFi Chipset",
-    "link": "https://www.phoronix.com/news/GNU-Linux-Libre-VIA-VT6656",
-    "description": "Coming as a surprise today was a new GNU Linux-libre kernel release for the older Linux 6.12 LTS kernel. Typically it's uncommon seeing new updates for old/LTS kernels announced by the project, but today they are celebrating a WiFi chipset now working with their sanitized version of the Linux kernel. If you don't mind using legacy 802.11 b/g WiFi, there is a newly endorsed driver option...",
-    "guid": "https://www.phoronix.com/news/GNU-Linux-Libre-VIA-VT6656",
-    "date": "Nov 25, 2026 13:35",
-    "published_at": "2026-11-25T13:35:59Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
   }
 ]
