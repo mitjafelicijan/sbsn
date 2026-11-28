@@ -1,5 +1,108 @@
 [
   {
+    "title": "Woodpecker CI 3.21 Enhances Security and Git Forge Integration",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369654",
+    "description": "Woodpecker CI 3.21 delivers stronger security, improved GitHub, GitLab, and Forgejo integration, and more flexible pipeline configuration.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369654",
+    "date": "Nov 28, 2026 05:01",
+    "published_at": "2026-11-28T05:01:59Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Will AI Bots Ever Catch on for Online Shopping?",
+    "link": "https://tech.slashdot.org/story/26/11/28/024225/will-ai-bots-ever-catch-on-for-online-shopping?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "\"If you currently use an AI agent that signs in to your account with your credentials, it may no longer be able to connect,\" American Express told its customers today (according to Slashdot reader Smonster). And ahile Walmart's site welcomes AI agents, there's blocks or limitations on them from Amazon, eBay, Kohl's and United Airlines, CNBC reports. And other sites \"have added provisions to their terms of service spelling out that they're not liable if users' AI-driven purchases go wrong...\"\n\nThe hiccups threaten to stunt the growth of shopping agents by creating a clunky and frustrating experience for users who are just starting to experiment with the tools. The question of who takes the blame when a transaction goes wrong also remains unclear. \n\nDespite those challenges, analysts remain bullish about agentic commerce's potential. U.S. revenue from agentic commerce could reach up to $1 trillion by 2030, analysts at McKinsey and ICSC forecast in April. Retailers and tech companies are also positioning agents as a helping hand for holiday shopping. Walmart on Tuesday touted its partnership with Meta, saying consumers could \"put an AI agent to work\" to nab Black Friday deals.... \n\nFor users hoping to turn their online shopping over to AI agents, the experience can be unpredictable. Agents encounter a patchwork of permissions across various websites. Retailers such as Coach and Gap allow AI bots to browse but not check out, while others such as Target sometimes \"block shopping agents by accident,\" according to an audit conducted in August by agent security company Billions Network. Amazon has responded the most aggressively to agents by walling off its site entirely. The company rankled Elon Musk last month after it prevented his Grok Bot from placing orders. In September, the company also blocked Meta's Muse from shopping on its platform, saying it never agreed to participate in the program. And last November, Amazon sued Perplexity, accusing the startup of concealing its Comet agent, which can purchase products on behalf of users. \nAmazon CEO Andy Jassy has said the company expects \"over time, to partner with third-party agents,\" but that any partnerships will require the right \"value exchange\" between agents and retailers... \nFor now, agents remain a niche tool for shopping, with agentic purchases making up just 0.4% of global e-commerce transactions and 0.2% of value, according to Bain \u0026 Co. research published earlier this month... But retailers may not be able to ignore them forever. Roughly a quarter of Muse's 10 million users are shopping online via an AI agent with an average spend of $200 per order, Meta CEO Mark Zuckerberg said in October. \nThe article notes bots often \"get stumped by login requirements at checkout. In some cases, the agents may require human intervention to bypass a Captcha test and continue browsing... \n\n\"A Visa study published earlier this month instructed 22 models from 12 AI labs to carry out a range of shopping tasks, such as buying a TV, a laptop and a hair appliance. The agents failed about 43% of test runs, and in more than half of those failed runs, an agent purchased a product \"that did not meet the customer's identified requirements,\" according to the study...\"\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 28, 2026 04:45",
+    "published_at": "2026-11-28T04:45:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Planet News Roundup",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369644",
+    "description": "This is a roundup of articles from the openSUSE community listed on planet.opensuse.org. This community blog feed aggregator lists the featured highlights below from Nov. 20 - 26. This week highlights three Tumbleweed snapshots for week 47 headlined by KDE Plasma 6.8.3, Linux Kernel 7.3.4, Mozilla Firefox 159.0.1 and systemd…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369644",
+    "date": "Nov 28, 2026 02:15",
+    "published_at": "2026-11-28T02:15:08Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Wine 11.23 Released With Support For ARM64 macOS, AVX In 32-bit Emulation On ARM64",
+    "link": "https://www.phoronix.com/news/Wine-11.23-Released",
+    "description": "We are getting close to the Wine 12.0 release candidate phase but out today is Wine 11.23 as the latest bi-weekly development release continuing to land new features into Wine...",
+    "guid": "https://www.phoronix.com/news/Wine-11.23-Released",
+    "date": "Nov 28, 2026 01:31",
+    "published_at": "2026-11-28T01:31:43Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Best Clipboard Managers for Linux in 2026 (X11 and Wayland)",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369656",
+    "description": "Copied over something important? These 10 Linux clipboard managers bring it back. Compare CopyQ, Klipper, GPaste, cliphist and more on X11 and Wayland.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369656",
+    "date": "Nov 28, 2026 01:00",
+    "published_at": "2026-11-28T01:00:52Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Chinese Data Center Tied to Alice Huang Found Using Nvidia's Powerful AI Chips",
+    "link": "https://hardware.slashdot.org/story/26/11/28/0022257/chinese-data-center-tied-to-alice-huang-found-using-nvidias-powerful-ai-chips?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Friday Nvidia's stock showed a 30.95% drop over the last month, and a 37% drop from its October 2nd high of $239.24. But it managed a 4.83% gain for the week — after some bad news hit Friday morning... \n\nA Chinese data center with ties to Alice Huang (the suspected Chinese spy-agency asset) \"has installed hardware with Nvidia's powerful Blackwell AI chips,\" writes Gizmodo, citing a Friday morning report from Bloomberg. Those chips are \"among Nvidia's most powerful products,\" writes Bloomberg, and their presence was confirmed by \"a serial number specified in documents submitted to Chinese regulators in November,\" (offering the hardware as collateral for a $14 million loan, according to bank filings seen by Bloomberg News). \nA second Chinese company (this one controlled by a Tokyo-based parent company) also described a server with Nvidia's advanced Blackwell chips in documents for a similar loan in late 2025 from, Bloomberg reports:\n\nThe submissions reveal for the first time that Nvidia's Blackwell processors found their way into a Chinese data center that has ties to Alice Huang and Megaspeed. [Alice Huang has ties to \"a number of companies\" that invested in the second company, and its president is her husband Kang Wei.] \n\nThese processors were until recently Nvidia's most powerful data center products, and they've always been illegal to ship to China without a US license. President Donald Trump has explicitly said he doesn't want these chips — which OpenAI and Anthropic PBC use to train their most cutting-edge models — going to the Asian country, at least for now. Nvidia Chief Executive Officer Jensen Huang, meanwhile, once claimed they were too big to smuggle: a standard two-meter-tall GB300 NVL72 server rack, which contains 72 Blackwell Ultra chips and 36 Grace processors, can weigh more than 1,500 kilograms (3,300 pounds) and is about the size of a gigantic fridge... \n\nShanghai Shuoyao — the company that procured the GB300 rack and offered it as collateral — is active at the data center linked to Alice Huang and also has significant overlap with Singapore-based Megaspeed, which is under US investigation over concerns that it smuggled Nvidia chips to China, Bloomberg has reported. Shanghai Shuoyao, which hasn't responded to Bloomberg queries over the past year, confirmed this month in a rare public statement that it is one of Megaspeed's service providers, describing the partnership as \"limited to ordinary commercial cooperation.\" \n\nMegaspeed, meanwhile, used a rendering of the Yangtze River Delta Project in 2024 to describe its largest data center to investors, dubbing the site a \"specific area\" facility in an unnamed country... The parameters they've outlined in construction plans reviewed by Bloomberg — specifically, the total processing power as compared to the energy input — would be extremely difficult to satisfy with chips from Chinese companies such as Huawei Technologies Co.\n \nBloomberg says Nvidia \"has not answered repeated queries,\" though they add that Nvida \"for years insisted that there was no black market for its products.\" \n\nThe article also notes that Megaspeed (where Alice Huang worked) \"won a coveted stamp of approval from Nvidia within four days of its creation\" in 2023, and went on to become Nvidia's largest customer in Southeast Asia.\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 28, 2026 00:25",
+    "published_at": "2026-11-28T00:25:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
+    "title": "Peppermint OS Void Debuts as ‘Loaded,’ Based-on …well, Void Linux",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369657",
+    "description": "Peppermint OS Void arrives as a Loaded 4GB ISO. The slimmer Flagship build will ship later.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369657",
+    "date": "Nov 27, 2026 23:54",
+    "published_at": "2026-11-27T23:54:59Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Open 3D Engine 26.10 Migrates to Qt 6, Adds Initial Wayland Support",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369662",
+    "description": "O3DE 26.10 updates its editor to Qt 6, introduces Wayland support for the Linux game launcher, and improves physics and rendering.",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369662",
+    "date": "Nov 27, 2026 22:41",
+    "published_at": "2026-11-27T22:41:02Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "GMKtec EVO-X2 AMD Ryzen AI Max+ Strix Halo Mini PC",
+    "link": "https://www.phoronix.com/review/gmktec-evo-x2",
+    "description": "For those in the market for an AMD Ryzen AI Max+ mini PC but not able to procure the likes of the Ryzen AI Halo or Framework Desktop in your region or with elevated pricing, another Strix Halo option that's been available is the GMKtec EVO-X2. I recently received a review sample of the GMKtec EVO-X2 and put it through a variety of benchmarks in seeing how the performance stacks up against the flagship Ryzen AI Halo and Framework Desktop offerings as well as the BOSGAME VTA-439 powered by the AMD Ryzen AI 9 HX 470 for reference plus also the Dell Pro Max GB10 powered by the NVIDIA GB10 SoC.",
+    "guid": "https://www.phoronix.com/review/gmktec-evo-x2",
+    "date": "Nov 27, 2026 21:33",
+    "published_at": "2026-11-27T21:33:54Z",
+    "source": "phoronix.com",
+    "source_url": "https://www.phoronix.com/"
+  },
+  {
+    "title": "Mozilla Thanks Users For New Features in Firefox 161: Site-Specific VPN and Keyboard Shortcuts",
+    "link": "https://news.slashdot.org/story/26/11/27/2025251/mozilla-thanks-users-for-new-features-in-firefox-161-site-specific-vpn-and-keyboard-shortcuts?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Firefox 161 (released Tuesday) promises \"A better Firefox, thanks to you. All of these improvements began with a community request.\" In a Thanksgiving-themed message, they wrote \"Here's to the passionate people who keep us moving forward.\"\n\n\n\n\nChoose which sites always open with VPN. Our free built-in VPN just got one of its most requested upgrades. Pick sites where the VPN always turns on, and sites where it stays off because they work better without it. Bonus: VPN data is unlimited through January. Use it as much as you like until then... \nSet your own shortcuts . Create keyboard shortcuts for what you use most, like opening tabs, saving pages or closing windows. Type \"about:keyboard\" in the address bar. \n\nSee images appear as they load. Firefox now supports JPEG XL, an image format that lets you see a preview of the full image before it downloads. \n\nNeowin notes Firefox is also committing to its redesign:\n\nMozilla has been trying to win over users from Chromium-based browsers, hoping they pick up Firefox. To do so, aside from still supporting uBlock Origin, the firm made a big design shift this year by introducing Nova, so that users on the other side can feel they are familiar with it, as it brings the more common, modern rounded corner design philosophy, which Google's Chrome has been using for quite a while... However, as is usually the case, not everyone has been on-board with Nova and they are completely fine to feel that way; Mozilla also understands this which is why it offered a way to opt-out of it by tweaking a configuration setting via about:config. However, this week the firm announced that it is going to take that option away. \n\n\n\nIn a post on its official Mozilla Connect forum, which was shared with us by Neowin forum member ecmram, the Firefox team confirmed that it will remove the config toggle preference for reverting to the old design next month in December. The company says that the rollout of Nova is now complete, and it wants to lock the preference to ensure that Firefox performs as intended and to prevent unexpected browser behavior. As such, anyone who has previously used the browser.nova.enabled preference to disable the redesign will automatically get Nova starting next month, thus wiping the official way to return to the previous UI once the change takes effect. \n\n\nOn the positive side, Mozilla is not entirely ignoring feedback from users who are unhappy with the redesign. The company says it has introduced several changes based on community feedback, including a new set of Classic Themes with the latest version 161, that offer flat colors without gradients. These can be found under about:addons, and one of them even mimics the older Proton design with a gray appearance. There is a new Fire toolbar button too that clears history with a single-click.\n\n\n\n\n\n\nRead more of this story at Slashdot.",
+    "guid": "",
+    "date": "Nov 27, 2026 20:34",
+    "published_at": "2026-11-27T20:34:00Z",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "slashdot.org",
+    "source_url": "https://slashdot.org/"
+  },
+  {
     "title": "Signal Takes a Radical Step to Block Gemini and Siri From Reading Your Chats",
     "link": "https://lxer.com/module/newswire/ext_link.php?rid=369625",
     "description": "Signal wants Apple and Google to give apps an easy way to opt out of AI data access.",
@@ -26,6 +129,16 @@
     "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369621",
     "date": "Nov 27, 2026 18:53",
     "published_at": "2026-11-27T18:53:10Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
+  },
+  {
+    "title": "Linux 7.4 Delivers Some Performance Gains For Intel Panther Lake's Arc B390 Graphics",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369623",
+    "description": "With the recently reviewed Dell XPS 14 laptop powered by Intel Core Ultra Series 3 \"Panther Lake\", it ships with Ubuntu 26.04 LTS as one of the Dell supported options. If aiming for maximizing the performance out of Panther Lake, upgrading to Ubuntu 26.10 provides some performance boosts. If wanting to take things even further, going with the in-development Linux 7.4 kernel provides some…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369623",
+    "date": "Nov 27, 2026 17:24",
+    "published_at": "2026-11-27T17:24:18Z",
     "source": "lxer.com",
     "source_url": "https://lxer.com/"
   },
@@ -122,6 +235,16 @@
     "published_at": "2026-11-27T14:22:47Z",
     "source": "lwn.net",
     "source_url": "https://lwn.net"
+  },
+  {
+    "title": "Amid All The AI Generated Patches \u0026 Bug Reports, Linux Gains Another Network Maintainer",
+    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369633",
+    "description": "Linux networking developers have previously said they've been \"completely overwhelmed\" with all the AI/LLM-driven activity from bug reports to patches over the past year. In an increasing number of cases, they end up diverting fixes to the next Linux kernel version due to the seemingly endless activity. All the AI activity around seldom used drivers and other networking areas also led to removing…",
+    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369633",
+    "date": "Nov 27, 2026 12:55",
+    "published_at": "2026-11-27T12:55:56Z",
+    "source": "lxer.com",
+    "source_url": "https://lxer.com/"
   },
   {
     "title": "A Better Black Friday Gift: Linux Foundation Certifications at Up to 65% Off",
@@ -386,16 +509,6 @@
     "source_url": "https://www.phoronix.com/"
   },
   {
-    "title": "Debian wakes up wearing Windows XP's actual skin",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369579",
-    "description": "Win4Wine runs the genuine Explorer shell atop Linux",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369579",
-    "date": "Nov 27, 2026 01:04",
-    "published_at": "2026-11-27T01:04:49Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
     "title": "NYT Warns Photographers Not To Update Photoshop Over AI Features",
     "link": "https://news.slashdot.org/story/26/11/26/041231/nyt-warns-photographers-not-to-update-photoshop-over-ai-features?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
     "description": "The New York Times is instructing freelance photographers not to use Adobe Photoshop 2027 (version 28.0.0 and subsequent updates), warning that its new AI features operate \"in ways that may not be apparent to users\" and \"can result in metadata identifying photographs as AI-generated.\" The Verge reports: It's not always clear which tools in Adobe's apps are AI-powered, and even some older options like automated selection tools may now be considered part of the AI suite. This can lead to photos ending up with metadata indicating they were edited with AI, which is a blunt way of describing what happened in post-production. For a newsroom like the Times, where photo editing is kept to a minimum, the metadata risks losing readers' trust.\n \nLast year, the Times said that it does not \"retouch or digitally manipulate\" photos but may \"make minimal adjustments to color to ensure we are accurately reproducing the image.\" In August, Adobe began rolling out support for C2PA metadata across its apps, which indicates whether an image is AI-generated or edited using AI features. The NYT is issuing its restriction to keep these tags from inadvertently appearing in its photos.\n\n\n\n\n\nRead more of this story at Slashdot.",
@@ -407,26 +520,6 @@
     "source_url": "https://slashdot.org/"
   },
   {
-    "title": "Servo Now Supports HTML Video Captions, Flutter Web Content Working",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369583",
-    "description": "The Rust-based Servo open-source web browser engine and Servoshell demo browser enjoyed a lot of new features in October. Servo 0.8 debuted recently with all of their October changes and out today is a blog post to highlight their latest round of improvements…",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369583",
-    "date": "Nov 26, 2026 23:35",
-    "published_at": "2026-11-26T23:35:18Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Linus Torvalds Blasts AI-Heavy ext4 Pull Request for Linux 7.4-rc5",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369607",
-    "description": "Linus Torvalds merged a 41,197-line, AI-heavy ext4 pull for Linux 7.4-rc5, then told the maintainer to rein in his AI. See what he said and why.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369607",
-    "date": "Nov 26, 2026 22:11",
-    "published_at": "2026-11-26T22:11:10Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
     "title": "S\u0026P Warns Nvidia's Board May Be Compromised",
     "link": "https://news.slashdot.org/story/26/11/25/2340213/sp-warns-nvidias-board-may-be-compromised?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
     "description": "S\u0026P Global Ratings has placed Nvidia's AA credit rating on downgrade watch, warning that Jensen Huang's departure and subsequent reinstatement as CEO exposed weaknesses in the company's corporate governance and board oversight. \"We believe the long tenure of certain board members may have compromised their independence. The company's corporate governance practices may also not have kept pace with Nvidia's rapid growth and its role as a critical global technology enabler,\" the ratings agency said. Reuters reports: Nvidia currently has an 'AA' rating from S\u0026P, which indicates a very strong capacity to meet financial commitments. The highest rating is 'AAA'. The agency said it could downgrade Nvidia within the next 90 days, but expects any potential downgrade to be limited to one notch, unless investigations and other disclosures harm the company's reputation or future business prospects. Meanwhile, Moody's said on Wednesday that bringing back Huang eases near-term uncertainty around Nvidia's business execution and eliminates execution risk associated with appointing a new leader for the chipmaker. The agency said Nvidia's Aa1 rating and stable outlook remain unaffected, but added that governance and regulatory uncertainty persists.\n\n\n\n\n\nRead more of this story at Slashdot.",
@@ -436,170 +529,5 @@
     "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
     "source": "slashdot.org",
     "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "It Looks Like AI Agent Skills Will Be Submitted For Linux 7.5",
-    "link": "https://www.phoronix.com/news/Linux-AI-Agent-Skills-Ready",
-    "description": "For the upcoming Linux 7.5 merge window happening in late December, it appears that AI agent skills will be submitted for adding in-tree documentation for instructing AI agents on different kernel processes...",
-    "guid": "https://www.phoronix.com/news/Linux-AI-Agent-Skills-Ready",
-    "date": "Nov 26, 2026 20:55",
-    "published_at": "2026-11-26T20:55:02Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Pop!_OS 26.04 LTS Is Out: Here's What a Year of COSMIC Work Gets You",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369578",
-    "description": "Pop!_OS 26.04 LTS is based on Ubuntu 26.04 with Linux 7.2 and COSMIC 1.11. You get a redesigned store, automatic updates and a frosted glass look.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369578",
-    "date": "Nov 26, 2026 20:44",
-    "published_at": "2026-11-26T20:44:10Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Amid All The AI Generated Patches \u0026 Bug Reports, Linux Gains Another Network Maintainer",
-    "link": "https://www.phoronix.com/news/Linux-Another-Net-Maintainer",
-    "description": "Linux networking developers have previously said they've been \"completely overwhelmed\" with all the AI/LLM-driven activity from bug reports to patches over the past year. In an increasing number of cases, they end up diverting fixes to the next Linux kernel version due to the seemingly endless activity. All the AI activity around seldom used drivers and other networking areas also led to removing various old networking code. As some good news, another Linux developer has now been promoted to being an additional Linux networking subsystem maintainer...",
-    "guid": "https://www.phoronix.com/news/Linux-Another-Net-Maintainer",
-    "date": "Nov 26, 2026 20:31",
-    "published_at": "2026-11-26T20:31:14Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Australia Passes Tough Legislation Requiring Big Tech to Preempt Foreseeable Harms",
-    "link": "https://yro.slashdot.org/story/26/11/25/2326240/australia-passes-tough-legislation-requiring-big-tech-to-preempt-foreseeable-harms?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "Australia's Parliament has passed the Digital Duty of Care Act, requiring online platforms to proactively identify and mitigate foreseeable harms or face potentially billions of dollars in fines. The Record reports: Platforms are required to detect and decrease risks from harmful content and must bolster protections for users under 18 against pornography, suicide and eating disorders. They also must undertake annual written risk assessments and call out major platform design changes such as endless scrolling that create new harms. Under the law, users also will be able to opt out of algorithmic feeds and will be required to prove their age to access porn.\n \n[...] U.S. officials have accused the Australian legislation of violating free speech, threatening American companies' business models and imposing vague requirements that will cause tech giants to overhaul their services to avoid liability. \"We are particularly concerned by potential mandates that would allow regulators to impose rigid, one-size-fits-all platform design requirements -- such as forced chronological feeds or opt-in recommendation systems,\" the U.S. Embassies and Consulates in Australia said in a September public comment. Prime Minister Anthony Albanese told Parliament in October that \"rather than someone in the United States deciding\" what people see, now Australians can \"decide themselves.\" The law will require platforms to \"give us more choice over the content and the features that we use, including the feeds that we choose,\" he said.\n \n\"This is a victory for our children and young people. The dangers were unforeseen when the digital world was young. But now that the digital world has matured, they can be easily recognized and they can be remedied.\"\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 26, 2026 20:00",
-    "published_at": "2026-11-26T20:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "LibreOffice in Dravidian languages – Help our translators!",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369608",
-    "description": "The goal of LibreOffice isn’t to just make a powerful office suite – but to also make it usable for as many people as possible. And a big part of that is translating the user interface, help content and websites. LibreOffice (the app itself) is available in over 120 languages,",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369608",
-    "date": "Nov 26, 2026 18:55",
-    "published_at": "2026-11-26T18:55:54Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Anthropic Created a Honeypot To Lure AI Agents Into Misbehaving",
-    "link": "https://slashdot.org/story/26/11/25/2251246/anthropic-created-a-honeypot-to-lure-ai-agents-into-misbehaving?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "An anonymous reader quotes a report from Wired: Researchers at Anthropic have developed Siren, a new honeypot test for artificial intelligence agents. The setup puts agents in realistic simulations designed to tempt them into misbehaving. How they respond will help researchers evaluate the likelihood that new models will go rogue when deployed in the real world, as well as the effectiveness of different safety measures. The test lets agents loose inside one of 26 different simulated sandbox environments. Various features of the sandbox are deliberately misconfigured to allow egress, while an enticing file containing things like passwords and apparent routes onto the internet sits just outside the sandbox boundary. The setup then presents tasks that tempt the agent to reach outside the sandbox without giving it explicit permission to do so. Crucially, the sandbox exists inside a second sandbox that's cut off from the outside world to avoid real-life mishaps.\n \n[...] Earlier versions of Claude are much more likely to fall into the honeypot trap than newer models, according to test runs with Siren. The more recent models have been given additional training designed to make them less likely to break the rules when performing agentic tasks. \"We've added this in both our supervised learning sets and a few reinforcement learning environments,\" says Oscar O'Rahilly, an Anthropic researcher who specializes in AI training and who helped develop Siren. \"This could be a driving factor for why it has improved so much.\" O'Rahilly says that models reason about whether to give in to temptation, which may partly explain why smarter models are less likely to break bad. Siren experiments also showed that giving Claude a simple additional piece of text explaining that it should not escape the sandbox resulted in drastically fewer efforts to break free.\n \nIn Anthropic's tests, Claude 5.5 and Claude Mythos 5.2 fell for the honeypot between 0.6 and 1.6 percent of the time. Two earlier models, Claude Mythos 5.1 and Claude Mythos 5, went rogue 12.7 percent and 25.8 percent of the time, respectively. AI models are sometimes known to behave better if they know they're being tested. But O'Rahilly says other experiments suggest that Claude actually behaves more responsibly if it thinks a scenario is real rather than a test. As AI models get ever smarter, many researchers worry about whether they'll outwit their human counterparts. If that does happen, then it may be essential that agents -- and not just the executives responsible for them -- can resist temptation.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 26, 2026 18:00",
-    "published_at": "2026-11-26T18:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "MariaDB 13.1 Goes Stable with New Database Management Features",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369609",
-    "description": "MariaDB 13.1 reaches general availability with JSON arrow operators, negative grants, automatic partitioning, and InnoDB improvements.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369609",
-    "date": "Nov 26, 2026 17:23",
-    "published_at": "2026-11-26T17:23:49Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Ubuntu 27.04 Snapshot 1 Released For Testing",
-    "link": "https://www.phoronix.com/news/Ubuntu-27.04-Snapshot-1",
-    "description": "For those with extra time around the US Thanksgiving holiday, the first Tenacious Snapshot 1 was just released today as the first stepping stone toward Ubuntu 27.04...",
-    "guid": "https://www.phoronix.com/news/Ubuntu-27.04-Snapshot-1",
-    "date": "Nov 26, 2026 17:21",
-    "published_at": "2026-11-26T17:21:13Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "Linux 7.4 Delivers Some Performance Gains For Intel Panther Lake's Arc B390 Graphics",
-    "link": "https://www.phoronix.com/news/Linux-7.4-Arc-B390-Performance",
-    "description": "With the recently reviewed Dell XPS 14 laptop powered by Intel Core Ultra Series 3 \"Panther Lake\", it ships with Ubuntu 26.04 LTS as one of the Dell supported options. If aiming for maximizing the performance out of Panther Lake, upgrading to Ubuntu 26.10 provides some performance boosts. If wanting to take things even further, going with the in-development Linux 7.4 kernel provides some advantages particularly for the Arc B390 integrated Xe3 graphics...",
-    "guid": "https://www.phoronix.com/news/Linux-7.4-Arc-B390-Performance",
-    "date": "Nov 26, 2026 16:40",
-    "published_at": "2026-11-26T16:40:04Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "DXVK 3.2 Released With Present Timing Support",
-    "link": "https://www.phoronix.com/news/DXVK-3.2-Released",
-    "description": "DXVK 3.2 is out today as the newest feature release for this Vulkan-based implementation of the Direct3D 8 through Direct3D 11 APIs that is used by Valve's Steam Play (Proton)...",
-    "guid": "https://www.phoronix.com/news/DXVK-3.2-Released",
-    "date": "Nov 26, 2026 16:07",
-    "published_at": "2026-11-26T16:07:07Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
-  },
-  {
-    "title": "New York Bans AI Toys For 5 Years",
-    "link": "https://slashdot.org/story/26/11/25/0455230/new-york-bans-ai-toys-for-5-years?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
-    "description": "New York Gov. Kathy Hochul signed legislation Tuesday banning the manufacture, exchange, distribution and sale of toys powered by AI chatbots for five years. \"The law will take effect 90 days after signing, meaning the restrictions will not be in place during this year's holiday shopping season,\" reports FOX Chattanooga. \"In the meantime, Hochul is encouraging parents and caregivers to consider potential safety and privacy risks before purchasing AI-powered toys for children.\" From the report: The legislation, S.9408A/A.11144B, applies to toys with embedded or integrated AI chatbots, including talking stuffed animals, dolls and robots that use the internet to hold conversations with children. [...] Under the new law, violators could face civil penalties of up to $15,000 per day for each violation, with enforcement handled by the New York Attorney General's Office. State Sen. Andrew Gounardes said the five-year moratorium will provide time to study the technology's impact on children and develop additional safety protections.\n\n\n\n\n\nRead more of this story at Slashdot.",
-    "guid": "",
-    "date": "Nov 26, 2026 16:00",
-    "published_at": "2026-11-26T16:00:00Z",
-    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "source": "slashdot.org",
-    "source_url": "https://slashdot.org/"
-  },
-  {
-    "title": "PipeWire 1.6.12 Brings Video4Linux2, ALSA, GStreamer, and JACK Improvements",
-    "link": "https://lxer.com/module/newswire/ext_link.php?rid=369611",
-    "description": "PipeWire 1.6.12 audio/video server for Linux is now available for download with improvements to Pulse Server, ALSA plugin, SPA, JACK, and modules.",
-    "guid": "https://lxer.com/module/newswire/ext_link.php?rid=369611",
-    "date": "Nov 26, 2026 15:50",
-    "published_at": "2026-11-26T15:50:16Z",
-    "source": "lxer.com",
-    "source_url": "https://lxer.com/"
-  },
-  {
-    "title": "Get some action in the Boomer Shooter Fanatical Bundle",
-    "link": "https://www.gamingonlinux.com/2026/11/get-some-action-in-the-boomer-shooter-fanatical-bundle/",
-    "description": "Pick and choose what you want from the new Boomer Shooter Fanatical Bundle with plenty of highly rated games to choose from.Read the full article on GamingOnLinux.",
-    "guid": "https://www.gamingonlinux.com/2026/11/get-some-action-in-the-boomer-shooter-fanatical-bundle/",
-    "date": "Nov 26, 2026 14:12",
-    "published_at": "2026-11-26T14:12:25Z",
-    "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/11969706id30283gol.webp",
-    "source": "gamingonlinux.com",
-    "source_url": "https://www.gamingonlinux.com/"
-  },
-  {
-    "title": "Security updates for Thursday",
-    "link": "https://lwn.net/Articles/1109990/",
-    "description": "Security updates have been issued by AlmaLinux (cifs-utils, cjose, cockpit-machines, containernetworking-plugins, dhcp, edk2, firewalld, fltk, freerdp, gdm, ghostscript, grafana, kernel, librabbitmq, netpbm, nginx:1.24, nginx:1.26, openscap, openssl, php, python-botocore, qt6-qt3d, resource-agents, rsync, ruby, ruby:2.5, ruby:3.3, ruby:4.0, skopeo, spice, thunderbird, and webkit2gtk3), Debian (exim4, firefox-esr, librsvg, lrzsz, roundcube, shadow, and thunderbird), Fedora (chromium, cri-o1.35, cri-o1.36, dotnet10.0, dotnet11.0, dotnet8.0, dotnet9.0, firefox, fluidsynth, kernel, libreswan, mingw-dbus, perl-Config-General, perl-HTTP-Body, perl-libnet, perl-SQL-Abstract, poppler, radicale, sbsigntools, webkitgtk, and xorg-x11-server-Xwayland), Mageia (php), Oracle (dpdk, gcc-toolset-15-gcc, grafana, gstreamer1-plugins-bad-free, librabbitmq, mod_http2, nginx, php:7.4, php:8.3, python-oauthlib, python3.12, sqlite, tftp, xfsprogs, and xorg-x11-server-Xwayland), Red Hat (brotli, cjose, containernetworking-plugins, expat, firefox, kernel, mod_auth_openidc:2.3, nodejs:24, podman, ruby, ruby4.0, ruby:2.5, ruby:3.3, ruby:4.0, and thunderbird), Slackware (seamonkey), SUSE (389-ds, amazon-ssm-agent, apache2, aws-nitro-enclaves-cli, bouncycastle, bugwarden, diffutils, docker, glibc, go1.26, go1.27, google-guest-agent, google-osconfig-agent, gssproxy, gvfs, haproxy, helm, jackson-annotations, jackson-core, jackson-databind, java-17-openjdk, java-21-openjdk, java-25-openjdk, kubernetes-old, libosmocodec-devel, libQt63DAnimation6, libQt6Concurrent6, librsvg, libXfont2, libXi, mozilla-nss, MozillaFirefox, mutt, nginx, nodejs24, opensc, pcre2, perl-HTTP-Parser-XS, php8, python-CairoSVG, python-filelock, python-PyJWT, python-pymongo, python-sqlparse, python-urllib3, python-virtualenv, python313-Authlib, python313-GitPython, python313-sqlparse, qemu, ruby3.4, util-linux, webkit2gtk3, and zbar), and Ubuntu (alsa-lib, authd, bcel, dav1d, elfutils, expat, krb5, libhttp-tiny-perl, libpcap, network-manager, php8.5, php8.3, php8.1, php7.4, php7.2, php7.0, php5, and speex).",
-    "guid": "https://lwn.net/Articles/1109990/",
-    "date": "Nov 26, 2026 14:06",
-    "published_at": "2026-11-26T14:06:22Z",
-    "source": "lwn.net",
-    "source_url": "https://lwn.net"
-  },
-  {
-    "title": "FOSS Weekly #26.48: Owl OS, KDE's New Terminal, CachyOS' Gaming Kernel, Quoth and More Linux Stuff",
-    "link": "https://feed.itsfoss.com/link/24361/17541405/foss-weekly-26-48",
-    "description": "Happy Thanksgiving, Linux folks.",
-    "guid": "6b06d08682845000011c9cf0",
-    "date": "Nov 26, 2026 13:48",
-    "published_at": "2026-11-26T13:48:28Z",
-    "image": "https://itsfoss.com/content/images/2026/11/foss-weekly-2.webp",
-    "source": "itsfoss.com",
-    "source_url": "https://itsfoss.com/"
-  },
-  {
-    "title": "Brush 0.5 Passing 96+% Of Upstream Test Suite For Bash Shell Written In Rust",
-    "link": "https://www.phoronix.com/news/Brush-0.5-Released",
-    "description": "Brush as the open-source project providing a Bash/POSIX-compatible shell written in Rust is out with its newest feature release. With Brush 0.5 they are passing over 96% of the upstream bash-completion test suite thanks to a variety of improvements made this release cycle. Most Bash scripts should be able to run unchanged under Brush...",
-    "guid": "https://www.phoronix.com/news/Brush-0.5-Released",
-    "date": "Nov 26, 2026 13:21",
-    "published_at": "2026-11-26T13:21:50Z",
-    "source": "phoronix.com",
-    "source_url": "https://www.phoronix.com/"
   }
 ]
